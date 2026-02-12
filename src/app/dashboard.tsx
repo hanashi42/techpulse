@@ -12,11 +12,11 @@ const CATEGORIES: { key: Category | "all"; label: string }[] = [
   { key: "product", label: "Products" },
 ];
 
-const SOURCE_STYLES: Record<Source, { label: string; color: string; bg: string }> = {
-  hackernews: { label: "HN", color: "text-hn", bg: "bg-hn/10" },
-  github: { label: "GH", color: "text-gh", bg: "bg-gh/10" },
-  reddit: { label: "RD", color: "text-reddit", bg: "bg-reddit/10" },
-  producthunt: { label: "PH", color: "text-ph", bg: "bg-ph/10" },
+const SOURCE_META: Record<Source, { label: string; fullName: string; dot: string }> = {
+  hackernews: { label: "HN", fullName: "Hacker News", dot: "bg-hn" },
+  github: { label: "GH", fullName: "GitHub Trending", dot: "bg-gh" },
+  reddit: { label: "RD", fullName: "Reddit", dot: "bg-reddit" },
+  producthunt: { label: "PH", fullName: "Product Hunt", dot: "bg-ph" },
 };
 
 function formatScore(n: number): string {
@@ -25,7 +25,7 @@ function formatScore(n: number): string {
 }
 
 function NewsCard({ item }: { item: NewsItem }) {
-  const style = SOURCE_STYLES[item.source];
+  const meta = SOURCE_META[item.source];
 
   return (
     <a
@@ -36,10 +36,9 @@ function NewsCard({ item }: { item: NewsItem }) {
     >
       <div className="flex items-start gap-3">
         <span
-          className={`shrink-0 mt-0.5 inline-flex items-center rounded-md px-2 py-0.5 text-xs font-bold ${style.color} ${style.bg}`}
-        >
-          {style.label}
-        </span>
+          className={`shrink-0 mt-1.5 h-2.5 w-2.5 rounded-full ${meta.dot}`}
+          title={meta.fullName}
+        />
         <div className="min-w-0 flex-1">
           <h3 className="text-sm font-medium leading-snug text-foreground group-hover:text-accent">
             {item.title}
@@ -146,15 +145,15 @@ export default function Dashboard({
         </div>
 
         {/* Source stats */}
-        <div className="mt-4 flex gap-3 text-xs text-muted">
+        <div className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-xs text-muted">
           {(["hackernews", "github", "reddit", "producthunt"] as Source[]).map((s) => {
             const count = sourceCount(s);
             if (count === 0) return null;
-            const st = SOURCE_STYLES[s];
+            const meta = SOURCE_META[s];
             return (
-              <span key={s} className="flex items-center gap-1">
-                <span className={`font-bold ${st.color}`}>{st.label}</span>
-                {count}
+              <span key={s} className="flex items-center gap-1.5">
+                <span className={`h-2 w-2 rounded-full ${meta.dot}`} />
+                {meta.fullName} {count}
               </span>
             );
           })}
