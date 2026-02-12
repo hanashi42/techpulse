@@ -1,4 +1,4 @@
-import { writeFileSync, mkdirSync } from "fs";
+import { writeFileSync, readFileSync, existsSync, mkdirSync } from "fs";
 import { join } from "path";
 import { fetchHackerNews } from "../src/lib/sources/hackernews";
 import { fetchGitHubTrending } from "../src/lib/sources/github";
@@ -33,6 +33,22 @@ async function main() {
     r.status === "fulfilled" ? r.value : []
   );
 
+  // Merge with existing data (preserves items from sources that failed this run)
+  const dataDir = join(process.cwd(), "data");
+  mkdirSync(dataDir, { recursive: true });
+  const filePath = join(dataDir, `${date}.json`);
+
+  if (existsSync(filePath)) {
+    try {
+      const existing: DailyData = JSON.parse(readFileSync(filePath, "utf-8"));
+      // Keep old items whose source didn't return anything new
+      const newSources = new Set(items.map((i) => i.source));
+      const kept = existing.items.filter((i) => !newSources.has(i.source));
+      items.push(...kept);
+      console.log(`  Merged ${kept.length} existing items from sources that returned 0`);
+    } catch {}
+  }
+
   // Deduplicate by URL
   const seen = new Set<string>();
   const deduped = items.filter((item) => {
@@ -45,11 +61,6 @@ async function main() {
   deduped.sort((a, b) => b.score - a.score);
 
   const data: DailyData = { date, items: deduped };
-
-  const dataDir = join(process.cwd(), "data");
-  mkdirSync(dataDir, { recursive: true });
-
-  const filePath = join(dataDir, `${date}.json`);
   writeFileSync(filePath, JSON.stringify(data, null, 2));
   console.log(`\nWrote ${deduped.length} items to ${filePath}`);
 }
