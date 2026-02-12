@@ -32,7 +32,7 @@ function NewsCard({ item }: { item: NewsItem }) {
       href={item.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="group block rounded-xl border border-border bg-card p-4 hover:bg-card-hover hover:border-accent-dim/30"
+      className="group block rounded-xl border border-border bg-card p-4 shadow-sm hover:shadow-md hover:border-accent/30"
     >
       <div className="flex items-start gap-3">
         <span
@@ -163,7 +163,7 @@ export default function Dashboard({
       </header>
 
       {/* Category tabs */}
-      <nav className="mb-6 flex gap-1 rounded-xl bg-card p-1">
+      <nav className="mb-6 flex gap-1 rounded-xl border border-border bg-card p-1">
         {CATEGORIES.map((cat) => {
           const count =
             cat.key === "all"
