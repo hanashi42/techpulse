@@ -1,0 +1,60 @@
+import { writeFileSync, mkdirSync } from "fs";
+import { join } from "path";
+import { fetchHackerNews } from "../src/lib/sources/hackernews";
+import { fetchGitHubTrending } from "../src/lib/sources/github";
+import { fetchReddit } from "../src/lib/sources/reddit";
+import { fetchProductHunt } from "../src/lib/sources/producthunt";
+import type { DailyData, NewsItem } from "../src/lib/types";
+
+async function main() {
+  const date = new Date().toISOString().split("T")[0];
+  console.log(`Fetching news for ${date}...`);
+
+  const results = await Promise.allSettled([
+    fetchHackerNews().then((items) => {
+      console.log(`  HN: ${items.length} items`);
+      return items;
+    }),
+    fetchGitHubTrending().then((items) => {
+      console.log(`  GitHub: ${items.length} items`);
+      return items;
+    }),
+    fetchReddit().then((items) => {
+      console.log(`  Reddit: ${items.length} items`);
+      return items;
+    }),
+    fetchProductHunt().then((items) => {
+      console.log(`  PH: ${items.length} items`);
+      return items;
+    }),
+  ]);
+
+  const items: NewsItem[] = results.flatMap((r) =>
+    r.status === "fulfilled" ? r.value : []
+  );
+
+  // Deduplicate by URL
+  const seen = new Set<string>();
+  const deduped = items.filter((item) => {
+    if (seen.has(item.url)) return false;
+    seen.add(item.url);
+    return true;
+  });
+
+  // Sort by score descending
+  deduped.sort((a, b) => b.score - a.score);
+
+  const data: DailyData = { date, items: deduped };
+
+  const dataDir = join(process.cwd(), "data");
+  mkdirSync(dataDir, { recursive: true });
+
+  const filePath = join(dataDir, `${date}.json`);
+  writeFileSync(filePath, JSON.stringify(data, null, 2));
+  console.log(`\nWrote ${deduped.length} items to ${filePath}`);
+}
+
+main().catch((err) => {
+  console.error("Fatal error:", err);
+  process.exit(1);
+});

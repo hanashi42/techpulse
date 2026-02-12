@@ -1,0 +1,598 @@
+{
+  "date": "2026-02-12",
+  "items": [
+    {
+      "id": "reddit-1qfp2t0",
+      "source": "reddit",
+      "title": "MOD ANNOUNCEMENT: Introducing Vibe Code Friday",
+      "url": "https://reddit.com/r/selfhosted/comments/1qfp2t0/mod_announcement_introducing_vibe_code_friday/",
+      "score": 2044,
+      "comments": 267,
+      "commentsUrl": "https://reddit.com/r/selfhosted/comments/1qfp2t0/mod_announcement_introducing_vibe_code_friday/",
+      "category": "ai",
+      "description": "The recent influx of AI has lowered the barrier to entry to create your own projects. This development in itself is very interesting and we're curious to see how it'll change our world of SelfHosting ",
+      "extra": {
+        "subreddit": "selfhosted"
+      },
+      "fetchedAt": "2026-02-12T05:45:34.529Z"
+    },
+    {
+      "id": "reddit-bsp01i",
+      "source": "reddit",
+      "title": "Welcome to /r/SelfHosted! Please Read This First",
+      "url": "https://reddit.com/r/selfhosted/comments/bsp01i/welcome_to_rselfhosted_please_read_this_first/",
+      "score": 1951,
+      "comments": 181,
+      "commentsUrl": "https://reddit.com/r/selfhosted/comments/bsp01i/welcome_to_rselfhosted_please_read_this_first/",
+      "category": "tools",
+      "description": "#Welcome to /r/selfhosted!\n\nWe thank you for taking the time to check out the subreddit here! \n\n##Self-Hosting\n\nThe concept in which you host your own applications, data, and more. Taking away the \"un",
+      "extra": {
+        "subreddit": "selfhosted"
+      },
+      "fetchedAt": "2026-02-12T05:45:34.529Z"
+    },
+    {
+      "id": "gh-1151411061",
+      "source": "github",
+      "title": "op7418/CodePilot: A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
+      "url": "https://github.com/op7418/CodePilot",
+      "score": 1731,
+      "category": "ai",
+      "description": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1731,
+        "forks": 181
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1151972675",
+      "source": "github",
+      "title": "The-Vibe-Company/companion: Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile",
+      "url": "https://github.com/The-Vibe-Company/companion",
+      "score": 1702,
+      "category": "product",
+      "description": "Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1702,
+        "forks": 212
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1153093670",
+      "source": "github",
+      "title": "hesamsheikh/awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier.",
+      "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+      "score": 1573,
+      "category": "tools",
+      "description": "A community collection of OpenClaw use cases for making life easier.",
+      "extra": {
+        "language": "Unknown",
+        "stars": 1573,
+        "forks": 107
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1152654395",
+      "source": "github",
+      "title": "ComposioHQ/secure-openclaw: A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude wi",
+      "url": "https://github.com/ComposioHQ/secure-openclaw",
+      "score": 1105,
+      "category": "product",
+      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+      "extra": {
+        "language": "JavaScript",
+        "stars": 1105,
+        "forks": 191
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1152614211",
+      "source": "github",
+      "title": "SumeLabs/clawra: Clawra - Openclaw as your girlfriend",
+      "url": "https://github.com/SumeLabs/clawra",
+      "score": 1081,
+      "category": "tools",
+      "description": "Clawra - Openclaw as your girlfriend",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1081,
+        "forks": 193
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1152691112",
+      "source": "github",
+      "title": "f/textream: Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
+      "url": "https://github.com/f/textream",
+      "score": 1064,
+      "category": "product",
+      "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
+      "extra": {
+        "language": "Swift",
+        "stars": 1064,
+        "forks": 68
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "reddit-1r26zsg",
+      "source": "reddit",
+      "title": "Z.ai said they are GPU starved, openly.",
+      "url": "https://i.redd.it/kjy1wqzt2xig1.jpeg",
+      "score": 980,
+      "comments": 167,
+      "commentsUrl": "https://reddit.com/r/LocalLLaMA/comments/1r26zsg/zai_said_they_are_gpu_starved_openly/",
+      "category": "tools",
+      "extra": {
+        "subreddit": "LocalLLaMA"
+      },
+      "fetchedAt": "2026-02-12T05:45:34.529Z"
+    },
+    {
+      "id": "reddit-1r1dmb5",
+      "source": "reddit",
+      "title": "bye bye data",
+      "url": "https://reddit.com/r/selfhosted/comments/1r1dmb5/bye_bye_data/",
+      "score": 903,
+      "comments": 235,
+      "commentsUrl": "https://reddit.com/r/selfhosted/comments/1r1dmb5/bye_bye_data/",
+      "category": "product",
+      "description": "I returned home from work today, powered on the TV and loaded jellyfin, \"server not found\"  \nmissus mentioned a power outage today, so i checked on the server, no disks in truenas.  \nI swapped the HBA",
+      "extra": {
+        "subreddit": "selfhosted"
+      },
+      "fetchedAt": "2026-02-12T05:45:34.529Z"
+    },
+    {
+      "id": "hn-46978710",
+      "source": "hackernews",
+      "title": "Claude Code is being dumbed down?",
+      "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+      "score": 837,
+      "comments": 551,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46978710",
+      "category": "ai",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "gh-1153146773",
+      "source": "github",
+      "title": "jlia0/tinyclaw: TinyClaw is a team of AI agents that acts as your 24/7 personal assistant",
+      "url": "https://github.com/jlia0/tinyclaw",
+      "score": 836,
+      "category": "ai",
+      "description": "TinyClaw is a team of AI agents that acts as your 24/7 personal assistant",
+      "extra": {
+        "language": "Shell",
+        "stars": 836,
+        "forks": 114
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1152833832",
+      "source": "github",
+      "title": "TheAgentContextLab/OneContext:  OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
+      "url": "https://github.com/TheAgentContextLab/OneContext",
+      "score": 816,
+      "category": "ai",
+      "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
+      "extra": {
+        "language": "Unknown",
+        "stars": 816,
+        "forks": 53
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1151130619",
+      "source": "github",
+      "title": "sseanliu/VisionClaw: Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
+      "url": "https://github.com/sseanliu/VisionClaw",
+      "score": 800,
+      "category": "ai",
+      "description": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw",
+      "extra": {
+        "language": "Unknown",
+        "stars": 800,
+        "forks": 139
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "reddit-1r1wjch",
+      "source": "reddit",
+      "title": "I used to think dashboards were dumb.",
+      "url": "https://i.redd.it/mtke755z3vig1.png",
+      "score": 770,
+      "comments": 128,
+      "commentsUrl": "https://reddit.com/r/selfhosted/comments/1r1wjch/i_used_to_think_dashboards_were_dumb/",
+      "category": "product",
+      "description": "Then I redesigned one to fit my needs. Now my wife has her own dashboard with only her apps and can see if they are offline. As a bonus, I can too!\n\n",
+      "extra": {
+        "subreddit": "selfhosted"
+      },
+      "fetchedAt": "2026-02-12T05:45:34.529Z"
+    },
+    {
+      "id": "gh-1152229409",
+      "source": "github",
+      "title": "trumpet-noek/sora2-free-watermark-remover: sora2 free watermark remover",
+      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
+      "score": 706,
+      "category": "ai",
+      "description": "sora2 free watermark remover",
+      "extra": {
+        "language": "Python",
+        "stars": 706,
+        "forks": 21
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1152157239",
+      "source": "github",
+      "title": "tw93/Kaku: 🎃 A fast, out-of-the-box terminal built for AI coding.",
+      "url": "https://github.com/tw93/Kaku",
+      "score": 686,
+      "category": "tools",
+      "description": "🎃 A fast, out-of-the-box terminal built for AI coding.",
+      "extra": {
+        "language": "Rust",
+        "stars": 686,
+        "forks": 29
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1152231621",
+      "source": "github",
+      "title": "uqogihujomuwhiff/sora2-watermark-cleaner-pro: sora2 watermark cleaner pro",
+      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+      "score": 677,
+      "category": "ai",
+      "description": "sora2 watermark cleaner pro",
+      "extra": {
+        "language": "Python",
+        "stars": 677,
+        "forks": 38
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1154626321",
+      "source": "github",
+      "title": "promptpirate-x/discord-id-bypass-tool: A verified tool that works on any potato computer that will let you bypass discord verification",
+      "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
+      "score": 673,
+      "category": "tools",
+      "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
+      "extra": {
+        "language": "HTML",
+        "stars": 673,
+        "forks": 34
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1151113612",
+      "source": "github",
+      "title": "google-gemini/gemini-skills: Skills for the Gemini API, SDK and model/agent interactions",
+      "url": "https://github.com/google-gemini/gemini-skills",
+      "score": 659,
+      "category": "ai",
+      "description": "Skills for the Gemini API, SDK and model/agent interactions",
+      "extra": {
+        "language": "Unknown",
+        "stars": 659,
+        "forks": 42
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "gh-1152574482",
+      "source": "github",
+      "title": "rohunvora/x-research-skill: X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
+      "url": "https://github.com/rohunvora/x-research-skill",
+      "score": 651,
+      "category": "ai",
+      "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 651,
+        "forks": 80
+      },
+      "fetchedAt": "2026-02-12T05:45:35.210Z"
+    },
+    {
+      "id": "reddit-1r22hlq",
+      "source": "reddit",
+      "title": "GLM-5 Officially Released",
+      "url": "https://www.reddit.com/gallery/1r22hlq",
+      "score": 643,
+      "comments": 132,
+      "commentsUrl": "https://reddit.com/r/LocalLLaMA/comments/1r22hlq/glm5_officially_released/",
+      "category": "ai",
+      "description": "We are launching GLM-5, targeting complex systems engineering and long-horizon agentic tasks. Scaling is still one of the most important ways to improve the intelligence efficiency of Artificial Gener",
+      "extra": {
+        "subreddit": "LocalLLaMA"
+      },
+      "fetchedAt": "2026-02-12T05:45:34.529Z"
+    },
+    {
+      "id": "reddit-1r1wl6x",
+      "source": "reddit",
+      "title": "GLM 5 Released",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1r1wl6x/glm_5_released/",
+      "score": 570,
+      "comments": 180,
+      "commentsUrl": "https://reddit.com/r/LocalLLaMA/comments/1r1wl6x/glm_5_released/",
+      "category": "tools",
+      "description": "[https://chat.z.ai/](https://chat.z.ai/)\n\nhttps://preview.redd.it/mvdnn18e4vig1.png?width=799&format=png&auto=webp&s=6324969f9d24fa0aeefbd5e8da2de3da0f5f948e\n\n",
+      "extra": {
+        "subreddit": "LocalLLaMA"
+      },
+      "fetchedAt": "2026-02-12T05:45:34.529Z"
+    },
+    {
+      "id": "hn-46982421",
+      "source": "hackernews",
+      "title": "Discord/Twitch/Snapchat age verification bypass",
+      "url": "https://age-verifier.kibty.town/",
+      "score": 558,
+      "comments": 229,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46982421",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46978966",
+      "source": "hackernews",
+      "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
+      "url": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
+      "score": 507,
+      "comments": 268,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46978966",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46976911",
+      "source": "hackernews",
+      "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
+      "url": "https://fluorite.game/",
+      "score": 441,
+      "comments": 253,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46976911",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "reddit-1r0tw3e",
+      "source": "reddit",
+      "title": "[D] Ph.D. from a top Europe university, 10 papers at NeurIPS/ICML, ECML— 0 Interviews Big tech",
+      "url": "https://reddit.com/r/MachineLearning/comments/1r0tw3e/d_phd_from_a_top_europe_university_10_papers_at/",
+      "score": 417,
+      "comments": 132,
+      "commentsUrl": "https://reddit.com/r/MachineLearning/comments/1r0tw3e/d_phd_from_a_top_europe_university_10_papers_at/",
+      "category": "tools",
+      "description": "I just wrapped up my CS Ph.D on anomaly detection. Here's my profile in a nutshell:\n\nResearch: 8 publications, 5 first-author at top ML venues (ICML, NeurIPS, ECML).\n\n2 A\\* ICML, NeurIPS (both first a",
+      "extra": {
+        "subreddit": "MachineLearning"
+      },
+      "fetchedAt": "2026-02-12T05:45:34.529Z"
+    },
+    {
+      "id": "reddit-1r28xxz",
+      "source": "reddit",
+      "title": "GLM-5 scores 50 on the Intelligence Index and is the new open weights leader!",
+      "url": "https://i.redd.it/gauvtw6qfxig1.jpeg",
+      "score": 350,
+      "comments": 83,
+      "commentsUrl": "https://reddit.com/r/LocalLLaMA/comments/1r28xxz/glm5_scores_50_on_the_intelligence_index_and_is/",
+      "category": "tools",
+      "extra": {
+        "subreddit": "LocalLLaMA"
+      },
+      "fetchedAt": "2026-02-12T05:45:34.529Z"
+    },
+    {
+      "id": "hn-46972610",
+      "source": "hackernews",
+      "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
+      "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+      "score": 348,
+      "comments": 548,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46972610",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46920315",
+      "source": "hackernews",
+      "title": "WiFi Could Become an Invisible Mass Surveillance System",
+      "url": "https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/",
+      "score": 331,
+      "comments": 157,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46920315",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "reddit-1r1j4lm",
+      "source": "reddit",
+      "title": "LubeLogger, Self-Hosted Vehicle Maintenance Tracker Has a Significant UI Update You Should Know About",
+      "url": "https://reddit.com/r/selfhosted/comments/1r1j4lm/lubelogger_selfhosted_vehicle_maintenance_tracker/",
+      "score": 329,
+      "comments": 58,
+      "commentsUrl": "https://reddit.com/r/selfhosted/comments/1r1j4lm/lubelogger_selfhosted_vehicle_maintenance_tracker/",
+      "category": "tools",
+      "description": "Hey all, us again, in this post we just want to update y'all about some key changes that were deployed since our last post here:\n\n## Equipment Tab\n\nYou can now track the amount of distance put on cert",
+      "extra": {
+        "subreddit": "selfhosted"
+      },
+      "fetchedAt": "2026-02-12T05:45:34.529Z"
+    },
+    {
+      "id": "hn-46974853",
+      "source": "hackernews",
+      "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+      "url": "https://z.ai/blog/glm-5",
+      "score": 323,
+      "comments": 420,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46974853",
+      "category": "ai",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46978490",
+      "source": "hackernews",
+      "title": "NetNewsWire Turns 23",
+      "url": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
+      "score": 261,
+      "comments": 58,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46978490",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46924075",
+      "source": "hackernews",
+      "title": "GLM-OCR – A multimodal OCR model for complex document understanding",
+      "url": "https://github.com/zai-org/GLM-OCR",
+      "score": 250,
+      "comments": 71,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46924075",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46982792",
+      "source": "hackernews",
+      "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
+      "score": 218,
+      "comments": 156,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46982792",
+      "category": "ai",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46977175",
+      "source": "hackernews",
+      "title": "Ireland rolls out basic income scheme for artists",
+      "url": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
+      "score": 207,
+      "comments": 211,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46977175",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46933529",
+      "source": "hackernews",
+      "title": "“Nothing” is the secret to structuring your work",
+      "url": "https://www.vangemert.dev/blog/nothing",
+      "score": 171,
+      "comments": 49,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46933529",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46942864",
+      "source": "hackernews",
+      "title": "Text classification with Python 3.14's ZSTD module",
+      "url": "https://maxhalford.github.io/blog/text-classification-zstd/",
+      "score": 160,
+      "comments": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46942864",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46921757",
+      "source": "hackernews",
+      "title": "Kanchipuram Saris and Thinking Machines",
+      "url": "https://altermag.com/articles/kanchipuram-saris-and-thinking-machines",
+      "score": 96,
+      "comments": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46921757",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46949814",
+      "source": "hackernews",
+      "title": "Using an engineering notebook",
+      "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
+      "score": 87,
+      "comments": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46949814",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46979936",
+      "source": "hackernews",
+      "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+      "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
+      "score": 85,
+      "comments": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46979936",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46980355",
+      "source": "hackernews",
+      "title": "Reports of Telnet's death have been greatly exaggerated",
+      "url": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
+      "score": 79,
+      "comments": 27,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46980355",
+      "category": "opensource",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46979781",
+      "source": "hackernews",
+      "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
+      "url": "https://github.com/adenhq/hive/blob/main/README.md",
+      "score": 76,
+      "comments": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46979781",
+      "category": "ai",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46981058",
+      "source": "hackernews",
+      "title": "Covering electricity price increases from our data centers",
+      "url": "https://www.anthropic.com/news/covering-electricity-price-increases",
+      "score": 68,
+      "comments": 29,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46981058",
+      "category": "tools",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    },
+    {
+      "id": "hn-46980039",
+      "source": "hackernews",
+      "title": "Apple's latest attempt to launch the new Siri runs into snags",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27",
+      "score": 60,
+      "comments": 65,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46980039",
+      "category": "product",
+      "fetchedAt": "2026-02-12T05:45:35.694Z"
+    }
+  ]
+}
