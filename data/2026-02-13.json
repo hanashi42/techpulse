@@ -1,0 +1,450 @@
+{
+  "date": "2026-02-13",
+  "items": [
+    {
+      "id": "gh-1153093670",
+      "source": "github",
+      "title": "hesamsheikh/awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier.",
+      "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+      "score": 1816,
+      "category": "tools",
+      "description": "A community collection of OpenClaw use cases for making life easier.",
+      "extra": {
+        "language": "Unknown",
+        "stars": 1816,
+        "forks": 129
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1151972675",
+      "source": "github",
+      "title": "The-Vibe-Company/companion: Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile",
+      "url": "https://github.com/The-Vibe-Company/companion",
+      "score": 1776,
+      "category": "product",
+      "description": "Open-source Claude Code / Codex Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1776,
+        "forks": 223
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "hn-46990729",
+      "source": "hackernews",
+      "title": "An AI agent published a hit piece on me",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+      "score": 1758,
+      "comments": 710,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46990729",
+      "category": "ai",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "gh-1152654395",
+      "source": "github",
+      "title": "ComposioHQ/secure-openclaw: A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude wi",
+      "url": "https://github.com/ComposioHQ/secure-openclaw",
+      "score": 1561,
+      "category": "product",
+      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+      "extra": {
+        "language": "JavaScript",
+        "stars": 1561,
+        "forks": 247
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1154009261",
+      "source": "github",
+      "title": "PeonPing/peon-ping: Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
+      "url": "https://github.com/PeonPing/peon-ping",
+      "score": 1548,
+      "category": "tools",
+      "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
+      "extra": {
+        "language": "Shell",
+        "stars": 1548,
+        "forks": 113
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1152614211",
+      "source": "github",
+      "title": "SumeLabs/clawra: Clawra - Openclaw as your girlfriend",
+      "url": "https://github.com/SumeLabs/clawra",
+      "score": 1242,
+      "category": "tools",
+      "description": "Clawra - Openclaw as your girlfriend",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1242,
+        "forks": 223
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1155639743",
+      "source": "github",
+      "title": "xyzeva/k-id-age-verifier: automatically verify your age on discord, twitch, kick, quora and more (k-id)",
+      "url": "https://github.com/xyzeva/k-id-age-verifier",
+      "score": 1178,
+      "category": "tools",
+      "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1178,
+        "forks": 39
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1152691112",
+      "source": "github",
+      "title": "f/textream: Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
+      "url": "https://github.com/f/textream",
+      "score": 1117,
+      "category": "product",
+      "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
+      "extra": {
+        "language": "Swift",
+        "stars": 1117,
+        "forks": 71
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1153146773",
+      "source": "github",
+      "title": "jlia0/tinyclaw: TinyClaw is a team of personal agents that collaborate with each other",
+      "url": "https://github.com/jlia0/tinyclaw",
+      "score": 972,
+      "category": "ai",
+      "description": "TinyClaw is a team of personal agents that collaborate with each other",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 972,
+        "forks": 130
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1154626321",
+      "source": "github",
+      "title": "promptpirate-x/discord-id-bypass-tool: A verified tool that works on any potato computer that will let you bypass discord verification",
+      "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
+      "score": 958,
+      "category": "tools",
+      "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
+      "extra": {
+        "language": "HTML",
+        "stars": 958,
+        "forks": 53
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1152157239",
+      "source": "github",
+      "title": "tw93/Kaku: 🎃 A fast, out-of-the-box terminal built for AI coding.",
+      "url": "https://github.com/tw93/Kaku",
+      "score": 904,
+      "category": "tools",
+      "description": "🎃 A fast, out-of-the-box terminal built for AI coding.",
+      "extra": {
+        "language": "Rust",
+        "stars": 904,
+        "forks": 38
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1152833832",
+      "source": "github",
+      "title": "TheAgentContextLab/OneContext:  OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
+      "url": "https://github.com/TheAgentContextLab/OneContext",
+      "score": 838,
+      "category": "ai",
+      "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
+      "extra": {
+        "language": "Unknown",
+        "stars": 838,
+        "forks": 54
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "hn-46991240",
+      "source": "hackernews",
+      "title": "Gemini 3 Deep Think",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "score": 832,
+      "comments": 531,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46991240",
+      "category": "ai",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "gh-1152969678",
+      "source": "github",
+      "title": "Veirt/weathr: a terminal weather app with ascii animation",
+      "url": "https://github.com/Veirt/weathr",
+      "score": 765,
+      "category": "tools",
+      "description": "a terminal weather app with ascii animation",
+      "extra": {
+        "language": "Rust",
+        "stars": 765,
+        "forks": 24
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "hn-46992553",
+      "source": "hackernews",
+      "title": "GPT‑5.3‑Codex‑Spark",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "score": 714,
+      "comments": 294,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46992553",
+      "category": "ai",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "gh-1152229409",
+      "source": "github",
+      "title": "trumpet-noek/sora2-free-watermark-remover: sora2 free watermark remover",
+      "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
+      "score": 708,
+      "category": "ai",
+      "description": "sora2 free watermark remover",
+      "extra": {
+        "language": "Python",
+        "stars": 708,
+        "forks": 21
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1152574482",
+      "source": "github",
+      "title": "rohunvora/x-research-skill: X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
+      "url": "https://github.com/rohunvora/x-research-skill",
+      "score": 706,
+      "category": "ai",
+      "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 706,
+        "forks": 83
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "gh-1152231621",
+      "source": "github",
+      "title": "uqogihujomuwhiff/sora2-watermark-cleaner-pro: sora2 watermark cleaner pro",
+      "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+      "score": 678,
+      "category": "ai",
+      "description": "sora2 watermark cleaner pro",
+      "extra": {
+        "language": "Python",
+        "stars": 678,
+        "forks": 38
+      },
+      "fetchedAt": "2026-02-13T08:50:47.379Z"
+    },
+    {
+      "id": "hn-46988596",
+      "source": "hackernews",
+      "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+      "url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+      "score": 659,
+      "comments": 251,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46988596",
+      "category": "ai",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46989217",
+      "source": "hackernews",
+      "title": "Major European payment processor can't send email to Google Workspace users",
+      "url": "https://atha.io/blog/2026-02-12-viva",
+      "score": 508,
+      "comments": 350,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46989217",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46997008",
+      "source": "hackernews",
+      "title": "Resizing windows on macOS Tahoe – the saga continues",
+      "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+      "score": 500,
+      "comments": 220,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46997008",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46996999",
+      "source": "hackernews",
+      "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
+      "url": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
+      "score": 387,
+      "comments": 204,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46996999",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46997519",
+      "source": "hackernews",
+      "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+      "url": "https://skipthe.tips/",
+      "score": 294,
+      "comments": 184,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46997519",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46992815",
+      "source": "hackernews",
+      "title": "Polis: Open-source platform for large-scale civic deliberation",
+      "url": "https://pol.is/home2",
+      "score": 243,
+      "comments": 87,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46992815",
+      "category": "opensource",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46988438",
+      "source": "hackernews",
+      "title": "Apache Arrow is 10 years old",
+      "url": "https://arrow.apache.org/blog/2026/02/12/arrow-anniversary/",
+      "score": 216,
+      "comments": 61,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46988438",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46990578",
+      "source": "hackernews",
+      "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
+      "url": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
+      "score": 204,
+      "comments": 217,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46990578",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46997133",
+      "source": "hackernews",
+      "title": "AWS Adds support for nested virtualization",
+      "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+      "score": 189,
+      "comments": 67,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46997133",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46996490",
+      "source": "hackernews",
+      "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
+      "url": "https://news.ycombinator.com/item?id=46996490",
+      "score": 183,
+      "comments": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46996490",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46934513",
+      "source": "hackernews",
+      "title": "My Grandma Was a Fed – Lessons from Digitizing Hours of Childhood",
+      "url": "https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood/",
+      "score": 126,
+      "comments": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46934513",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46991591",
+      "source": "hackernews",
+      "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
+      "url": "https://news.ycombinator.com/item?id=46991591",
+      "score": 115,
+      "comments": 136,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46991591",
+      "category": "ai",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46999545",
+      "source": "hackernews",
+      "title": "Ring owners are returning their cameras",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
+      "score": 85,
+      "comments": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46999545",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46996569",
+      "source": "hackernews",
+      "title": "Recoverable and Irrecoverable Decisions",
+      "url": "https://herbertlui.net/recoverable-and-irrecoverable-decisions/",
+      "score": 61,
+      "comments": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46996569",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46924818",
+      "source": "hackernews",
+      "title": "Japan's Dododo Land, the most irritating place on Earth",
+      "url": "https://soranews24.com/2026/02/07/take-a-trip-to-japans-dododo-land-the-most-irritating-place-on-earth/",
+      "score": 60,
+      "comments": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46924818",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46999224",
+      "source": "hackernews",
+      "title": "MMAcevedo aka Lena by qntm",
+      "url": "https://qntm.org/mmacevedo",
+      "score": 58,
+      "comments": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46999224",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    },
+    {
+      "id": "hn-46965968",
+      "source": "hackernews",
+      "title": "Show HN: Sol LeWitt-style instruction-based drawings in the browser",
+      "url": "https://intervolz.com/sollewitt/",
+      "score": 53,
+      "comments": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46965968",
+      "category": "tools",
+      "fetchedAt": "2026-02-13T08:50:47.115Z"
+    }
+  ]
+}
