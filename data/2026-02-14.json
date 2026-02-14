@@ -1,0 +1,450 @@
+{
+  "date": "2026-02-14",
+  "items": [
+    {
+      "id": "gh-1153093670",
+      "source": "github",
+      "title": "hesamsheikh/awesome-openclaw-usecases: A community collection of OpenClaw use cases for making life easier.",
+      "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+      "score": 2200,
+      "category": "tools",
+      "description": "A community collection of OpenClaw use cases for making life easier.",
+      "extra": {
+        "language": "Unknown",
+        "stars": 2200,
+        "forks": 158
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1154009261",
+      "source": "github",
+      "title": "PeonPing/peon-ping: Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
+      "url": "https://github.com/PeonPing/peon-ping",
+      "score": 1929,
+      "category": "tools",
+      "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.",
+      "extra": {
+        "language": "Shell",
+        "stars": 1929,
+        "forks": 131
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1152654395",
+      "source": "github",
+      "title": "ComposioHQ/secure-openclaw: A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude wi",
+      "url": "https://github.com/ComposioHQ/secure-openclaw",
+      "score": 1499,
+      "category": "product",
+      "description": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps.",
+      "extra": {
+        "language": "JavaScript",
+        "stars": 1499,
+        "forks": 226
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "hn-47003064",
+      "source": "hackernews",
+      "title": "Fix the iOS keyboard before the timer hits zero or I'm switching back to Android",
+      "url": "https://ios-countdown.win/",
+      "score": 1431,
+      "comments": 703,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47003064",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "gh-1155639743",
+      "source": "github",
+      "title": "xyzeva/k-id-age-verifier: automatically verify your age on discord, twitch, kick, quora and more (k-id)",
+      "url": "https://github.com/xyzeva/k-id-age-verifier",
+      "score": 1428,
+      "category": "tools",
+      "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1428,
+        "forks": 55
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1152614211",
+      "source": "github",
+      "title": "SumeLabs/clawra: Clawra - Openclaw as your girlfriend",
+      "url": "https://github.com/SumeLabs/clawra",
+      "score": 1305,
+      "category": "tools",
+      "description": "Clawra - Openclaw as your girlfriend",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1305,
+        "forks": 236
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1153146773",
+      "source": "github",
+      "title": "jlia0/tinyclaw: TinyClaw is a team of personal agents that collaborate with each other",
+      "url": "https://github.com/jlia0/tinyclaw",
+      "score": 1244,
+      "category": "ai",
+      "description": "TinyClaw is a team of personal agents that collaborate with each other",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1244,
+        "forks": 167
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1152691112",
+      "source": "github",
+      "title": "f/textream: Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
+      "url": "https://github.com/f/textream",
+      "score": 1213,
+      "category": "product",
+      "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay.",
+      "extra": {
+        "language": "Swift",
+        "stars": 1213,
+        "forks": 74
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1154626321",
+      "source": "github",
+      "title": "promptpirate-x/discord-id-bypass-tool: A verified tool that works on any potato computer that will let you bypass discord verification",
+      "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
+      "score": 1044,
+      "category": "tools",
+      "description": "A verified tool that works on any potato computer that will let you bypass discord verification",
+      "extra": {
+        "language": "HTML",
+        "stars": 1044,
+        "forks": 59
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1152969678",
+      "source": "github",
+      "title": "Veirt/weathr: a terminal weather app with ascii animation",
+      "url": "https://github.com/Veirt/weathr",
+      "score": 906,
+      "category": "tools",
+      "description": "a terminal weather app with ascii animation",
+      "extra": {
+        "language": "Rust",
+        "stars": 906,
+        "forks": 30
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1152833832",
+      "source": "github",
+      "title": "TheAgentContextLab/OneContext:  OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
+      "url": "https://github.com/TheAgentContextLab/OneContext",
+      "score": 848,
+      "category": "ai",
+      "description": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. ",
+      "extra": {
+        "language": "Unknown",
+        "stars": 848,
+        "forks": 53
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1155791602",
+      "source": "github",
+      "title": "RevylAI/greenlight: Pre-submission compliance scanner for the Apple App Store",
+      "url": "https://github.com/RevylAI/greenlight",
+      "score": 779,
+      "category": "product",
+      "description": "Pre-submission compliance scanner for the Apple App Store",
+      "extra": {
+        "language": "Go",
+        "stars": 779,
+        "forks": 53
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "hn-47001871",
+      "source": "hackernews",
+      "title": "Monosketch",
+      "url": "https://monosketch.io/",
+      "score": 761,
+      "comments": 133,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47001871",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "gh-1152574482",
+      "source": "github",
+      "title": "rohunvora/x-research-skill: X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
+      "url": "https://github.com/rohunvora/x-research-skill",
+      "score": 727,
+      "category": "ai",
+      "description": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 727,
+        "forks": 83
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1153372704",
+      "source": "github",
+      "title": "zai-org/GLM-5: GLM-5: From Vibe Coding to Agentic Engineering",
+      "url": "https://github.com/zai-org/GLM-5",
+      "score": 704,
+      "category": "ai",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "extra": {
+        "language": "Unknown",
+        "stars": 704,
+        "forks": 64
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "hn-47007656",
+      "source": "hackernews",
+      "title": "The EU moves to kill infinite scrolling",
+      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+      "score": 540,
+      "comments": 544,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47007656",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-47006594",
+      "source": "hackernews",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "score": 462,
+      "comments": 319,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47006594",
+      "category": "ai",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "gh-1156437015",
+      "source": "github",
+      "title": "devops-interviews/devops-interviews: DevOps Interview Questions",
+      "url": "https://github.com/devops-interviews/devops-interviews",
+      "score": 412,
+      "category": "tools",
+      "description": "DevOps Interview Questions",
+      "extra": {
+        "language": "Unknown",
+        "stars": 412,
+        "forks": 60
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "gh-1154178809",
+      "source": "github",
+      "title": "rebornix/Agmente: iOS client for coding agents via ACP",
+      "url": "https://github.com/rebornix/Agmente",
+      "score": 404,
+      "category": "ai",
+      "description": "iOS client for coding agents via ACP",
+      "extra": {
+        "language": "Swift",
+        "stars": 404,
+        "forks": 33
+      },
+      "fetchedAt": "2026-02-14T08:38:05.911Z"
+    },
+    {
+      "id": "hn-47009949",
+      "source": "hackernews",
+      "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+      "score": 394,
+      "comments": 201,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47009949",
+      "category": "ai",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-46955311",
+      "source": "hackernews",
+      "title": "Gradient.horse",
+      "url": "https://gradient.horse",
+      "score": 239,
+      "comments": 49,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46955311",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-46954696",
+      "source": "hackernews",
+      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+      "url": "https://www.wallstreetraider.com/story.html",
+      "score": 224,
+      "comments": 64,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46954696",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-47005509",
+      "source": "hackernews",
+      "title": "Building a TUI is easy now",
+      "url": "https://hatchet.run/blog/tuis-are-easy-now",
+      "score": 213,
+      "comments": 152,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47005509",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-47000505",
+      "source": "hackernews",
+      "title": "Babylon 5 is now free to watch on YouTube",
+      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "score": 154,
+      "comments": 79,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47000505",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-47000164",
+      "source": "hackernews",
+      "title": "CSS-Doodle",
+      "url": "https://css-doodle.com/",
+      "score": 154,
+      "comments": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47000164",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-47008163",
+      "source": "hackernews",
+      "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+      "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+      "score": 149,
+      "comments": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47008163",
+      "category": "opensource",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-46930181",
+      "source": "hackernews",
+      "title": "Font Rendering from First Principles",
+      "url": "https://mccloskeybr.com/articles/font_rendering.html",
+      "score": 143,
+      "comments": 24,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46930181",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-46934860",
+      "source": "hackernews",
+      "title": "Advanced Aerial Robotics Made Simple",
+      "url": "https://www.drehmflight.com",
+      "score": 126,
+      "comments": 10,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46934860",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-46944430",
+      "source": "hackernews",
+      "title": "gRPC: From service definition to wire format",
+      "url": "https://kreya.app/blog/grpc-deep-dive/",
+      "score": 121,
+      "comments": 18,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46944430",
+      "category": "product",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-47001095",
+      "source": "hackernews",
+      "title": "WolfSSL sucks too, so now what?",
+      "url": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/",
+      "score": 111,
+      "comments": 90,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47001095",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-46983873",
+      "source": "hackernews",
+      "title": "Common Lisp Screenshots: today's CL applications in action",
+      "url": "http://www.lisp-screenshots.org",
+      "score": 97,
+      "comments": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46983873",
+      "category": "product",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-47010823",
+      "source": "hackernews",
+      "title": "NPMX – a fast, modern browser for the NPM registry",
+      "url": "https://npmx.dev",
+      "score": 85,
+      "comments": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47010823",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-47011567",
+      "source": "hackernews",
+      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+      "url": "https://github.com/mickamy/sql-tap",
+      "score": 80,
+      "comments": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47011567",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-47011602",
+      "source": "hackernews",
+      "title": "Backblaze Drive Stats for 2025",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+      "score": 55,
+      "comments": 7,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47011602",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    },
+    {
+      "id": "hn-46936671",
+      "source": "hackernews",
+      "title": "Understanding the Go Compiler: The Linker",
+      "url": "https://internals-for-interns.com/posts/the-go-linker/",
+      "score": 54,
+      "comments": 0,
+      "commentsUrl": "https://news.ycombinator.com/item?id=46936671",
+      "category": "tools",
+      "fetchedAt": "2026-02-14T08:38:05.840Z"
+    }
+  ]
+}
