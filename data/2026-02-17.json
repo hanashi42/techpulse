@@ -1,0 +1,450 @@
+{
+  "date": "2026-02-17",
+  "items": [
+    {
+      "id": "gh-1156956890",
+      "source": "github",
+      "title": "zeroclaw-labs/zeroclaw: Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
+      "url": "https://github.com/zeroclaw-labs/zeroclaw",
+      "score": 8163,
+      "category": "tools",
+      "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
+      "extra": {
+        "language": "Rust",
+        "stars": 8163,
+        "forks": 792
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1157656960",
+      "source": "github",
+      "title": "bwya77/vscode-dark-islands: VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "url": "https://github.com/bwya77/vscode-dark-islands",
+      "score": 2617,
+      "category": "tools",
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "extra": {
+        "language": "PowerShell",
+        "stars": 2617,
+        "forks": 63
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1155639743",
+      "source": "github",
+      "title": "xyzeva/k-id-age-verifier: automatically verify your age on discord, twitch, kick, quora and more (k-id)",
+      "url": "https://github.com/xyzeva/k-id-age-verifier",
+      "score": 1578,
+      "category": "tools",
+      "description": "automatically verify your age on discord, twitch, kick, quora and more (k-id)",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1578,
+        "forks": 57
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1155791602",
+      "source": "github",
+      "title": "RevylAI/greenlight: Pre-submission compliance scanner for the Apple App Store",
+      "url": "https://github.com/RevylAI/greenlight",
+      "score": 1031,
+      "category": "product",
+      "description": "Pre-submission compliance scanner for the Apple App Store",
+      "extra": {
+        "language": "Go",
+        "stars": 1031,
+        "forks": 64
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1158605484",
+      "source": "github",
+      "title": "HKUDS/ClawWork: \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "url": "https://github.com/HKUDS/ClawWork",
+      "score": 968,
+      "category": "tools",
+      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "extra": {
+        "language": "Python",
+        "stars": 968,
+        "forks": 138
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1157577714",
+      "source": "github",
+      "title": "mickamy/sql-tap: Watch SQL traffic in real-time with a TUI",
+      "url": "https://github.com/mickamy/sql-tap",
+      "score": 828,
+      "category": "tools",
+      "description": "Watch SQL traffic in real-time with a TUI",
+      "extra": {
+        "language": "Go",
+        "stars": 828,
+        "forks": 18
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1156879010",
+      "source": "github",
+      "title": "HKUDS/FastCode: FastCode: Accelerating and Streamlining Your Code Understanding",
+      "url": "https://github.com/HKUDS/FastCode",
+      "score": 752,
+      "category": "tools",
+      "description": "FastCode: Accelerating and Streamlining Your Code Understanding",
+      "extra": {
+        "language": "Python",
+        "stars": 752,
+        "forks": 87
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1157721932",
+      "source": "github",
+      "title": "vigorX777/ai-daily-digest: 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
+      "url": "https://github.com/vigorX777/ai-daily-digest",
+      "score": 729,
+      "category": "tools",
+      "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 729,
+        "forks": 76
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1155249807",
+      "source": "github",
+      "title": "QDenka/awesome-software-design: Organizing and structuring software through patterns, decisions, and verified design rules",
+      "url": "https://github.com/QDenka/awesome-software-design",
+      "score": 653,
+      "category": "tools",
+      "description": "Organizing and structuring software through patterns, decisions, and verified design rules",
+      "extra": {
+        "language": "Unknown",
+        "stars": 653,
+        "forks": 42
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "hn-47038546",
+      "source": "hackernews",
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "score": 643,
+      "comments": 122,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47038546",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "gh-1156437015",
+      "source": "github",
+      "title": "devops-interviews/devops-interviews: DevOps Interview Questions",
+      "url": "https://github.com/devops-interviews/devops-interviews",
+      "score": 642,
+      "category": "tools",
+      "description": "DevOps Interview Questions",
+      "extra": {
+        "language": "Unknown",
+        "stars": 642,
+        "forks": 92
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1156162551",
+      "source": "github",
+      "title": "freestylefly/openclaw-wechat: 让 OpenClaw稳定的连上你的个人微信",
+      "url": "https://github.com/freestylefly/openclaw-wechat",
+      "score": 620,
+      "category": "tools",
+      "description": "让 OpenClaw稳定的连上你的个人微信",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 620,
+        "forks": 201
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1158537997",
+      "source": "github",
+      "title": "vercel-labs/portless: Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "url": "https://github.com/vercel-labs/portless",
+      "score": 602,
+      "category": "ai",
+      "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 602,
+        "forks": 20
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1156317000",
+      "source": "github",
+      "title": "MooseGoose0701/skill-compose: Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
+      "url": "https://github.com/MooseGoose0701/skill-compose",
+      "score": 494,
+      "category": "tools",
+      "description": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.",
+      "extra": {
+        "language": "Python",
+        "stars": 494,
+        "forks": 32
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "gh-1155091202",
+      "source": "github",
+      "title": "KimYx0207/Claude-Code-Guide-Zh: 老金版ClaudeCode初学者教程",
+      "url": "https://github.com/KimYx0207/Claude-Code-Guide-Zh",
+      "score": 460,
+      "category": "ai",
+      "description": "老金版ClaudeCode初学者教程",
+      "extra": {
+        "language": "Unknown",
+        "stars": 460,
+        "forks": 70
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "hn-47035560",
+      "source": "hackernews",
+      "title": "What your Bluetooth devices reveal",
+      "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+      "score": 415,
+      "comments": 150,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47035560",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47042396",
+      "source": "hackernews",
+      "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+      "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+      "score": 390,
+      "comments": 201,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47042396",
+      "category": "ai",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "gh-1155232855",
+      "source": "github",
+      "title": "FireRedTeam/FireRed-Image-Edit: ",
+      "url": "https://github.com/FireRedTeam/FireRed-Image-Edit",
+      "score": 385,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 385,
+        "forks": 16
+      },
+      "fetchedAt": "2026-02-17T08:52:42.589Z"
+    },
+    {
+      "id": "hn-47011548",
+      "source": "hackernews",
+      "title": "Ghidra by NSA",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "score": 361,
+      "comments": 190,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47011548",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47031334",
+      "source": "hackernews",
+      "title": "Show HN: Jemini – Gemini for the Epstein Files",
+      "url": "https://jmail.world/jemini",
+      "score": 351,
+      "comments": 68,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47031334",
+      "category": "ai",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47040524",
+      "source": "hackernews",
+      "title": "Rise of the Triforce",
+      "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+      "score": 246,
+      "comments": 31,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47040524",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47002231",
+      "source": "hackernews",
+      "title": "Visual introduction to PyTorch",
+      "url": "https://0byte.io/articles/pytorch_introduction.html",
+      "score": 237,
+      "comments": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47002231",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47040375",
+      "source": "hackernews",
+      "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+      "url": "https://github.com/zachlatta/freeflow",
+      "score": 182,
+      "comments": 83,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47040375",
+      "category": "ai",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47022270",
+      "source": "hackernews",
+      "title": "Four Column ASCII (2017)",
+      "url": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
+      "score": 111,
+      "comments": 21,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47022270",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47038318",
+      "source": "hackernews",
+      "title": "\"Token anxiety\", a slot machine by any other name",
+      "url": "https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/",
+      "score": 109,
+      "comments": 92,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47038318",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47042766",
+      "source": "hackernews",
+      "title": "Thinking hard burns almost no calories but destroys your next workout",
+      "url": "https://vo2maxpro.com/blog/thinking-hard-burns-no-calories-destroys-workout",
+      "score": 105,
+      "comments": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47042766",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47041456",
+      "source": "hackernews",
+      "title": "Running NanoClaw in a Docker Shell Sandbox",
+      "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+      "score": 102,
+      "comments": 52,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47041456",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47034087",
+      "source": "hackernews",
+      "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
+      "url": "https://arxiv.org/abs/2602.11988",
+      "score": 100,
+      "comments": 69,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47034087",
+      "category": "ai",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47039478",
+      "source": "hackernews",
+      "title": "State of Show HN: 2025",
+      "url": "https://blog.sturdystatistics.com/posts/show_hn/",
+      "score": 94,
+      "comments": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47039478",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47038731",
+      "source": "hackernews",
+      "title": "Neurons outside the brain",
+      "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
+      "score": 91,
+      "comments": 37,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47038731",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47041836",
+      "source": "hackernews",
+      "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+      "url": "https://forestrydiary.com/",
+      "score": 90,
+      "comments": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47041836",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47014002",
+      "source": "hackernews",
+      "title": "A deep dive into Apple's .car file format",
+      "url": "https://dbg.re/posts/car-file-format/",
+      "score": 77,
+      "comments": 1,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47014002",
+      "category": "product",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47040390",
+      "source": "hackernews",
+      "title": "Show HN: Wildex – Pokémon Go for real wildlife",
+      "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
+      "score": 76,
+      "comments": 52,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47040390",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47042895",
+      "source": "hackernews",
+      "title": "Poor Deming never stood a chance",
+      "url": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
+      "score": 61,
+      "comments": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47042895",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    },
+    {
+      "id": "hn-47041973",
+      "source": "hackernews",
+      "title": "Building for an audience of one: starting and finishing side projects with AI",
+      "url": "https://codemade.net/blog/building-for-one/",
+      "score": 61,
+      "comments": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47041973",
+      "category": "tools",
+      "fetchedAt": "2026-02-17T08:52:42.399Z"
+    }
+  ]
+}
