@@ -1,0 +1,450 @@
+{
+  "date": "2026-02-19",
+  "items": [
+    {
+      "id": "gh-1156956890",
+      "source": "github",
+      "title": "zeroclaw-labs/zeroclaw: Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
+      "url": "https://github.com/zeroclaw-labs/zeroclaw",
+      "score": 14223,
+      "category": "tools",
+      "description": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀",
+      "extra": {
+        "language": "Rust",
+        "stars": 14223,
+        "forks": 1471
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1157656960",
+      "source": "github",
+      "title": "bwya77/vscode-dark-islands: VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "url": "https://github.com/bwya77/vscode-dark-islands",
+      "score": 3634,
+      "category": "tools",
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "extra": {
+        "language": "PowerShell",
+        "stars": 3634,
+        "forks": 97
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1158605484",
+      "source": "github",
+      "title": "HKUDS/ClawWork: \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "url": "https://github.com/HKUDS/ClawWork",
+      "score": 3051,
+      "category": "tools",
+      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "extra": {
+        "language": "Python",
+        "stars": 3051,
+        "forks": 352
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1156960719",
+      "source": "github",
+      "title": "millionco/react-doctor: Let coding agents diagnose and fix your React code",
+      "url": "https://github.com/millionco/react-doctor",
+      "score": 2444,
+      "category": "ai",
+      "description": "Let coding agents diagnose and fix your React code",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 2444,
+        "forks": 66
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1158537997",
+      "source": "github",
+      "title": "vercel-labs/portless: Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "url": "https://github.com/vercel-labs/portless",
+      "score": 1187,
+      "category": "ai",
+      "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1187,
+        "forks": 43
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1158123451",
+      "source": "github",
+      "title": "Conway-Research/automaton: The first AI that can earn its own existence, replicate, and evolve — without needing a human",
+      "url": "https://github.com/Conway-Research/automaton",
+      "score": 1153,
+      "category": "tools",
+      "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1153,
+        "forks": 226
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1159122506",
+      "source": "github",
+      "title": "Zaneham/BarraCUDA: Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "score": 942,
+      "category": "opensource",
+      "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.",
+      "extra": {
+        "language": "C",
+        "stars": 942,
+        "forks": 27
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1157577714",
+      "source": "github",
+      "title": "mickamy/sql-tap: Watch SQL traffic in real-time with a TUI",
+      "url": "https://github.com/mickamy/sql-tap",
+      "score": 902,
+      "category": "tools",
+      "description": "Watch SQL traffic in real-time with a TUI",
+      "extra": {
+        "language": "Go",
+        "stars": 902,
+        "forks": 21
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1156879010",
+      "source": "github",
+      "title": "HKUDS/FastCode: \"FastCode: Accelerating and Streamlining Your Code Understanding\"",
+      "url": "https://github.com/HKUDS/FastCode",
+      "score": 850,
+      "category": "tools",
+      "description": "\"FastCode: Accelerating and Streamlining Your Code Understanding\"",
+      "extra": {
+        "language": "Python",
+        "stars": 850,
+        "forks": 98
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1157721932",
+      "source": "github",
+      "title": "vigorX777/ai-daily-digest: 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
+      "url": "https://github.com/vigorX777/ai-daily-digest",
+      "score": 840,
+      "category": "tools",
+      "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 840,
+        "forks": 82
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1159484260",
+      "source": "github",
+      "title": "nicobailon/visual-explainer: Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
+      "url": "https://github.com/nicobailon/visual-explainer",
+      "score": 831,
+      "category": "ai",
+      "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
+      "extra": {
+        "language": "HTML",
+        "stars": 831,
+        "forks": 53
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1158588224",
+      "source": "github",
+      "title": "AlexsJones/llmfit: 157 models. 30 providers. One command to find what runs on your hardware.",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "score": 825,
+      "category": "tools",
+      "description": "157 models. 30 providers. One command to find what runs on your hardware.",
+      "extra": {
+        "language": "Rust",
+        "stars": 825,
+        "forks": 51
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1158631460",
+      "source": "github",
+      "title": "agenticnotetaking/arscontexta: Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second ",
+      "url": "https://github.com/agenticnotetaking/arscontexta",
+      "score": 790,
+      "category": "ai",
+      "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
+      "extra": {
+        "language": "Shell",
+        "stars": 790,
+        "forks": 37
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1158432527",
+      "source": "github",
+      "title": "pinchtab/pinchtab: ",
+      "url": "https://github.com/pinchtab/pinchtab",
+      "score": 723,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Go",
+        "stars": 723,
+        "forks": 41
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "gh-1158734451",
+      "source": "github",
+      "title": "zachlatta/freeflow: Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
+      "url": "https://github.com/zachlatta/freeflow",
+      "score": 652,
+      "category": "opensource",
+      "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
+      "extra": {
+        "language": "Swift",
+        "stars": 652,
+        "forks": 26
+      },
+      "fetchedAt": "2026-02-19T08:52:41.528Z"
+    },
+    {
+      "id": "hn-47066552",
+      "source": "hackernews",
+      "title": "Sizing chaos",
+      "url": "https://pudding.cool/2026/02/womens-sizing/",
+      "score": 518,
+      "comments": 268,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47066552",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47063005",
+      "source": "hackernews",
+      "title": "Tailscale Peer Relays is now generally available",
+      "url": "https://tailscale.com/blog/peer-relays-ga",
+      "score": 397,
+      "comments": 197,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47063005",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47064490",
+      "source": "hackernews",
+      "title": "Cosmologically Unique IDs",
+      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+      "score": 364,
+      "comments": 114,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47064490",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47062748",
+      "source": "hackernews",
+      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+      "score": 325,
+      "comments": 169,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47062748",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47066241",
+      "source": "hackernews",
+      "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+      "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+      "score": 315,
+      "comments": 161,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47066241",
+      "category": "product",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47069299",
+      "source": "hackernews",
+      "title": "Anthropic officially bans using subscription auth for third party use",
+      "url": "https://code.claude.com/docs/en/legal-and-compliance",
+      "score": 315,
+      "comments": 351,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47069299",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47064047",
+      "source": "hackernews",
+      "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+      "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+      "score": 260,
+      "comments": 117,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47064047",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47068948",
+      "source": "hackernews",
+      "title": "Minecraft Java is switching from OpenGL to Vulkan",
+      "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+      "score": 188,
+      "comments": 63,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47068948",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47063663",
+      "source": "hackernews",
+      "title": "The Perils of ISBN",
+      "url": "https://rygoldstein.com/posts/perils-of-isbn",
+      "score": 122,
+      "comments": 63,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47063663",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47022704",
+      "source": "hackernews",
+      "title": "A Pokémon of a Different Color",
+      "url": "https://matthew.verive.me/blog/color/",
+      "score": 103,
+      "comments": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47022704",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47068890",
+      "source": "hackernews",
+      "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+      "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+      "score": 101,
+      "comments": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47068890",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47068320",
+      "source": "hackernews",
+      "title": "How AI is affecting productivity and jobs in Europe",
+      "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+      "score": 98,
+      "comments": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47068320",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47025885",
+      "source": "hackernews",
+      "title": "How to choose between Hindley-Milner and bidirectional typing",
+      "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+      "score": 91,
+      "comments": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47025885",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47069650",
+      "source": "hackernews",
+      "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
+      "url": "https://blackboard.sh/blog/electrobun-v1/",
+      "score": 85,
+      "comments": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47069650",
+      "category": "product",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47065179",
+      "source": "hackernews",
+      "title": "R3forth: A concatenative language derived from ColorForth",
+      "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+      "score": 85,
+      "comments": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47065179",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47060220",
+      "source": "hackernews",
+      "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
+      "url": "https://news.ycombinator.com/item?id=47060220",
+      "score": 85,
+      "comments": 34,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47060220",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47024585",
+      "source": "hackernews",
+      "title": "Making a font with ligatures to display thirteenth-century monk numerals",
+      "url": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
+      "score": 80,
+      "comments": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47024585",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47067496",
+      "source": "hackernews",
+      "title": "Martial arts robots at 2026 Spring Festival Gala [video]",
+      "url": "https://www.youtube.com/watch?v=mUmlv814aJo",
+      "score": 68,
+      "comments": 49,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47067496",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47067498",
+      "source": "hackernews",
+      "title": "All Look Same?",
+      "url": "https://alllooksame.com/",
+      "score": 62,
+      "comments": 46,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47067498",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    },
+    {
+      "id": "hn-47069179",
+      "source": "hackernews",
+      "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
+      "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+      "score": 60,
+      "comments": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47069179",
+      "category": "tools",
+      "fetchedAt": "2026-02-19T08:52:41.395Z"
+    }
+  ]
+}
