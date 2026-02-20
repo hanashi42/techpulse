@@ -1,0 +1,450 @@
+{
+  "date": "2026-02-20",
+  "items": [
+    {
+      "id": "gh-1158605484",
+      "source": "github",
+      "title": "HKUDS/ClawWork: \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "url": "https://github.com/HKUDS/ClawWork",
+      "score": 4222,
+      "category": "tools",
+      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "extra": {
+        "language": "Python",
+        "stars": 4222,
+        "forks": 477
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1157656960",
+      "source": "github",
+      "title": "bwya77/vscode-dark-islands: VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "url": "https://github.com/bwya77/vscode-dark-islands",
+      "score": 3689,
+      "category": "tools",
+      "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+      "extra": {
+        "language": "PowerShell",
+        "stars": 3689,
+        "forks": 100
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1158537997",
+      "source": "github",
+      "title": "vercel-labs/portless: Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "url": "https://github.com/vercel-labs/portless",
+      "score": 1582,
+      "category": "ai",
+      "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1582,
+        "forks": 48
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1158123451",
+      "source": "github",
+      "title": "Conway-Research/automaton: The first AI that can earn its own existence, replicate, and evolve — without needing a human",
+      "url": "https://github.com/Conway-Research/automaton",
+      "score": 1542,
+      "category": "tools",
+      "description": "The first AI that can earn its own existence, replicate, and evolve — without needing a human",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1542,
+        "forks": 308
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1159484260",
+      "source": "github",
+      "title": "nicobailon/visual-explainer: Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
+      "url": "https://github.com/nicobailon/visual-explainer",
+      "score": 1376,
+      "category": "ai",
+      "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
+      "extra": {
+        "language": "HTML",
+        "stars": 1376,
+        "forks": 88
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1159122506",
+      "source": "github",
+      "title": "Zaneham/BarraCUDA: Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "score": 1126,
+      "category": "opensource",
+      "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code.",
+      "extra": {
+        "language": "C",
+        "stars": 1126,
+        "forks": 36
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1158631460",
+      "source": "github",
+      "title": "agenticnotetaking/arscontexta: Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second ",
+      "url": "https://github.com/agenticnotetaking/arscontexta",
+      "score": 1061,
+      "category": "ai",
+      "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
+      "extra": {
+        "language": "Shell",
+        "stars": 1061,
+        "forks": 55
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1158588224",
+      "source": "github",
+      "title": "AlexsJones/llmfit: 157 models. 30 providers. One command to find what runs on your hardware.",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "score": 997,
+      "category": "tools",
+      "description": "157 models. 30 providers. One command to find what runs on your hardware.",
+      "extra": {
+        "language": "Rust",
+        "stars": 997,
+        "forks": 56
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1157721932",
+      "source": "github",
+      "title": "vigorX777/ai-daily-digest: 从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
+      "url": "https://github.com/vigorX777/ai-daily-digest",
+      "score": 955,
+      "category": "tools",
+      "description": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 955,
+        "forks": 94
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1158432527",
+      "source": "github",
+      "title": "pinchtab/pinchtab: ",
+      "url": "https://github.com/pinchtab/pinchtab",
+      "score": 944,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Go",
+        "stars": 944,
+        "forks": 41
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1159542259",
+      "source": "github",
+      "title": "nullclaw/nullclaw: Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+      "url": "https://github.com/nullclaw/nullclaw",
+      "score": 936,
+      "category": "tools",
+      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+      "extra": {
+        "language": "Zig",
+        "stars": 936,
+        "forks": 85
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1157577714",
+      "source": "github",
+      "title": "mickamy/sql-tap: Watch SQL traffic in real-time with a TUI",
+      "url": "https://github.com/mickamy/sql-tap",
+      "score": 919,
+      "category": "tools",
+      "description": "Watch SQL traffic in real-time with a TUI",
+      "extra": {
+        "language": "Go",
+        "stars": 919,
+        "forks": 21
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "hn-47074735",
+      "source": "hackernews",
+      "title": "Gemini 3.1 Pro",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "score": 729,
+      "comments": 793,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47074735",
+      "category": "ai",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "gh-1159483541",
+      "source": "github",
+      "title": "DataExpert-io/ai-engineer-handbook: All the links, books, and creators you need to follow to stay up to date with AI!",
+      "url": "https://github.com/DataExpert-io/ai-engineer-handbook",
+      "score": 717,
+      "category": "tools",
+      "description": "All the links, books, and creators you need to follow to stay up to date with AI!",
+      "extra": {
+        "language": "Unknown",
+        "stars": 717,
+        "forks": 108
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1158734451",
+      "source": "github",
+      "title": "zachlatta/freeflow: Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
+      "url": "https://github.com/zachlatta/freeflow",
+      "score": 676,
+      "category": "opensource",
+      "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
+      "extra": {
+        "language": "Swift",
+        "stars": 676,
+        "forks": 27
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "gh-1158678506",
+      "source": "github",
+      "title": "davidhariri/life-system: A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement.",
+      "url": "https://github.com/davidhariri/life-system",
+      "score": 572,
+      "category": "ai",
+      "description": "A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement.",
+      "extra": {
+        "language": "Shell",
+        "stars": 572,
+        "forks": 35
+      },
+      "fetchedAt": "2026-02-20T08:48:58.827Z"
+    },
+    {
+      "id": "hn-47075124",
+      "source": "hackernews",
+      "title": "Show HN: Micasa – track your house from the terminal",
+      "url": "https://micasa.dev",
+      "score": 531,
+      "comments": 178,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47075124",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47079222",
+      "source": "hackernews",
+      "title": "We're no longer attracting top talent: the brain drain killing American science",
+      "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+      "score": 430,
+      "comments": 400,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47079222",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47072968",
+      "source": "hackernews",
+      "title": "Paged Out Issue #8 [pdf]",
+      "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+      "score": 378,
+      "comments": 59,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47072968",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47083145",
+      "source": "hackernews",
+      "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+      "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+      "score": 344,
+      "comments": 285,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47083145",
+      "category": "ai",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47067270",
+      "source": "hackernews",
+      "title": "US plans online portal to bypass content bans in Europe and elsewhere",
+      "url": "https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/",
+      "score": 287,
+      "comments": 451,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47067270",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47074389",
+      "source": "hackernews",
+      "title": "America vs. Singapore: You can't save your way out of economic shocks",
+      "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+      "score": 276,
+      "comments": 400,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47074389",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47082496",
+      "source": "hackernews",
+      "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+      "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+      "score": 260,
+      "comments": 102,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47082496",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47043345",
+      "source": "hackernews",
+      "title": "Infrastructure decisions I endorse or regret after 4 years at a startup (2024)",
+      "url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+      "score": 231,
+      "comments": 96,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47043345",
+      "category": "product",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47078324",
+      "source": "hackernews",
+      "title": "AI is not a coworker, it's an exoskeleton",
+      "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+      "score": 218,
+      "comments": 225,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47078324",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47076659",
+      "source": "hackernews",
+      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+      "url": "https://github.com/Veirt/weathr",
+      "score": 213,
+      "comments": 36,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47076659",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47078167",
+      "source": "hackernews",
+      "title": "Micropayments as a reality check for news sites",
+      "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+      "score": 158,
+      "comments": 330,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47078167",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47031197",
+      "source": "hackernews",
+      "title": "Defer available in gcc and clang",
+      "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+      "score": 117,
+      "comments": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47031197",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47029368",
+      "source": "hackernews",
+      "title": "A beginner's guide to split keyboards",
+      "url": "https://www.justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/",
+      "score": 115,
+      "comments": 131,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47029368",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47047010",
+      "source": "hackernews",
+      "title": "FreeCAD",
+      "url": "https://www.freecad.org/index.php",
+      "score": 114,
+      "comments": 36,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47047010",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47077245",
+      "source": "hackernews",
+      "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
+      "url": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
+      "score": 105,
+      "comments": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47077245",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47083648",
+      "source": "hackernews",
+      "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+      "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+      "score": 81,
+      "comments": 23,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47083648",
+      "category": "ai",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47083735",
+      "source": "hackernews",
+      "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
+      "url": "https://www.bbc.com/news/articles/c3ew5jlqz87o",
+      "score": 80,
+      "comments": 38,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47083735",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47082548",
+      "source": "hackernews",
+      "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+      "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+      "score": 64,
+      "comments": 49,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47082548",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    },
+    {
+      "id": "hn-47082854",
+      "source": "hackernews",
+      "title": "Pi for Excel: AI sidebar add-in for Excel",
+      "url": "https://github.com/tmustier/pi-for-excel",
+      "score": 63,
+      "comments": 9,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47082854",
+      "category": "tools",
+      "fetchedAt": "2026-02-20T08:48:58.542Z"
+    }
+  ]
+}
