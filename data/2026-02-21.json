@@ -1,0 +1,450 @@
+{
+  "date": "2026-02-21",
+  "items": [
+    {
+      "id": "gh-1158605484",
+      "source": "github",
+      "title": "HKUDS/ClawWork: \"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "url": "https://github.com/HKUDS/ClawWork",
+      "score": 4647,
+      "category": "tools",
+      "description": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\"",
+      "extra": {
+        "language": "Python",
+        "stars": 4647,
+        "forks": 558
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "gh-1159484260",
+      "source": "github",
+      "title": "nicobailon/visual-explainer: Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
+      "url": "https://github.com/nicobailon/visual-explainer",
+      "score": 1985,
+      "category": "ai",
+      "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
+      "extra": {
+        "language": "HTML",
+        "stars": 1985,
+        "forks": 126
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "gh-1158537997",
+      "source": "github",
+      "title": "vercel-labs/portless: Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "url": "https://github.com/vercel-labs/portless",
+      "score": 1870,
+      "category": "ai",
+      "description": "Replace port numbers with stable, named .localhost URLs. For humans and agents.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1870,
+        "forks": 57
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "hn-47091419",
+      "source": "hackernews",
+      "title": "Keep Android Open",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "score": 1411,
+      "comments": 528,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47091419",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47089213",
+      "source": "hackernews",
+      "title": "Trump's global tariffs struck down by US Supreme Court",
+      "url": "https://www.bbc.com/news/live/c0l9r67drg7t",
+      "score": 1377,
+      "comments": 1124,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47089213",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "gh-1158631460",
+      "source": "github",
+      "title": "agenticnotetaking/arscontexta: Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second ",
+      "url": "https://github.com/agenticnotetaking/arscontexta",
+      "score": 1356,
+      "category": "ai",
+      "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
+      "extra": {
+        "language": "Shell",
+        "stars": 1356,
+        "forks": 70
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "gh-1159542259",
+      "source": "github",
+      "title": "nullclaw/nullclaw: Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+      "url": "https://github.com/nullclaw/nullclaw",
+      "score": 1261,
+      "category": "tools",
+      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+      "extra": {
+        "language": "Zig",
+        "stars": 1261,
+        "forks": 122
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "gh-1159122506",
+      "source": "github",
+      "title": "Zaneham/BarraCUDA: Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "score": 1230,
+      "category": "opensource",
+      "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.",
+      "extra": {
+        "language": "C",
+        "stars": 1230,
+        "forks": 44
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "gh-1158588224",
+      "source": "github",
+      "title": "AlexsJones/llmfit: 157 models. 30 providers. One command to find what runs on your hardware.",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "score": 1179,
+      "category": "tools",
+      "description": "157 models. 30 providers. One command to find what runs on your hardware.",
+      "extra": {
+        "language": "Rust",
+        "stars": 1179,
+        "forks": 70
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "gh-1158432527",
+      "source": "github",
+      "title": "pinchtab/pinchtab: High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
+      "url": "https://github.com/pinchtab/pinchtab",
+      "score": 1046,
+      "category": "tools",
+      "description": "High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.",
+      "extra": {
+        "language": "Go",
+        "stars": 1046,
+        "forks": 50
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "hn-47091748",
+      "source": "hackernews",
+      "title": "Facebook is cooked",
+      "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "score": 1031,
+      "comments": 561,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47091748",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "gh-1159483541",
+      "source": "github",
+      "title": "DataExpert-io/ai-engineer-handbook: All the links, books, and creators you need to follow to stay up to date with AI!",
+      "url": "https://github.com/DataExpert-io/ai-engineer-handbook",
+      "score": 759,
+      "category": "tools",
+      "description": "All the links, books, and creators you need to follow to stay up to date with AI!",
+      "extra": {
+        "language": "Unknown",
+        "stars": 759,
+        "forks": 109
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "gh-1158734451",
+      "source": "github",
+      "title": "zachlatta/freeflow: Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
+      "url": "https://github.com/zachlatta/freeflow",
+      "score": 737,
+      "category": "opensource",
+      "description": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc",
+      "extra": {
+        "language": "Swift",
+        "stars": 737,
+        "forks": 33
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "hn-47088037",
+      "source": "hackernews",
+      "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+      "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+      "score": 727,
+      "comments": 180,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47088037",
+      "category": "ai",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47086181",
+      "source": "hackernews",
+      "title": "The path to ubiquitous AI (17k tokens/sec)",
+      "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+      "score": 725,
+      "comments": 409,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47086181",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "gh-1162194563",
+      "source": "github",
+      "title": "ShinMegamiBoson/OpenPlanter: ",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+      "score": 606,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 606,
+        "forks": 94
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "gh-1158678506",
+      "source": "github",
+      "title": "davidhariri/life-system: A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement.",
+      "url": "https://github.com/davidhariri/life-system",
+      "score": 599,
+      "category": "ai",
+      "description": "A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement.",
+      "extra": {
+        "language": "Shell",
+        "stars": 599,
+        "forks": 38
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "hn-47092578",
+      "source": "hackernews",
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "score": 530,
+      "comments": 233,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47092578",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "gh-1158269547",
+      "source": "github",
+      "title": "klawsh/klaw.sh: kubectl for AI Agents",
+      "url": "https://github.com/klawsh/klaw.sh",
+      "score": 509,
+      "category": "ai",
+      "description": "kubectl for AI Agents",
+      "extra": {
+        "language": "Go",
+        "stars": 509,
+        "forks": 29
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "gh-1158560615",
+      "source": "github",
+      "title": "owenlejeune/ArrMatey: ",
+      "url": "https://github.com/owenlejeune/ArrMatey",
+      "score": 460,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Kotlin",
+        "stars": 460,
+        "forks": 5
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "gh-1158541291",
+      "source": "github",
+      "title": "frank-vpl/IRBox: A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routin",
+      "url": "https://github.com/frank-vpl/IRBox",
+      "score": 445,
+      "category": "tools",
+      "description": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes",
+      "extra": {
+        "language": "Rust",
+        "stars": 445,
+        "forks": 28
+      },
+      "fetchedAt": "2026-02-21T08:36:57.842Z"
+    },
+    {
+      "id": "hn-47094192",
+      "source": "hackernews",
+      "title": "Turn Dependabot off",
+      "url": "https://words.filippo.io/dependabot/",
+      "score": 423,
+      "comments": 111,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47094192",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47092006",
+      "source": "hackernews",
+      "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+      "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+      "score": 416,
+      "comments": 244,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47092006",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47095134",
+      "source": "hackernews",
+      "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
+      "url": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
+      "score": 312,
+      "comments": 142,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47095134",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47092203",
+      "source": "hackernews",
+      "title": "Every company building your AI assistant is now an ad company",
+      "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+      "score": 174,
+      "comments": 87,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47092203",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47095429",
+      "source": "hackernews",
+      "title": "CERN rebuilt the original browser from 1989 (2019)",
+      "url": "https://worldwideweb.cern.ch",
+      "score": 164,
+      "comments": 55,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47095429",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47091606",
+      "source": "hackernews",
+      "title": "Blue light filters don't work – controlling total luminance is a better bet",
+      "url": "https://www.neuroai.science/p/blue-light-filters-dont-work",
+      "score": 158,
+      "comments": 177,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47091606",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47093724",
+      "source": "hackernews",
+      "title": "OpenScan",
+      "url": "https://openscan.eu/pages/scan-gallery",
+      "score": 151,
+      "comments": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47093724",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47097502",
+      "source": "hackernews",
+      "title": "Meta Deployed AI and It Is Killing Our Agency",
+      "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+      "score": 125,
+      "comments": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47097502",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47091071",
+      "source": "hackernews",
+      "title": "Lil' Fun Langs",
+      "url": "https://taylor.town/scrapscript-000",
+      "score": 113,
+      "comments": 17,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47091071",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47096520",
+      "source": "hackernews",
+      "title": "What Is OAuth?",
+      "url": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+      "score": 106,
+      "comments": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47096520",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47094149",
+      "source": "hackernews",
+      "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
+      "url": "https://mines.fyi/",
+      "score": 79,
+      "comments": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47094149",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47058584",
+      "source": "hackernews",
+      "title": "Index, Count, Offset, Size",
+      "url": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
+      "score": 77,
+      "comments": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47058584",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47096466",
+      "source": "hackernews",
+      "title": "Cord: Coordinating Trees of AI Agents",
+      "url": "https://www.june.kim/cord",
+      "score": 77,
+      "comments": 39,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47096466",
+      "category": "ai",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    },
+    {
+      "id": "hn-47055261",
+      "source": "hackernews",
+      "title": "The true story behind the Toronto mystery tunnel",
+      "url": "https://macleans.ca/society/elton-mcdonald-and-the-incredible-true-story-behind-the-toronto-mystery-tunnel/",
+      "score": 64,
+      "comments": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47055261",
+      "category": "tools",
+      "fetchedAt": "2026-02-21T08:36:57.732Z"
+    }
+  ]
+}
