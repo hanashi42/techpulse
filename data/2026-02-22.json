@@ -1,0 +1,435 @@
+{
+  "date": "2026-02-22",
+  "items": [
+    {
+      "id": "gh-1159484260",
+      "source": "github",
+      "title": "nicobailon/visual-explainer: Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
+      "url": "https://github.com/nicobailon/visual-explainer",
+      "score": 2269,
+      "category": "ai",
+      "description": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps",
+      "extra": {
+        "language": "HTML",
+        "stars": 2269,
+        "forks": 143
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "hn-47091419",
+      "source": "hackernews",
+      "title": "Keep Android Open",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "score": 2056,
+      "comments": 694,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47091419",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "gh-1159542259",
+      "source": "github",
+      "title": "nullclaw/nullclaw: Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+      "url": "https://github.com/nullclaw/nullclaw",
+      "score": 1593,
+      "category": "tools",
+      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+      "extra": {
+        "language": "Zig",
+        "stars": 1593,
+        "forks": 174
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "gh-1159122506",
+      "source": "github",
+      "title": "Zaneham/BarraCUDA: Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.",
+      "url": "https://github.com/Zaneham/BarraCUDA",
+      "score": 1277,
+      "category": "opensource",
+      "description": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code.",
+      "extra": {
+        "language": "C",
+        "stars": 1277,
+        "forks": 49
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "hn-47098245",
+      "source": "hackernews",
+      "title": "I verified my LinkedIn identity. Here's what I handed over",
+      "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+      "score": 1252,
+      "comments": 432,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47098245",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "gh-1162194563",
+      "source": "github",
+      "title": "ShinMegamiBoson/OpenPlanter: ",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+      "score": 834,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 834,
+        "forks": 123
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "gh-1159483541",
+      "source": "github",
+      "title": "DataExpert-io/ai-engineer-handbook: All the links, books, and creators you need to follow to stay up to date with AI!",
+      "url": "https://github.com/DataExpert-io/ai-engineer-handbook",
+      "score": 780,
+      "category": "tools",
+      "description": "All the links, books, and creators you need to follow to stay up to date with AI!",
+      "extra": {
+        "language": "Unknown",
+        "stars": 780,
+        "forks": 117
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "gh-1161318197",
+      "source": "github",
+      "title": "RightNow-AI/picolm: Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "url": "https://github.com/RightNow-AI/picolm",
+      "score": 566,
+      "category": "ai",
+      "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "extra": {
+        "language": "C",
+        "stars": 566,
+        "forks": 60
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "gh-1162163663",
+      "source": "github",
+      "title": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot: Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets.",
+      "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+      "score": 544,
+      "category": "tools",
+      "description": "Real-time polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 544,
+        "forks": 2
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "hn-47061614",
+      "source": "hackernews",
+      "title": "How far back in time can you understand English?",
+      "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
+      "score": 512,
+      "comments": 274,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47061614",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "gh-1163317794",
+      "source": "github",
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot: ",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "score": 493,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 493,
+        "forks": 1
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "hn-47106686",
+      "source": "hackernews",
+      "title": "How I use Claude Code: Separation of planning and execution",
+      "url": "https://boristane.com/blog/how-i-use-claude-code/",
+      "score": 452,
+      "comments": 270,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47106686",
+      "category": "ai",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "gh-1160175822",
+      "source": "github",
+      "title": "Pickle-Pixel/ApplyPilot: AI agent that applies to jobs for you. Any site. Any form.",
+      "url": "https://github.com/Pickle-Pixel/ApplyPilot",
+      "score": 326,
+      "category": "ai",
+      "description": "AI agent that applies to jobs for you. Any site. Any form.",
+      "extra": {
+        "language": "Python",
+        "stars": 326,
+        "forks": 91
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "gh-1160953701",
+      "source": "github",
+      "title": "socprime/detectflow-main: Detection intelligence turbocharged with Al.",
+      "url": "https://github.com/socprime/detectflow-main",
+      "score": 313,
+      "category": "tools",
+      "description": "Detection intelligence turbocharged with Al.",
+      "extra": {
+        "language": "Unknown",
+        "stars": 313,
+        "forks": 31
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "gh-1159472174",
+      "source": "github",
+      "title": "IronsideXXVI/Hacker-News: A native macOS client for Hacker News, built with SwiftUI",
+      "url": "https://github.com/IronsideXXVI/Hacker-News",
+      "score": 308,
+      "category": "tools",
+      "description": "A native macOS client for Hacker News, built with SwiftUI",
+      "extra": {
+        "language": "Swift",
+        "stars": 308,
+        "forks": 6
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "gh-1161025758",
+      "source": "github",
+      "title": "TraderAlice/OpenAlice: File-driven AI trading agent engine for crypto and securities markets",
+      "url": "https://github.com/TraderAlice/OpenAlice",
+      "score": 305,
+      "category": "ai",
+      "description": "File-driven AI trading agent engine for crypto and securities markets",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 305,
+        "forks": 48
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "gh-1159234860",
+      "source": "github",
+      "title": "Gentleman-Programming/engram: Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "score": 300,
+      "category": "tools",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "extra": {
+        "language": "Go",
+        "stars": 300,
+        "forks": 22
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "gh-1161754368",
+      "source": "github",
+      "title": "angel10x/Crash-Frontend: About Crash game - frontend",
+      "url": "https://github.com/angel10x/Crash-Frontend",
+      "score": 291,
+      "category": "tools",
+      "description": "About Crash game - frontend",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 291,
+        "forks": 1
+      },
+      "fetchedAt": "2026-02-22T08:38:15.420Z"
+    },
+    {
+      "id": "hn-47096253",
+      "source": "hackernews",
+      "title": "Claws are now a new layer on top of LLM agents",
+      "url": "https://twitter.com/karpathy/status/2024987174077432126",
+      "score": 279,
+      "comments": 723,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47096253",
+      "category": "ai",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47104667",
+      "source": "hackernews",
+      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+      "url": "https://github.com/xaskasdf/ntransformer",
+      "score": 227,
+      "comments": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47104667",
+      "category": "ai",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47101171",
+      "source": "hackernews",
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "url": "https://www.koreaherald.com/article/10679206",
+      "score": 196,
+      "comments": 181,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47101171",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47103931",
+      "source": "hackernews",
+      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+      "score": 182,
+      "comments": 44,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47103931",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47104185",
+      "source": "hackernews",
+      "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
+      "url": "https://www.eduke32.com/",
+      "score": 182,
+      "comments": 65,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47104185",
+      "category": "opensource",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47100232",
+      "source": "hackernews",
+      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+      "url": "https://github.com/tnm/zclaw",
+      "score": 160,
+      "comments": 84,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47100232",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47103136",
+      "source": "hackernews",
+      "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
+      "score": 136,
+      "comments": 311,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47103136",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47095105",
+      "source": "hackernews",
+      "title": "A16z partner says that the theory that we’ll vibe code everything is wrong",
+      "url": "https://www.aol.com/articles/a16z-partner-says-theory-well-050150534.html",
+      "score": 129,
+      "comments": 190,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47095105",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47105198",
+      "source": "hackernews",
+      "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+      "url": "https://www.science.org/doi/10.1126/science.adq7188",
+      "score": 122,
+      "comments": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47105198",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47106985",
+      "source": "hackernews",
+      "title": "A Botnet Accidentally Destroyed I2P",
+      "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+      "score": 93,
+      "comments": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47106985",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47098669",
+      "source": "hackernews",
+      "title": "Coccinelle: Source-to-source transformation tool",
+      "url": "https://github.com/coccinelle/coccinelle",
+      "score": 93,
+      "comments": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47098669",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47103661",
+      "source": "hackernews",
+      "title": "How Taalas \"prints\" LLM onto a chip?",
+      "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+      "score": 92,
+      "comments": 42,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47103661",
+      "category": "ai",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47103506",
+      "source": "hackernews",
+      "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
+      "url": "https://github.com/a-e-k/canvas_ity",
+      "score": 90,
+      "comments": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47103506",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47046070",
+      "source": "hackernews",
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "score": 82,
+      "comments": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47046070",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47096167",
+      "source": "hackernews",
+      "title": "Gamedate – A site to revive dead multiplayer games",
+      "url": "https://gamedate.org/",
+      "score": 81,
+      "comments": 8,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47096167",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    },
+    {
+      "id": "hn-47107781",
+      "source": "hackernews",
+      "title": "Japanese Woodblock Print Search",
+      "url": "https://ukiyo-e.org/",
+      "score": 74,
+      "comments": 12,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47107781",
+      "category": "tools",
+      "fetchedAt": "2026-02-22T08:38:15.412Z"
+    }
+  ]
+}
