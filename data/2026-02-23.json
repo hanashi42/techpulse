@@ -1,0 +1,450 @@
+{
+  "date": "2026-02-23",
+  "items": [
+    {
+      "id": "gh-1162194563",
+      "source": "github",
+      "title": "ShinMegamiBoson/OpenPlanter: ",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+      "score": 1107,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 1107,
+        "forks": 163
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "hn-47113728",
+      "source": "hackernews",
+      "title": "I built Timeframe, our family e-paper dashboard",
+      "url": "https://hawksley.org/2026/02/17/timeframe.html",
+      "score": 1045,
+      "comments": 249,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47113728",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "gh-1163317794",
+      "source": "github",
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot: ",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "score": 681,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 681,
+        "forks": 0
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1161318197",
+      "source": "github",
+      "title": "RightNow-AI/picolm: Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "url": "https://github.com/RightNow-AI/picolm",
+      "score": 675,
+      "category": "ai",
+      "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "extra": {
+        "language": "C",
+        "stars": 675,
+        "forks": 67
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1162099055",
+      "source": "github",
+      "title": "Leonxlnx/taste-skill: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "score": 639,
+      "category": "tools",
+      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
+      "extra": {
+        "language": "Unknown",
+        "stars": 639,
+        "forks": 40
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1162163663",
+      "source": "github",
+      "title": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot: Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot ||",
+      "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+      "score": 609,
+      "category": "tools",
+      "description": "Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 609,
+        "forks": 3
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "hn-47110515",
+      "source": "hackernews",
+      "title": "Attention Media ≠ Social Networks",
+      "url": "https://susam.net/attention-media-vs-social-networks.html",
+      "score": 600,
+      "comments": 251,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47110515",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47115805",
+      "source": "hackernews",
+      "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+      "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+      "score": 580,
+      "comments": 482,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47115805",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "gh-1161415745",
+      "source": "github",
+      "title": "olvvier/apple-silicon-accelerometer: reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+      "score": 559,
+      "category": "tools",
+      "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "extra": {
+        "language": "Python",
+        "stars": 559,
+        "forks": 33
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1161025758",
+      "source": "github",
+      "title": "TraderAlice/OpenAlice: File-driven AI trading agent engine for crypto and securities markets",
+      "url": "https://github.com/TraderAlice/OpenAlice",
+      "score": 497,
+      "category": "ai",
+      "description": "File-driven AI trading agent engine for crypto and securities markets",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 497,
+        "forks": 63
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1163982597",
+      "source": "github",
+      "title": "Kirubel125/Kalshi-Claw: ",
+      "url": "https://github.com/Kirubel125/Kalshi-Claw",
+      "score": 425,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 425,
+        "forks": 1
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "hn-47113618",
+      "source": "hackernews",
+      "title": "Loops is a federated, open-source TikTok",
+      "url": "https://joinloops.org/",
+      "score": 400,
+      "comments": 245,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47113618",
+      "category": "opensource",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "gh-1163024903",
+      "source": "github",
+      "title": "vercel-labs/visual-json: The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "url": "https://github.com/vercel-labs/visual-json",
+      "score": 372,
+      "category": "tools",
+      "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 372,
+        "forks": 18
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1160175822",
+      "source": "github",
+      "title": "Pickle-Pixel/ApplyPilot: AI agent that applies to jobs for you. Any site. Any form.",
+      "url": "https://github.com/Pickle-Pixel/ApplyPilot",
+      "score": 368,
+      "category": "ai",
+      "description": "AI agent that applies to jobs for you. Any site. Any form.",
+      "extra": {
+        "language": "Python",
+        "stars": 368,
+        "forks": 106
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1163121560",
+      "source": "github",
+      "title": "dnakov/litter: ",
+      "url": "https://github.com/dnakov/litter",
+      "score": 351,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Kotlin",
+        "stars": 351,
+        "forks": 28
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1160953701",
+      "source": "github",
+      "title": "socprime/detectflow-main: Detection intelligence turbocharged with Al.",
+      "url": "https://github.com/socprime/detectflow-main",
+      "score": 334,
+      "category": "tools",
+      "description": "Detection intelligence turbocharged with Al.",
+      "extra": {
+        "language": "Unknown",
+        "stars": 334,
+        "forks": 36
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1161896420",
+      "source": "github",
+      "title": "Done-0/value-realization: Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.",
+      "url": "https://github.com/Done-0/value-realization",
+      "score": 330,
+      "category": "tools",
+      "description": "Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.",
+      "extra": {
+        "language": "Unknown",
+        "stars": 330,
+        "forks": 27
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1161267371",
+      "source": "github",
+      "title": "xaskasdf/ntransformer: High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.",
+      "url": "https://github.com/xaskasdf/ntransformer",
+      "score": 317,
+      "category": "ai",
+      "description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.",
+      "extra": {
+        "language": "C++",
+        "stars": 317,
+        "forks": 16
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "gh-1161071790",
+      "source": "github",
+      "title": "badaramoni/wave-field-llm: An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "url": "https://github.com/badaramoni/wave-field-llm",
+      "score": 315,
+      "category": "ai",
+      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "extra": {
+        "language": "Python",
+        "stars": 315,
+        "forks": 43
+      },
+      "fetchedAt": "2026-02-23T08:56:43.062Z"
+    },
+    {
+      "id": "hn-47114530",
+      "source": "hackernews",
+      "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
+      "url": "https://cia-factbook-archive.fly.dev/",
+      "score": 311,
+      "comments": 77,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47114530",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47111400",
+      "source": "hackernews",
+      "title": "Man accidentally gains control of 7k robot vacuums",
+      "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+      "score": 282,
+      "comments": 154,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47111400",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47112174",
+      "source": "hackernews",
+      "title": "Fix your tools",
+      "url": "https://ochagavia.nl/blog/fix-your-tools/",
+      "score": 238,
+      "comments": 77,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47112174",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47067031",
+      "source": "hackernews",
+      "title": "My journey to the microwave alternate timeline",
+      "url": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
+      "score": 213,
+      "comments": 66,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47067031",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47113796",
+      "source": "hackernews",
+      "title": "Six Math Essentials",
+      "url": "https://terrytao.wordpress.com/2026/02/16/six-math-essentials/",
+      "score": 208,
+      "comments": 45,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47113796",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47117780",
+      "source": "hackernews",
+      "title": "Freemediaheckyeah",
+      "url": "https://fmhy.net/",
+      "score": 195,
+      "comments": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47117780",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47113567",
+      "source": "hackernews",
+      "title": "Show HN: Local-First Linux MicroVMs for macOS",
+      "url": "https://shuru.run",
+      "score": 167,
+      "comments": 53,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47113567",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47111218",
+      "source": "hackernews",
+      "title": "Git's Magic Files",
+      "url": "https://nesbitt.io/2026/02/05/git-magic-files.html",
+      "score": 148,
+      "comments": 43,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47111218",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47117459",
+      "source": "hackernews",
+      "title": "The JavaScript Oxidation Compiler",
+      "url": "https://oxc.rs/",
+      "score": 146,
+      "comments": 50,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47117459",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47119210",
+      "source": "hackernews",
+      "title": "Pope tells priests to use their brains, not AI, to write homilies",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+      "score": 125,
+      "comments": 98,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47119210",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47112925",
+      "source": "hackernews",
+      "title": "Hello Worg, the Org-Mode Community",
+      "url": "https://orgmode.org/worg/",
+      "score": 123,
+      "comments": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47112925",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47112892",
+      "source": "hackernews",
+      "title": "Emulated Windows 3.11 in the Browser",
+      "url": "https://pieter.com/",
+      "score": 117,
+      "comments": 58,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47112892",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47113527",
+      "source": "hackernews",
+      "title": "Linuxulator on FreeBSD Feels Like Magic",
+      "url": "https://hayzam.com/blog/02-linuxulator-is-awesome/",
+      "score": 108,
+      "comments": 39,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47113527",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47113325",
+      "source": "hackernews",
+      "title": "Fresh File Explorer – VS Code extension for navigating recent work",
+      "url": "https://github.com/FreHu/vscode-fresh-file-explorer",
+      "score": 93,
+      "comments": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47113325",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47078112",
+      "source": "hackernews",
+      "title": "0 A.D. Release 28: Boiorix",
+      "url": "https://play0ad.com/new-release-0-a-d-release-28-boiorix/",
+      "score": 92,
+      "comments": 25,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47078112",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    },
+    {
+      "id": "hn-47115575",
+      "source": "hackernews",
+      "title": "Using the new bridges of FreeBSD 15",
+      "url": "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/",
+      "score": 85,
+      "comments": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47115575",
+      "category": "tools",
+      "fetchedAt": "2026-02-23T08:56:42.787Z"
+    }
+  ]
+}
