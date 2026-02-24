@@ -1,0 +1,450 @@
+{
+  "date": "2026-02-24",
+  "items": [
+    {
+      "id": "hn-47122715",
+      "source": "hackernews",
+      "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+      "url": "https://spectrum.ieee.org/age-verification",
+      "score": 1424,
+      "comments": 1079,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47122715",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "gh-1162194563",
+      "source": "github",
+      "title": "ShinMegamiBoson/OpenPlanter: ",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+      "score": 1261,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 1261,
+        "forks": 185
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "hn-47120899",
+      "source": "hackernews",
+      "title": "Ladybird adopts Rust, with help from AI",
+      "url": "https://ladybird.org/posts/adopting-rust/",
+      "score": 1158,
+      "comments": 635,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47120899",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "gh-1162099055",
+      "source": "github",
+      "title": "Leonxlnx/taste-skill: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "score": 1036,
+      "category": "tools",
+      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
+      "extra": {
+        "language": "Unknown",
+        "stars": 1036,
+        "forks": 61
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1161318197",
+      "source": "github",
+      "title": "RightNow-AI/picolm: Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "url": "https://github.com/RightNow-AI/picolm",
+      "score": 746,
+      "category": "ai",
+      "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "extra": {
+        "language": "C",
+        "stars": 746,
+        "forks": 75
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1161415745",
+      "source": "github",
+      "title": "olvvier/apple-silicon-accelerometer: reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+      "score": 725,
+      "category": "tools",
+      "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "extra": {
+        "language": "Python",
+        "stars": 725,
+        "forks": 42
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1163317794",
+      "source": "github",
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot: ",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "score": 685,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 685,
+        "forks": 1
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1161025758",
+      "source": "github",
+      "title": "TraderAlice/OpenAlice: File-driven AI trading agent engine for crypto and securities markets",
+      "url": "https://github.com/TraderAlice/OpenAlice",
+      "score": 602,
+      "category": "ai",
+      "description": "File-driven AI trading agent engine for crypto and securities markets",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 602,
+        "forks": 71
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1163982597",
+      "source": "github",
+      "title": "Kirubel125/Kalshi-Claw: ",
+      "url": "https://github.com/Kirubel125/Kalshi-Claw",
+      "score": 524,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 524,
+        "forks": 2
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1162163663",
+      "source": "github",
+      "title": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot: Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot ||",
+      "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+      "score": 493,
+      "category": "tools",
+      "description": "Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 493,
+        "forks": 2
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1163024903",
+      "source": "github",
+      "title": "vercel-labs/visual-json: The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "url": "https://github.com/vercel-labs/visual-json",
+      "score": 466,
+      "category": "tools",
+      "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 466,
+        "forks": 23
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1164025244",
+      "source": "github",
+      "title": "andyhuo520/aetherviz-master: AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
+      "url": "https://github.com/andyhuo520/aetherviz-master",
+      "score": 424,
+      "category": "tools",
+      "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
+      "extra": {
+        "language": "Unknown",
+        "stars": 424,
+        "forks": 65
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1161940285",
+      "source": "github",
+      "title": "quoroom-ai/room: Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, ",
+      "url": "https://github.com/quoroom-ai/room",
+      "score": 368,
+      "category": "ai",
+      "description": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 368,
+        "forks": 4
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1163121560",
+      "source": "github",
+      "title": "dnakov/litter: ",
+      "url": "https://github.com/dnakov/litter",
+      "score": 362,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Kotlin",
+        "stars": 362,
+        "forks": 28
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1161896420",
+      "source": "github",
+      "title": "Done-0/value-realization: Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.",
+      "url": "https://github.com/Done-0/value-realization",
+      "score": 362,
+      "category": "tools",
+      "description": "Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns.",
+      "extra": {
+        "language": "Unknown",
+        "stars": 362,
+        "forks": 33
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1161071790",
+      "source": "github",
+      "title": "badaramoni/wave-field-llm: An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "url": "https://github.com/badaramoni/wave-field-llm",
+      "score": 361,
+      "category": "ai",
+      "description": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality.",
+      "extra": {
+        "language": "Python",
+        "stars": 361,
+        "forks": 51
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "gh-1161280162",
+      "source": "github",
+      "title": "NikkeTryHard/zerogravity: OpenAI, Anthropic, and Gemini-compatible proxy that looks like real Antigravity traffic to Google.",
+      "url": "https://github.com/NikkeTryHard/zerogravity",
+      "score": 361,
+      "category": "ai",
+      "description": "OpenAI, Anthropic, and Gemini-compatible proxy that looks like real Antigravity traffic to Google.",
+      "extra": {
+        "language": "Dockerfile",
+        "stars": 361,
+        "forks": 23
+      },
+      "fetchedAt": "2026-02-24T08:55:31.808Z"
+    },
+    {
+      "id": "hn-47129361",
+      "source": "hackernews",
+      "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
+      "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+      "score": 350,
+      "comments": 287,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47129361",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47123631",
+      "source": "hackernews",
+      "title": "Show HN: PgDog – Scale Postgres without changing the app",
+      "url": "https://github.com/pgdogdev/pgdog",
+      "score": 254,
+      "comments": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47123631",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47124149",
+      "source": "hackernews",
+      "title": "A simple web we own",
+      "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
+      "score": 227,
+      "comments": 152,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47124149",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47123689",
+      "source": "hackernews",
+      "title": "Terence Tao, at 8 years old (1984) [pdf]",
+      "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+      "score": 224,
+      "comments": 84,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47123689",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47132388",
+      "source": "hackernews",
+      "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+      "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+      "score": 223,
+      "comments": 79,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47132388",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47128138",
+      "source": "hackernews",
+      "title": "“Car Wash” test with 53 models",
+      "url": "https://opper.ai/blog/car-wash-test",
+      "score": 207,
+      "comments": 243,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47128138",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47133313",
+      "source": "hackernews",
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "score": 188,
+      "comments": 152,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47133313",
+      "category": "product",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47131173",
+      "source": "hackernews",
+      "title": "Shatner is making an album with 35 metal icons",
+      "url": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
+      "score": 177,
+      "comments": 76,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47131173",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47130860",
+      "source": "hackernews",
+      "title": "I Ported Coreboot to the ThinkPad X270",
+      "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+      "score": 176,
+      "comments": 26,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47130860",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47127986",
+      "source": "hackernews",
+      "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
+      "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+      "score": 173,
+      "comments": 53,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47127986",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47125374",
+      "source": "hackernews",
+      "title": "Writing code is cheap now",
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/",
+      "score": 157,
+      "comments": 221,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47125374",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47129727",
+      "source": "hackernews",
+      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "score": 153,
+      "comments": 82,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47129727",
+      "category": "ai",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47131225",
+      "source": "hackernews",
+      "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+      "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+      "score": 141,
+      "comments": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47131225",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47125286",
+      "source": "hackernews",
+      "title": "What it means that Ubuntu is using Rust",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
+      "score": 136,
+      "comments": 151,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47125286",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47128535",
+      "source": "hackernews",
+      "title": "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
+      "url": "https://github.com/vignesh07/babyshark",
+      "score": 110,
+      "comments": 40,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47128535",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47132102",
+      "source": "hackernews",
+      "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
+      "url": "https://lyra.horse/x86css/",
+      "score": 108,
+      "comments": 41,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47132102",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47133055",
+      "source": "hackernews",
+      "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
+      "url": "https://github.com/GreatScott/enveil",
+      "score": 61,
+      "comments": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47133055",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    },
+    {
+      "id": "hn-47079208",
+      "source": "hackernews",
+      "title": "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
+      "url": "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/",
+      "score": 60,
+      "comments": 15,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47079208",
+      "category": "tools",
+      "fetchedAt": "2026-02-24T08:55:31.578Z"
+    }
+  ]
+}
