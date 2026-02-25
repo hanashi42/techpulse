@@ -1,0 +1,450 @@
+{
+  "date": "2026-02-25",
+  "items": [
+    {
+      "id": "gh-1165371200",
+      "source": "github",
+      "title": "cloudflare/vinext: Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+      "url": "https://github.com/cloudflare/vinext",
+      "score": 1595,
+      "category": "tools",
+      "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1595,
+        "forks": 28
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1162099055",
+      "source": "github",
+      "title": "Leonxlnx/taste-skill: Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "score": 1500,
+      "category": "tools",
+      "description": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" ",
+      "extra": {
+        "language": "Unknown",
+        "stars": 1500,
+        "forks": 95
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1162194563",
+      "source": "github",
+      "title": "ShinMegamiBoson/OpenPlanter: ",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+      "score": 1305,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 1305,
+        "forks": 196
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "hn-47139675",
+      "source": "hackernews",
+      "title": "I'm helping my dog vibe code games",
+      "url": "https://www.calebleak.com/posts/dog-game/",
+      "score": 889,
+      "comments": 263,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47139675",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "gh-1161318197",
+      "source": "github",
+      "title": "RightNow-AI/picolm: Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "url": "https://github.com/RightNow-AI/picolm",
+      "score": 865,
+      "category": "ai",
+      "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "extra": {
+        "language": "C",
+        "stars": 865,
+        "forks": 90
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1161415745",
+      "source": "github",
+      "title": "olvvier/apple-silicon-accelerometer: reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+      "score": 793,
+      "category": "tools",
+      "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
+      "extra": {
+        "language": "Python",
+        "stars": 793,
+        "forks": 43
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1165056385",
+      "source": "github",
+      "title": "anthropics/financial-services-plugins: ",
+      "url": "https://github.com/anthropics/financial-services-plugins",
+      "score": 754,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 754,
+        "forks": 60
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1163317794",
+      "source": "github",
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot: ",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "score": 679,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 679,
+        "forks": 5
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1165733654",
+      "source": "github",
+      "title": "Polymarket/polymarket-cli: ",
+      "url": "https://github.com/Polymarket/polymarket-cli",
+      "score": 668,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Rust",
+        "stars": 668,
+        "forks": 51
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1163982597",
+      "source": "github",
+      "title": "Kirubel125/Kalshi-Claw: ",
+      "url": "https://github.com/Kirubel125/Kalshi-Claw",
+      "score": 622,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 622,
+        "forks": 8
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1163251644",
+      "source": "github",
+      "title": "kevinho/clawfeed: ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
+      "url": "https://github.com/kevinho/clawfeed",
+      "score": 584,
+      "category": "tools",
+      "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
+      "extra": {
+        "language": "HTML",
+        "stars": 584,
+        "forks": 72
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1165277268",
+      "source": "github",
+      "title": "Panniantong/Agent-Reach: ",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "score": 556,
+      "category": "ai",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 556,
+        "forks": 53
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1163024903",
+      "source": "github",
+      "title": "vercel-labs/visual-json: The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "url": "https://github.com/vercel-labs/visual-json",
+      "score": 513,
+      "category": "tools",
+      "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 513,
+        "forks": 26
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "gh-1162163663",
+      "source": "github",
+      "title": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot: Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot ||",
+      "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+      "score": 497,
+      "category": "tools",
+      "description": "Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 497,
+        "forks": 2
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "hn-47143152",
+      "source": "hackernews",
+      "title": "Mac mini will be made at a new facility in Houston",
+      "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+      "score": 495,
+      "comments": 487,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47143152",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "gh-1164025244",
+      "source": "github",
+      "title": "andyhuo520/aetherviz-master: AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
+      "url": "https://github.com/andyhuo520/aetherviz-master",
+      "score": 479,
+      "category": "tools",
+      "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
+      "extra": {
+        "language": "Unknown",
+        "stars": 479,
+        "forks": 81
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "hn-47136604",
+      "source": "hackernews",
+      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
+      "url": "https://wordglyph.xyz/one-piece-at-a-time",
+      "score": 450,
+      "comments": 163,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47136604",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "gh-1163121560",
+      "source": "github",
+      "title": "dnakov/litter: ",
+      "url": "https://github.com/dnakov/litter",
+      "score": 438,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Kotlin",
+        "stars": 438,
+        "forks": 32
+      },
+      "fetchedAt": "2026-02-25T08:55:57.355Z"
+    },
+    {
+      "id": "hn-47145907",
+      "source": "hackernews",
+      "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+      "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+      "score": 397,
+      "comments": 125,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47145907",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47143754",
+      "source": "hackernews",
+      "title": "Pi – A minimal terminal coding harness",
+      "url": "https://pi.dev",
+      "score": 345,
+      "comments": 144,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47143754",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47114678",
+      "source": "hackernews",
+      "title": "We installed a single turnstile to feel secure",
+      "url": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
+      "score": 332,
+      "comments": 160,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47114678",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47140042",
+      "source": "hackernews",
+      "title": "Nearby Glasses",
+      "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+      "score": 316,
+      "comments": 115,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47140042",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47145963",
+      "source": "hackernews",
+      "title": "Anthropic Drops Flagship Safety Pledge",
+      "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+      "score": 274,
+      "comments": 113,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47145963",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47141797",
+      "source": "hackernews",
+      "title": "Hacking an old Kindle to display bus arrival times",
+      "url": "https://www.mariannefeng.com/portfolio/kindle/",
+      "score": 245,
+      "comments": 53,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47141797",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47143755",
+      "source": "hackernews",
+      "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "score": 235,
+      "comments": 49,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47143755",
+      "category": "ai",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47136537",
+      "source": "hackernews",
+      "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+      "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
+      "score": 208,
+      "comments": 207,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47136537",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47140657",
+      "source": "hackernews",
+      "title": "Steel Bank Common Lisp",
+      "url": "https://www.sbcl.org/",
+      "score": 206,
+      "comments": 81,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47140657",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47144464",
+      "source": "hackernews",
+      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+      "score": 205,
+      "comments": 90,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47144464",
+      "category": "ai",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47137711",
+      "source": "hackernews",
+      "title": "Stripe valued at $159B, 2025 annual letter",
+      "url": "https://stripe.com/newsroom/news/stripe-2025-update",
+      "score": 201,
+      "comments": 211,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47137711",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47143211",
+      "source": "hackernews",
+      "title": "Looks like it is happening",
+      "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15500",
+      "score": 172,
+      "comments": 122,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47143211",
+      "category": "product",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47139902",
+      "source": "hackernews",
+      "title": "Hugging Face Skills",
+      "url": "https://github.com/huggingface/skills",
+      "score": 163,
+      "comments": 45,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47139902",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47140322",
+      "source": "hackernews",
+      "title": "Show HN: Emdash – Open-source agentic development environment",
+      "url": "https://github.com/generalaction/emdash",
+      "score": 148,
+      "comments": 59,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47140322",
+      "category": "ai",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47144325",
+      "source": "hackernews",
+      "title": "Cell Service for the Fairly Paranoid",
+      "url": "https://www.cape.co/",
+      "score": 90,
+      "comments": 93,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47144325",
+      "category": "product",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47104227",
+      "source": "hackernews",
+      "title": "Aesthetics of single threading",
+      "url": "https://ta.fo/aesthetics-of-single-threading/",
+      "score": 72,
+      "comments": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47104227",
+      "category": "tools",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    },
+    {
+      "id": "hn-47092809",
+      "source": "hackernews",
+      "title": "Georgian wine culture dates back, uninterrupted, approximately 8k years",
+      "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/july/05/exploring-georgian-wine-history-grape-varieties-styles-and-amber-wine/",
+      "score": 62,
+      "comments": 49,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47092809",
+      "category": "product",
+      "fetchedAt": "2026-02-25T08:55:57.200Z"
+    }
+  ]
+}
