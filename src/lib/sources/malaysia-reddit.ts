@@ -1,7 +1,10 @@
 import { categorize } from "../categorize";
-import type { NewsItem } from "../types";
+import type { Category, NewsItem } from "../types";
 
-const SUBREDDITS = ["LocalLLaMA", "MachineLearning", "selfhosted"];
+const SUBREDDITS: { name: string; defaultCategory: Category }[] = [
+  { name: "malaysia", defaultCategory: "malaysia" },
+  { name: "MalaysianPF", defaultCategory: "money" },
+];
 
 const BROWSER_UA =
   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
@@ -23,10 +26,7 @@ interface RedditPost {
 async function tryFetch(url: string): Promise<Response | null> {
   try {
     const res = await fetch(url, {
-      headers: {
-        "User-Agent": BROWSER_UA,
-        Accept: "application/json",
-      },
+      headers: { "User-Agent": BROWSER_UA, Accept: "application/json" },
     });
     if (res.ok) return res;
     console.error(`Reddit ${url} → ${res.status}`);
@@ -36,15 +36,17 @@ async function tryFetch(url: string): Promise<Response | null> {
   return null;
 }
 
-export async function fetchReddit(minScore = 30, limit = 10): Promise<NewsItem[]> {
+export async function fetchMalaysiaReddit(
+  minScore = 10,
+  limit = 10,
+): Promise<NewsItem[]> {
   const allItems: NewsItem[] = [];
   const now = new Date().toISOString();
 
   for (const sub of SUBREDDITS) {
-    // Try multiple endpoints — Reddit blocks differently by IP/UA
     const res =
-      (await tryFetch(`https://www.reddit.com/r/${sub}/hot.json?limit=25&raw_json=1`)) ??
-      (await tryFetch(`https://old.reddit.com/r/${sub}/hot.json?limit=25&raw_json=1`));
+      (await tryFetch(`https://www.reddit.com/r/${sub.name}/hot.json?limit=25&raw_json=1`)) ??
+      (await tryFetch(`https://old.reddit.com/r/${sub.name}/hot.json?limit=25&raw_json=1`));
 
     if (!res) continue;
 
@@ -56,14 +58,14 @@ export async function fetchReddit(minScore = 30, limit = 10): Promise<NewsItem[]
       if (p.score < minScore) continue;
 
       allItems.push({
-        id: `reddit-${p.id}`,
+        id: `reddit-my-${p.id}`,
         source: "reddit",
         title: p.title,
         url: p.is_self ? `https://reddit.com${p.permalink}` : p.url,
         score: p.score,
         comments: p.num_comments,
         commentsUrl: `https://reddit.com${p.permalink}`,
-        category: categorize(p.title, p.selftext.slice(0, 300), "tech"),
+        category: categorize(p.title, p.selftext.slice(0, 300), sub.defaultCategory),
         description: p.selftext.slice(0, 200) || undefined,
         extra: { subreddit: p.subreddit },
         fetchedAt: now,
@@ -71,7 +73,5 @@ export async function fetchReddit(minScore = 30, limit = 10): Promise<NewsItem[]
     }
   }
 
-  return allItems
-    .sort((a, b) => b.score - a.score)
-    .slice(0, limit);
+  return allItems.sort((a, b) => b.score - a.score).slice(0, limit);
 }

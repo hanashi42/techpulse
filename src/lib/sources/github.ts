@@ -13,7 +13,7 @@ export async function fetchGitHubTrending(limit = 15): Promise<NewsItem[]> {
     {
       headers: {
         Accept: "application/vnd.github.v3+json",
-        "User-Agent": "TechPulse/1.0",
+        "User-Agent": "Polaris/1.0",
       },
     }
   );
@@ -34,7 +34,8 @@ export async function fetchGitHubTrending(limit = 15): Promise<NewsItem[]> {
     score: repo.stargazers_count as number,
     category: categorize(
       `${repo.full_name} ${repo.description ?? ""}`,
-      repo.language as string | undefined
+      repo.language as string | undefined,
+      "tech",
     ),
     description: (repo.description as string) ?? "",
     extra: {

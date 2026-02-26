@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TechPulse",
-  description: "Daily curated tech news from HN, GitHub, Reddit & more",
+  title: "Polaris",
+  description: "Your daily information compass — Malaysia, world, finance, tech & life",
 };
 
 export default function RootLayout({

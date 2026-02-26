@@ -6,10 +6,11 @@ import type { DailyData, Category, NewsItem, Source } from "@/lib/types";
 
 const CATEGORIES: { key: Category | "all"; label: string }[] = [
   { key: "all", label: "All" },
-  { key: "ai", label: "AI / LLM" },
-  { key: "opensource", label: "Open Source" },
-  { key: "tools", label: "Dev Tools" },
-  { key: "product", label: "Products" },
+  { key: "malaysia", label: "Malaysia" },
+  { key: "world", label: "World" },
+  { key: "money", label: "Money" },
+  { key: "tech", label: "Tech" },
+  { key: "life", label: "Life" },
 ];
 
 const SOURCE_META: Record<Source, { label: string; fullName: string; dot: string }> = {
@@ -17,6 +18,16 @@ const SOURCE_META: Record<Source, { label: string; fullName: string; dot: string
   github: { label: "GH", fullName: "GitHub Trending", dot: "bg-gh" },
   reddit: { label: "RD", fullName: "Reddit", dot: "bg-reddit" },
   producthunt: { label: "PH", fullName: "Product Hunt", dot: "bg-ph" },
+  thestar: { label: "Star", fullName: "The Star", dot: "bg-thestar" },
+  malaymail: { label: "MM", fullName: "Malay Mail", dot: "bg-malaymail" },
+  fmt: { label: "FMT", fullName: "Free Malaysia Today", dot: "bg-fmt" },
+  malaysiakini: { label: "MK", fullName: "Malaysiakini", dot: "bg-malaysiakini" },
+  bernama: { label: "BN", fullName: "Bernama", dot: "bg-bernama" },
+  sinchew: { label: "SC", fullName: "Sin Chew Daily", dot: "bg-sinchew" },
+  bbc: { label: "BBC", fullName: "BBC News", dot: "bg-bbc" },
+  scmp: { label: "SCMP", fullName: "South China Morning Post", dot: "bg-scmp" },
+  mrstingy: { label: "MS", fullName: "Mr Stingy", dot: "bg-mrstingy" },
+  ringgitoh: { label: "RO", fullName: "Ringgit Oh Ringgit", dot: "bg-ringgitoh" },
 };
 
 function formatScore(n: number): string {
@@ -24,8 +35,12 @@ function formatScore(n: number): string {
   return String(n);
 }
 
+// RSS items have position-based scores (1-5), don't show upvote icon for those
+const LOW_SCORE_THRESHOLD = 10;
+
 function NewsCard({ item }: { item: NewsItem }) {
   const meta = SOURCE_META[item.source];
+  const showScore = item.score >= LOW_SCORE_THRESHOLD;
 
   return (
     <a
@@ -49,12 +64,17 @@ function NewsCard({ item }: { item: NewsItem }) {
             </p>
           )}
           <div className="mt-2 flex items-center gap-3 text-xs text-muted">
-            <span className="flex items-center gap-1">
-              <svg className="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                <path strokeLinecap="round" strokeLinejoin="round" d="M5 15l7-7 7 7" />
-              </svg>
-              {formatScore(item.score)}
-            </span>
+            {showScore && (
+              <span className="flex items-center gap-1">
+                <svg className="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M5 15l7-7 7 7" />
+                </svg>
+                {formatScore(item.score)}
+              </span>
+            )}
+            {!showScore && (
+              <span className="text-muted/60">{meta.label}</span>
+            )}
             {item.comments !== undefined && (
               <a
                 href={item.commentsUrl || item.url}
@@ -110,7 +130,7 @@ export default function Dashboard({
     return d.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" });
   };
 
-  const sourceCount = (source: Source) => items.filter((i) => i.source === source).length;
+  const categoryCount = (cat: Category) => items.filter((i) => i.category === cat).length;
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-8">
@@ -119,9 +139,9 @@ export default function Dashboard({
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-2xl font-bold tracking-tight">
-              <span className="text-accent">Tech</span>Pulse
+              <span className="text-accent">Pol</span>aris
             </h1>
-            <p className="mt-1 text-sm text-muted">Daily curated tech news</p>
+            <p className="mt-1 text-sm text-muted">Your daily information compass</p>
           </div>
           <div className="flex items-center gap-2 text-sm text-muted">
             {prevDate && (
@@ -144,16 +164,15 @@ export default function Dashboard({
           </div>
         </div>
 
-        {/* Source stats */}
+        {/* Category stats */}
         <div className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-xs text-muted">
-          {(["hackernews", "github", "reddit", "producthunt"] as Source[]).map((s) => {
-            const count = sourceCount(s);
+          {(["malaysia", "world", "money", "tech", "life"] as Category[]).map((cat) => {
+            const count = categoryCount(cat);
             if (count === 0) return null;
-            const meta = SOURCE_META[s];
+            const label = CATEGORIES.find((c) => c.key === cat)!.label;
             return (
-              <span key={s} className="flex items-center gap-1.5">
-                <span className={`h-2 w-2 rounded-full ${meta.dot}`} />
-                {meta.fullName} {count}
+              <span key={cat}>
+                {label} {count}
               </span>
             );
           })}
@@ -201,7 +220,7 @@ export default function Dashboard({
 
       {/* Footer */}
       <footer className="mt-12 border-t border-border pt-4 text-center text-xs text-muted">
-        TechPulse &middot; Auto-updated daily from HN, GitHub, Reddit
+        Polaris &middot; Auto-updated daily from 14 sources across 5 domains
       </footer>
     </div>
   );

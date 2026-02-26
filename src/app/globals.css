@@ -13,6 +13,16 @@
   --color-gh: #8b5cf6;
   --color-reddit: #ff4500;
   --color-ph: #da552f;
+  --color-thestar: #1a3c6e;
+  --color-malaymail: #e31e24;
+  --color-fmt: #003d7a;
+  --color-malaysiakini: #d4272e;
+  --color-bernama: #00457c;
+  --color-sinchew: #c41230;
+  --color-bbc: #bb1919;
+  --color-scmp: #ff8c00;
+  --color-mrstingy: #2ecc71;
+  --color-ringgitoh: #e74c3c;
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }

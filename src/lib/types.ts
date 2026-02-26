@@ -1,6 +1,20 @@
-export type Source = "hackernews" | "github" | "reddit" | "producthunt";
+export type Source =
+  | "hackernews"
+  | "github"
+  | "reddit"
+  | "producthunt"
+  | "thestar"
+  | "malaymail"
+  | "fmt"
+  | "malaysiakini"
+  | "bernama"
+  | "sinchew"
+  | "bbc"
+  | "scmp"
+  | "mrstingy"
+  | "ringgitoh";
 
-export type Category = "ai" | "tools" | "opensource" | "product";
+export type Category = "tech" | "malaysia" | "world" | "money" | "life";
 
 export interface NewsItem {
   id: string;

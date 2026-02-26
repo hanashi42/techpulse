@@ -1,9 +1,9 @@
 import type { Category } from "./types";
 
-const AI_KEYWORDS = [
+const TECH_KEYWORDS = [
   "llm", "gpt", "llama", "mistral", "claude", "gemini", "deepseek",
   "transformer", "diffusion", "stable diffusion", "midjourney",
-  "fine-tune", "finetune", "fine tune", "lora", "qlora", "gguf", "ggml",
+  "fine-tune", "finetune", "lora", "qlora", "gguf", "ggml",
   "ollama", "vllm", "mlx", "whisper", "tts", "stt",
   "machine learning", "deep learning", "neural", "ai model",
   "langchain", "rag", "vector", "embedding", "tokenizer",
@@ -11,23 +11,60 @@ const AI_KEYWORDS = [
   "open-source model", "open source model", "local model",
   "inference", "quantiz", "benchmark",
   "comfyui", "automatic1111", "imagen", "sora", "flux",
-];
-
-const TOOL_KEYWORDS = [
-  "cli", "terminal", "editor", "ide", "vscode", "neovim", "vim",
+  "cli", "terminal", "editor", " ide ", "vscode", "neovim", "vim",
   "docker", "kubernetes", "k8s", "devops", "ci/cd",
   "database", "postgres", "sqlite", "redis",
   "api", "sdk", "framework", "library",
-  "rust", "go ", "golang", "typescript", "python",
-  "performance", "benchmark", "profil",
-  "shell", "bash", "zsh",
-  "debug", "test", "lint",
+  "rust", "golang", "typescript", "python",
+  "shell", "bash", "zsh", "debug", "test", "lint",
+  "open source", "github", "repo", "saas", "startup",
+  "product hunt", "launch", "developer",
 ];
 
-const PRODUCT_KEYWORDS = [
-  "launch", "product hunt", "saas", "startup",
-  "app", "platform", "service", "pricing",
-  "beta", "waitlist", "early access",
+const MALAYSIA_KEYWORDS = [
+  "malaysia", "malaysian", "kuala lumpur", "kl", "putrajaya",
+  "anwar", "pm ", "prime minister", "parliament", "dewan rakyat",
+  "ringgit", "myr", "bnm", "bank negara",
+  "penang", "johor", "sabah", "sarawak", "selangor",
+  "malay", "bumiputera", "umno", "pas ", "dap ", "pkr",
+  "madani", "unity government",
+  "proton", "petronas", "maybank", "tnb",
+  "spm", "stpm", "muet", "matriculation",
+];
+
+const WORLD_KEYWORDS = [
+  "ukraine", "russia", "china", "taiwan", "gaza", "israel",
+  "trump", "biden", "eu ", "nato", "un ",
+  "war", "conflict", "sanction", "diplomacy", "summit",
+  "geopolit", "foreign policy", "trade war",
+  "asean", "southeast asia", "indo-pacific",
+  "climate", "cop2", "emission",
+  "election", "referendum", "protest",
+  "north korea", "iran", "saudi",
+];
+
+const MONEY_KEYWORDS = [
+  "invest", "stock", "bond", "etf", "mutual fund",
+  "property", "real estate", "mortgage", "housing",
+  "inflation", "interest rate", "gdp", "recession",
+  "crypto", "bitcoin", "ethereum",
+  "bank", "loan", "credit", "debt",
+  "retire", "epf", "kwsp", "dividend",
+  "budget", "tax", "income tax", "gst", "sst",
+  "financial", "economy", "fiscal",
+  "savings", "personal finance", "money",
+  "fintech", "payment", "ewallet",
+];
+
+const LIFE_KEYWORDS = [
+  "health", "mental health", "wellness", "fitness", "exercise",
+  "food", "recipe", "restaurant", "cafe", "cuisine",
+  "travel", "vacation", "tourism", "hotel",
+  "book", "reading", "podcast", "documentary",
+  "culture", "art", "music", "film", "movie",
+  "lifestyle", "productivity", "habit",
+  "relationship", "family", "parenting",
+  "fashion", "design", "architecture",
 ];
 
 function matchesKeywords(text: string, keywords: string[]): number {
@@ -35,22 +72,28 @@ function matchesKeywords(text: string, keywords: string[]): number {
   return keywords.filter((kw) => lower.includes(kw)).length;
 }
 
-export function categorize(title: string, description?: string): Category {
+export function categorize(
+  title: string,
+  description?: string,
+  defaultCategory: Category = "tech",
+): Category {
   const text = `${title} ${description ?? ""}`;
 
   const scores: Record<Category, number> = {
-    ai: matchesKeywords(text, AI_KEYWORDS),
-    tools: matchesKeywords(text, TOOL_KEYWORDS),
-    product: matchesKeywords(text, PRODUCT_KEYWORDS),
-    opensource: 0,
+    tech: matchesKeywords(text, TECH_KEYWORDS),
+    malaysia: matchesKeywords(text, MALAYSIA_KEYWORDS),
+    world: matchesKeywords(text, WORLD_KEYWORDS),
+    money: matchesKeywords(text, MONEY_KEYWORDS),
+    life: matchesKeywords(text, LIFE_KEYWORDS),
   };
 
-  // GitHub source items with "star" or "open source" lean opensource
-  if (/open.?source|github|repo/i.test(text)) {
-    scores.opensource += 2;
-  }
-
   const best = Object.entries(scores).sort((a, b) => b[1] - a[1])[0];
-  if (best[1] === 0) return "tools"; // default category
+
+  // Only override source hint when keyword signal is strong (>= 3 matches)
+  if (best[1] >= 3) return best[0] as Category;
+  if (best[1] === 0) return defaultCategory;
+
+  // Weak signal (1-2 matches): prefer source hint if it also scored
+  if (scores[defaultCategory] > 0) return defaultCategory;
   return best[0] as Category;
 }

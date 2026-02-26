@@ -4,6 +4,10 @@ import { fetchHackerNews } from "../src/lib/sources/hackernews";
 import { fetchGitHubTrending } from "../src/lib/sources/github";
 import { fetchReddit } from "../src/lib/sources/reddit";
 import { fetchProductHunt } from "../src/lib/sources/producthunt";
+import { fetchMalaysiaNews } from "../src/lib/sources/malaysia-news";
+import { fetchMalaysiaReddit } from "../src/lib/sources/malaysia-reddit";
+import { fetchWorldNews } from "../src/lib/sources/world-news";
+import { fetchFinance } from "../src/lib/sources/finance";
 import type { DailyData, NewsItem } from "../src/lib/types";
 
 async function main() {
@@ -20,18 +24,33 @@ async function main() {
       return items;
     }),
     fetchReddit().then((items) => {
-      console.log(`  Reddit: ${items.length} items`);
+      console.log(`  Reddit (tech): ${items.length} items`);
       return items;
     }),
     fetchProductHunt().then((items) => {
       console.log(`  PH: ${items.length} items`);
       return items;
     }),
+    fetchMalaysiaNews(),
+    fetchMalaysiaReddit().then((items) => {
+      console.log(`  Reddit (MY): ${items.length} items`);
+      return items;
+    }),
+    fetchWorldNews(),
+    fetchFinance(),
   ]);
 
   const items: NewsItem[] = results.flatMap((r) =>
     r.status === "fulfilled" ? r.value : []
   );
+
+  // Log any failures
+  const names = ["HN", "GitHub", "Reddit", "PH", "MY News", "MY Reddit", "World", "Finance"];
+  results.forEach((r, i) => {
+    if (r.status === "rejected") {
+      console.error(`  ${names[i]} FAILED:`, r.reason);
+    }
+  });
 
   // Merge with existing data (preserves items from sources that failed this run)
   const dataDir = join(process.cwd(), "data");

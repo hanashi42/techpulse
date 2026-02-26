@@ -43,7 +43,7 @@ export async function fetchHackerNews(minScore = 50, limit = 20): Promise<NewsIt
       score: item.score,
       comments: item.descendants ?? 0,
       commentsUrl: `https://news.ycombinator.com/item?id=${item.id}`,
-      category: categorize(item.title),
+      category: categorize(item.title, undefined, "tech"),
       fetchedAt: now,
     }));
 }

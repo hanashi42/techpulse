@@ -63,7 +63,7 @@ export async function fetchProductHunt(limit = 5): Promise<NewsItem[]> {
         score: n.votesCount as number,
         comments: n.commentsCount as number,
         commentsUrl: n.url as string,
-        category: categorize(n.name as string, n.tagline as string),
+        category: categorize(n.name as string, n.tagline as string, "tech"),
         description: n.tagline as string,
         fetchedAt: now,
       };
