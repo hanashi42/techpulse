@@ -1,0 +1,450 @@
+{
+  "date": "2026-02-26",
+  "items": [
+    {
+      "id": "gh-1165371200",
+      "source": "github",
+      "title": "cloudflare/vinext: Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+      "url": "https://github.com/cloudflare/vinext",
+      "score": 3422,
+      "category": "tools",
+      "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 3422,
+        "forks": 81
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1165277268",
+      "source": "github",
+      "title": "Panniantong/Agent-Reach: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "score": 1358,
+      "category": "tools",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "extra": {
+        "language": "Python",
+        "stars": 1358,
+        "forks": 112
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1165056385",
+      "source": "github",
+      "title": "anthropics/financial-services-plugins: ",
+      "url": "https://github.com/anthropics/financial-services-plugins",
+      "score": 1339,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 1339,
+        "forks": 130
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1162194563",
+      "source": "github",
+      "title": "ShinMegamiBoson/OpenPlanter: ",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+      "score": 1326,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 1326,
+        "forks": 201
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1166050402",
+      "source": "github",
+      "title": "peteromallet/dataclaw: ",
+      "url": "https://github.com/peteromallet/dataclaw",
+      "score": 1090,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 1090,
+        "forks": 137
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1165733654",
+      "source": "github",
+      "title": "Polymarket/polymarket-cli: ",
+      "url": "https://github.com/Polymarket/polymarket-cli",
+      "score": 1069,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Rust",
+        "stars": 1069,
+        "forks": 79
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1163251644",
+      "source": "github",
+      "title": "kevinho/clawfeed: ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
+      "url": "https://github.com/kevinho/clawfeed",
+      "score": 786,
+      "category": "tools",
+      "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
+      "extra": {
+        "language": "HTML",
+        "stars": 786,
+        "forks": 83
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "hn-47151233",
+      "source": "hackernews",
+      "title": "Never buy a .online domain",
+      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+      "score": 722,
+      "comments": 445,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47151233",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "gh-1163024903",
+      "source": "github",
+      "title": "vercel-labs/visual-json: The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "url": "https://github.com/vercel-labs/visual-json",
+      "score": 525,
+      "category": "tools",
+      "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 525,
+        "forks": 28
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "hn-47156925",
+      "source": "hackernews",
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "score": 517,
+      "comments": 106,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47156925",
+      "category": "ai",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "gh-1162643962",
+      "source": "github",
+      "title": "better-auth/better-hub: Re-imagining code collaboration for humans and agents",
+      "url": "https://github.com/better-auth/better-hub",
+      "score": 509,
+      "category": "ai",
+      "description": "Re-imagining code collaboration for humans and agents",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 509,
+        "forks": 34
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1164025244",
+      "source": "github",
+      "title": "andyhuo520/aetherviz-master: AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
+      "url": "https://github.com/andyhuo520/aetherviz-master",
+      "score": 505,
+      "category": "tools",
+      "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
+      "extra": {
+        "language": "Unknown",
+        "stars": 505,
+        "forks": 88
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1163317794",
+      "source": "github",
+      "title": "CraftyGeezer/Kalshi-Polymarket-Ai-bot: ",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "score": 497,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 497,
+        "forks": 4
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1165265099",
+      "source": "github",
+      "title": "rebane2001/x86CSS: x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
+      "url": "https://github.com/rebane2001/x86CSS",
+      "score": 488,
+      "category": "tools",
+      "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
+      "extra": {
+        "language": "HTML",
+        "stars": 488,
+        "forks": 9
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1163037979",
+      "source": "github",
+      "title": "hamelsmu/claude-review-loop: Claude Code plugin: automated code review loop with Codex",
+      "url": "https://github.com/hamelsmu/claude-review-loop",
+      "score": 481,
+      "category": "ai",
+      "description": "Claude Code plugin: automated code review loop with Codex",
+      "extra": {
+        "language": "Shell",
+        "stars": 481,
+        "forks": 28
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1163746666",
+      "source": "github",
+      "title": "ochyai/vibe-local: Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "score": 481,
+      "category": "ai",
+      "description": "Free AI coding environment: Ollama + Python",
+      "extra": {
+        "language": "Python",
+        "stars": 481,
+        "forks": 55
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "gh-1163121560",
+      "source": "github",
+      "title": "dnakov/litter: ",
+      "url": "https://github.com/dnakov/litter",
+      "score": 478,
+      "category": "tools",
+      "description": "",
+      "extra": {
+        "language": "Kotlin",
+        "stars": 478,
+        "forks": 31
+      },
+      "fetchedAt": "2026-02-26T08:54:49.533Z"
+    },
+    {
+      "id": "hn-47157224",
+      "source": "hackernews",
+      "title": "Jimi Hendrix was a systems engineer",
+      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "score": 460,
+      "comments": 148,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47157224",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47153798",
+      "source": "hackernews",
+      "title": "Bus stop balancing is fast, cheap, and effective",
+      "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+      "score": 356,
+      "comments": 505,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47153798",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47154399",
+      "source": "hackernews",
+      "title": "Windows 11 Notepad to support Markdown",
+      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
+      "score": 268,
+      "comments": 410,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47154399",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47139716",
+      "source": "hackernews",
+      "title": "Large-Scale Online Deanonymization with LLMs",
+      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+      "score": 260,
+      "comments": 190,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47139716",
+      "category": "ai",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47154971",
+      "source": "hackernews",
+      "title": "The Om Programming Language",
+      "url": "https://www.om-language.com/",
+      "score": 258,
+      "comments": 67,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47154971",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47160226",
+      "source": "hackernews",
+      "title": "Tech companies shouldn't be bullied into doing surveillance",
+      "url": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+      "score": 240,
+      "comments": 80,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47160226",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47161160",
+      "source": "hackernews",
+      "title": "RAM now represents 35 percent of bill of materials for HP PCs",
+      "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
+      "score": 232,
+      "comments": 153,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47161160",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47125014",
+      "source": "hackernews",
+      "title": "The First Fully General Computer Action Model",
+      "url": "https://si.inc/posts/fdm1/",
+      "score": 232,
+      "comments": 65,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47125014",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47158975",
+      "source": "hackernews",
+      "title": "How will OpenAI compete?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "score": 211,
+      "comments": 251,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47158975",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47157398",
+      "source": "hackernews",
+      "title": "Making MCP cheaper via CLI",
+      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
+      "score": 208,
+      "comments": 85,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47157398",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47159302",
+      "source": "hackernews",
+      "title": "First Website (1992)",
+      "url": "https://info.cern.ch",
+      "score": 201,
+      "comments": 43,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47159302",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47152982",
+      "source": "hackernews",
+      "title": "GNU Texmacs",
+      "url": "https://www.texmacs.org/tmweb/home/welcome.en.html",
+      "score": 160,
+      "comments": 44,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47152982",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47151842",
+      "source": "hackernews",
+      "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
+      "url": "https://respectify.org/",
+      "score": 156,
+      "comments": 145,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47151842",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47112299",
+      "source": "hackernews",
+      "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
+      "url": "https://simonbergerart.com",
+      "score": 141,
+      "comments": 58,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47112299",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47141107",
+      "source": "hackernews",
+      "title": "Learnings from 4 months of Image-Video VAE experiments",
+      "url": "https://www.linum.ai/field-notes/vae-reconstruction-vs-generation",
+      "score": 106,
+      "comments": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47141107",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47137140",
+      "source": "hackernews",
+      "title": "Dissecting the CPU-memory relationship in garbage collection (OpenJDK 26)",
+      "url": "https://norlinder.nu/posts/GC-Cost-CPU-vs-Memory/",
+      "score": 88,
+      "comments": 20,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47137140",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47108861",
+      "source": "hackernews",
+      "title": "The Pleasures and Pains of Coffee (1830)",
+      "url": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
+      "score": 73,
+      "comments": 35,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47108861",
+      "category": "tools",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    },
+    {
+      "id": "hn-47151598",
+      "source": "hackernews",
+      "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+      "url": "https://app.teamout.com/ai",
+      "score": 50,
+      "comments": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47151598",
+      "category": "ai",
+      "fetchedAt": "2026-02-26T08:54:47.337Z"
+    }
+  ]
+}
