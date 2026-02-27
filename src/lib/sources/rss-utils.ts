@@ -1,3 +1,4 @@
+import { createHash } from "crypto";
 import { XMLParser } from "fast-xml-parser";
 import { categorize } from "../categorize";
 import type { Category, NewsItem, Source } from "../types";
@@ -110,7 +111,7 @@ export async function fetchRSSFeed(config: RSSFeedConfig): Promise<NewsItem[]> {
       const link = getLink(item);
 
       return {
-        id: `${source}-${Buffer.from(link || title).toString("base64url").slice(0, 20)}`,
+        id: `${source}-${createHash("sha256").update(link || title).digest("hex").slice(0, 12)}`,
         source,
         title,
         url: link,
