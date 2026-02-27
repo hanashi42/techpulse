@@ -23,6 +23,8 @@ jobs:
       - run: npm ci
 
       - name: Fetch news
+        env:
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
         run: npx tsx scripts/fetch-news.ts
 
       - name: Commit and push

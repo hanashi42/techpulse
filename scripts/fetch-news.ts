@@ -9,6 +9,7 @@ import { fetchMalaysiaReddit } from "../src/lib/sources/malaysia-reddit";
 import { fetchWorldNews } from "../src/lib/sources/world-news";
 import { fetchFinance } from "../src/lib/sources/finance";
 import type { DailyData, NewsItem } from "../src/lib/types";
+import { summarizeAll, generateBriefing } from "./summarize";
 
 async function main() {
   const date = new Date().toISOString().split("T")[0];
@@ -79,7 +80,23 @@ async function main() {
   // Sort by score descending
   deduped.sort((a, b) => b.score - a.score);
 
-  const data: DailyData = { date, items: deduped };
+  // AI summaries (non-fatal)
+  let briefing: string | undefined;
+  try {
+    const [summaryMap, dailyBriefing] = await Promise.all([
+      summarizeAll(deduped),
+      generateBriefing(deduped),
+    ]);
+    for (const item of deduped) {
+      const s = summaryMap.get(item.id);
+      if (s) item.summary = s;
+    }
+    briefing = dailyBriefing;
+  } catch (err) {
+    console.error("  AI summaries failed (non-fatal):", err);
+  }
+
+  const data: DailyData = { date, briefing, items: deduped };
   writeFileSync(filePath, JSON.stringify(data, null, 2));
   console.log(`\nWrote ${deduped.length} items to ${filePath}`);
 }

@@ -58,11 +58,15 @@ function NewsCard({ item }: { item: NewsItem }) {
           <h3 className="text-sm font-medium leading-snug text-foreground group-hover:text-accent">
             {item.title}
           </h3>
-          {item.description && item.source !== "hackernews" && (
+          {item.summary ? (
+            <p className="mt-1 text-xs leading-relaxed text-accent/70 line-clamp-2">
+              {item.summary}
+            </p>
+          ) : item.description && item.source !== "hackernews" ? (
             <p className="mt-1 text-xs leading-relaxed text-muted line-clamp-2">
               {item.description}
             </p>
-          )}
+          ) : null}
           <div className="mt-2 flex items-center gap-3 text-xs text-muted">
             {showScore && (
               <span className="flex items-center gap-1">
@@ -180,6 +184,18 @@ export default function Dashboard({
           <span className="ml-auto">{items.length} total</span>
         </div>
       </header>
+
+      {/* Daily briefing */}
+      {data?.briefing && (
+        <div className="mb-6 rounded-xl border border-accent/20 bg-accent/5 p-4">
+          <h2 className="mb-2 text-sm font-semibold text-accent">
+            今日要点
+          </h2>
+          <p className="text-sm leading-relaxed text-foreground/85">
+            {data.briefing}
+          </p>
+        </div>
+      )}
 
       {/* Category tabs */}
       <nav className="mb-6 flex gap-1 rounded-xl border border-border bg-card p-1">

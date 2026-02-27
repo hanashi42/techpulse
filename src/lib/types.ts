@@ -26,11 +26,13 @@ export interface NewsItem {
   commentsUrl?: string;
   category: Category;
   description?: string;
+  summary?: string;
   extra?: Record<string, string | number>;
   fetchedAt: string;
 }
 
 export interface DailyData {
   date: string;
+  briefing?: string;
   items: NewsItem[];
 }
