@@ -126,8 +126,8 @@ export default function Dashboard({
   };
 
   const formatDate = (dateStr: string) => {
-    const d = new Date(dateStr + "T00:00:00");
-    return d.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" });
+    const d = new Date(dateStr + "T12:00:00Z");
+    return d.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "UTC" });
   };
 
   const categoryCount = (cat: Category) => items.filter((i) => i.category === cat).length;
