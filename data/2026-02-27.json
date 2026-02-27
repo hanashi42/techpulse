@@ -1,0 +1,1040 @@
+{
+  "date": "2026-02-27",
+  "items": [
+    {
+      "id": "gh-1165371200",
+      "source": "github",
+      "title": "cloudflare/vinext: Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+      "url": "https://github.com/cloudflare/vinext",
+      "score": 4009,
+      "category": "tech",
+      "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 4009,
+        "forks": 99
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1165056385",
+      "source": "github",
+      "title": "anthropics/financial-services-plugins: ",
+      "url": "https://github.com/anthropics/financial-services-plugins",
+      "score": 2794,
+      "category": "tech",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 2794,
+        "forks": 270
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1166139870",
+      "source": "github",
+      "title": "RightNow-AI/openfang: Open-source Agent Operating System",
+      "url": "https://github.com/RightNow-AI/openfang",
+      "score": 2202,
+      "category": "tech",
+      "description": "Open-source Agent Operating System",
+      "extra": {
+        "language": "Rust",
+        "stars": 2202,
+        "forks": 229
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1165277268",
+      "source": "github",
+      "title": "Panniantong/Agent-Reach: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "score": 1947,
+      "category": "tech",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "extra": {
+        "language": "Python",
+        "stars": 1947,
+        "forks": 155
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1166050402",
+      "source": "github",
+      "title": "peteromallet/dataclaw: ",
+      "url": "https://github.com/peteromallet/dataclaw",
+      "score": 1347,
+      "category": "tech",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 1347,
+        "forks": 168
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1165733654",
+      "source": "github",
+      "title": "Polymarket/polymarket-cli: ",
+      "url": "https://github.com/Polymarket/polymarket-cli",
+      "score": 1217,
+      "category": "tech",
+      "description": "",
+      "extra": {
+        "language": "Rust",
+        "stars": 1217,
+        "forks": 101
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "hn-47173121",
+      "source": "hackernews",
+      "title": "Statement from Dario Amodei on our discussions with the Department of War",
+      "url": "https://www.anthropic.com/news/statement-department-of-war",
+      "score": 1192,
+      "comments": 654,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47173121",
+      "category": "world",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "gh-1163251644",
+      "source": "github",
+      "title": "kevinho/clawfeed: ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
+      "url": "https://github.com/kevinho/clawfeed",
+      "score": 989,
+      "category": "tech",
+      "description": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard",
+      "extra": {
+        "language": "HTML",
+        "stars": 989,
+        "forks": 89
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1166020413",
+      "source": "github",
+      "title": "mgechev/skills-best-practices: Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
+      "url": "https://github.com/mgechev/skills-best-practices",
+      "score": 642,
+      "category": "tech",
+      "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
+      "extra": {
+        "language": "Unknown",
+        "stars": 642,
+        "forks": 45
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1164025244",
+      "source": "github",
+      "title": "andyhuo520/aetherviz-master: AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
+      "url": "https://github.com/andyhuo520/aetherviz-master",
+      "score": 640,
+      "category": "tech",
+      "description": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页",
+      "extra": {
+        "language": "Unknown",
+        "stars": 640,
+        "forks": 106
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1165265099",
+      "source": "github",
+      "title": "rebane2001/x86CSS: x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
+      "url": "https://github.com/rebane2001/x86CSS",
+      "score": 585,
+      "category": "tech",
+      "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
+      "extra": {
+        "language": "HTML",
+        "stars": 585,
+        "forks": 9
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1166946564",
+      "source": "github",
+      "title": "apple/python-apple-fm-sdk: Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+      "url": "https://github.com/apple/python-apple-fm-sdk",
+      "score": 584,
+      "category": "tech",
+      "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+      "extra": {
+        "language": "Python",
+        "stars": 584,
+        "forks": 32
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1163024903",
+      "source": "github",
+      "title": "vercel-labs/visual-json: The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "url": "https://github.com/vercel-labs/visual-json",
+      "score": 560,
+      "category": "tech",
+      "description": "The Visual JSON Editor. Schema-aware, embeddable, extensible.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 560,
+        "forks": 30
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "hn-47172119",
+      "source": "hackernews",
+      "title": "Layoffs at Block",
+      "url": "https://twitter.com/jack/status/2027129697092731343",
+      "score": 554,
+      "comments": 580,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47172119",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "gh-1163850095",
+      "source": "github",
+      "title": "runesleo/x-reader: Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "url": "https://github.com/runesleo/x-reader",
+      "score": 542,
+      "category": "tech",
+      "description": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)",
+      "extra": {
+        "language": "Python",
+        "stars": 542,
+        "forks": 53
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "hn-47167858",
+      "source": "hackernews",
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "score": 510,
+      "comments": 489,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47167858",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "gh-1165507389",
+      "source": "github",
+      "title": "win4r/memory-lancedb-pro: Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "url": "https://github.com/win4r/memory-lancedb-pro",
+      "score": 508,
+      "category": "tech",
+      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 508,
+        "forks": 143
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "gh-1163746666",
+      "source": "github",
+      "title": "ochyai/vibe-local: Free AI coding environment: Ollama + Python",
+      "url": "https://github.com/ochyai/vibe-local",
+      "score": 508,
+      "category": "tech",
+      "description": "Free AI coding environment: Ollama + Python",
+      "extra": {
+        "language": "Python",
+        "stars": 508,
+        "forks": 60
+      },
+      "fetchedAt": "2026-02-27T04:07:05.952Z"
+    },
+    {
+      "id": "hn-47167931",
+      "source": "hackernews",
+      "title": "Will vibe coding end like the maker movement?",
+      "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+      "score": 339,
+      "comments": 333,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47167931",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47167763",
+      "source": "hackernews",
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "score": 332,
+      "comments": 160,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47167763",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47169757",
+      "source": "hackernews",
+      "title": "What Claude Code Chooses",
+      "url": "https://amplifying.ai/research/claude-code-picks",
+      "score": 284,
+      "comments": 116,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47169757",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47128645",
+      "source": "hackernews",
+      "title": "I baked a pie every day for a year and it changed my life",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+      "score": 236,
+      "comments": 160,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47128645",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47172664",
+      "source": "hackernews",
+      "title": "Smartphone market forecast to decline this year due to memory shortage",
+      "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
+      "score": 186,
+      "comments": 188,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47172664",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47171233",
+      "source": "hackernews",
+      "title": "What does \" 2>&1 \" mean?",
+      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
+      "score": 170,
+      "comments": 106,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47171233",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47168726",
+      "source": "hackernews",
+      "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+      "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+      "score": 168,
+      "comments": 80,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47168726",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47166264",
+      "source": "hackernews",
+      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+      "score": 156,
+      "comments": 52,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47166264",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47165792",
+      "source": "hackernews",
+      "title": "This time is different",
+      "url": "https://shkspr.mobi/blog/2026/02/this-time-is-different/",
+      "score": 137,
+      "comments": 219,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47165792",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47170157",
+      "source": "hackernews",
+      "title": "OsmAnd's Faster Offline Navigation (2025)",
+      "url": "https://osmand.net/blog/fast-routing/",
+      "score": 123,
+      "comments": 36,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47170157",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47170174",
+      "source": "hackernews",
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "url": "https://www.usecardboard.com/",
+      "score": 100,
+      "comments": 51,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47170174",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47141119",
+      "source": "hackernews",
+      "title": "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
+      "url": "https://hackersmacker.org",
+      "score": 98,
+      "comments": 100,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47141119",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47124999",
+      "source": "hackernews",
+      "title": "Museum of Plugs and Sockets",
+      "url": "https://plugsocketmuseum.nl/index.html",
+      "score": 86,
+      "comments": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47124999",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47169518",
+      "source": "hackernews",
+      "title": "Show HN: Deff – Side-by-side Git diff review in your terminal",
+      "url": "https://github.com/flamestro/deff",
+      "score": 83,
+      "comments": 52,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47169518",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47119665",
+      "source": "hackernews",
+      "title": "The Wolfram S Combinator Challenge",
+      "url": "https://www.combinatorprize.org/",
+      "score": 80,
+      "comments": 22,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47119665",
+      "category": "world",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47175931",
+      "source": "hackernews",
+      "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
+      "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+      "score": 70,
+      "comments": 16,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47175931",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "hn-47145082",
+      "source": "hackernews",
+      "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+      "url": "https://www.playlinex.com/",
+      "score": 56,
+      "comments": 19,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47145082",
+      "category": "tech",
+      "fetchedAt": "2026-02-27T04:07:05.793Z"
+    },
+    {
+      "id": "thestar-aHR0cHM6Ly93d3cudGhl",
+      "source": "thestar",
+      "title": "Restaurant owner fined RM2,000 for killing stray dog with firecracker",
+      "url": "https://www.thestar.com.my/news/nation/2026/02/27/restaurant-owner-fined-rm2000-for-killing-stray-dog-with-firecracker",
+      "score": 5,
+      "category": "life",
+      "description": "BATU GAJAH: A 64-year-old restaurant owner was fined RM2,000 by a Magistrate's Court here on Friday (Feb 27) after he pleaded guilty to a charge of killing a stray dog with a firecracker. Read full st",
+      "fetchedAt": "2026-02-27T04:07:05.178Z"
+    },
+    {
+      "id": "thestar-aHR0cHM6Ly93d3cudGhl",
+      "source": "thestar",
+      "title": "Trump Iranian missile claim unsupported by U.S. intelligence, say sources",
+      "url": "https://www.thestar.com.my/news/world/2026/02/27/trump-iranian-missile-claim-unsupported-by-us-intelligence-say-sources",
+      "score": 5,
+      "category": "world",
+      "description": "WASHINGTON, Feb 26 (Reuters) - ⁠U.S. President Donald Trump's claim ⁠that Iran will soon have a ‌missile that can hit the United States is not backed by U.S. intelligence reports and appears ​to be ex",
+      "fetchedAt": "2026-02-27T04:07:05.183Z"
+    },
+    {
+      "id": "malaymail-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaymail",
+      "title": "Spike in unregistered rat poison cases puts young children at risk, warns NPC",
+      "url": "https://www.malaymail.com/news/malaysia/2026/02/26/spike-in-unregistered-rat-poison-cases-puts-young-children-at-risk-warns-npc/210478",
+      "score": 5,
+      "category": "world",
+      "description": "GEORGE TOWN, Feb 26 — The National Poison Centre (NPC) has detected a worrying rise in poisoning cases involving u...",
+      "fetchedAt": "2026-02-27T04:07:05.184Z"
+    },
+    {
+      "id": "malaymail-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaymail",
+      "title": "South Korea’s Kospi hits new record, but Asia stocks show uneven trade",
+      "url": "https://www.malaymail.com/news/money/2026/02/26/south-koreas-kospi-hits-new-record-but-asia-stocks-show-uneven-trade/210468",
+      "score": 5,
+      "category": "money",
+      "description": "HONG KONG, Feb 26 — Seoul&rsquo;s Kospi index hit another record high today on a mixed day for Asian equities foll...",
+      "fetchedAt": "2026-02-27T04:07:05.186Z"
+    },
+    {
+      "id": "fmt-aHR0cHM6Ly93d3cuZnJl",
+      "source": "fmt",
+      "title": "Gaza civil defence says Israeli strikes kill at least 5",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/02/27/gaza-civil-defence-says-israeli-strikes-kill-at-least-5",
+      "score": 5,
+      "category": "world",
+      "description": "An early Friday air strike killed at least two, while a southern drone strike claimed three more lives.",
+      "fetchedAt": "2026-02-27T04:07:05.187Z"
+    },
+    {
+      "id": "malaysiakini-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaysiakini",
+      "title": "'Constitutional change to limit PM's term doesn't erode royal powers'",
+      "url": "https://www.malaysiakini.com/news/769079",
+      "score": 5,
+      "category": "life",
+      "description": "Article 159(5) identifies special provisions that may not be amended without rulers' consent, Faisal tells PN.",
+      "fetchedAt": "2026-02-27T04:07:05.189Z"
+    },
+    {
+      "id": "bernama-aHR0cDovL3d3dy5iZXJu",
+      "source": "bernama",
+      "title": "General : Sultan Of Pahang's Concern Inspires, Strengthens Rural Communities - Ahmad Zahid",
+      "url": "http://www.bernama.com/en/news.php?id=2528304",
+      "score": 5,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, Feb 27 (Bernama) -- Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi has expressed his appreciation and gratitude for the address by the Sultan of Pahang, Al-Sultan Abdullah Ri&rsq",
+      "fetchedAt": "2026-02-27T04:07:05.190Z"
+    },
+    {
+      "id": "sinchew-aHR0cHM6Ly9uZXdzLmdv",
+      "source": "sinchew",
+      "title": "Rafizi warns of PKR wipeout as voter disillusionment hits new high according to Invoke - MySinchew",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yNzlqSGFILWZkLXRQRHRJUzNONXNreVRqLVg2UzM5VC1fQUhUOHVrSUg1S3ItNnJWM1dyWkhCZEJQd0stR2FNbE9HbkFGdVM3WmZrOVppYUtid1hGRUJSSUktWEVDTUZ6dUJYZ2R4Q2ptdw?oc=5",
+      "score": 5,
+      "category": "malaysia",
+      "description": "Rafizi warns of PKR wipeout as voter disillusionment hits new high according to Invoke MySinchew",
+      "fetchedAt": "2026-02-27T04:07:05.191Z"
+    },
+    {
+      "id": "bbc-aHR0cHM6Ly93d3cuYmJj",
+      "source": "bbc",
+      "title": "American citizen among those killed in Cuba boat shooting, US official says",
+      "url": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
+      "score": 5,
+      "category": "world",
+      "description": "Cuba has accused those on board of planning \"an infiltration with terrorist aims” and firing first.",
+      "fetchedAt": "2026-02-27T04:07:05.195Z"
+    },
+    {
+      "id": "bbc-aHR0cHM6Ly93d3cuYmJj",
+      "source": "bbc",
+      "title": "Hong Kong jailed my dad to stop me speaking out, says activist",
+      "url": "https://www.bbc.com/news/articles/cly897pv4j9o?at_medium=RSS&at_campaign=rss",
+      "score": 5,
+      "category": "world",
+      "description": "Pro-democracy activist Anna Kwok's father has been jailed for eight months for a national security offence.",
+      "fetchedAt": "2026-02-27T04:07:05.203Z"
+    },
+    {
+      "id": "scmp-aHR0cHM6Ly93d3cuc2Nt",
+      "source": "scmp",
+      "title": "US military laser shoots down government drone in Texas incident",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3344810/us-military-laser-shoots-down-government-drone-texas-incident?utm_source=rss_feed",
+      "score": 5,
+      "category": "world",
+      "description": "The US military shot down a US government drone with a laser-based anti-drone system, an accident that prompted the Federal Aviation Administration to bar flights on Thursday in an area around Fort Ha",
+      "fetchedAt": "2026-02-27T04:07:05.204Z"
+    },
+    {
+      "id": "ringgitoh-aHR0cHM6Ly9yaW5nZ2l0",
+      "source": "ringgitoh",
+      "title": "Credit Reports in Malaysia: Experian vs CTOS vs Credit Bureau Credit Score Comparison",
+      "url": "https://ringgitohringgit.com/money-management/credit-reports-in-malaysia/",
+      "score": 5,
+      "category": "malaysia",
+      "description": "I’ve always wondered what’s the difference between different credit reports in Malaysia, so I got ALL of them. This post compares PAID credit reports from Experian, CTOS and Credit Bureau, all bought ",
+      "fetchedAt": "2026-02-27T04:07:05.208Z"
+    },
+    {
+      "id": "thestar-aHR0cHM6Ly93d3cudGhl",
+      "source": "thestar",
+      "title": "71-year-old man was charged with murder, dismemberment of fiance in Sepanggar",
+      "url": "https://www.thestar.com.my/news/nation/2026/02/27/71-year-old-man-was-charged-with-murder-dismemberment-of-fiance-in-sepanggar",
+      "score": 4,
+      "category": "malaysia",
+      "description": "KOTA KINABALU: A 71-year-old man was charged in the Magistrate's Court here on Friday (Feb 27) with the murder of his former fiancée, whose dismembered body was found in dustbins at several locations ",
+      "fetchedAt": "2026-02-27T04:07:05.178Z"
+    },
+    {
+      "id": "thestar-aHR0cHM6Ly93d3cudGhl",
+      "source": "thestar",
+      "title": "Pakistan strikes Afghanistan targets as clashes intensify",
+      "url": "https://www.thestar.com.my/news/world/2026/02/27/pakistan-strikes-afghanistan-targets-as-clashes-intensify",
+      "score": 4,
+      "category": "world",
+      "description": "KABUL, Feb 27 (Reuters) - Pakistan struck ⁠targets inside Afghanistan's major cities overnight, Pakistani and Taliban officials said on Friday, as ⁠cross-border fighting intensified following months o",
+      "fetchedAt": "2026-02-27T04:07:05.183Z"
+    },
+    {
+      "id": "malaymail-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaymail",
+      "title": "Bukit Kayu Hitam shooting: Suspects arrested within 24 hours, says Home Minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/02/26/bukit-kayu-hitam-shooting-suspects-arrested-within-24-hours-says-home-minister/210473",
+      "score": 4,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, Feb 26 — Suspects linked to the shooting at the Bukit Kayu Hitam border entry have been arrested, Ho...",
+      "fetchedAt": "2026-02-27T04:07:05.184Z"
+    },
+    {
+      "id": "malaymail-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaymail",
+      "title": "IMF urges US to work with global partners to ease trade restrictions",
+      "url": "https://www.malaymail.com/news/money/2026/02/26/imf-urges-us-to-work-with-global-partners-to-ease-trade-restrictions/210460",
+      "score": 4,
+      "category": "life",
+      "description": "WASHINGTON, Feb 26 — The IMF yesterday called on the United States to work with trading partners and find ways to...",
+      "fetchedAt": "2026-02-27T04:07:05.186Z"
+    },
+    {
+      "id": "fmt-aHR0cHM6Ly93d3cuZnJl",
+      "source": "fmt",
+      "title": "Yang di-Pertuan Agong gering, dinasihat berehat",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/02/27/yang-di-pertuan-agong-gering-dinasihat-berehat",
+      "score": 4,
+      "category": "malaysia",
+      "description": "Istana Negara memaklumkan pakar perubatan menasihatkan baginda berehat sepenuhnya dan tidak berangkat ke sebarang majlis rasmi sehingga pulih.",
+      "fetchedAt": "2026-02-27T04:07:05.187Z"
+    },
+    {
+      "id": "malaysiakini-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaysiakini",
+      "title": "AADK replaces staff, initiates disciplinary action over Kedah rehab centre case",
+      "url": "https://www.malaysiakini.com/news/769078",
+      "score": 4,
+      "category": "tech",
+      "description": "This follows EAIC report of misconduct involving the personnel.",
+      "fetchedAt": "2026-02-27T04:07:05.189Z"
+    },
+    {
+      "id": "bernama-aHR0cDovL3d3dy5iZXJu",
+      "source": "bernama",
+      "title": "World : OIC Rejects Israeli Settlement Expansion At Emergency Meeting",
+      "url": "http://www.bernama.com/en/news.php?id=2528299",
+      "score": 4,
+      "category": "world",
+      "description": "JEDDAH (Saudi Arabia), Feb 27 (Bernama-Xinhua) -- The Organisation of Islamic Cooperation (OIC) on Thursday rejected Israel's expansion of settlements during an emergency meeting of its Executive Comm",
+      "fetchedAt": "2026-02-27T04:07:05.190Z"
+    },
+    {
+      "id": "sinchew-aHR0cHM6Ly9uZXdzLmdv",
+      "source": "sinchew",
+      "title": "Middle East Coffee Shops Earn Spots in The World’s 100 Best Coffee Shops 2026 List - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uTFdlNnFXck1oNmJNWkxLRXVEV0Fnb29sdzNIQlhZUU1tbWs3aEIzSjNsbU5XaUlIRXNsOWdmYkh0UEFhS01xQ3Z1a0tOUUxSS0kySkw3TXhCRFlnNHkyczM2WnR2U0lnMlE?oc=5",
+      "score": 4,
+      "category": "malaysia",
+      "description": "Middle East Coffee Shops Earn Spots in The World’s 100 Best Coffee Shops 2026 List Sin Chew Daily",
+      "fetchedAt": "2026-02-27T04:07:05.191Z"
+    },
+    {
+      "id": "bbc-aHR0cHM6Ly93d3cuYmJj",
+      "source": "bbc",
+      "title": "US-Iran talks end after 'significant progress', mediator says",
+      "url": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
+      "score": 4,
+      "category": "world",
+      "description": "The indirect negotiations in Geneva are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear.",
+      "fetchedAt": "2026-02-27T04:07:05.195Z"
+    },
+    {
+      "id": "bbc-aHR0cHM6Ly93d3cuYmJj",
+      "source": "bbc",
+      "title": "The Boys' Love at the heart of Heated Rivalry is a familiar tale in Asia",
+      "url": "https://www.bbc.com/news/articles/c78x973y5zvo?at_medium=RSS&at_campaign=rss",
+      "score": 4,
+      "category": "tech",
+      "description": "Same-sex romance has flourished in Asia as a haven of fantasy and escapism for women and the queer community.",
+      "fetchedAt": "2026-02-27T04:07:05.203Z"
+    },
+    {
+      "id": "scmp-aHR0cHM6Ly93d3cuc2Nt",
+      "source": "scmp",
+      "title": "Europe is ready for strategic autonomy, but at what cost?",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3344695/europe-ready-strategic-autonomy-what-cost?utm_source=rss_feed",
+      "score": 4,
+      "category": "world",
+      "description": "This year’s Munich Security Conference arrived as less of a shock to Europeans, who have largely accepted that the good old days are gone for good. A few might still have got teary-eyed when US Secret",
+      "fetchedAt": "2026-02-27T04:07:05.204Z"
+    },
+    {
+      "id": "ringgitoh-aHR0cHM6Ly9yaW5nZ2l0",
+      "source": "ringgitoh",
+      "title": "Ultimate Comparison Between 8 Robo Advisor in Malaysia",
+      "url": "https://ringgitohringgit.com/investing/best-robo-advisor-in-malaysia/",
+      "score": 4,
+      "category": "malaysia",
+      "description": "Welcome to the ultimate robo advisor comparison article! In this article, you will find the best robo advisor in Malaysia that you can use to invest and grow your wealth. Continue reading Ultimate Com",
+      "fetchedAt": "2026-02-27T04:07:05.208Z"
+    },
+    {
+      "id": "thestar-aHR0cHM6Ly93d3cudGhl",
+      "source": "thestar",
+      "title": "MACC to probe UKM over Auditor-General’s Report findings next week",
+      "url": "https://www.thestar.com.my/news/nation/2026/02/27/macc-to-probe-ukm-over-auditor-generals-report-findings-next-week",
+      "score": 3,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR: Graft busters will commence an investigation next week into governance and financial management issues involving Universiti Kebangsaan Malaysia (UKM), following findings highlighted in t",
+      "fetchedAt": "2026-02-27T04:07:05.178Z"
+    },
+    {
+      "id": "thestar-aHR0cHM6Ly93d3cudGhl",
+      "source": "thestar",
+      "title": "Cuba slams US for 'impunity' on speedboat attack suspects",
+      "url": "https://www.thestar.com.my/news/world/2026/02/27/cuba-slams-us-for-039impunity039-on-speedboat-attack-suspects",
+      "score": 3,
+      "category": "world",
+      "description": "SANTA CLARA, Cuba, Feb 26 (Reuters) - Cuba criticized the ⁠U.S. government for allowing anti-Cuban groups to operate with impunity on Thursday, as Cuban exiles wounded in an apparent attack aboard a F",
+      "fetchedAt": "2026-02-27T04:07:05.183Z"
+    },
+    {
+      "id": "malaymail-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaymail",
+      "title": "Schools nationwide record 2,889 bullying cases last year, Education ministry tightens discipline and safety measures",
+      "url": "https://www.malaymail.com/news/malaysia/2026/02/26/schools-nationwide-record-2889-bullying-cases-last-year-education-ministry-tightens-discipline-and-safety-measures/210465",
+      "score": 3,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, Feb 26 — A total of 2,889 cases of bullying were recorded last year, comprising 740 cases in primary...",
+      "fetchedAt": "2026-02-27T04:07:05.184Z"
+    },
+    {
+      "id": "malaymail-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaymail",
+      "title": "Nvidia posts record US$68b quarter, beating forecasts as AI demand soars",
+      "url": "https://www.malaymail.com/news/money/2026/02/26/nvidia-posts-record-us68b-quarter-beating-forecasts-as-ai-demand-soars/210457",
+      "score": 3,
+      "category": "tech",
+      "description": "SAN FRANCISCO, Feb 26 — Nvidia yesterday reported blockbuster quarterly results that blew past Wall Street expecta...",
+      "fetchedAt": "2026-02-27T04:07:05.186Z"
+    },
+    {
+      "id": "fmt-aHR0cHM6Ly93d3cuZnJl",
+      "source": "fmt",
+      "title": "Agong unwell, advised by doctors to rest",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/02/27/agong-unwell-advised-by-doctors-to-rest",
+      "score": 3,
+      "category": "malaysia",
+      "description": "Istana Negara says Sultan Ibrahim is being treated for musculoskeletal pain in his hip and back, explains absence from breaking of fast event last night.",
+      "fetchedAt": "2026-02-27T04:07:05.187Z"
+    },
+    {
+      "id": "malaysiakini-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaysiakini",
+      "title": "Three military officers to be charged over UTM cadet's death",
+      "url": "https://www.malaysiakini.com/news/769074",
+      "score": 3,
+      "category": "malaysia",
+      "description": "Trio allegedly caused Syamsul's death by negligence.",
+      "fetchedAt": "2026-02-27T04:07:05.189Z"
+    },
+    {
+      "id": "bernama-aHR0cDovL3d3dy5iZXJu",
+      "source": "bernama",
+      "title": "World : Premier League To Launch Own Streaming Platform In Singapore",
+      "url": "http://www.bernama.com/en/news.php?id=2528294",
+      "score": 3,
+      "category": "tech",
+      "description": "LONDON, Feb 27 (Bernama-PA Media/dpa) -- The English Premier League will launch its first direct-to-customer streaming platform in Singapore next season and is looking to see how it could be &ldquo;re",
+      "fetchedAt": "2026-02-27T04:07:05.190Z"
+    },
+    {
+      "id": "sinchew-aHR0cHM6Ly9uZXdzLmdv",
+      "source": "sinchew",
+      "title": "XTransfer Receives Malaysia Central Bank’s Conditional Approval for Key Payment Licences - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hcmlaQVRmOWpTLU85V01ZQkVUT0hwbVM4Q1BLMzRXdm15ekZfcUpIZVhwdlVlWEVzRDQ2X3pjTlRvSmdlT3VaNTBhanN5Mjl0b3g1eUhuek1sS01QZjZGb2ZOS3NKX1QyRFE?oc=5",
+      "score": 3,
+      "category": "malaysia",
+      "description": "XTransfer Receives Malaysia Central Bank’s Conditional Approval for Key Payment Licences Sin Chew Daily",
+      "fetchedAt": "2026-02-27T04:07:05.191Z"
+    },
+    {
+      "id": "bbc-aHR0cHM6Ly93d3cuYmJj",
+      "source": "bbc",
+      "title": "Pakistan strikes Afghan cities as cross-border attacks escalate",
+      "url": "https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss",
+      "score": 3,
+      "category": "world",
+      "description": "The Afghan Taliban said it had responded to the Pakistani strikes, which targeted Afghan cities including Kabul and Kandahar.",
+      "fetchedAt": "2026-02-27T04:07:05.195Z"
+    },
+    {
+      "id": "scmp-aHR0cHM6Ly93d3cuc2Nt",
+      "source": "scmp",
+      "title": "Paramount poised to acquire Warner Bros after Netflix drops bid",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3344795/netflix-abandons-warner-bros-bid-clearing-way-paramount?utm_source=rss_feed",
+      "score": 3,
+      "category": "world",
+      "description": "Paramount Skydance, run by pro-Trump technology heir David Ellison, was poised to take control of Warner Bros. Discovery on Thursday after Netflix said it would not raise its takeover offer, ending on",
+      "fetchedAt": "2026-02-27T04:07:05.204Z"
+    },
+    {
+      "id": "ringgitoh-aHR0cHM6Ly9yaW5nZ2l0",
+      "source": "ringgitoh",
+      "title": "The ULTIMATE Cryptocurrency in Malaysia Guide [2025 Update]",
+      "url": "https://ringgitohringgit.com/investing/crypto-malaysia/",
+      "score": 3,
+      "category": "malaysia",
+      "description": "So you want to learn about crypto in Malaysia. Maybe you want to learn how to buy bitcoin in Malaysia, as an investment. Continue reading The ULTIMATE Cryptocurrency in Malaysia Guide [2025 Update] at",
+      "fetchedAt": "2026-02-27T04:07:05.208Z"
+    },
+    {
+      "id": "thestar-aHR0cHM6Ly93d3cudGhl",
+      "source": "thestar",
+      "title": "KPS Bhd posts moderated revenue in 4Q25",
+      "url": "https://www.thestar.com.my/news/nation/2026/02/27/kps-bhd-posts-moderated-revenue-in-4q25",
+      "score": 2,
+      "category": "malaysia",
+      "description": "SHAH ALAM: Kumpulan Perangsang Selangor Bhd (KPS) announced its financial results for the fourth quarter ended Dec 31, 2025 (4Q25). Read full story",
+      "fetchedAt": "2026-02-27T04:07:05.178Z"
+    },
+    {
+      "id": "thestar-aHR0cHM6Ly93d3cudGhl",
+      "source": "thestar",
+      "title": "Warmer winters leave Pakistan festival on thin ice",
+      "url": "https://www.thestar.com.my/news/world/2026/02/27/warmer-winters-leave-pakistan-festival-on-thin-ice",
+      "score": 2,
+      "category": "world",
+      "description": "HUNZA VALLEY, Pakistan, Feb 27 (Reuters) - Every winter for decades, the pool in front of Aleena Gul's house ⁠in Pakistan's Hunza Valley has transformed into an ice rink, framed by jagged Himalayan pe",
+      "fetchedAt": "2026-02-27T04:07:05.183Z"
+    },
+    {
+      "id": "malaymail-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaymail",
+      "title": "Immigration officer hurt during Bukit Bintang nightclub raid, 48 foreigners detained",
+      "url": "https://www.malaymail.com/news/malaysia/2026/02/26/immigration-officer-hurt-during-bukit-bintang-nightclub-raid-48-foreigners-detained/210463",
+      "score": 2,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, Feb 26 — An Immigration officer was injured while attempting to detain a foreign national durin...",
+      "fetchedAt": "2026-02-27T04:07:05.184Z"
+    },
+    {
+      "id": "malaymail-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaymail",
+      "title": "Ringgit opens higher at 3.8850 against US dollar on upbeat economic outlook, weaker greenback",
+      "url": "https://www.malaymail.com/news/money/2026/02/26/ringgit-opens-higher-at-38850-against-us-dollar-on-upbeat-economic-outlook-weaker-greenback/210455",
+      "score": 2,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, Feb 26 — The ringgit opened firmer against the US dollar today, underpinned by Malaysia&rsquo;s posi...",
+      "fetchedAt": "2026-02-27T04:07:05.186Z"
+    },
+    {
+      "id": "fmt-aHR0cHM6Ly93d3cuZnJl",
+      "source": "fmt",
+      "title": "3 jurulatih Palapes didakwa sebabkan kematian pelatih UTM",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/02/27/3-jurulatih-palapes-didakwa-sebabkan-kematian-pelatih-utm",
+      "score": 2,
+      "category": "malaysia",
+      "description": "Mohd Azmi Abu Bakar, Muhammad Bahauddin Ab Rasid dan Mohd Norbuangani Mislan mengaku tak bersalah di Mahkamah Sesyen Kota Tinggi.",
+      "fetchedAt": "2026-02-27T04:07:05.187Z"
+    },
+    {
+      "id": "malaysiakini-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaysiakini",
+      "title": "Cops probe 'influential person' working with foreign media to topple govt",
+      "url": "https://www.malaysiakini.com/news/769070",
+      "score": 2,
+      "category": "tech",
+      "description": "Khalid says police report received over alleged conspiracy yesterday.",
+      "fetchedAt": "2026-02-27T04:07:05.189Z"
+    },
+    {
+      "id": "bernama-aHR0cDovL3d3dy5iZXJu",
+      "source": "bernama",
+      "title": "Business : Binghatti Named Signature Sponsor Of International Property Show 2026",
+      "url": "http://www.bernama.com/en/news.php?id=2528291",
+      "score": 2,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, Feb 27 (Bernama) -- The International Property Show (IPS 2026) will feature Binghatti, a Dubai-based real estate development company, as part of its upcoming exhibition scheduled for Apr",
+      "fetchedAt": "2026-02-27T04:07:05.190Z"
+    },
+    {
+      "id": "sinchew-aHR0cHM6Ly9uZXdzLmdv",
+      "source": "sinchew",
+      "title": "The World’s 100 Best Coffee Shops: Asia Pacific’s Notable Winners - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91Rk4xRUdGamJZektIdEZxenpwWVBhWVN1dVRwS3l1SUtKSk9jdzVGOUFhWVpxYjh6RWk5SVhKZlJMaUdqTk4wWnJwTk1Kem1nalN4NVF2NENocUQtSDFCeXFHd1hVODMtcnc?oc=5",
+      "score": 2,
+      "category": "malaysia",
+      "description": "The World’s 100 Best Coffee Shops: Asia Pacific’s Notable Winners Sin Chew Daily",
+      "fetchedAt": "2026-02-27T04:07:05.191Z"
+    },
+    {
+      "id": "bbc-aHR0cHM6Ly93d3cuYmJj",
+      "source": "bbc",
+      "title": "Danish PM calls snap election with Greenland issue centre-stage",
+      "url": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
+      "score": 2,
+      "category": "world",
+      "description": "The issue of Greenland, which Donald Trump wants to annex, is likely to dominate the election campaign.",
+      "fetchedAt": "2026-02-27T04:07:05.195Z"
+    },
+    {
+      "id": "bbc-aHR0cHM6Ly93d3cuYmJj",
+      "source": "bbc",
+      "title": "Why Asian firms are not cheering Trump tariff ruling",
+      "url": "https://www.bbc.com/news/articles/cdr2kmjd31ro?at_medium=RSS&at_campaign=rss",
+      "score": 2,
+      "category": "world",
+      "description": "The US Supreme Court's decision to block a pillar of US trade policy has caused yet more uncertainty.",
+      "fetchedAt": "2026-02-27T04:07:05.203Z"
+    },
+    {
+      "id": "scmp-aHR0cHM6Ly93d3cuc2Nt",
+      "source": "scmp",
+      "title": "US presses Syria to shift from Chinese telecoms systems, cites threat to national security",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3344793/us-presses-syria-shift-chinese-telecoms-systems-cites-threat-national-security?utm_source=rss_feed",
+      "score": 2,
+      "category": "world",
+      "description": "The United States has warned Syria against relying on Chinese technology in its telecommunications sector, arguing it conflicts with US interests and threatens US national security, according to three",
+      "fetchedAt": "2026-02-27T04:07:05.204Z"
+    },
+    {
+      "id": "ringgitoh-aHR0cHM6Ly9yaW5nZ2l0",
+      "source": "ringgitoh",
+      "title": "6 Best Savings Accounts in Malaysia to Put Your Emergency Funds",
+      "url": "https://ringgitohringgit.com/saving-money/best-savings-accounts-in-malaysia/",
+      "score": 2,
+      "category": "malaysia",
+      "description": "Let’s assume you earn a good salary and/or have low expenses, and you need a place to put 3-6 months’ worth of living expenses (Step 3 in the road to financial freedom). Continue reading 6 Best Saving",
+      "fetchedAt": "2026-02-27T04:07:05.208Z"
+    },
+    {
+      "id": "thestar-aHR0cHM6Ly93d3cudGhl",
+      "source": "thestar",
+      "title": "Police probe alleged plot to topple government",
+      "url": "https://www.thestar.com.my/news/nation/2026/02/27/police-probe-alleged-plot-to-topple-government",
+      "score": 1,
+      "category": "tech",
+      "description": "PETALING JAYA: Police have confirmed that they have received a report and opened an investigation paper into allegations of a conspiracy to topple the government and sabotage national stability. Read ",
+      "fetchedAt": "2026-02-27T04:07:05.178Z"
+    },
+    {
+      "id": "thestar-aHR0cHM6Ly93d3cudGhl",
+      "source": "thestar",
+      "title": "Urgent: Budapest-Belgrade railway resumes freight operations in Hungary",
+      "url": "https://www.thestar.com.my/news/world/2026/02/27/urgent-budapest-belgrade-railway-resumes-freight-operations-in-hungary",
+      "score": 1,
+      "category": "life",
+      "description": "BUDAPEST, Feb. 27 (Xinhua) -- Freight services on the Hungarian section of the Budapest-Belgrade railway officially resumed just after midnight on Friday, with the first train departing from Budapest'",
+      "fetchedAt": "2026-02-27T04:07:05.183Z"
+    },
+    {
+      "id": "malaymail-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaymail",
+      "title": "PMO: Cabinet performance remains strong alongside high integrity standards",
+      "url": "https://www.malaymail.com/news/malaysia/2026/02/26/pmo-cabinet-performance-remains-strong-alongside-high-integrity-standards/210461",
+      "score": 1,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, Feb 26 — Members of the Cabinet have overall performed their duties with full integrity and met...",
+      "fetchedAt": "2026-02-27T04:07:05.184Z"
+    },
+    {
+      "id": "malaymail-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaymail",
+      "title": "Bursa Malaysia retreats after early gains on profit‑taking",
+      "url": "https://www.malaymail.com/news/money/2026/02/26/bursa-malaysia-retreats-after-early-gains-on-profittaking/210450",
+      "score": 1,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, Feb 26 — Bursa Malaysia opened higher today but slipped into negative territory amid profit-taking,...",
+      "fetchedAt": "2026-02-27T04:07:05.186Z"
+    },
+    {
+      "id": "fmt-aHR0cHM6Ly93d3cuZnJl",
+      "source": "fmt",
+      "title": "Thai soldier loses leg in landmine blast on Cambodia border",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/02/27/thai-soldier-loses-leg-in-landmine-blast-on-cambodia-border",
+      "score": 1,
+      "category": "malaysia",
+      "description": "The Thai military said a preliminary examination showed the landmine was deeply buried and not newly laid.",
+      "fetchedAt": "2026-02-27T04:07:05.187Z"
+    },
+    {
+      "id": "malaysiakini-aHR0cHM6Ly93d3cubWFs",
+      "source": "malaysiakini",
+      "title": "MCMC introduces mandatory standard to tighten prepaid SIM card registration",
+      "url": "https://www.malaysiakini.com/news/769055",
+      "score": 1,
+      "category": "malaysia",
+      "description": "Provisions to enhance consumer protection, it says.",
+      "fetchedAt": "2026-02-27T04:07:05.189Z"
+    },
+    {
+      "id": "bernama-aHR0cDovL3d3dy5iZXJu",
+      "source": "bernama",
+      "title": "World : World Aquatics Cancels Diving World Cup Stop In Mexico",
+      "url": "http://www.bernama.com/en/news.php?id=2528282",
+      "score": 1,
+      "category": "tech",
+      "description": "BUDAPEST, Feb 27 (Bernama-Xinhua) -- World Aquatics on Thursday announced the cancellation of the Diving World Cup stop in Zapopan, Mexico, originally scheduled for March 5-8, Xinhua news agency repor",
+      "fetchedAt": "2026-02-27T04:07:05.190Z"
+    },
+    {
+      "id": "sinchew-aHR0cHM6Ly9uZXdzLmdv",
+      "source": "sinchew",
+      "title": "Generali Hong Kong Receives Multiple Accolades at the “10Life 5-Star Insurance Awards 2026” - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jY29TWFcwSmpEVDIwajNMTlBSOW9UVG1EdDE0VkpNUXFaYnB1ZllBUGVXV3pXN0hzNnd2WERDSzIzdUJ0bmdOMXMtZGFvWlJYRXAyX255LXpLeWRpY3BUV1NtWGRJOEdIMkE?oc=5",
+      "score": 1,
+      "category": "world",
+      "description": "Generali Hong Kong Receives Multiple Accolades at the “10Life 5-Star Insurance Awards 2026” Sin Chew Daily",
+      "fetchedAt": "2026-02-27T04:07:05.191Z"
+    },
+    {
+      "id": "bbc-aHR0cHM6Ly93d3cuYmJj",
+      "source": "bbc",
+      "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
+      "url": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
+      "score": 1,
+      "category": "world",
+      "description": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes.",
+      "fetchedAt": "2026-02-27T04:07:05.195Z"
+    },
+    {
+      "id": "bbc-aHR0cHM6Ly93d3cuYmJj",
+      "source": "bbc",
+      "title": "US 'suitcase murderer' deported from Bali after 11 years in jail",
+      "url": "https://www.bbc.com/news/articles/cdxg2r11g35o?at_medium=RSS&at_campaign=rss",
+      "score": 1,
+      "category": "world",
+      "description": "The 33-year-old will still face federal charges in the US and is due to appear in court on Thursday.",
+      "fetchedAt": "2026-02-27T04:07:05.203Z"
+    },
+    {
+      "id": "scmp-aHR0cHM6Ly93d3cuc2Nt",
+      "source": "scmp",
+      "title": "Canada cannot replace US with China, Carney’s Conservative rival warns",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3344791/china-cannot-replace-us-carneys-conservative-rival-warns?utm_source=rss_feed",
+      "score": 1,
+      "category": "world",
+      "description": "Canadian Conservative Leader Pierre Poilievre said China cannot serve as a substitute for the US, rebuking Prime Minister Mark Carney’s recent outreach to the Asian superpower amid strained ties with ",
+      "fetchedAt": "2026-02-27T04:07:05.204Z"
+    },
+    {
+      "id": "ringgitoh-aHR0cHM6Ly9yaW5nZ2l0",
+      "source": "ringgitoh",
+      "title": "This Income Tax Calculator Shows What You Owe LHDN [2024 Updated]",
+      "url": "https://ringgitohringgit.com/money-management/income-tax-calculator-in-malaysia/",
+      "score": 1,
+      "category": "malaysia",
+      "description": "Do you know how much you owe LHDN for income tax? It’s ok, most people don’t. That’s why it’s a good idea to use an income tax calculator in Malaysia before submitting your actual income tax. Continue",
+      "fetchedAt": "2026-02-27T04:07:05.208Z"
+    }
+  ]
+}
