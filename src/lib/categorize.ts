@@ -67,6 +67,30 @@ const LIFE_KEYWORDS = [
   "fashion", "design", "architecture",
 ];
 
+const FORME_KEYWORDS = [
+  // 税务
+  "lhdn", "income tax", "cukai", "e-filing", "tax deadline", "tax relief",
+  "form be", "form b", "pcb",
+  // 社保/公积金
+  "epf", "kwsp", "socso", "perkeso", "i-saraan", "i-suri",
+  // 生活成本
+  "tariff", "utility bill", "electricity rate", "water rate",
+  "toll", "petrol price", "ron95", "ron97", "diesel",
+  "minimum wage", "gaji minimum",
+  // 政策法规
+  "new regulation", "peraturan baru", "prepaid", "sim card registration",
+  "driving license", "road tax", "jpj", "immigration",
+  // 诈骗
+  "scam", "penipuan", "phishing", "fraud", "love scam", "macau scam",
+  // 自由职业
+  "freelance", "gig economy", "remote work", "work from home",
+  "self-employed", "sole proprietor",
+  // 政府援助
+  "bantuan", "subsidi", "stkm", "bkm", "rahmah", "madani",
+  // 交通/假期
+  "public holiday", "cuti umum", "balik kampung", "traffic jam",
+];
+
 function matchesKeywords(text: string, keywords: string[]): number {
   const lower = text.toLowerCase();
   return keywords.filter((kw) => lower.includes(kw)).length;
@@ -85,6 +109,7 @@ export function categorize(
     world: matchesKeywords(text, WORLD_KEYWORDS),
     money: matchesKeywords(text, MONEY_KEYWORDS),
     life: matchesKeywords(text, LIFE_KEYWORDS),
+    forme: matchesKeywords(text, FORME_KEYWORDS),
   };
 
   const best = Object.entries(scores).sort((a, b) => b[1] - a[1])[0];

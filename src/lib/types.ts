@@ -12,9 +12,14 @@ export type Source =
   | "bbc"
   | "scmp"
   | "mrstingy"
-  | "ringgitoh";
+  | "ringgitoh"
+  | "soyacincau"
+  | "imoney"
+  | "vulcanpost"
+  | "ringgitplus"
+  | "reminder";
 
-export type Category = "tech" | "malaysia" | "world" | "money" | "life";
+export type Category = "tech" | "malaysia" | "world" | "money" | "life" | "forme";
 
 export interface NewsItem {
   id: string;
@@ -31,8 +36,20 @@ export interface NewsItem {
   fetchedAt: string;
 }
 
+export interface ReminderItem {
+  id: string;
+  title: string;
+  description: string;
+  date: string;
+  daysBeforeAlert: number;
+  category: "forme";
+  tags: string[];
+  url?: string;
+}
+
 export interface DailyData {
   date: string;
   briefing?: string;
   items: NewsItem[];
+  reminders?: ReminderItem[];
 }

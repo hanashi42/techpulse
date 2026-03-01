@@ -11,6 +11,7 @@ const CATEGORIES: { key: Category | "all"; label: string }[] = [
   { key: "money", label: "Money" },
   { key: "tech", label: "Tech" },
   { key: "life", label: "Life" },
+  { key: "forme", label: "For Me" },
 ];
 
 const SOURCE_META: Record<Source, { label: string; fullName: string; dot: string }> = {
@@ -28,6 +29,11 @@ const SOURCE_META: Record<Source, { label: string; fullName: string; dot: string
   scmp: { label: "SCMP", fullName: "South China Morning Post", dot: "bg-scmp" },
   mrstingy: { label: "MS", fullName: "Mr Stingy", dot: "bg-mrstingy" },
   ringgitoh: { label: "RO", fullName: "Ringgit Oh Ringgit", dot: "bg-ringgitoh" },
+  soyacincau: { label: "SC", fullName: "SoyaCincau", dot: "bg-soyacincau" },
+  imoney: { label: "iM", fullName: "iMoney", dot: "bg-imoney" },
+  vulcanpost: { label: "VP", fullName: "Vulcan Post", dot: "bg-vulcanpost" },
+  ringgitplus: { label: "R+", fullName: "RinggitPlus", dot: "bg-ringgitplus" },
+  reminder: { label: "!", fullName: "Reminder", dot: "bg-reminder" },
 };
 
 function formatScore(n: number): string {
@@ -38,7 +44,60 @@ function formatScore(n: number): string {
 // RSS items have position-based scores (1-5), don't show upvote icon for those
 const LOW_SCORE_THRESHOLD = 10;
 
+function ReminderCard({ item }: { item: NewsItem }) {
+  // Extract days left from description like "(还有12天)" or "(今天)"
+  const daysMatch = item.description?.match(/还有(\d+)天/);
+  const isToday = item.description?.includes("(今天)");
+  const daysLeft = daysMatch ? parseInt(daysMatch[1]) : isToday ? 0 : null;
+  const cleanDesc = item.description?.replace(/\s*\(还有\d+天\)|\s*\(今天\)/, "");
+
+  const tag = daysLeft === 0 ? "今天" : daysLeft !== null ? `还有${daysLeft}天` : null;
+
+  return (
+    <div className="group block rounded-xl border-l-4 border-l-reminder border border-border bg-card p-4 shadow-sm">
+      <div className="flex items-start gap-3">
+        <span className="shrink-0 mt-0.5 text-base">&#9200;</span>
+        <div className="min-w-0 flex-1">
+          <div className="flex items-center gap-2">
+            {tag && (
+              <span className={`inline-block rounded-full px-2 py-0.5 text-xs font-semibold ${
+                daysLeft === 0
+                  ? "bg-red-100 text-red-700"
+                  : daysLeft !== null && daysLeft <= 3
+                    ? "bg-orange-100 text-orange-700"
+                    : "bg-yellow-100 text-yellow-700"
+              }`}>
+                {tag}
+              </span>
+            )}
+            <h3 className="text-sm font-medium leading-snug text-foreground">
+              {item.title}
+            </h3>
+          </div>
+          {cleanDesc && (
+            <p className="mt-1 text-xs leading-relaxed text-muted">
+              {cleanDesc}
+            </p>
+          )}
+          {item.url && (
+            <a
+              href={item.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-1 inline-block text-xs text-accent hover:underline"
+            >
+              &rarr; {new URL(item.url).hostname}
+            </a>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
+
 function NewsCard({ item }: { item: NewsItem }) {
+  if (item.source === "reminder") return <ReminderCard item={item} />;
+
   const meta = SOURCE_META[item.source];
   const showScore = item.score >= LOW_SCORE_THRESHOLD;
 
@@ -171,7 +230,7 @@ export default function Dashboard({
 
         {/* Category stats */}
         <div className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-xs text-muted">
-          {(["malaysia", "world", "money", "tech", "life"] as Category[]).map((cat) => {
+          {(["malaysia", "world", "money", "tech", "life", "forme"] as Category[]).map((cat) => {
             const count = categoryCount(cat);
             if (count === 0) return null;
             const label = CATEGORIES.find((c) => c.key === cat)!.label;
@@ -237,7 +296,7 @@ export default function Dashboard({
 
       {/* Footer */}
       <footer className="mt-12 border-t border-border pt-4 text-center text-xs text-muted">
-        Polaris &middot; Auto-updated daily from 14 sources across 5 domains
+        Polaris &middot; Auto-updated daily from 18 sources across 6 domains
       </footer>
     </div>
   );

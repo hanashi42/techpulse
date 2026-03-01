@@ -7,7 +7,7 @@ function getAvailableDates(): string[] {
   const dataDir = join(process.cwd(), "data");
   try {
     return readdirSync(dataDir)
-      .filter((f) => f.endsWith(".json"))
+      .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
       .map((f) => f.replace(".json", ""))
       .sort()
       .reverse();

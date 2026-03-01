@@ -1,0 +1,140 @@
+[
+  {
+    "id": "tax-be-2026",
+    "title": "Form BE 报税截止",
+    "description": "个人/自由职业者纸质报税截止日 4月30日",
+    "date": "2026-04-30",
+    "daysBeforeAlert": 14,
+    "category": "forme",
+    "tags": ["tax", "deadline"],
+    "url": "https://www.hasil.gov.my"
+  },
+  {
+    "id": "tax-e-filing-2026",
+    "title": "e-Filing 报税截止",
+    "description": "网上报税截止日 5月15日",
+    "date": "2026-05-15",
+    "daysBeforeAlert": 14,
+    "category": "forme",
+    "tags": ["tax", "deadline"],
+    "url": "https://ez.hasil.gov.my"
+  },
+  {
+    "id": "epf-self-2026-q1",
+    "title": "EPF 自雇缴纳提醒",
+    "description": "自由职业者可自愿缴纳EPF (i-Saraan)，Q1截止",
+    "date": "2026-03-31",
+    "daysBeforeAlert": 7,
+    "category": "forme",
+    "tags": ["epf", "finance"]
+  },
+  {
+    "id": "epf-self-2026-q2",
+    "title": "EPF 自雇缴纳提醒",
+    "description": "自由职业者可自愿缴纳EPF (i-Saraan)，Q2截止",
+    "date": "2026-06-30",
+    "daysBeforeAlert": 7,
+    "category": "forme",
+    "tags": ["epf", "finance"]
+  },
+  {
+    "id": "holiday-nuzul-quran-2026",
+    "title": "公共假期：Nuzul Al-Quran",
+    "description": "Nuzul Al-Quran 全国公共假期",
+    "date": "2026-03-20",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["holiday"]
+  },
+  {
+    "id": "holiday-hari-raya-aidilfitri-2026",
+    "title": "公共假期：Hari Raya Aidilfitri",
+    "description": "开斋节假期（两天）",
+    "date": "2026-03-31",
+    "daysBeforeAlert": 7,
+    "category": "forme",
+    "tags": ["holiday"]
+  },
+  {
+    "id": "holiday-labour-day-2026",
+    "title": "公共假期：Labour Day",
+    "description": "劳动节 5月1日",
+    "date": "2026-05-01",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["holiday"]
+  },
+  {
+    "id": "holiday-vesak-2026",
+    "title": "公共假期：Vesak Day",
+    "description": "卫塞节",
+    "date": "2026-05-12",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["holiday"]
+  },
+  {
+    "id": "holiday-agong-birthday-2026",
+    "title": "公共假期：Yang di-Pertuan Agong Birthday",
+    "description": "最高元首诞辰",
+    "date": "2026-06-01",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["holiday"]
+  },
+  {
+    "id": "holiday-hari-raya-haji-2026",
+    "title": "公共假期：Hari Raya Haji",
+    "description": "哈芝节假期",
+    "date": "2026-06-07",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["holiday"]
+  },
+  {
+    "id": "holiday-malaysia-day-2026",
+    "title": "公共假期：Malaysia Day",
+    "description": "马来西亚日 9月16日",
+    "date": "2026-09-16",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["holiday"]
+  },
+  {
+    "id": "holiday-merdeka-2026",
+    "title": "公共假期：Hari Merdeka",
+    "description": "国庆日 8月31日",
+    "date": "2026-08-31",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["holiday"]
+  },
+  {
+    "id": "holiday-deepavali-2026",
+    "title": "公共假期：Deepavali",
+    "description": "屠妖节",
+    "date": "2026-10-20",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["holiday"]
+  },
+  {
+    "id": "holiday-christmas-2026",
+    "title": "公共假期：Christmas",
+    "description": "圣诞节 12月25日",
+    "date": "2026-12-25",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["holiday"]
+  },
+  {
+    "id": "road-tax-reminder-2026",
+    "title": "Road Tax / 保险续期提醒",
+    "description": "检查车辆路税和保险到期日，可通过MyEG或JPJ在线续期",
+    "date": "2026-06-01",
+    "daysBeforeAlert": 30,
+    "category": "forme",
+    "tags": ["vehicle", "deadline"],
+    "url": "https://www.myeg.com.my"
+  }
+]

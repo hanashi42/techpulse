@@ -116,13 +116,14 @@ export async function generateBriefing(
 ): Promise<string | undefined> {
   if (!process.env.SILICONFLOW_API_KEY) return undefined;
 
-  const categories: Category[] = ["tech", "malaysia", "world", "money", "life"];
+  const categories: Category[] = ["tech", "malaysia", "world", "money", "life", "forme"];
   const categoryLabels: Record<Category, string> = {
     tech: "科技",
     malaysia: "马来西亚",
     world: "国际",
     money: "财经",
     life: "生活",
+    forme: "与我相关",
   };
 
   // Top 5 per category by score

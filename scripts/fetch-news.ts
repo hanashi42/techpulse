@@ -8,7 +8,8 @@ import { fetchMalaysiaNews } from "../src/lib/sources/malaysia-news";
 import { fetchMalaysiaReddit } from "../src/lib/sources/malaysia-reddit";
 import { fetchWorldNews } from "../src/lib/sources/world-news";
 import { fetchFinance } from "../src/lib/sources/finance";
-import type { DailyData, NewsItem } from "../src/lib/types";
+import { fetchForMe } from "../src/lib/sources/forme";
+import type { DailyData, NewsItem, ReminderItem } from "../src/lib/types";
 import { summarizeAll, generateBriefing } from "./summarize";
 
 async function main() {
@@ -39,6 +40,7 @@ async function main() {
     }),
     fetchWorldNews(),
     fetchFinance(),
+    fetchForMe(),
   ]);
 
   const items: NewsItem[] = results.flatMap((r) =>
@@ -46,7 +48,7 @@ async function main() {
   );
 
   // Log any failures
-  const names = ["HN", "GitHub", "Reddit", "PH", "MY News", "MY Reddit", "World", "Finance"];
+  const names = ["HN", "GitHub", "Reddit", "PH", "MY News", "MY Reddit", "World", "Finance", "For Me"];
   results.forEach((r, i) => {
     if (r.status === "rejected") {
       console.error(`  ${names[i]} FAILED:`, r.reason);
@@ -69,9 +71,47 @@ async function main() {
     } catch {}
   }
 
-  // Deduplicate by URL
+  // Load active reminders from static JSON
+  try {
+    const remindersPath = join(process.cwd(), "data", "reminders.json");
+    if (existsSync(remindersPath)) {
+      const allReminders: ReminderItem[] = JSON.parse(readFileSync(remindersPath, "utf-8"));
+      const today = new Date(date + "T00:00:00Z");
+      const activeReminders = allReminders.filter((r) => {
+        const deadline = new Date(r.date + "T00:00:00Z");
+        const alertStart = new Date(deadline.getTime() - r.daysBeforeAlert * 86400000);
+        return today >= alertStart && today <= deadline;
+      });
+
+      // Convert active reminders to NewsItems (pinned at top with high score)
+      for (const r of activeReminders) {
+        const daysLeft = Math.ceil(
+          (new Date(r.date + "T00:00:00Z").getTime() - today.getTime()) / 86400000
+        );
+        items.push({
+          id: `reminder-${r.id}`,
+          source: "reminder",
+          title: r.title,
+          url: r.url || "",
+          score: 100,
+          category: "forme",
+          description: `${r.description}${daysLeft > 0 ? ` (还有${daysLeft}天)` : " (今天)"}`,
+          fetchedAt: new Date().toISOString(),
+        });
+      }
+
+      if (activeReminders.length > 0) {
+        console.log(`  Reminders: ${activeReminders.length} active`);
+      }
+    }
+  } catch (err) {
+    console.error("  Reminders loading failed (non-fatal):", err);
+  }
+
+  // Deduplicate by URL (skip empty URLs from reminders)
   const seen = new Set<string>();
   const deduped = items.filter((item) => {
+    if (!item.url) return true;
     if (seen.has(item.url)) return false;
     seen.add(item.url);
     return true;
