@@ -1,0 +1,1678 @@
+{
+  "date": "2026-03-01",
+  "briefing": "今日要点简报：\n\n科技领域迎来开源AI操作系统OpenFang和Agent-Reach工具，让AI能浏览全网内容；Cloudflare推出Vinext插件重构Next.js体验。马来西亚网友热议怀旧纸币和本土版\"宝可梦\"游戏，同时一起持刀袭击Proton Saga事件引发关注。国际局势紧张，伊朗袭击导致迪拜机场受损，全球油价恐破百美元，最高领袖哈梅内伊去世引发权力真空。财经方面，OpenAI转型获投资者青睐，欧洲最大三星电视工厂将关闭，马来西亚EPF充值额激增26%显信心。生活趣闻：拍打MacBook会有互动反馈，2026年起非公民将限购食用油。本地要闻：EPF宣布2025年派息6.15%，最新油价维持RON95每升2.05令吉。（注：部分马来西亚本地化内容保留了英文术语如\"MyKads\"等符合当地读者习惯）",
+  "items": [
+    {
+      "id": "gh-1166139870",
+      "source": "github",
+      "title": "RightNow-AI/openfang: Open-source Agent Operating System",
+      "url": "https://github.com/RightNow-AI/openfang",
+      "score": 5975,
+      "category": "tech",
+      "description": "Open-source Agent Operating System",
+      "extra": {
+        "language": "Rust",
+        "stars": 5975,
+        "forks": 625
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "RightNow-AI推出开源Agent操作系统Openfang"
+    },
+    {
+      "id": "gh-1165056385",
+      "source": "github",
+      "title": "anthropics/financial-services-plugins: ",
+      "url": "https://github.com/anthropics/financial-services-plugins",
+      "score": 4930,
+      "category": "tech",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 4930,
+        "forks": 483
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "Anthropic发布金融服务插件"
+    },
+    {
+      "id": "gh-1165371200",
+      "source": "github",
+      "title": "cloudflare/vinext: Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+      "url": "https://github.com/cloudflare/vinext",
+      "score": 4739,
+      "category": "tech",
+      "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 4739,
+        "forks": 141
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "Cloudflare推出Vinext插件，实现Next.js API功能随处部署"
+    },
+    {
+      "id": "gh-1165277268",
+      "source": "github",
+      "title": "Panniantong/Agent-Reach: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "score": 3129,
+      "category": "tech",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "extra": {
+        "language": "Python",
+        "stars": 3129,
+        "forks": 252
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "Agent-Reach工具让AI代理可免费浏览多平台网络内容"
+    },
+    {
+      "id": "gh-1165324947",
+      "source": "github",
+      "title": "agentscope-ai/CoPaw: Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "url": "https://github.com/agentscope-ai/CoPaw",
+      "score": 2331,
+      "category": "tech",
+      "description": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+      "extra": {
+        "language": "Python",
+        "stars": 2331,
+        "forks": 221
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "CoPaw个人AI助手支持多平台聊天应用"
+    },
+    {
+      "id": "reddit-1qfp2t0",
+      "source": "reddit",
+      "title": "MOD ANNOUNCEMENT: Introducing Vibe Code Friday",
+      "url": "https://reddit.com/r/selfhosted/comments/1qfp2t0/mod_announcement_introducing_vibe_code_friday/",
+      "score": 2074,
+      "comments": 279,
+      "commentsUrl": "https://reddit.com/r/selfhosted/comments/1qfp2t0/mod_announcement_introducing_vibe_code_friday/",
+      "category": "tech",
+      "description": "The recent influx of AI has lowered the barrier to entry to create your own projects. This development in itself is very interesting and we're curious to see how it'll change our world of SelfHosting ",
+      "extra": {
+        "subreddit": "selfhosted"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.680Z",
+      "summary": "MOD宣布推出Vibe Code Friday活动探讨AI对自托管影响"
+    },
+    {
+      "id": "reddit-bsp01i",
+      "source": "reddit",
+      "title": "Welcome to /r/SelfHosted! Please Read This First",
+      "url": "https://reddit.com/r/selfhosted/comments/bsp01i/welcome_to_rselfhosted_please_read_this_first/",
+      "score": 1963,
+      "comments": 181,
+      "commentsUrl": "https://reddit.com/r/selfhosted/comments/bsp01i/welcome_to_rselfhosted_please_read_this_first/",
+      "category": "tech",
+      "description": "#Welcome to /r/selfhosted!\n\nWe thank you for taking the time to check out the subreddit here! \n\n##Self-Hosting\n\nThe concept in which you host your own applications, data, and more. Taking away the \"un",
+      "extra": {
+        "subreddit": "selfhosted"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.680Z",
+      "summary": "/r/SelfHosted社区欢迎新成员加入自托管讨论"
+    },
+    {
+      "id": "reddit-my-1rgpai1",
+      "source": "reddit",
+      "title": "Property agent be like, walking distance to MRT",
+      "url": "https://v.redd.it/vdrk5odk15mg1",
+      "score": 1918,
+      "comments": 202,
+      "commentsUrl": "https://reddit.com/r/malaysia/comments/1rgpai1/property_agent_be_like_walking_distance_to_mrt/",
+      "category": "tech",
+      "extra": {
+        "subreddit": "malaysia"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "房产中介常用\"步行可达地铁站\"话术"
+    },
+    {
+      "id": "gh-1166050402",
+      "source": "github",
+      "title": "peteromallet/dataclaw: ",
+      "url": "https://github.com/peteromallet/dataclaw",
+      "score": 1626,
+      "category": "tech",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 1626,
+        "forks": 203
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "Peter O'Mallet发布dataclaw项目"
+    },
+    {
+      "id": "reddit-1rh2lew",
+      "source": "reddit",
+      "title": "OpenAI pivot investors love",
+      "url": "https://i.redd.it/wfho2ytml8mg1.jpeg",
+      "score": 1619,
+      "comments": 85,
+      "commentsUrl": "https://reddit.com/r/LocalLLaMA/comments/1rh2lew/openai_pivot_investors_love/",
+      "category": "money",
+      "extra": {
+        "subreddit": "LocalLLaMA"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.680Z",
+      "summary": "OpenAI战略转型获投资者青睐"
+    },
+    {
+      "id": "gh-1165733654",
+      "source": "github",
+      "title": "Polymarket/polymarket-cli: ",
+      "url": "https://github.com/Polymarket/polymarket-cli",
+      "score": 1354,
+      "category": "tech",
+      "description": "",
+      "extra": {
+        "language": "Rust",
+        "stars": 1354,
+        "forks": 125
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "Polymarket推出命令行工具"
+    },
+    {
+      "id": "reddit-1rgh646",
+      "source": "reddit",
+      "title": "Grafana dashboard to tell me how expensive my hobby is",
+      "url": "https://i.redd.it/8ybdpuby83mg1.png",
+      "score": 1249,
+      "comments": 125,
+      "commentsUrl": "https://reddit.com/r/selfhosted/comments/1rgh646/grafana_dashboard_to_tell_me_how_expensive_my/",
+      "category": "tech",
+      "description": "Over the last couple of months I have used Claude Code extensively to build out a robust Kubernetes cluster on the Proxmox servers in my rack. I had it set up a nice logging and observability stack wi",
+      "extra": {
+        "subreddit": "selfhosted"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.680Z",
+      "summary": "用户用Claude Code搭建Kubernetes集群监控系统"
+    },
+    {
+      "id": "reddit-1rgkc1b",
+      "source": "reddit",
+      "title": "Back in my day, LocalLLaMa were the pioneers!",
+      "url": "https://i.redd.it/hiz4ukvg04mg1.jpeg",
+      "score": 1025,
+      "comments": 179,
+      "commentsUrl": "https://reddit.com/r/LocalLLaMA/comments/1rgkc1b/back_in_my_day_localllama_were_the_pioneers/",
+      "category": "tech",
+      "extra": {
+        "subreddit": "LocalLLaMA"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.680Z",
+      "summary": "网友怀念LocalLLaMa早期开拓者"
+    },
+    {
+      "id": "reddit-my-1rg2r5q",
+      "source": "reddit",
+      "title": "A crisp duit pokok pisang that my grandma kept",
+      "url": "https://i.redd.it/aozqbmz0h0mg1.jpeg",
+      "score": 922,
+      "comments": 30,
+      "commentsUrl": "https://reddit.com/r/malaysia/comments/1rg2r5q/a_crisp_duit_pokok_pisang_that_my_grandma_kept/",
+      "category": "malaysia",
+      "extra": {
+        "subreddit": "malaysia"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "祖母珍藏的香蕉树本金旧币"
+    },
+    {
+      "id": "gh-1166020413",
+      "source": "github",
+      "title": "mgechev/skills-best-practices: Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
+      "url": "https://github.com/mgechev/skills-best-practices",
+      "score": 898,
+      "category": "tech",
+      "description": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window.",
+      "extra": {
+        "language": "Unknown",
+        "stars": 898,
+        "forks": 58
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "mgechev分享编写专业Agent技能的最佳实践"
+    },
+    {
+      "id": "gh-1164336049",
+      "source": "github",
+      "title": "taigrr/spank: Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "url": "https://github.com/taigrr/spank",
+      "score": 795,
+      "category": "life",
+      "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+      "extra": {
+        "language": "Go",
+        "stars": 795,
+        "forks": 34
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "开源项目让拍打MacBook会触发声音反馈，利用苹果芯片的加速度传感器实现。"
+    },
+    {
+      "id": "gh-1166946564",
+      "source": "github",
+      "title": "apple/python-apple-fm-sdk: Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+      "url": "https://github.com/apple/python-apple-fm-sdk",
+      "score": 734,
+      "category": "tech",
+      "description": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework",
+      "extra": {
+        "language": "Python",
+        "stars": 734,
+        "forks": 45
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "苹果发布Python工具包，支持通过Foundation Models框架访问设备端AI模型。"
+    },
+    {
+      "id": "gh-1165507389",
+      "source": "github",
+      "title": "win4r/memory-lancedb-pro: Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "url": "https://github.com/win4r/memory-lancedb-pro",
+      "score": 704,
+      "category": "tech",
+      "description": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 704,
+        "forks": 186
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "OpenClaw推出增强版LanceDB内存插件，支持混合检索和跨编码器重排序。"
+    },
+    {
+      "id": "hn-47197505",
+      "source": "hackernews",
+      "title": "The whole thing was a scam",
+      "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
+      "score": 690,
+      "comments": 203,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47197505",
+      "category": "forme",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "整个事件被证实是一场骗局。"
+    },
+    {
+      "id": "gh-1168456418",
+      "source": "github",
+      "title": "ForLoopCodes/contextplus: Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral C",
+      "url": "https://github.com/ForLoopCodes/contextplus",
+      "score": 676,
+      "category": "tech",
+      "description": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 676,
+        "forks": 46
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "Context+为大型工程提供语义智能服务，通过AST解析等技术构建可搜索代码图谱。"
+    },
+    {
+      "id": "gh-1167515091",
+      "source": "github",
+      "title": "Lakr233/vphone-cli: ",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "score": 671,
+      "category": "tech",
+      "description": "",
+      "extra": {
+        "language": "Python",
+        "stars": 671,
+        "forks": 80
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "Lakr233发布vphone-cli项目。"
+    },
+    {
+      "id": "gh-1169014161",
+      "source": "github",
+      "title": "ylytdeng/wechat-decrypt: WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "url": "https://github.com/ylytdeng/wechat-decrypt",
+      "score": 671,
+      "category": "tech",
+      "description": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor",
+      "extra": {
+        "language": "Python",
+        "stars": 671,
+        "forks": 591
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "微信4.0数据库解密工具可提取内存密钥并实时监控消息。"
+    },
+    {
+      "id": "gh-1165265099",
+      "source": "github",
+      "title": "rebane2001/x86CSS: x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
+      "url": "https://github.com/rebane2001/x86CSS",
+      "score": 659,
+      "category": "tech",
+      "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.",
+      "extra": {
+        "language": "HTML",
+        "stars": 659,
+        "forks": 14
+      },
+      "fetchedAt": "2026-03-01T05:07:56.352Z",
+      "summary": "x86CSS项目实现纯CSS编写的x86模拟器，无需JavaScript。"
+    },
+    {
+      "id": "reddit-1rgn4ki",
+      "source": "reddit",
+      "title": "President Trump orders ALL Federal agencies in the US Government to immediately stop using Anthropic's technology.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1rgn4ki/president_trump_orders_all_federal_agencies_in/",
+      "score": 564,
+      "comments": 262,
+      "commentsUrl": "https://reddit.com/r/LocalLLaMA/comments/1rgn4ki/president_trump_orders_all_federal_agencies_in/",
+      "category": "tech",
+      "description": "https://preview.redd.it/m3lk2lo3k4mg1.png?width=1200&format=png&auto=webp&s=513cae2c197f8e4fe712baa4ae7420972e7f4047\n\n[https://truthsocial.com/@realDonaldTrump/posts/116144552969293195](https://truths",
+      "extra": {
+        "subreddit": "LocalLLaMA"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.680Z",
+      "summary": "特朗普总统下令所有联邦机构立即停用Anthropic公司技术。"
+    },
+    {
+      "id": "reddit-1rh095c",
+      "source": "reddit",
+      "title": "DeepSeek V4 will be released next week and will have image and video generation capabilities, according to the Financial Times",
+      "url": "https://i.redd.it/kwyym79lz7mg1.jpeg",
+      "score": 559,
+      "comments": 94,
+      "commentsUrl": "https://reddit.com/r/LocalLLaMA/comments/1rh095c/deepseek_v4_will_be_released_next_week_and_will/",
+      "category": "tech",
+      "description": "Financial Times: DeepSeek to release long-awaited AI model in new challenge to US rivals (paywall): [https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e](https://www.ft.com/content/e336688",
+      "extra": {
+        "subreddit": "LocalLLaMA"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.680Z",
+      "summary": "金融时报报道DeepSeek V4下周发布，将具备图像和视频生成能力。"
+    },
+    {
+      "id": "reddit-my-1rgcaii",
+      "source": "reddit",
+      "title": "My friend gave me this in 2008 or 2009, you guys still using this?",
+      "url": "https://i.redd.it/1zrdwjvdj2mg1.jpeg",
+      "score": 549,
+      "comments": 64,
+      "commentsUrl": "https://reddit.com/r/malaysia/comments/1rgcaii/my_friend_gave_me_this_in_2008_or_2009_you_guys/",
+      "category": "malaysia",
+      "extra": {
+        "subreddit": "malaysia"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "网友展示2008年左右获得的物品并询问是否仍在使用。"
+    },
+    {
+      "id": "reddit-1rgrkhz",
+      "source": "reddit",
+      "title": "BookLore 2.0 is out! Audiobooks, multi-format books, overhauled readers, and a lot more..",
+      "url": "https://reddit.com/r/selfhosted/comments/1rgrkhz/booklore_20_is_out_audiobooks_multiformat_books/",
+      "score": 526,
+      "comments": 114,
+      "commentsUrl": "https://reddit.com/r/selfhosted/comments/1rgrkhz/booklore_20_is_out_audiobooks_multiformat_books/",
+      "category": "tech",
+      "description": "BookLore 2.0 is here.\n\nFor the unfamiliar, BookLore is a self-hosted digital library for ebooks, comics, and now audiobooks, with multi-user support, smart shelves, metadata fetching, Kobo/KOReader sy",
+      "extra": {
+        "subreddit": "selfhosted"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.680Z",
+      "summary": "BookLore 2.0发布，新增有声书支持和多格式阅读器。"
+    },
+    {
+      "id": "reddit-my-1rgph0l",
+      "source": "reddit",
+      "title": "Woman tikam Proton Saga",
+      "url": "https://v.redd.it/qfy2w98135mg1",
+      "score": 519,
+      "comments": 161,
+      "commentsUrl": "https://reddit.com/r/malaysia/comments/1rgph0l/woman_tikam_proton_saga/",
+      "category": "malaysia",
+      "extra": {
+        "subreddit": "malaysia"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "马来西亚发生女子持刀袭击Proton Saga轿车事件。"
+    },
+    {
+      "id": "reddit-my-1rh58p4",
+      "source": "reddit",
+      "title": "PMX on thread today",
+      "url": "https://i.redd.it/cr0bykc069mg1.jpeg",
+      "score": 477,
+      "comments": 97,
+      "commentsUrl": "https://reddit.com/r/malaysia/comments/1rh58p4/pmx_on_thread_today/",
+      "category": "malaysia",
+      "description": "He might be gone on the next GE",
+      "extra": {
+        "subreddit": "malaysia"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "网友讨论PMX可能不会参加下届大选。"
+    },
+    {
+      "id": "reddit-my-1rgxqsw",
+      "source": "reddit",
+      "title": "Malaysia and Indonesia have our own Pokémon game now lol (sorry very other SEA buddies)",
+      "url": "https://www.reddit.com/gallery/1rgxqsw",
+      "score": 461,
+      "comments": 33,
+      "commentsUrl": "https://reddit.com/r/malaysia/comments/1rgxqsw/malaysia_and_indonesia_have_our_own_pokémon_game/",
+      "category": "malaysia",
+      "description": "The map  the beta map though, not the final  ",
+      "extra": {
+        "subreddit": "malaysia"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "马来西亚和印尼推出本土化宝可梦游戏测试版。"
+    },
+    {
+      "id": "hn-47197267",
+      "source": "hackernews",
+      "title": "Obsidian Sync now has a headless client",
+      "url": "https://help.obsidian.md/sync/headless",
+      "score": 431,
+      "comments": 147,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47197267",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "Obsidian Sync推出无界面客户端版本"
+    },
+    {
+      "id": "reddit-my-1rgndxv",
+      "source": "reddit",
+      "title": "Malls in Klang Valley.",
+      "url": "https://i.redd.it/6dmz19lim4mg1.jpeg",
+      "score": 417,
+      "comments": 86,
+      "commentsUrl": "https://reddit.com/r/malaysia/comments/1rgndxv/malls_in_klang_valley/",
+      "category": "malaysia",
+      "description": "From the picture **(1 Utama, Mid Valley, Suria KLCC, Pavillion, IOI City Mall, Sunway Pyramid, Sunway Putra, TRX, Mytown**).\n\nI was born in Kg Baru (now live in Sentul). I've been to all malls in KV a",
+      "extra": {
+        "subreddit": "malaysia"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "雪隆地区主要购物中心盘点"
+    },
+    {
+      "id": "reddit-1rh43za",
+      "source": "reddit",
+      "title": "Qwen 3.5-35B-A3B is beyond expectations. It's replaced GPT-OSS-120B as my daily driver and it's 1/3 the size.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1rh43za/qwen_3535ba3b_is_beyond_expectations_its_replaced/",
+      "score": 412,
+      "comments": 109,
+      "commentsUrl": "https://reddit.com/r/LocalLLaMA/comments/1rh43za/qwen_3535ba3b_is_beyond_expectations_its_replaced/",
+      "category": "tech",
+      "description": "I know everyone has their own subjective take on what models are the best, at which types of tasks, at which sizes, at which quants, at which context lengths and so on and so forth.\n\nBut Qwen 3.5-35B-",
+      "extra": {
+        "subreddit": "LocalLLaMA"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.680Z",
+      "summary": "Qwen 3.5-35B-A3B模型性能超预期，体积仅为GPT-OSS-120B的三分之一"
+    },
+    {
+      "id": "reddit-1rh31si",
+      "source": "reddit",
+      "title": "Sub-SubReddit for SelfHosted",
+      "url": "https://reddit.com/r/selfhosted/comments/1rh31si/subsubreddit_for_selfhosted/",
+      "score": 404,
+      "comments": 276,
+      "commentsUrl": "https://reddit.com/r/selfhosted/comments/1rh31si/subsubreddit_for_selfhosted/",
+      "category": "tech",
+      "description": "Just a question that has been going round my head for a few days.\n\nWhat ever your opinion on it. We need to acknowledge that \"Vibe Coding\" is growing, and its not going to decrease.\n\nThe fact the entr",
+      "extra": {
+        "subreddit": "selfhosted"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.680Z",
+      "summary": "关于自托管社区中\"氛围编程\"现象兴起的讨论"
+    },
+    {
+      "id": "hn-47161759",
+      "source": "hackernews",
+      "title": "The happiest I've ever been",
+      "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+      "score": 391,
+      "comments": 195,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47161759",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "分享人生最快乐的时刻"
+    },
+    {
+      "id": "hn-47200420",
+      "source": "hackernews",
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "score": 390,
+      "comments": 171,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47200420",
+      "category": "life",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "专家认为不应将Anthropic列为供应链风险"
+    },
+    {
+      "id": "reddit-my-1rgyidk",
+      "source": "reddit",
+      "title": "Big lizard that lives in my friend’s house",
+      "url": "https://i.redd.it/iywxg33ch7mg1.jpeg",
+      "score": 360,
+      "comments": 53,
+      "commentsUrl": "https://reddit.com/r/malaysia/comments/1rgyidk/big_lizard_that_lives_in_my_friends_house/",
+      "category": "malaysia",
+      "description": "Apparently it came from the jungle. Lives behind his wardrobe.\n\nPeninsular Malaysia",
+      "extra": {
+        "subreddit": "malaysia"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "马来西亚半岛友人家里发现来自丛林的大型蜥蜴"
+    },
+    {
+      "id": "reddit-my-1rg4fak",
+      "source": "reddit",
+      "title": "Starting from 1 March 2026, non-citizen can no longer buy 1kg polybag cooking oil, and any person who sell such oil to a non-citizen will face heavy fine and possible jail time",
+      "url": "https://www.reddit.com/gallery/1rg4fak",
+      "score": 360,
+      "comments": 87,
+      "commentsUrl": "https://reddit.com/r/malaysia/comments/1rg4fak/starting_from_1_march_2026_noncitizen_can_no/",
+      "category": "life",
+      "extra": {
+        "subreddit": "malaysia"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "2026年3月起马来西亚禁止非公民购买1公斤袋装食用油"
+    },
+    {
+      "id": "hn-47202708",
+      "source": "hackernews",
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "score": 356,
+      "comments": 67,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47202708",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "微型GPT相关消息"
+    },
+    {
+      "id": "reddit-my-1rh0e70",
+      "source": "reddit",
+      "title": "Dataran Merdeka today during Iftar. A beautiful sight!",
+      "url": "https://i.redd.it/s4ylg7ko18mg1.jpeg",
+      "score": 351,
+      "comments": 31,
+      "commentsUrl": "https://reddit.com/r/malaysia/comments/1rh0e70/dataran_merdeka_today_during_iftar_a_beautiful/",
+      "category": "malaysia",
+      "extra": {
+        "subreddit": "malaysia"
+      },
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "开斋节期间独立广场美景"
+    },
+    {
+      "id": "hn-47193064",
+      "source": "hackernews",
+      "title": "MCP server that reduces Claude Code context consumption by 98%",
+      "url": "https://mksg.lu/blog/context-mode",
+      "score": 285,
+      "comments": 66,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47193064",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "新MCP服务器可将Claude代码上下文消耗降低98%"
+    },
+    {
+      "id": "hn-47199781",
+      "source": "hackernews",
+      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+      "score": 280,
+      "comments": 181,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47199781",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "Qwen3.5 122B和35B模型在本地电脑达到Sonnet 4.5性能水平"
+    },
+    {
+      "id": "hn-47155526",
+      "source": "hackernews",
+      "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+      "url": "https://github.com/ad-si/Woxi",
+      "score": 264,
+      "comments": 109,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47155526",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "Woxi项目：用Rust重新实现Wolfram Mathematica"
+    },
+    {
+      "id": "hn-47147597",
+      "source": "hackernews",
+      "title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+      "url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
+      "score": 249,
+      "comments": 171,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47147597",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "回顾历史上多次试图取代程序员的尝试"
+    },
+    {
+      "id": "hn-47199948",
+      "source": "hackernews",
+      "title": "Our Agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "score": 248,
+      "comments": 205,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47199948",
+      "category": "world",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "与战争部达成合作协议"
+    },
+    {
+      "id": "hn-47195371",
+      "source": "hackernews",
+      "title": "Addressing Antigravity Bans and Reinstating Access",
+      "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
+      "score": 219,
+      "comments": 180,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47195371",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "讨论反重力禁令并恢复相关访问权限"
+    },
+    {
+      "id": "hn-47195123",
+      "source": "hackernews",
+      "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+      "url": "https://nowigetit.us",
+      "score": 207,
+      "comments": 99,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47195123",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "将科学论文转化为交互式网页的新工具"
+    },
+    {
+      "id": "hn-47200904",
+      "source": "hackernews",
+      "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
+      "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+      "score": 192,
+      "comments": 112,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47200904",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "1996年研究：Windows 95用户界面的可用性工程案例分析"
+    },
+    {
+      "id": "hn-47198977",
+      "source": "hackernews",
+      "title": "Block the “Upgrade to Tahoe” Alerts",
+      "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+      "score": 172,
+      "comments": 78,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47198977",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "阻止\"升级到Tahoe\"系统提示的方法"
+    },
+    {
+      "id": "hn-47197595",
+      "source": "hackernews",
+      "title": "Verified Spec-Driven Development (VSDD)",
+      "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+      "score": 159,
+      "comments": 84,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47197595",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "验证规范驱动开发(VSDD)方法介绍"
+    },
+    {
+      "id": "hn-47182986",
+      "source": "hackernews",
+      "title": "747s and Coding Agents",
+      "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
+      "score": 140,
+      "comments": 61,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47182986",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "波音747飞机与编程代理的关联分析"
+    },
+    {
+      "id": "hn-47154637",
+      "source": "hackernews",
+      "title": "New evidence that Cantor plagiarized Dedekind?",
+      "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
+      "score": 115,
+      "comments": 73,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47154637",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "康托尔涉嫌抄袭戴德金数学理论的新证据"
+    },
+    {
+      "id": "reminder-test-reminder-today",
+      "source": "reminder",
+      "title": "TEST: 测试提醒卡片",
+      "url": "https://example.com",
+      "score": 100,
+      "category": "forme",
+      "description": "这是一条测试提醒，验证提醒卡片渲染效果 (还有2天)",
+      "fetchedAt": "2026-03-01T04:59:29.785Z",
+      "summary": "测试提醒卡片渲染效果的验证信息"
+    },
+    {
+      "id": "hn-47178051",
+      "source": "hackernews",
+      "title": "Werner Herzog Between Fact and Fiction",
+      "url": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
+      "score": 70,
+      "comments": 14,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47178051",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "维尔纳·赫尔佐格在纪实与虚构之间的创作风格"
+    },
+    {
+      "id": "hn-47202808",
+      "source": "hackernews",
+      "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
+      "url": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
+      "score": 56,
+      "comments": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47202808",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "三星系统更新移除Android恢复菜单工具包括侧载功能"
+    },
+    {
+      "id": "hn-47152835",
+      "source": "hackernews",
+      "title": "The archivist preserving decaying floppy disks",
+      "url": "https://www.popsci.com/technology/floppy-disk-archivist-project/",
+      "score": 56,
+      "comments": 11,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47152835",
+      "category": "tech",
+      "fetchedAt": "2026-03-01T05:07:57.023Z",
+      "summary": "档案工作者致力于保存老化软盘数据"
+    },
+    {
+      "id": "thestar-840c43d7bba8",
+      "source": "thestar",
+      "title": "Hunter dies after fall from tree in Kota Belud’s Sapoda forest",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/01/hunter-dies-after-fall-from-tree-in-kota-beluds-sapoda-forest",
+      "score": 5,
+      "category": "malaysia",
+      "description": "KOTA KINABALU: A man died after he was believed to have fallen from a tree while hunting in Kota Belud district, Saturday (Feb 28). Read full story",
+      "fetchedAt": "2026-03-01T05:07:55.682Z",
+      "summary": "马来西亚猎人在打猎时从树上坠落身亡"
+    },
+    {
+      "id": "thestar-860b3032bafa",
+      "source": "thestar",
+      "title": "Iran strikes disrupt thousands of flights; Dubai Airport damaged",
+      "url": "https://www.thestar.com.my/news/world/2026/03/01/iran-strikes-disrupt-thousands-of-flights-dubai-airport-damaged",
+      "score": 5,
+      "category": "world",
+      "description": "DUBAI: Thousands of flights have been disrupted in the wake of the escalating conflict engulfing the Middle East, with Dubai's main airport - the world's busiest aviation hub - effectively shut down a",
+      "fetchedAt": "2026-03-01T05:07:55.683Z",
+      "summary": "伊朗冲突导致数千航班中断，迪拜机场受损"
+    },
+    {
+      "id": "malaymail-76d99682b005",
+      "source": "malaymail",
+      "title": "Two AADK auxiliary policemen to face disciplinary board over drug supply to 47 Puspen clients",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/01/two-aadk-auxiliary-policemen-to-face-disciplinary-board-over-drug-supply-to-47-puspen-clients/210850",
+      "score": 5,
+      "category": "tech",
+      "description": "BACHOK, March 1 — Two National Anti-Drugs Agency (AADK) auxiliary policemen suspected of supplying drugs to 47 cli...",
+      "fetchedAt": "2026-03-01T05:07:55.683Z",
+      "summary": "两名马来西亚禁毒机构辅警涉嫌向戒毒者提供毒品将受审"
+    },
+    {
+      "id": "malaymail-476d06d8666f",
+      "source": "malaymail",
+      "title": "Could oil hit US$100 a barrel? How the Iran war is threatening global energy supply",
+      "url": "https://www.malaymail.com/news/money/2026/03/01/could-oil-hit-us100-a-barrel-how-the-iran-war-is-threatening-global-energy-supply/210830",
+      "score": 5,
+      "category": "world",
+      "description": "LONDON, March 1 — The US-Israeli strikes against Iran and reprisals by Tehran could severely disrupt the global su...",
+      "fetchedAt": "2026-03-01T05:07:55.684Z",
+      "summary": "伊朗冲突可能导致油价突破每桶100美元，威胁全球能源供应"
+    },
+    {
+      "id": "fmt-4cfdc61b4346",
+      "source": "fmt",
+      "title": "Family of 9 receives MyKads, birth certs",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/03/01/family-of-9-receives-mykads-birth-certs",
+      "score": 5,
+      "category": "life",
+      "description": "The family from Kelantan failed to obtain any documentation due to family issues, leading to the failure to register their births.",
+      "fetchedAt": "2026-03-01T05:07:55.684Z",
+      "summary": "吉兰丹州一家9口因家庭问题长期无法获得身份证和出生证明，现终于取得证件。"
+    },
+    {
+      "id": "malaysiakini-12a9e6af1920",
+      "source": "malaysiakini",
+      "title": "Govt may lack numbers to pass un-tweaked AG-PP bill, will they risk it?",
+      "url": "https://www.malaysiakini.com/news/769212",
+      "score": 5,
+      "category": "malaysia",
+      "description": "One PKR MP says there is no need to rush.",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "政府或无法获得足够票数通过未经修改的总检察长法案，有议员建议无需仓促行事。"
+    },
+    {
+      "id": "bernama-25520694024b",
+      "source": "bernama",
+      "title": "General : Religious Provocation: Leave It To The Authorities To Investigate - PM Anwar",
+      "url": "http://www.bernama.com/en/news.php?id=2529040",
+      "score": 5,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, March 1 (Bernama) -- Prime Minister Datuk Seri Anwar Ibrahim has urged the public to leave it entirely to the authorities to conduct an investigation into the issue of religious provocat",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "首相安华呼吁公众让当局全权处理宗教挑衅事件的调查工作。"
+    },
+    {
+      "id": "sinchew-4a4da9e020ea",
+      "source": "sinchew",
+      "title": "Rafizi warns of PKR wipeout as voter disillusionment hits new high according to Invoke - MySinchew",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yNzlqSGFILWZkLXRQRHRJUzNONXNreVRqLVg2UzM5VC1fQUhUOHVrSUg1S3ItNnJWM1dyWkhCZEJQd0stR2FNbE9HbkFGdVM3WmZrOVppYUtid1hGRUJSSUktWEVDTUZ6dUJYZ2R4Q2ptdw?oc=5",
+      "score": 5,
+      "category": "malaysia",
+      "description": "Rafizi warns of PKR wipeout as voter disillusionment hits new high according to Invoke MySinchew",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "公正党副主席拉菲兹警告，根据民调显示选民失望情绪高涨，公正党可能面临惨败。"
+    },
+    {
+      "id": "bbc-056c15489f69",
+      "source": "bbc",
+      "title": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
+      "url": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&at_campaign=rss",
+      "score": 5,
+      "category": "world",
+      "description": "Iranian state TV confirms the supreme leader has been killed on the first day of massive US and Israeli air strikes on the country.",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "伊朗最高领袖哈梅内伊在美以空袭首日遇袭身亡。"
+    },
+    {
+      "id": "scmp-8a1e38819129",
+      "source": "scmp",
+      "title": "With Khamenei dead, who will be Iran’s next supreme leader?",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3345004/khamenei-dead-who-will-be-irans-next-supreme-leader?utm_source=rss_feed",
+      "score": 5,
+      "category": "world",
+      "description": "The death of Iran’s Supreme leader Ayatollah Ali Khamenei after almost 37 years in power raises paramount questions about the country’s future. The contours of a complex succession process began to ta",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "哈梅内伊去世后，伊朗将面临复杂的最高领袖继任程序。"
+    },
+    {
+      "id": "ringgitoh-be744b4b4894",
+      "source": "ringgitoh",
+      "title": "Credit Reports in Malaysia: Experian vs CTOS vs Credit Bureau Credit Score Comparison",
+      "url": "https://ringgitohringgit.com/money-management/credit-reports-in-malaysia/",
+      "score": 5,
+      "category": "malaysia",
+      "description": "I’ve always wondered what’s the difference between different credit reports in Malaysia, so I got ALL of them. This post compares PAID credit reports from Experian, CTOS and Credit Bureau, all bought ",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "文章对比马来西亚三大信用报告机构(Experian、CTOS和Credit Bureau)的付费信用报告服务。"
+    },
+    {
+      "id": "soyacincau-41e4f1c12ae7",
+      "source": "soyacincau",
+      "title": "Xiaomi 17 and 17 Ultra now in Malaysia: Leica-powered photography flagships from RM3,299",
+      "url": "https://soyacincau.com/2026/03/01/xiaomi-17-and-17-ultra-malaysia-launch-price-specs-preorder/",
+      "score": 5,
+      "category": "malaysia",
+      "description": "The Xiaomi 17 series has officially made its global debut in conjunction with Mobile World Congress 2026 and the latest flagship phones are now available for pre-order in Malaysia. Similar to the prev",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "小米17系列旗舰手机在马来西亚上市，搭载徕卡影像系统，起售价3299令吉。"
+    },
+    {
+      "id": "imoney-cd3d7431ab68",
+      "source": "imoney",
+      "title": "Papa Zola The Movie: Malaysia’s Best Animated Blockbuster Yet",
+      "url": "https://www.imoney.my/articles/papa-zola-the-movie-malaysias-best-animated-film",
+      "score": 5,
+      "category": "malaysia",
+      "description": "Papa Zola The Movie isn't just breaking box office records, it's carrying the flag for Malaysian storytelling on a global stage. And honestly? It's earned it. The post Papa Zola The Movie: Malaysia’s ",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "马来西亚动画电影《Papa Zola》创下票房纪录，成为国产动画新标杆。"
+    },
+    {
+      "id": "vulcanpost-bb16c9ce65e4",
+      "source": "vulcanpost",
+      "title": "At 5AM, Gen A S’poreans queue for this store—& save pocket money to buy viral snacks",
+      "url": "https://vulcanpost.com/909627/sgfr-store-viral-international-snacks/",
+      "score": 5,
+      "category": "tech",
+      "description": "From PRIME energy drinks to MrBeast’s chocolate bars, SGFR Store brings in cult-favourite international snacks It’s 5AM on a weekend—and instead of sleeping in, dozens of young Singaporeans are alread",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "新加坡年轻人清晨5点排队购买Prime能量饮料等网红零食。"
+    },
+    {
+      "id": "ringgitplus-f20701f49d88",
+      "source": "ringgitplus",
+      "title": "EPF Declares 6.15% Dividend For 2025",
+      "url": "https://ringgitplus.com/en/blog/personal-finance-news/epf-declares-6-15-dividend-for-2025.html",
+      "score": 5,
+      "category": "forme",
+      "description": "The Employees Provident Fund has declared a dividend rate of 6.15% for both Simpanan Konvensional and Simpanan Shariah […] The post EPF Declares 6.15% Dividend For 2025 appeared first on RinggitPlus.",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "马来西亚公积金局宣布2025年传统和伊斯兰储蓄账户派息率均为6.15%。"
+    },
+    {
+      "id": "thestar-630c7bde3192",
+      "source": "thestar",
+      "title": "Arrest of four suspects expected to solve case of man attacked at Jalan Kelawai shopping mall",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/01/arrest-of-four-suspects-expected-to-solve-case-of-man-attacked-at-jalan-kelawai-shopping-mall",
+      "score": 4,
+      "category": "money",
+      "description": "GEORGE TOWN: The arrest of four individuals to assist investigations into the attack on a man at a shopping mall along Jalan Kelawai last Wednesday is expected to help resolve the case. Read full stor",
+      "fetchedAt": "2026-03-01T05:07:55.682Z",
+      "summary": "槟城警方逮捕4名嫌犯，有望侦破Jalan Kelawai购物中心袭击案。"
+    },
+    {
+      "id": "thestar-9f83274bfe84",
+      "source": "thestar",
+      "title": "How succession works in Iran and who will be the country's next supreme leader?",
+      "url": "https://www.thestar.com.my/news/world/2026/03/01/how-succession-works-in-iran-and-who-will-be-the-country039s-next-supreme-leader",
+      "score": 4,
+      "category": "world",
+      "description": "DUBAI: The death of Iran's Supreme Leader Ayatollah Ali Khamenei after almost 37 years in power raises paramount questions about the country's future. The contours of a complex succession process bega",
+      "fetchedAt": "2026-03-01T05:07:55.683Z",
+      "summary": "分析伊朗最高领袖继任机制及潜在接班人。"
+    },
+    {
+      "id": "malaymail-a83b757aab01",
+      "source": "malaymail",
+      "title": "Avoid travel to the Middle East unless urgent as situation stays uncertain, Wisma Putra tells Malaysians",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/01/avoid-travel-to-the-middle-east-unless-urgent-as-situation-stays-uncertain-wisma-putra-tells-malaysians/210844",
+      "score": 4,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, March 1 — Malaysia&rsquo;s Foreign Ministry, through its diplomatic missions in the Middle East, has...",
+      "fetchedAt": "2026-03-01T05:07:55.683Z",
+      "summary": "马来西亚外交部建议民众如非必要暂勿前往局势不稳定的中东地区。"
+    },
+    {
+      "id": "malaymail-c0c7e91117fa",
+      "source": "malaymail",
+      "title": "Major tankers suspend Hormuz transits as Iran closes strait carrying 20pc of global oil supply",
+      "url": "https://www.malaymail.com/news/money/2026/03/01/major-tankers-suspend-hormuz-transits-as-iran-closes-strait-carrying-20pc-of-global-oil-supply/210798",
+      "score": 4,
+      "category": "world",
+      "description": "LONDON, March 1 — Several tanker owners, &zwnj;oil majors and trading houses have suspended crude oil, fuel ​and l...",
+      "fetchedAt": "2026-03-01T05:07:55.684Z",
+      "summary": "因伊朗封锁霍尔木兹海峡，多家油轮公司暂停通过这条占全球石油运输20%的航道。"
+    },
+    {
+      "id": "fmt-45c14563bdbc",
+      "source": "fmt",
+      "title": "Pembangkang cadang jawatankuasa dwipartisan lantik, tamat khidmat pendakwa raya",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/01/pembangkang-cadang-jawatankuasa-dwipartisan-lantik-tamat-khidmat-pendakwa-raya",
+      "score": 4,
+      "category": "malaysia",
+      "description": "Hamzah Zainudin berkata jawatankuasa itu hendaklah mempunyai kedudukan setaraf PAC termasuk kuasa memanggil pendakwa raya atau peguam negara.",
+      "fetchedAt": "2026-03-01T05:07:55.684Z",
+      "summary": "反对党提议成立两党委员会任命和罢免检察官，赋予类似公共账目委员会的权力。"
+    },
+    {
+      "id": "malaysiakini-9cd5a56d1103",
+      "source": "malaysiakini",
+      "title": "SNAPSHOT | Rafizi says PKR misread him; Daim family lawyer slams 'political move'",
+      "url": "https://www.malaysiakini.com/news/769211",
+      "score": 4,
+      "category": "malaysia",
+      "description": "What's going on in the news today, with updates at 11am, 2pm, and 6pm.",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "拉菲兹称公正党误解其立场，达因家族律师谴责\"政治操作\"。"
+    },
+    {
+      "id": "bernama-6a1b4451ec98",
+      "source": "bernama",
+      "title": "General : 1,357 Cases Detected During CNY 2026 SHMMP - KPDN",
+      "url": "http://www.bernama.com/en/news.php?id=2529039",
+      "score": 4,
+      "category": "malaysia",
+      "description": "PUTRAJAYA, March 1 (Bernama) -- The Domestic Trade and Cost of Living Ministry (KPDN) recorded 1,357 offences involving compounds totalling RM157,000 and seizures worth RM40,361.57 during the Chinese ",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "马来西亚国内贸易部在农历新年期间查处1357起违规案件，罚没总金额达19.7万令吉。"
+    },
+    {
+      "id": "sinchew-d4eb9c54d952",
+      "source": "sinchew",
+      "title": "Valle Venia presents new song by LPS feat. Lara: Where will it take me - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrc0NZMnBjcFpRdDJCZ3BSdmFEX1hNN0M1NU9CSmp5OXVwYlA2d0hER3c0aGU5OU9xNXVIUmhBZzdEeXg2VlBqTHZqOXVwOU4ySml6bURUWVJyd0ZHa3YySG9YUFAwZEtjX1E?oc=5",
+      "score": 4,
+      "category": "malaysia",
+      "description": "Valle Venia presents new song by LPS feat. Lara: Where will it take me Sin Chew Daily",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "Valle Venia与LPS合作推出新单曲《Where will it take me》，由Lara演唱。"
+    },
+    {
+      "id": "bbc-ac3a23841d22",
+      "source": "bbc",
+      "title": "What we know so far: Supreme Leader Khamenei killed, as Iran launches retaliatory strikes",
+      "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+      "score": 4,
+      "category": "world",
+      "description": "Iran responds by launching missiles and drones towards Israel and four Gulf Arab countries that host US military bases.",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "伊朗最高领袖哈梅内伊遇袭身亡，伊朗向以色列及四个海湾国家发射导弹报复。"
+    },
+    {
+      "id": "bbc-8fc04225e3e6",
+      "source": "bbc",
+      "title": "Why is WhatsApp's privacy policy facing a legal challenge in India?",
+      "url": "https://www.bbc.com/news/articles/cp81wegj123o?at_medium=RSS&at_campaign=rss",
+      "score": 4,
+      "category": "world",
+      "description": "A 2021 policy update requires users to share data with Meta for ads purposes to continue using the app.",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "WhatsApp因2021年隐私政策更新要求在印度面临法律挑战，该政策要求用户与Meta共享广告数据。"
+    },
+    {
+      "id": "scmp-83e15ae1c38f",
+      "source": "scmp",
+      "title": "Trump was once not keen on regime change in Iran – then he lost patience",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3345003/trump-was-once-not-keen-regime-change-iran-then-he-lost-patience?utm_source=rss_feed",
+      "score": 4,
+      "category": "world",
+      "description": "With Saturday’s military operation against Iran, US President Donald Trump showed a dramatic evolution in risk tolerance, adjusting in just a matter of months how far he was willing to go in using Ame",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "特朗普对伊朗态度转变，从反对政权更迭到授权军事行动。"
+    },
+    {
+      "id": "ringgitoh-7db0258a3af7",
+      "source": "ringgitoh",
+      "title": "Ultimate Comparison Between 8 Robo Advisor in Malaysia",
+      "url": "https://ringgitohringgit.com/investing/best-robo-advisor-in-malaysia/",
+      "score": 4,
+      "category": "malaysia",
+      "description": "Welcome to the ultimate robo advisor comparison article! In this article, you will find the best robo advisor in Malaysia that you can use to invest and grow your wealth. Continue reading Ultimate Com",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "马来西亚8家机器人理财顾问平台终极比较指南。"
+    },
+    {
+      "id": "soyacincau-25687c426b3b",
+      "source": "soyacincau",
+      "title": "Pocket-Friendly Design, Pro-Level Photos: Who Says Compact Camera Phones Can’t Be This Amazing?",
+      "url": "https://soyacincau.com/2026/02/28/xiaomi-17-ultra-leica-camera-photography-sample/",
+      "score": 4,
+      "category": "life",
+      "description": "This post is brought to you by Xiaomi. Finding a smartphone that doesn’t feel like a tablet in your pocket but still packs the power of one is a rare find. The upcoming Xiaomi 17 is designed for exact",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "小米即将推出兼顾便携与专业摄影功能的Xiaomi 17手机。"
+    },
+    {
+      "id": "imoney-6b48378ffc90",
+      "source": "imoney",
+      "title": "What Is The Latest Petrol Price In Malaysia?",
+      "url": "https://www.imoney.my/articles/latest-petrol-prices-malaysia",
+      "score": 4,
+      "category": "forme",
+      "description": "Plus everything you’ve ever wanted to know about fuelling up. The post What Is The Latest Petrol Price In Malaysia? appeared first on iMoney Malaysia.",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "文章解析马来西亚最新油价及加油相关知识。"
+    },
+    {
+      "id": "vulcanpost-458e00006535",
+      "source": "vulcanpost",
+      "title": "Do international F&B chains have more value for money? Some Singaporeans think so.",
+      "url": "https://vulcanpost.com/909576/singaporeans-prefer-intl-fnb-brands/",
+      "score": 4,
+      "category": "money",
+      "description": "These F&B chains are winning over the taste buds of Singaporeans “I support foreign F&B [brands] over local ones.” It’s a statement that sparked debate on a Reddit thread—and it reflects a growing tre",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "新加坡消费者认为国际连锁餐饮品牌比本土品牌更具性价比。"
+    },
+    {
+      "id": "ringgitplus-841de40140df",
+      "source": "ringgitplus",
+      "title": "Strong Growth And A Firmer Ringgit. What It Means For Your Costs And Income.",
+      "url": "https://ringgitplus.com/en/blog/personal-finance-news/strong-growth-and-a-firmer-ringgit-what-it-means-for-your-costs-and-income.html",
+      "score": 4,
+      "category": "malaysia",
+      "description": "Malaysia’s economy has grown above 5% for two years in a row, and the ringgit has strengthened from […] The post Strong Growth And A Firmer Ringgit. What It Means For Your Costs And Income. appeared f",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "马来西亚经济连续两年增长超5%，令吉走强对民众收支影响分析。"
+    },
+    {
+      "id": "thestar-bdce195ea4de",
+      "source": "thestar",
+      "title": "Sabah flood evacuees drop to 1,462, all in Beaufort district",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/01/sabah-flood-evacuees-drop-to-1462-all-in-beaufort-district",
+      "score": 3,
+      "category": "malaysia",
+      "description": "KOTA KINABALU: The number of flood victims in Sabah taking shelter at temporary relief centres dropped to 1,462 people from 467 families as of noon Sunday (March 1) Read full story",
+      "fetchedAt": "2026-03-01T05:07:55.682Z",
+      "summary": "沙巴水灾灾民减至1462人，全部集中在保佛地区。"
+    },
+    {
+      "id": "thestar-ccabf04ae5d4",
+      "source": "thestar",
+      "title": "US, Israel clash with Iran at emergency Security Council meeting, UN chief condemns attacks",
+      "url": "https://www.thestar.com.my/news/world/2026/03/01/us-israel-clash-with-iran-at-emergency-security-council-meeting-un-chief-condemns-attacks",
+      "score": 3,
+      "category": "world",
+      "description": "UNITED NATIONS: The United States and Israel clashed with Iran at an emergency meeting of the U.N. Security Council on Saturday (Feb 28), where the U.N. chief and many countries urged a halt to their ",
+      "fetchedAt": "2026-03-01T05:07:55.683Z",
+      "summary": "美以与伊朗在联合国安理会紧急会议上交锋，秘书长谴责袭击行为。"
+    },
+    {
+      "id": "malaymail-0c027e44a069",
+      "source": "malaymail",
+      "title": "Iran conflict may hit markets, but some economic levers still in govt hands, says Anwar",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/01/iran-conflict-may-hit-markets-but-some-economic-levers-still-in-govt-hands-says-anwar/210841",
+      "score": 3,
+      "category": "world",
+      "description": "PUTRAJAYA, March 1 — The government still has room in domestic economic policy to ensure a peaceful and stable pol...",
+      "fetchedAt": "2026-03-01T05:07:55.683Z",
+      "summary": "安瓦尔表示伊朗冲突可能冲击市场，但政府仍掌握经济调控空间。"
+    },
+    {
+      "id": "malaymail-6fbe52b5dba5",
+      "source": "malaymail",
+      "title": "Europe’s largest Samsung TV plant in Slovakia set to close by May 2026 as ‘idiot box’ era wanes",
+      "url": "https://www.malaymail.com/news/money/2026/02/28/europes-largest-samsung-tv-plant-in-slovakia-set-to-close-by-may-2026-as-idiot-box-era-wanes/210724",
+      "score": 3,
+      "category": "money",
+      "description": "BRATISLAVA, Feb 28 — South Korean industrial giant Samsung said Friday it would shut down its last remaining telev...",
+      "fetchedAt": "2026-03-01T05:07:55.684Z",
+      "summary": "三星宣布将于2026年5月关闭斯洛伐克电视工厂，标志传统电视时代落幕。"
+    },
+    {
+      "id": "fmt-b3e9148950c0",
+      "source": "fmt",
+      "title": "China urges immediate ceasefire after US, Israel strike Iran",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/03/01/china-urges-immediate-ceasefire-after-us-israel-strike-iran",
+      "score": 3,
+      "category": "world",
+      "description": "The Chinese foreign ministry said Iran's sovereignty, security and territorial integrity should be respected.",
+      "fetchedAt": "2026-03-01T05:07:55.684Z",
+      "summary": "中国外交部呼吁立即停火，强调应尊重伊朗主权和领土完整。"
+    },
+    {
+      "id": "malaysiakini-093f714e5da0",
+      "source": "malaysiakini",
+      "title": "Iran supreme leader killed",
+      "url": "https://www.malaysiakini.com/news/769207",
+      "score": 3,
+      "category": "world",
+      "description": "UPDATED 10.47AM | Ali Khamenei martyred following Israeli and US attack, Trump urges Iranians to 'take back their country'.",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "伊朗最高领袖哈梅内伊在美以袭击中身亡，特朗普呼吁伊朗人\"夺回国家\"。"
+    },
+    {
+      "id": "bernama-0a3baa1eceba",
+      "source": "bernama",
+      "title": "General : Undocumented No More: Family Of Nine Receives MyKad, Birth Certificates",
+      "url": "http://www.bernama.com/en/news.php?id=2529038",
+      "score": 3,
+      "category": "life",
+      "description": "MACHANG, March 1 (Bernama) -- After years without identification documents, a family of nine finally received their MyKad and birth certificates, giving them access to education, healthcare, and gover",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "马来西亚一家九口终获身份证件，结束多年无证状态。"
+    },
+    {
+      "id": "sinchew-6a1ce8ceea62",
+      "source": "sinchew",
+      "title": "Experiencing an Authentic Chinese New Year in Chinese Gardens Around the World - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xZjlrWHdwMXRYamM1WGRsZDNHZVR5MDFwR3kwTFoxX1hhQTZQcGxEZ3gtTlhxT3lEVUM3cUpBUDAyVVB0QjhvandheTJjOWY0dEpTWkg0VkgzMUJnNWdYelgwMXNvYko2NGc?oc=5",
+      "score": 3,
+      "category": "malaysia",
+      "description": "Experiencing an Authentic Chinese New Year in Chinese Gardens Around the World Sin Chew Daily",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "全球中式园林举办活动，让游客体验正宗中国新年氛围。"
+    },
+    {
+      "id": "bbc-ad2833c0d3ce",
+      "source": "bbc",
+      "title": "Iran says US and Israel strikes hit school killing 108",
+      "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
+      "score": 3,
+      "category": "world",
+      "description": "There is no confirmation by the US or Israel of the strike on the school located near elite military troops.",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "伊朗称美以空袭致学校108人丧生，美以未予证实。"
+    },
+    {
+      "id": "bbc-a00cabcd2735",
+      "source": "bbc",
+      "title": "These filmmakers know exactly how to get you hooked on bizarre one-minute dramas",
+      "url": "https://www.bbc.com/news/articles/cvg5q6wq11no?at_medium=RSS&at_campaign=rss",
+      "score": 3,
+      "category": "life",
+      "description": "The business depends on packing a punch right away because the first five to 10 episodes are free.",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "短视频制作商通过前5-10集免费策略吸引观众观看离奇剧情。"
+    },
+    {
+      "id": "scmp-28284f1a1424",
+      "source": "scmp",
+      "title": "What to know about Iran’s Supreme leader Ayatollah Ali Khamenei",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3345002/what-know-about-irans-supreme-leader-ayatollah-ali-khamenei?utm_source=rss_feed",
+      "score": 3,
+      "category": "world",
+      "description": "When targeted by nationwide protests early this year, Iran’s Supreme leader Ayatollah Ali Khamenei unleashed the bloodiest crackdown of his nearly four decades in power. But now a US or Israeli milita",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "伊朗最高领袖哈梅内伊曾镇压全国抗议，现面临美以军事威胁。"
+    },
+    {
+      "id": "ringgitoh-fe22acd02200",
+      "source": "ringgitoh",
+      "title": "The ULTIMATE Cryptocurrency in Malaysia Guide [2025 Update]",
+      "url": "https://ringgitohringgit.com/investing/crypto-malaysia/",
+      "score": 3,
+      "category": "malaysia",
+      "description": "So you want to learn about crypto in Malaysia. Maybe you want to learn how to buy bitcoin in Malaysia, as an investment. Continue reading The ULTIMATE Cryptocurrency in Malaysia Guide [2025 Update] at",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "马来西亚2025年加密货币投资指南发布，含比特币购买教程。"
+    },
+    {
+      "id": "soyacincau-6180e5b8d5e5",
+      "source": "soyacincau",
+      "title": "Samsung Galaxy S26: Here’s why you shouldn’t buy these two phones",
+      "url": "https://soyacincau.com/2026/02/28/samsung-galaxy-s26-why-you-should-not-buy/",
+      "score": 3,
+      "category": "tech",
+      "description": "The Samsung Galaxy S26 series has officially arrived, and it brings one of the most interesting mixes of genuine innovation. This includes impressive features like Privacy Display, Horizontal Lock, an",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "三星Galaxy S26系列发布，专家建议避免购买其中两款机型。"
+    },
+    {
+      "id": "imoney-c78af01b92db",
+      "source": "imoney",
+      "title": "Harga RON95, RON97 Dan Diesel Terkini Di Malaysia",
+      "url": "https://www.imoney.my/articles/harga-minyak-minggu-ini",
+      "score": 3,
+      "category": "forme",
+      "description": "Ketahui harga minyak minggu ini. The post Harga RON95, RON97 Dan Diesel Terkini Di Malaysia appeared first on iMoney Malaysia.",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "马来西亚公布本周RON95、RON97汽油及柴油最新价格。"
+    },
+    {
+      "id": "vulcanpost-1ba5463409ce",
+      "source": "vulcanpost",
+      "title": "Food delivery platform Deliveroo will wind down & exit S’pore after Mar 4",
+      "url": "https://vulcanpost.com/909578/deliveroo-singapore-exit/",
+      "score": 3,
+      "category": "life",
+      "description": "The decision was made following a review of “country-specific” conditions Food delivery service Deliveroo will cease operations in Singapore after Mar 4. In a statement on its website today (Feb 25), ",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "外卖平台Deliveroo宣布3月4日起退出新加坡市场。"
+    },
+    {
+      "id": "ringgitplus-ceddbe3380ad",
+      "source": "ringgitplus",
+      "title": "XTransfer Receives Conditional Approval From Bank Negara Malaysia For Trade Payment Services",
+      "url": "https://ringgitplus.com/en/blog/personal-finance-news/xtransfer-receives-conditional-approval-from-bank-negara-malaysia-for-trade-payment-services.html",
+      "score": 3,
+      "category": "malaysia",
+      "description": "If you run a business that buys or sells goods overseas, moving money across borders can be slow […] The post XTransfer Receives Conditional Approval From Bank Negara Malaysia For Trade Payment Servic",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "XTransfer获马来西亚央行有条件批准开展跨境贸易支付服务。"
+    },
+    {
+      "id": "thestar-733257852bcf",
+      "source": "thestar",
+      "title": "Eight women injured in early morning homestay fire",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/01/eight-women-injured-in-early-morning-homestay-fire",
+      "score": 2,
+      "category": "malaysia",
+      "description": "GEORGE TOWN: A 31-year-old woman broke her right leg while seven others suffered minor injuries and breathing difficulties in a fire at a three-storey homestay in Pearl Residence, Solok Sungai Emas, B",
+      "fetchedAt": "2026-03-01T05:07:55.682Z",
+      "summary": "槟城民宿火灾致8名女性受伤，1人右腿骨折。"
+    },
+    {
+      "id": "thestar-a581b7ee46ac",
+      "source": "thestar",
+      "title": "Blasts heard in Kabul amid clashes between Afghan, Pakistani forces",
+      "url": "https://www.thestar.com.my/news/world/2026/03/01/blasts-heard-in-kabul-amid-clashes-between-afghan-pakistani-forces",
+      "score": 2,
+      "category": "tech",
+      "description": "KABUL, March 1 (Reuters) - ⁠Blasts and gunfire were heard in Kabul on ⁠Sunday, a Reuters journalist in the Afghan ‌capital said, as fighting between Afghanistan and Pakistan entered a fourth day. Read",
+      "fetchedAt": "2026-03-01T05:07:55.683Z",
+      "summary": "阿富汗首都喀布尔传出爆炸声，阿巴边境冲突进入第四天。"
+    },
+    {
+      "id": "malaymail-644d77a1a863",
+      "source": "malaymail",
+      "title": "‘No need for complicated interpretations’: Rafizi replies to PKR show-cause letter",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/01/no-need-for-complicated-interpretations-rafizi-replies-to-pkr-show-cause-letter/210840",
+      "score": 2,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, March 1 — Pandan MP Rafizi Ramli today said he would remain a member of PKR until Parliament is diss...",
+      "fetchedAt": "2026-03-01T05:07:55.683Z",
+      "summary": "马来西亚议员拉菲兹回应人民公正党警告信，表示将继续留任至国会解散。"
+    },
+    {
+      "id": "malaymail-99c3432ea4f7",
+      "source": "malaymail",
+      "title": "Trump administration seeks delay in tariff refund litigation after Supreme Court loss",
+      "url": "https://www.malaymail.com/news/money/2026/02/28/trump-administration-seeks-delay-in-tariff-refund-litigation-after-supreme-court-loss/210745",
+      "score": 2,
+      "category": "world",
+      "description": "WASHINGTON, Feb 28 — US President Donald Trump&rsquo;s administration is seeking to delay legal proceedings linked...",
+      "fetchedAt": "2026-03-01T05:07:55.684Z",
+      "summary": "特朗普政府最高法院败诉后，寻求推迟关税退款诉讼程序。"
+    },
+    {
+      "id": "fmt-62c81a209128",
+      "source": "fmt",
+      "title": "Opec+ mulls oil production increase in shadow of war",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/03/01/opec-mulls-oil-production-increase-in-shadow-of-war",
+      "score": 2,
+      "category": "world",
+      "description": "The virtual meeting by the eight Opec+ members comes a day after the US and Israel launched an ongoing wave of strikes on Iran.",
+      "fetchedAt": "2026-03-01T05:07:55.684Z",
+      "summary": "欧佩克+考虑在战争阴影下增加石油产量。"
+    },
+    {
+      "id": "malaysiakini-b8409fdd42c5",
+      "source": "malaysiakini",
+      "title": "Ex-MP questions PM over govt freeze on approvals for non-AI data centres",
+      "url": "https://www.malaysiakini.com/news/769202",
+      "score": 2,
+      "category": "malaysia",
+      "description": "Charles queries whether M'sia is merely making distinctions based on a label.",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "前议员质疑政府冻结非人工智能数据中心审批是否仅基于标签区别。"
+    },
+    {
+      "id": "bernama-6f55691c91d6",
+      "source": "bernama",
+      "title": "World : Wisma Putra Extends Consular Aid to Malaysians Stranded Amid Middle East Tensions",
+      "url": "http://www.bernama.com/en/news.php?id=2529036",
+      "score": 2,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, March 1 (Bernama) -- Malaysia's Foreign Ministry, through its diplomatic missions in the Middle East, has been extending consular assistance to Malaysians stranded in several countries d",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "马来西亚外交部为受中东紧张局势影响的公民提供领事协助。"
+    },
+    {
+      "id": "sinchew-0145c25015f2",
+      "source": "sinchew",
+      "title": "Wuxi, the Newest UNESCO City of Music, Charms Europe with 2026 Folk Tour - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfYm1nV2hVUUpiaEFqb21idVZCQzNxdnN5OU1yMGRPSHExMGtNelJPNVVoMmRET1NHSUFYWnUzblVRNnJHT0sxNXRTdWhfSjBkamVjcEgxdW9TT0Z0TzdFazNmanNMdE9Ydnc?oc=5",
+      "score": 2,
+      "category": "life",
+      "description": "Wuxi, the Newest UNESCO City of Music, Charms Europe with 2026 Folk Tour Sin Chew Daily",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "无锡获评联合国音乐之都，宣布2026年欧洲民谣巡演计划。"
+    },
+    {
+      "id": "bbc-d74d28cec25c",
+      "source": "bbc",
+      "title": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
+      "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
+      "score": 2,
+      "category": "world",
+      "description": "Smoke and flames rose from Dubai's Fairmont The Palm hotel as civilian targets came under fire along with the US military bases across the Middle East.",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "迪拜豪华酒店遭伊朗报复性袭击，中东多地目标受攻击。"
+    },
+    {
+      "id": "bbc-352185a0c275",
+      "source": "bbc",
+      "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
+      "url": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
+      "score": 2,
+      "category": "tech",
+      "description": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear.",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "巴基斯坦与阿富汗紧张升级，轰炸行动成最新发展但实际影响尚不明确。"
+    },
+    {
+      "id": "scmp-83538bb45cb8",
+      "source": "scmp",
+      "title": "Burgers, then war: Trump’s bluffs before Iran strikes",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3345001/burgers-then-war-trumps-bluffs-iran-strikes?utm_source=rss_feed",
+      "score": 2,
+      "category": "world",
+      "description": "On a visit to Texas on Friday, US President Donald Trump gave a raucous speech on the economy and then stopped off at a fast-food joint. “Hamburgers for everyone!” Trump declared to cheering customers",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "特朗普在伊朗袭击前发表经济演讲并请客吃汉堡。"
+    },
+    {
+      "id": "ringgitoh-a6cab499df31",
+      "source": "ringgitoh",
+      "title": "6 Best Savings Accounts in Malaysia to Put Your Emergency Funds",
+      "url": "https://ringgitohringgit.com/saving-money/best-savings-accounts-in-malaysia/",
+      "score": 2,
+      "category": "malaysia",
+      "description": "Let’s assume you earn a good salary and/or have low expenses, and you need a place to put 3-6 months’ worth of living expenses (Step 3 in the road to financial freedom). Continue reading 6 Best Saving",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "马来西亚6个最佳应急储蓄账户推荐。"
+    },
+    {
+      "id": "soyacincau-49d7bac84d7b",
+      "source": "soyacincau",
+      "title": "Huawei Mate 80 Pro is coming to Malaysia on 12 March, early-bird customers get free Huawei MatePad 11.5 Standard",
+      "url": "https://soyacincau.com/2026/02/27/huawei-mate-80-pro-malaysia-launch-12-march-2026/",
+      "score": 2,
+      "category": "malaysia",
+      "description": "The candy bar Huawei Mate series smartphone is making a comeback on the global stage. Huawei Malaysia has confirmed that the Mate 80 Pro is coming soon. Malaysians can also secure their unit early wit",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "华为Mate 80 Pro将于3月12日在马来西亚上市，早鸟客户可获赠平板电脑。"
+    },
+    {
+      "id": "imoney-636a123e43f4",
+      "source": "imoney",
+      "title": "Is This The End Of Mass Market Paperback Books?",
+      "url": "https://www.imoney.my/articles/mass-market-paperbacks-going-extinct",
+      "score": 2,
+      "category": "malaysia",
+      "description": "ReaderLink, the largest full-service book distributor in North America, has officially stopped distributing mass market paperbacks as of end of 2025. Is this the end of books, or just the end of an er",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "北美最大图书分销商停止大众市场平装书分销，引发行业变革讨论。"
+    },
+    {
+      "id": "vulcanpost-165f6725274c",
+      "source": "vulcanpost",
+      "title": "Cars, cafes & community: How BYD is redefining automotive spaces in S’pore",
+      "url": "https://vulcanpost.com/909503/byd-redefine-automative-spaces-singapore/",
+      "score": 2,
+      "category": "life",
+      "description": "[This is a sponsored article with BYD by 1826.] Singapore’s physical spaces are shifting from purely transactional retail to experience-led destinations. Consumers, especially younger and urban audien",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "比亚迪在新加坡通过汽车展厅与社区空间重构消费体验。"
+    },
+    {
+      "id": "ringgitplus-f160291c9ed1",
+      "source": "ringgitplus",
+      "title": "You Can Now Lock In An Airbnb Without Paying Upfront",
+      "url": "https://ringgitplus.com/en/blog/personal-finance-news/you-can-now-lock-in-an-airbnb-without-paying-upfront.html",
+      "score": 2,
+      "category": "malaysia",
+      "description": "If you have ever tried to organise a group trip, you will know that the hardest part is […] The post You Can Now Lock In An Airbnb Without Paying Upfront appeared first on RinggitPlus.",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "Airbnb推出新功能允许用户锁定房源无需预付。"
+    },
+    {
+      "id": "thestar-95a4e1be610e",
+      "source": "thestar",
+      "title": "PAS lawmaker should assume Opposition Leader post, says Muhyiddin",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/01/pas-lawmaker-should-assume-opposition-leader-post-says-muhyiddin",
+      "score": 1,
+      "category": "malaysia",
+      "description": "PETALING JAYA: A PAS lawmaker should assume the post of Opposition Leader, says Tan Sri Muhyiddin Yassin. Read full story",
+      "fetchedAt": "2026-03-01T05:07:55.682Z",
+      "summary": "慕尤丁建议由伊斯兰党议员担任国会反对党领袖。"
+    },
+    {
+      "id": "thestar-c6b9ec53b5af",
+      "source": "thestar",
+      "title": "Iranian media report death of Khamenei's daughter, son-in-law and granddaughter",
+      "url": "https://www.thestar.com.my/news/world/2026/03/01/iranian-media-report-death-of-khamenei039s-daughter-son-in-law-and-granddaughter",
+      "score": 1,
+      "category": "world",
+      "description": "Tehran: Iranian media reported on Sunday (March 1) that the daughter, son-in-law and granddaughter of supreme leader Ayatollah Ali Khamenei had been killed in US and Israeli strikes. Read full story",
+      "fetchedAt": "2026-03-01T05:07:55.683Z",
+      "summary": "伊朗媒体报道最高领袖哈梅内伊的女儿、女婿和孙女在美以空袭中丧生。"
+    },
+    {
+      "id": "malaymail-7ccfe9fef9cd",
+      "source": "malaymail",
+      "title": "Anwar: Govt didn’t ignore Quran desecration case in Pahang, probe is ongoing",
+      "url": "https://www.malaymail.com/news/malaysia/2026/03/01/anwar-govt-didnt-ignore-quran-desecration-case-in-pahang-probe-is-ongoing/210839",
+      "score": 1,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, March 1 — Prime Minister Datuk Seri Anwar Ibrahim said that allegations claiming the government had...",
+      "fetchedAt": "2026-03-01T05:07:55.683Z",
+      "summary": "马来西亚总理安瓦尔表示政府正调查古兰经亵渎案，未忽视此事。"
+    },
+    {
+      "id": "malaymail-faffd583d0a2",
+      "source": "malaymail",
+      "title": "Ringgit expected to hover between RM3.88 and RM3.90 next week",
+      "url": "https://www.malaymail.com/news/money/2026/02/28/ringgit-expected-to-hover-between-rm388-and-rm390-next-week/210712",
+      "score": 1,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, Feb 28 — The ringgit is expected to trade range-bound against the greenback next week ahead of key d...",
+      "fetchedAt": "2026-03-01T05:07:55.684Z",
+      "summary": "令吉兑美元预计下周在3.88至3.90区间波动。"
+    },
+    {
+      "id": "fmt-fcb83a29bb62",
+      "source": "fmt",
+      "title": "Konflik Iran-AS: Rakyat Malaysia di Qatar, UAE kongsi detik cemas",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/03/01/konflik-iran-as-rakyat-malaysia-di-qatar-uae-kongsi-detik-cemas",
+      "score": 1,
+      "category": "malaysia",
+      "description": "Negara itu menjadi sasaran serangan peluru berpandu Iran yang balas serangan AS dan Israel.",
+      "fetchedAt": "2026-03-01T05:07:55.684Z",
+      "summary": "伊朗袭击卡塔尔和阿联酋期间，当地马来西亚人分享紧张时刻。"
+    },
+    {
+      "id": "malaysiakini-97e8516bf544",
+      "source": "malaysiakini",
+      "title": "26pct rise in EPF top-ups signals trust in nation's financial institutions - minister",
+      "url": "https://www.malaysiakini.com/news/769198",
+      "score": 1,
+      "category": "money",
+      "description": "It proves people have surplus income to invest for retirement savings, says Amir.",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "马来西亚公积金局自愿缴款额增长26%，部长称显示民众对金融机构信任。"
+    },
+    {
+      "id": "bernama-72c217bd6295",
+      "source": "bernama",
+      "title": "General : From A Leaking Roof To A Nation's Freedom",
+      "url": "http://www.bernama.com/en/news.php?id=2529035",
+      "score": 1,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, March 1 (Bernama) -- A leaking roof once strengthened Tunku Abdul Rahman Putra Al-Haj&rsquo;s resolve to seek independence for Malaya.",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "东姑阿都拉曼曾因屋顶漏水事件坚定争取马来亚独立决心。"
+    },
+    {
+      "id": "sinchew-42ec7ee0bda8",
+      "source": "sinchew",
+      "title": "Middle East Coffee Shops Earn Spots in The World’s 100 Best Coffee Shops 2026 List - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uTFdlNnFXck1oNmJNWkxLRXVEV0Fnb29sdzNIQlhZUU1tbWs3aEIzSjNsbU5XaUlIRXNsOWdmYkh0UEFhS01xQ3Z1a0tOUUxSS0kySkw3TXhCRFlnNHkyczM2WnR2U0lnMlE?oc=5",
+      "score": 1,
+      "category": "malaysia",
+      "description": "Middle East Coffee Shops Earn Spots in The World’s 100 Best Coffee Shops 2026 List Sin Chew Daily",
+      "fetchedAt": "2026-03-01T05:07:55.685Z",
+      "summary": "中东咖啡店入选2026年全球100家最佳咖啡店榜单。"
+    },
+    {
+      "id": "bbc-eed91956d2ba",
+      "source": "bbc",
+      "title": "Where have Nepal's 'nepo kids' gone as corruption takes centre stage in election?",
+      "url": "https://www.bbc.com/news/articles/cgqgl3j5nj4o?at_medium=RSS&at_campaign=rss",
+      "score": 1,
+      "category": "world",
+      "description": "The excess of politicians' children was front and centre of the anger that drove protests that toppled the government last year.",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "尼泊尔选举中政客子女因腐败问题成为焦点。"
+    },
+    {
+      "id": "bbc-b5a6a6e115f5",
+      "source": "bbc",
+      "title": "Why are Afghanistan and Pakistan fighting?",
+      "url": "https://www.bbc.com/news/articles/cdjmrxkwk3mo?at_medium=RSS&at_campaign=rss",
+      "score": 1,
+      "category": "world",
+      "description": "The two sides have different versions of how and why the deadly dispute began.",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "阿富汗与巴基斯坦就边境冲突各执一词。"
+    },
+    {
+      "id": "scmp-dbed2f472a2e",
+      "source": "scmp",
+      "title": "Why China steers clear of the West’s transactional diplomacy",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3344449/why-china-steers-clear-wests-transactional-diplomacy?utm_source=rss_feed",
+      "score": 1,
+      "category": "world",
+      "description": "In international relations, interactions between states are often understood through a transactional lens. A transactional approach treats diplomacy as a series of discrete deals, short-term and condi",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "中国避免采用西方交易式外交策略。"
+    },
+    {
+      "id": "ringgitoh-4163c65476b8",
+      "source": "ringgitoh",
+      "title": "This Income Tax Calculator Shows What You Owe LHDN [2024 Updated]",
+      "url": "https://ringgitohringgit.com/money-management/income-tax-calculator-in-malaysia/",
+      "score": 1,
+      "category": "malaysia",
+      "description": "Do you know how much you owe LHDN for income tax? It’s ok, most people don’t. That’s why it’s a good idea to use an income tax calculator in Malaysia before submitting your actual income tax. Continue",
+      "fetchedAt": "2026-03-01T05:07:55.686Z",
+      "summary": "马来西亚2024年最新所得税计算器可估算应缴税额。"
+    },
+    {
+      "id": "soyacincau-3de0551900c6",
+      "source": "soyacincau",
+      "title": "Maybank and TNB Electron launch EV charging pilot at Bangi, exploring rollout at selected branches",
+      "url": "https://soyacincau.com/2026/02/26/maybank-tnb-electron-ev-charger-pilot-bangi/",
+      "score": 1,
+      "category": "malaysia",
+      "description": "Maybank has partnered with Tenaga Nasional Berhad (TNB) through its EV charging arm TNB Electron, to launch their EV charging pilot at Maybank Academy in Bangi. Besides supporting Malaysia’s sustainab",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "马来亚银行与国能合作在万宜试点电动车充电站。"
+    },
+    {
+      "id": "imoney-7d87bad49742",
+      "source": "imoney",
+      "title": "Everything You Need To Know About EPF In 2026",
+      "url": "https://www.imoney.my/articles/everything-you-need-to-know-about-epf-2026",
+      "score": 1,
+      "category": "money",
+      "description": "EPF started making some modifications to its policies on the payment of dividends, withdrawals, contributions, and retirement targets to match the challenges we face in the real world. The post Everyt",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "2026年公积金政策将调整以适应现实挑战。"
+    },
+    {
+      "id": "vulcanpost-0f9a4403b427",
+      "source": "vulcanpost",
+      "title": "Upgrade your SMEs with 3 business lines & 1 free flagship phone with this new business bundle",
+      "url": "https://vulcanpost.com/909561/how-u-business-new-3-line-bundle-free-flagship-phone-works-details/",
+      "score": 1,
+      "category": "tech",
+      "description": "[This is a sponsored article with U Business.] U Business just launched a new mobile device bundle to solve one of the biggest headaches for growing companies: getting teams properly equipped without ",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "U商业推出包含三条业务线及免费旗舰手机的中小企业升级套餐。"
+    },
+    {
+      "id": "ringgitplus-a2533b3ff571",
+      "source": "ringgitplus",
+      "title": "Rising House Prices Are Squeezing Borrowers Before They Even Apply",
+      "url": "https://ringgitplus.com/en/blog/personal-finance-news/rising-house-prices-are-squeezing-borrowers-before-they-even-apply.html",
+      "score": 1,
+      "category": "malaysia",
+      "description": "If you’ve spent any time browsing property listings in KL, Penang or Johor Bahru, you already know what […] The post Rising House Prices Are Squeezing Borrowers Before They Even Apply appeared first o",
+      "fetchedAt": "2026-03-01T05:07:55.687Z",
+      "summary": "马来西亚房价上涨导致潜在购房者压力增大。"
+    }
+  ]
+}
