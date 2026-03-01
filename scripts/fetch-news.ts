@@ -184,12 +184,12 @@ async function main() {
     console.error("  Reminders loading failed (non-fatal):", err);
   }
 
-  // Deduplicate by URL (skip empty URLs from reminders)
+  // Deduplicate by URL or by ID (for reminders with no URL)
   const seen = new Set<string>();
   const deduped = items.filter((item) => {
-    if (!item.url) return true;
-    if (seen.has(item.url)) return false;
-    seen.add(item.url);
+    const key = item.url || item.id;
+    if (seen.has(key)) return false;
+    seen.add(key);
     return true;
   });
 
