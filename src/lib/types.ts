@@ -50,6 +50,7 @@ export interface ReminderItem {
 export interface DailyData {
   date: string;
   briefing?: string;
+  categoryBriefings?: Partial<Record<Category, string>>;
   items: NewsItem[];
   reminders?: ReminderItem[];
 }

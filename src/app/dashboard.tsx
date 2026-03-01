@@ -244,14 +244,24 @@ export default function Dashboard({
         </div>
       </header>
 
-      {/* Daily briefing */}
-      {data?.briefing && (
+      {/* Briefing: overall or per-category */}
+      {category === "all" && data?.briefing && (
         <div className="mb-6 rounded-xl border border-accent/20 bg-accent/5 p-4">
           <h2 className="mb-2 text-sm font-semibold text-accent">
             今日要点
           </h2>
           <p className="text-sm leading-relaxed text-foreground/85">
             {data.briefing}
+          </p>
+        </div>
+      )}
+      {category !== "all" && data?.categoryBriefings?.[category] && (
+        <div className="mb-6 rounded-xl border border-accent/20 bg-accent/5 p-4">
+          <h2 className="mb-2 text-sm font-semibold text-accent">
+            {CATEGORIES.find((c) => c.key === category)?.label} 要点
+          </h2>
+          <p className="text-sm leading-relaxed text-foreground/85">
+            {data.categoryBriefings[category]}
           </p>
         </div>
       )}

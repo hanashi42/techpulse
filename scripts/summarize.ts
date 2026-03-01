@@ -111,55 +111,80 @@ export async function summarizeAll(
   return summaryMap;
 }
 
+const CATEGORIES: Category[] = ["tech", "malaysia", "world", "money", "life", "forme"];
+const CATEGORY_LABELS: Record<Category, string> = {
+  tech: "科技",
+  malaysia: "马来西亚",
+  world: "国际",
+  money: "财经",
+  life: "生活",
+  forme: "与我相关",
+};
+
+function buildCategoryBlock(items: NewsItem[], cat: Category): string | null {
+  const catItems = items.filter((i) => i.category === cat).slice(0, 5);
+  if (catItems.length === 0) return null;
+  return `【${CATEGORY_LABELS[cat]}】\n${catItems.map((i) => `- ${i.title}`).join("\n")}`;
+}
+
 export async function generateBriefing(
   items: NewsItem[]
-): Promise<string | undefined> {
-  if (!process.env.SILICONFLOW_API_KEY) return undefined;
-
-  const categories: Category[] = ["tech", "malaysia", "world", "money", "life", "forme"];
-  const categoryLabels: Record<Category, string> = {
-    tech: "科技",
-    malaysia: "马来西亚",
-    world: "国际",
-    money: "财经",
-    life: "生活",
-    forme: "与我相关",
+): Promise<{ overall?: string; perCategory: Partial<Record<Category, string>> }> {
+  const result: { overall?: string; perCategory: Partial<Record<Category, string>> } = {
+    perCategory: {},
   };
+  if (!process.env.SILICONFLOW_API_KEY) return result;
 
-  // Top 5 per category by score
+  // Build top items per category
   const topItems: string[] = [];
-  for (const cat of categories) {
-    const catItems = items
-      .filter((i) => i.category === cat)
-      .slice(0, 5);
-    if (catItems.length > 0) {
-      topItems.push(
-        `【${categoryLabels[cat]}】\n${catItems.map((i) => `- ${i.title}`).join("\n")}`
-      );
-    }
+  for (const cat of CATEGORIES) {
+    const block = buildCategoryBlock(items, cat);
+    if (block) topItems.push(block);
   }
 
-  if (topItems.length === 0) return undefined;
+  if (topItems.length === 0) return result;
 
-  console.log("  Generating daily briefing...");
+  console.log("  Generating briefings (overall + per-category)...");
 
+  // Generate overall + per-category in one call
   try {
-    const briefing = await callSiliconFlow([
+    const content = await callSiliconFlow([
       {
         role: "system",
         content:
-          "你是每日新闻简报助手。用中文写一段150字左右的今日要点总结，涵盖所有类别的重要趋势和事件。语气简洁有力，像给朋友快速概括今天发生了什么。",
+          "你是每日新闻分析助手。读者是住在马来西亚的28岁自由职业开发者。\n\n请输出两部分：\n\n第一部分：写一段150字左右的「今日要点」总结，涵盖所有类别。\n\n第二部分：为每个类别各写2-3句板块要点分析（50-80字），点出该板块最值得关注的趋势或信息，以及对读者的实际影响。\n\n格式：\n【今日要点】\n总结内容\n\n【科技要点】\n分析内容\n\n【马来西亚要点】\n分析内容\n\n（以此类推每个有内容的板块）\n\n语气简洁有力，像给朋友分析今天发生了什么。",
       },
       {
         role: "user",
-        content: `根据以下今日头条新闻，写一段"今日要点"简报：\n\n${topItems.join("\n\n")}`,
+        content: `根据以下今日新闻，生成要点分析：\n\n${topItems.join("\n\n")}`,
       },
     ]);
 
-    console.log("  Briefing generated");
-    return briefing.trim();
+    // Parse sections
+    const sections = content.split(/【(.+?)】/).filter((s) => s.trim());
+
+    for (let i = 0; i < sections.length - 1; i += 2) {
+      const header = sections[i].trim();
+      const body = sections[i + 1].trim();
+
+      if (header === "今日要点") {
+        result.overall = body;
+      } else {
+        // Match header to category
+        for (const cat of CATEGORIES) {
+          if (header.includes(CATEGORY_LABELS[cat])) {
+            result.perCategory[cat] = body;
+            break;
+          }
+        }
+      }
+    }
+
+    const catCount = Object.keys(result.perCategory).length;
+    console.log(`  Briefings generated (overall + ${catCount} categories)`);
   } catch (err) {
     console.error("  Briefing generation failed:", err);
-    return undefined;
   }
+
+  return result;
 }

@@ -122,8 +122,9 @@ async function main() {
 
   // AI summaries (non-fatal)
   let briefing: string | undefined;
+  let categoryBriefings: DailyData["categoryBriefings"];
   try {
-    const [summaryMap, dailyBriefing] = await Promise.all([
+    const [summaryMap, briefingResult] = await Promise.all([
       summarizeAll(deduped),
       generateBriefing(deduped),
     ]);
@@ -131,12 +132,15 @@ async function main() {
       const s = summaryMap.get(item.id);
       if (s) item.summary = s;
     }
-    briefing = dailyBriefing;
+    briefing = briefingResult.overall;
+    if (Object.keys(briefingResult.perCategory).length > 0) {
+      categoryBriefings = briefingResult.perCategory;
+    }
   } catch (err) {
     console.error("  AI summaries failed (non-fatal):", err);
   }
 
-  const data: DailyData = { date, briefing, items: deduped };
+  const data: DailyData = { date, briefing, categoryBriefings, items: deduped };
   writeFileSync(filePath, JSON.stringify(data, null, 2));
   console.log(`\nWrote ${deduped.length} items to ${filePath}`);
 }
