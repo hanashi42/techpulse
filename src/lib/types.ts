@@ -50,10 +50,31 @@ export interface ReminderItem {
   url?: string;
 }
 
+export interface FuelPrice {
+  date: string;
+  ron95: number;
+  ron97: number;
+  diesel: number;
+  ron95Change?: number;
+  ron97Change?: number;
+  dieselChange?: number;
+}
+
+export interface ExchangeRates {
+  date: string;
+  base: "MYR";
+  rates: Record<string, number>;
+  history?: Record<string, Record<string, number>>; // date -> currency -> rate
+}
+
 export interface DailyData {
   date: string;
   briefing?: string;
   categoryBriefings?: Partial<Record<Category, string>>;
   items: NewsItem[];
   reminders?: ReminderItem[];
+  widgets?: {
+    fuel?: FuelPrice;
+    fx?: ExchangeRates;
+  };
 }

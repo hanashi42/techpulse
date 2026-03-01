@@ -9,38 +9,114 @@ import { fetchMalaysiaReddit } from "../src/lib/sources/malaysia-reddit";
 import { fetchWorldNews } from "../src/lib/sources/world-news";
 import { fetchFinance } from "../src/lib/sources/finance";
 import { fetchForMe } from "../src/lib/sources/forme";
-import type { DailyData, NewsItem, ReminderItem } from "../src/lib/types";
+import type { DailyData, NewsItem, ReminderItem, FuelPrice, ExchangeRates } from "../src/lib/types";
 import { summarizeAll, generateBriefing } from "./summarize";
+
+async function fetchWidgets(): Promise<{ fuel?: FuelPrice; fx?: ExchangeRates }> {
+  const widgets: { fuel?: FuelPrice; fx?: ExchangeRates } = {};
+
+  const today = new Date().toISOString().split("T")[0];
+  const thirtyDaysAgo = new Date(Date.now() - 30 * 86400000).toISOString().split("T")[0];
+  const currencies = "USD,JPY,SGD,CNY,THB,GBP,EUR,KRW,TWD,AUD";
+
+  const [fuelRes, fxRes, fxHistRes] = await Promise.allSettled([
+    fetch("https://api.data.gov.my/data-catalogue?id=fuelprice&sort=-date&limit=2"),
+    fetch(`https://api.frankfurter.dev/v1/latest?from=MYR&to=${currencies}`),
+    fetch(`https://api.frankfurter.dev/v1/${thirtyDaysAgo}..${today}?from=MYR&to=${currencies}`),
+  ]);
+
+  // Parse fuel prices
+  if (fuelRes.status === "fulfilled" && fuelRes.value.ok) {
+    try {
+      const rows = await fuelRes.value.json();
+      const level = rows.find((r: any) => r.series_type === "level");
+      const change = rows.find((r: any) => r.series_type === "change_weekly");
+      if (level) {
+        widgets.fuel = {
+          date: level.date,
+          ron95: level.ron95,
+          ron97: level.ron97,
+          diesel: level.diesel,
+          ...(change && {
+            ron95Change: change.ron95,
+            ron97Change: change.ron97,
+            dieselChange: change.diesel,
+          }),
+        };
+        console.log(`  Fuel: RON95 RM${level.ron95} (${level.date})`);
+      }
+    } catch (err) {
+      console.error("  Fuel price parse failed (non-fatal):", err);
+    }
+  } else if (fuelRes.status === "rejected") {
+    console.error("  Fuel price fetch failed (non-fatal):", fuelRes.reason);
+  }
+
+  // Parse exchange rates
+  if (fxRes.status === "fulfilled" && fxRes.value.ok) {
+    try {
+      const data = await fxRes.value.json();
+      widgets.fx = {
+        date: data.date,
+        base: "MYR",
+        rates: data.rates,
+      };
+      console.log(`  FX: ${Object.keys(data.rates).length} currencies (${data.date})`);
+    } catch (err) {
+      console.error("  FX parse failed (non-fatal):", err);
+    }
+  } else if (fxRes.status === "rejected") {
+    console.error("  FX fetch failed (non-fatal):", fxRes.reason);
+  }
+
+  // Parse FX history (30-day timeseries)
+  if (widgets.fx && fxHistRes.status === "fulfilled" && fxHistRes.value.ok) {
+    try {
+      const hist = await fxHistRes.value.json();
+      widgets.fx.history = hist.rates; // { "2026-02-01": { USD: 0.257, ... }, ... }
+      console.log(`  FX history: ${Object.keys(hist.rates).length} days`);
+    } catch (err) {
+      console.error("  FX history parse failed (non-fatal):", err);
+    }
+  } else if (fxHistRes.status === "rejected") {
+    console.error("  FX history fetch failed (non-fatal):", fxHistRes.reason);
+  }
+
+  return widgets;
+}
 
 async function main() {
   const date = new Date().toISOString().split("T")[0];
   console.log(`Fetching news for ${date}...`);
 
-  const results = await Promise.allSettled([
-    fetchHackerNews().then((items) => {
-      console.log(`  HN: ${items.length} items`);
-      return items;
-    }),
-    fetchGitHubTrending().then((items) => {
-      console.log(`  GitHub: ${items.length} items`);
-      return items;
-    }),
-    fetchReddit().then((items) => {
-      console.log(`  Reddit (tech): ${items.length} items`);
-      return items;
-    }),
-    fetchProductHunt().then((items) => {
-      console.log(`  PH: ${items.length} items`);
-      return items;
-    }),
-    fetchMalaysiaNews(),
-    fetchMalaysiaReddit().then((items) => {
-      console.log(`  Reddit (MY): ${items.length} items`);
-      return items;
-    }),
-    fetchWorldNews(),
-    fetchFinance(),
-    fetchForMe(),
+  const [results, widgets] = await Promise.all([
+    Promise.allSettled([
+      fetchHackerNews().then((items) => {
+        console.log(`  HN: ${items.length} items`);
+        return items;
+      }),
+      fetchGitHubTrending().then((items) => {
+        console.log(`  GitHub: ${items.length} items`);
+        return items;
+      }),
+      fetchReddit().then((items) => {
+        console.log(`  Reddit (tech): ${items.length} items`);
+        return items;
+      }),
+      fetchProductHunt().then((items) => {
+        console.log(`  PH: ${items.length} items`);
+        return items;
+      }),
+      fetchMalaysiaNews(),
+      fetchMalaysiaReddit().then((items) => {
+        console.log(`  Reddit (MY): ${items.length} items`);
+        return items;
+      }),
+      fetchWorldNews(),
+      fetchFinance(),
+      fetchForMe(),
+    ]),
+    fetchWidgets(),
   ]);
 
   const items: NewsItem[] = results.flatMap((r) =>
@@ -140,7 +216,13 @@ async function main() {
     console.error("  AI summaries failed (non-fatal):", err);
   }
 
-  const data: DailyData = { date, briefing, categoryBriefings, items: deduped };
+  const data: DailyData = {
+    date,
+    briefing,
+    categoryBriefings,
+    items: deduped,
+    ...(Object.keys(widgets).length > 0 && { widgets }),
+  };
   writeFileSync(filePath, JSON.stringify(data, null, 2));
   console.log(`\nWrote ${deduped.length} items to ${filePath}`);
 }

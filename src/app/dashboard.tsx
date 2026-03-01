@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef } from "react";
 import { useRouter } from "next/navigation";
 import type { DailyData, Category, NewsItem, Source } from "@/lib/types";
 
@@ -169,6 +169,140 @@ function NewsCard({ item }: { item: NewsItem }) {
   );
 }
 
+const FX_ORDER: [string, string][] = [
+  ["USD", "\u{1F1FA}\u{1F1F8}"],
+  ["SGD", "\u{1F1F8}\u{1F1EC}"],
+  ["JPY", "\u{1F1EF}\u{1F1F5}"],
+  ["CNY", "\u{1F1E8}\u{1F1F3}"],
+  ["GBP", "\u{1F1EC}\u{1F1E7}"],
+  ["EUR", "\u{1F1EA}\u{1F1FA}"],
+  ["AUD", "\u{1F1E6}\u{1F1FA}"],
+  ["KRW", "\u{1F1F0}\u{1F1F7}"],
+  ["THB", "\u{1F1F9}\u{1F1ED}"],
+  ["TWD", "\u{1F1F9}\u{1F1FC}"],
+];
+
+function Sparkline({ points, width = 120, height = 40 }: { points: number[]; width?: number; height?: number }) {
+  if (points.length < 2) return null;
+  const min = Math.min(...points);
+  const max = Math.max(...points);
+  const range = max - min || 1;
+  const pad = 2;
+  const w = width - pad * 2;
+  const h = height - pad * 2;
+
+  const coords = points.map((v, i) => ({
+    x: pad + (i / (points.length - 1)) * w,
+    y: pad + h - ((v - min) / range) * h,
+  }));
+  const d = coords.map((p, i) => `${i === 0 ? "M" : "L"}${p.x},${p.y}`).join(" ");
+  const last = coords[coords.length - 1];
+  const trend = points[points.length - 1] >= points[0];
+
+  return (
+    <svg width={width} height={height} className="block">
+      <path d={d} fill="none" stroke={trend ? "#22c55e" : "#ef4444"} strokeWidth={1.5} />
+      <circle cx={last.x} cy={last.y} r={2.5} fill={trend ? "#22c55e" : "#ef4444"} />
+    </svg>
+  );
+}
+
+const FX_MULTIPLIER: Record<string, number> = { JPY: 100, KRW: 1000, THB: 100 };
+
+function formatMyr(v: number): string {
+  if (v >= 100) return v.toFixed(0);
+  if (v >= 10) return v.toFixed(2);
+  return v.toFixed(3);
+}
+
+function FxItem({ code, flag, rate, history }: { code: string; flag: string; rate: number; history?: Record<string, Record<string, number>> }) {
+  const [show, setShow] = useState(false);
+  const ref = useRef<HTMLSpanElement>(null);
+
+  const mult = FX_MULTIPLIER[code] || 1;
+  const invRate = mult / rate;
+  const points = history
+    ? Object.keys(history).sort().map((d) => history[d][code]).filter((v) => v != null).map((v) => mult / v)
+    : [];
+
+  const pctChange = points.length >= 2
+    ? ((points[points.length - 1] - points[0]) / points[0]) * 100
+    : null;
+
+  return (
+    <span
+      ref={ref}
+      className="relative cursor-default"
+      onMouseEnter={() => setShow(true)}
+      onMouseLeave={() => setShow(false)}
+    >
+      <span className="text-muted">{flag}{mult > 1 ? `${mult}` : ""}{code}</span>{" "}
+      <span className="font-medium">{formatMyr(invRate)}</span>
+      {show && points.length >= 2 && (
+        <span className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 z-50 rounded-lg border border-border bg-card shadow-lg p-2 whitespace-nowrap">
+          <span className="flex items-center gap-2">
+            <Sparkline points={points} />
+            <span className="flex flex-col text-[10px] leading-tight">
+              <span className="text-muted">30d</span>
+              <span className={pctChange! >= 0 ? "text-green-500" : "text-red-500"}>
+                {pctChange! >= 0 ? "+" : ""}{pctChange!.toFixed(2)}%
+              </span>
+            </span>
+          </span>
+        </span>
+      )}
+    </span>
+  );
+}
+
+function WidgetBar({ data }: { data: DailyData }) {
+  const fuel = data.widgets?.fuel;
+  const fx = data.widgets?.fx;
+  if (!fuel && !fx) return null;
+
+  const formatChange = (val?: number) => {
+    if (val === undefined || val === null) return null;
+    if (val > 0) return <span className="text-red-500">&#8593;{val.toFixed(2)}</span>;
+    if (val < 0) return <span className="text-green-500">&#8595;{Math.abs(val).toFixed(2)}</span>;
+    return <span className="text-muted">&mdash;</span>;
+  };
+
+  const formatFxDate = (dateStr: string) => {
+    const d = new Date(dateStr + "T12:00:00Z");
+    return d.toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
+  };
+
+  return (
+    <div className="mb-4 space-y-2">
+      {fuel && (
+        <div className="rounded-xl border border-border bg-card p-3 text-sm">
+          <div className="flex items-center justify-between">
+            <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
+              <span className="font-medium">RON95 RM{fuel.ron95.toFixed(2)} {formatChange(fuel.ron95Change)}</span>
+              <span className="font-medium">RON97 RM{fuel.ron97.toFixed(2)} {formatChange(fuel.ron97Change)}</span>
+              <span className="font-medium">Diesel RM{fuel.diesel.toFixed(2)} {formatChange(fuel.dieselChange)}</span>
+            </div>
+            <span className="text-xs text-muted shrink-0 ml-2">{formatFxDate(fuel.date)}</span>
+          </div>
+        </div>
+      )}
+      {fx && (
+        <div className="rounded-xl border border-border bg-card p-3 text-sm">
+          <div className="flex items-center justify-between mb-1">
+            <span className="text-xs text-muted">1 foreign &rarr; MYR</span>
+            <span className="text-xs text-muted">{formatFxDate(fx.date)}</span>
+          </div>
+          <div className="flex flex-wrap gap-x-4 gap-y-0.5 text-xs">
+            {FX_ORDER.filter(([code]) => code in fx.rates).map(([code, flag]) => (
+              <FxItem key={code} code={code} flag={flag} rate={fx.rates[code]} history={fx.history} />
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
 export default function Dashboard({
   data,
   dates,
@@ -178,7 +312,7 @@ export default function Dashboard({
   dates: string[];
   currentDate: string;
 }) {
-  const [category, setCategory] = useState<Category | "all">("all");
+  const [category, setCategory] = useState<Category | "all">("forme");
   const router = useRouter();
 
   const items = data?.items ?? [];
@@ -246,6 +380,11 @@ export default function Dashboard({
           <span className="ml-auto">{items.length} total</span>
         </div>
       </header>
+
+      {/* Widgets: fuel + fx */}
+      {data && (category === "all" || category === "forme" || category === "money") && (
+        <WidgetBar data={data} />
+      )}
 
       {/* Briefing: overall or per-category */}
       {category === "all" && data?.briefing && (
