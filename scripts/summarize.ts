@@ -29,7 +29,7 @@ async function callSiliconFlow(messages: ChatMessage[]): Promise<string> {
       model: MODEL,
       messages,
       temperature: 0.3,
-      max_tokens: 2048,
+      max_tokens: 4096,
     }),
   });
 
@@ -51,11 +51,11 @@ async function summarizeBatch(items: NewsItem[]): Promise<SummaryResult[]> {
     {
       role: "system",
       content:
-        "你是新闻摘要助手。用中文为每条新闻写1-2句简洁摘要，帮助读者快速理解要点。直接输出摘要，不要加多余解释。",
+        "你是新闻分析助手。读者是住在马来西亚的28岁自由职业开发者。用中文为每条新闻写摘要，要求：\n1. 第一句：这条新闻说了什么（事实）\n2. 第二句：为什么重要 / 对读者有什么影响 / 值得关注的点（分析）\n保持简洁，两句话总共不超过60字。直接输出，不要加多余解释。",
     },
     {
       role: "user",
-      content: `为以下${items.length}条新闻各写一句中文摘要。格式：每行 [编号] 摘要\n\n${numbered}`,
+      content: `为以下${items.length}条新闻各写摘要。格式：每行 [编号] 摘要\n\n${numbered}`,
     },
   ]);
 
