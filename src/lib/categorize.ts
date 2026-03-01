@@ -89,6 +89,28 @@ const FORME_KEYWORDS = [
   "bantuan", "subsidi", "stkm", "bkm", "rahmah", "madani",
   // 交通/假期
   "public holiday", "cuti umum", "balik kampung", "traffic jam",
+  // 优惠促销
+  "promo code", "voucher code", "free delivery", "cashback",
+  "warehouse sale", "clearance sale", "buy 1 free 1",
+  "shopee sale", "lazada sale",
+  // 诈骗补充
+  "online scam", "scam alert", "investment scam", "job scam",
+  "parcel scam", "phone scam",
+  // 流浪猫/动物
+  "stray cat", "stray dog", "tnr", "trap neuter",
+  "animal shelter", "pet adoption", "spca",
+  // 日语/翻译
+  "japanese translator", "translation job", "jlpt",
+  "japanese language", "nihongo",
+  // 加密货币
+  "luno", "cryptocurrency malaysia", "digital asset",
+  "securities commission crypto",
+  // 天气预警
+  "flood warning", "amaran banjir", "severe weather",
+  "weather warning", "metmalaysia",
+  // 机票/旅行
+  "flight deal", "airasia promo", "cheap flight",
+  "travel deal", "free seat",
 ];
 
 function matchesKeywords(text: string, keywords: string[]): number {

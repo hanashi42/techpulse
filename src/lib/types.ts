@@ -17,6 +17,9 @@ export type Source =
   | "imoney"
   | "vulcanpost"
   | "ringgitplus"
+  | "everydayonsales"
+  | "mypromo"
+  | "fintechmy"
   | "reminder";
 
 export type Category = "tech" | "malaysia" | "world" | "money" | "life" | "forme";

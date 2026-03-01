@@ -33,6 +33,9 @@ const SOURCE_META: Record<Source, { label: string; fullName: string; dot: string
   imoney: { label: "iM", fullName: "iMoney", dot: "bg-imoney" },
   vulcanpost: { label: "VP", fullName: "Vulcan Post", dot: "bg-vulcanpost" },
   ringgitplus: { label: "R+", fullName: "RinggitPlus", dot: "bg-ringgitplus" },
+  everydayonsales: { label: "EOS", fullName: "EverydayOnSales", dot: "bg-eos" },
+  mypromo: { label: "MP", fullName: "MyPromo", dot: "bg-mypromo" },
+  fintechmy: { label: "FT", fullName: "FintechNews MY", dot: "bg-fintechmy" },
   reminder: { label: "!", fullName: "Reminder", dot: "bg-reminder" },
 };
 
@@ -306,7 +309,7 @@ export default function Dashboard({
 
       {/* Footer */}
       <footer className="mt-12 border-t border-border pt-4 text-center text-xs text-muted">
-        Polaris &middot; Auto-updated daily from 18 sources across 6 domains
+        Polaris &middot; Auto-updated daily from 21 sources across 6 domains
       </footer>
     </div>
   );

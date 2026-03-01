@@ -136,5 +136,68 @@
     "category": "forme",
     "tags": ["vehicle", "deadline"],
     "url": "https://www.myeg.com.my"
+  },
+  {
+    "id": "socso-annual-report-2026",
+    "title": "SOCSO 年度报告截止",
+    "description": "雇主须提交SOCSO年度报告，截止3月31日",
+    "date": "2026-03-31",
+    "daysBeforeAlert": 7,
+    "category": "forme",
+    "tags": ["socso", "deadline"]
+  },
+  {
+    "id": "sale-3-3-2026",
+    "title": "电商大促：3.3 Sale",
+    "description": "Shopee/Lazada 3.3大促，留意优惠券和折扣",
+    "date": "2026-03-03",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["sale", "promo"]
+  },
+  {
+    "id": "sale-raya-2026",
+    "title": "电商大促：Raya Sale",
+    "description": "开斋节大促，各平台折扣季",
+    "date": "2026-03-25",
+    "daysBeforeAlert": 5,
+    "category": "forme",
+    "tags": ["sale", "promo"]
+  },
+  {
+    "id": "sale-7-7-2026",
+    "title": "电商大促：7.7 Sale",
+    "description": "Shopee/Lazada 7.7年中大促",
+    "date": "2026-07-07",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["sale", "promo"]
+  },
+  {
+    "id": "sale-9-9-2026",
+    "title": "电商大促：9.9 Sale",
+    "description": "Shopee/Lazada 9.9超级购物日",
+    "date": "2026-09-09",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["sale", "promo"]
+  },
+  {
+    "id": "sale-11-11-2026",
+    "title": "电商大促：11.11 Sale",
+    "description": "双十一全球购物节，年度最大折扣",
+    "date": "2026-11-11",
+    "daysBeforeAlert": 5,
+    "category": "forme",
+    "tags": ["sale", "promo"]
+  },
+  {
+    "id": "sale-12-12-2026",
+    "title": "电商大促：12.12 Sale",
+    "description": "双十二年终大促",
+    "date": "2026-12-12",
+    "daysBeforeAlert": 3,
+    "category": "forme",
+    "tags": ["sale", "promo"]
   }
 ]
