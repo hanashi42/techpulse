@@ -686,17 +686,6 @@
       "fetchedAt": "2026-03-01T07:09:44.005Z"
     },
     {
-      "id": "reminder-test-reminder-today",
-      "source": "reminder",
-      "title": "TEST: 测试提醒卡片",
-      "url": "https://example.com",
-      "score": 100,
-      "category": "forme",
-      "description": "这是一条测试提醒，验证提醒卡片渲染效果 (还有2天)",
-      "fetchedAt": "2026-03-01T04:59:29.785Z",
-      "summary": "（测试卡片）剩余2天截止"
-    },
-    {
       "id": "reminder-sale-3-3-2026",
       "source": "reminder",
       "title": "电商大促：3.3 Sale",
@@ -705,16 +694,6 @@
       "category": "forme",
       "description": "Shopee/Lazada 3.3大促，留意优惠券和折扣 (还有2天)",
       "fetchedAt": "2026-03-01T07:09:01.479Z"
-    },
-    {
-      "id": "reminder-sale-3-3-2026",
-      "source": "reminder",
-      "title": "电商大促：3.3 Sale",
-      "url": "",
-      "score": 100,
-      "category": "forme",
-      "description": "Shopee/Lazada 3.3大促，留意优惠券和折扣 (还有2天)",
-      "fetchedAt": "2026-03-01T07:09:46.741Z"
     },
     {
       "id": "hn-47178051",
