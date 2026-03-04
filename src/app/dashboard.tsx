@@ -426,7 +426,7 @@ export default function Dashboard({
           const count =
             cat.key === "all"
               ? items.length
-              : items.filter((i) => i.category === cat.key).length;
+              : categoryCount(cat.key as Category);
           return (
             <button
               key={cat.key}
