@@ -4,6 +4,11 @@ import { useState, useRef } from "react";
 import { useRouter } from "next/navigation";
 import type { DailyData, Category, NewsItem, Source } from "@/lib/types";
 
+const FORME_SOURCES: Set<Source> = new Set([
+  "soyacincau", "imoney", "vulcanpost", "ringgitplus",
+  "everydayonsales", "mypromo", "fintechmy",
+]);
+
 const CATEGORIES: { key: Category | "all"; label: string }[] = [
   { key: "all", label: "All" },
   { key: "malaysia", label: "Malaysia" },
@@ -316,7 +321,11 @@ export default function Dashboard({
   const router = useRouter();
 
   const items = data?.items ?? [];
-  const filtered = category === "all" ? items : items.filter((i) => i.category === category);
+  const filtered = category === "all"
+    ? items
+    : category === "forme"
+      ? items.filter((i) => i.category === "forme" || FORME_SOURCES.has(i.source))
+      : items.filter((i) => i.category === category);
 
   const currentIdx = dates.indexOf(currentDate);
   const prevDate = currentIdx < dates.length - 1 ? dates[currentIdx + 1] : null;
@@ -331,7 +340,10 @@ export default function Dashboard({
     return d.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "UTC" });
   };
 
-  const categoryCount = (cat: Category) => items.filter((i) => i.category === cat).length;
+  const categoryCount = (cat: Category) =>
+    cat === "forme"
+      ? items.filter((i) => i.category === "forme" || FORME_SOURCES.has(i.source)).length
+      : items.filter((i) => i.category === cat).length;
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-8">
