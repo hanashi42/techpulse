@@ -107,10 +107,23 @@ const FORME_KEYWORDS = [
   "securities commission crypto",
   // 天气预警
   "flood warning", "amaran banjir", "severe weather",
-  "weather warning", "metmalaysia",
+  "weather warning", "metmalaysia", "thunderstorm warning",
+  "heavy rain", "landslide", "hujan lebat",
   // 机票/旅行
   "flight deal", "airasia promo", "cheap flight",
   "travel deal", "free seat",
+  // 加密货币补充
+  "polymarket", "prediction market", "binance",
+  "token", "defi", "nft", "web3", "stablecoin",
+  "crypto regulation", "digital asset exchange",
+  // 流浪动物补充
+  "free spay", "free neuter", "vaccination drive",
+  "animal rescue", "animal abuse", "pet abandonment",
+  "low cost vet", "affordable vet",
+  // 诈骗补充
+  "data breach", "data leak", "identity theft",
+  "ransomware", "cybersecurity", "cyber attack",
+  "bank fraud", "atm scam", "qr scam",
 ];
 
 function matchesKeywords(text: string, keywords: string[]): number {

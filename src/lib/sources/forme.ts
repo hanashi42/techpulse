@@ -9,10 +9,12 @@ const FEEDS: RSSFeedConfig[] = [
   { url: "https://www.everydayonsales.com/feed/", source: "everydayonsales", defaultCategory: "forme", limit: 5 },
   { url: "https://mypromo.my/feed/", source: "mypromo", defaultCategory: "forme", limit: 5 },
   { url: "https://fintechnews.my/category/blockchain/feed/", source: "fintechmy", defaultCategory: "forme", limit: 5 },
+  { url: "https://discover.luno.com/rss", source: "luno", defaultCategory: "forme", limit: 5 },
+  { url: "https://www.coindesk.com/arc/outboundfeeds/rss/", source: "coindesk", defaultCategory: "forme", limit: 5 },
 ];
 
 export async function fetchForMe(): Promise<NewsItem[]> {
-  console.log("  Fetching For Me sources (7 RSS feeds)...");
+  console.log("  Fetching For Me sources (9 RSS feeds)...");
   const items = await fetchMultipleRSS(FEEDS);
   console.log(`  For Me: ${items.length} items`);
   return items;

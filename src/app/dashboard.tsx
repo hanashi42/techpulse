@@ -6,7 +6,7 @@ import type { DailyData, Category, NewsItem, Source } from "@/lib/types";
 
 const FORME_SOURCES: Set<Source> = new Set([
   "soyacincau", "imoney", "vulcanpost", "ringgitplus",
-  "everydayonsales", "mypromo", "fintechmy",
+  "everydayonsales", "mypromo", "fintechmy", "luno", "coindesk",
 ]);
 
 const CATEGORIES: { key: Category | "all"; label: string }[] = [
@@ -41,6 +41,8 @@ const SOURCE_META: Record<Source, { label: string; fullName: string; dot: string
   everydayonsales: { label: "EOS", fullName: "EverydayOnSales", dot: "bg-eos" },
   mypromo: { label: "MP", fullName: "MyPromo", dot: "bg-mypromo" },
   fintechmy: { label: "FT", fullName: "FintechNews MY", dot: "bg-fintechmy" },
+  luno: { label: "LN", fullName: "Luno", dot: "bg-luno" },
+  coindesk: { label: "CD", fullName: "CoinDesk", dot: "bg-coindesk" },
   reminder: { label: "!", fullName: "Reminder", dot: "bg-reminder" },
 };
 

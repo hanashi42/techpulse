@@ -20,6 +20,8 @@ export type Source =
   | "everydayonsales"
   | "mypromo"
   | "fintechmy"
+  | "luno"
+  | "coindesk"
   | "reminder";
 
 export type Category = "tech" | "malaysia" | "world" | "money" | "life" | "forme";

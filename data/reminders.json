@@ -1,8 +1,28 @@
 [
   {
+    "id": "tax-efiling-open-2026",
+    "title": "e-Filing 已开放",
+    "description": "LHDN e-Filing 系统已开放，建议尽早报税。自由职业者/待业人士也需报税（即使收入为零）",
+    "date": "2026-03-15",
+    "daysBeforeAlert": 14,
+    "category": "forme",
+    "tags": ["tax"],
+    "url": "https://ez.hasil.gov.my"
+  },
+  {
+    "id": "tax-relief-checklist-2026",
+    "title": "报税扣税项目清单",
+    "description": "整理扣税收据：医疗费(10K)、父母医疗(8K)、教育费(7K)、生活方式(2.5K含书/电脑/运动)、保险(3K)、SSPN(8K)、EPF(4K)、电动车充电(2.5K)。自由职业者可扣业务开支",
+    "date": "2026-04-15",
+    "daysBeforeAlert": 7,
+    "category": "forme",
+    "tags": ["tax", "finance"],
+    "url": "https://www.hasil.gov.my"
+  },
+  {
     "id": "tax-be-2026",
     "title": "Form BE 报税截止",
-    "description": "个人/自由职业者纸质报税截止日 4月30日",
+    "description": "个人所得税（打工族）纸质报税截止日 4月30日。自由职业者/待业人士用 Form B，截止 6月30日",
     "date": "2026-04-30",
     "daysBeforeAlert": 14,
     "category": "forme",
@@ -10,10 +30,30 @@
     "url": "https://www.hasil.gov.my"
   },
   {
-    "id": "tax-e-filing-2026",
-    "title": "e-Filing 报税截止",
-    "description": "网上报税截止日 5月15日",
+    "id": "tax-e-filing-be-2026",
+    "title": "e-Filing BE 截止",
+    "description": "网上报税（打工族 Form BE）截止日 5月15日",
     "date": "2026-05-15",
+    "daysBeforeAlert": 14,
+    "category": "forme",
+    "tags": ["tax", "deadline"],
+    "url": "https://ez.hasil.gov.my"
+  },
+  {
+    "id": "tax-b-paper-2026",
+    "title": "Form B 报税截止（纸质）",
+    "description": "自由职业者/个体经营者纸质报税截止 6月30日",
+    "date": "2026-06-30",
+    "daysBeforeAlert": 14,
+    "category": "forme",
+    "tags": ["tax", "deadline"],
+    "url": "https://www.hasil.gov.my"
+  },
+  {
+    "id": "tax-e-filing-b-2026",
+    "title": "e-Filing B 截止（自由职业者）",
+    "description": "自由职业者/个体经营者网上报税截止 7月15日。迟交罚款 RM200-RM20,000",
+    "date": "2026-07-15",
     "daysBeforeAlert": 14,
     "category": "forme",
     "tags": ["tax", "deadline"],
