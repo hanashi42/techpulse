@@ -85,17 +85,22 @@ interface RSSSource {
 }
 
 const RSS_SOURCES: RSSSource[] = [
-  { url: "https://www.reutersagency.com/feed/", name: "Reuters" },
-  { url: "https://rsshub.app/apnews/topics/world-news", name: "AP" },
+  // Wire services via Google News (direct feeds are dead)
+  { url: "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en", name: "Reuters" },
+  { url: "https://news.google.com/rss/search?q=site:apnews.com+when:1d&hl=en", name: "AP" },
+  // Direct RSS feeds
   { url: "https://feeds.bbci.co.uk/news/world/rss.xml", name: "BBC" },
   { url: "https://www.aljazeera.com/xml/rss/all.xml", name: "Al Jazeera" },
-  { url: "https://www.bernama.com/en/rss/news.xml", name: "Bernama" },
+  { url: "https://www.theguardian.com/world/rss", name: "Guardian" },
+  { url: "https://feeds.skynews.com/feeds/rss/world.xml", name: "Sky News" },
+  { url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", name: "NYT" },
+  { url: "https://www.cnbc.com/id/100727362/device/rss/rss.html", name: "CNBC" },
+  // Malaysia
+  { url: "https://news.google.com/rss/search?q=site:bernama.com+when:1d&hl=en", name: "Bernama" },
 ];
 
 const USGS_URL =
   "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson";
-
-const REDDIT_URL = "https://www.reddit.com/r/worldnews/rising.json?limit=20";
 
 async function fetchWithTimeout(url: string, init?: RequestInit): Promise<Response> {
   const controller = new AbortController();
@@ -136,35 +141,6 @@ async function fetchRSS(source: RSSSource): Promise<RawArticle[]> {
   }
 }
 
-async function fetchReddit(): Promise<RawArticle[]> {
-  try {
-    const res = await fetchWithTimeout(REDDIT_URL, {
-      headers: {
-        "User-Agent": UA,
-        Accept: "application/json",
-      },
-    });
-
-    if (!res.ok) {
-      console.error(`[breaking] Reddit r/worldnews -> ${res.status}`);
-      return [];
-    }
-
-    const data = (await res.json()) as {
-      data: { children: Array<{ data: { title: string; url: string; permalink: string } }> };
-    };
-
-    return data.data.children.map((child) => ({
-      title: child.data.title,
-      url: child.data.url || `https://www.reddit.com${child.data.permalink}`,
-      source: "Reddit r/worldnews",
-    }));
-  } catch (err) {
-    console.error(`[breaking] Reddit failed:`, (err as Error).message);
-    return [];
-  }
-}
-
 async function fetchUSGS(): Promise<RawArticle[]> {
   try {
     const res = await fetchWithTimeout(USGS_URL, {
@@ -196,7 +172,6 @@ async function fetchUSGS(): Promise<RawArticle[]> {
 export async function fetchAllSources(): Promise<RawArticle[]> {
   const results = await Promise.allSettled([
     ...RSS_SOURCES.map((s) => fetchRSS(s)),
-    fetchReddit(),
     fetchUSGS(),
   ]);
 
