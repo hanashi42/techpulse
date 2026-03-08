@@ -81,27 +81,57 @@ export const P1_RULES: P1Rule[] = [
   { keyword: "default", context: ["sovereign", "debt", "bonds", "government", "country"] },
   { keyword: "hostage", context: ["killed", "embassy", "rescue", "crisis", "kidnap"] },
 
-  // Markets & economy
+  // Markets & economy — price moves
   { keyword: "crash", context: ["stock market", "dow", "nasdaq", "s&p", "index", "plunge", "circuit breaker", "recession", "wall street", "nikkei", "ftse"] },
-  { keyword: "plunge", context: ["stock", "market", "index", "oil", "crude", "dow", "nasdaq", "shares", "currency", "ringgit"] },
-  { keyword: "surge", context: ["oil price", "crude oil", "gold price", "inflation", "bond yield", "interest rate"] },
-  { keyword: "soar", context: ["oil", "gold", "inflation", "commodity", "price"] },
-  { keyword: "rate cut", context: ["fed", "ecb", "bank of japan", "central bank", "emergency", "basis points", "surprise"] },
-  { keyword: "rate hike", context: ["fed", "ecb", "bank of japan", "central bank", "emergency", "basis points", "surprise"] },
-  { keyword: "tariff", context: ["new", "impose", "retaliat", "trade war", "china", "europe", "25%", "50%", "100%"] },
-  { keyword: "recession", context: ["official", "confirm", "enter", "gdp", "contract", "quarter", "economy"] },
+  { keyword: "plunge", context: ["stock", "market", "index", "oil", "crude", "dow", "nasdaq", "shares", "currency", "ringgit", "bitcoin", "crypto"] },
+  { keyword: "surge", context: ["oil", "crude", "gold", "inflation", "bond yield", "interest rate", "price", "dollar", "bitcoin"] },
+  { keyword: "soar", context: ["oil", "gold", "inflation", "commodity", "price", "yield", "dollar"] },
+  { keyword: "tumble", context: ["stock", "market", "shares", "index", "oil", "crypto", "currency"] },
+  { keyword: "rally", context: ["stock", "market", "gold", "oil", "dollar", "bitcoin", "record"] },
+  { keyword: "record high", context: ["gold", "oil", "stock", "index", "dow", "s&p", "bitcoin", "inflation", "yield"] },
+  { keyword: "record low", context: ["currency", "ringgit", "yuan", "yen", "euro", "pound", "stock"] },
+  { keyword: "all-time high", context: ["gold", "bitcoin", "stock", "index", "oil", "s&p", "dow"] },
+
+  // Central banks & rates
+  { keyword: "rate cut", context: ["fed", "ecb", "bank of japan", "central bank", "basis points", "surprise", "bnm", "pboc"] },
+  { keyword: "rate hike", context: ["fed", "ecb", "bank of japan", "central bank", "basis points", "surprise", "bnm", "pboc"] },
+  { keyword: "fed", context: ["rate", "cut", "hike", "pause", "pivot", "signal", "hawkish", "dovish", "taper", "qe", "qt"] },
+  { keyword: "interest rate", context: ["cut", "hike", "hold", "surprise", "change", "decision", "unchanged"] },
+  { keyword: "quantitative", context: ["easing", "tightening"] },
+
+  // Trade & policy
+  { keyword: "tariff", context: ["new", "impose", "retaliat", "trade war", "china", "europe", "25%", "50%", "100%", "trump", "raise"] },
+  { keyword: "trade war", context: ["china", "us", "europe", "tariff", "retaliat", "escalat"] },
+  { keyword: "embargo", context: ["oil", "trade", "export", "import", "ban", "energy"] },
+  { keyword: "ban export", context: ["chip", "semiconductor", "rare earth", "oil", "gas", "mineral", "technology"] },
+  { keyword: "restrict", context: ["export", "rare earth", "chip", "semiconductor", "technology", "china"] },
+  { keyword: "opec", context: ["cut", "production", "output", "supply", "quota", "meeting", "agree", "barrel"] },
+
+  // Economy
+  { keyword: "recession", context: ["official", "confirm", "enter", "gdp", "contract", "quarter", "economy", "warning", "risk"] },
+  { keyword: "inflation", context: ["record", "highest", "spike", "surge", "unexpected", "cpi", "rise", "fall", "slow", "accelerat"] },
+  { keyword: "gdp", context: ["contract", "shrink", "growth", "slow", "surprise", "quarter", "negative"] },
+  { keyword: "unemployment", context: ["surge", "rise", "spike", "record", "jump", "unexpected"] },
   { keyword: "bailout", context: ["bank", "government", "billion", "trillion", "financial", "rescue"] },
   { keyword: "bankrupt", context: ["bank", "airline", "company", "billion", "giant", "major", "largest"] },
-  { keyword: "layoff", context: ["thousand", "10,000", "20,000", "50,000", "mass", "google", "meta", "amazon", "microsoft", "apple"] },
-  { keyword: "oil price", context: ["surge", "plunge", "crash", "record", "spike", "barrel", "jump", "drop"] },
-  { keyword: "gold price", context: ["record", "surge", "all-time", "high", "spike"] },
-  { keyword: "inflation", context: ["record", "highest", "spike", "surge", "unexpected", "cpi"] },
-  { keyword: "embargo", context: ["oil", "trade", "export", "import", "ban", "energy"] },
-  { keyword: "trade war", context: ["china", "us", "europe", "tariff", "retaliat", "escalat"] },
+  { keyword: "default", context: ["sovereign", "debt", "bonds", "government", "country"] },
+
+  // Commodities & currencies
+  { keyword: "oil price", context: ["surge", "plunge", "crash", "record", "spike", "barrel", "jump", "drop", "rise", "fall"] },
+  { keyword: "gold price", context: ["record", "surge", "all-time", "high", "spike", "rise"] },
+  { keyword: "bitcoin", context: ["crash", "surge", "plunge", "record", "all-time", "halving", "etf", "sec"] },
+  { keyword: "ringgit", context: ["fall", "drop", "plunge", "record", "low", "weak", "surge", "strengthen"] },
+  { keyword: "dollar", context: ["surge", "plunge", "record", "index", "weaken", "strengthen", "crisis"] },
+
+  // Tech & corporate
+  { keyword: "layoff", context: ["thousand", "10,000", "20,000", "50,000", "mass", "google", "meta", "amazon", "microsoft", "apple", "tesla"] },
+  { keyword: "antitrust", context: ["google", "meta", "apple", "amazon", "microsoft", "fine", "billion", "break up", "ruling"] },
+  { keyword: "data breach", context: ["million", "billion", "bank", "government", "hack", "leaked", "exposed"] },
 
   // Supply chain / energy
   { keyword: "shutdown", context: ["pipeline", "refinery", "port", "shipping", "supply chain", "grid", "power"] },
   { keyword: "disruption", context: ["supply chain", "shipping", "oil", "gas", "semiconductor", "chip", "global"] },
+  { keyword: "shortage", context: ["chip", "semiconductor", "oil", "gas", "energy", "food", "water", "global"] },
 ];
 
 // P2: Need 3+ sources reporting the same story
