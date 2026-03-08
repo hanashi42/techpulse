@@ -45,6 +45,12 @@ These phrases are unambiguous. One match = push immediately.
 "ground offensive", "troops enter", "shots fired at",
 "opens fire on", "shells ", "torpedoes ",
 
+# Peace / diplomacy (equally breaking)
+"ceasefire declared", "ceasefire agreement", "peace deal signed",
+"surrender", "unconditional surrender", "capitulates",
+"war ends", "conflict ends", "truce declared",
+"peace treaty", "armistice signed",
+
 # WMD / nuclear
 "nuclear detonation", "nuclear test", "mushroom cloud",
 "chemical attack", "chemical weapons", "biological attack",
