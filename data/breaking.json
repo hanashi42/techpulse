@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "9ae1a07e1d5c1e3b",
+      "title": "Oil price continues to rise amid Middle East crisis but stock markets rebound across Asia",
+      "url": "https://www.theguardian.com/business/2026/mar/05/oil-price-continues-to-rise-amid-middle-east-crisis-but-stock-markets-rebound-across-asia",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-03-08T07:31:12.776Z",
+      "pushedAt": "2026-03-08T07:31:12.776Z"
+    },
+    {
+      "id": "8a2f4f38f5d44d9d",
+      "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
+      "url": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-03-08T07:31:12.887Z",
+      "pushedAt": "2026-03-08T07:31:12.887Z"
+    },
+    {
       "id": "740e7ab9b5be9a99",
       "title": "Oil prices are soaring, but Trump is downplaying the need to tap the Strategic Petroleum Reserve - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY19GUFpQckdURGwwdUlRNHRCRVZrci1TdUt2SFQydUoxamhZWE5QMUNHNTI0cXJEakIxYUNFMVFzcWpnUE1qWklRSnMxUDhLbExoVkl5SW41czN5TFg3dDcyNHVKSC1GZzNleHM2cHo3MHdIRG41Wmp4ZWtqenJlM29ZbURoVWk3bmtBVHNTVFFXd3RPRmh2akNxNDZzWjhnS2dTZw?oc=5",
@@ -135,5 +159,5 @@
       "pushedAt": "2026-03-08T06:15:04.115Z"
     }
   ],
-  "updatedAt": "2026-03-08T06:54:36.287Z"
+  "updatedAt": "2026-03-08T07:31:12.974Z"
 }
