@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "44ba7d784e82e615",
+      "title": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2xXWVozc3NRRks5Zl9BdlE1SGV0aWVHRlFnc09QdTNxbVZ1d1pDV0UyTzJXSEF1cksyck1ISzFEb0lJLTA1Ukw2aVBTUU11d0hHbnBIZE5RUFp3bVJwU1FSbnlPcTNEM0doMFZtdGxVbFZyWW9iamZIa2xBQktYbWxPei04U09TNjd0X2ExRXY3VTZxelNNZ2NrZzNzNU5ieGNHSUFqUlkwNGM4Z0FSam9ibWFEWWZFZDhBNDlhTkZNSE1fdTZkUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + blocked"
+      ],
+      "firstSeen": "2026-03-08T18:57:38.018Z",
+      "pushedAt": "2026-03-08T18:57:38.018Z"
+    },
+    {
       "id": "b0b07a3a6b4e8bbd",
       "title": "Israel escalates attacks across Lebanon as two soldiers killed",
       "url": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss",
@@ -208,5 +220,5 @@
       "pushedAt": "2026-03-08T06:15:04.115Z"
     }
   ],
-  "updatedAt": "2026-03-08T17:01:03.513Z"
+  "updatedAt": "2026-03-08T18:57:38.285Z"
 }
