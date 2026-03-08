@@ -95,6 +95,10 @@ const RSS_SOURCES: RSSSource[] = [
   { url: "https://feeds.skynews.com/feeds/rss/world.xml", name: "Sky News" },
   { url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", name: "NYT" },
   { url: "https://www.cnbc.com/id/100727362/device/rss/rss.html", name: "CNBC" },
+  // China
+  { url: "https://news.google.com/rss/search?q=site:xinhuanet.com+when:1d&hl=zh-CN", name: "Xinhua" },
+  { url: "https://news.google.com/rss/search?q=site:thepaper.cn+when:1d&hl=zh-CN", name: "The Paper" },
+  { url: "https://news.google.com/rss/search?q=china+OR+chinese+when:1d&hl=en", name: "China (EN)" },
   // Malaysia
   { url: "https://news.google.com/rss/search?q=site:bernama.com+when:1d&hl=en", name: "Bernama" },
 ];

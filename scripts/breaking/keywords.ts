@@ -42,6 +42,17 @@ export const P0_KEYWORDS: string[] = [
   "strait of hormuz closed", "suez canal blocked",
   "fed emergency", "emergency rate cut", "emergency rate hike",
 
+  // China / Chinese language
+  "宣战", "开战", "核打击", "核试验",
+  "导弹袭击", "空袭", "入侵",
+  "停火", "停战", "投降",
+  "政变", "戒严", "暗杀",
+  "海啸预警", "海啸", "超强台风",
+  "熔断", "暴跌", "崩盘", "股灾",
+  "银行挤兑", "主权违约",
+  "紧急降息", "紧急加息",
+  "制裁", "禁运", "贸易战",
+
   // Malaysia specific
   "darurat", "perintah berkurung", "banjir besar",
   "emergency declared in malaysia", "flood emergency malaysia",
