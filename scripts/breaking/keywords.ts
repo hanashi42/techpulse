@@ -2,7 +2,7 @@
 export const P0_KEYWORDS: string[] = [
   // War and military
   "declares war", "declaration of war", "nuclear strike", "nuclear attack",
-  "nuclear launch", "invades ", "invasion of", "bombs ", "bombing of",
+  "nuclear launch", "invades ", "invasion of", "bombs", "bombing of",
   "airstrikes on", "air strikes on", "missile strike", "missiles launched",
   "ground offensive", "troops enter", "shots fired at",
   "opens fire on",
@@ -39,7 +39,7 @@ export const P0_KEYWORDS: string[] = [
   "currency crisis", "bank run", "bank collapse",
   "lehman moment", "sovereign default",
   "oil embargo", "opec emergency", "oil shock",
-  "strait of hormuz closed", "suez canal blocked",
+  "suez canal blocked",
   "fed emergency", "emergency rate cut", "emergency rate hike",
 
   // China / Chinese language
@@ -76,6 +76,7 @@ export const P1_RULES: P1Rule[] = [
   { keyword: "sinks", context: ["warship", "submarine", "navy", "vessel", "destroyer"] },
   { keyword: "seize", context: ["territory", "city", "capital", "port", "airport", "government"] },
   { keyword: "blockade", context: ["naval", "port", "strait", "shipping", "oil", "hormuz", "taiwan"] },
+  { keyword: "hormuz", context: ["closed", "blocked", "attacked", "mined", "threat", "shutdown", "disruption", "naval"] },
   { keyword: "collapses", context: ["building", "bridge", "dam", "mine", "government", "bank"] },
   { keyword: "pandemic", context: ["WHO", "emergency", "outbreak", "lockdown", "quarantine"] },
   { keyword: "default", context: ["sovereign", "debt", "bonds", "government", "country"] },
@@ -119,9 +120,19 @@ export const P1_RULES: P1Rule[] = [
   // Commodities & currencies
   { keyword: "oil price", context: ["surge", "plunge", "crash", "record", "spike", "barrel", "jump", "drop", "rise", "fall"] },
   { keyword: "gold price", context: ["record", "surge", "all-time", "high", "spike", "rise"] },
-  { keyword: "bitcoin", context: ["crash", "surge", "plunge", "record", "all-time", "halving", "etf", "sec"] },
+  { keyword: "bitcoin", context: ["crash", "surge", "plunge", "record", "all-time", "halving", "etf", "sec", "ban", "regulate"] },
+  { keyword: "crypto", context: ["ban", "regulat", "crackdown", "sec", "lawsuit", "fraud", "collapse", "crash", "surge"] },
+  { keyword: "stablecoin", context: ["depeg", "collapse", "crash", "regulat", "ban", "tether", "usdc"] },
+  { keyword: "tether", context: ["depeg", "collapse", "redeem", "fraud", "audit", "reserve"] },
   { keyword: "ringgit", context: ["fall", "drop", "plunge", "record", "low", "weak", "surge", "strengthen"] },
   { keyword: "dollar", context: ["surge", "plunge", "record", "index", "weaken", "strengthen", "crisis"] },
+
+  // Malaysia market
+  { keyword: "bursa", context: ["crash", "plunge", "surge", "record", "halt", "circuit breaker", "tumble", "rally"] },
+  { keyword: "klci", context: ["crash", "plunge", "surge", "record", "drop", "tumble", "rally", "low"] },
+  { keyword: "ringgit", context: ["fall", "drop", "plunge", "record", "low", "weak", "surge", "strengthen", "crisis"] },
+  { keyword: "bnm", context: ["rate", "cut", "hike", "hold", "surprise", "emergency", "decision", "opr"] },
+  { keyword: "epf", context: ["withdraw", "dividend", "cut", "record", "change", "reform"] },
 
   // Tech & corporate
   { keyword: "layoff", context: ["thousand", "10,000", "20,000", "50,000", "mass", "google", "meta", "amazon", "microsoft", "apple", "tesla"] },
