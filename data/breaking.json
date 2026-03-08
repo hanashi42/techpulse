@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1ae4de5642d41d3f",
+      "title": "Bahrain says Iran hit a desalination plant, stoking fears of attacks on civilian sites - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMEtyTUJhcmFucEVfZDVZSzUzUm1ub19kc2xDMVNjWVBYUnpYaUJRY281TzI3QlpQdEhvejJNWVhNRDJQcHAzdmN0NmNmZkRMOWxFUXBSSDI3a0xUS05rNkNWd2ROejI2TUVmZEVfcEtXTnBkclNmYzZTaFc1RmlYR0hVdklfSmFVQ1VVMVI5dDA?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + civilian"
+      ],
+      "firstSeen": "2026-03-08T10:31:57.295Z",
+      "pushedAt": "2026-03-08T10:31:57.295Z"
+    },
+    {
       "id": "9ae1a07e1d5c1e3b",
       "title": "Oil price continues to rise amid Middle East crisis but stock markets rebound across Asia",
       "url": "https://www.theguardian.com/business/2026/mar/05/oil-price-continues-to-rise-amid-middle-east-crisis-but-stock-markets-rebound-across-asia",
@@ -159,5 +171,5 @@
       "pushedAt": "2026-03-08T06:15:04.115Z"
     }
   ],
-  "updatedAt": "2026-03-08T07:31:12.974Z"
+  "updatedAt": "2026-03-08T10:31:57.816Z"
 }
