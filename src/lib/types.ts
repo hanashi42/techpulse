@@ -80,3 +80,19 @@ export interface DailyData {
     fx?: ExchangeRates;
   };
 }
+
+export interface BreakingNewsItem {
+  id: string;
+  title: string;
+  url: string;
+  source: string;
+  priority: "P0" | "P1" | "P2";
+  matchedKeywords: string[];
+  firstSeen: string;
+  pushedAt?: string;
+}
+
+export interface BreakingNewsData {
+  items: BreakingNewsItem[];
+  updatedAt: string;
+}

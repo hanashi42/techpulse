@@ -2,7 +2,7 @@
 
 import { useState, useRef } from "react";
 import { useRouter } from "next/navigation";
-import type { DailyData, Category, NewsItem, Source } from "@/lib/types";
+import type { DailyData, Category, NewsItem, Source, BreakingNewsData } from "@/lib/types";
 
 const FORME_SOURCES: Set<Source> = new Set([
   "soyacincau", "imoney", "vulcanpost", "ringgitplus",
@@ -314,10 +314,12 @@ export default function Dashboard({
   data,
   dates,
   currentDate,
+  breakingData,
 }: {
   data: DailyData | null;
   dates: string[];
   currentDate: string;
+  breakingData: BreakingNewsData;
 }) {
   const [category, setCategory] = useState<Category | "all">("forme");
   const router = useRouter();
@@ -394,6 +396,31 @@ export default function Dashboard({
           <span className="ml-auto">{items.length} total</span>
         </div>
       </header>
+
+      {/* Breaking news bar */}
+      {breakingData.items.length > 0 && (
+        <div className="mb-4 rounded-lg border border-red-500/30 bg-red-950/20 p-3">
+          <div className="mb-2 flex items-center gap-2 text-sm font-bold text-red-400">
+            <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-red-500" />
+            BREAKING
+          </div>
+          <div className="space-y-1">
+            {breakingData.items.slice(0, 5).map((item) => (
+              <a
+                key={item.id}
+                href={item.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block text-sm text-red-200 hover:text-white transition-colors"
+              >
+                <span className="text-red-500/60 text-xs mr-1">[{item.priority}]</span>
+                {item.title}
+                <span className="text-red-500/40 text-xs ml-2">{item.source}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* Widgets: fuel + fx */}
       {data && (category === "all" || category === "forme" || category === "money") && (

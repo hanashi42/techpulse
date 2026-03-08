@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync } from "fs";
 import { join } from "path";
-import type { DailyData } from "@/lib/types";
+import type { DailyData, BreakingNewsData } from "@/lib/types";
 import Dashboard from "./dashboard";
 
 function getAvailableDates(): string[] {
@@ -35,5 +35,11 @@ export default async function Page({
   const currentDate = params.date || dates[0] || new Date().toISOString().split("T")[0];
   const data = loadData(currentDate);
 
-  return <Dashboard data={data} dates={dates} currentDate={currentDate} />;
+  let breakingData: BreakingNewsData = { items: [], updatedAt: "" };
+  try {
+    const breakingPath = join(process.cwd(), "data", "breaking.json");
+    breakingData = JSON.parse(readFileSync(breakingPath, "utf-8"));
+  } catch {}
+
+  return <Dashboard data={data} dates={dates} currentDate={currentDate} breakingData={breakingData} />;
 }
