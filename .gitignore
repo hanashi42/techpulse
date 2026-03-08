@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# breaking news alerts
+breaking.db
+breaking.db-wal
+breaking.db-shm
