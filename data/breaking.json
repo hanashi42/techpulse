@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b0b07a3a6b4e8bbd",
+      "title": "Israel escalates attacks across Lebanon as two soldiers killed",
+      "url": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-08T17:01:03.236Z",
+      "pushedAt": "2026-03-08T17:01:03.236Z"
+    },
+    {
       "id": "b13115100188020a",
       "title": "Oil price surge could boost these Chinese stocks, Goldman says - CNBC",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVS11dXJTNENNYkJUWmxBd1pHX2ZVdzVjMTh5cVdlYWx3cEh0UVplZnhDRVVCejJxUGVwM3J0bUlNLUljM3dvclZHWl9kWFo2aUZxMlhxWjhDaWRfT05NTXluRE41TEVJZVF0N1BHclVHbjZTa2dvVEtUNU94djBIM2NIWjkyVEdyRVZLNTliMW96c1ljdkNFdHZWNEZMYUV0?oc=5",
@@ -196,5 +208,5 @@
       "pushedAt": "2026-03-08T06:15:04.115Z"
     }
   ],
-  "updatedAt": "2026-03-08T15:54:46.772Z"
+  "updatedAt": "2026-03-08T17:01:03.513Z"
 }
