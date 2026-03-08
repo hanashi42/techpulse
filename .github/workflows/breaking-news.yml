@@ -1,0 +1,45 @@
+name: Breaking News Check
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Check breaking news
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: npx tsx scripts/breaking/index.ts
+
+      - name: Push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/breaking.json
+          git diff --staged --quiet && echo "No breaking news" && exit 0
+          git commit -m "breaking: update"
+          git push
+
+      - name: Trigger Vercel deploy
+        if: success()
+        env:
+          DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$DEPLOY_HOOK" ]; then
+            curl -s -X POST "$DEPLOY_HOOK"
+          fi
