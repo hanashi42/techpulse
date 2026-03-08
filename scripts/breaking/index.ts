@@ -15,7 +15,14 @@ async function main() {
   const pushed: BreakingItem[] = [];
 
   try {
-    console.log(`[${new Date().toISOString()}] Fetching sources...`);
+    // Pre-populate seen URLs from breaking.json (persists across Actions runs)
+    const existing = loadBreakingJson();
+    for (const item of existing.items) {
+      store.markSeen(item.id, item.title, item.priority);
+      if (item.pushedAt) store.markPushed(item.id);
+    }
+    console.log(`[${new Date().toISOString()}] Loaded ${existing.items.length} existing items, fetching sources...`);
+
     const articles = await fetchAllSources();
     console.log(`Fetched ${articles.length} articles`);
 
@@ -64,7 +71,6 @@ async function main() {
 
     // Update breaking.json (merge with existing, keep last 24h)
     if (pushed.length > 0) {
-      const existing = loadBreakingJson();
       const cutoff = new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString();
       const merged = [...pushed, ...existing.items.filter((i) => i.firstSeen > cutoff)];
       const data: BreakingData = { items: merged, updatedAt: new Date().toISOString() };
