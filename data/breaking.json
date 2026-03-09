@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "a5562d8b74c4cf12",
+      "title": "Khamenei's hardline son Mojtaba appointed Iran's new leader; oil surges on supply fears - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHZyU3RoYTN3TFFkQXVaeFNMaDl1akVSQjE0R25UQmt0UC1Ka1lHcWhIZzM0TVpPYzBXN2VTRzJMYVc1cmFlVUVNeFgyUG1DdVhfUHZsODJKYjJpcG1MTndCeWJ3Z192cC0yTzZDN3gzamF1Z3hFbEQ0OFNmZEttODlxZnRIUzRYdWpETlN6d1JOdFZubVVTNVdVMnJnQmIteWstWGpDdmRXM3pQandnaDRIa1N2dTJXYnVsU1BIZ1E0WHJjQVFBbWdhRUJLZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-03-09T07:57:45.869Z",
+      "pushedAt": "2026-03-09T07:57:45.869Z"
+    },
+    {
+      "id": "a955f31aa075abb7",
+      "title": "Oil soars 25%, gold drops as Iran war jolts global commodity markets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaTZicHV2aDdJTnFCMW44QmVrNVdzdG9UdnI5SDB1akdRcWl4bEhxOFBjeklZcW1XNl9qT0ptVEw5VkF5VjdvMWVrLTk0VnBmNmdCX2tmUEkyeEdrT3I4T000bnNVSUYxNUVtcU9TRThhZTZGSEFyeUlfVnNaX2VKM0h1WkpIX1JiSUhjMjJCd2VwcWJVM3NLenYwUjcxYkpDbmtUSk5pdGt4eTdBYndLelFFd2xfUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + oil"
+      ],
+      "firstSeen": "2026-03-09T07:57:46.149Z",
+      "pushedAt": "2026-03-09T07:57:46.149Z"
+    },
+    {
+      "id": "86d944b0fe402a07",
+      "title": "Police in Norway investigate an explosion outside the US Embassy in Oslo - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFJiVFRROFhEOFpra0lNWVVGc2dSb2ROMGFKdXJ6STFWWF9TVm1NTnZzS2Vqd09OU2xoMDFjOXJOX1c3LUxpX2lhY1hzSlR1RkpOR1UtT3NKUXo0MW1mNEI3TjdBRlRwUGxMSDNmTlBuM00yT0lPa2tRcHlidDZuZG9UMVdEeFhxRXN3Zzc4ZmN2dU9yOVpZ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + embassy"
+      ],
+      "firstSeen": "2026-03-09T07:57:46.322Z",
+      "pushedAt": "2026-03-09T07:57:46.322Z"
+    },
+    {
+      "id": "14bfd755ab9da6ac",
+      "title": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-09T07:57:46.390Z",
+      "pushedAt": "2026-03-09T07:57:46.391Z"
+    },
+    {
+      "id": "c924fa12f4076d54",
+      "title": "Palestinians killed during Israeli settler attack in the occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/palestinians-killed-during-israeli-settler-attack-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-09T07:57:46.449Z",
+      "pushedAt": "2026-03-09T07:57:46.449Z"
+    },
+    {
       "id": "d3a94c31f6d8213d",
       "title": "Why China can withstand oil's surge past $100 more easily than other countries",
       "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
@@ -121,31 +181,7 @@
       ],
       "firstSeen": "2026-03-08T10:31:57.295Z",
       "pushedAt": "2026-03-08T10:31:57.295Z"
-    },
-    {
-      "id": "9ae1a07e1d5c1e3b",
-      "title": "Oil price continues to rise amid Middle East crisis but stock markets rebound across Asia",
-      "url": "https://www.theguardian.com/business/2026/mar/05/oil-price-continues-to-rise-amid-middle-east-crisis-but-stock-markets-rebound-across-asia",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-03-08T07:31:12.776Z",
-      "pushedAt": "2026-03-08T07:31:12.776Z"
-    },
-    {
-      "id": "8a2f4f38f5d44d9d",
-      "title": "Oil surges 35% this week for biggest gain in futures trading history dating back to 1983",
-      "url": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-03-08T07:31:12.887Z",
-      "pushedAt": "2026-03-08T07:31:12.887Z"
     }
   ],
-  "updatedAt": "2026-03-09T07:15:59.066Z"
+  "updatedAt": "2026-03-09T07:57:46.528Z"
 }
