@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3cd3a4f9dc7ea3e1",
+      "title": "Shots fired at Rihanna's house in Beverly Hills, no injuries reported, media say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXVTbVNaM21qd1M3S3g5Uk5WV3RUcFNfcHA3ZGdDMkZJa0RpNEYxYlVGSV96em5pc1pPRWttcHpiV0p5WWpaWnMzZjdGamNBNUNobFFyeUJwc2dRaTgyRkJwZmlFVzQwSnRvYlAxUzFiRXk1N1doN3JpV01IaENuekRkMDVnUG9reWlRTjFZbTJiQzgzaGdUeFpzSTFYOUJseUVTaFF0ZjZFaHA2bTBMOGUzd2lHdFo3a1NDY2N3c0ZuYzR1YTJVZVZ3?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "shots fired at"
+      ],
+      "firstSeen": "2026-03-09T05:09:05.797Z",
+      "pushedAt": "2026-03-09T05:09:05.797Z"
+    },
+    {
       "id": "004186806bf158bf",
       "title": "Oil prices jump above $100 for first time in four years",
       "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
@@ -244,5 +256,5 @@
       "pushedAt": "2026-03-08T06:15:04.115Z"
     }
   ],
-  "updatedAt": "2026-03-09T00:57:07.547Z"
+  "updatedAt": "2026-03-09T05:09:06.188Z"
 }
