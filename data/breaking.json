@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "e51e2c303b20920a",
+      "title": "World shares tumble as Iran war pushes crude prices over $110 a barrel - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPem1PRHNaT2M5cGwtWHl5Q0R0YXVKLUQ0MWRiNkVYaWM1ckRTeE5XRmtxQnlldHhSd3Btc1VlRUJyQ2Z4ZDRxS1VaNnh2cUdoR1M1WnZFVjZiczRjdm5tcGNtV0EyRXRoVHpnV1h5NXNCVk5IMlFndzlxRjViQnRBVWdPU29wZ0JsNnNCdGpnSQ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + shares"
+      ],
+      "firstSeen": "2026-03-09T08:39:03.565Z",
+      "pushedAt": "2026-03-09T08:39:03.565Z"
+    },
+    {
+      "id": "04d84cdb1417e391",
+      "title": "European markets fall over 2% on Middle East turmoil as oil price surges",
+      "url": "https://www.cnbc.com/2026/03/09/european-markets-stoxx-600-ftse-cac-dax-iran-latest.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-03-09T08:39:03.801Z",
+      "pushedAt": "2026-03-09T08:39:03.801Z"
+    },
+    {
+      "id": "807b8b30583cd297",
+      "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "nuclear test"
+      ],
+      "firstSeen": "2026-03-09T08:39:04.002Z",
+      "pushedAt": "2026-03-09T08:39:04.002Z"
+    },
+    {
       "id": "a5562d8b74c4cf12",
       "title": "Khamenei's hardline son Mojtaba appointed Iran's new leader; oil surges on supply fears - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHZyU3RoYTN3TFFkQXVaeFNMaDl1akVSQjE0R25UQmt0UC1Ka1lHcWhIZzM0TVpPYzBXN2VTRzJMYVc1cmFlVUVNeFgyUG1DdVhfUHZsODJKYjJpcG1MTndCeWJ3Z192cC0yTzZDN3gzamF1Z3hFbEQ0OFNmZEttODlxZnRIUzRYdWpETlN6d1JOdFZubVVTNVdVMnJnQmIteWstWGpDdmRXM3pQandnaDRIa1N2dTJXYnVsU1BIZ1E0WHJjQVFBbWdhRUJLZw?oc=5",
@@ -183,5 +220,5 @@
       "pushedAt": "2026-03-08T10:31:57.295Z"
     }
   ],
-  "updatedAt": "2026-03-09T07:57:46.528Z"
+  "updatedAt": "2026-03-09T08:39:04.067Z"
 }
