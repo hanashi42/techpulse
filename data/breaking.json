@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "cb45bae66f0eda70",
+      "title": "Turkey says second Iranian ballistic missile shot down by NATO defences in airspace - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaHF5eER2d1VGSDRaYlo0bm0wSGhlcjMxZ2g5VzdHc2tjS3pVU0JBVkRtQ0kxMmMxX2ltOUhFdDlhZi1FR014enA2T1FJR2JmaXEyd3Q2Zjl3c1ZOaVZCb0lfX3IxbTZKS0FGT2FLVEhGdjNPSEdHSlVzanJyaXlCRXB5eDNranRpTXcwcTZCekNVSWlsWS1DQzgtRXhCby1JcXJjSFVBWVVDa21sS2xhSGxHbTRkT3V6Sl9PVlJrR3JNclRSbHNZSw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shot down + missile"
+      ],
+      "firstSeen": "2026-03-09T14:12:52.240Z",
+      "pushedAt": "2026-03-09T14:12:52.240Z"
+    },
+    {
+      "id": "8617f9fdb89faaf6",
+      "title": "Hungary asks EU to suspend sanctions on Russian energy - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzVjcWhIRmh4MUlsTS1tOW5pZk1EaHFadU9HZUNCMU4zbExkcTc3bWhZWGVqR0lMQlhoM2ZPTzFxUExJYnBEUFBiYkNmQTBZTnlYUmZOWUZnb21Dd1lHMHd5elhXUFFUakhfQ2l0OUxWeGwtT283VVVxVURndE5Cb3VPUjZSeWpsVjlub3hBNmFUT3hUSEpCM3E0eU1RaGtmRV9MY0wtbU1rVHowaUE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-03-09T14:12:52.642Z",
+      "pushedAt": "2026-03-09T14:12:52.642Z"
+    },
+    {
+      "id": "34109c6cb65a9eab",
+      "title": "Wall st opens lower as soaring crude prices fan inflation worries - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ25yUEVjdzA5eDR6QmJUYThwbHc0Rk9KYXRpcFVMNnYwZkZsYXQ0S1g2RXExRTVhbGFzMHV6dDE5ZHhHdjhfV0VUTkNMdmtMaUpVZTFOQ3h0WEhwM05xNV84STRSSjREUF9Ka204QVZ4WEtCUXZsZWY3c3h3My1zUEdBdTRTc3Q3ek1NVXdBYjJ5UFZHcUd1aU11ay01emx2S0JIeWVTU2tfQzA3Ti1qSTEwQlJ2eVVtbW5z?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + inflation"
+      ],
+      "firstSeen": "2026-03-09T14:12:52.843Z",
+      "pushedAt": "2026-03-09T14:12:52.843Z"
+    },
+    {
+      "id": "278a13d64a0af65d",
+      "title": "The U.S.-Iran war is the biggest oil supply disruption in history",
+      "url": "https://www.cnbc.com/2026/03/09/the-us-iran-war-is-the-biggest-oil-supply-disruption-in-history.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-03-09T14:12:52.926Z",
+      "pushedAt": "2026-03-09T14:12:52.926Z"
+    },
+    {
       "id": "eded757bdd71b3ff",
       "title": "Iran says 1,255 people killed in US-Israeli attacks, mostly civilians",
       "url": "https://www.aljazeera.com/news/2026/3/9/iran-says-1255-killed-in-us-israeli-attacks-mostly-civilians?traffic_source=rss",
@@ -280,5 +328,5 @@
       "pushedAt": "2026-03-08T15:42:15.703Z"
     }
   ],
-  "updatedAt": "2026-03-09T11:03:23.496Z"
+  "updatedAt": "2026-03-09T14:12:52.996Z"
 }
