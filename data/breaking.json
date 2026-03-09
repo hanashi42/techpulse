@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d3a94c31f6d8213d",
+      "title": "Why China can withstand oil's surge past $100 more easily than other countries",
+      "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-03-09T07:15:58.666Z",
+      "pushedAt": "2026-03-09T07:15:58.666Z"
+    },
+    {
       "id": "2523bfe2b4852a43",
       "title": "Shares skid as oil surge threatens inflation shock - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGYxOUxvQ1c5Z0VoOGgzSEVGRFZ5MDZQMEFwekFUTzZodllydGZ2d3hST3IyT3cwQWhXUElsSWthcFU0Mk1DZm1HaDcyYmZ2b2FTTTlHWFhUNW9wQjRVYUVLTG9sNWFpS2owY0dIdmIxTlpXcXVKRHc5YXlsT2FJbThidw?oc=5",
@@ -133,141 +145,7 @@
       ],
       "firstSeen": "2026-03-08T07:31:12.887Z",
       "pushedAt": "2026-03-08T07:31:12.887Z"
-    },
-    {
-      "id": "740e7ab9b5be9a99",
-      "title": "Oil prices are soaring, but Trump is downplaying the need to tap the Strategic Petroleum Reserve - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY19GUFpQckdURGwwdUlRNHRCRVZrci1TdUt2SFQydUoxamhZWE5QMUNHNTI0cXJEakIxYUNFMVFzcWpnUE1qWklRSnMxUDhLbExoVkl5SW41czN5TFg3dDcyNHVKSC1GZzNleHM2cHo3MHdIRG41Wmp4ZWtqenJlM29ZbURoVWk3bmtBVHNTVFFXd3RPRmh2akNxNDZzWjhnS2dTZw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-03-08T06:54:35.693Z",
-      "pushedAt": "2026-03-08T06:54:35.693Z"
-    },
-    {
-      "id": "08f3739d59367647",
-      "title": "States led by New York sue to block Trump's latest tariffs, calling them an illegal end run around Supreme Court",
-      "url": "https://www.cnbc.com/2026/03/05/trump-tariffs-state-ags-sue-supreme-court-decision.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-03-08T06:54:35.965Z",
-      "pushedAt": "2026-03-08T06:54:35.965Z"
-    },
-    {
-      "id": "9ae3b3905e6b8b46",
-      "title": "US May Lift Sanctions On Additional Russian Oil To Ease Global Supply Gap: Treasury Chief - bernama",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4bFRuOV95VVdydlEybTVzWVFRbTh1U2dxcEU2MDEzbmJKNnFKT1hqQlpUWXprTWVIZ3lLUDNmVWphZlpkV1FRWnp6a0w5Z1VzT1A0RzJkakJMV2lEeUlxVUlPVFZScUNpaGozYW9hMGc?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-03-08T06:54:36.207Z",
-      "pushedAt": "2026-03-08T06:54:36.207Z"
-    },
-    {
-      "id": "acf3149295ca719e",
-      "title": "Explosion reported outside US embassy in Oslo, police say",
-      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + embassy"
-      ],
-      "firstSeen": "2026-03-08T06:38:32.822Z",
-      "pushedAt": "2026-03-08T06:38:32.822Z"
-    },
-    {
-      "id": "af221380ea78f7e4",
-      "title": "Iran war live: Trump again demands surrender; Israel bombs oil depots",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs ",
-        "surrender"
-      ],
-      "firstSeen": "2026-03-08T06:38:32.947Z",
-      "pushedAt": "2026-03-08T06:38:32.947Z"
-    },
-    {
-      "id": "608ecf2de8a767c1",
-      "title": "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
-      "url": "https://www.aljazeera.com/news/2026/3/7/us-embassy-in-baghdad-attacked-as-us-israel-war-on-iran-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + embassy"
-      ],
-      "firstSeen": "2026-03-08T06:38:33.025Z",
-      "pushedAt": "2026-03-08T06:38:33.025Z"
-    },
-    {
-      "id": "9ae5c8c0c6d82488",
-      "title": "Doctors try to save girl as father was killed in Gaza Israeli attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/doctors-try-to-save-girl-as-father-was-killed-in-gaza-israeli-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-08T06:38:33.051Z",
-      "pushedAt": "2026-03-08T06:38:33.051Z"
-    },
-    {
-      "id": "acf3149295ca719e",
-      "title": "Explosion reported outside US embassy in Oslo, police say",
-      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + embassy"
-      ],
-      "firstSeen": "2026-03-08T06:15:03.548Z",
-      "pushedAt": "2026-03-08T06:15:03.548Z"
-    },
-    {
-      "id": "af221380ea78f7e4",
-      "title": "Iran war live: Trump again demands surrender; Israel bombs oil depots",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/8/iran-live-israel-bombs-tehran-oil-depots-attacks-on-gulf-states-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs ",
-        "surrender"
-      ],
-      "firstSeen": "2026-03-08T06:15:03.822Z",
-      "pushedAt": "2026-03-08T06:15:03.822Z"
-    },
-    {
-      "id": "608ecf2de8a767c1",
-      "title": "US embassy in Baghdad attacked as US-Israel war on Iran escalates",
-      "url": "https://www.aljazeera.com/news/2026/3/7/us-embassy-in-baghdad-attacked-as-us-israel-war-on-iran-escalates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + embassy"
-      ],
-      "firstSeen": "2026-03-08T06:15:04.028Z",
-      "pushedAt": "2026-03-08T06:15:04.028Z"
-    },
-    {
-      "id": "9ae5c8c0c6d82488",
-      "title": "Doctors try to save girl as father was killed in Gaza Israeli attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/doctors-try-to-save-girl-as-father-was-killed-in-gaza-israeli-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-08T06:15:04.115Z",
-      "pushedAt": "2026-03-08T06:15:04.115Z"
     }
   ],
-  "updatedAt": "2026-03-09T06:09:47.967Z"
+  "updatedAt": "2026-03-09T07:15:59.066Z"
 }
