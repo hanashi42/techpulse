@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "004186806bf158bf",
+      "title": "Oil prices jump above $100 for first time in four years",
+      "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-03-09T00:57:07.232Z",
+      "pushedAt": "2026-03-09T00:57:07.232Z"
+    },
+    {
       "id": "6e8352dbc718ded0",
       "title": "Iranian army says at least 104 killed in US attack on Iranian warship last week - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEJDVWs4R1V5NzFqSDhmdWcxUnJ3WjRITE5mckxqdllXekRTODVJUnJGcVVvWXNjRjF5T1pya0pHdDdHYkdWMHNCcjhKcHhZZ1B2VXo5VzE3WDg2Nkctci1jMGROd2J5RUZkSC1rRy1SdEctWnctRnFyUVFPbWotZW1OWHQ1WmpmdXVzX1VsLUZjWVlFTzh2cFg3RXA1OGprQVJrWjlLYVhnSWl0RnEyUkQ4MlIxdExyMGlhS0FWY05wT00?oc=5",
@@ -232,5 +244,5 @@
       "pushedAt": "2026-03-08T06:15:04.115Z"
     }
   ],
-  "updatedAt": "2026-03-08T19:40:21.323Z"
+  "updatedAt": "2026-03-09T00:57:07.547Z"
 }
