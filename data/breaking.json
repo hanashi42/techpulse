@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "747f219f88639302",
+      "title": "How might Trump combat the spike in oil prices? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkY0Z2ZWVXB0a2FsZ1h4akpfaWtMYW1MNXBQQ056NERMb3BmcDBkeExXcmlsY1FCUzFEVE5HZ05FNWt2X3FGdWJpMTVWdmgzWVo0SnlUYnJCZ0w5SFZBSGJXWVVLN1RUOGdUYmcyUVBHZ2RzTE1qOGlKclBVRm5ybnFybVcyY2ZyUkJESA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + spike"
+      ],
+      "firstSeen": "2026-03-09T21:55:05.328Z",
+      "pushedAt": "2026-03-09T21:55:05.328Z"
+    },
+    {
       "id": "a1cf019cd872d192",
       "title": "Turkey's Halkbank settles US criminal case over Iran sanctions violations - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdWpHN3FWTENPdkZjdUZsbjB1S1k0TTJLX091aFpYakp5MWlEWHN2WHZjenBvemdvT3VrX1FvcVZPdTRxTkFqTXFheG1mUEJsYlU4cGZESFFRTm16T1JOM1JEMjdfS1ZxR185OUE2bFNzck5MT0d3Q3dYRGoxclNtWFVuRktPQkF4MUxlUkZLMUp5MmNSa1BER3Jlai1NSDZPMFJSTE8wdE5idGgtLXdKQ3dBMWZfcUxzdS16VmlPaTRMZ1dZUWdic2ZKbE81QQ?oc=5",
@@ -291,5 +303,5 @@
       "pushedAt": "2026-03-09T00:57:07.232Z"
     }
   ],
-  "updatedAt": "2026-03-09T20:27:17.976Z"
+  "updatedAt": "2026-03-09T21:55:05.529Z"
 }
