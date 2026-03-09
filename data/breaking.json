@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4bd46c7784bc5143",
+      "title": "Fear and Hope for Iranians Trapped Between Bombs and Defiant Rulers",
+      "url": "https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-09T10:12:56.377Z",
+      "pushedAt": "2026-03-09T10:12:56.377Z"
+    },
+    {
       "id": "ab1ed56777ebc385",
       "title": "From Tokyo to Sydney, bonds plunge as oil breaches $115 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2dVa3N3VkJrX3BaaVU3UXZQZWc0SlludmNOOFNJTTJqMGktbEkxV0ppSkJGY3VpUU9BX0E4eWpiRjQ4Qmw3S0hPYjJkUnQ1TWxVRGNEQmN1TDRyTENmdVJsc1ZHenQxZUE2QmZ0X2JMbEdLdUlxZG1HYXJXZU8zN251UWVnYlg4QmQ0WUFlOXk1c0ZUNjlQSkJDTWVuX1BXYXN3NjVlZzN0M2JT?oc=5",
@@ -232,5 +244,5 @@
       "pushedAt": "2026-03-08T10:31:57.295Z"
     }
   ],
-  "updatedAt": "2026-03-09T09:30:20.314Z"
+  "updatedAt": "2026-03-09T10:12:56.701Z"
 }
