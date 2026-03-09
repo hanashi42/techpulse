@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3ca338eb238bc170",
+      "title": "Homemade bombs thrown outside New York mayor's house being investigated as terrorism",
+      "url": "https://news.sky.com/story/new-york-police-investigate-homemade-bomb-thrown-at-anti-muslim-protest-outside-mayor-mamdanis-house-as-terrorist-incident-13517146",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-09T17:08:23.611Z",
+      "pushedAt": "2026-03-09T17:08:23.611Z"
+    },
+    {
       "id": "cb45bae66f0eda70",
       "title": "Turkey says second Iranian ballistic missile shot down by NATO defences in airspace - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaHF5eER2d1VGSDRaYlo0bm0wSGhlcjMxZ2g5VzdHc2tjS3pVU0JBVkRtQ0kxMmMxX2ltOUhFdDlhZi1FR014enA2T1FJR2JmaXEyd3Q2Zjl3c1ZOaVZCb0lfX3IxbTZKS0FGT2FLVEhGdjNPSEdHSlVzanJyaXlCRXB5eDNranRpTXcwcTZCekNVSWlsWS1DQzgtRXhCby1JcXJjSFVBWVVDa21sS2xhSGxHbTRkT3V6Sl9PVlJrR3JNclRSbHNZSw?oc=5",
@@ -289,44 +301,7 @@
       ],
       "firstSeen": "2026-03-08T18:57:38.018Z",
       "pushedAt": "2026-03-08T18:57:38.018Z"
-    },
-    {
-      "id": "b0b07a3a6b4e8bbd",
-      "title": "Israel escalates attacks across Lebanon as two soldiers killed",
-      "url": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-08T17:01:03.236Z",
-      "pushedAt": "2026-03-08T17:01:03.236Z"
-    },
-    {
-      "id": "b13115100188020a",
-      "title": "Oil price surge could boost these Chinese stocks, Goldman says - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVS11dXJTNENNYkJUWmxBd1pHX2ZVdzVjMTh5cVdlYWx3cEh0UVplZnhDRVVCejJxUGVwM3J0bUlNLUljM3dvclZHWl9kWFo2aUZxMlhxWjhDaWRfT05NTXluRE41TEVJZVF0N1BHclVHbjZTa2dvVEtUNU94djBIM2NIWjkyVEdyRVZLNTliMW96c1ljdkNFdHZWNEZMYUV0?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-03-08T15:54:46.522Z",
-      "pushedAt": "2026-03-08T15:54:46.522Z"
-    },
-    {
-      "id": "29ecbbe30f42936d",
-      "title": "China Bolsters Naval Presence in Strait of Hormuz Amid US Pressure on Iran and Venezuela - Modern Diplomacy",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTnl4RVptaGQzS0dCR2ZJdUozZUlGSE1lVUR1ZjMwZlNackVqUkhtSHhUdUtoS21aNTZYdGNoZG4yY2NMU1V2QlotUkR5WnhPajBsZVBoNVNKT2hsMXZOaklFOEJsd29MdVlPYUJVNzlwVk9RWktKQXZKOHZNYWN4aWlVMFFhNjh3UndaNEVIS2pWVUI2ZWs1WGhkQ0Z2WHg0SDVUSjNkelJ4bDQ2X282eTBZcnpvdUlLbWlUTHFTOW10d3lvMVE?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + naval"
-      ],
-      "firstSeen": "2026-03-08T15:42:15.703Z",
-      "pushedAt": "2026-03-08T15:42:15.703Z"
     }
   ],
-  "updatedAt": "2026-03-09T14:12:52.996Z"
+  "updatedAt": "2026-03-09T17:08:23.878Z"
 }
