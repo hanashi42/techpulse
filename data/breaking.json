@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "2523bfe2b4852a43",
+      "title": "Shares skid as oil surge threatens inflation shock - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGYxOUxvQ1c5Z0VoOGgzSEVGRFZ5MDZQMEFwekFUTzZodllydGZ2d3hST3IyT3cwQWhXUElsSWthcFU0Mk1DZm1HaDcyYmZ2b2FTTTlHWFhUNW9wQjRVYUVLTG9sNWFpS2owY0dIdmIxTlpXcXVKRHc5YXlsT2FJbThidw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "inflation + surge"
+      ],
+      "firstSeen": "2026-03-09T06:09:47.706Z",
+      "pushedAt": "2026-03-09T06:09:47.706Z"
+    },
+    {
       "id": "3cd3a4f9dc7ea3e1",
       "title": "Shots fired at Rihanna's house in Beverly Hills, no injuries reported, media say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXVTbVNaM21qd1M3S3g5Uk5WV3RUcFNfcHA3ZGdDMkZJa0RpNEYxYlVGSV96em5pc1pPRWttcHpiV0p5WWpaWnMzZjdGamNBNUNobFFyeUJwc2dRaTgyRkJwZmlFVzQwSnRvYlAxUzFiRXk1N1doN3JpV01IaENuekRkMDVnUG9reWlRTjFZbTJiQzgzaGdUeFpzSTFYOUJseUVTaFF0ZjZFaHA2bTBMOGUzd2lHdFo3a1NDY2N3c0ZuYzR1YTJVZVZ3?oc=5",
@@ -256,5 +269,5 @@
       "pushedAt": "2026-03-08T06:15:04.115Z"
     }
   ],
-  "updatedAt": "2026-03-09T05:09:06.188Z"
+  "updatedAt": "2026-03-09T06:09:47.967Z"
 }
