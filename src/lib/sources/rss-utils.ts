@@ -105,10 +105,14 @@ export async function fetchRSSFeed(config: RSSFeedConfig): Promise<NewsItem[]> {
     const parsed = parser.parse(xml);
     const rawItems = extractItems(parsed);
 
+    const cutoff = Date.now() - 48 * 60 * 60 * 1000; // 48 hours ago
+
     return rawItems.slice(0, limit).map((item, idx) => {
       const title = extractText(item.title);
       const description = extractText(item.description ?? item.summary ?? item.content);
       const link = getLink(item);
+      const pubDateStr = (item.pubDate ?? item.published ?? item.updated) as string | undefined;
+      const pubDate = pubDateStr ? new Date(pubDateStr).getTime() : NaN;
 
       return {
         id: `${source}-${createHash("sha256").update(link || title).digest("hex").slice(0, 12)}`,
@@ -119,8 +123,13 @@ export async function fetchRSSFeed(config: RSSFeedConfig): Promise<NewsItem[]> {
         category: categorize(title, description, defaultCategory),
         description: description.slice(0, 200) || undefined,
         fetchedAt: now,
+        _pubDate: pubDate,
       };
-    });
+    }).filter((item) => {
+      // Drop articles with a valid pubDate older than 48h
+      if (!isNaN(item._pubDate) && item._pubDate < cutoff) return false;
+      return true;
+    }).map(({ _pubDate, ...item }) => item);
   } catch (err) {
     console.error(`RSS ${source} ${url} failed:`, err);
     return [];

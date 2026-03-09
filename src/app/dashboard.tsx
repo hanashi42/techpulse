@@ -399,7 +399,7 @@ export default function Dashboard({
 
       {/* Breaking news bar */}
       {breakingData.items.length > 0 && (
-        <div className="mb-4 rounded-lg border border-red-500/30 bg-red-950/20 p-3">
+        <div className="mb-4 rounded-lg border border-red-500/20 bg-zinc-900/90 p-3">
           <div className="mb-2 flex items-center gap-2 text-sm font-bold text-red-400">
             <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-red-500" />
             BREAKING
@@ -411,11 +411,11 @@ export default function Dashboard({
                 href={item.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="block text-sm text-red-200 hover:text-white transition-colors"
+                className="block text-sm text-gray-100 hover:text-white transition-colors"
               >
-                <span className="text-red-500/60 text-xs mr-1">[{item.priority}]</span>
+                <span className="text-red-400/70 text-xs mr-1">[{item.priority}]</span>
                 {item.title}
-                <span className="text-red-500/40 text-xs ml-2">{item.source}</span>
+                <span className="text-gray-500 text-xs ml-2">{item.source}</span>
               </a>
             ))}
           </div>
