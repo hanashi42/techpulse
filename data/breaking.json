@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a1cf019cd872d192",
+      "title": "Turkey's Halkbank settles US criminal case over Iran sanctions violations - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdWpHN3FWTENPdkZjdUZsbjB1S1k0TTJLX091aFpYakp5MWlEWHN2WHZjenBvemdvT3VrX1FvcVZPdTRxTkFqTXFheG1mUEJsYlU4cGZESFFRTm16T1JOM1JEMjdfS1ZxR185OUE2bFNzck5MT0d3Q3dYRGoxclNtWFVuRktPQkF4MUxlUkZLMUp5MmNSa1BER3Jlai1NSDZPMFJSTE8wdE5idGgtLXdKQ3dBMWZfcUxzdS16VmlPaTRMZ1dZUWdic2ZKbE81QQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-03-09T20:27:17.841Z",
+      "pushedAt": "2026-03-09T20:27:17.841Z"
+    },
+    {
       "id": "3ca338eb238bc170",
       "title": "Homemade bombs thrown outside New York mayor's house being investigated as terrorism",
       "url": "https://news.sky.com/story/new-york-police-investigate-homemade-bomb-thrown-at-anti-muslim-protest-outside-mayor-mamdanis-house-as-terrorist-incident-13517146",
@@ -277,31 +289,7 @@
       ],
       "firstSeen": "2026-03-09T00:57:07.232Z",
       "pushedAt": "2026-03-09T00:57:07.232Z"
-    },
-    {
-      "id": "6e8352dbc718ded0",
-      "title": "Iranian army says at least 104 killed in US attack on Iranian warship last week - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEJDVWs4R1V5NzFqSDhmdWcxUnJ3WjRITE5mckxqdllXekRTODVJUnJGcVVvWXNjRjF5T1pya0pHdDdHYkdWMHNCcjhKcHhZZ1B2VXo5VzE3WDg2Nkctci1jMGROd2J5RUZkSC1rRy1SdEctWnctRnFyUVFPbWotZW1OWHQ1WmpmdXVzX1VsLUZjWVlFTzh2cFg3RXA1OGprQVJrWjlLYVhnSWl0RnEyUkQ4MlIxdExyMGlhS0FWY05wT00?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-08T19:40:20.805Z",
-      "pushedAt": "2026-03-08T19:40:20.805Z"
-    },
-    {
-      "id": "44ba7d784e82e615",
-      "title": "Iraqi oil production collapses with Strait of Hormuz blocked by conflict, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2xXWVozc3NRRks5Zl9BdlE1SGV0aWVHRlFnc09QdTNxbVZ1d1pDV0UyTzJXSEF1cksyck1ISzFEb0lJLTA1Ukw2aVBTUU11d0hHbnBIZE5RUFp3bVJwU1FSbnlPcTNEM0doMFZtdGxVbFZyWW9iamZIa2xBQktYbWxPei04U09TNjd0X2ExRXY3VTZxelNNZ2NrZzNzNU5ieGNHSUFqUlkwNGM4Z0FSam9ibWFEWWZFZDhBNDlhTkZNSE1fdTZkUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + blocked"
-      ],
-      "firstSeen": "2026-03-08T18:57:38.018Z",
-      "pushedAt": "2026-03-08T18:57:38.018Z"
     }
   ],
-  "updatedAt": "2026-03-09T17:08:23.878Z"
+  "updatedAt": "2026-03-09T20:27:17.976Z"
 }
