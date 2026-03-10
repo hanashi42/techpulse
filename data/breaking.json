@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "39c2ed3fdc8fe3ed",
+      "title": "Faisal Islam: Trump comments may have eased oil price surge, but havoc remains",
+      "url": "https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-03-10T06:58:07.418Z",
+      "pushedAt": "2026-03-10T06:58:07.418Z"
+    },
+    {
+      "id": "541e5810e8cfaca1",
+      "title": "China exports surge in first two months of the year despite Trump tariffs",
+      "url": "https://www.bbc.com/news/articles/c3dzymj4yz7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-03-10T06:58:07.658Z",
+      "pushedAt": "2026-03-10T06:58:07.658Z"
+    },
+    {
       "id": "9fb9331848eca99d",
       "title": "FMM Calls For Export Crisis Task Force Amid Strait Of Hormuz Disruptions - bernama",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56UlJJTzBaSWlubWpYeWwyd3J6OWp2YV8tcWg2ZWtQWU9UUEdlZUhPMHJqemxuMUdka21wU2F2blZ1V2JIUGR2R2Q4a195QVlGRE1uZjBFYXNKOWd6VDlnUzFHMA?oc=5",
@@ -337,20 +362,7 @@
       ],
       "firstSeen": "2026-03-09T07:15:58.666Z",
       "pushedAt": "2026-03-09T07:15:58.666Z"
-    },
-    {
-      "id": "2523bfe2b4852a43",
-      "title": "Shares skid as oil surge threatens inflation shock - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGYxOUxvQ1c5Z0VoOGgzSEVGRFZ5MDZQMEFwekFUTzZodllydGZ2d3hST3IyT3cwQWhXUElsSWthcFU0Mk1DZm1HaDcyYmZ2b2FTTTlHWFhUNW9wQjRVYUVLTG9sNWFpS2owY0dIdmIxTlpXcXVKRHc5YXlsT2FJbThidw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "inflation + surge"
-      ],
-      "firstSeen": "2026-03-09T06:09:47.706Z",
-      "pushedAt": "2026-03-09T06:09:47.706Z"
     }
   ],
-  "updatedAt": "2026-03-10T05:17:04.232Z"
+  "updatedAt": "2026-03-10T06:58:07.875Z"
 }
