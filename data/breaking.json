@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4cf1274aa2b15069",
+      "title": "U.S. Eases Limits on Russian Energy as Oil Prices Soar",
+      "url": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-putin-russia-energy-oil-prices.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + oil"
+      ],
+      "firstSeen": "2026-03-10T15:38:19.382Z",
+      "pushedAt": "2026-03-10T15:38:19.383Z"
+    },
+    {
       "id": "c6ac66436695149a",
       "title": "India eases investment restrictions on China, Economic Times reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmhNQnM2cEh5NWxjSndMRDBzNjNWd0hhREI3akt0UDltRHk4WlpOamdLWmFkMFFGTTNEa3lwRzZYVWRpbWxKUTRaT0x4Z25qWnRSTTNJX1JBb3YwWVZPbzRoLUhHd3M1MENoRkx3U1dRMGtlMk5sbW1JNU9OQi1PN29MWlVhMGJqLUQ2enNvTjNEZlhCdV9hQ2pfejBCUTh3UFNoY2pQd1g?oc=5",
@@ -282,5 +294,5 @@
       "pushedAt": "2026-03-09T17:08:23.611Z"
     }
   ],
-  "updatedAt": "2026-03-10T14:35:17.793Z"
+  "updatedAt": "2026-03-10T15:38:19.702Z"
 }
