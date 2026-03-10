@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4bd46c7784bc5143",
+      "title": "Fear and Hope for Iranians Trapped Between Bombs and Defiant Rulers",
+      "url": "https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-10T11:56:53.095Z",
+      "pushedAt": "2026-03-10T11:56:53.095Z"
+    },
+    {
+      "id": "2476bfd947466be0",
+      "title": "Shots Fired at U.S. Consulate in Toronto, Police Say",
+      "url": "https://www.nytimes.com/2026/03/10/world/canada/us-consulate-toronto-shots.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "shots fired at"
+      ],
+      "firstSeen": "2026-03-10T11:56:53.796Z",
+      "pushedAt": "2026-03-10T11:56:53.796Z"
+    },
+    {
       "id": "be22f71e5d278c76",
       "title": "Iranian missile strikes central Israel amid escalating attacks",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/iranian-missile-strikes-central-israel-amid-escalating-attacks?traffic_source=rss",
@@ -270,5 +294,5 @@
       "pushedAt": "2026-03-09T14:12:52.926Z"
     }
   ],
-  "updatedAt": "2026-03-10T11:32:01.562Z"
+  "updatedAt": "2026-03-10T11:56:54.034Z"
 }
