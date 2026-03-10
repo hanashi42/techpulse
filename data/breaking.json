@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3631399b83cf0f24",
+      "title": "Airlines start broader fare hikes on fuel price surge, shares stabilise - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUVRWnl1Y3VLRGVfcktnZGR0N1QyZkhYU2pyTlZuV1VDQjIyTTRhV1FHOWpGUTFWSFZ1MVRQX0oybGhTVXM3djZocFRjUmRYQ3JRblN3eHAxdGQ2TzVlVWlyM3c4R1hTN1F5YkM0ZjV4dnUtVGpnaTk0RXY0OVB0MG9wN3ZLQnY2UTVleTlDMjQyQzcwTHBpVlNUbTRyVlBWc0tlcEVtc3dPdGIzZUU3UmpyYnF1LUt6MXBF?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-03-10T07:38:41.433Z",
+      "pushedAt": "2026-03-10T07:38:41.433Z"
+    },
+    {
       "id": "39c2ed3fdc8fe3ed",
       "title": "Faisal Islam: Trump comments may have eased oil price surge, but havoc remains",
       "url": "https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&at_campaign=rss",
@@ -350,19 +362,7 @@
       ],
       "firstSeen": "2026-03-09T07:57:46.449Z",
       "pushedAt": "2026-03-09T07:57:46.449Z"
-    },
-    {
-      "id": "d3a94c31f6d8213d",
-      "title": "Why China can withstand oil's surge past $100 more easily than other countries",
-      "url": "https://www.cnbc.com/2026/03/09/china-oil-shock-iran-war-hormuz-energy-transition.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-03-09T07:15:58.666Z",
-      "pushedAt": "2026-03-09T07:15:58.666Z"
     }
   ],
-  "updatedAt": "2026-03-10T06:58:07.875Z"
+  "updatedAt": "2026-03-10T07:38:41.578Z"
 }
