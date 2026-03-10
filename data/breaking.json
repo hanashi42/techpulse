@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "9fb9331848eca99d",
+      "title": "FMM Calls For Export Crisis Task Force Amid Strait Of Hormuz Disruptions - bernama",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56UlJJTzBaSWlubWpYeWwyd3J6OWp2YV8tcWg2ZWtQWU9UUEdlZUhPMHJqemxuMUdka21wU2F2blZ1V2JIUGR2R2Q4a195QVlGRE1uZjBFYXNKOWd6VDlnUzFHMA?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption"
+      ],
+      "firstSeen": "2026-03-10T05:17:04.114Z",
+      "pushedAt": "2026-03-10T05:17:04.114Z"
+    },
+    {
       "id": "807c07b06a852970",
       "title": "German publishers reject Apple's revised app tracking rules, urge antitrust fine - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEJ5enFoeWtRQ3E3NWpwbTQzbG5EU1QwbERwYTVRcXpPVlBTQWNrVHlldkRub2FyTkp1RFAwbDV0b1VOY3dOX3Iyb05XenVGUTNLcmxXUHpjSmI2OHRvRU9pelV5NTk4bjNXMUZTRTRNTkVKaHhaclpDS2otOVN6X3Z6YmFsVndqWjdFc0M5a0NLcXBySnM1UnBmT3NEZWVfb1dhQWdaMERmLU44WnlHeF9jZ2E4XzJJN3phRUsxdC1JTHYyQlYxb1B6SQ?oc=5",
@@ -338,19 +350,7 @@
       ],
       "firstSeen": "2026-03-09T06:09:47.706Z",
       "pushedAt": "2026-03-09T06:09:47.706Z"
-    },
-    {
-      "id": "3cd3a4f9dc7ea3e1",
-      "title": "Shots fired at Rihanna's house in Beverly Hills, no injuries reported, media say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXVTbVNaM21qd1M3S3g5Uk5WV3RUcFNfcHA3ZGdDMkZJa0RpNEYxYlVGSV96em5pc1pPRWttcHpiV0p5WWpaWnMzZjdGamNBNUNobFFyeUJwc2dRaTgyRkJwZmlFVzQwSnRvYlAxUzFiRXk1N1doN3JpV01IaENuekRkMDVnUG9reWlRTjFZbTJiQzgzaGdUeFpzSTFYOUJseUVTaFF0ZjZFaHA2bTBMOGUzd2lHdFo3a1NDY2N3c0ZuYzR1YTJVZVZ3?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "shots fired at"
-      ],
-      "firstSeen": "2026-03-09T05:09:05.797Z",
-      "pushedAt": "2026-03-09T05:09:05.797Z"
     }
   ],
-  "updatedAt": "2026-03-10T04:21:05.868Z"
+  "updatedAt": "2026-03-10T05:17:04.232Z"
 }
