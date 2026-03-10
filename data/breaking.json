@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3a0da0085b33a958",
+      "title": "Spirit Airlines to recall furloughed pilots to combat attrition as carrier eyes bankruptcy exit",
+      "url": "https://www.cnbc.com/2026/03/10/spirit-airlines-pilots-bankruptcy.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "bankrupt + bank"
+      ],
+      "firstSeen": "2026-03-10T12:42:32.319Z",
+      "pushedAt": "2026-03-10T12:42:32.319Z"
+    },
+    {
+      "id": "b5565e26b3134fba",
+      "title": "Iranian People's Freedom, Rights Cannot Be Achieved 'Through Bombs' -- EU Council Chief - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TVE9nTEtHUGdkcExES1RDWlpNbVI1SmhYeGpCVWkxcjZja1NCVExOMDlMNHEzQ0MzdkNTMHBpSW9Pa2RYd0k1cFJScXRxS1prM3pzRFlTeUZXUnVxNFlZYjFB?oc=5",
+      "source": "Bernama",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-10T12:42:32.461Z",
+      "pushedAt": "2026-03-10T12:42:32.461Z"
+    },
+    {
       "id": "4bd46c7784bc5143",
       "title": "Fear and Hope for Iranians Trapped Between Bombs and Defiant Rulers",
       "url": "https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html",
@@ -294,5 +318,5 @@
       "pushedAt": "2026-03-09T14:12:52.926Z"
     }
   ],
-  "updatedAt": "2026-03-10T11:56:54.034Z"
+  "updatedAt": "2026-03-10T12:42:32.548Z"
 }
