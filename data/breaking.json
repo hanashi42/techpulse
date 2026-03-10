@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c6ac66436695149a",
+      "title": "India eases investment restrictions on China, Economic Times reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmhNQnM2cEh5NWxjSndMRDBzNjNWd0hhREI3akt0UDltRHk4WlpOamdLWmFkMFFGTTNEa3lwRzZYVWRpbWxKUTRaT0x4Z25qWnRSTTNJX1JBb3YwWVZPbzRoLUhHd3M1MENoRkx3U1dRMGtlMk5sbW1JNU9OQi1PN29MWlVhMGJqLUQ2enNvTjNEZlhCdV9hQ2pfejBCUTh3UFNoY2pQd1g?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-03-10T14:35:17.601Z",
+      "pushedAt": "2026-03-10T14:35:17.601Z"
+    },
+    {
       "id": "3a0da0085b33a958",
       "title": "Spirit Airlines to recall furloughed pilots to combat attrition as carrier eyes bankruptcy exit",
       "url": "https://www.cnbc.com/2026/03/10/spirit-airlines-pilots-bankruptcy.html",
@@ -268,55 +280,7 @@
       ],
       "firstSeen": "2026-03-09T17:08:23.611Z",
       "pushedAt": "2026-03-09T17:08:23.611Z"
-    },
-    {
-      "id": "cb45bae66f0eda70",
-      "title": "Turkey says second Iranian ballistic missile shot down by NATO defences in airspace - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaHF5eER2d1VGSDRaYlo0bm0wSGhlcjMxZ2g5VzdHc2tjS3pVU0JBVkRtQ0kxMmMxX2ltOUhFdDlhZi1FR014enA2T1FJR2JmaXEyd3Q2Zjl3c1ZOaVZCb0lfX3IxbTZKS0FGT2FLVEhGdjNPSEdHSlVzanJyaXlCRXB5eDNranRpTXcwcTZCekNVSWlsWS1DQzgtRXhCby1JcXJjSFVBWVVDa21sS2xhSGxHbTRkT3V6Sl9PVlJrR3JNclRSbHNZSw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + missile"
-      ],
-      "firstSeen": "2026-03-09T14:12:52.240Z",
-      "pushedAt": "2026-03-09T14:12:52.240Z"
-    },
-    {
-      "id": "8617f9fdb89faaf6",
-      "title": "Hungary asks EU to suspend sanctions on Russian energy - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzVjcWhIRmh4MUlsTS1tOW5pZk1EaHFadU9HZUNCMU4zbExkcTc3bWhZWGVqR0lMQlhoM2ZPTzFxUExJYnBEUFBiYkNmQTBZTnlYUmZOWUZnb21Dd1lHMHd5elhXUFFUakhfQ2l0OUxWeGwtT283VVVxVURndE5Cb3VPUjZSeWpsVjlub3hBNmFUT3hUSEpCM3E0eU1RaGtmRV9MY0wtbU1rVHowaUE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-03-09T14:12:52.642Z",
-      "pushedAt": "2026-03-09T14:12:52.642Z"
-    },
-    {
-      "id": "34109c6cb65a9eab",
-      "title": "Wall st opens lower as soaring crude prices fan inflation worries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ25yUEVjdzA5eDR6QmJUYThwbHc0Rk9KYXRpcFVMNnYwZkZsYXQ0S1g2RXExRTVhbGFzMHV6dDE5ZHhHdjhfV0VUTkNMdmtMaUpVZTFOQ3h0WEhwM05xNV84STRSSjREUF9Ka204QVZ4WEtCUXZsZWY3c3h3My1zUEdBdTRTc3Q3ek1NVXdBYjJ5UFZHcUd1aU11ay01emx2S0JIeWVTU2tfQzA3Ti1qSTEwQlJ2eVVtbW5z?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + inflation"
-      ],
-      "firstSeen": "2026-03-09T14:12:52.843Z",
-      "pushedAt": "2026-03-09T14:12:52.843Z"
-    },
-    {
-      "id": "278a13d64a0af65d",
-      "title": "The U.S.-Iran war is the biggest oil supply disruption in history",
-      "url": "https://www.cnbc.com/2026/03/09/the-us-iran-war-is-the-biggest-oil-supply-disruption-in-history.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-03-09T14:12:52.926Z",
-      "pushedAt": "2026-03-09T14:12:52.926Z"
     }
   ],
-  "updatedAt": "2026-03-10T12:42:32.548Z"
+  "updatedAt": "2026-03-10T14:35:17.793Z"
 }
