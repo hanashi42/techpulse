@@ -1,6 +1,57 @@
 {
   "items": [
     {
+      "id": "b5aa683325c70231",
+      "title": "Asian shares surge, echoing a rally on Wall Street as oil prices sank back to about $90 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDRoVE1BTThTOGpwOEY5VGxzbU5XQWF1TW5HbFdMYmZpbWVrLWZYazNYZ1hVUVRtd3Q3Q2RrV2o5VWwtd19yTnpMZlRPU0w2WWE4eUJmQkNjNXVJQ1VPWXp2WERjNnBXMHJralFkX3I5dzB4Qzd2d29SM2JkY0FxeWxkVnFuVEwyVEt3T0FhLWM0MF9qQmFz?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "rally + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-03-10T09:37:20.185Z",
+      "pushedAt": "2026-03-10T09:37:20.185Z"
+    },
+    {
+      "id": "7e88b69cc55e3776",
+      "title": "Police release images of Oslo US embassy explosion suspect",
+      "url": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + embassy"
+      ],
+      "firstSeen": "2026-03-10T09:37:20.283Z",
+      "pushedAt": "2026-03-10T09:37:20.283Z"
+    },
+    {
+      "id": "0fc53669cfd4a504",
+      "title": "Gaza food prices soar as crossing closures deepen shortages amid Iran war",
+      "url": "https://www.aljazeera.com/news/2026/3/10/gaza-food-prices-soar-as-border-closures-deepen-shortages-amid-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price",
+        "shortage + food"
+      ],
+      "firstSeen": "2026-03-10T09:37:20.369Z",
+      "pushedAt": "2026-03-10T09:37:20.369Z"
+    },
+    {
+      "id": "baf6df80d94eec34",
+      "title": "Prediction markets face questions on Iran war bets, from regime change to nuclear detonation",
+      "url": "https://www.cnbc.com/2026/03/09/prediction-markets-wagers-bets-iran-war-kalshi-polymarket.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "nuclear detonation"
+      ],
+      "firstSeen": "2026-03-10T09:37:20.404Z",
+      "pushedAt": "2026-03-10T09:37:20.404Z"
+    },
+    {
       "id": "86ce3550d5e049d7",
       "title": "European stocks jump 2% as sliding oil prices buoy sentiment",
       "url": "https://www.cnbc.com/2026/03/10/european-markets-stoxx-600-ftse-dax-cac-iran-war-latest-news.html",
@@ -265,19 +316,7 @@
       ],
       "firstSeen": "2026-03-09T10:12:56.377Z",
       "pushedAt": "2026-03-09T10:12:56.377Z"
-    },
-    {
-      "id": "ab1ed56777ebc385",
-      "title": "From Tokyo to Sydney, bonds plunge as oil breaches $115 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2dVa3N3VkJrX3BaaVU3UXZQZWc0SlludmNOOFNJTTJqMGktbEkxV0ppSkJGY3VpUU9BX0E4eWpiRjQ4Qmw3S0hPYjJkUnQ1TWxVRGNEQmN1TDRyTENmdVJsc1ZHenQxZUE2QmZ0X2JMbEdLdUlxZG1HYXJXZU8zN251UWVnYlg4QmQ0WUFlOXk1c0ZUNjlQSkJDTWVuX1BXYXN3NjVlZzN0M2JT?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + oil"
-      ],
-      "firstSeen": "2026-03-09T09:30:19.986Z",
-      "pushedAt": "2026-03-09T09:30:19.986Z"
     }
   ],
-  "updatedAt": "2026-03-10T08:57:04.127Z"
+  "updatedAt": "2026-03-10T09:37:20.445Z"
 }
