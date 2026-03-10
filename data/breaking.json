@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "17d5e3c2fa279b53",
+      "title": "Trump says US is waiving certain oil-related sanctions to ensure supply - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2hoRHduMmoyTDE5d09iS3VQTWtpT2FXYVFrU01SSHlxLUY3V0pNUFJWcW1rS3lhSl9sYUlGRXZCR28zRFdvcWRueVJTOVZwcHBHd01nNWdZTWw3ZnYta3FTZFFqNWxwNVc0ZDlEaDNXdU1uNXgyTERBV2ZXelp1NjFfNk5XVUdtV2pQaGROZkJxODYxM0hoUWFsNkZjUnZlV1M1NGxFbEZhaGFmWXVkUXdoZDl2VjY1dXBoTA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-03-10T02:29:04.032Z",
+      "pushedAt": "2026-03-10T02:29:04.032Z"
+    },
+    {
+      "id": "a9936d5f1e943a53",
+      "title": "Oil plunges 10% as Trump warns to hit Iran 'twenty times harder' if it blockades Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait",
+        "plunge + oil"
+      ],
+      "firstSeen": "2026-03-10T02:29:04.188Z",
+      "pushedAt": "2026-03-10T02:29:04.188Z"
+    },
+    {
+      "id": "2883cd0aa00c9f43",
+      "title": "US and China clash over fentanyl and tariffs at global drugs meeting - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDBpazFGb3UtMkloUlZuaEt6UnFiUDZ5QnRoWkRzTVljVFNZUzhSM1IySDZMRU1UaUZqSWlzWEZ5cVMwdmUtWVY0UklpYXpwc084aWxKQ01mb0IxdGtzbU9aTFpYX2RPSzB3dTZZbS1NMFdQN193TGdGVzZ2cnN6bUNycmloQjZERWN6aHJFYmMwOWlfRE5nR2pOUHlCNTd3ZnVINjRZNFJRY1hseGZNd3Jfc0xVMU5tWG5lQ3R2MGJTcnpIYWRCTA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-03-10T02:29:04.293Z",
+      "pushedAt": "2026-03-10T02:29:04.293Z"
+    },
+    {
       "id": "747f219f88639302",
       "title": "How might Trump combat the spike in oil prices? - Reuters",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkY0Z2ZWVXB0a2FsZ1h4akpfaWtMYW1MNXBQQ056NERMb3BmcDBkeExXcmlsY1FCUzFEVE5HZ05FNWt2X3FGdWJpMTVWdmgzWVo0SnlUYnJCZ0w5SFZBSGJXWVVLN1RUOGdUYmcyUVBHZ2RzTE1qOGlKclBVRm5ybnFybVcyY2ZyUkJESA?oc=5",
@@ -289,19 +326,7 @@
       ],
       "firstSeen": "2026-03-09T05:09:05.797Z",
       "pushedAt": "2026-03-09T05:09:05.797Z"
-    },
-    {
-      "id": "004186806bf158bf",
-      "title": "Oil prices jump above $100 for first time in four years",
-      "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-03-09T00:57:07.232Z",
-      "pushedAt": "2026-03-09T00:57:07.232Z"
     }
   ],
-  "updatedAt": "2026-03-09T21:55:05.529Z"
+  "updatedAt": "2026-03-10T02:29:04.323Z"
 }
