@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "be22f71e5d278c76",
+      "title": "Iranian missile strikes central Israel amid escalating attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/iranian-missile-strikes-central-israel-amid-escalating-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-03-10T11:32:01.292Z",
+      "pushedAt": "2026-03-10T11:32:01.292Z"
+    },
+    {
       "id": "b5aa683325c70231",
       "title": "Asian shares surge, echoing a rally on Wall Street as oil prices sank back to about $90 - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDRoVE1BTThTOGpwOEY5VGxzbU5XQWF1TW5HbFdMYmZpbWVrLWZYazNYZ1hVUVRtd3Q3Q2RrV2o5VWwtd19yTnpMZlRPU0w2WWE4eUJmQkNjNXVJQ1VPWXp2WERjNnBXMHJralFkX3I5dzB4Qzd2d29SM2JkY0FxeWxkVnFuVEwyVEt3T0FhLWM0MF9qQmFz?oc=5",
@@ -256,67 +268,7 @@
       ],
       "firstSeen": "2026-03-09T14:12:52.926Z",
       "pushedAt": "2026-03-09T14:12:52.926Z"
-    },
-    {
-      "id": "eded757bdd71b3ff",
-      "title": "Iran says 1,255 people killed in US-Israeli attacks, mostly civilians",
-      "url": "https://www.aljazeera.com/news/2026/3/9/iran-says-1255-killed-in-us-israeli-attacks-mostly-civilians?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + civilian"
-      ],
-      "firstSeen": "2026-03-09T11:03:22.856Z",
-      "pushedAt": "2026-03-09T11:03:22.856Z"
-    },
-    {
-      "id": "60fcfac644b537db",
-      "title": "Congressional Democrats demand reversal of Russian oil sales into India as energy prices soar",
-      "url": "https://www.cnbc.com/2026/03/09/bessent-russian-oil-sales-india.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-03-09T11:03:23.099Z",
-      "pushedAt": "2026-03-09T11:03:23.099Z"
-    },
-    {
-      "id": "e697a3ee701b7b08",
-      "title": "Chinese Turbine Suppliers Seize the Spotlight as Global Wind Power Installations Hit All-Time High, BloombergNEF Report Shows - BloombergNEF",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNclB0bVp1U3Njd0hpUW85TFh6YmZwUmtudW1ISGZXeUVBdEw3UGFkVFpmdm1tMlRTWjRVN1hqRnVFY1YxV2xaT0R4MjZxS1VHQ1VWcVpNX1Z6a1JCdm1WRTNGdTMtcDRuWGhWbjU0S1VENGs1LUc5TWpHMGFoU1RLd0VfVndxX2t3N1NzR0ZndjJNb2U1ZWNnRjF1ZGxhSFM2ZHBUMVJhWjJ2dzByYXVtSkFYNXJ3clBTejgtMGRMNm1OYy1UWWdxTWN5aG1QZFVNYkwwdUNuek91RFdPUWxBRFV6RjdyM1dtWERFdU1XM2RQc0RMNF94bnZvU2RTVFU?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "seize + port"
-      ],
-      "firstSeen": "2026-03-09T11:03:23.339Z",
-      "pushedAt": "2026-03-09T11:03:23.339Z"
-    },
-    {
-      "id": "7c7868ecebdbef7f",
-      "title": "Chinese Embassy attacks Philippine outlet online over pro-Beijing propaganda investigation - Committee to Protect Journalists",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkdsVnpQS05xYkQ1c3llOWQxQ2ZrdmN1ZEx3S2lOS1ZCZmdpNzRqeDNyTHRwaHZYNnhRWGZlejZnRHduQ2FFd1dVR0x6Wnptd01iUW0yM2pKWW1EdVBudFFVdzBDWGNKX09OaDkxTGxtM3Q4RGhReHZ6ckJNS1Q3SXlqRTZ6cFVLbWZmbW9JMWJ3MGxXUWJHLU1mWFpLX2YwbHpsV3l0aWhkdUJzNUlfdnpGeFVDbjhZWHpV0gG7AUFVX3lxTE1GR2xWelBLTnFiRDVzeWU5ZDFDZmt2Y3VkTHdLaU5LVkJmZ2k3NGp4M3JMdHBodlg2eFFYZmV6NmdEd25DYUV3V1VHTHpaem13TWJRbTIzakpZbUR1UG50UVV3MENYY0pfT05oOTFMbG0zdDhEaFF4dnpyQk1LVDdJeWpFNnpwVUttZmZtb0kxYncwbFdRYkctTWZYWktfZjBsemxXeXRpaGR1QnM1SV92ekZ4VUNuOFlYelU?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + embassy"
-      ],
-      "firstSeen": "2026-03-09T11:03:23.413Z",
-      "pushedAt": "2026-03-09T11:03:23.413Z"
-    },
-    {
-      "id": "4bd46c7784bc5143",
-      "title": "Fear and Hope for Iranians Trapped Between Bombs and Defiant Rulers",
-      "url": "https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-09T10:12:56.377Z",
-      "pushedAt": "2026-03-09T10:12:56.377Z"
     }
   ],
-  "updatedAt": "2026-03-10T09:37:20.445Z"
+  "updatedAt": "2026-03-10T11:32:01.562Z"
 }
