@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "538aabfe87d29ba3",
+      "title": "Iran war has blocked the Strait of Hormuz, a vital oil choke point. Reopening it is a big challenge - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcVJDWXZ1MHBUM0FORjdrNTRiRkZpSHlrYnl1Y3VfSTQzNjJIcmJhazlsT3RDN2JvaDBSZFpVZjNONGpacGRPU1lhSGc4MzFfMjN0VzFaNEFIal9kLXFHbkdiT2FMbXYzaDVQYjRMTUxDa2dJSExvZ3lOZnJvOElPTHJab1pmM25ZRnM0b3dQa29DZw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + blocked"
+      ],
+      "firstSeen": "2026-03-11T23:26:50.788Z",
+      "pushedAt": "2026-03-11T23:26:50.788Z"
+    },
+    {
       "id": "807b8b30583cd297",
       "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
@@ -145,5 +157,5 @@
       "pushedAt": "2026-03-11T07:59:58.952Z"
     }
   ],
-  "updatedAt": "2026-03-11T22:25:03.562Z"
+  "updatedAt": "2026-03-11T23:26:51.035Z"
 }
