@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0167aca8862ba43f",
+      "title": "US tariff reprieve sparks scramble, and scepticism, in China's export hubs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2ItYkM1RkgzTmxwVkpTSEQ5UEVWSm9aOG9uSU9ZTlBDUFRhc3hoM0VyNngxYV8tSERyclFZbVRFeWVCbXVGUmlCNXJldWQwYWxuTzRjQ1dhLU1LRU5kUFEtWm9VRzVzQlBFaUpsWUlQU0RkdUpWR21JSjIyTGV5QncyeGRTYk1WQjZxc01QOC1ZYnhKdDZVOS1lOG5hSmRvTTZIS2xUOERudUhOUDhiREVQZVYwQkdINktkS0dscEJwN00?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-03-11T09:27:59.219Z",
+      "pushedAt": "2026-03-11T09:27:59.219Z"
+    },
+    {
       "id": "d2103fb35b74c50a",
       "title": "Al Jazeera reports from Israeli bombing of Beirut apartment block",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/al-jazeera-reports-from-israeli-bombing-of-beirut-apartment-block?traffic_source=rss",
@@ -170,19 +182,7 @@
       ],
       "firstSeen": "2026-03-10T09:37:20.404Z",
       "pushedAt": "2026-03-10T09:37:20.404Z"
-    },
-    {
-      "id": "86ce3550d5e049d7",
-      "title": "European stocks jump 2% as sliding oil prices buoy sentiment",
-      "url": "https://www.cnbc.com/2026/03/10/european-markets-stoxx-600-ftse-dax-cac-iran-war-latest-news.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-03-10T08:57:03.852Z",
-      "pushedAt": "2026-03-10T08:57:03.852Z"
     }
   ],
-  "updatedAt": "2026-03-11T07:59:59.084Z"
+  "updatedAt": "2026-03-11T09:27:59.418Z"
 }
