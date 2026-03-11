@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2989e3931ede5345",
+      "title": "Three killed in drone attack on Goma in eastern DRC, M23 rebels say",
+      "url": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-11T10:06:18.065Z",
+      "pushedAt": "2026-03-11T10:06:18.065Z"
+    },
+    {
       "id": "0167aca8862ba43f",
       "title": "US tariff reprieve sparks scramble, and scepticism, in China's export hubs - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2ItYkM1RkgzTmxwVkpTSEQ5UEVWSm9aOG9uSU9ZTlBDUFRhc3hoM0VyNngxYV8tSERyclFZbVRFeWVCbXVGUmlCNXJldWQwYWxuTzRjQ1dhLU1LRU5kUFEtWm9VRzVzQlBFaUpsWUlQU0RkdUpWR21JSjIyTGV5QncyeGRTYk1WQjZxc01QOC1ZYnhKdDZVOS1lOG5hSmRvTTZIS2xUOERudUhOUDhiREVQZVYwQkdINktkS0dscEJwN00?oc=5",
@@ -131,58 +143,7 @@
       ],
       "firstSeen": "2026-03-10T11:32:01.292Z",
       "pushedAt": "2026-03-10T11:32:01.292Z"
-    },
-    {
-      "id": "b5aa683325c70231",
-      "title": "Asian shares surge, echoing a rally on Wall Street as oil prices sank back to about $90 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDRoVE1BTThTOGpwOEY5VGxzbU5XQWF1TW5HbFdMYmZpbWVrLWZYazNYZ1hVUVRtd3Q3Q2RrV2o5VWwtd19yTnpMZlRPU0w2WWE4eUJmQkNjNXVJQ1VPWXp2WERjNnBXMHJralFkX3I5dzB4Qzd2d29SM2JkY0FxeWxkVnFuVEwyVEt3T0FhLWM0MF9qQmFz?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "rally + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-03-10T09:37:20.185Z",
-      "pushedAt": "2026-03-10T09:37:20.185Z"
-    },
-    {
-      "id": "7e88b69cc55e3776",
-      "title": "Police release images of Oslo US embassy explosion suspect",
-      "url": "https://www.bbc.com/news/articles/ce8wk563473o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + embassy"
-      ],
-      "firstSeen": "2026-03-10T09:37:20.283Z",
-      "pushedAt": "2026-03-10T09:37:20.283Z"
-    },
-    {
-      "id": "0fc53669cfd4a504",
-      "title": "Gaza food prices soar as crossing closures deepen shortages amid Iran war",
-      "url": "https://www.aljazeera.com/news/2026/3/10/gaza-food-prices-soar-as-border-closures-deepen-shortages-amid-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price",
-        "shortage + food"
-      ],
-      "firstSeen": "2026-03-10T09:37:20.369Z",
-      "pushedAt": "2026-03-10T09:37:20.369Z"
-    },
-    {
-      "id": "baf6df80d94eec34",
-      "title": "Prediction markets face questions on Iran war bets, from regime change to nuclear detonation",
-      "url": "https://www.cnbc.com/2026/03/09/prediction-markets-wagers-bets-iran-war-kalshi-polymarket.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "nuclear detonation"
-      ],
-      "firstSeen": "2026-03-10T09:37:20.404Z",
-      "pushedAt": "2026-03-10T09:37:20.404Z"
     }
   ],
-  "updatedAt": "2026-03-11T09:27:59.418Z"
+  "updatedAt": "2026-03-11T10:06:18.229Z"
 }
