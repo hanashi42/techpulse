@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f8d3584b6f1dfe45",
+      "title": "Three brothers arrested after explosion at US embassy in Oslo",
+      "url": "https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + embassy"
+      ],
+      "firstSeen": "2026-03-11T18:47:02.288Z",
+      "pushedAt": "2026-03-11T18:47:02.288Z"
+    },
+    {
       "id": "aff337650072c81c",
       "title": "Iran war: Trump says he's not worried about domestic terror attack",
       "url": "https://www.cnbc.com/2026/03/11/iran-war-trump-domestic-terror-attack.html",
@@ -133,5 +145,5 @@
       "pushedAt": "2026-03-10T19:43:14.272Z"
     }
   ],
-  "updatedAt": "2026-03-11T17:57:32.083Z"
+  "updatedAt": "2026-03-11T18:47:02.586Z"
 }
