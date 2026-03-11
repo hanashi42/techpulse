@@ -112,6 +112,14 @@ const FORME_KEYWORDS = [
   // 机票/旅行
   "flight deal", "airasia promo", "cheap flight",
   "travel deal", "free seat",
+  // Claude/Anthropic 优惠
+  "claude pro", "claude max", "claude free", "claude trial",
+  "claude pricing", "claude plan", "claude credit",
+  "anthropic credit", "anthropic discount", "anthropic pricing",
+  "free credits", "free tier", "student discount",
+  "price drop", "price cut", "price increase",
+  "50% off", "half price", "limited time offer",
+  "usage credit", "bonus credit", "free usage", "api credit",
   // 加密货币补充
   "polymarket", "prediction market", "binance",
   "token", "defi", "nft", "web3", "stablecoin",

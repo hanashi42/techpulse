@@ -22,6 +22,7 @@ export type Source =
   | "fintechmy"
   | "luno"
   | "coindesk"
+  | "reddit-claude"
   | "reminder";
 
 export type Category = "tech" | "malaysia" | "world" | "money" | "life" | "forme";

@@ -11,10 +11,11 @@ const FEEDS: RSSFeedConfig[] = [
   { url: "https://fintechnews.my/category/blockchain/feed/", source: "fintechmy", defaultCategory: "forme", limit: 5 },
   { url: "https://discover.luno.com/rss", source: "luno", defaultCategory: "forme", limit: 5 },
   { url: "https://www.coindesk.com/arc/outboundfeeds/rss/", source: "coindesk", defaultCategory: "forme", limit: 5 },
+  { url: "https://www.reddit.com/r/ClaudeAI/new.rss", source: "reddit-claude", defaultCategory: "forme", limit: 10 },
 ];
 
 export async function fetchForMe(): Promise<NewsItem[]> {
-  console.log("  Fetching For Me sources (9 RSS feeds)...");
+  console.log("  Fetching For Me sources (10 RSS feeds)...");
   const items = await fetchMultipleRSS(FEEDS);
   console.log(`  For Me: ${items.length} items`);
   return items;
