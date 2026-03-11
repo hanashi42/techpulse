@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0682c7be0f7fc5e4",
+      "title": "G7 welcomes potential record release of oil reserves as prices surge",
+      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-03-11T13:43:45.948Z",
+      "pushedAt": "2026-03-11T13:43:45.948Z"
+    },
+    {
       "id": "909ef11683588555",
       "title": "Kremlin says Britain was involved in Ukraine's missile strike on Russia - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3BTeVN0UmVXQ1hXTy1tQVdISmU0MkhoTjFoOEFCNE0yR1A3ZXgtcTYzNUlwam1uRlVTT2NGdlY0UGdSTUU1VDd5Y25JOUdpT3RrZzZmLW5VRE5QaTZuS3NYVFhJUUFkVi1yd0I3Ykd6cFIwZzRuY0FtQ0ptcnNTaW5EbWNseDBYSXJPUThwbkZLUmZ3THF4R0JZNFJHLUQ1RWlYRVg1T3Rhdjg5WjR2NjZFaw?oc=5",
@@ -119,55 +131,7 @@
       ],
       "firstSeen": "2026-03-10T14:35:17.601Z",
       "pushedAt": "2026-03-10T14:35:17.601Z"
-    },
-    {
-      "id": "3a0da0085b33a958",
-      "title": "Spirit Airlines to recall furloughed pilots to combat attrition as carrier eyes bankruptcy exit",
-      "url": "https://www.cnbc.com/2026/03/10/spirit-airlines-pilots-bankruptcy.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bankrupt + bank"
-      ],
-      "firstSeen": "2026-03-10T12:42:32.319Z",
-      "pushedAt": "2026-03-10T12:42:32.319Z"
-    },
-    {
-      "id": "b5565e26b3134fba",
-      "title": "Iranian People's Freedom, Rights Cannot Be Achieved 'Through Bombs' -- EU Council Chief - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TVE9nTEtHUGdkcExES1RDWlpNbVI1SmhYeGpCVWkxcjZja1NCVExOMDlMNHEzQ0MzdkNTMHBpSW9Pa2RYd0k1cFJScXRxS1prM3pzRFlTeUZXUnVxNFlZYjFB?oc=5",
-      "source": "Bernama",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-10T12:42:32.461Z",
-      "pushedAt": "2026-03-10T12:42:32.461Z"
-    },
-    {
-      "id": "4bd46c7784bc5143",
-      "title": "Fear and Hope for Iranians Trapped Between Bombs and Defiant Rulers",
-      "url": "https://www.nytimes.com/2026/03/09/world/europe/iranians-destruction-bombs-despair.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-10T11:56:53.095Z",
-      "pushedAt": "2026-03-10T11:56:53.095Z"
-    },
-    {
-      "id": "2476bfd947466be0",
-      "title": "Shots Fired at U.S. Consulate in Toronto, Police Say",
-      "url": "https://www.nytimes.com/2026/03/10/world/canada/us-consulate-toronto-shots.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "shots fired at"
-      ],
-      "firstSeen": "2026-03-10T11:56:53.796Z",
-      "pushedAt": "2026-03-10T11:56:53.796Z"
     }
   ],
-  "updatedAt": "2026-03-11T11:53:21.734Z"
+  "updatedAt": "2026-03-11T13:43:46.189Z"
 }
