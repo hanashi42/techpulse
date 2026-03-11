@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d4906a940fc70074",
+      "title": "US stock market remains calm, even as oil prices rise - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUtKTFhnN0lka1hsbXpJWVBVZEZJRm5mSlZiQTBvRm14SlpuT2FhWGxqYkFnSGFQcEZMUEdURG1hdkNWbG9DdG9acEQzNHRMelJaZjE1a3dpYmo2ZkNiREpyajBialVDTE94QTI4X2I4TmZXOGdhd21tekM2VnR4VGxfeTdScFNXVm9GMV8yTzc1QWc?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-03-11T21:58:27.612Z",
+      "pushedAt": "2026-03-11T21:58:27.612Z"
+    },
+    {
       "id": "f8d3584b6f1dfe45",
       "title": "Three brothers arrested after explosion at US embassy in Oslo",
       "url": "https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss",
@@ -119,31 +131,7 @@
       ],
       "firstSeen": "2026-03-11T07:59:58.952Z",
       "pushedAt": "2026-03-11T07:59:58.952Z"
-    },
-    {
-      "id": "8a8f938eb327d4c6",
-      "title": "U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says",
-      "url": "https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-10T21:04:18.087Z",
-      "pushedAt": "2026-03-10T21:04:18.087Z"
-    },
-    {
-      "id": "807b8b30583cd297",
-      "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "nuclear test"
-      ],
-      "firstSeen": "2026-03-10T19:43:14.272Z",
-      "pushedAt": "2026-03-10T19:43:14.272Z"
     }
   ],
-  "updatedAt": "2026-03-11T18:47:02.586Z"
+  "updatedAt": "2026-03-11T21:58:27.916Z"
 }
