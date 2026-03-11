@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d0ad86ecdf242524",
+      "title": "World Heritage Sites Hit in Airstrikes on Iran",
+      "url": "https://www.nytimes.com/2026/03/11/world/middleeast/iram-heritage-sites-damaged.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "airstrikes on"
+      ],
+      "firstSeen": "2026-03-11T11:26:51.394Z",
+      "pushedAt": "2026-03-11T11:26:51.394Z"
+    },
+    {
       "id": "2989e3931ede5345",
       "title": "Three killed in drone attack on Goma in eastern DRC, M23 rebels say",
       "url": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
@@ -145,5 +157,5 @@
       "pushedAt": "2026-03-10T11:32:01.292Z"
     }
   ],
-  "updatedAt": "2026-03-11T10:06:18.229Z"
+  "updatedAt": "2026-03-11T11:26:51.824Z"
 }
