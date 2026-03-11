@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "aff337650072c81c",
+      "title": "Iran war: Trump says he's not worried about domestic terror attack",
+      "url": "https://www.cnbc.com/2026/03/11/iran-war-trump-domestic-terror-attack.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terror attack"
+      ],
+      "firstSeen": "2026-03-11T17:57:31.763Z",
+      "pushedAt": "2026-03-11T17:57:31.763Z"
+    },
+    {
       "id": "e299ab7ae49a8df9",
       "title": "IRANIAN PEOPLE'S FREEDOM, RIGHTS CANNOT BE ACHIEVED 'THROUGH BOMBS' -- EU COUNCIL CHIEF - web11.bernama.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Fb3hYbWxPOGtSdF90RlYwNkpkTFJDa2xQM19kMXpQWGNEbkIxRHdPTThEcWRrbVpReTVDSlBwalRreG44SUVwTmZiUjFoT09GblpveWdDVHVNSWEwbDRMb1RtcG0?oc=5",
@@ -119,31 +131,7 @@
       ],
       "firstSeen": "2026-03-10T19:43:14.272Z",
       "pushedAt": "2026-03-10T19:43:14.272Z"
-    },
-    {
-      "id": "4cf1274aa2b15069",
-      "title": "U.S. Eases Limits on Russian Energy as Oil Prices Soar",
-      "url": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-putin-russia-energy-oil-prices.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-03-10T15:38:19.382Z",
-      "pushedAt": "2026-03-10T15:38:19.383Z"
-    },
-    {
-      "id": "c6ac66436695149a",
-      "title": "India eases investment restrictions on China, Economic Times reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmhNQnM2cEh5NWxjSndMRDBzNjNWd0hhREI3akt0UDltRHk4WlpOamdLWmFkMFFGTTNEa3lwRzZYVWRpbWxKUTRaT0x4Z25qWnRSTTNJX1JBb3YwWVZPbzRoLUhHd3M1MENoRkx3U1dRMGtlMk5sbW1JNU9OQi1PN29MWlVhMGJqLUQ2enNvTjNEZlhCdV9hQ2pfejBCUTh3UFNoY2pQd1g?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-03-10T14:35:17.601Z",
-      "pushedAt": "2026-03-10T14:35:17.601Z"
     }
   ],
-  "updatedAt": "2026-03-11T14:32:11.027Z"
+  "updatedAt": "2026-03-11T17:57:32.083Z"
 }
