@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d2103fb35b74c50a",
+      "title": "Al Jazeera reports from Israeli bombing of Beirut apartment block",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/al-jazeera-reports-from-israeli-bombing-of-beirut-apartment-block?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombing of"
+      ],
+      "firstSeen": "2026-03-11T07:59:58.952Z",
+      "pushedAt": "2026-03-11T07:59:58.952Z"
+    },
+    {
       "id": "8a8f938eb327d4c6",
       "title": "U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says",
       "url": "https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html",
@@ -170,129 +182,7 @@
       ],
       "firstSeen": "2026-03-10T08:57:03.852Z",
       "pushedAt": "2026-03-10T08:57:03.852Z"
-    },
-    {
-      "id": "3631399b83cf0f24",
-      "title": "Airlines start broader fare hikes on fuel price surge, shares stabilise - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUVRWnl1Y3VLRGVfcktnZGR0N1QyZkhYU2pyTlZuV1VDQjIyTTRhV1FHOWpGUTFWSFZ1MVRQX0oybGhTVXM3djZocFRjUmRYQ3JRblN3eHAxdGQ2TzVlVWlyM3c4R1hTN1F5YkM0ZjV4dnUtVGpnaTk0RXY0OVB0MG9wN3ZLQnY2UTVleTlDMjQyQzcwTHBpVlNUbTRyVlBWc0tlcEVtc3dPdGIzZUU3UmpyYnF1LUt6MXBF?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + price"
-      ],
-      "firstSeen": "2026-03-10T07:38:41.433Z",
-      "pushedAt": "2026-03-10T07:38:41.433Z"
-    },
-    {
-      "id": "39c2ed3fdc8fe3ed",
-      "title": "Faisal Islam: Trump comments may have eased oil price surge, but havoc remains",
-      "url": "https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-03-10T06:58:07.418Z",
-      "pushedAt": "2026-03-10T06:58:07.418Z"
-    },
-    {
-      "id": "541e5810e8cfaca1",
-      "title": "China exports surge in first two months of the year despite Trump tariffs",
-      "url": "https://www.bbc.com/news/articles/c3dzymj4yz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-03-10T06:58:07.658Z",
-      "pushedAt": "2026-03-10T06:58:07.658Z"
-    },
-    {
-      "id": "9fb9331848eca99d",
-      "title": "FMM Calls For Export Crisis Task Force Amid Strait Of Hormuz Disruptions - bernama",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56UlJJTzBaSWlubWpYeWwyd3J6OWp2YV8tcWg2ZWtQWU9UUEdlZUhPMHJqemxuMUdka21wU2F2blZ1V2JIUGR2R2Q4a195QVlGRE1uZjBFYXNKOWd6VDlnUzFHMA?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption"
-      ],
-      "firstSeen": "2026-03-10T05:17:04.114Z",
-      "pushedAt": "2026-03-10T05:17:04.114Z"
-    },
-    {
-      "id": "807c07b06a852970",
-      "title": "German publishers reject Apple's revised app tracking rules, urge antitrust fine - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEJ5enFoeWtRQ3E3NWpwbTQzbG5EU1QwbERwYTVRcXpPVlBTQWNrVHlldkRub2FyTkp1RFAwbDV0b1VOY3dOX3Iyb05XenVGUTNLcmxXUHpjSmI2OHRvRU9pelV5NTk4bjNXMUZTRTRNTkVKaHhaclpDS2otOVN6X3Z6YmFsVndqWjdFc0M5a0NLcXBySnM1UnBmT3NEZWVfb1dhQWdaMERmLU44WnlHeF9jZ2E4XzJJN3phRUsxdC1JTHYyQlYxb1B6SQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "antitrust + apple"
-      ],
-      "firstSeen": "2026-03-10T04:21:05.286Z",
-      "pushedAt": "2026-03-10T04:21:05.286Z"
-    },
-    {
-      "id": "b6ed91035fc236e1",
-      "title": "Oil shock prompts South Korea to impose fuel price cap for the first time in 30 years",
-      "url": "https://www.cnbc.com/2026/03/09/south-korea-fuel-price-cap-oil-price-surging.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-03-10T04:21:05.647Z",
-      "pushedAt": "2026-03-10T04:21:05.647Z"
-    },
-    {
-      "id": "17d5e3c2fa279b53",
-      "title": "Trump says US is waiving certain oil-related sanctions to ensure supply - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2hoRHduMmoyTDE5d09iS3VQTWtpT2FXYVFrU01SSHlxLUY3V0pNUFJWcW1rS3lhSl9sYUlGRXZCR28zRFdvcWRueVJTOVZwcHBHd01nNWdZTWw3ZnYta3FTZFFqNWxwNVc0ZDlEaDNXdU1uNXgyTERBV2ZXelp1NjFfNk5XVUdtV2pQaGROZkJxODYxM0hoUWFsNkZjUnZlV1M1NGxFbEZhaGFmWXVkUXdoZDl2VjY1dXBoTA?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-03-10T02:29:04.032Z",
-      "pushedAt": "2026-03-10T02:29:04.032Z"
-    },
-    {
-      "id": "a9936d5f1e943a53",
-      "title": "Oil plunges 10% as Trump warns to hit Iran 'twenty times harder' if it blockades Strait of Hormuz",
-      "url": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait",
-        "plunge + oil"
-      ],
-      "firstSeen": "2026-03-10T02:29:04.188Z",
-      "pushedAt": "2026-03-10T02:29:04.188Z"
-    },
-    {
-      "id": "2883cd0aa00c9f43",
-      "title": "US and China clash over fentanyl and tariffs at global drugs meeting - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDBpazFGb3UtMkloUlZuaEt6UnFiUDZ5QnRoWkRzTVljVFNZUzhSM1IySDZMRU1UaUZqSWlzWEZ5cVMwdmUtWVY0UklpYXpwc084aWxKQ01mb0IxdGtzbU9aTFpYX2RPSzB3dTZZbS1NMFdQN193TGdGVzZ2cnN6bUNycmloQjZERWN6aHJFYmMwOWlfRE5nR2pOUHlCNTd3ZnVINjRZNFJRY1hseGZNd3Jfc0xVMU5tWG5lQ3R2MGJTcnpIYWRCTA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-03-10T02:29:04.293Z",
-      "pushedAt": "2026-03-10T02:29:04.293Z"
-    },
-    {
-      "id": "747f219f88639302",
-      "title": "How might Trump combat the spike in oil prices? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkY0Z2ZWVXB0a2FsZ1h4akpfaWtMYW1MNXBQQ056NERMb3BmcDBkeExXcmlsY1FCUzFEVE5HZ05FNWt2X3FGdWJpMTVWdmgzWVo0SnlUYnJCZ0w5SFZBSGJXWVVLN1RUOGdUYmcyUVBHZ2RzTE1qOGlKclBVRm5ybnFybVcyY2ZyUkJESA?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + spike"
-      ],
-      "firstSeen": "2026-03-09T21:55:05.328Z",
-      "pushedAt": "2026-03-09T21:55:05.328Z"
     }
   ],
-  "updatedAt": "2026-03-10T21:04:18.362Z"
+  "updatedAt": "2026-03-11T07:59:59.084Z"
 }
