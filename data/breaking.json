@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "871dc73a62a783ab",
+      "title": "World faces largest-ever oil supply disruption on Middle East war, IEA says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3FNV1luMy1GeGRhSnlnTm84UUZlWWJsV3JiX29pR0pLLXJNTDlOYmZhM1hPTlFOTVN6d2RKNzllQTFPSk9UOWQtNHAtcFowQWZnOHBzSWJ3NW1NTkdXODVCb1hSalR4Y1ltQTYyQlZ0NU5vS0ZwVjFSSDRPLU55ZG1WcWd3Y3F5bjhSRzk0ZGZMUFRvZlhzY1Bld08xU2ZySG9mOTdtaEZHVEFQSTZFclRTMWV1Q1FScmpqRmNabzE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-03-12T10:35:40.134Z",
+      "pushedAt": "2026-03-12T10:35:40.134Z"
+    },
+    {
+      "id": "6ff5b9630dd1f32a",
+      "title": "Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORlNIWTQwdDZxWDNfci1Db2N4TXUyajgwVW5kU2hCSVVCcGVwX1FuRVFFYXdzZEg2dGRyVTRqS3ladEVZbnZiTGFidzNhVUpWQzdzUmR4WE1TSHNtcFRiQTROa3VDa1d3c1R5aWl1MnRSR3Bra3ZhaUhFb3BnaUV4aExvbHZyeTJYZFNKVDZFZ2daSTNJUEZ4M29xOUM?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-03-12T10:35:40.410Z",
+      "pushedAt": "2026-03-12T10:35:40.410Z"
+    },
+    {
+      "id": "2784d52592227774",
+      "title": "Al Jazeera sees bombs being loaded onto US planes at UK base",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/al-jazeera-sees-bombs-being-loaded-onto-us-planes-at-uk-base?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-12T10:35:40.913Z",
+      "pushedAt": "2026-03-12T10:35:40.913Z"
+    },
+    {
       "id": "6a40c9ce64e1d68d",
       "title": "'Please, please, please': Minister urges Danes to avoid driving as oil prices spike amid U.S.-Iran war",
       "url": "https://www.cnbc.com/2026/03/12/us-iran-war-danes-energy-driving-oil-prices-spike.html",
@@ -215,19 +251,7 @@
       ],
       "firstSeen": "2026-03-11T11:26:51.394Z",
       "pushedAt": "2026-03-11T11:26:51.394Z"
-    },
-    {
-      "id": "2989e3931ede5345",
-      "title": "Three killed in drone attack on Goma in eastern DRC, M23 rebels say",
-      "url": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-11T10:06:18.065Z",
-      "pushedAt": "2026-03-11T10:06:18.065Z"
     }
   ],
-  "updatedAt": "2026-03-12T09:58:12.896Z"
+  "updatedAt": "2026-03-12T10:35:40.952Z"
 }
