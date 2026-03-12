@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6a40c9ce64e1d68d",
+      "title": "'Please, please, please': Minister urges Danes to avoid driving as oil prices spike amid U.S.-Iran war",
+      "url": "https://www.cnbc.com/2026/03/12/us-iran-war-danes-energy-driving-oil-prices-spike.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + spike"
+      ],
+      "firstSeen": "2026-03-12T09:58:12.689Z",
+      "pushedAt": "2026-03-12T09:58:12.689Z"
+    },
+    {
       "id": "9f08e76c2614494d",
       "title": "Airline hedging strategies fall short as jet fuel price surges - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU01XSkNzN05aN3QzSTFXSEM5OTFDdGZfZ2xJOEhXZnZPWFJiNWFqTENWTHRSY1I3cGdmLXFIQzdWNW5LUTNUcHVGQnVMMFdibXJGclFIRC02Vk4xZTNBVkY4U19hbU1Odzl1YzJTVlA1T0RXT0otMExZa3NxaF8wOVhWMTV6RWhzcW9tUlJVa3ZDZFNDSWhiZTVwY3dsVEtmNzRFbFNkRkNKdXh6VFEzVmI1elc2U0paOHNxek5WWFJBS3g3Y3JKR0piWDA?oc=5",
@@ -215,19 +227,7 @@
       ],
       "firstSeen": "2026-03-11T10:06:18.065Z",
       "pushedAt": "2026-03-11T10:06:18.065Z"
-    },
-    {
-      "id": "0167aca8862ba43f",
-      "title": "US tariff reprieve sparks scramble, and scepticism, in China's export hubs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR2ItYkM1RkgzTmxwVkpTSEQ5UEVWSm9aOG9uSU9ZTlBDUFRhc3hoM0VyNngxYV8tSERyclFZbVRFeWVCbXVGUmlCNXJldWQwYWxuTzRjQ1dhLU1LRU5kUFEtWm9VRzVzQlBFaUpsWUlQU0RkdUpWR21JSjIyTGV5QncyeGRTYk1WQjZxc01QOC1ZYnhKdDZVOS1lOG5hSmRvTTZIS2xUOERudUhOUDhiREVQZVYwQkdINktkS0dscEJwN00?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-03-11T09:27:59.219Z",
-      "pushedAt": "2026-03-11T09:27:59.219Z"
     }
   ],
-  "updatedAt": "2026-03-12T08:27:24.142Z"
+  "updatedAt": "2026-03-12T09:58:12.896Z"
 }
