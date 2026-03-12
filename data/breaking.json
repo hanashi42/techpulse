@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "29e5b2f1d66b9cd6",
+      "title": "Strait of Hormuz must remain closed as 'tool to pressure enemy,' Iran's new supreme leader says",
+      "url": "https://www.cnbc.com/2026/03/12/strait-of-hormuz-closure-iran-oil-prices-mojtaba-khamenei.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + closed"
+      ],
+      "firstSeen": "2026-03-12T13:51:04.139Z",
+      "pushedAt": "2026-03-12T13:51:04.139Z"
+    },
+    {
       "id": "8e42e2d16871f951",
       "title": "BMW braces for another year of tariff and China struggles - Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBVTVV0a28xSjNuMGZfNzRDYUZMOEhfZjNsQmFzSndfYldoRUxaLVNoYVhueGdfTXdmbmNHWFcycDdhZ2d4ZjJYVENPWXpyR1RRRTRnSVhraWF5aTR1RW9aODVmZVlhdXZrdmFpRWU4UUJNS01MSlNqV0E2VGlhbEpTY0UyQjl1UkswaGFISl9UTm5HSzZ0c1p4dHVDZw?oc=5",
@@ -215,19 +227,7 @@
       ],
       "firstSeen": "2026-03-11T14:32:10.878Z",
       "pushedAt": "2026-03-11T14:32:10.878Z"
-    },
-    {
-      "id": "0682c7be0f7fc5e4",
-      "title": "G7 welcomes potential record release of oil reserves as prices surge",
-      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-03-11T13:43:45.948Z",
-      "pushedAt": "2026-03-11T13:43:45.948Z"
     }
   ],
-  "updatedAt": "2026-03-12T12:48:30.677Z"
+  "updatedAt": "2026-03-12T13:51:04.397Z"
 }
