@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "807b8b30583cd297",
+      "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "nuclear test"
+      ],
+      "firstSeen": "2026-03-12T22:57:06.476Z",
+      "pushedAt": "2026-03-12T22:57:06.476Z"
+    },
+    {
       "id": "d14b608cf644b41e",
       "title": "Air attacks target bases of Iran-backed forces in Iraq",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss",
@@ -255,5 +267,5 @@
       "pushedAt": "2026-03-11T23:26:50.788Z"
     }
   ],
-  "updatedAt": "2026-03-12T22:36:09.709Z"
+  "updatedAt": "2026-03-12T22:57:06.637Z"
 }
