@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d14b608cf644b41e",
+      "title": "Air attacks target bases of Iran-backed forces in Iraq",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + base"
+      ],
+      "firstSeen": "2026-03-12T22:36:09.538Z",
+      "pushedAt": "2026-03-12T22:36:09.538Z"
+    },
+    {
       "id": "98570bca4481ed19",
       "title": "Nepal to ration cooking gas due to panic over shortage - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeldaZS1JWkdyN2gwUVl0RFNOUG1hRTdUT2xaZzZ1N0RpWTNIS3R3cGFyS0RGOVR0V1FJTHFONUstd2UyY1UxZGhFWUJIX2sxck5GTlBmejIxYmlOSGktUDE5eHJjaDlNLWx1NjRCOXFiZUdvQmVJOFNSb1RiVVJUZkVsYV9DLWdZTlhLbVJSZXR6M040cnJRMkFkMHVmeFpmZHc?oc=5",
@@ -241,31 +253,7 @@
       ],
       "firstSeen": "2026-03-11T23:26:50.788Z",
       "pushedAt": "2026-03-11T23:26:50.788Z"
-    },
-    {
-      "id": "807b8b30583cd297",
-      "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "nuclear test"
-      ],
-      "firstSeen": "2026-03-11T22:25:03.413Z",
-      "pushedAt": "2026-03-11T22:25:03.413Z"
-    },
-    {
-      "id": "d4906a940fc70074",
-      "title": "US stock market remains calm, even as oil prices rise - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUtKTFhnN0lka1hsbXpJWVBVZEZJRm5mSlZiQTBvRm14SlpuT2FhWGxqYkFnSGFQcEZMUEdURG1hdkNWbG9DdG9acEQzNHRMelJaZjE1a3dpYmo2ZkNiREpyajBialVDTE94QTI4X2I4TmZXOGdhd21tekM2VnR4VGxfeTdScFNXVm9GMV8yTzc1QWc?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-03-11T21:58:27.612Z",
-      "pushedAt": "2026-03-11T21:58:27.612Z"
     }
   ],
-  "updatedAt": "2026-03-12T21:20:41.228Z"
+  "updatedAt": "2026-03-12T22:36:09.709Z"
 }
