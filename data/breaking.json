@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "cc64a5a265851434",
+      "title": "Shares skid, oil surges again as Iran attacks Gulf shipping - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORUE4amVlSWZrMjBnTVZzZUZmMzZ4eVZLbVlybnI4Q0xQYUxnVEZCRDJwRjlnZFVkcEdsTmw3dUZMYTRYTVhKbmdNZzRTdU14VTRqMjNxaS05OFJsQWI5V2lhRVllcFBJbTRJQUdyV3hWNGJQUlcwMnZqZktrUlhzOU0xVQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-03-12T04:23:24.101Z",
+      "pushedAt": "2026-03-12T04:23:24.101Z"
+    },
+    {
       "id": "5c64cdb264f29cfc",
       "title": "Costco customers sue for share of refunds from Trump tariffs - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOakZicWVJNHlIcTQ5NEpIcXVhcE9DNHZSclVJN0ItSFNRS0VTOFdGZnNoYUdiQUNGTGlja3FOM2ZqZWxvQncwV0VsVnZsUjJLNkFRZ3RtY25LQUlobGR6bDJlelhsLWhxQlhTYkQ1bVo3Vjlhdzl5U1dnOTJZTWZDeS1iWVNpaURyRW1wcHlKOC1Hc19na21MUTV0NDdhRVpSdktNMG9TbWRQRTBLT2ZmbzV0WmpDTHVlanltWUFvekl3UQ?oc=5",
@@ -181,5 +193,5 @@
       "pushedAt": "2026-03-11T07:59:58.952Z"
     }
   ],
-  "updatedAt": "2026-03-12T02:24:55.815Z"
+  "updatedAt": "2026-03-12T04:23:24.223Z"
 }
