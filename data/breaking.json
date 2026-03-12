@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "774961ba1e8b85dc",
+      "title": "Gold falls on firmer dollar, US inflation woes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQenhmYmhGQkNtcF9RZGRacDY4Ty1Vc0QtOC0tbWRUTV9PdDJNT3FlSkN3ZmNmNWZ1LUZLeTlZZGN1QkJvbkJqdEtCZkdJSmtLaGhxU0U3UjZER2xOREFuekNfMWFYS1lLcW41MTZ6NEZuakVaTXlwMTlmT2lHX1dqVG9ILVZuVTl4Q25jdTh4dndlSFFFNDRtZmJyYzZLTUxyRXBWZHBaQ0RUamc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + fall"
+      ],
+      "firstSeen": "2026-03-12T07:12:21.958Z",
+      "pushedAt": "2026-03-12T07:12:21.958Z"
+    },
+    {
+      "id": "654c7909cce8706a",
+      "title": "Goldman Sachs raises Q4 Brent, WTI crude price forecast amid longer Hormuz disruption - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVVIU3g4X1JrWXFXekhfc1cyRFI2Y2dqa0JVT2xHTEhlVk9TSGZfczk3Y1pES1gwZ1dURUo3TFdrc2QyWVlHV3JYSl93WHRzQ1J1U213UXFVam9GeDVEeWJUMzVnVGFoUWVad3Bhb3hfcWxnb1VTMW1LVm1KeE12R1h2SFRYVkFocUU2bWFOT19mNU9ZbXR5SnlHMVhTSG9ONDJxNVZKTWZNRE9aQTd2NW1MLTg0dkNoWHZaZE1GVkdvWDA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption"
+      ],
+      "firstSeen": "2026-03-12T07:12:22.303Z",
+      "pushedAt": "2026-03-12T07:12:22.303Z"
+    },
+    {
       "id": "435c122a09e1dcbf",
       "title": "US trade probes could lead to new tariffs for EU, China - dw.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb1hFNXg5OWUycURwVHE1NDQyQzN6bTBjSFZlQTBhb0pnZHFNRHJuM0xfWVhLcVNyR05nVHRaTmpndnM4bS1TYm9UNWszQTJQNjZ3OXZFR3JJcUpRenE1RXg5Nk5kN0VYVWJJcndLOFZTX0RzUFVycGlqd05zdFlPMkxVUTlibDExRW9Oa2lzd2luMk1tMU5uV3Jn0gGaAUFVX3lxTE1rcV8xaU9pSUhSMHdpVFpnajdpaFZEd1BHU0lHVFB2TVBHdmwyMWYwazZYR1llcmZrLUVwU1lFTzRxSFFoOWxVS0JjdWhWcy1JbEoyLWtLNlJ1eTMzYlZzN25NeldNb2dfbEstaU05SzZON3hyemFsRnRqNjYyTUVPMk9sRFBYeFlGU1ZuM1hIM1hfZFFHTG4xcnc?oc=5",
@@ -205,5 +229,5 @@
       "pushedAt": "2026-03-11T07:59:58.952Z"
     }
   ],
-  "updatedAt": "2026-03-12T05:32:04.384Z"
+  "updatedAt": "2026-03-12T07:12:22.541Z"
 }
