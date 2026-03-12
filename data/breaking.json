@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b28068216f91dc51",
+      "title": "Israeli attack hits civilians at Beirut beachfront: What we know",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israeli-attack-hits-civilians-at-beirut-beachfront-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + civilian"
+      ],
+      "firstSeen": "2026-03-12T14:37:11.495Z",
+      "pushedAt": "2026-03-12T14:37:11.495Z"
+    },
+    {
       "id": "29e5b2f1d66b9cd6",
       "title": "Strait of Hormuz must remain closed as 'tool to pressure enemy,' Iran's new supreme leader says",
       "url": "https://www.cnbc.com/2026/03/12/strait-of-hormuz-closure-iran-oil-prices-mojtaba-khamenei.html",
@@ -215,19 +227,7 @@
       ],
       "firstSeen": "2026-03-11T17:57:31.763Z",
       "pushedAt": "2026-03-11T17:57:31.763Z"
-    },
-    {
-      "id": "e299ab7ae49a8df9",
-      "title": "IRANIAN PEOPLE'S FREEDOM, RIGHTS CANNOT BE ACHIEVED 'THROUGH BOMBS' -- EU COUNCIL CHIEF - web11.bernama.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Fb3hYbWxPOGtSdF90RlYwNkpkTFJDa2xQM19kMXpQWGNEbkIxRHdPTThEcWRrbVpReTVDSlBwalRreG44SUVwTmZiUjFoT09GblpveWdDVHVNSWEwbDRMb1RtcG0?oc=5",
-      "source": "Bernama",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-11T14:32:10.878Z",
-      "pushedAt": "2026-03-11T14:32:10.878Z"
     }
   ],
-  "updatedAt": "2026-03-12T13:51:04.397Z"
+  "updatedAt": "2026-03-12T14:37:11.922Z"
 }
