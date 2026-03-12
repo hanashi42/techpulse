@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8e42e2d16871f951",
+      "title": "BMW braces for another year of tariff and China struggles - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBVTVV0a28xSjNuMGZfNzRDYUZMOEhfZjNsQmFzSndfYldoRUxaLVNoYVhueGdfTXdmbmNHWFcycDdhZ2d4ZjJYVENPWXpyR1RRRTRnSVhraWF5aTR1RW9aODVmZVlhdXZrdmFpRWU4UUJNS01MSlNqV0E2VGlhbEpTY0UyQjl1UkswaGFISl9UTm5HSzZ0c1p4dHVDZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-03-12T12:48:30.314Z",
+      "pushedAt": "2026-03-12T12:48:30.314Z"
+    },
+    {
       "id": "871dc73a62a783ab",
       "title": "World faces largest-ever oil supply disruption on Middle East war, IEA says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3FNV1luMy1GeGRhSnlnTm84UUZlWWJsV3JiX29pR0pLLXJNTDlOYmZhM1hPTlFOTVN6d2RKNzllQTFPSk9UOWQtNHAtcFowQWZnOHBzSWJ3NW1NTkdXODVCb1hSalR4Y1ltQTYyQlZ0NU5vS0ZwVjFSSDRPLU55ZG1WcWd3Y3F5bjhSRzk0ZGZMUFRvZlhzY1Bld08xU2ZySG9mOTdtaEZHVEFQSTZFclRTMWV1Q1FScmpqRmNabzE?oc=5",
@@ -215,43 +227,7 @@
       ],
       "firstSeen": "2026-03-11T13:43:45.948Z",
       "pushedAt": "2026-03-11T13:43:45.948Z"
-    },
-    {
-      "id": "909ef11683588555",
-      "title": "Kremlin says Britain was involved in Ukraine's missile strike on Russia - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3BTeVN0UmVXQ1hXTy1tQVdISmU0MkhoTjFoOEFCNE0yR1A3ZXgtcTYzNUlwam1uRlVTT2NGdlY0UGdSTUU1VDd5Y25JOUdpT3RrZzZmLW5VRE5QaTZuS3NYVFhJUUFkVi1yd0I3Ykd6cFIwZzRuY0FtQ0ptcnNTaW5EbWNseDBYSXJPUThwbkZLUmZ3THF4R0JZNFJHLUQ1RWlYRVg1T3Rhdjg5WjR2NjZFaw?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-03-11T11:53:21.323Z",
-      "pushedAt": "2026-03-11T11:53:21.323Z"
-    },
-    {
-      "id": "68d6a701a85bd5f1",
-      "title": "164 Malaysians Evacuated From West Asia Conflict Zones - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLczU1VnRmLUxoUXFfeF9JWGlzQURqVG1aZEdFd09kRGQ1OV9uWkpUN3F4VFZLdTJqeklTNnNkaXVLbmdKSUs1Qm05S0ZtQ0FRdWhXQ01pX1pmTlI3WDJ2RUNhbDlheGhSdllpd3NzSF8?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "evacuate + malaysia"
-      ],
-      "firstSeen": "2026-03-11T11:53:21.559Z",
-      "pushedAt": "2026-03-11T11:53:21.559Z"
-    },
-    {
-      "id": "d0ad86ecdf242524",
-      "title": "World Heritage Sites Hit in Airstrikes on Iran",
-      "url": "https://www.nytimes.com/2026/03/11/world/middleeast/iram-heritage-sites-damaged.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "airstrikes on"
-      ],
-      "firstSeen": "2026-03-11T11:26:51.394Z",
-      "pushedAt": "2026-03-11T11:26:51.394Z"
     }
   ],
-  "updatedAt": "2026-03-12T10:35:40.952Z"
+  "updatedAt": "2026-03-12T12:48:30.677Z"
 }
