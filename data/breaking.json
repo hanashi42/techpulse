@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "98570bca4481ed19",
+      "title": "Nepal to ration cooking gas due to panic over shortage - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeldaZS1JWkdyN2gwUVl0RFNOUG1hRTdUT2xaZzZ1N0RpWTNIS3R3cGFyS0RGOVR0V1FJTHFONUstd2UyY1UxZGhFWUJIX2sxck5GTlBmejIxYmlOSGktUDE5eHJjaDlNLWx1NjRCOXFiZUdvQmVJOFNSb1RiVVJUZkVsYV9DLWdZTlhLbVJSZXR6M040cnJRMkFkMHVmeFpmZHc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + gas"
+      ],
+      "firstSeen": "2026-03-12T21:20:40.981Z",
+      "pushedAt": "2026-03-12T21:20:40.981Z"
+    },
+    {
       "id": "b591cef330040881",
       "title": "Trump to Target Forced Labor in Global Tariff Scheme",
       "url": "https://www.nytimes.com/2026/03/12/us/politics/trump-forced-labor-tariffs.html",
@@ -255,5 +267,5 @@
       "pushedAt": "2026-03-11T21:58:27.612Z"
     }
   ],
-  "updatedAt": "2026-03-12T20:54:27.989Z"
+  "updatedAt": "2026-03-12T21:20:41.228Z"
 }
