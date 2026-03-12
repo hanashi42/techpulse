@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "9f08e76c2614494d",
+      "title": "Airline hedging strategies fall short as jet fuel price surges - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU01XSkNzN05aN3QzSTFXSEM5OTFDdGZfZ2xJOEhXZnZPWFJiNWFqTENWTHRSY1I3cGdmLXFIQzdWNW5LUTNUcHVGQnVMMFdibXJGclFIRC02Vk4xZTNBVkY4U19hbU1Odzl1YzJTVlA1T0RXT0otMExZa3NxaF8wOVhWMTV6RWhzcW9tUlJVa3ZDZFNDSWhiZTVwY3dsVEtmNzRFbFNkRkNKdXh6VFEzVmI1elc2U0paOHNxek5WWFJBS3g3Y3JKR0piWDA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-03-12T08:27:23.770Z",
+      "pushedAt": "2026-03-12T08:27:23.770Z"
+    },
+    {
       "id": "774961ba1e8b85dc",
       "title": "Gold falls on firmer dollar, US inflation woes - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQenhmYmhGQkNtcF9RZGRacDY4Ty1Vc0QtOC0tbWRUTV9PdDJNT3FlSkN3ZmNmNWZ1LUZLeTlZZGN1QkJvbkJqdEtCZkdJSmtLaGhxU0U3UjZER2xOREFuekNfMWFYS1lLcW41MTZ6NEZuakVaTXlwMTlmT2lHX1dqVG9ILVZuVTl4Q25jdTh4dndlSFFFNDRtZmJyYzZLTUxyRXBWZHBaQ0RUamc?oc=5",
@@ -215,19 +227,7 @@
       ],
       "firstSeen": "2026-03-11T09:27:59.219Z",
       "pushedAt": "2026-03-11T09:27:59.219Z"
-    },
-    {
-      "id": "d2103fb35b74c50a",
-      "title": "Al Jazeera reports from Israeli bombing of Beirut apartment block",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/al-jazeera-reports-from-israeli-bombing-of-beirut-apartment-block?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombing of"
-      ],
-      "firstSeen": "2026-03-11T07:59:58.952Z",
-      "pushedAt": "2026-03-11T07:59:58.952Z"
     }
   ],
-  "updatedAt": "2026-03-12T07:12:22.541Z"
+  "updatedAt": "2026-03-12T08:27:24.142Z"
 }
