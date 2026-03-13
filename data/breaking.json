@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "22dd0456e4eb092a",
+      "title": "More than two dozen killed in Lebanon as Israel attacks Beirut, south, east",
+      "url": "https://www.aljazeera.com/news/2026/3/13/israel-attacks-beirut-in-targeted-killing-attempt-kills-several-in-south?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-13T11:54:46.926Z",
+      "pushedAt": "2026-03-13T11:54:46.926Z"
+    },
+    {
       "id": "6b9b82e01c94ee07",
       "title": "Turkey Says NATO Defenses Shot Down a Third Iranian Missile",
       "url": "https://www.nytimes.com/2026/03/13/world/middleeast/turkey-nato-iran-missile.html",
@@ -219,5 +231,5 @@
       "pushedAt": "2026-03-12T12:48:30.314Z"
     }
   ],
-  "updatedAt": "2026-03-13T11:31:22.459Z"
+  "updatedAt": "2026-03-13T11:54:47.181Z"
 }
