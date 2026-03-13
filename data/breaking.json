@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7fb74c0c6cbc5641",
+      "title": "French soldier killed, others wounded in attack in Iraq, Macron says",
+      "url": "https://www.aljazeera.com/news/2026/3/13/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-13T05:29:26.740Z",
+      "pushedAt": "2026-03-13T05:29:26.740Z"
+    },
+    {
       "id": "c405b9ac72ca3845",
       "title": "US issues 30-day sanctions waiver for purchase of Russian oil at sea - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdUhZX1Zua09sV1VYZks0VEFaMDJhQzh2STZoVlVlSVBLOWkxelNIdEhMZkZmQWxOa19iME1vT3htNWI4SW5SZ1JmdWNjMGd2OXdWQVd1NVJXMGUtRkN0N29QTFhiclRBZjJHcmRQMVFUS1VWYnRScDljUVZvRkJkR3E1X0w1dG56djVqcllXR1ZZUGRZaGMzbnJ3c1NIbVdQZV81bzVBdFNUY1psUmMwYlVlWEpMVnRN?oc=5",
@@ -265,19 +277,7 @@
       ],
       "firstSeen": "2026-03-12T05:32:04.120Z",
       "pushedAt": "2026-03-12T05:32:04.120Z"
-    },
-    {
-      "id": "cc64a5a265851434",
-      "title": "Shares skid, oil surges again as Iran attacks Gulf shipping - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORUE4amVlSWZrMjBnTVZzZUZmMzZ4eVZLbVlybnI4Q0xQYUxnVEZCRDJwRjlnZFVkcEdsTmw3dUZMYTRYTVhKbmdNZzRTdU14VTRqMjNxaS05OFJsQWI5V2lhRVllcFBJbTRJQUdyV3hWNGJQUlcwMnZqZktrUlhzOU0xVQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-03-12T04:23:24.101Z",
-      "pushedAt": "2026-03-12T04:23:24.101Z"
     }
   ],
-  "updatedAt": "2026-03-13T04:19:27.241Z"
+  "updatedAt": "2026-03-13T05:29:27.127Z"
 }
