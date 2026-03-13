@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4929ea820c59ad42",
+      "title": "Drone attack on market in Sudan kills 11, as air war civilian toll mounts",
+      "url": "https://www.aljazeera.com/news/2026/3/13/drone-attack-on-market-in-sudan-kills-11-as-air-war-civilian-toll-mounts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + civilian"
+      ],
+      "firstSeen": "2026-03-13T21:43:30.102Z",
+      "pushedAt": "2026-03-13T21:43:30.103Z"
+    },
+    {
       "id": "38f370a72402c6e3",
       "title": "Iran unleashes oil shock to blunt US firepower - Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlR4U3FSeEZEZHV0T0lEODh6WmRxaHpNbEdVajRodjdkT2xtS3lKSUo2QTVidjhkb3FyN2JtTjl3ZmtLejJBTVc4S2RBN3h1VlNDNEZsWXJVdHlJUWk5SjhVSUhjcWNacFRFOTM1cEpQcVZjamszelR3enR4MEVNMmFCNFNKN3pQcmRFMUM0akx3XzNCN215dG14ZXhIQQ?oc=5",
@@ -227,19 +239,7 @@
       ],
       "firstSeen": "2026-03-12T22:36:09.538Z",
       "pushedAt": "2026-03-12T22:36:09.538Z"
-    },
-    {
-      "id": "98570bca4481ed19",
-      "title": "Nepal to ration cooking gas due to panic over shortage - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeldaZS1JWkdyN2gwUVl0RFNOUG1hRTdUT2xaZzZ1N0RpWTNIS3R3cGFyS0RGOVR0V1FJTHFONUstd2UyY1UxZGhFWUJIX2sxck5GTlBmejIxYmlOSGktUDE5eHJjaDlNLWx1NjRCOXFiZUdvQmVJOFNSb1RiVVJUZkVsYV9DLWdZTlhLbVJSZXR6M040cnJRMkFkMHVmeFpmZHc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + gas"
-      ],
-      "firstSeen": "2026-03-12T21:20:40.981Z",
-      "pushedAt": "2026-03-12T21:20:40.981Z"
     }
   ],
-  "updatedAt": "2026-03-13T21:03:56.463Z"
+  "updatedAt": "2026-03-13T21:43:30.255Z"
 }
