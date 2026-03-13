@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "38f370a72402c6e3",
+      "title": "Iran unleashes oil shock to blunt US firepower - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlR4U3FSeEZEZHV0T0lEODh6WmRxaHpNbEdVajRodjdkT2xtS3lKSUo2QTVidjhkb3FyN2JtTjl3ZmtLejJBTVc4S2RBN3h1VlNDNEZsWXJVdHlJUWk5SjhVSUhjcWNacFRFOTM1cEpQcVZjamszelR3enR4MEVNMmFCNFNKN3pQcmRFMUM0akx3XzNCN215dG14ZXhIQQ?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-03-13T21:03:56.146Z",
+      "pushedAt": "2026-03-13T21:03:56.146Z"
+    },
+    {
       "id": "c023b76866064946",
       "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
       "url": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
@@ -227,45 +239,7 @@
       ],
       "firstSeen": "2026-03-12T21:20:40.981Z",
       "pushedAt": "2026-03-12T21:20:40.981Z"
-    },
-    {
-      "id": "b591cef330040881",
-      "title": "Trump to Target Forced Labor in Global Tariff Scheme",
-      "url": "https://www.nytimes.com/2026/03/12/us/politics/trump-forced-labor-tariffs.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-03-12T20:54:27.564Z",
-      "pushedAt": "2026-03-12T20:54:27.564Z"
-    },
-    {
-      "id": "ad3038cf68932466",
-      "title": "Feds rebuff tariffs on Chinese graphite - E&E News by POLITICO",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YbEVOSGZ0MnZUaThNSk5RYlRBcDB4TjJBT0pGaVhrVDVib1lhR3ZfVi1qYlo1bUM5TXgtMGtqcU9Cak02NTFEMGszeVlDNVdJcS1hQTNscUxualJheDF3bFphVXpnN2xkVkRUWncyTUVfdHd0QmNZZG40ejY?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-03-12T20:54:27.870Z",
-      "pushedAt": "2026-03-12T20:54:27.870Z"
-    },
-    {
-      "id": "c0d9acaa24f4beea",
-      "title": "Bursa Malaysia Remains Lower At Midday As Oil Price Surge Weighs - bernama",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tRGlZeFVENkN0MkZVZ1Y4akNXTTl0cDFLaC0zQy1fRGk0VlRlc1REU0FtaVF3cXowbVZRNFh2eDVMOEMzOE5ZdC13TUNndU1Rd0NoQTJ3WThUMy1sS3JIaVpYRHAteDA0VU8zek85MjRlOGg5OGFOUA?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge",
-        "bursa + surge"
-      ],
-      "firstSeen": "2026-03-12T17:29:56.601Z",
-      "pushedAt": "2026-03-12T17:29:56.601Z"
     }
   ],
-  "updatedAt": "2026-03-13T17:04:38.657Z"
+  "updatedAt": "2026-03-13T21:03:56.463Z"
 }
