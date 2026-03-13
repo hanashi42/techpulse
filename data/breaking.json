@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c023b76866064946",
+      "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
+      "url": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-03-13T17:04:38.430Z",
+      "pushedAt": "2026-03-13T17:04:38.430Z"
+    },
+    {
       "id": "ef8b4573517e69cc",
       "title": "How This Oil Supply Shock Compares to the Embargo of 1973",
       "url": "https://www.nytimes.com/2026/03/13/world/middleeast/oil-supply-shock-1973-embargo.html",
@@ -253,19 +265,7 @@
       ],
       "firstSeen": "2026-03-12T17:29:56.601Z",
       "pushedAt": "2026-03-12T17:29:56.601Z"
-    },
-    {
-      "id": "3056e8854569f888",
-      "title": "Iran War Live Updates: Supreme Leader Issues Defiant Statement as Global Supplies Disruption Grows",
-      "url": "https://www.nytimes.com/live/2026/03/12/world/iran-war-news-trump-oil-israel",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + global"
-      ],
-      "firstSeen": "2026-03-12T16:38:02.047Z",
-      "pushedAt": "2026-03-12T16:38:02.047Z"
     }
   ],
-  "updatedAt": "2026-03-13T16:26:55.952Z"
+  "updatedAt": "2026-03-13T17:04:38.657Z"
 }
