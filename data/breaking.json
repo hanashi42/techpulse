@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "730a60f5b55d1acf",
+      "title": "Germany's Merz says easing Russia sanctions is wrong - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWFvazBQOUg2S0ZvRjJSZVBZZFoxcUFBOUdfcVZZRktScFV0cElWRkZuZm5PTDB4SUxBNFpHZWpGbWp3T1Vabi16SjJIOGVGWmY1eU9leXpQc29CckJNZHNnNU5jZnlhYjEzX1FXNzBucjZrSUNNTjBKMDI2Q1ZsNHl5UjEwMENGbVhrWjYyVURYX3k0cWVfVjh5V3BwM0k4VWFIYWRpYWJrQjNP?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-03-13T13:39:07.856Z",
+      "pushedAt": "2026-03-13T13:39:07.856Z"
+    },
+    {
+      "id": "449a80a4c1f8451f",
+      "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
+      "url": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "gdp + growth"
+      ],
+      "firstSeen": "2026-03-13T13:39:08.191Z",
+      "pushedAt": "2026-03-13T13:39:08.191Z"
+    },
+    {
       "id": "22dd0456e4eb092a",
       "title": "More than two dozen killed in Lebanon as Israel attacks Beirut, south, east",
       "url": "https://www.aljazeera.com/news/2026/3/13/israel-attacks-beirut-in-targeted-killing-attempt-kills-several-in-south?traffic_source=rss",
@@ -217,19 +241,7 @@
       ],
       "firstSeen": "2026-03-12T13:51:04.139Z",
       "pushedAt": "2026-03-12T13:51:04.139Z"
-    },
-    {
-      "id": "8e42e2d16871f951",
-      "title": "BMW braces for another year of tariff and China struggles - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBVTVV0a28xSjNuMGZfNzRDYUZMOEhfZjNsQmFzSndfYldoRUxaLVNoYVhueGdfTXdmbmNHWFcycDdhZ2d4ZjJYVENPWXpyR1RRRTRnSVhraWF5aTR1RW9aODVmZVlhdXZrdmFpRWU4UUJNS01MSlNqV0E2VGlhbEpTY0UyQjl1UkswaGFISl9UTm5HSzZ0c1p4dHVDZw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-03-12T12:48:30.314Z",
-      "pushedAt": "2026-03-12T12:48:30.314Z"
     }
   ],
-  "updatedAt": "2026-03-13T11:54:47.181Z"
+  "updatedAt": "2026-03-13T13:39:08.281Z"
 }
