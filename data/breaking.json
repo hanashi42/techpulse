@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6b9b82e01c94ee07",
+      "title": "Turkey Says NATO Defenses Shot Down a Third Iranian Missile",
+      "url": "https://www.nytimes.com/2026/03/13/world/middleeast/turkey-nato-iran-missile.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shot down + missile"
+      ],
+      "firstSeen": "2026-03-13T11:31:22.278Z",
+      "pushedAt": "2026-03-13T11:31:22.278Z"
+    },
+    {
       "id": "9c7b3a74ed79c2aa",
       "title": "Sri Lanka to repatriate remains of 84 Iranian sailors killed in US attack",
       "url": "https://www.aljazeera.com/news/2026/3/13/sri-lanka-to-repatriate-remains-of-84-iranian-sailors-killed-in-us-attack?traffic_source=rss",
@@ -205,43 +217,7 @@
       ],
       "firstSeen": "2026-03-12T12:48:30.314Z",
       "pushedAt": "2026-03-12T12:48:30.314Z"
-    },
-    {
-      "id": "871dc73a62a783ab",
-      "title": "World faces largest-ever oil supply disruption on Middle East war, IEA says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3FNV1luMy1GeGRhSnlnTm84UUZlWWJsV3JiX29pR0pLLXJNTDlOYmZhM1hPTlFOTVN6d2RKNzllQTFPSk9UOWQtNHAtcFowQWZnOHBzSWJ3NW1NTkdXODVCb1hSalR4Y1ltQTYyQlZ0NU5vS0ZwVjFSSDRPLU55ZG1WcWd3Y3F5bjhSRzk0ZGZMUFRvZlhzY1Bld08xU2ZySG9mOTdtaEZHVEFQSTZFclRTMWV1Q1FScmpqRmNabzE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-03-12T10:35:40.134Z",
-      "pushedAt": "2026-03-12T10:35:40.134Z"
-    },
-    {
-      "id": "6ff5b9630dd1f32a",
-      "title": "Trump administration kicks off new process to try to replace tariffs struck down by Supreme Court - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORlNIWTQwdDZxWDNfci1Db2N4TXUyajgwVW5kU2hCSVVCcGVwX1FuRVFFYXdzZEg2dGRyVTRqS3ladEVZbnZiTGFidzNhVUpWQzdzUmR4WE1TSHNtcFRiQTROa3VDa1d3c1R5aWl1MnRSR3Bra3ZhaUhFb3BnaUV4aExvbHZyeTJYZFNKVDZFZ2daSTNJUEZ4M29xOUM?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-03-12T10:35:40.410Z",
-      "pushedAt": "2026-03-12T10:35:40.410Z"
-    },
-    {
-      "id": "2784d52592227774",
-      "title": "Al Jazeera sees bombs being loaded onto US planes at UK base",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/al-jazeera-sees-bombs-being-loaded-onto-us-planes-at-uk-base?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-12T10:35:40.913Z",
-      "pushedAt": "2026-03-12T10:35:40.913Z"
     }
   ],
-  "updatedAt": "2026-03-13T10:21:47.138Z"
+  "updatedAt": "2026-03-13T11:31:22.459Z"
 }
