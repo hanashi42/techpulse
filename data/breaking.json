@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f34376044b6b2c87",
+      "title": "Exclusive: Top global refiner Sinopec to cut crude runs by over 10% on Mideast supply squeeze, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDhqbFI2bUFRRDdERXNieEpMX0drVmstY19VRXZLN3hPQWl6N2V6eWQ0VmNBS0FQUlgwdTBlNkxTeWhXa2N4SDF1VS1CSl9OS2lZNDU0dmctNndLYk1ncWFRZXhWcGRhNkVUVjloaXdIV0UtNlYtOEtYZlZqZUFJUmtkVmVqV2JXZ3BRVFB0SjdndDJsQmV5SHl3Vi1CMzhIcVIteEt5YkVhRkVpSEhRUFpFWU5hb0FiakM5RmlXSTVfUzFi?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "opec + cut"
+      ],
+      "firstSeen": "2026-03-13T15:07:07.002Z",
+      "pushedAt": "2026-03-13T15:07:07.002Z"
+    },
+    {
       "id": "68d263a30b354a93",
       "title": "Cuba says it has opened talks with US amid oil blockade - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGZsY2VDcnhRVGVJU1o1RWQxajN4UlJUeG43ZkwyalhqOWw0LWtjY0FONnVSWEN0YlBHaTNhbnl0YmMzS20yMGV1MHdGMWdYOXdaMzN1T1NSZFQzc0lHMmNYWXZLYjRYWFE4SHFlWm8taDBXQ3pjYmhuVkVQMXc2T3lQUGpQWjRkQUZQZi16NDc2LXNoTlNQVG4tVVYtbHlSUE9HdXhGb0RfOXYzcDAwQ25ncTZ4YWIz?oc=5",
@@ -241,19 +253,7 @@
       ],
       "firstSeen": "2026-03-12T16:38:02.047Z",
       "pushedAt": "2026-03-12T16:38:02.047Z"
-    },
-    {
-      "id": "b28068216f91dc51",
-      "title": "Israeli attack hits civilians at Beirut beachfront: What we know",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/israeli-attack-hits-civilians-at-beirut-beachfront-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + civilian"
-      ],
-      "firstSeen": "2026-03-12T14:37:11.495Z",
-      "pushedAt": "2026-03-12T14:37:11.495Z"
     }
   ],
-  "updatedAt": "2026-03-13T14:26:00.434Z"
+  "updatedAt": "2026-03-13T15:07:07.150Z"
 }
