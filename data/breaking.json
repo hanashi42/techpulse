@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "c405b9ac72ca3845",
+      "title": "US issues 30-day sanctions waiver for purchase of Russian oil at sea - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdUhZX1Zua09sV1VYZks0VEFaMDJhQzh2STZoVlVlSVBLOWkxelNIdEhMZkZmQWxOa19iME1vT3htNWI4SW5SZ1JmdWNjMGd2OXdWQVd1NVJXMGUtRkN0N29QTFhiclRBZjJHcmRQMVFUS1VWYnRScDljUVZvRkJkR3E1X0w1dG56djVqcllXR1ZZUGRZaGMzbnJ3c1NIbVdQZV81bzVBdFNUY1psUmMwYlVlWEpMVnRN?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-03-13T04:19:26.995Z",
+      "pushedAt": "2026-03-13T04:19:26.995Z"
+    },
+    {
+      "id": "2b075954baca47c0",
+      "title": "Iranian missile strikes residential area in northern Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-03-13T04:19:27.145Z",
+      "pushedAt": "2026-03-13T04:19:27.145Z"
+    },
+    {
       "id": "89dc8d3d62f2125f",
       "title": "Trump demands Fed cut rates. His Iran war has investors betting otherwise - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkJCd3EzTW5OUUkwMlNuNFlBMml5ZkZNZFpHNGdzSjgzVnVMT0ZxMFczemgwZ0JfWHdxQ0dQamxOUFZvcG42LW80NXhpNnZmUUw3LTJ4N1pxQTFLbE1yVDRnZVQzYlQxWURIbmZBek56Tk1KUUw3aVpUS0tZYk04aTlCQXNEN25lT2ZmR2E3cF9NQU1IT2QzQU5ZUFo3TWtranVrM01hTVJQZU1HZ1BCclhjSE5QdXdC?oc=5",
@@ -253,19 +277,7 @@
       ],
       "firstSeen": "2026-03-12T04:23:24.101Z",
       "pushedAt": "2026-03-12T04:23:24.101Z"
-    },
-    {
-      "id": "5c64cdb264f29cfc",
-      "title": "Costco customers sue for share of refunds from Trump tariffs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOakZicWVJNHlIcTQ5NEpIcXVhcE9DNHZSclVJN0ItSFNRS0VTOFdGZnNoYUdiQUNGTGlja3FOM2ZqZWxvQncwV0VsVnZsUjJLNkFRZ3RtY25LQUlobGR6bDJlelhsLWhxQlhTYkQ1bVo3Vjlhdzl5U1dnOTJZTWZDeS1iWVNpaURyRW1wcHlKOC1Hc19na21MUTV0NDdhRVpSdktNMG9TbWRQRTBLT2ZmbzV0WmpDTHVlanltWUFvekl3UQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-03-12T02:24:55.562Z",
-      "pushedAt": "2026-03-12T02:24:55.562Z"
     }
   ],
-  "updatedAt": "2026-03-13T02:03:14.918Z"
+  "updatedAt": "2026-03-13T04:19:27.241Z"
 }
