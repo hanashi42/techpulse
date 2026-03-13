@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "89dc8d3d62f2125f",
+      "title": "Trump demands Fed cut rates. His Iran war has investors betting otherwise - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkJCd3EzTW5OUUkwMlNuNFlBMml5ZkZNZFpHNGdzSjgzVnVMT0ZxMFczemgwZ0JfWHdxQ0dQamxOUFZvcG42LW80NXhpNnZmUUw3LTJ4N1pxQTFLbE1yVDRnZVQzYlQxWURIbmZBek56Tk1KUUw3aVpUS0tZYk04aTlCQXNEN25lT2ZmR2E3cF9NQU1IT2QzQU5ZUFo3TWtranVrM01hTVJQZU1HZ1BCclhjSE5QdXdC?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-03-13T02:03:14.216Z",
+      "pushedAt": "2026-03-13T02:03:14.216Z"
+    },
+    {
+      "id": "64e3b83fe4486e0a",
+      "title": "Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict",
+      "url": "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-03-13T02:03:14.670Z",
+      "pushedAt": "2026-03-13T02:03:14.670Z"
+    },
+    {
       "id": "807b8b30583cd297",
       "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
@@ -241,31 +265,7 @@
       ],
       "firstSeen": "2026-03-12T02:24:55.562Z",
       "pushedAt": "2026-03-12T02:24:55.562Z"
-    },
-    {
-      "id": "96a010ff03d79fbf",
-      "title": "US opens new unfair-trade probes to rebuild Trump's tariff pressure - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmRXcU9vVEl6dUtmWHZTa3pHNjdCRTVhVlZPQ0VnRmwwOTBSYkRLM2hkWXJ6QVpXd1hVM0lyRnJKWXBUcXNObk1jR1k4aTZsbGUzSnBYSDhUVFZDYmQ0TW5QZlpvZk9NWW9JN1BLVElueUlpTlFSQUVqb0FnaDVQaDVRR0x2YUlCRkZRQnZMSC1feUh1V3ZaTTRzYWNiNnl6WDQ1cHpvekNXWjNFbHgwQg?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-03-11T23:47:29.701Z",
-      "pushedAt": "2026-03-11T23:47:29.701Z"
-    },
-    {
-      "id": "538aabfe87d29ba3",
-      "title": "Iran war has blocked the Strait of Hormuz, a vital oil choke point. Reopening it is a big challenge - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcVJDWXZ1MHBUM0FORjdrNTRiRkZpSHlrYnl1Y3VfSTQzNjJIcmJhazlsT3RDN2JvaDBSZFpVZjNONGpacGRPU1lhSGc4MzFfMjN0VzFaNEFIal9kLXFHbkdiT2FMbXYzaDVQYjRMTUxDa2dJSExvZ3lOZnJvOElPTHJab1pmM25ZRnM0b3dQa29DZw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + blocked"
-      ],
-      "firstSeen": "2026-03-11T23:26:50.788Z",
-      "pushedAt": "2026-03-11T23:26:50.788Z"
     }
   ],
-  "updatedAt": "2026-03-12T22:57:06.637Z"
+  "updatedAt": "2026-03-13T02:03:14.918Z"
 }
