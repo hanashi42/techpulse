@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "68d263a30b354a93",
+      "title": "Cuba says it has opened talks with US amid oil blockade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGZsY2VDcnhRVGVJU1o1RWQxajN4UlJUeG43ZkwyalhqOWw0LWtjY0FONnVSWEN0YlBHaTNhbnl0YmMzS20yMGV1MHdGMWdYOXdaMzN1T1NSZFQzc0lHMmNYWXZLYjRYWFE4SHFlWm8taDBXQ3pjYmhuVkVQMXc2T3lQUGpQWjRkQUZQZi16NDc2LXNoTlNQVG4tVVYtbHlSUE9HdXhGb0RfOXYzcDAwQ25ncTZ4YWIz?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-03-13T14:25:59.989Z",
+      "pushedAt": "2026-03-13T14:25:59.989Z"
+    },
+    {
+      "id": "b2f55509a736ce43",
+      "title": "Man in Michigan synagogue attack lost family members in Israeli airstrike in Lebanon, official says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0w0T0s2alV1WmJ6OVBnLXZwcVJhcWp5MW5fMUFNMmJHWmVJNS1nNjJLdmJLYU5IcVFjU1h0R1N3TC1MVUhsbTc4dTFaTFlHMjBGb0tINUJFVFJmVUY4b2l3UGdORnRQQ2tJUV8yVzhZeHVlbkhodnJiR3RCNmE2cGs4M01HaU5hdzRJQjBsbFhuNldoeFpBbVlvWWU4WVp6R0NNOHB3?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + airstrike"
+      ],
+      "firstSeen": "2026-03-13T14:26:00.245Z",
+      "pushedAt": "2026-03-13T14:26:00.245Z"
+    },
+    {
       "id": "730a60f5b55d1acf",
       "title": "Germany's Merz says easing Russia sanctions is wrong - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWFvazBQOUg2S0ZvRjJSZVBZZFoxcUFBOUdfcVZZRktScFV0cElWRkZuZm5PTDB4SUxBNFpHZWpGbWp3T1Vabi16SjJIOGVGWmY1eU9leXpQc29CckJNZHNnNU5jZnlhYjEzX1FXNzBucjZrSUNNTjBKMDI2Q1ZsNHl5UjEwMENGbVhrWjYyVURYX3k0cWVfVjh5V3BwM0k4VWFIYWRpYWJrQjNP?oc=5",
@@ -229,19 +253,7 @@
       ],
       "firstSeen": "2026-03-12T14:37:11.495Z",
       "pushedAt": "2026-03-12T14:37:11.495Z"
-    },
-    {
-      "id": "29e5b2f1d66b9cd6",
-      "title": "Strait of Hormuz must remain closed as 'tool to pressure enemy,' Iran's new supreme leader says",
-      "url": "https://www.cnbc.com/2026/03/12/strait-of-hormuz-closure-iran-oil-prices-mojtaba-khamenei.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + closed"
-      ],
-      "firstSeen": "2026-03-12T13:51:04.139Z",
-      "pushedAt": "2026-03-12T13:51:04.139Z"
     }
   ],
-  "updatedAt": "2026-03-13T13:39:08.281Z"
+  "updatedAt": "2026-03-13T14:26:00.434Z"
 }
