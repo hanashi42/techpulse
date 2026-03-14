@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "696fadf754476a2d",
+      "title": "Iranian missile strike in central Israel sets building ablaze",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-03-14T05:17:51.143Z",
+      "pushedAt": "2026-03-14T05:17:51.143Z"
+    },
+    {
       "id": "061c96c324bbf870",
       "title": "Bombs and bravado: Trump's post reveals much about island strike",
       "url": "https://news.sky.com/story/bombs-and-bravado-trumps-post-reveals-much-about-island-strike-13519463",
@@ -205,5 +217,5 @@
       "pushedAt": "2026-03-13T05:29:26.740Z"
     }
   ],
-  "updatedAt": "2026-03-14T04:20:30.121Z"
+  "updatedAt": "2026-03-14T05:17:51.507Z"
 }
