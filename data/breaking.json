@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a80be9eb985ce77e",
+      "title": "Iran threatens to retaliate against neighbors; Trump urges countries to assist in securing Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-03-14T21:41:49.705Z",
+      "pushedAt": "2026-03-14T21:41:49.705Z"
+    },
+    {
       "id": "c613726c761cc822",
       "title": "Six killed in attacks on Ukraine as EU extends sanctions against Russians",
       "url": "https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine?traffic_source=rss",
@@ -180,19 +192,7 @@
       ],
       "firstSeen": "2026-03-13T21:43:30.102Z",
       "pushedAt": "2026-03-13T21:43:30.103Z"
-    },
-    {
-      "id": "38f370a72402c6e3",
-      "title": "Iran unleashes oil shock to blunt US firepower - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlR4U3FSeEZEZHV0T0lEODh6WmRxaHpNbEdVajRodjdkT2xtS3lKSUo2QTVidjhkb3FyN2JtTjl3ZmtLejJBTVc4S2RBN3h1VlNDNEZsWXJVdHlJUWk5SjhVSUhjcWNacFRFOTM1cEpQcVZjamszelR3enR4MEVNMmFCNFNKN3pQcmRFMUM0akx3XzNCN215dG14ZXhIQQ?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-03-13T21:03:56.146Z",
-      "pushedAt": "2026-03-13T21:03:56.146Z"
     }
   ],
-  "updatedAt": "2026-03-14T19:58:52.113Z"
+  "updatedAt": "2026-03-14T21:41:49.872Z"
 }
