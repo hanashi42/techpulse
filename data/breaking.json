@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "061c96c324bbf870",
+      "title": "Bombs and bravado: Trump's post reveals much about island strike",
+      "url": "https://news.sky.com/story/bombs-and-bravado-trumps-post-reveals-much-about-island-strike-13519463",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-14T04:20:29.894Z",
+      "pushedAt": "2026-03-14T04:20:29.894Z"
+    },
+    {
+      "id": "807b8b30583cd297",
+      "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "nuclear test"
+      ],
+      "firstSeen": "2026-03-14T04:20:30.008Z",
+      "pushedAt": "2026-03-14T04:20:30.008Z"
+    },
+    {
       "id": "61b7b04ac15f0ea4",
       "title": "Exclusive: Meta planning sweeping layoffs as AI costs mount - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5",
@@ -179,31 +203,7 @@
       ],
       "firstSeen": "2026-03-13T05:29:26.740Z",
       "pushedAt": "2026-03-13T05:29:26.740Z"
-    },
-    {
-      "id": "c405b9ac72ca3845",
-      "title": "US issues 30-day sanctions waiver for purchase of Russian oil at sea - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdUhZX1Zua09sV1VYZks0VEFaMDJhQzh2STZoVlVlSVBLOWkxelNIdEhMZkZmQWxOa19iME1vT3htNWI4SW5SZ1JmdWNjMGd2OXdWQVd1NVJXMGUtRkN0N29QTFhiclRBZjJHcmRQMVFUS1VWYnRScDljUVZvRkJkR3E1X0w1dG56djVqcllXR1ZZUGRZaGMzbnJ3c1NIbVdQZV81bzVBdFNUY1psUmMwYlVlWEpMVnRN?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-03-13T04:19:26.995Z",
-      "pushedAt": "2026-03-13T04:19:26.995Z"
-    },
-    {
-      "id": "2b075954baca47c0",
-      "title": "Iranian missile strikes residential area in northern Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-03-13T04:19:27.145Z",
-      "pushedAt": "2026-03-13T04:19:27.145Z"
     }
   ],
-  "updatedAt": "2026-03-14T02:22:38.623Z"
+  "updatedAt": "2026-03-14T04:20:30.121Z"
 }
