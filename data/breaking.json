@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c023b76866064946",
+      "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
+      "url": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-03-14T18:23:03.411Z",
+      "pushedAt": "2026-03-14T18:23:03.411Z"
+    },
+    {
       "id": "5021f491b209eae8",
       "title": "Protests erupt in Cuba as US restrictions spark food, energy shortages",
       "url": "https://www.aljazeera.com/news/2026/3/14/protests-erupt-in-cuba-as-us-restrictions-spark-food-energy-shortages?traffic_source=rss",
@@ -169,5 +181,5 @@
       "pushedAt": "2026-03-13T21:03:56.146Z"
     }
   ],
-  "updatedAt": "2026-03-14T17:55:35.210Z"
+  "updatedAt": "2026-03-14T18:23:03.700Z"
 }
