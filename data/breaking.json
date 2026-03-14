@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "87586ee92c4b1ff6",
+      "title": "Trump says most planes targeted in attack on Saudi Arabia base had little damage - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVU8xbUtuMHRmNkJVSHp1Q0U3bUdiTVFrR2dlZ0pkRW1lOW1rbjExNlBlalFxUXk2dmNHdmZrTTA4RDNmQnJHb29XUEh3YUE1UlZ3VS0tZWh1TUZuU0t0NXV3dERFclZmNnBKUU1faFczd0thQVpRVkxfNUJpTEdaLTRRd0RXRnB1SnVobWpMVThiRy1ZRVNCaXJiMmU4VExlc0NyU2I1SGY3VHlRR183b0FaT0VCRFE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + base"
+      ],
+      "firstSeen": "2026-03-14T16:42:15.228Z",
+      "pushedAt": "2026-03-14T16:42:15.228Z"
+    },
+    {
+      "id": "19212f61707db9cf",
+      "title": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs",
+      "url": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-14T16:42:15.354Z",
+      "pushedAt": "2026-03-14T16:42:15.354Z"
+    },
+    {
       "id": "a2f2e3e8ee13ae7b",
       "title": "Congressional Democrats say Trump tariffs will cost US households more than $2,500 this year - AP News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcG9HeHNaR0RzRzZqMGNXNU9UUzhmYlVzaEd1NGdKRVpVcWdpR2FaS09JRXd2QlRBbFEzWjBPeHlOZFFoYlZqNnBBN0lkd2E0SjF5RFNZbmdmMWNfTExYY21fR3pyQVZfa2xVX01oMVl4NTBqeFBUeDd1U0k3ZGhoZm5NNVk4Zlp6ZEFJWk5JQ3Itd3ViODkyS05WS2lLQ1lRdGNUU2h3SmZyUjc2blI4?oc=5",
@@ -143,55 +167,7 @@
       ],
       "firstSeen": "2026-03-13T17:04:38.430Z",
       "pushedAt": "2026-03-13T17:04:38.430Z"
-    },
-    {
-      "id": "ef8b4573517e69cc",
-      "title": "How This Oil Supply Shock Compares to the Embargo of 1973",
-      "url": "https://www.nytimes.com/2026/03/13/world/middleeast/oil-supply-shock-1973-embargo.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "embargo + oil"
-      ],
-      "firstSeen": "2026-03-13T16:26:55.662Z",
-      "pushedAt": "2026-03-13T16:26:55.662Z"
-    },
-    {
-      "id": "f34376044b6b2c87",
-      "title": "Exclusive: Top global refiner Sinopec to cut crude runs by over 10% on Mideast supply squeeze, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWDhqbFI2bUFRRDdERXNieEpMX0drVmstY19VRXZLN3hPQWl6N2V6eWQ0VmNBS0FQUlgwdTBlNkxTeWhXa2N4SDF1VS1CSl9OS2lZNDU0dmctNndLYk1ncWFRZXhWcGRhNkVUVjloaXdIV0UtNlYtOEtYZlZqZUFJUmtkVmVqV2JXZ3BRVFB0SjdndDJsQmV5SHl3Vi1CMzhIcVIteEt5YkVhRkVpSEhRUFpFWU5hb0FiakM5RmlXSTVfUzFi?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + cut"
-      ],
-      "firstSeen": "2026-03-13T15:07:07.002Z",
-      "pushedAt": "2026-03-13T15:07:07.002Z"
-    },
-    {
-      "id": "68d263a30b354a93",
-      "title": "Cuba says it has opened talks with US amid oil blockade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUGZsY2VDcnhRVGVJU1o1RWQxajN4UlJUeG43ZkwyalhqOWw0LWtjY0FONnVSWEN0YlBHaTNhbnl0YmMzS20yMGV1MHdGMWdYOXdaMzN1T1NSZFQzc0lHMmNYWXZLYjRYWFE4SHFlWm8taDBXQ3pjYmhuVkVQMXc2T3lQUGpQWjRkQUZQZi16NDc2LXNoTlNQVG4tVVYtbHlSUE9HdXhGb0RfOXYzcDAwQ25ncTZ4YWIz?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-03-13T14:25:59.989Z",
-      "pushedAt": "2026-03-13T14:25:59.989Z"
-    },
-    {
-      "id": "b2f55509a736ce43",
-      "title": "Man in Michigan synagogue attack lost family members in Israeli airstrike in Lebanon, official says - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0w0T0s2alV1WmJ6OVBnLXZwcVJhcWp5MW5fMUFNMmJHWmVJNS1nNjJLdmJLYU5IcVFjU1h0R1N3TC1MVUhsbTc4dTFaTFlHMjBGb0tINUJFVFJmVUY4b2l3UGdORnRQQ2tJUV8yVzhZeHVlbkhodnJiR3RCNmE2cGs4M01HaU5hdzRJQjBsbFhuNldoeFpBbVlvWWU4WVp6R0NNOHB3?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + airstrike"
-      ],
-      "firstSeen": "2026-03-13T14:26:00.245Z",
-      "pushedAt": "2026-03-13T14:26:00.245Z"
     }
   ],
-  "updatedAt": "2026-03-14T14:05:10.676Z"
+  "updatedAt": "2026-03-14T16:42:15.457Z"
 }
