@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "251b7fe4f8a0c4fb",
+      "title": "Missile strikes helipad in US embassy compound in Iraq, AP reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEp2eEl5RjA0UnkyelJFNXhRVGdiWkdFazhjNlM1bzZ2YzNySDIzLUlGQWNJXzAwNVY4WHdBN3lyTHdsSURyOENRaXN3S1k2U29ibFFwVzMtblNvU21zWGpUYllhdEthN2lUSHRNaU5lOVV1aHB2RzlQX281NC1jMWQ1X2RxNXpJemk2RkFXcmVPNDlIWHdMbm16bWI2bHRDZS1jM2JybWxlWGowUWtUTU5QRQ?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-03-14T06:01:53.038Z",
+      "pushedAt": "2026-03-14T06:01:53.038Z"
+    },
+    {
       "id": "696fadf754476a2d",
       "title": "Iranian missile strike in central Israel sets building ablaze",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss",
@@ -203,19 +215,7 @@
       ],
       "firstSeen": "2026-03-13T07:52:31.928Z",
       "pushedAt": "2026-03-13T07:52:31.928Z"
-    },
-    {
-      "id": "7fb74c0c6cbc5641",
-      "title": "French soldier killed, others wounded in attack in Iraq, Macron says",
-      "url": "https://www.aljazeera.com/news/2026/3/13/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-13T05:29:26.740Z",
-      "pushedAt": "2026-03-13T05:29:26.740Z"
     }
   ],
-  "updatedAt": "2026-03-14T05:17:51.507Z"
+  "updatedAt": "2026-03-14T06:01:53.187Z"
 }
