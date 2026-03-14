@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "61b7b04ac15f0ea4",
+      "title": "Exclusive: Meta planning sweeping layoffs as AI costs mount - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + meta"
+      ],
+      "firstSeen": "2026-03-14T02:22:38.438Z",
+      "pushedAt": "2026-03-14T02:22:38.438Z"
+    },
+    {
       "id": "4929ea820c59ad42",
       "title": "Drone attack on market in Sudan kills 11, as air war civilian toll mounts",
       "url": "https://www.aljazeera.com/news/2026/3/13/drone-attack-on-market-in-sudan-kills-11-as-air-war-civilian-toll-mounts?traffic_source=rss",
@@ -191,55 +203,7 @@
       ],
       "firstSeen": "2026-03-13T04:19:27.145Z",
       "pushedAt": "2026-03-13T04:19:27.145Z"
-    },
-    {
-      "id": "89dc8d3d62f2125f",
-      "title": "Trump demands Fed cut rates. His Iran war has investors betting otherwise - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkJCd3EzTW5OUUkwMlNuNFlBMml5ZkZNZFpHNGdzSjgzVnVMT0ZxMFczemgwZ0JfWHdxQ0dQamxOUFZvcG42LW80NXhpNnZmUUw3LTJ4N1pxQTFLbE1yVDRnZVQzYlQxWURIbmZBek56Tk1KUUw3aVpUS0tZYk04aTlCQXNEN25lT2ZmR2E3cF9NQU1IT2QzQU5ZUFo3TWtranVrM01hTVJQZU1HZ1BCclhjSE5QdXdC?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-03-13T02:03:14.216Z",
-      "pushedAt": "2026-03-13T02:03:14.216Z"
-    },
-    {
-      "id": "64e3b83fe4486e0a",
-      "title": "Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict",
-      "url": "https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-03-13T02:03:14.670Z",
-      "pushedAt": "2026-03-13T02:03:14.670Z"
-    },
-    {
-      "id": "807b8b30583cd297",
-      "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "nuclear test"
-      ],
-      "firstSeen": "2026-03-12T22:57:06.476Z",
-      "pushedAt": "2026-03-12T22:57:06.476Z"
-    },
-    {
-      "id": "d14b608cf644b41e",
-      "title": "Air attacks target bases of Iran-backed forces in Iraq",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/air-attacks-target-bases-of-iran-backed-forces-in-iraq?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + base"
-      ],
-      "firstSeen": "2026-03-12T22:36:09.538Z",
-      "pushedAt": "2026-03-12T22:36:09.538Z"
     }
   ],
-  "updatedAt": "2026-03-13T21:43:30.255Z"
+  "updatedAt": "2026-03-14T02:22:38.623Z"
 }
