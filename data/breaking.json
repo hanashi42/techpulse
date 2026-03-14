@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a2f2e3e8ee13ae7b",
+      "title": "Congressional Democrats say Trump tariffs will cost US households more than $2,500 this year - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcG9HeHNaR0RzRzZqMGNXNU9UUzhmYlVzaEd1NGdKRVpVcWdpR2FaS09JRXd2QlRBbFEzWjBPeHlOZFFoYlZqNnBBN0lkd2E0SjF5RFNZbmdmMWNfTExYY21fR3pyQVZfa2xVX01oMVl4NTBqeFBUeDd1U0k3ZGhoZm5NNVk4Zlp6ZEFJWk5JQ3Itd3ViODkyS05WS2lLQ1lRdGNUU2h3SmZyUjc2blI4?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-03-14T14:05:10.412Z",
+      "pushedAt": "2026-03-14T14:05:10.412Z"
+    },
+    {
       "id": "c318ccbbdc9b0053",
       "title": "Iran War Live Updates: U.S. Bombs Iranian Oil Hub",
       "url": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
@@ -179,55 +191,7 @@
       ],
       "firstSeen": "2026-03-13T14:26:00.245Z",
       "pushedAt": "2026-03-13T14:26:00.245Z"
-    },
-    {
-      "id": "730a60f5b55d1acf",
-      "title": "Germany's Merz says easing Russia sanctions is wrong - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWFvazBQOUg2S0ZvRjJSZVBZZFoxcUFBOUdfcVZZRktScFV0cElWRkZuZm5PTDB4SUxBNFpHZWpGbWp3T1Vabi16SjJIOGVGWmY1eU9leXpQc29CckJNZHNnNU5jZnlhYjEzX1FXNzBucjZrSUNNTjBKMDI2Q1ZsNHl5UjEwMENGbVhrWjYyVURYX3k0cWVfVjh5V3BwM0k4VWFIYWRpYWJrQjNP?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-03-13T13:39:07.856Z",
-      "pushedAt": "2026-03-13T13:39:07.856Z"
-    },
-    {
-      "id": "449a80a4c1f8451f",
-      "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
-      "url": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "gdp + growth"
-      ],
-      "firstSeen": "2026-03-13T13:39:08.191Z",
-      "pushedAt": "2026-03-13T13:39:08.191Z"
-    },
-    {
-      "id": "22dd0456e4eb092a",
-      "title": "More than two dozen killed in Lebanon as Israel attacks Beirut, south, east",
-      "url": "https://www.aljazeera.com/news/2026/3/13/israel-attacks-beirut-in-targeted-killing-attempt-kills-several-in-south?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-13T11:54:46.926Z",
-      "pushedAt": "2026-03-13T11:54:46.926Z"
-    },
-    {
-      "id": "6b9b82e01c94ee07",
-      "title": "Turkey Says NATO Defenses Shot Down a Third Iranian Missile",
-      "url": "https://www.nytimes.com/2026/03/13/world/middleeast/turkey-nato-iran-missile.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + missile"
-      ],
-      "firstSeen": "2026-03-13T11:31:22.278Z",
-      "pushedAt": "2026-03-13T11:31:22.278Z"
     }
   ],
-  "updatedAt": "2026-03-14T11:12:23.514Z"
+  "updatedAt": "2026-03-14T14:05:10.676Z"
 }
