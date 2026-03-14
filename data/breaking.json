@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5021f491b209eae8",
+      "title": "Protests erupt in Cuba as US restrictions spark food, energy shortages",
+      "url": "https://www.aljazeera.com/news/2026/3/14/protests-erupt-in-cuba-as-us-restrictions-spark-food-energy-shortages?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + energy"
+      ],
+      "firstSeen": "2026-03-14T17:55:35.077Z",
+      "pushedAt": "2026-03-14T17:55:35.077Z"
+    },
+    {
       "id": "87586ee92c4b1ff6",
       "title": "Trump says most planes targeted in attack on Saudi Arabia base had little damage - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVU8xbUtuMHRmNkJVSHp1Q0U3bUdiTVFrR2dlZ0pkRW1lOW1rbjExNlBlalFxUXk2dmNHdmZrTTA4RDNmQnJHb29XUEh3YUE1UlZ3VS0tZWh1TUZuU0t0NXV3dERFclZmNnBKUU1faFczd0thQVpRVkxfNUJpTEdaLTRRd0RXRnB1SnVobWpMVThiRy1ZRVNCaXJiMmU4VExlc0NyU2I1SGY3VHlRR183b0FaT0VCRFE?oc=5",
@@ -155,19 +167,7 @@
       ],
       "firstSeen": "2026-03-13T21:03:56.146Z",
       "pushedAt": "2026-03-13T21:03:56.146Z"
-    },
-    {
-      "id": "c023b76866064946",
-      "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
-      "url": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-03-13T17:04:38.430Z",
-      "pushedAt": "2026-03-13T17:04:38.430Z"
     }
   ],
-  "updatedAt": "2026-03-14T16:42:15.457Z"
+  "updatedAt": "2026-03-14T17:55:35.210Z"
 }
