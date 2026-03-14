@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fce17209607ef1d8",
+      "title": "European stocks close lower as oil prices hold near $100 a barrel",
+      "url": "https://www.cnbc.com/2026/03/13/european-markets-stoxx-600-ftse-dax-cac-iran-news-oil-prices.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + barrel"
+      ],
+      "firstSeen": "2026-03-14T09:00:22.754Z",
+      "pushedAt": "2026-03-14T09:00:22.754Z"
+    },
+    {
       "id": "ecf4274fb06cc86b",
       "title": "Four killed in Russian air attack on Kyiv region, officials say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUVmVjF4ckFGZ0lPcnc1VC1SQjR4S1JlYVdnZWswY1V5YVlGNmcwSDhuSXhmclM0NFNCYmdRN3hmUUNDYldlV2JBNE1FNENZRnl6UzFYT2hCQ1JETjNMRnkwYmlGM3I3dm8zMlhnS3U1cTQyYml4M1lmQ01veFg5U0c1VWF6VXF0ZFlTRjZKSUxhY3UzbEJ1WTNKSzR4V0E?oc=5",
@@ -217,5 +229,5 @@
       "pushedAt": "2026-03-13T10:21:46.720Z"
     }
   ],
-  "updatedAt": "2026-03-14T08:29:39.353Z"
+  "updatedAt": "2026-03-14T09:00:23.137Z"
 }
