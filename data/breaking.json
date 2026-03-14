@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ecf4274fb06cc86b",
+      "title": "Four killed in Russian air attack on Kyiv region, officials say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUVmVjF4ckFGZ0lPcnc1VC1SQjR4S1JlYVdnZWswY1V5YVlGNmcwSDhuSXhmclM0NFNCYmdRN3hmUUNDYldlV2JBNE1FNENZRnl6UzFYT2hCQ1JETjNMRnkwYmlGM3I3dm8zMlhnS3U1cTQyYml4M1lmQ01veFg5U0c1VWF6VXF0ZFlTRjZKSUxhY3UzbEJ1WTNKSzR4V0E?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-14T08:29:38.975Z",
+      "pushedAt": "2026-03-14T08:29:38.975Z"
+    },
+    {
       "id": "251b7fe4f8a0c4fb",
       "title": "Missile strikes helipad in US embassy compound in Iraq, AP reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEp2eEl5RjA0UnkyelJFNXhRVGdiWkdFazhjNlM1bzZ2YzNySDIzLUlGQWNJXzAwNVY4WHdBN3lyTHdsSURyOENRaXN3S1k2U29ibFFwVzMtblNvU21zWGpUYllhdEthN2lUSHRNaU5lOVV1aHB2RzlQX281NC1jMWQ1X2RxNXpJemk2RkFXcmVPNDlIWHdMbm16bWI2bHRDZS1jM2JybWxlWGowUWtUTU5QRQ?oc=5",
@@ -203,19 +215,7 @@
       ],
       "firstSeen": "2026-03-13T10:21:46.720Z",
       "pushedAt": "2026-03-13T10:21:46.720Z"
-    },
-    {
-      "id": "fce17209607ef1d8",
-      "title": "European stocks set to slide further as oil prices stay above $100 a barrel",
-      "url": "https://www.cnbc.com/2026/03/13/european-markets-stoxx-600-ftse-dax-cac-iran-news-oil-prices.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + barrel"
-      ],
-      "firstSeen": "2026-03-13T07:52:31.928Z",
-      "pushedAt": "2026-03-13T07:52:31.928Z"
     }
   ],
-  "updatedAt": "2026-03-14T06:01:53.187Z"
+  "updatedAt": "2026-03-14T08:29:39.353Z"
 }
