@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "13f506cf3450d59d",
+      "title": "Bahrain's Alba shuts 19% of aluminium capacity as Hormuz disruption continues - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMHBWd2NjWjFJajdkeGdQRjEyQ2xmUTg5Q0g3YXgwbkowSERhU1VZN3lqZV9TdFpKbzhTYUFLTC1PSjFMeXgwR0R2OGxSREttZ3QtaG8xcm8zSGNtVlJnNGVmNnIyeVZWbzVjTmY0TnF2bVBvRlFEX2dFREgwWjdwNlNGdDZ2Ym1ERWRsOE5lZVNFMWNKOWtpam5vbnZuaC1zZmRHYWg3UWdtY296SHNZbDFzOEZqVlpjYU82Q2h6alQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption"
+      ],
+      "firstSeen": "2026-03-15T12:58:44.468Z",
+      "pushedAt": "2026-03-15T12:58:44.468Z"
+    },
+    {
       "id": "061c96c324bbf870",
       "title": "Bombs and bravado: Trump's post reveals much about island strike",
       "url": "https://news.sky.com/story/bombs-and-bravado-trumps-post-reveals-much-about-island-strike-13519463",
@@ -108,31 +120,7 @@
       ],
       "firstSeen": "2026-03-14T14:05:10.412Z",
       "pushedAt": "2026-03-14T14:05:10.412Z"
-    },
-    {
-      "id": "c318ccbbdc9b0053",
-      "title": "Iran War Live Updates: U.S. Bombs Iranian Oil Hub",
-      "url": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-14T11:12:23.159Z",
-      "pushedAt": "2026-03-14T11:12:23.159Z"
-    },
-    {
-      "id": "fce17209607ef1d8",
-      "title": "European stocks close lower as oil prices hold near $100 a barrel",
-      "url": "https://www.cnbc.com/2026/03/13/european-markets-stoxx-600-ftse-dax-cac-iran-news-oil-prices.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + barrel"
-      ],
-      "firstSeen": "2026-03-14T09:00:22.754Z",
-      "pushedAt": "2026-03-14T09:00:22.754Z"
     }
   ],
-  "updatedAt": "2026-03-15T08:36:40.025Z"
+  "updatedAt": "2026-03-15T12:58:44.591Z"
 }
