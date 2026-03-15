@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "061c96c324bbf870",
+      "title": "Bombs and bravado: Trump's post reveals much about island strike",
+      "url": "https://news.sky.com/story/bombs-and-bravado-trumps-post-reveals-much-about-island-strike-13519463",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-15T08:36:39.842Z",
+      "pushedAt": "2026-03-15T08:36:39.842Z"
+    },
+    {
       "id": "00bd6eedcbe0ff4b",
       "title": "Week in review: How we navigated the Iran war-driven surge in oil that slammed stocks",
       "url": "https://www.cnbc.com/2026/03/14/week-in-review-how-we-navigated-the-iran-war-driven-surge-in-oil-that-slammed-stocks.html",
@@ -120,19 +132,7 @@
       ],
       "firstSeen": "2026-03-14T09:00:22.754Z",
       "pushedAt": "2026-03-14T09:00:22.754Z"
-    },
-    {
-      "id": "ecf4274fb06cc86b",
-      "title": "Four killed in Russian air attack on Kyiv region, officials say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUVmVjF4ckFGZ0lPcnc1VC1SQjR4S1JlYVdnZWswY1V5YVlGNmcwSDhuSXhmclM0NFNCYmdRN3hmUUNDYldlV2JBNE1FNENZRnl6UzFYT2hCQ1JETjNMRnkwYmlGM3I3dm8zMlhnS3U1cTQyYml4M1lmQ01veFg5U0c1VWF6VXF0ZFlTRjZKSUxhY3UzbEJ1WTNKSzR4V0E?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-14T08:29:38.975Z",
-      "pushedAt": "2026-03-14T08:29:38.975Z"
     }
   ],
-  "updatedAt": "2026-03-15T07:59:09.820Z"
+  "updatedAt": "2026-03-15T08:36:40.025Z"
 }
