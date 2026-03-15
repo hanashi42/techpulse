@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "00bd6eedcbe0ff4b",
+      "title": "Week in review: How we navigated the Iran war-driven surge in oil that slammed stocks",
+      "url": "https://www.cnbc.com/2026/03/14/week-in-review-how-we-navigated-the-iran-war-driven-surge-in-oil-that-slammed-stocks.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-03-15T07:59:09.445Z",
+      "pushedAt": "2026-03-15T07:59:09.445Z"
+    },
+    {
       "id": "a80be9eb985ce77e",
       "title": "Iran threatens to retaliate against neighbors; Trump urges countries to assist in securing Strait of Hormuz",
       "url": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
@@ -120,79 +132,7 @@
       ],
       "firstSeen": "2026-03-14T08:29:38.975Z",
       "pushedAt": "2026-03-14T08:29:38.975Z"
-    },
-    {
-      "id": "251b7fe4f8a0c4fb",
-      "title": "Missile strikes helipad in US embassy compound in Iraq, AP reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEp2eEl5RjA0UnkyelJFNXhRVGdiWkdFazhjNlM1bzZ2YzNySDIzLUlGQWNJXzAwNVY4WHdBN3lyTHdsSURyOENRaXN3S1k2U29ibFFwVzMtblNvU21zWGpUYllhdEthN2lUSHRNaU5lOVV1aHB2RzlQX281NC1jMWQ1X2RxNXpJemk2RkFXcmVPNDlIWHdMbm16bWI2bHRDZS1jM2JybWxlWGowUWtUTU5QRQ?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-03-14T06:01:53.038Z",
-      "pushedAt": "2026-03-14T06:01:53.038Z"
-    },
-    {
-      "id": "696fadf754476a2d",
-      "title": "Iranian missile strike in central Israel sets building ablaze",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strike-in-central-israel-sets-building-ablaze?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-03-14T05:17:51.143Z",
-      "pushedAt": "2026-03-14T05:17:51.143Z"
-    },
-    {
-      "id": "061c96c324bbf870",
-      "title": "Bombs and bravado: Trump's post reveals much about island strike",
-      "url": "https://news.sky.com/story/bombs-and-bravado-trumps-post-reveals-much-about-island-strike-13519463",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-14T04:20:29.894Z",
-      "pushedAt": "2026-03-14T04:20:29.894Z"
-    },
-    {
-      "id": "807b8b30583cd297",
-      "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "nuclear test"
-      ],
-      "firstSeen": "2026-03-14T04:20:30.008Z",
-      "pushedAt": "2026-03-14T04:20:30.008Z"
-    },
-    {
-      "id": "61b7b04ac15f0ea4",
-      "title": "Exclusive: Meta planning sweeping layoffs as AI costs mount - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-03-14T02:22:38.438Z",
-      "pushedAt": "2026-03-14T02:22:38.438Z"
-    },
-    {
-      "id": "4929ea820c59ad42",
-      "title": "Drone attack on market in Sudan kills 11, as air war civilian toll mounts",
-      "url": "https://www.aljazeera.com/news/2026/3/13/drone-attack-on-market-in-sudan-kills-11-as-air-war-civilian-toll-mounts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + civilian"
-      ],
-      "firstSeen": "2026-03-13T21:43:30.102Z",
-      "pushedAt": "2026-03-13T21:43:30.103Z"
     }
   ],
-  "updatedAt": "2026-03-14T21:41:49.872Z"
+  "updatedAt": "2026-03-15T07:59:09.820Z"
 }
