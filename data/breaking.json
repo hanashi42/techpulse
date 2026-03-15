@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "4ecc63f492962313",
+      "title": "Strategic oil release may calm markets but cannot fix Hormuz disruption",
+      "url": "https://www.aljazeera.com/economy/2026/3/15/strategic-oil-release-may-calm-markets-but-cannot-fix-hormuz-disruption?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-03-15T15:44:47.480Z",
+      "pushedAt": "2026-03-15T15:44:47.480Z"
+    },
+    {
       "id": "13f506cf3450d59d",
       "title": "Bahrain's Alba shuts 19% of aluminium capacity as Hormuz disruption continues - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMHBWd2NjWjFJajdkeGdQRjEyQ2xmUTg5Q0g3YXgwbkowSERhU1VZN3lqZV9TdFpKbzhTYUFLTC1PSjFMeXgwR0R2OGxSREttZ3QtaG8xcm8zSGNtVlJnNGVmNnIyeVZWbzVjTmY0TnF2bVBvRlFEX2dFREgwWjdwNlNGdDZ2Ym1ERWRsOE5lZVNFMWNKOWtpam5vbnZuaC1zZmRHYWg3UWdtY296SHNZbDFzOEZqVlpjYU82Q2h6alQ?oc=5",
@@ -108,19 +121,7 @@
       ],
       "firstSeen": "2026-03-14T16:42:15.354Z",
       "pushedAt": "2026-03-14T16:42:15.354Z"
-    },
-    {
-      "id": "a2f2e3e8ee13ae7b",
-      "title": "Congressional Democrats say Trump tariffs will cost US households more than $2,500 this year - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcG9HeHNaR0RzRzZqMGNXNU9UUzhmYlVzaEd1NGdKRVpVcWdpR2FaS09JRXd2QlRBbFEzWjBPeHlOZFFoYlZqNnBBN0lkd2E0SjF5RFNZbmdmMWNfTExYY21fR3pyQVZfa2xVX01oMVl4NTBqeFBUeDd1U0k3ZGhoZm5NNVk4Zlp6ZEFJWk5JQ3Itd3ViODkyS05WS2lLQ1lRdGNUU2h3SmZyUjc2blI4?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-03-14T14:05:10.412Z",
-      "pushedAt": "2026-03-14T14:05:10.412Z"
     }
   ],
-  "updatedAt": "2026-03-15T12:58:44.591Z"
+  "updatedAt": "2026-03-15T15:44:47.635Z"
 }
