@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b44f5389054ee4a6",
+      "title": "Canada, France, Germany, UK warn against major Israeli ground offensive in Lebanon - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV1JZdmt1RTV2MmJmNEpyR0w0Q3ZZTndicHJRQmtVOWdOQkhoQzRFN2dIcXlaSHBXeFI5N1hQRGZYbzRTNnk2MGhrRnhuVWVQTEFVWGFYZGdPeGdXa3MydnZTNVkyTjZYUXlEbXllZFFRNFZ2djAtbktyWG5mLURxc09Oc1hpT3FRa0VMcnFNVTlxZ2xrbkoyV1hRbHI4b3g1dGpYcEh0ejZFVGxaVEw1QVFUZU9Ud3A4UlZYcFJLZnd3aVVfcWNmZ3Z3?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ground offensive"
+      ],
+      "firstSeen": "2026-03-16T22:58:05.361Z",
+      "pushedAt": "2026-03-16T22:58:05.361Z"
+    },
+    {
       "id": "033ca317acf1b1a2",
       "title": "The Trump-China trade wars: Five takeaways from US imports in 2025 - Peterson Institute for International Economics",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS25TQ0dndmJlWHZpb3pUQ3B3dFltMEhfNUN1S3BkRnJiaEk2VU9tdHNsbXREYzV2LWUzWkt4QnZXQUE2VlI3ZW9LRk8xTUItV0plWXBYLTRQQVRpeHByaHp0Y3VLRWRYWk9JNS15d1pTZEpyMzhVSUlpWWtiVm56d3FsbFFkMm1tZlpORW5rRzFtejRaX0dDZFFidXAxaXVTUGVOeWIzTQ?oc=5",
@@ -157,5 +169,5 @@
       "pushedAt": "2026-03-16T03:21:54.951Z"
     }
   ],
-  "updatedAt": "2026-03-16T22:30:48.210Z"
+  "updatedAt": "2026-03-16T22:58:05.497Z"
 }
