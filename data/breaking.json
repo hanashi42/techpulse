@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "996b2b5a7f1aeed2",
+      "title": "Hotel in Iraqi capital Baghdad struck as attacks on US embassy intercepted",
+      "url": "https://www.aljazeera.com/news/2026/3/16/hotel-in-iraqi-capital-baghdad-struck-as-attacks-on-us-embassy-intercepted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + embassy"
+      ],
+      "firstSeen": "2026-03-16T23:28:29.747Z",
+      "pushedAt": "2026-03-16T23:28:29.747Z"
+    },
+    {
       "id": "b44f5389054ee4a6",
       "title": "Canada, France, Germany, UK warn against major Israeli ground offensive in Lebanon - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV1JZdmt1RTV2MmJmNEpyR0w0Q3ZZTndicHJRQmtVOWdOQkhoQzRFN2dIcXlaSHBXeFI5N1hQRGZYbzRTNnk2MGhrRnhuVWVQTEFVWGFYZGdPeGdXa3MydnZTNVkyTjZYUXlEbXllZFFRNFZ2djAtbktyWG5mLURxc09Oc1hpT3FRa0VMcnFNVTlxZ2xrbkoyV1hRbHI4b3g1dGpYcEh0ejZFVGxaVEw1QVFUZU9Ud3A4UlZYcFJLZnd3aVVfcWNmZ3Z3?oc=5",
@@ -169,5 +181,5 @@
       "pushedAt": "2026-03-16T03:21:54.951Z"
     }
   ],
-  "updatedAt": "2026-03-16T22:58:05.497Z"
+  "updatedAt": "2026-03-16T23:28:29.977Z"
 }
