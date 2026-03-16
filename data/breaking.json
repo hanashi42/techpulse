@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c5f001e76604d68f",
+      "title": "Cuba electric grid collapses amid US oil blockade causing national blackout",
+      "url": "https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-03-16T21:24:35.708Z",
+      "pushedAt": "2026-03-16T21:24:35.708Z"
+    },
+    {
       "id": "ceafad5e1348ab2d",
       "title": "EU has 'no appetite' to expand Mideast naval mission to Strait of Hormuz, Kallas says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHNvMXZNX3h1Zl85amxXTFU2WlhxUWpQazFDNXZMMlY0RkJtd09yRWZtUndMN0FaeHE3dmVkQW16ME1TUHZKYmlrREJmYnZ3RmYtRFNzcEJ2V1RIN2RrTDJIbFY3WjN5dy13M1lORE12SXFkN0N6UW5CR2psbzF0NE9Gc0EyV21JdUU5U2Q2LXZ5WTRlSW84bzVZSE9QN3BCc1p5WjhwSFdwTHpwXzJMUUxKYWRNUQ?oc=5",
@@ -133,5 +145,5 @@
       "pushedAt": "2026-03-16T03:21:54.951Z"
     }
   ],
-  "updatedAt": "2026-03-16T20:50:51.931Z"
+  "updatedAt": "2026-03-16T21:24:35.894Z"
 }
