@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a8c52d3f05d6d850",
+      "title": "Israeli military claims brother of man who attacked Michigan synagogue was Hezbollah commander - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEZ4b2dEQW9BaVVPMFo4MF9Pb0dTUUpkWHFPVUdiMkR2SFhXRzB6azNUdW1VQ0c2aTExMlktanhtV1kxd0NrQVhMNDh1c1gzQ1NPNU5PMFgyaWpwdzV0cEZjekJmOWFvcy01UjVvTW5odTFxNk1LUHVZcUtWLWpsYWlONVdOOXppa2JldTBMZlU2a2FLUUhsb0g4WUxxTFg1bFExdg?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-03-16T05:26:50.303Z",
+      "pushedAt": "2026-03-16T05:26:50.303Z"
+    },
+    {
       "id": "64ce2b0ed7d65fcd",
       "title": "Asia-Pacific markets fall as oil prices stay elevated amid escalating U.S.-Iran tensions",
       "url": "https://www.cnbc.com/2026/03/16/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
@@ -62,5 +74,5 @@
       "pushedAt": "2026-03-15T07:59:09.445Z"
     }
   ],
-  "updatedAt": "2026-03-16T03:21:55.137Z"
+  "updatedAt": "2026-03-16T05:26:50.682Z"
 }
