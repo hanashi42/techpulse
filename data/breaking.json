@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "95e32251e19064e1",
+      "title": "Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjg1WWdxQlduWWxnV2t2NmZLWnJhY0R4b1hYQ3hYb1pzSXlJYnBqQl9ESXctcVoyUU1zemxSc2ZZWmRBVUhZRW81VXFReGRXRXgweV9rcTFLV3hqOFdLdUFySHpwWmJxQXRrajFyVFRMWml2eWtibDRVM3ZYcmNia0poeGNXTk1TaVZhSXVRblBoSVZVUUhJb0daeUlFM2xvdnNpdFZveGlpUFU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + meta"
+      ],
+      "firstSeen": "2026-03-16T14:50:33.391Z",
+      "pushedAt": "2026-03-16T14:50:33.391Z"
+    },
+    {
       "id": "a7afebd995806612",
       "title": "China in contact with US on summit, Rubio sanctions may not apply, Beijing says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS05acmNWbklURE9YZWtCSnQtLTFOWTNxZ2dLM184LXN3SVAxYWVlTnVkeDhhZ2sxRVNMTmFWQXBXb0E1SE1BanpMRGdCdGNrZC1VLV8tbFJlRHNTOWloU1NHRzJ2Tk9OR1BWVm1OYWVvSE9GVkRzdW0yelZRRHlRYi05NVh4dGg2d3Jla1d0cXhFWmpRUDRBb1poeHZpaV84UjROX3pRVl8yMVFNTkNRTmVhMFQzR1lpOVh3?oc=5",
@@ -98,5 +110,5 @@
       "pushedAt": "2026-03-15T15:44:47.480Z"
     }
   ],
-  "updatedAt": "2026-03-16T13:50:36.789Z"
+  "updatedAt": "2026-03-16T14:50:33.661Z"
 }
