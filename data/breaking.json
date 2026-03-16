@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "061c96c324bbf870",
+      "title": "Bombs and bravado: Trump's post reveals much about island strike",
+      "url": "https://news.sky.com/story/bombs-and-bravado-trumps-post-reveals-much-about-island-strike-13519463",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-16T09:56:37.247Z",
+      "pushedAt": "2026-03-16T09:56:37.247Z"
+    },
+    {
       "id": "d5f12eee46da07d4",
       "title": "US is quickly exhausting tools to absorb Iran war oil shock - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTVJRVg3NTAwSFNhUU10WVZUdHRKV1ZVY1FrYkhKRmU3MzF4eng3UC1QUDlTNkFuMEtOaTUybXJsYThOaTBiT2xzZ3YxT0ZrM25OQV9CN1F2UTdfUGRYT3ExeXFhVWx3VlAxV3NnS0hYZHJDblJibnJZMHU5VTZxb0s2ZWlqRG9KRTRyWU14SUVXb1FhNVNmbm1PVkFZWUFxQVB4cjl4dkdsdDNsRkptNEtR?oc=5",
@@ -74,5 +86,5 @@
       "pushedAt": "2026-03-15T12:58:44.468Z"
     }
   ],
-  "updatedAt": "2026-03-16T08:56:26.592Z"
+  "updatedAt": "2026-03-16T09:56:37.642Z"
 }
