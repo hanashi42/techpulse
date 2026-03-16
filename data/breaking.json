@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a7afebd995806612",
+      "title": "China in contact with US on summit, Rubio sanctions may not apply, Beijing says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS05acmNWbklURE9YZWtCSnQtLTFOWTNxZ2dLM184LXN3SVAxYWVlTnVkeDhhZ2sxRVNMTmFWQXBXb0E1SE1BanpMRGdCdGNrZC1VLV8tbFJlRHNTOWloU1NHRzJ2Tk9OR1BWVm1OYWVvSE9GVkRzdW0yelZRRHlRYi05NVh4dGg2d3Jla1d0cXhFWmpRUDRBb1poeHZpaV84UjROX3pRVl8yMVFNTkNRTmVhMFQzR1lpOVh3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-03-16T13:50:36.655Z",
+      "pushedAt": "2026-03-16T13:50:36.655Z"
+    },
+    {
       "id": "de7ac3b59ba39a92",
       "title": "Meta up nearly 3% in premarket as it plans mass layoff to offset increased AI spending",
       "url": "https://www.cnbc.com/2026/03/16/meta-ai-costs-mass-layoffs-20percent-up-premarket.html",
@@ -84,19 +96,7 @@
       ],
       "firstSeen": "2026-03-15T15:44:47.480Z",
       "pushedAt": "2026-03-15T15:44:47.480Z"
-    },
-    {
-      "id": "13f506cf3450d59d",
-      "title": "Bahrain's Alba shuts 19% of aluminium capacity as Hormuz disruption continues - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMHBWd2NjWjFJajdkeGdQRjEyQ2xmUTg5Q0g3YXgwbkowSERhU1VZN3lqZV9TdFpKbzhTYUFLTC1PSjFMeXgwR0R2OGxSREttZ3QtaG8xcm8zSGNtVlJnNGVmNnIyeVZWbzVjTmY0TnF2bVBvRlFEX2dFREgwWjdwNlNGdDZ2Ym1ERWRsOE5lZVNFMWNKOWtpam5vbnZuaC1zZmRHYWg3UWdtY296SHNZbDFzOEZqVlpjYU82Q2h6alQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption"
-      ],
-      "firstSeen": "2026-03-15T12:58:44.468Z",
-      "pushedAt": "2026-03-15T12:58:44.468Z"
     }
   ],
-  "updatedAt": "2026-03-16T11:35:29.887Z"
+  "updatedAt": "2026-03-16T13:50:36.789Z"
 }
