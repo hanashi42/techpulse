@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d5f12eee46da07d4",
+      "title": "US is quickly exhausting tools to absorb Iran war oil shock - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTVJRVg3NTAwSFNhUU10WVZUdHRKV1ZVY1FrYkhKRmU3MzF4eng3UC1QUDlTNkFuMEtOaTUybXJsYThOaTBiT2xzZ3YxT0ZrM25OQV9CN1F2UTdfUGRYT3ExeXFhVWx3VlAxV3NnS0hYZHJDblJibnJZMHU5VTZxb0s2ZWlqRG9KRTRyWU14SUVXb1FhNVNmbm1PVkFZWUFxQVB4cjl4dkdsdDNsRkptNEtR?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-03-16T08:56:26.346Z",
+      "pushedAt": "2026-03-16T08:56:26.346Z"
+    },
+    {
       "id": "097899e30765768a",
       "title": "Iran war live: Trump threatens NATO if allies fail to help on Hormuz",
       "url": "https://www.aljazeera.com/news/liveblog/2026/3/16/iran-war-live-tehran-rejects-trump-claim-on-talks-gulf-attacks-continue?traffic_source=rss",
@@ -60,19 +72,7 @@
       ],
       "firstSeen": "2026-03-15T12:58:44.468Z",
       "pushedAt": "2026-03-15T12:58:44.468Z"
-    },
-    {
-      "id": "061c96c324bbf870",
-      "title": "Bombs and bravado: Trump's post reveals much about island strike",
-      "url": "https://news.sky.com/story/bombs-and-bravado-trumps-post-reveals-much-about-island-strike-13519463",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-15T08:36:39.842Z",
-      "pushedAt": "2026-03-15T08:36:39.842Z"
     }
   ],
-  "updatedAt": "2026-03-16T07:59:16.426Z"
+  "updatedAt": "2026-03-16T08:56:26.592Z"
 }
