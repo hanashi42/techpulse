@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "de7ac3b59ba39a92",
+      "title": "Meta up nearly 3% in premarket as it plans mass layoff to offset increased AI spending",
+      "url": "https://www.cnbc.com/2026/03/16/meta-ai-costs-mass-layoffs-20percent-up-premarket.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + mass"
+      ],
+      "firstSeen": "2026-03-16T11:35:29.578Z",
+      "pushedAt": "2026-03-16T11:35:29.578Z"
+    },
+    {
       "id": "061c96c324bbf870",
       "title": "Bombs and bravado: Trump's post reveals much about island strike",
       "url": "https://news.sky.com/story/bombs-and-bravado-trumps-post-reveals-much-about-island-strike-13519463",
@@ -86,5 +98,5 @@
       "pushedAt": "2026-03-15T12:58:44.468Z"
     }
   ],
-  "updatedAt": "2026-03-16T09:56:37.642Z"
+  "updatedAt": "2026-03-16T11:35:29.887Z"
 }
