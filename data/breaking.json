@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "033ca317acf1b1a2",
+      "title": "The Trump-China trade wars: Five takeaways from US imports in 2025 - Peterson Institute for International Economics",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS25TQ0dndmJlWHZpb3pUQ3B3dFltMEhfNUN1S3BkRnJiaEk2VU9tdHNsbXREYzV2LWUzWkt4QnZXQUE2VlI3ZW9LRk8xTUItV0plWXBYLTRQQVRpeHByaHp0Y3VLRWRYWk9JNS15d1pTZEpyMzhVSUlpWWtiVm56d3FsbFFkMm1tZlpORW5rRzFtejRaX0dDZFFidXAxaXVTUGVOeWIzTQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + china"
+      ],
+      "firstSeen": "2026-03-16T22:30:47.899Z",
+      "pushedAt": "2026-03-16T22:30:47.899Z"
+    },
+    {
       "id": "c5f001e76604d68f",
       "title": "Cuba electric grid collapses amid US oil blockade causing national blackout",
       "url": "https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout?traffic_source=rss",
@@ -145,5 +157,5 @@
       "pushedAt": "2026-03-16T03:21:54.951Z"
     }
   ],
-  "updatedAt": "2026-03-16T21:24:35.894Z"
+  "updatedAt": "2026-03-16T22:30:48.210Z"
 }
