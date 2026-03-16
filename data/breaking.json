@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "64ce2b0ed7d65fcd",
+      "title": "Asia-Pacific markets fall as oil prices stay elevated amid escalating U.S.-Iran tensions",
+      "url": "https://www.cnbc.com/2026/03/16/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-03-16T03:21:54.951Z",
+      "pushedAt": "2026-03-16T03:21:54.951Z"
+    },
+    {
       "id": "4ecc63f492962313",
       "title": "Strategic oil release may calm markets but cannot fix Hormuz disruption",
       "url": "https://www.aljazeera.com/economy/2026/3/15/strategic-oil-release-may-calm-markets-but-cannot-fix-hormuz-disruption?traffic_source=rss",
@@ -48,80 +60,7 @@
       ],
       "firstSeen": "2026-03-15T07:59:09.445Z",
       "pushedAt": "2026-03-15T07:59:09.445Z"
-    },
-    {
-      "id": "a80be9eb985ce77e",
-      "title": "Iran threatens to retaliate against neighbors; Trump urges countries to assist in securing Strait of Hormuz",
-      "url": "https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-03-14T21:41:49.705Z",
-      "pushedAt": "2026-03-14T21:41:49.705Z"
-    },
-    {
-      "id": "c613726c761cc822",
-      "title": "Six killed in attacks on Ukraine as EU extends sanctions against Russians",
-      "url": "https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed",
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-03-14T19:58:51.907Z",
-      "pushedAt": "2026-03-14T19:58:51.907Z"
-    },
-    {
-      "id": "c023b76866064946",
-      "title": "Ukraine and allies fear easing Russian sanctions will prolong war",
-      "url": "https://www.bbc.com/news/articles/c1d6l67122wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-03-14T18:23:03.411Z",
-      "pushedAt": "2026-03-14T18:23:03.411Z"
-    },
-    {
-      "id": "5021f491b209eae8",
-      "title": "Protests erupt in Cuba as US restrictions spark food, energy shortages",
-      "url": "https://www.aljazeera.com/news/2026/3/14/protests-erupt-in-cuba-as-us-restrictions-spark-food-energy-shortages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + energy"
-      ],
-      "firstSeen": "2026-03-14T17:55:35.077Z",
-      "pushedAt": "2026-03-14T17:55:35.077Z"
-    },
-    {
-      "id": "87586ee92c4b1ff6",
-      "title": "Trump says most planes targeted in attack on Saudi Arabia base had little damage - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVU8xbUtuMHRmNkJVSHp1Q0U3bUdiTVFrR2dlZ0pkRW1lOW1rbjExNlBlalFxUXk2dmNHdmZrTTA4RDNmQnJHb29XUEh3YUE1UlZ3VS0tZWh1TUZuU0t0NXV3dERFclZmNnBKUU1faFczd0thQVpRVkxfNUJpTEdaLTRRd0RXRnB1SnVobWpMVThiRy1ZRVNCaXJiMmU4VExlc0NyU2I1SGY3VHlRR183b0FaT0VCRFE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + base"
-      ],
-      "firstSeen": "2026-03-14T16:42:15.228Z",
-      "pushedAt": "2026-03-14T16:42:15.228Z"
-    },
-    {
-      "id": "19212f61707db9cf",
-      "title": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs",
-      "url": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-14T16:42:15.354Z",
-      "pushedAt": "2026-03-14T16:42:15.354Z"
     }
   ],
-  "updatedAt": "2026-03-15T15:44:47.635Z"
+  "updatedAt": "2026-03-16T03:21:55.137Z"
 }
