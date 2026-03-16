@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "097899e30765768a",
+      "title": "Iran war live: Trump threatens NATO if allies fail to help on Hormuz",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/16/iran-war-live-tehran-rejects-trump-claim-on-talks-gulf-attacks-continue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-03-16T07:59:15.971Z",
+      "pushedAt": "2026-03-16T07:59:15.971Z"
+    },
+    {
       "id": "a8c52d3f05d6d850",
       "title": "Israeli military claims brother of man who attacked Michigan synagogue was Hezbollah commander - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEZ4b2dEQW9BaVVPMFo4MF9Pb0dTUUpkWHFPVUdiMkR2SFhXRzB6azNUdW1VQ0c2aTExMlktanhtV1kxd0NrQVhMNDh1c1gzQ1NPNU5PMFgyaWpwdzV0cEZjekJmOWFvcy01UjVvTW5odTFxNk1LUHVZcUtWLWpsYWlONVdOOXppa2JldTBMZlU2a2FLUUhsb0g4WUxxTFg1bFExdg?oc=5",
@@ -60,19 +72,7 @@
       ],
       "firstSeen": "2026-03-15T08:36:39.842Z",
       "pushedAt": "2026-03-15T08:36:39.842Z"
-    },
-    {
-      "id": "00bd6eedcbe0ff4b",
-      "title": "Week in review: How we navigated the Iran war-driven surge in oil that slammed stocks",
-      "url": "https://www.cnbc.com/2026/03/14/week-in-review-how-we-navigated-the-iran-war-driven-surge-in-oil-that-slammed-stocks.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-03-15T07:59:09.445Z",
-      "pushedAt": "2026-03-15T07:59:09.445Z"
     }
   ],
-  "updatedAt": "2026-03-16T05:26:50.682Z"
+  "updatedAt": "2026-03-16T07:59:16.426Z"
 }
