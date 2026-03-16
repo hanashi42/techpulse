@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "74d4325f3e50cad2",
+      "title": "Dubai airport shutdown affects thousands of UK passengers",
+      "url": "https://news.sky.com/story/dubai-airport-shutdown-affects-thousands-of-uk-passengers-as-drone-strikes-fuel-tank-13520528",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-16T15:48:57.506Z",
+      "pushedAt": "2026-03-16T15:48:57.506Z"
+    },
+    {
       "id": "95e32251e19064e1",
       "title": "Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjg1WWdxQlduWWxnV2t2NmZLWnJhY0R4b1hYQ3hYb1pzSXlJYnBqQl9ESXctcVoyUU1zemxSc2ZZWmRBVUhZRW81VXFReGRXRXgweV9rcTFLV3hqOFdLdUFySHpwWmJxQXRrajFyVFRMWml2eWtibDRVM3ZYcmNia0poeGNXTk1TaVZhSXVRblBoSVZVUUhJb0daeUlFM2xvdnNpdFZveGlpUFU?oc=5",
@@ -95,20 +107,7 @@
       ],
       "firstSeen": "2026-03-16T03:21:54.951Z",
       "pushedAt": "2026-03-16T03:21:54.951Z"
-    },
-    {
-      "id": "4ecc63f492962313",
-      "title": "Strategic oil release may calm markets but cannot fix Hormuz disruption",
-      "url": "https://www.aljazeera.com/economy/2026/3/15/strategic-oil-release-may-calm-markets-but-cannot-fix-hormuz-disruption?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-03-15T15:44:47.480Z",
-      "pushedAt": "2026-03-15T15:44:47.480Z"
     }
   ],
-  "updatedAt": "2026-03-16T14:50:33.661Z"
+  "updatedAt": "2026-03-16T15:48:57.660Z"
 }
