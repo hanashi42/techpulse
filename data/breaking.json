@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5ac107e838a4f259",
+      "title": "Afghanistan says children among four killed in latest attacks by Pakistan",
+      "url": "https://www.aljazeera.com/news/2026/3/16/afghanistan-says-children-among-those-killed-in-latest-attacks-by-pakistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-16T17:44:58.703Z",
+      "pushedAt": "2026-03-16T17:44:58.703Z"
+    },
+    {
       "id": "74d4325f3e50cad2",
       "title": "Dubai airport shutdown affects thousands of UK passengers",
       "url": "https://news.sky.com/story/dubai-airport-shutdown-affects-thousands-of-uk-passengers-as-drone-strikes-fuel-tank-13520528",
@@ -109,5 +121,5 @@
       "pushedAt": "2026-03-16T03:21:54.951Z"
     }
   ],
-  "updatedAt": "2026-03-16T15:48:57.660Z"
+  "updatedAt": "2026-03-16T17:44:58.835Z"
 }
