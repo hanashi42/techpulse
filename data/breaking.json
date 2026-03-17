@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "74d4325f3e50cad2",
+      "title": "Dubai airport shutdown affects thousands of UK passengers",
+      "url": "https://news.sky.com/story/dubai-airport-shutdown-affects-thousands-of-uk-passengers-as-drone-strikes-fuel-tank-13520528",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-17T19:38:26.595Z",
+      "pushedAt": "2026-03-17T19:38:26.595Z"
+    },
+    {
       "id": "5184d61a9fe2aade",
       "title": "Iran keeps up attacks on neighbors after Israel says it killed 2 of its top officials - AP News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2ZPWGVKR0E3bXl3SExWdnRrSW96SktTaGh5U2dmN0ZkYlU4UWhVZGpaRmVIMjZmMy1Zc1huaVJSZ0NpOVZSQ2tuTlNMTU1xZEt6b1g2YVlIVzNmcGZvQUh2TFAtUVF0b2lBdk15eVltSUJuWWh6NVFpVlJzTm9uZWRZRGhod1pPUU5uSFhOOHAzRzlJcWdac1RJaU9xbGM2?oc=5",
@@ -169,5 +181,5 @@
       "pushedAt": "2026-03-16T20:50:51.736Z"
     }
   ],
-  "updatedAt": "2026-03-17T18:36:58.251Z"
+  "updatedAt": "2026-03-17T19:38:26.734Z"
 }
