@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "4c818e659b9b7f4a",
+      "title": "Surge in US petrol prices deepens political peril for Trump over Iran",
+      "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-03-17T10:01:34.987Z",
+      "pushedAt": "2026-03-17T10:01:34.987Z"
+    },
+    {
+      "id": "d5dcd2b89a7bf116",
+      "title": "Gulf economies suffer brunt of Iran war as recession risk looms",
+      "url": "https://www.aljazeera.com/economy/2026/3/17/gulf-economies-suffer-brunt-of-iran-war-as-recession-risk-looms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "recession + risk"
+      ],
+      "firstSeen": "2026-03-17T10:01:35.288Z",
+      "pushedAt": "2026-03-17T10:01:35.288Z"
+    },
+    {
+      "id": "76a26a57c7a85c6c",
+      "title": "Another Tanker Is Attacked Near the Strait of Hormuz",
+      "url": "https://www.nytimes.com/2026/03/17/world/middleeast/tanker-attack-iran-war-strait-hormuz-oil.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + attacked"
+      ],
+      "firstSeen": "2026-03-17T10:01:35.417Z",
+      "pushedAt": "2026-03-17T10:01:35.417Z"
+    },
+    {
+      "id": "aaf2c5097cf818e3",
+      "title": "China restricts overseas-incorporated firms from Hong Kong IPOs, Bloomberg News reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT0k0ZER1WTRhWTQyYURCRktSVGNMVHhxRHJ6Sk5DQnBvNXY3amtNcjllcjZLRDN0dWpTRVRpUGd0Q2pQZ2k2Mm9LeGRTNWQ2NTJGU2ZBMmxTTnZGVXRrODZqZDg5ektGdExOZGZEUzN0TjlIYkRWM256RGFWOUhURFF0Z1EtV1N2LVQxcGNvRzFpN29ua1gxWC16NnFaM3hIZnpmT2Q0RUY3UUs0OHl6Y0JFZXBHTU9zMmdZOERYNVFhcGd2YWFoaW03NlFDd01HUjVGNkhlWFdGaHN4TlJpNk9XWQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-03-17T10:01:35.467Z",
+      "pushedAt": "2026-03-17T10:01:35.467Z"
+    },
+    {
       "id": "fb9701ed49ee3750",
       "title": "Treasury yields tick up as investors weigh oil surge, Iran tensions and looming Fed decision",
       "url": "https://www.cnbc.com/2026/03/17/treasury-yields-middle-east-tensions-fed-decision.html",
@@ -143,19 +191,7 @@
       ],
       "firstSeen": "2026-03-16T11:35:29.578Z",
       "pushedAt": "2026-03-16T11:35:29.578Z"
-    },
-    {
-      "id": "061c96c324bbf870",
-      "title": "Bombs and bravado: Trump's post reveals much about island strike",
-      "url": "https://news.sky.com/story/bombs-and-bravado-trumps-post-reveals-much-about-island-strike-13519463",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-16T09:56:37.247Z",
-      "pushedAt": "2026-03-16T09:56:37.247Z"
     }
   ],
-  "updatedAt": "2026-03-17T09:02:37.929Z"
+  "updatedAt": "2026-03-17T10:01:35.509Z"
 }
