@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "48e6c4073b8be74a",
+      "title": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate",
+        "interest rate + decision"
+      ],
+      "firstSeen": "2026-03-17T23:38:05.758Z",
+      "pushedAt": "2026-03-17T23:38:05.758Z"
+    },
+    {
       "id": "74d4325f3e50cad2",
       "title": "Dubai airport shutdown affects thousands of UK passengers",
       "url": "https://news.sky.com/story/dubai-airport-shutdown-affects-thousands-of-uk-passengers-as-drone-strikes-fuel-tank-13520528",
@@ -119,67 +132,7 @@
       ],
       "firstSeen": "2026-03-17T06:11:43.402Z",
       "pushedAt": "2026-03-17T06:11:43.402Z"
-    },
-    {
-      "id": "996b2b5a7f1aeed2",
-      "title": "Hotel in Iraqi capital Baghdad struck as attacks on US embassy intercepted",
-      "url": "https://www.aljazeera.com/news/2026/3/16/hotel-in-iraqi-capital-baghdad-struck-as-attacks-on-us-embassy-intercepted?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + embassy"
-      ],
-      "firstSeen": "2026-03-16T23:28:29.747Z",
-      "pushedAt": "2026-03-16T23:28:29.747Z"
-    },
-    {
-      "id": "b44f5389054ee4a6",
-      "title": "Canada, France, Germany, UK warn against major Israeli ground offensive in Lebanon - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV1JZdmt1RTV2MmJmNEpyR0w0Q3ZZTndicHJRQmtVOWdOQkhoQzRFN2dIcXlaSHBXeFI5N1hQRGZYbzRTNnk2MGhrRnhuVWVQTEFVWGFYZGdPeGdXa3MydnZTNVkyTjZYUXlEbXllZFFRNFZ2djAtbktyWG5mLURxc09Oc1hpT3FRa0VMcnFNVTlxZ2xrbkoyV1hRbHI4b3g1dGpYcEh0ejZFVGxaVEw1QVFUZU9Ud3A4UlZYcFJLZnd3aVVfcWNmZ3Z3?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "ground offensive"
-      ],
-      "firstSeen": "2026-03-16T22:58:05.361Z",
-      "pushedAt": "2026-03-16T22:58:05.361Z"
-    },
-    {
-      "id": "033ca317acf1b1a2",
-      "title": "The Trump-China trade wars: Five takeaways from US imports in 2025 - Peterson Institute for International Economics",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS25TQ0dndmJlWHZpb3pUQ3B3dFltMEhfNUN1S3BkRnJiaEk2VU9tdHNsbXREYzV2LWUzWkt4QnZXQUE2VlI3ZW9LRk8xTUItV0plWXBYLTRQQVRpeHByaHp0Y3VLRWRYWk9JNS15d1pTZEpyMzhVSUlpWWtiVm56d3FsbFFkMm1tZlpORW5rRzFtejRaX0dDZFFidXAxaXVTUGVOeWIzTQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "trade war + china"
-      ],
-      "firstSeen": "2026-03-16T22:30:47.899Z",
-      "pushedAt": "2026-03-16T22:30:47.899Z"
-    },
-    {
-      "id": "c5f001e76604d68f",
-      "title": "Cuba electric grid collapses amid US oil blockade causing national blackout",
-      "url": "https://www.aljazeera.com/news/2026/3/16/cuba-electric-grid-collapses-amid-us-oil-blockade-causing-national-blackout?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-03-16T21:24:35.708Z",
-      "pushedAt": "2026-03-16T21:24:35.708Z"
-    },
-    {
-      "id": "ceafad5e1348ab2d",
-      "title": "EU has 'no appetite' to expand Mideast naval mission to Strait of Hormuz, Kallas says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHNvMXZNX3h1Zl85amxXTFU2WlhxUWpQazFDNXZMMlY0RkJtd09yRWZtUndMN0FaeHE3dmVkQW16ME1TUHZKYmlrREJmYnZ3RmYtRFNzcEJ2V1RIN2RrTDJIbFY3WjN5dy13M1lORE12SXFkN0N6UW5CR2psbzF0NE9Gc0EyV21JdUU5U2Q2LXZ5WTRlSW84bzVZSE9QN3BCc1p5WjhwSFdwTHpwXzJMUUxKYWRNUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + naval"
-      ],
-      "firstSeen": "2026-03-16T20:50:51.736Z",
-      "pushedAt": "2026-03-16T20:50:51.736Z"
     }
   ],
-  "updatedAt": "2026-03-17T19:38:26.734Z"
+  "updatedAt": "2026-03-17T23:38:05.870Z"
 }
