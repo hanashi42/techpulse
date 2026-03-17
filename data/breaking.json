@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "84834eaf42eb4733",
+      "title": "Magnitude 6 earthquake strikes Cuba, EMSC says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlFMeW9wU3FzeDdrUlJlZlE4bkF0WTRMLTlMeUZjVkV6dXhsanFKNEVNTzNPd2UtTGRCc2cwQkpIbjNnRDViR2QyOC1PWkVNRlo3RHY3UWdwUGhYckRfNkNrc2pnRnhzakVvSVBjbVpoamQ3WkpfYlpteWo3dWlFanNtSEVpNFlQaXVCcW9Nbkh4VFpmd01ac0Z1MWtTR2hZXzJYNQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-03-17T06:11:43.402Z",
+      "pushedAt": "2026-03-17T06:11:43.402Z"
+    },
+    {
       "id": "996b2b5a7f1aeed2",
       "title": "Hotel in Iraqi capital Baghdad struck as attacks on US embassy intercepted",
       "url": "https://www.aljazeera.com/news/2026/3/16/hotel-in-iraqi-capital-baghdad-struck-as-attacks-on-us-embassy-intercepted?traffic_source=rss",
@@ -155,31 +167,7 @@
       ],
       "firstSeen": "2026-03-16T07:59:15.971Z",
       "pushedAt": "2026-03-16T07:59:15.971Z"
-    },
-    {
-      "id": "a8c52d3f05d6d850",
-      "title": "Israeli military claims brother of man who attacked Michigan synagogue was Hezbollah commander - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEZ4b2dEQW9BaVVPMFo4MF9Pb0dTUUpkWHFPVUdiMkR2SFhXRzB6azNUdW1VQ0c2aTExMlktanhtV1kxd0NrQVhMNDh1c1gzQ1NPNU5PMFgyaWpwdzV0cEZjekJmOWFvcy01UjVvTW5odTFxNk1LUHVZcUtWLWpsYWlONVdOOXppa2JldTBMZlU2a2FLUUhsb0g4WUxxTFg1bFExdg?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-03-16T05:26:50.303Z",
-      "pushedAt": "2026-03-16T05:26:50.303Z"
-    },
-    {
-      "id": "64ce2b0ed7d65fcd",
-      "title": "Asia-Pacific markets fall as oil prices stay elevated amid escalating U.S.-Iran tensions",
-      "url": "https://www.cnbc.com/2026/03/16/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-03-16T03:21:54.951Z",
-      "pushedAt": "2026-03-16T03:21:54.951Z"
     }
   ],
-  "updatedAt": "2026-03-16T23:28:29.977Z"
+  "updatedAt": "2026-03-17T06:11:43.874Z"
 }
