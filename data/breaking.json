@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5184d61a9fe2aade",
+      "title": "Iran keeps up attacks on neighbors after Israel says it killed 2 of its top officials - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2ZPWGVKR0E3bXl3SExWdnRrSW96SktTaGh5U2dmN0ZkYlU4UWhVZGpaRmVIMjZmMy1Zc1huaVJSZ0NpOVZSQ2tuTlNMTU1xZEt6b1g2YVlIVzNmcGZvQUh2TFAtUVF0b2lBdk15eVltSUJuWWh6NVFpVlJzTm9uZWRZRGhod1pPUU5uSFhOOHAzRzlJcWdac1RJaU9xbGM2?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-17T18:36:58.085Z",
+      "pushedAt": "2026-03-17T18:36:58.085Z"
+    },
+    {
       "id": "555bf53045be6742",
       "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
       "url": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
@@ -155,55 +167,7 @@
       ],
       "firstSeen": "2026-03-16T20:50:51.736Z",
       "pushedAt": "2026-03-16T20:50:51.736Z"
-    },
-    {
-      "id": "5ac107e838a4f259",
-      "title": "Afghanistan says children among four killed in latest attacks by Pakistan",
-      "url": "https://www.aljazeera.com/news/2026/3/16/afghanistan-says-children-among-those-killed-in-latest-attacks-by-pakistan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-16T17:44:58.703Z",
-      "pushedAt": "2026-03-16T17:44:58.703Z"
-    },
-    {
-      "id": "74d4325f3e50cad2",
-      "title": "Dubai airport shutdown affects thousands of UK passengers",
-      "url": "https://news.sky.com/story/dubai-airport-shutdown-affects-thousands-of-uk-passengers-as-drone-strikes-fuel-tank-13520528",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-16T15:48:57.506Z",
-      "pushedAt": "2026-03-16T15:48:57.506Z"
-    },
-    {
-      "id": "95e32251e19064e1",
-      "title": "Meta shares jump after Reuters report on plans for layoffs of 20% or more - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWjg1WWdxQlduWWxnV2t2NmZLWnJhY0R4b1hYQ3hYb1pzSXlJYnBqQl9ESXctcVoyUU1zemxSc2ZZWmRBVUhZRW81VXFReGRXRXgweV9rcTFLV3hqOFdLdUFySHpwWmJxQXRrajFyVFRMWml2eWtibDRVM3ZYcmNia0poeGNXTk1TaVZhSXVRblBoSVZVUUhJb0daeUlFM2xvdnNpdFZveGlpUFU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-03-16T14:50:33.391Z",
-      "pushedAt": "2026-03-16T14:50:33.391Z"
-    },
-    {
-      "id": "a7afebd995806612",
-      "title": "China in contact with US on summit, Rubio sanctions may not apply, Beijing says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS05acmNWbklURE9YZWtCSnQtLTFOWTNxZ2dLM184LXN3SVAxYWVlTnVkeDhhZ2sxRVNMTmFWQXBXb0E1SE1BanpMRGdCdGNrZC1VLV8tbFJlRHNTOWloU1NHRzJ2Tk9OR1BWVm1OYWVvSE9GVkRzdW0yelZRRHlRYi05NVh4dGg2d3Jla1d0cXhFWmpRUDRBb1poeHZpaV84UjROX3pRVl8yMVFNTkNRTmVhMFQzR1lpOVh3?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-03-16T13:50:36.655Z",
-      "pushedAt": "2026-03-16T13:50:36.655Z"
     }
   ],
-  "updatedAt": "2026-03-17T11:39:04.796Z"
+  "updatedAt": "2026-03-17T18:36:58.251Z"
 }
