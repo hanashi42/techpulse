@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fb9701ed49ee3750",
+      "title": "Treasury yields tick up as investors weigh oil surge, Iran tensions and looming Fed decision",
+      "url": "https://www.cnbc.com/2026/03/17/treasury-yields-middle-east-tensions-fed-decision.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-03-17T09:02:37.701Z",
+      "pushedAt": "2026-03-17T09:02:37.701Z"
+    },
+    {
       "id": "84834eaf42eb4733",
       "title": "Magnitude 6 earthquake strikes Cuba, EMSC says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlFMeW9wU3FzeDdrUlJlZlE4bkF0WTRMLTlMeUZjVkV6dXhsanFKNEVNTzNPd2UtTGRCc2cwQkpIbjNnRDViR2QyOC1PWkVNRlo3RHY3UWdwUGhYckRfNkNrc2pnRnhzakVvSVBjbVpoamQ3WkpfYlpteWo3dWlFanNtSEVpNFlQaXVCcW9Nbkh4VFpmd01ac0Z1MWtTR2hZXzJYNQ?oc=5",
@@ -143,31 +155,7 @@
       ],
       "firstSeen": "2026-03-16T09:56:37.247Z",
       "pushedAt": "2026-03-16T09:56:37.247Z"
-    },
-    {
-      "id": "d5f12eee46da07d4",
-      "title": "US is quickly exhausting tools to absorb Iran war oil shock - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTVJRVg3NTAwSFNhUU10WVZUdHRKV1ZVY1FrYkhKRmU3MzF4eng3UC1QUDlTNkFuMEtOaTUybXJsYThOaTBiT2xzZ3YxT0ZrM25OQV9CN1F2UTdfUGRYT3ExeXFhVWx3VlAxV3NnS0hYZHJDblJibnJZMHU5VTZxb0s2ZWlqRG9KRTRyWU14SUVXb1FhNVNmbm1PVkFZWUFxQVB4cjl4dkdsdDNsRkptNEtR?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-03-16T08:56:26.346Z",
-      "pushedAt": "2026-03-16T08:56:26.346Z"
-    },
-    {
-      "id": "097899e30765768a",
-      "title": "Iran war live: Trump threatens NATO if allies fail to help on Hormuz",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/16/iran-war-live-tehran-rejects-trump-claim-on-talks-gulf-attacks-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-03-16T07:59:15.971Z",
-      "pushedAt": "2026-03-16T07:59:15.971Z"
     }
   ],
-  "updatedAt": "2026-03-17T06:11:43.874Z"
+  "updatedAt": "2026-03-17T09:02:37.929Z"
 }
