@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2f37edb5fe08bf7a",
+      "title": "South Korea's Kospi leads gains in Asia as investors assess Japan trade data, await Fed rate verdict",
+      "url": "https://www.cnbc.com/2026/03/18/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-03-18T02:26:32.452Z",
+      "pushedAt": "2026-03-18T02:26:32.452Z"
+    },
+    {
       "id": "e0a03e3d21eea0c7",
       "title": "Rocket and drone attacks resume on US embassy and diplomatic facility in Baghdad, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNXFRT3dtblNmdUhFbzdSRzhwR0laMlBVNWpkb3o4V05RZ3RZNmVnWDFpZWdoejlrWnA3TUFhbVIwYTQySjV1NWVYcnVlcTlTNXFfZGpJQWdSYjVBbXB6Z3VjS3pidkM0WlA2YW9MY0JEQWtzZ1pEQ1JwNmxfbkdEcGNUSkdmZURBem9yd1dkUlRxNGdOWUFDaFZyUjh5ekM1MUNIOG92cVRqY2VhOU9iT21Eejk2UE94UGU0b2hseXplX1ZoWlRZYXFOMkxjYl9CRGFaMm84QjY?oc=5",
@@ -146,5 +158,5 @@
       "pushedAt": "2026-03-17T06:11:43.402Z"
     }
   ],
-  "updatedAt": "2026-03-18T00:00:04.628Z"
+  "updatedAt": "2026-03-18T02:26:32.733Z"
 }
