@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c552a3b514846b51",
+      "title": "Chipmakers in Malaysia monitoring risks from helium supply disruptions, association says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2d2Ri1FeTVKOFJEdGhhN0tKVHVJNlVNcmRwSEpTbEdfVmhnSHBYU3NVYUdaY0dQaDdJanlJQk5vdlpJbVRIWEVzTXR1Tjd4UlU3clF3cjQ4T3hVeV9SelYzVEVFRjRYN1czalc5VVVlMjdYQXctWFVsMWdSVC13N2l0VlJRYlJqM3E5eURKSFFXUUQxRjNxY2ZkREN2cHpNT3Q1aUVWbWFUN2lZSUtBOE90NGtJXzgwWThWOEZqOWRkeFhmdnV6U3hPYm9lcWc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + chip"
+      ],
+      "firstSeen": "2026-03-18T06:44:09.968Z",
+      "pushedAt": "2026-03-18T06:44:09.968Z"
+    },
+    {
       "id": "1f74b8633c8e41de",
       "title": "Oil prices fall over $2 as Iraqi and Kurdish authorities agree to export deal - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnYzRWV4NHlwbUZucllJaWUxYXVxb2hDSjZhSVZDWFJjLVhfYTd6aUk1d2pneE1YNDdxSDlSRm9jWFRVaXJYQUIwOUxIdHpBYmRDZEJhRVJ5Vy02ZzlBNEJTX1dzbkFJa284QTZhSDREc0hCZHNiLUw2ZnZIVWFOaTFYUy0xQ3JMSzZNYmFYaW0yQUZqS1p1eWhmS2Fmd2lnemxXbkMxTUo?oc=5",
@@ -180,19 +192,7 @@
       ],
       "firstSeen": "2026-03-17T09:02:37.701Z",
       "pushedAt": "2026-03-17T09:02:37.701Z"
-    },
-    {
-      "id": "84834eaf42eb4733",
-      "title": "Magnitude 6 earthquake strikes Cuba, EMSC says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlFMeW9wU3FzeDdrUlJlZlE4bkF0WTRMLTlMeUZjVkV6dXhsanFKNEVNTzNPd2UtTGRCc2cwQkpIbjNnRDViR2QyOC1PWkVNRlo3RHY3UWdwUGhYckRfNkNrc2pnRnhzakVvSVBjbVpoamQ3WkpfYlpteWo3dWlFanNtSEVpNFlQaXVCcW9Nbkh4VFpmd01ac0Z1MWtTR2hZXzJYNQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-03-17T06:11:43.402Z",
-      "pushedAt": "2026-03-17T06:11:43.402Z"
     }
   ],
-  "updatedAt": "2026-03-18T05:47:24.370Z"
+  "updatedAt": "2026-03-18T06:44:10.616Z"
 }
