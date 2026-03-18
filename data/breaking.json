@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "555bf53045be6742",
+      "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
+      "url": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-18T12:43:00.785Z",
+      "pushedAt": "2026-03-18T12:43:00.785Z"
+    },
+    {
+      "id": "6a266db7c71fbeb5",
+      "title": "It's not just oil: Aluminum prices have surged as Iran conflict chokes supply",
+      "url": "https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-03-18T12:43:01.037Z",
+      "pushedAt": "2026-03-18T12:43:01.037Z"
+    },
+    {
       "id": "2e1f69542816e55d",
       "title": "How Iran defied Trump threats to emerge as Strait of Hormuz gatekeeper",
       "url": "https://www.aljazeera.com/news/2026/3/18/how-iran-defied-trump-threats-to-emerge-as-strait-of-hormuz-gatekeeper?traffic_source=rss",
@@ -182,5 +206,5 @@
       "pushedAt": "2026-03-17T18:36:58.085Z"
     }
   ],
-  "updatedAt": "2026-03-18T11:55:28.202Z"
+  "updatedAt": "2026-03-18T12:43:01.127Z"
 }
