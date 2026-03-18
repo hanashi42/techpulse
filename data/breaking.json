@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "99e9d8a27738eba9",
+      "title": "How China punished the US for tariffs - Robin J Brooks | Substack",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aRTkwU3UyeHc3UW92a0g5d0VILXVXYXppS0ZsdzB2S2FPamVRRHVLT3E5RnFFN2ZHS0RfUm1BMy1xZXAycHVCQ1EzMVdVQ3BIQm9VMkJiZV9fY0hobUdoaVVQRS0zMm1sd01RekxNZXJwSHYwNEo2UnpHSU56QQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-03-18T09:12:40.132Z",
+      "pushedAt": "2026-03-18T09:12:40.132Z"
+    },
+    {
       "id": "5b0456427002890a",
       "title": "Israel bombs central Beirut, killing 6, strafes south, east Lebanon",
       "url": "https://www.aljazeera.com/news/2026/3/18/israel-bombs-central-beirut-killing-6-strafes-south-east-lebanon?traffic_source=rss",
@@ -192,19 +204,7 @@
       ],
       "firstSeen": "2026-03-17T10:01:35.467Z",
       "pushedAt": "2026-03-17T10:01:35.467Z"
-    },
-    {
-      "id": "fb9701ed49ee3750",
-      "title": "Treasury yields tick up as investors weigh oil surge, Iran tensions and looming Fed decision",
-      "url": "https://www.cnbc.com/2026/03/17/treasury-yields-middle-east-tensions-fed-decision.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-03-17T09:02:37.701Z",
-      "pushedAt": "2026-03-17T09:02:37.701Z"
     }
   ],
-  "updatedAt": "2026-03-18T07:40:56.417Z"
+  "updatedAt": "2026-03-18T09:12:40.310Z"
 }
