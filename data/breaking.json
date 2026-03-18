@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "82921da377fbec21",
+      "title": "Trump Waives Jones Act To Curb Rise In Oil Prices - bernama",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WUW4zWC1OWmgzMnhRemNIeENjYkFtWGg4NWZaN2tQRHFKUEQ0RzdrVEdHY250eGQ0R1RqUWthTmZkbmJ1M0RCYkt4Nlh4VzVyVEZRYzJzMzFqSzU2bGl0bC1GcldqekViVmdScWF0eTF0dUVVMUpBcDlUZw?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-03-18T19:59:50.002Z",
+      "pushedAt": "2026-03-18T19:59:50.002Z"
+    },
+    {
       "id": "6be130a08abe04cd",
       "title": "Saudi intercepts four ballistic missiles launched towards Riyadh ahead of foreign ministers' meeting - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNTBKazEzU2pILVlKZ0ZvNFhFLTdHVVUwRVUyY2o2RkIyd1I2M3lFdk9qQURBSi1TTnRtVGVoVkZVN2NqLURLc1lJRnZtMUdoOWlPbl9IQ2t4bFp2dTV6d2FoS2N1Yy00TFlGeE1aYzJQNXJ5SnBZdW5KdUhYMHJGMjNPb0pXUk9ueDNUQkZHaWpLQVdWNjBhVm9CaU96MnJIbjJ4YlFqLTNOZnN0aHFCY3RGZlNSQXQ5enZYU3Z6M0dhM0k?oc=5",
@@ -229,31 +241,7 @@
       ],
       "firstSeen": "2026-03-17T23:38:05.758Z",
       "pushedAt": "2026-03-17T23:38:05.758Z"
-    },
-    {
-      "id": "74d4325f3e50cad2",
-      "title": "Dubai airport shutdown affects thousands of UK passengers",
-      "url": "https://news.sky.com/story/dubai-airport-shutdown-affects-thousands-of-uk-passengers-as-drone-strikes-fuel-tank-13520528",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-17T19:38:26.595Z",
-      "pushedAt": "2026-03-17T19:38:26.595Z"
-    },
-    {
-      "id": "5184d61a9fe2aade",
-      "title": "Iran keeps up attacks on neighbors after Israel says it killed 2 of its top officials - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2ZPWGVKR0E3bXl3SExWdnRrSW96SktTaGh5U2dmN0ZkYlU4UWhVZGpaRmVIMjZmMy1Zc1huaVJSZ0NpOVZSQ2tuTlNMTU1xZEt6b1g2YVlIVzNmcGZvQUh2TFAtUVF0b2lBdk15eVltSUJuWWh6NVFpVlJzTm9uZWRZRGhod1pPUU5uSFhOOHAzRzlJcWdac1RJaU9xbGM2?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-17T18:36:58.085Z",
-      "pushedAt": "2026-03-17T18:36:58.085Z"
     }
   ],
-  "updatedAt": "2026-03-18T18:34:23.237Z"
+  "updatedAt": "2026-03-18T19:59:50.133Z"
 }
