@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "f24489c4eb0c772c",
+      "title": "US producer prices surge in February on services - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblQtN2R0aTFSYldlX3F5bHh2Um9xQm5CYzJROTBGcVBxQXM2WE1TcE1DQUxqQlNtYmg1V1ZwY3h3NnJhT3ZjZnJ5Z2xnMG9wc0J2YUJvUUg0TVlUdFBMaDNSckUtZ3pnSGdnOFFZczZvYmR6dllVRU1FN2ZwVmxJQk4yU1phQ19UZFZ3WlpQTmE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-03-18T15:20:02.660Z",
+      "pushedAt": "2026-03-18T15:20:02.660Z"
+    },
+    {
+      "id": "782f6d050c9c11fb",
+      "title": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
+      "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate cut + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-03-18T15:20:03.083Z",
+      "pushedAt": "2026-03-18T15:20:03.083Z"
+    },
+    {
       "id": "555bf53045be6742",
       "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
       "url": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
@@ -206,5 +231,5 @@
       "pushedAt": "2026-03-17T18:36:58.085Z"
     }
   ],
-  "updatedAt": "2026-03-18T12:43:01.127Z"
+  "updatedAt": "2026-03-18T15:20:03.201Z"
 }
