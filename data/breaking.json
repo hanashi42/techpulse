@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "eb191f857cf06078",
+      "title": "One person dead after gondola crashes down mountain at Swiss ski resort - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ21YQ2JJcDJxNE1va2I2OVFvc2Q5bnlfdjFPVXpmYlZfS1Y4cmVfQTBKeVdlNmlmbXRPRnQzcnBDcUFSY1p6a2o3MVhRVURoVjNITXJvT2MwU2o1ejR3aFNsMnF2V2cyM0dLUngtdzlKaUlmOFAybWFEcmRKVTF0ZEhSMDdGay1SR1hYRlJvRFk1X255aW1YMjExem1seFN4X2NUVnhTMUZ5aXF6cE1idw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crash + dow"
+      ],
+      "firstSeen": "2026-03-18T16:34:10.296Z",
+      "pushedAt": "2026-03-18T16:34:10.296Z"
+    },
+    {
       "id": "f24489c4eb0c772c",
       "title": "US producer prices surge in February on services - Reuters",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblQtN2R0aTFSYldlX3F5bHh2Um9xQm5CYzJROTBGcVBxQXM2WE1TcE1DQUxqQlNtYmg1V1ZwY3h3NnJhT3ZjZnJ5Z2xnMG9wc0J2YUJvUUg0TVlUdFBMaDNSckUtZ3pnSGdnOFFZczZvYmR6dllVRU1FN2ZwVmxJQk4yU1phQ19UZFZ3WlpQTmE?oc=5",
@@ -231,5 +243,5 @@
       "pushedAt": "2026-03-17T18:36:58.085Z"
     }
   ],
-  "updatedAt": "2026-03-18T15:20:03.201Z"
+  "updatedAt": "2026-03-18T16:34:10.472Z"
 }
