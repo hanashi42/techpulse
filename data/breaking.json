@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5b0456427002890a",
+      "title": "Israel bombs central Beirut, killing 6, strafes south, east Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/3/18/israel-bombs-central-beirut-killing-6-strafes-south-east-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-18T07:40:56.278Z",
+      "pushedAt": "2026-03-18T07:40:56.278Z"
+    },
+    {
       "id": "c552a3b514846b51",
       "title": "Chipmakers in Malaysia monitoring risks from helium supply disruptions, association says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2d2Ri1FeTVKOFJEdGhhN0tKVHVJNlVNcmRwSEpTbEdfVmhnSHBYU3NVYUdaY0dQaDdJanlJQk5vdlpJbVRIWEVzTXR1Tjd4UlU3clF3cjQ4T3hVeV9SelYzVEVFRjRYN1czalc5VVVlMjdYQXctWFVsMWdSVC13N2l0VlJRYlJqM3E5eURKSFFXUUQxRjNxY2ZkREN2cHpNT3Q1aUVWbWFUN2lZSUtBOE90NGtJXzgwWThWOEZqOWRkeFhmdnV6U3hPYm9lcWc?oc=5",
@@ -194,5 +206,5 @@
       "pushedAt": "2026-03-17T09:02:37.701Z"
     }
   ],
-  "updatedAt": "2026-03-18T06:44:10.616Z"
+  "updatedAt": "2026-03-18T07:40:56.417Z"
 }
