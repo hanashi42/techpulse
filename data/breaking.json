@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e0a03e3d21eea0c7",
+      "title": "Rocket and drone attacks resume on US embassy and diplomatic facility in Baghdad, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNXFRT3dtblNmdUhFbzdSRzhwR0laMlBVNWpkb3o4V05RZ3RZNmVnWDFpZWdoejlrWnA3TUFhbVIwYTQySjV1NWVYcnVlcTlTNXFfZGpJQWdSYjVBbXB6Z3VjS3pidkM0WlA2YW9MY0JEQWtzZ1pEQ1JwNmxfbkdEcGNUSkdmZURBem9yd1dkUlRxNGdOWUFDaFZyUjh5ekM1MUNIOG92cVRqY2VhOU9iT21Eejk2UE94UGU0b2hseXplX1ZoWlRZYXFOMkxjYl9CRGFaMm84QjY?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + embassy"
+      ],
+      "firstSeen": "2026-03-18T00:00:01.024Z",
+      "pushedAt": "2026-03-18T00:00:01.024Z"
+    },
+    {
       "id": "48e6c4073b8be74a",
       "title": "The Fed issues its latest interest rate decision Wednesday. Here's what to expect",
       "url": "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
@@ -134,5 +146,5 @@
       "pushedAt": "2026-03-17T06:11:43.402Z"
     }
   ],
-  "updatedAt": "2026-03-17T23:38:05.870Z"
+  "updatedAt": "2026-03-18T00:00:04.628Z"
 }
