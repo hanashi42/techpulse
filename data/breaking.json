@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6be130a08abe04cd",
+      "title": "Saudi intercepts four ballistic missiles launched towards Riyadh ahead of foreign ministers' meeting - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNTBKazEzU2pILVlKZ0ZvNFhFLTdHVVUwRVUyY2o2RkIyd1I2M3lFdk9qQURBSi1TTnRtVGVoVkZVN2NqLURLc1lJRnZtMUdoOWlPbl9IQ2t4bFp2dTV6d2FoS2N1Yy00TFlGeE1aYzJQNXJ5SnBZdW5KdUhYMHJGMjNPb0pXUk9ueDNUQkZHaWpLQVdWNjBhVm9CaU96MnJIbjJ4YlFqLTNOZnN0aHFCY3RGZlNSQXQ5enZYU3Z6M0dhM0k?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missiles launched"
+      ],
+      "firstSeen": "2026-03-18T18:34:23.022Z",
+      "pushedAt": "2026-03-18T18:34:23.022Z"
+    },
+    {
       "id": "eb191f857cf06078",
       "title": "One person dead after gondola crashes down mountain at Swiss ski resort - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ21YQ2JJcDJxNE1va2I2OVFvc2Q5bnlfdjFPVXpmYlZfS1Y4cmVfQTBKeVdlNmlmbXRPRnQzcnBDcUFSY1p6a2o3MVhRVURoVjNITXJvT2MwU2o1ejR3aFNsMnF2V2cyM0dLUngtdzlKaUlmOFAybWFEcmRKVTF0ZEhSMDdGay1SR1hYRlJvRFk1X255aW1YMjExem1seFN4X2NUVnhTMUZ5aXF6cE1idw?oc=5",
@@ -243,5 +255,5 @@
       "pushedAt": "2026-03-17T18:36:58.085Z"
     }
   ],
-  "updatedAt": "2026-03-18T16:34:10.472Z"
+  "updatedAt": "2026-03-18T18:34:23.237Z"
 }
