@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "bfed934efcd197a3",
+      "title": "Gold falls to over one-month low on firm dollar, hawkish Fed - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU43eHJZa2tJVHhJUFA2U2lMb3EzS0hlT1BpMHNybzdaWHhsSDFfdFVuQXV4RWJvZi1teVNpSzdwVExoak9lNEd4Wk9DclRxSm9iTW8zTzlBUG5zbjlqaGdNd2dJcUo5Ry1aR3BaMmtVcVVzYl9RcXJKTDdHWkE3QTRXSS1QTm81bFYzWDZUNDl2WWg2WndPTnh6Z0kzZjU3NEZ3eTlibE1HTS13clhCc1Bucw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + hawkish"
+      ],
+      "firstSeen": "2026-03-19T09:59:14.227Z",
+      "pushedAt": "2026-03-19T09:59:14.227Z"
+    },
+    {
+      "id": "56406a368e7e7f51",
+      "title": "Gas price soars nearly 25% after strikes on Qatar hub",
+      "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-03-19T09:59:14.599Z",
+      "pushedAt": "2026-03-19T09:59:14.599Z"
+    },
+    {
       "id": "b68805e840f77095",
       "title": "Europe's central banks reveal interest rate decisions as Iran war clouds outlook",
       "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
@@ -181,19 +205,7 @@
       ],
       "firstSeen": "2026-03-18T10:11:11.478Z",
       "pushedAt": "2026-03-18T10:11:11.478Z"
-    },
-    {
-      "id": "99e9d8a27738eba9",
-      "title": "How China punished the US for tariffs - Robin J Brooks | Substack",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aRTkwU3UyeHc3UW92a0g5d0VILXVXYXppS0ZsdzB2S2FPamVRRHVLT3E5RnFFN2ZHS0RfUm1BMy1xZXAycHVCQ1EzMVdVQ3BIQm9VMkJiZV9fY0hobUdoaVVQRS0zMm1sd01RekxNZXJwSHYwNEo2UnpHSU56QQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-03-18T09:12:40.132Z",
-      "pushedAt": "2026-03-18T09:12:40.132Z"
     }
   ],
-  "updatedAt": "2026-03-19T09:09:23.245Z"
+  "updatedAt": "2026-03-19T09:59:14.787Z"
 }
