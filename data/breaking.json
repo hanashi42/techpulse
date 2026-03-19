@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "97590dd49a003f97",
+      "title": "Missile strikes close to reporter during Israeli attacks in Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/missile-strikes-close-to-reporter-during-israeli-attacks-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-03-19T18:10:37.767Z",
+      "pushedAt": "2026-03-19T18:10:37.767Z"
+    },
+    {
       "id": "91381584b09f3b88",
       "title": "Tariffs and Diversification Push US-China Trade to 16-Year Low - The US-China Business Council",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGQ1NXpRVG9FQ3Q2b3hGZVN6dl94a3djaW1NWlRNUk9lOUhOSXk3czlFbWh2bnJaQi15V2FTWXBoLURoUFIyaFJKcXdHdTVZU3U5ZVpYOGVZV0RvalhESmEzYTAxcWNCeW9ZWnZnY2l2YnBFWE1IcDQ5ME5KU2RFcFlMOXczcHlqVWxSYnpwbkJrZ080SzFlYV9ZNXU?oc=5",
@@ -182,5 +194,5 @@
       "pushedAt": "2026-03-18T18:34:23.022Z"
     }
   ],
-  "updatedAt": "2026-03-19T17:32:39.599Z"
+  "updatedAt": "2026-03-19T18:10:37.851Z"
 }
