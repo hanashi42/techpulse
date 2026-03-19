@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "31afe7d3e50595f1",
+      "title": "Korean Currency Falls Sharply Past 1,500 Won Amid Oil Price Surge - bernama",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCb1EtbHhidDZqX3RpQ3JoVzdjbDJ3R3lBVGxla0FheHJRT2ttb3k0VWVYVkx4MzRDN0dPWThhZzNKQVdXcU5iMkstdk1QTmlMUUJhbGRtR0pBUC13eEg5dVhmUUhVOF9lblpKYmVQNA?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-03-19T07:14:26.126Z",
+      "pushedAt": "2026-03-19T07:14:26.126Z"
+    },
+    {
       "id": "bfced00c59ce3a57",
       "title": "Fed keeps key rate unchanged as Powell vows to stay until DOJ investigation is finished - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2MtTlRjdkpnUXVyV25zQkpNRF9qU09OR2NxeHF6dW03c0ZFMlhFMW5jMzlkOW1HRTBtYVpyQ09hdEQ0Z1dlVFhJdHhxSWc2QlVQX0ZUc0NHTEJUUnN4S3NGWVhUR0h2YmR4cVhNT0lXa0pmMnpBUHV0clBjRlNTUzl3MXJQS2J2TllYSDZyR0dVcUV6MG8yV1BFMDRLZWpFZ1JOZkcyMHZwUQ?oc=5",
@@ -180,55 +193,7 @@
       ],
       "firstSeen": "2026-03-18T07:40:56.278Z",
       "pushedAt": "2026-03-18T07:40:56.278Z"
-    },
-    {
-      "id": "c552a3b514846b51",
-      "title": "Chipmakers in Malaysia monitoring risks from helium supply disruptions, association says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2d2Ri1FeTVKOFJEdGhhN0tKVHVJNlVNcmRwSEpTbEdfVmhnSHBYU3NVYUdaY0dQaDdJanlJQk5vdlpJbVRIWEVzTXR1Tjd4UlU3clF3cjQ4T3hVeV9SelYzVEVFRjRYN1czalc5VVVlMjdYQXctWFVsMWdSVC13N2l0VlJRYlJqM3E5eURKSFFXUUQxRjNxY2ZkREN2cHpNT3Q1aUVWbWFUN2lZSUtBOE90NGtJXzgwWThWOEZqOWRkeFhmdnV6U3hPYm9lcWc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + chip"
-      ],
-      "firstSeen": "2026-03-18T06:44:09.968Z",
-      "pushedAt": "2026-03-18T06:44:09.968Z"
-    },
-    {
-      "id": "1f74b8633c8e41de",
-      "title": "Oil prices fall over $2 as Iraqi and Kurdish authorities agree to export deal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnYzRWV4NHlwbUZucllJaWUxYXVxb2hDSjZhSVZDWFJjLVhfYTd6aUk1d2pneE1YNDdxSDlSRm9jWFRVaXJYQUIwOUxIdHpBYmRDZEJhRVJ5Vy02ZzlBNEJTX1dzbkFJa284QTZhSDREc0hCZHNiLUw2ZnZIVWFOaTFYUy0xQ3JMSzZNYmFYaW0yQUZqS1p1eWhmS2Fmd2lnemxXbkMxTUo?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-03-18T05:47:23.764Z",
-      "pushedAt": "2026-03-18T05:47:23.764Z"
-    },
-    {
-      "id": "320ea5a3d4839e5d",
-      "title": "Asian stocks rally as oil retreats, Fed in spotlight - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEpORkJXQVg4TGs3UjRILWVSSWdwNUc4RVJvWG14U3M5anN0Wk03a3poU0tSLS0xQ3kyNG5iZ2xXd1ZvbldraVRVV054V1ktaE9mSkJuYnBmenFaTDlvcW5zSFhMLXVfRkRwcXNHOFVBTFFLSWFQcWZtc2Z4cFlNTGlpcw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-03-18T05:47:24.035Z",
-      "pushedAt": "2026-03-18T05:47:24.035Z"
-    },
-    {
-      "id": "a78c1796b486f185",
-      "title": "Cuba restores power after 29-hour blackout amid US oil blockade",
-      "url": "https://www.aljazeera.com/economy/2026/3/18/cuba-restores-power-after-29-hour-blackout-amid-us-oil-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-03-18T05:47:24.270Z",
-      "pushedAt": "2026-03-18T05:47:24.270Z"
     }
   ],
-  "updatedAt": "2026-03-19T05:22:37.819Z"
+  "updatedAt": "2026-03-19T07:14:26.353Z"
 }
