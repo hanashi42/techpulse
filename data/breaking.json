@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "91381584b09f3b88",
+      "title": "Tariffs and Diversification Push US-China Trade to 16-Year Low - The US-China Business Council",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGQ1NXpRVG9FQ3Q2b3hGZVN6dl94a3djaW1NWlRNUk9lOUhOSXk3czlFbWh2bnJaQi15V2FTWXBoLURoUFIyaFJKcXdHdTVZU3U5ZVpYOGVZV0RvalhESmEzYTAxcWNCeW9ZWnZnY2l2YnBFWE1IcDQ5ME5KU2RFcFlMOXczcHlqVWxSYnpwbkJrZ080SzFlYV9ZNXU?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-03-19T17:32:39.500Z",
+      "pushedAt": "2026-03-19T17:32:39.500Z"
+    },
+    {
       "id": "871ff5d5ee12b2b7",
       "title": "US may remove sanctions on Iranian oil stranded in tankers, Bessent says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnJ5M0loQXkzWDVTNE04NzR2R1Rfdk5ua1YzUHVKS2ZwY2gwZFJ6M1RndWl6NG5uZlZSU3Q2cHpUdVhlMmVrVGcwZ3JUOE5CMVBPb1ZuYXB5VGFiMDlQWGtXbEhJT0hLUXFodHZYb243WGJVeXJSczU0Ukt2UGszdHhYUktnSG94bGVjSWljdVRoQXFBR3psOEhSalBwS3hPdmJFWG9xaUdCWmU5TFpPR2JoQlJzWEtw?oc=5",
@@ -168,19 +180,7 @@
       ],
       "firstSeen": "2026-03-18T18:34:23.022Z",
       "pushedAt": "2026-03-18T18:34:23.022Z"
-    },
-    {
-      "id": "eb191f857cf06078",
-      "title": "One person dead after gondola crashes down mountain at Swiss ski resort - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ21YQ2JJcDJxNE1va2I2OVFvc2Q5bnlfdjFPVXpmYlZfS1Y4cmVfQTBKeVdlNmlmbXRPRnQzcnBDcUFSY1p6a2o3MVhRVURoVjNITXJvT2MwU2o1ejR3aFNsMnF2V2cyM0dLUngtdzlKaUlmOFAybWFEcmRKVTF0ZEhSMDdGay1SR1hYRlJvRFk1X255aW1YMjExem1seFN4X2NUVnhTMUZ5aXF6cE1idw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crash + dow"
-      ],
-      "firstSeen": "2026-03-18T16:34:10.296Z",
-      "pushedAt": "2026-03-18T16:34:10.296Z"
     }
   ],
-  "updatedAt": "2026-03-19T15:30:17.516Z"
+  "updatedAt": "2026-03-19T17:32:39.599Z"
 }
