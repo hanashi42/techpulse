@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d062e7149e8ef175",
+      "title": "EU Sanctions Chinese and Iranian Companies for Cyberattacks - Insurance Journal",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qbExwY1pWTjRwN2E3U3lqVHpyQzhVSW41VHAxUmRhMU9TTlY0MXMxaFBwS080bzdpTVRqMnZKZEVZaENFRGVsdjBVbFpXcWx5QU1zT3gyaFhibnh6alVZZDduWGM1OXpBT0tIcEFac2tDa2ZGTWpzdnNlb3lfUQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-03-19T11:21:42.602Z",
+      "pushedAt": "2026-03-19T11:21:42.602Z"
+    },
+    {
       "id": "bfed934efcd197a3",
       "title": "Gold falls to over one-month low on firm dollar, hawkish Fed - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU43eHJZa2tJVHhJUFA2U2lMb3EzS0hlT1BpMHNybzdaWHhsSDFfdFVuQXV4RWJvZi1teVNpSzdwVExoak9lNEd4Wk9DclRxSm9iTW8zTzlBUG5zbjlqaGdNd2dJcUo5Ry1aR3BaMmtVcVVzYl9RcXJKTDdHWkE3QTRXSS1QTm81bFYzWDZUNDl2WWg2WndPTnh6Z0kzZjU3NEZ3eTlibE1HTS13clhCc1Bucw?oc=5",
@@ -169,43 +181,7 @@
       ],
       "firstSeen": "2026-03-18T11:55:27.974Z",
       "pushedAt": "2026-03-18T11:55:27.974Z"
-    },
-    {
-      "id": "080ff64bf7d11020",
-      "title": "Fed likely to hold rates steady as Iran war shocks policy debate - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGFJZ2Nzck85cDFZYW9yY3g3SjNQd1dXdDlwZ3pKbGRPdUVSbXJ6RXZlV283aFpLdXhmWlRTX2RmODZwU2dqOFJwQW51Vkl4TFo0bzVyclVDcnd4WVcxNnBLMnhlYXBGaFd6U0dZMmh4elMtV1JlRW5YTXpzYW1Wa29vWUFreURBXzBxTzg5U21fNERRZ3B0Qm5EaFFGYzNNQlJnOVlR?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-03-18T11:08:14.063Z",
-      "pushedAt": "2026-03-18T11:08:14.063Z"
-    },
-    {
-      "id": "82a03647e3d6794e",
-      "title": "Iran war pushes countries into energy triage as they conserve power and curb soaring prices - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTVfdkhMYVZTTGxEYTdwRV94Ymc5QVZJNFN2RmZmZFFuR0hUVW1ocGRkeWNiUnEtdTVwek5raGtnb1F4RTB3TGVBWWs2cXZRSENDcWdEX1pmMW5FcmZYeGFJMEF3SFI1c053NV9WN2p4c1ktM1NKemlzemVEc3lTNjB5dVhiQmVKU1BKem1PaWpMY2U0eW5HWFVhcVk?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-03-18T10:11:11.067Z",
-      "pushedAt": "2026-03-18T10:11:11.067Z"
-    },
-    {
-      "id": "380132bab8f01900",
-      "title": "Treasury yields move lower as attention turns to Fed rates decision",
-      "url": "https://www.cnbc.com/2026/03/18/treasury-yields-move-lower-all-eyes-fed-meeting.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-03-18T10:11:11.478Z",
-      "pushedAt": "2026-03-18T10:11:11.478Z"
     }
   ],
-  "updatedAt": "2026-03-19T09:59:14.787Z"
+  "updatedAt": "2026-03-19T11:21:42.727Z"
 }
