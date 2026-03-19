@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4a0d8a047fcdf752",
+      "title": "On Joe Rogan, Pierre Poilievre Talks Trump, Canada Tariffs and Bruce Lee",
+      "url": "https://www.nytimes.com/2026/03/19/world/canada/joe-rogan-pierre-poilievre-canada-trump.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-03-19T23:46:16.050Z",
+      "pushedAt": "2026-03-19T23:46:16.050Z"
+    },
+    {
       "id": "f335ecf3bfef1dea",
       "title": "Why the US Homeland Security shutdown is raising fears of airport delays",
       "url": "https://www.aljazeera.com/economy/2026/3/19/why-the-us-homeland-security-shutdown-is-raising-fears-of-airport-delays?traffic_source=rss",
@@ -195,5 +207,5 @@
       "pushedAt": "2026-03-19T03:59:41.640Z"
     }
   ],
-  "updatedAt": "2026-03-19T20:59:34.091Z"
+  "updatedAt": "2026-03-19T23:46:16.223Z"
 }
