@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "555bf53045be6742",
+      "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
+      "url": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-19T14:37:52.173Z",
+      "pushedAt": "2026-03-19T14:37:52.173Z"
+    },
+    {
+      "id": "493652dd6a5949c2",
+      "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
+      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-03-19T14:37:52.577Z",
+      "pushedAt": "2026-03-19T14:37:52.577Z"
+    },
+    {
       "id": "f18e59525888e2c6",
       "title": "Gold and silver sell-off accelerates as inflation fears grip global markets",
       "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
@@ -171,5 +195,5 @@
       "pushedAt": "2026-03-18T15:20:03.083Z"
     }
   ],
-  "updatedAt": "2026-03-19T13:48:47.870Z"
+  "updatedAt": "2026-03-19T14:37:52.818Z"
 }
