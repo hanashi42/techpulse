@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "871ff5d5ee12b2b7",
+      "title": "US may remove sanctions on Iranian oil stranded in tankers, Bessent says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnJ5M0loQXkzWDVTNE04NzR2R1Rfdk5ua1YzUHVKS2ZwY2gwZFJ6M1RndWl6NG5uZlZSU3Q2cHpUdVhlMmVrVGcwZ3JUOE5CMVBPb1ZuYXB5VGFiMDlQWGtXbEhJT0hLUXFodHZYb243WGJVeXJSczU0Ukt2UGszdHhYUktnSG94bGVjSWljdVRoQXFBR3psOEhSalBwS3hPdmJFWG9xaUdCWmU5TFpPR2JoQlJzWEtw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-03-19T15:30:17.206Z",
+      "pushedAt": "2026-03-19T15:30:17.206Z"
+    },
+    {
       "id": "555bf53045be6742",
       "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
       "url": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
@@ -168,32 +180,7 @@
       ],
       "firstSeen": "2026-03-18T16:34:10.296Z",
       "pushedAt": "2026-03-18T16:34:10.296Z"
-    },
-    {
-      "id": "f24489c4eb0c772c",
-      "title": "US producer prices surge in February on services - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblQtN2R0aTFSYldlX3F5bHh2Um9xQm5CYzJROTBGcVBxQXM2WE1TcE1DQUxqQlNtYmg1V1ZwY3h3NnJhT3ZjZnJ5Z2xnMG9wc0J2YUJvUUg0TVlUdFBMaDNSckUtZ3pnSGdnOFFZczZvYmR6dllVRU1FN2ZwVmxJQk4yU1phQ19UZFZ3WlpQTmE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + price"
-      ],
-      "firstSeen": "2026-03-18T15:20:02.660Z",
-      "pushedAt": "2026-03-18T15:20:02.660Z"
-    },
-    {
-      "id": "782f6d050c9c11fb",
-      "title": "Expectations for the next Fed rate cut get pushed back after hot inflation report",
-      "url": "https://www.cnbc.com/2026/03/18/views-for-next-fed-rate-cut-pushed-back-after-hot-inflation-report.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate cut + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-03-18T15:20:03.083Z",
-      "pushedAt": "2026-03-18T15:20:03.083Z"
     }
   ],
-  "updatedAt": "2026-03-19T14:37:52.818Z"
+  "updatedAt": "2026-03-19T15:30:17.516Z"
 }
