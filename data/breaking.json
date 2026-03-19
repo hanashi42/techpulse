@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f335ecf3bfef1dea",
+      "title": "Why the US Homeland Security shutdown is raising fears of airport delays",
+      "url": "https://www.aljazeera.com/economy/2026/3/19/why-the-us-homeland-security-shutdown-is-raising-fears-of-airport-delays?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-19T20:59:33.918Z",
+      "pushedAt": "2026-03-19T20:59:33.918Z"
+    },
+    {
       "id": "b153f999eea2f70f",
       "title": "U.S. Lifts Fertilizer Sanctions on Belarus as Iran War Causes Price Surge",
       "url": "https://www.nytimes.com/2026/03/19/world/europe/belarus-prisoners-fertilizer-potash-sanctions.html",
@@ -181,19 +193,7 @@
       ],
       "firstSeen": "2026-03-19T03:59:41.640Z",
       "pushedAt": "2026-03-19T03:59:41.640Z"
-    },
-    {
-      "id": "82921da377fbec21",
-      "title": "Trump Waives Jones Act To Curb Rise In Oil Prices - bernama",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WUW4zWC1OWmgzMnhRemNIeENjYkFtWGg4NWZaN2tQRHFKUEQ0RzdrVEdHY250eGQ0R1RqUWthTmZkbmJ1M0RCYkt4Nlh4VzVyVEZRYzJzMzFqSzU2bGl0bC1GcldqekViVmdScWF0eTF0dUVVMUpBcDlUZw?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-03-18T19:59:50.002Z",
-      "pushedAt": "2026-03-18T19:59:50.002Z"
     }
   ],
-  "updatedAt": "2026-03-19T19:13:08.411Z"
+  "updatedAt": "2026-03-19T20:59:34.091Z"
 }
