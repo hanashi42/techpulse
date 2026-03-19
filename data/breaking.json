@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bfced00c59ce3a57",
+      "title": "Fed keeps key rate unchanged as Powell vows to stay until DOJ investigation is finished - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2MtTlRjdkpnUXVyV25zQkpNRF9qU09OR2NxeHF6dW03c0ZFMlhFMW5jMzlkOW1HRTBtYVpyQ09hdEQ0Z1dlVFhJdHhxSWc2QlVQX0ZUc0NHTEJUUnN4S3NGWVhUR0h2YmR4cVhNT0lXa0pmMnpBUHV0clBjRlNTUzl3MXJQS2J2TllYSDZyR0dVcUV6MG8yV1BFMDRLZWpFZ1JOZkcyMHZwUQ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-03-19T05:22:37.440Z",
+      "pushedAt": "2026-03-19T05:22:37.440Z"
+    },
+    {
       "id": "4ecb15eb2673009a",
       "title": "Three women killed in occupied West Bank missile attack",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/three-women-killed-in-occupied-west-bank-missile-attack?traffic_source=rss",
@@ -218,5 +230,5 @@
       "pushedAt": "2026-03-18T05:47:24.270Z"
     }
   ],
-  "updatedAt": "2026-03-19T03:59:41.820Z"
+  "updatedAt": "2026-03-19T05:22:37.819Z"
 }
