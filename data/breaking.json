@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f18e59525888e2c6",
+      "title": "Gold and silver sell-off accelerates as inflation fears grip global markets",
+      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + accelerat"
+      ],
+      "firstSeen": "2026-03-19T13:48:47.366Z",
+      "pushedAt": "2026-03-19T13:48:47.366Z"
+    },
+    {
+      "id": "efb1c34dd20e288d",
+      "title": "China restricts fertiliser exports, further crimping war-tightened supply - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXFZVGFSYVFqNnJfN2tnbFZHYmdlZkt6VU5reWMycUZfcDdlMkJ2VlppUXdGRzhxWXV2Z1VWSDdkSDJkeVRVSGJIc3hSZVZFT0k4WUZjVzQ0cEZWekNPRm9fNE5LSFIxcDIwbE9OZGx2T3FSdEI5QkpNOHk4WExfdmpXaE9xU2lPMkN0em5BMXlXWTRpcG9xTzRiVkk3RmpPeTRrVFBsQ0Z3NWxnX2JiN1puaWFBYm5sZ2d1eTRRM0hPNUhBdXc?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + export"
+      ],
+      "firstSeen": "2026-03-19T13:48:47.650Z",
+      "pushedAt": "2026-03-19T13:48:47.650Z"
+    },
+    {
       "id": "d062e7149e8ef175",
       "title": "EU Sanctions Chinese and Iranian Companies for Cyberattacks - Insurance Journal",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qbExwY1pWTjRwN2E3U3lqVHpyQzhVSW41VHAxUmRhMU9TTlY0MXMxaFBwS080bzdpTVRqMnZKZEVZaENFRGVsdjBVbFpXcWx5QU1zT3gyaFhibnh6alVZZDduWGM1OXpBT0tIcEFac2tDa2ZGTWpzdnNlb3lfUQ?oc=5",
@@ -145,43 +169,7 @@
       ],
       "firstSeen": "2026-03-18T15:20:03.083Z",
       "pushedAt": "2026-03-18T15:20:03.083Z"
-    },
-    {
-      "id": "555bf53045be6742",
-      "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
-      "url": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-18T12:43:00.785Z",
-      "pushedAt": "2026-03-18T12:43:00.785Z"
-    },
-    {
-      "id": "6a266db7c71fbeb5",
-      "title": "It's not just oil: Aluminum prices have surged as Iran conflict chokes supply",
-      "url": "https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-03-18T12:43:01.037Z",
-      "pushedAt": "2026-03-18T12:43:01.037Z"
-    },
-    {
-      "id": "2e1f69542816e55d",
-      "title": "How Iran defied Trump threats to emerge as Strait of Hormuz gatekeeper",
-      "url": "https://www.aljazeera.com/news/2026/3/18/how-iran-defied-trump-threats-to-emerge-as-strait-of-hormuz-gatekeeper?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-03-18T11:55:27.974Z",
-      "pushedAt": "2026-03-18T11:55:27.974Z"
     }
   ],
-  "updatedAt": "2026-03-19T11:21:42.727Z"
+  "updatedAt": "2026-03-19T13:48:47.870Z"
 }
