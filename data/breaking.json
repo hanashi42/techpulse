@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "1b7034c8f7c8f467",
+      "title": "US lifts sanctions on some Iranian oil as gas prices soar",
+      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil",
+        "soar + oil"
+      ],
+      "firstSeen": "2026-03-20T23:59:11.835Z",
+      "pushedAt": "2026-03-20T23:59:11.835Z"
+    },
+    {
       "id": "a82173877249509e",
       "title": "Markets bet on Fed rate hike as soon as July - Reuters",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTRydE1MendJejRFdHhHSkF1dDB0bXZQb0N2YlZaek1FUm5UVzc5NTAydm1rTHlsSjBscnVxa1Rjakx2bDJSd0hUWmVjM0NOTWVEUHA2R19POVBNM25xN2dBaG5hdTdEWWxzLXRzSjBmTmdfbTRGbWhUVDJiN20yS2FSeTZKWjQ?oc=5",
@@ -171,31 +184,7 @@
       ],
       "firstSeen": "2026-03-20T02:32:11.874Z",
       "pushedAt": "2026-03-20T02:32:11.874Z"
-    },
-    {
-      "id": "4a0d8a047fcdf752",
-      "title": "On Joe Rogan, Pierre Poilievre Talks Trump, Canada Tariffs and Bruce Lee",
-      "url": "https://www.nytimes.com/2026/03/19/world/canada/joe-rogan-pierre-poilievre-canada-trump.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-03-19T23:46:16.050Z",
-      "pushedAt": "2026-03-19T23:46:16.050Z"
-    },
-    {
-      "id": "f335ecf3bfef1dea",
-      "title": "Why the US Homeland Security shutdown is raising fears of airport delays",
-      "url": "https://www.aljazeera.com/economy/2026/3/19/why-the-us-homeland-security-shutdown-is-raising-fears-of-airport-delays?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-19T20:59:33.918Z",
-      "pushedAt": "2026-03-19T20:59:33.918Z"
     }
   ],
-  "updatedAt": "2026-03-20T20:45:07.888Z"
+  "updatedAt": "2026-03-20T23:59:11.938Z"
 }
