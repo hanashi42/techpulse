@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "aa6c8029aabec4ea",
+      "title": "UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market",
+      "url": "https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + highest"
+      ],
+      "firstSeen": "2026-03-20T14:07:53.703Z",
+      "pushedAt": "2026-03-20T14:07:53.703Z"
+    },
+    {
+      "id": "e8af532040332243",
+      "title": "U.S. Treasury yields rise as Iran war drives inflation pressure",
+      "url": "https://www.cnbc.com/2026/03/20/us-treasury-yields-edge-higher-as-iran-war-drives-inflation-pressure.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + rise"
+      ],
+      "firstSeen": "2026-03-20T14:07:53.795Z",
+      "pushedAt": "2026-03-20T14:07:53.795Z"
+    },
+    {
       "id": "16d4d3924d3f9e5c",
       "title": "Germany eases arms exports restrictions for Gulf states, Ukraine - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcThZWVdhTjZybDNsX2JMdVllZ3Vha2s5UWVkenpBN01vZkNXUEppUlVxOGdVdHVCa1o4SldVeUZLMFI2SFBleThDcGljVm96bXdPVkxvcFhxbXNkcFRuR3V5cm9WQlNad2hDLS1zZnI0MTdqLU12Q3BfVFlGX1RKUmQyTUx3MDBBWWJVeENsQ09vc2ZhbFZuUWQzS0lUTU5fWjZaNXlRcjVfLVdIeEgxV1dCT0hNMFNVMnQzcnNvZw?oc=5",
@@ -193,31 +217,7 @@
       ],
       "firstSeen": "2026-03-19T14:37:52.577Z",
       "pushedAt": "2026-03-19T14:37:52.577Z"
-    },
-    {
-      "id": "f18e59525888e2c6",
-      "title": "Gold and silver sell-off accelerates as inflation fears grip global markets",
-      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + accelerat"
-      ],
-      "firstSeen": "2026-03-19T13:48:47.366Z",
-      "pushedAt": "2026-03-19T13:48:47.366Z"
-    },
-    {
-      "id": "efb1c34dd20e288d",
-      "title": "China restricts fertiliser exports, further crimping war-tightened supply - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXFZVGFSYVFqNnJfN2tnbFZHYmdlZkt6VU5reWMycUZfcDdlMkJ2VlppUXdGRzhxWXV2Z1VWSDdkSDJkeVRVSGJIc3hSZVZFT0k4WUZjVzQ0cEZWekNPRm9fNE5LSFIxcDIwbE9OZGx2T3FSdEI5QkpNOHk4WExfdmpXaE9xU2lPMkN0em5BMXlXWTRpcG9xTzRiVkk3RmpPeTRrVFBsQ0Z3NWxnX2JiN1puaWFBYm5sZ2d1eTRRM0hPNUhBdXc?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + export"
-      ],
-      "firstSeen": "2026-03-19T13:48:47.650Z",
-      "pushedAt": "2026-03-19T13:48:47.650Z"
     }
   ],
-  "updatedAt": "2026-03-20T13:18:30.366Z"
+  "updatedAt": "2026-03-20T14:07:53.845Z"
 }
