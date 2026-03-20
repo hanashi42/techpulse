@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "a82173877249509e",
+      "title": "Markets bet on Fed rate hike as soon as July - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTRydE1MendJejRFdHhHSkF1dDB0bXZQb0N2YlZaek1FUm5UVzc5NTAydm1rTHlsSjBscnVxa1Rjakx2bDJSd0hUWmVjM0NOTWVEUHA2R19POVBNM25xN2dBaG5hdTdEWWxzLXRzSjBmTmdfbTRGbWhUVDJiN20yS2FSeTZKWjQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-03-20T20:45:07.574Z",
+      "pushedAt": "2026-03-20T20:45:07.574Z"
+    },
+    {
       "id": "25db9f8db94b3a33",
       "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
       "url": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
@@ -184,5 +197,5 @@
       "pushedAt": "2026-03-19T20:59:33.918Z"
     }
   ],
-  "updatedAt": "2026-03-20T20:03:17.378Z"
+  "updatedAt": "2026-03-20T20:45:07.888Z"
 }
