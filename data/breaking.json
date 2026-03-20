@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "3d7b2b4f60b53de5",
+      "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWxHRGNTTnpjZlUxTS12aU9UalFlaWtfblctTVluZFJlaTFyRU9SWGM0d3FtZVAwTEpQaWhqT09iUWpaLUNSbkt1eXJlVnB3UmRGUlZ5QjZYSEhOTGNGWHZ3TmJMY3UzSk42azZ5dlo1MmhsSnBybnJuNERfbnpNSmNINTFBOTZEb0FUUlFwNk5HTGhFa2xremlnQUNjUlVGS29uVkctZUhJeTVZaVNUQ19kMi0xUWVyeXVscVVRR0x3TktfTGJUbg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-03-20T19:48:04.677Z",
+      "pushedAt": "2026-03-20T19:48:04.677Z"
+    },
+    {
+      "id": "b5c24faaca39a7fc",
+      "title": "Denmark Was Ready to Blow Up Airfields to Stop a U.S. Invasion of Greenland",
+      "url": "https://www.nytimes.com/2026/03/20/world/europe/denmark-blow-up-greenland-runways-us-invasion.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "invasion of"
+      ],
+      "firstSeen": "2026-03-20T19:48:04.882Z",
+      "pushedAt": "2026-03-20T19:48:04.882Z"
+    },
+    {
       "id": "aa6c8029aabec4ea",
       "title": "UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market",
       "url": "https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html",
@@ -144,80 +169,7 @@
       ],
       "firstSeen": "2026-03-19T20:59:33.918Z",
       "pushedAt": "2026-03-19T20:59:33.918Z"
-    },
-    {
-      "id": "b153f999eea2f70f",
-      "title": "U.S. Lifts Fertilizer Sanctions on Belarus as Iran War Causes Price Surge",
-      "url": "https://www.nytimes.com/2026/03/19/world/europe/belarus-prisoners-fertilizer-potash-sanctions.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war",
-        "surge + price"
-      ],
-      "firstSeen": "2026-03-19T19:13:08.170Z",
-      "pushedAt": "2026-03-19T19:13:08.170Z"
-    },
-    {
-      "id": "97590dd49a003f97",
-      "title": "Missile strikes close to reporter during Israeli attacks in Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/missile-strikes-close-to-reporter-during-israeli-attacks-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-03-19T18:10:37.767Z",
-      "pushedAt": "2026-03-19T18:10:37.767Z"
-    },
-    {
-      "id": "91381584b09f3b88",
-      "title": "Tariffs and Diversification Push US-China Trade to 16-Year Low - The US-China Business Council",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGQ1NXpRVG9FQ3Q2b3hGZVN6dl94a3djaW1NWlRNUk9lOUhOSXk3czlFbWh2bnJaQi15V2FTWXBoLURoUFIyaFJKcXdHdTVZU3U5ZVpYOGVZV0RvalhESmEzYTAxcWNCeW9ZWnZnY2l2YnBFWE1IcDQ5ME5KU2RFcFlMOXczcHlqVWxSYnpwbkJrZ080SzFlYV9ZNXU?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-03-19T17:32:39.500Z",
-      "pushedAt": "2026-03-19T17:32:39.500Z"
-    },
-    {
-      "id": "871ff5d5ee12b2b7",
-      "title": "US may remove sanctions on Iranian oil stranded in tankers, Bessent says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnJ5M0loQXkzWDVTNE04NzR2R1Rfdk5ua1YzUHVKS2ZwY2gwZFJ6M1RndWl6NG5uZlZSU3Q2cHpUdVhlMmVrVGcwZ3JUOE5CMVBPb1ZuYXB5VGFiMDlQWGtXbEhJT0hLUXFodHZYb243WGJVeXJSczU0Ukt2UGszdHhYUktnSG94bGVjSWljdVRoQXFBR3psOEhSalBwS3hPdmJFWG9xaUdCWmU5TFpPR2JoQlJzWEtw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-03-19T15:30:17.206Z",
-      "pushedAt": "2026-03-19T15:30:17.206Z"
-    },
-    {
-      "id": "555bf53045be6742",
-      "title": "At least 23 people killed in suspected suicide attacks in north-eastern Nigeria",
-      "url": "https://www.theguardian.com/world/2026/mar/17/bombings-north-eastern-nigeria-maiduguri",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-19T14:37:52.173Z",
-      "pushedAt": "2026-03-19T14:37:52.173Z"
-    },
-    {
-      "id": "493652dd6a5949c2",
-      "title": "Oil briefly hits $119 and Europe gas prices surge after attacks on energy facilities in Qatar, Iran",
-      "url": "https://www.cnbc.com/2026/03/19/oil-jumps-iran-strikes-qatar-lng-facility-supply-worries.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-03-19T14:37:52.577Z",
-      "pushedAt": "2026-03-19T14:37:52.577Z"
     }
   ],
-  "updatedAt": "2026-03-20T14:07:53.845Z"
+  "updatedAt": "2026-03-20T19:48:04.934Z"
 }
