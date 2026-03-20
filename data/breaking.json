@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "397a07c21baec0f3",
+      "title": "Gold set for third weekly fall on hawkish US Fed, elevated dollar - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDJleEl2MlVaRVR6RkE3UHBDTGpwRkJ6NkVwcElHbW1VWG41ZEtpUXJ2NkxrREhOZU9IZTM1cC1PdjdsME0wYUY5Yy1EMFNvTjVKdm9RaVJCejItamYyMWRPVjg4ek9LQXFQbm1XRXNiajVGelVOTlB1OFJsaXR2RGxvSnRrQmRfenNTRnFLQlItdDloQkpCWWZ3enBBUnpBeGM0OE50RVo?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + hawkish"
+      ],
+      "firstSeen": "2026-03-20T11:19:48.484Z",
+      "pushedAt": "2026-03-20T11:19:48.484Z"
+    },
+    {
+      "id": "6bcf7cf3e4b02991",
+      "title": "Rupee sinks past 93 per dollar to record low as Iran war risks deepen - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1psYlltUVh5ckFhNXBZQ1JsZVBKRDBEWEVQb1I2MHBHcXJwcUJuTG1Pb3lfTmtiNkJhOVAtSHdGbWVIbEF1emVrWjNWNzJCNTFJTmo3d20tTUZnTTF3ZnVVektkdGwtNHVKYm9ZNHFVVjVrUlJjYmFBbHNvMnNGMXZhTG01V21Xck0xSi1SVFdjamFweW5WUzdxcDAxV3IzbGNTTHM5Um4waDg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "dollar + record"
+      ],
+      "firstSeen": "2026-03-20T11:19:48.534Z",
+      "pushedAt": "2026-03-20T11:19:48.534Z"
+    },
+    {
+      "id": "930b19a99e40ea97",
+      "title": "IMF Warns Prolonged Energy Price Surge Could Lift Inflation - bernama",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jN3NwUmx2Y3ctZjd6VTk2ZFltZ0tLVzFOa08zd3pnWURQa2ZkaXI3X1NhQmdneTZyRmNLRFlfdGJfTWtrMERLZS1EWEdQSTlYcG9GeXNEX3kyTTQxdXNYTHh3TQ?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + inflation",
+        "inflation + surge"
+      ],
+      "firstSeen": "2026-03-20T11:19:48.588Z",
+      "pushedAt": "2026-03-20T11:19:48.588Z"
+    },
+    {
       "id": "69863028a2e684e4",
       "title": "Israeli military says it struck Syrian government targets after attacks on Druze civilians - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSy1EUDQwdUtha2FvRG9ablpFT0Q1YUprdk9KdWFXTmpmQzM3T0wtLXZ2dXRFNGViSERKNFhOeUFmc3FQTWEtc3BlOXlMTnR5cU9OZ2lDVkdPRXE3R210RjFSZE1rUmRSOV9lZEhxTkp5Y1RZN3h0VEhCOHFIWERxQXRZcVJaRWt3YlZveGxOVS1KdmNpSTlGaG5LZFZwVC05TnJlYjBxcUJtVDhBZUtQZFk5RjVmTnJBX3Bj?oc=5",
@@ -170,5 +207,5 @@
       "pushedAt": "2026-03-19T11:21:42.602Z"
     }
   ],
-  "updatedAt": "2026-03-20T10:50:38.699Z"
+  "updatedAt": "2026-03-20T11:19:48.604Z"
 }
