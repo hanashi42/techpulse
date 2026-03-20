@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "69863028a2e684e4",
+      "title": "Israeli military says it struck Syrian government targets after attacks on Druze civilians - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSy1EUDQwdUtha2FvRG9ablpFT0Q1YUprdk9KdWFXTmpmQzM3T0wtLXZ2dXRFNGViSERKNFhOeUFmc3FQTWEtc3BlOXlMTnR5cU9OZ2lDVkdPRXE3R210RjFSZE1rUmRSOV9lZEhxTkp5Y1RZN3h0VEhCOHFIWERxQXRZcVJaRWt3YlZveGxOVS1KdmNpSTlGaG5LZFZwVC05TnJlYjBxcUJtVDhBZUtQZFk5RjVmTnJBX3Bj?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-03-20T10:50:38.617Z",
+      "pushedAt": "2026-03-20T10:50:38.617Z"
+    },
+    {
       "id": "ddb42de0fcd70160",
       "title": "Israel hits Tehran with airstrikes on Persian New Year as war jolts energy markets - AP News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2tEazNreWR3Y21QYktTTDA4YnJwOE5aLVpKck42SVRPWGdDaGlDVWtnU0FqZ0U1MmtuNm9aQTRZeTFTVFA1c1VEVDg3XzJ5MkVFNDBQdFNacjlrSDgtRVdnZXM5dHU0cVItZHQxRWZNTnBDcWYtc05ZYmQ2UU15TFdLcGpxckR0dWIzNnhyN2d4czdvRm1wM3VOT1UwbnNj?oc=5",
@@ -156,80 +168,7 @@
       ],
       "firstSeen": "2026-03-19T11:21:42.602Z",
       "pushedAt": "2026-03-19T11:21:42.602Z"
-    },
-    {
-      "id": "bfed934efcd197a3",
-      "title": "Gold falls to over one-month low on firm dollar, hawkish Fed - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU43eHJZa2tJVHhJUFA2U2lMb3EzS0hlT1BpMHNybzdaWHhsSDFfdFVuQXV4RWJvZi1teVNpSzdwVExoak9lNEd4Wk9DclRxSm9iTW8zTzlBUG5zbjlqaGdNd2dJcUo5Ry1aR3BaMmtVcVVzYl9RcXJKTDdHWkE3QTRXSS1QTm81bFYzWDZUNDl2WWg2WndPTnh6Z0kzZjU3NEZ3eTlibE1HTS13clhCc1Bucw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + hawkish"
-      ],
-      "firstSeen": "2026-03-19T09:59:14.227Z",
-      "pushedAt": "2026-03-19T09:59:14.227Z"
-    },
-    {
-      "id": "56406a368e7e7f51",
-      "title": "Gas price soars nearly 25% after strikes on Qatar hub",
-      "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-03-19T09:59:14.599Z",
-      "pushedAt": "2026-03-19T09:59:14.599Z"
-    },
-    {
-      "id": "b68805e840f77095",
-      "title": "Europe's central banks reveal interest rate decisions as Iran war clouds outlook",
-      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "interest rate + decision"
-      ],
-      "firstSeen": "2026-03-19T09:09:23.078Z",
-      "pushedAt": "2026-03-19T09:09:23.078Z"
-    },
-    {
-      "id": "31afe7d3e50595f1",
-      "title": "Korean Currency Falls Sharply Past 1,500 Won Amid Oil Price Surge - bernama",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCb1EtbHhidDZqX3RpQ3JoVzdjbDJ3R3lBVGxla0FheHJRT2ttb3k0VWVYVkx4MzRDN0dPWThhZzNKQVdXcU5iMkstdk1QTmlMUUJhbGRtR0pBUC13eEg5dVhmUUhVOF9lblpKYmVQNA?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-03-19T07:14:26.126Z",
-      "pushedAt": "2026-03-19T07:14:26.126Z"
-    },
-    {
-      "id": "bfced00c59ce3a57",
-      "title": "Fed keeps key rate unchanged as Powell vows to stay until DOJ investigation is finished - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2MtTlRjdkpnUXVyV25zQkpNRF9qU09OR2NxeHF6dW03c0ZFMlhFMW5jMzlkOW1HRTBtYVpyQ09hdEQ0Z1dlVFhJdHhxSWc2QlVQX0ZUc0NHTEJUUnN4S3NGWVhUR0h2YmR4cVhNT0lXa0pmMnpBUHV0clBjRlNTUzl3MXJQS2J2TllYSDZyR0dVcUV6MG8yV1BFMDRLZWpFZ1JOZkcyMHZwUQ?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-03-19T05:22:37.440Z",
-      "pushedAt": "2026-03-19T05:22:37.440Z"
-    },
-    {
-      "id": "4ecb15eb2673009a",
-      "title": "Three women killed in occupied West Bank missile attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/three-women-killed-in-occupied-west-bank-missile-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-19T03:59:41.640Z",
-      "pushedAt": "2026-03-19T03:59:41.640Z"
     }
   ],
-  "updatedAt": "2026-03-20T02:32:11.984Z"
+  "updatedAt": "2026-03-20T10:50:38.699Z"
 }
