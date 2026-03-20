@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "25db9f8db94b3a33",
+      "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
+      "url": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-03-20T20:03:17.185Z",
+      "pushedAt": "2026-03-20T20:03:17.185Z"
+    },
+    {
       "id": "3d7b2b4f60b53de5",
       "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWxHRGNTTnpjZlUxTS12aU9UalFlaWtfblctTVluZFJlaTFyRU9SWGM0d3FtZVAwTEpQaWhqT09iUWpaLUNSbkt1eXJlVnB3UmRGUlZ5QjZYSEhOTGNGWHZ3TmJMY3UzSk42azZ5dlo1MmhsSnBybnJuNERfbnpNSmNINTFBOTZEb0FUUlFwNk5HTGhFa2xremlnQUNjUlVGS29uVkctZUhJeTVZaVNUQ19kMi0xUWVyeXVscVVRR0x3TktfTGJUbg?oc=5",
@@ -171,5 +184,5 @@
       "pushedAt": "2026-03-19T20:59:33.918Z"
     }
   ],
-  "updatedAt": "2026-03-20T19:48:04.934Z"
+  "updatedAt": "2026-03-20T20:03:17.378Z"
 }
