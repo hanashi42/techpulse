@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "16d4d3924d3f9e5c",
+      "title": "Germany eases arms exports restrictions for Gulf states, Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcThZWVdhTjZybDNsX2JMdVllZ3Vha2s5UWVkenpBN01vZkNXUEppUlVxOGdVdHVCa1o4SldVeUZLMFI2SFBleThDcGljVm96bXdPVkxvcFhxbXNkcFRuR3V5cm9WQlNad2hDLS1zZnI0MTdqLU12Q3BfVFlGX1RKUmQyTUx3MDBBWWJVeENsQ09vc2ZhbFZuUWQzS0lUTU5fWjZaNXlRcjVfLVdIeEgxV1dCT0hNMFNVMnQzcnNvZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + export"
+      ],
+      "firstSeen": "2026-03-20T13:18:29.914Z",
+      "pushedAt": "2026-03-20T13:18:29.914Z"
+    },
+    {
+      "id": "c4badc0ad4d2ecc0",
+      "title": "Super Micro shares plunge as US charges co-founder, 2 more for smuggling AI chips to China - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQVg0ZUQwR2ROSnN4SElJeG5LTTBqVUFvTzh5X0VtekNhNGlZRGc4N3Y5S1h0ekp5WmpCRTJjZjRVRUN4RERUekc2MGt6S1NRTTRKczVhNmlueDJuWHE0VFpnSGR3S1NUenBkeVV2dm4ySEJoQVljejlCTm94aVg4Y05kZUNJMUVwMWFZVUtCMG1UYzNOa3EzUXpRdjJQb0VRVGo4ajd6ZjR2Y3hnUDhObmU2cVphUkYwTFFtNjg1Qi1oRXFPYU5temVMVEs?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + shares"
+      ],
+      "firstSeen": "2026-03-20T13:18:30.166Z",
+      "pushedAt": "2026-03-20T13:18:30.166Z"
+    },
+    {
       "id": "397a07c21baec0f3",
       "title": "Gold set for third weekly fall on hawkish US Fed, elevated dollar - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDJleEl2MlVaRVR6RkE3UHBDTGpwRkJ6NkVwcElHbW1VWG41ZEtpUXJ2NkxrREhOZU9IZTM1cC1PdjdsME0wYUY5Yy1EMFNvTjVKdm9RaVJCejItamYyMWRPVjg4ek9LQXFQbm1XRXNiajVGelVOTlB1OFJsaXR2RGxvSnRrQmRfenNTRnFLQlItdDloQkpCWWZ3enBBUnpBeGM0OE50RVo?oc=5",
@@ -193,19 +217,7 @@
       ],
       "firstSeen": "2026-03-19T13:48:47.650Z",
       "pushedAt": "2026-03-19T13:48:47.650Z"
-    },
-    {
-      "id": "d062e7149e8ef175",
-      "title": "EU Sanctions Chinese and Iranian Companies for Cyberattacks - Insurance Journal",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qbExwY1pWTjRwN2E3U3lqVHpyQzhVSW41VHAxUmRhMU9TTlY0MXMxaFBwS080bzdpTVRqMnZKZEVZaENFRGVsdjBVbFpXcWx5QU1zT3gyaFhibnh6alVZZDduWGM1OXpBT0tIcEFac2tDa2ZGTWpzdnNlb3lfUQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-03-19T11:21:42.602Z",
-      "pushedAt": "2026-03-19T11:21:42.602Z"
     }
   ],
-  "updatedAt": "2026-03-20T11:19:48.604Z"
+  "updatedAt": "2026-03-20T13:18:30.366Z"
 }
