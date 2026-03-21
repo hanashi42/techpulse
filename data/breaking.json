@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "20989e832ec36c7d",
+      "title": "Dozens injured in Israel after Iranian missile strikes target areas near nuclear research center - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRklDb21aS2RrMFpsVlhtU3AtT0JOc0p3NGxhb3RIM0gxVWlNV1RMd09vcl9LTEFJRzRNNjY4VjB6MFlQVGNEdDRXbEdlVGljNXZXczZNZEZxLUY5UW9tcURKX3NGdkR0dXBpNmM1WmhoaEV3NjJZTlVxZk9tWUd3YUdteFljT2FHV0IzdFlIcW50Y1NyTk1VNGdUeXlyZkdmcTJkQQ?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-03-21T21:52:48.553Z",
+      "pushedAt": "2026-03-21T21:52:48.553Z"
+    },
+    {
       "id": "8671f2ffe7ccb2e8",
       "title": "EU urges members to start storing winter gas as Iran war causes price surge",
       "url": "https://www.aljazeera.com/news/2026/3/21/eu-urges-members-to-start-storing-winter-gas-as-iran-war-causes-price-surge?traffic_source=rss",
@@ -72,58 +84,7 @@
       ],
       "firstSeen": "2026-03-20T23:59:11.835Z",
       "pushedAt": "2026-03-20T23:59:11.835Z"
-    },
-    {
-      "id": "a82173877249509e",
-      "title": "Markets bet on Fed rate hike as soon as July - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTRydE1MendJejRFdHhHSkF1dDB0bXZQb0N2YlZaek1FUm5UVzc5NTAydm1rTHlsSjBscnVxa1Rjakx2bDJSd0hUWmVjM0NOTWVEUHA2R19POVBNM25xN2dBaG5hdTdEWWxzLXRzSjBmTmdfbTRGbWhUVDJiN20yS2FSeTZKWjQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-03-20T20:45:07.574Z",
-      "pushedAt": "2026-03-20T20:45:07.574Z"
-    },
-    {
-      "id": "25db9f8db94b3a33",
-      "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
-      "url": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-03-20T20:03:17.185Z",
-      "pushedAt": "2026-03-20T20:03:17.185Z"
-    },
-    {
-      "id": "3d7b2b4f60b53de5",
-      "title": "Iraq declares force majeure on foreign-operated oilfields over Hormuz disruption, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWxHRGNTTnpjZlUxTS12aU9UalFlaWtfblctTVluZFJlaTFyRU9SWGM0d3FtZVAwTEpQaWhqT09iUWpaLUNSbkt1eXJlVnB3UmRGUlZ5QjZYSEhOTGNGWHZ3TmJMY3UzSk42azZ5dlo1MmhsSnBybnJuNERfbnpNSmNINTFBOTZEb0FUUlFwNk5HTGhFa2xremlnQUNjUlVGS29uVkctZUhJeTVZaVNUQ19kMi0xUWVyeXVscVVRR0x3TktfTGJUbg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-03-20T19:48:04.677Z",
-      "pushedAt": "2026-03-20T19:48:04.677Z"
-    },
-    {
-      "id": "b5c24faaca39a7fc",
-      "title": "Denmark Was Ready to Blow Up Airfields to Stop a U.S. Invasion of Greenland",
-      "url": "https://www.nytimes.com/2026/03/20/world/europe/denmark-blow-up-greenland-runways-us-invasion.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "invasion of"
-      ],
-      "firstSeen": "2026-03-20T19:48:04.882Z",
-      "pushedAt": "2026-03-20T19:48:04.882Z"
     }
   ],
-  "updatedAt": "2026-03-21T19:38:26.970Z"
+  "updatedAt": "2026-03-21T21:52:48.680Z"
 }
