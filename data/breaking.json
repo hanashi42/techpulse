@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8671f2ffe7ccb2e8",
+      "title": "EU urges members to start storing winter gas as Iran war causes price surge",
+      "url": "https://www.aljazeera.com/news/2026/3/21/eu-urges-members-to-start-storing-winter-gas-as-iran-war-causes-price-surge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-03-21T19:38:26.702Z",
+      "pushedAt": "2026-03-21T19:38:26.702Z"
+    },
+    {
       "id": "b358a75bf2482a63",
       "title": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
       "url": "https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown?traffic_source=rss",
@@ -113,5 +125,5 @@
       "pushedAt": "2026-03-20T19:48:04.882Z"
     }
   ],
-  "updatedAt": "2026-03-21T17:02:48.408Z"
+  "updatedAt": "2026-03-21T19:38:26.970Z"
 }
