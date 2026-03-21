@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "02fe97e90a493528",
+      "title": "WHO says attack on Sudan hospital killed 64, including 13 children",
+      "url": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-21T22:51:16.480Z",
+      "pushedAt": "2026-03-21T22:51:16.480Z"
+    },
+    {
       "id": "b19babd18724d2da",
       "title": "US says it has crippled Iranian threat in Strait of Hormuz",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/us-says-it-has-crippled-iranian-threat-in-strait-of-hormuz?traffic_source=rss",
@@ -124,5 +136,5 @@
       "pushedAt": "2026-03-20T23:59:11.835Z"
     }
   ],
-  "updatedAt": "2026-03-21T22:01:01.803Z"
+  "updatedAt": "2026-03-21T22:51:16.900Z"
 }
