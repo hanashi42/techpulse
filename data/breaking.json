@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "id": "b19babd18724d2da",
+      "title": "US says it has crippled Iranian threat in Strait of Hormuz",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/us-says-it-has-crippled-iranian-threat-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-03-21T22:01:01.552Z",
+      "pushedAt": "2026-03-21T22:01:01.552Z"
+    },
+    {
+      "id": "25db9f8db94b3a33",
+      "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
+      "url": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-03-21T22:01:01.661Z",
+      "pushedAt": "2026-03-21T22:01:01.661Z"
+    },
+    {
+      "id": "05e9a4ed084c24fa",
+      "title": "Iraq Declares Force Majeure On Foreign-Operated Oilfields Over Hormuz Disruption, Sources Say - bernama",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LbTdZRVA0OWxuNFZPQ2pXNG1HMlVFZDZaU1AyZnNPZVNpcW9tM2M3QUwxRHNfQjQyell0WnF5UG52TTd3bEpzcHQ0S1dEbGozWlA4UG5nWWtVaHJON05aYjlPYzR3Uy1TT2x2S2JR?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-03-21T22:01:01.768Z",
+      "pushedAt": "2026-03-21T22:01:01.768Z"
+    },
+    {
       "id": "20989e832ec36c7d",
       "title": "Dozens injured in Israel after Iranian missile strikes target areas near nuclear research center - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRklDb21aS2RrMFpsVlhtU3AtT0JOc0p3NGxhb3RIM0gxVWlNV1RMd09vcl9LTEFJRzRNNjY4VjB6MFlQVGNEdDRXbEdlVGljNXZXczZNZEZxLUY5UW9tcURKX3NGdkR0dXBpNmM1WmhoaEV3NjJZTlVxZk9tWUd3YUdteFljT2FHV0IzdFlIcW50Y1NyTk1VNGdUeXlyZkdmcTJkQQ?oc=5",
@@ -86,5 +124,5 @@
       "pushedAt": "2026-03-20T23:59:11.835Z"
     }
   ],
-  "updatedAt": "2026-03-21T21:52:48.680Z"
+  "updatedAt": "2026-03-21T22:01:01.803Z"
 }
