@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b358a75bf2482a63",
+      "title": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
+      "url": "https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-21T17:02:48.145Z",
+      "pushedAt": "2026-03-21T17:02:48.145Z"
+    },
+    {
       "id": "be7ff845ef87b933",
       "title": "Trump-Xi summit on hold until Iran conflict ends, people briefed say - Politico",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sRDNfNjlnSmhaUzQzYUFrdkFqT3NtU3hjTGxzMTZ3OHFaSk9PMldZYlBCLXNCVHhseW1jUFo2RnJ0YVNiYV84RnNlLUFSR0VxUlFGajM0dGk0YU1yd0FlWW5MYnp5c042d1pkbWlxaVA4bVJsd1hhcw?oc=5",
@@ -101,5 +113,5 @@
       "pushedAt": "2026-03-20T19:48:04.882Z"
     }
   ],
-  "updatedAt": "2026-03-21T15:13:44.973Z"
+  "updatedAt": "2026-03-21T17:02:48.408Z"
 }
