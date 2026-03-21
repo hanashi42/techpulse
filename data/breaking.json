@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "aa6c8029aabec4ea",
+      "title": "UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market",
+      "url": "https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + highest"
+      ],
+      "firstSeen": "2026-03-21T14:53:29.014Z",
+      "pushedAt": "2026-03-21T14:53:29.014Z"
+    },
+    {
       "id": "7e660d7f0eea6449",
       "title": "EU Belatedly Sanctions Chinese and Iranian Hackers - BankInfoSecurity",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc245bllsVU1ER1NoZmlRVW1VS2FoanZlZjN5azVwVVBlTWs1RHRYX1Q4T3NtX0NQY1NDX2dFSFNlQlNmMmN0dnE0Y3pkeWZqQ2tCM2duQnYyY2NOQW5zNHRkLWVMd0x5LUQ1ejJPNGNaYTNpVXdhZDhkb0xFeGtFQ0NrajBzdG1XLVk3SUZDWF8?oc=5",
@@ -77,5 +89,5 @@
       "pushedAt": "2026-03-20T19:48:04.882Z"
     }
   ],
-  "updatedAt": "2026-03-21T14:29:45.353Z"
+  "updatedAt": "2026-03-21T14:53:29.208Z"
 }
