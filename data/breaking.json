@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ca48753452565540",
+      "title": "Oil prices to rise further on Monday as Mideast war escalates - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEVFSDREaXNkcFNNM1NmZ3MzUHd1bTdHbXh4UUg3dS10QXlEak9xSjhQQUxKY1NBRjVwWnc0TFNKSHVxR0VwN2FIenVqMU1VcDhoWDFKaTRWZXk0TlZtYklkT3Y0WTdQNkkxM2JBbjRZRXdENHVjbE5weGFMem9hcTR0S3YwSkNqbE5Qc1VReVhFcFhKQ2l1UWNMaHVfYVZlNllWTl9ZNA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-03-22T16:27:49.005Z",
+      "pushedAt": "2026-03-22T16:27:49.005Z"
+    },
+    {
+      "id": "32911e41da6c8554",
+      "title": "Iran claims missile attacks on key Israeli military bases",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-03-22T16:27:49.368Z",
+      "pushedAt": "2026-03-22T16:27:49.368Z"
+    },
+    {
       "id": "da8fcc6d0c453386",
       "title": "Woman confronts Ben-Gvir at site of Iranian missile strike",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/woman-confronts-ben-gvir-at-site-of-iranian-missile-strike?traffic_source=rss",
@@ -134,43 +158,7 @@
       ],
       "firstSeen": "2026-03-21T17:02:48.145Z",
       "pushedAt": "2026-03-21T17:02:48.145Z"
-    },
-    {
-      "id": "be7ff845ef87b933",
-      "title": "Trump-Xi summit on hold until Iran conflict ends, people briefed say - Politico",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sRDNfNjlnSmhaUzQzYUFrdkFqT3NtU3hjTGxzMTZ3OHFaSk9PMldZYlBCLXNCVHhseW1jUFo2RnJ0YVNiYV84RnNlLUFSR0VxUlFGajM0dGk0YU1yd0FlWW5MYnp5c042d1pkbWlxaVA4bVJsd1hhcw?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "conflict ends"
-      ],
-      "firstSeen": "2026-03-21T15:13:44.757Z",
-      "pushedAt": "2026-03-21T15:13:44.757Z"
-    },
-    {
-      "id": "aa6c8029aabec4ea",
-      "title": "UK government borrowing costs hit their highest level since 2008 as inflation fears hit the gilt market",
-      "url": "https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + highest"
-      ],
-      "firstSeen": "2026-03-21T14:53:29.014Z",
-      "pushedAt": "2026-03-21T14:53:29.014Z"
-    },
-    {
-      "id": "7e660d7f0eea6449",
-      "title": "EU Belatedly Sanctions Chinese and Iranian Hackers - BankInfoSecurity",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc245bllsVU1ER1NoZmlRVW1VS2FoanZlZjN5azVwVVBlTWs1RHRYX1Q4T3NtX0NQY1NDX2dFSFNlQlNmMmN0dnE0Y3pkeWZqQ2tCM2duQnYyY2NOQW5zNHRkLWVMd0x5LUQ1ejJPNGNaYTNpVXdhZDhkb0xFeGtFQ0NrajBzdG1XLVk3SUZDWF8?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-03-21T14:29:45.027Z",
-      "pushedAt": "2026-03-21T14:29:45.027Z"
     }
   ],
-  "updatedAt": "2026-03-22T09:48:48.991Z"
+  "updatedAt": "2026-03-22T16:27:49.562Z"
 }
