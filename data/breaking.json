@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "bd1e2c80fa87ebec",
+      "title": "ICE officers soon will help with airport security unless Democrats end shutdown, Trump says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVWpFSDRkaWpfNGF3elR5NkhVcUhWWmMxWmlFazhERlR5OXRYNnFkVWdiTHZsN19zNzJkV250OU83bUd6ZmpjN2FtSmVPY0hSTFAzUi10QTUyem9JYXNMUjZ6cXNQVnpKWlYzWF8xaHowVFY0SXVaREhlVTRaNWFoY2M2djhTWEpvbk9paC12T0o2ZVhlbWZvaFRXWWZ5VFdnZ3d5QkMtZS02QQ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-22T21:02:17.414Z",
+      "pushedAt": "2026-03-22T21:02:17.414Z"
+    },
+    {
+      "id": "875e762d598ee5d0",
+      "title": "Trump sends US immigration agents to airports as shutdown chaos deepens",
+      "url": "https://www.aljazeera.com/news/2026/3/22/trump-sends-us-immigration-agents-to-airports-as-shutdown-chaos-deepens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-22T21:02:17.614Z",
+      "pushedAt": "2026-03-22T21:02:17.614Z"
+    },
+    {
       "id": "08cc14bed8317262",
       "title": "Israeli air strikes on Gaza kill four Palestinians",
       "url": "https://www.aljazeera.com/news/2026/3/22/israeli-air-strikes-on-gaza-kill-four-palestinians?traffic_source=rss",
@@ -148,5 +172,5 @@
       "pushedAt": "2026-03-21T21:52:48.553Z"
     }
   ],
-  "updatedAt": "2026-03-22T20:47:22.331Z"
+  "updatedAt": "2026-03-22T21:02:17.698Z"
 }
