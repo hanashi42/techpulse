@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7c65578560d3f90f",
+      "title": "Trump's mixed messages on Iran: 'Winding down' the war and easing sanctions but adding more troops - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTBKLU8wNmJnX2wwQmRDQmUwXzFFOGN5a1NFU2NBckQ3ZUV0SWJPNkYzRERhMDVBNHNmWDNWNnZUeFNkRnZEbDd3cG9CN0RlaHJmUVhQc0RRZWFMMWJQV2gxdEZ2bXBXdlBNYXhoQldEcTVMV2EtRXByWlVrbGdYcmZmSzZtMW5iVF9kNnRxWUV3MElMMGFtcFlLYWd6LTgyWVlHYXBuWTB4UzRDMkhV?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-03-22T07:49:59.399Z",
+      "pushedAt": "2026-03-22T07:49:59.399Z"
+    },
+    {
       "id": "9a478f52f0a6ab7f",
       "title": "A Brussels Community Moves on From Terrorist Attacks, but New Challenges Emerge",
       "url": "https://www.nytimes.com/2026/03/22/world/europe/brussels-terror-molenbeek.html",
@@ -148,5 +160,5 @@
       "pushedAt": "2026-03-21T14:29:45.027Z"
     }
   ],
-  "updatedAt": "2026-03-22T04:34:29.956Z"
+  "updatedAt": "2026-03-22T07:49:59.679Z"
 }
