@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "9a478f52f0a6ab7f",
+      "title": "A Brussels Community Moves on From Terrorist Attacks, but New Challenges Emerge",
+      "url": "https://www.nytimes.com/2026/03/22/world/europe/brussels-terror-molenbeek.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terrorist attack"
+      ],
+      "firstSeen": "2026-03-22T04:34:29.716Z",
+      "pushedAt": "2026-03-22T04:34:29.716Z"
+    },
+    {
       "id": "62898f0d742c1061",
       "title": "Trump threatens Iran with power plant strikes over Hormuz oil blockade - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhmLUhYN1BhUGZ3dnpBZHZRTUF4UUZueVV1NnZ4RzlRSkg2dzZiZUlPNWJFUktlbE1ZQkpQMWZ6eWVjTlg3OUgyOHJvUzZHeXZmVHZGdjYzWXE1Rzg4Q0MtVW9TREtMckZJaTJWaXF4NVZBcFh2RHdjQ3N2MV9DVHhmREtPSW1ucEUzTE9OT3pUWHBGTVpOVWV6bzNtck9NSXhHX09CbU84VjZfbVAyTHEyVzhOdFlyVVBRMw?oc=5",
@@ -136,5 +148,5 @@
       "pushedAt": "2026-03-21T14:29:45.027Z"
     }
   ],
-  "updatedAt": "2026-03-22T02:44:47.920Z"
+  "updatedAt": "2026-03-22T04:34:29.956Z"
 }
