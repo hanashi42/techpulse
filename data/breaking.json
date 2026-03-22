@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "08cc14bed8317262",
+      "title": "Israeli air strikes on Gaza kill four Palestinians",
+      "url": "https://www.aljazeera.com/news/2026/3/22/israeli-air-strikes-on-gaza-kill-four-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "air strikes on"
+      ],
+      "firstSeen": "2026-03-22T20:47:22.100Z",
+      "pushedAt": "2026-03-22T20:47:22.100Z"
+    },
+    {
       "id": "ca48753452565540",
       "title": "Oil prices to rise further on Monday as Mideast war escalates - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEVFSDREaXNkcFNNM1NmZ3MzUHd1bTdHbXh4UUg3dS10QXlEak9xSjhQQUxKY1NBRjVwWnc0TFNKSHVxR0VwN2FIenVqMU1VcDhoWDFKaTRWZXk0TlZtYklkT3Y0WTdQNkkxM2JBbjRZRXdENHVjbE5weGFMem9hcTR0S3YwSkNqbE5Qc1VReVhFcFhKQ2l1UWNMaHVfYVZlNllWTl9ZNA?oc=5",
@@ -134,31 +146,7 @@
       ],
       "firstSeen": "2026-03-21T21:52:48.553Z",
       "pushedAt": "2026-03-21T21:52:48.553Z"
-    },
-    {
-      "id": "8671f2ffe7ccb2e8",
-      "title": "EU urges members to start storing winter gas as Iran war causes price surge",
-      "url": "https://www.aljazeera.com/news/2026/3/21/eu-urges-members-to-start-storing-winter-gas-as-iran-war-causes-price-surge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + price"
-      ],
-      "firstSeen": "2026-03-21T19:38:26.702Z",
-      "pushedAt": "2026-03-21T19:38:26.702Z"
-    },
-    {
-      "id": "b358a75bf2482a63",
-      "title": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
-      "url": "https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-21T17:02:48.145Z",
-      "pushedAt": "2026-03-21T17:02:48.145Z"
     }
   ],
-  "updatedAt": "2026-03-22T16:27:49.562Z"
+  "updatedAt": "2026-03-22T20:47:22.331Z"
 }
