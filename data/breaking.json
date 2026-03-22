@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "62898f0d742c1061",
+      "title": "Trump threatens Iran with power plant strikes over Hormuz oil blockade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhmLUhYN1BhUGZ3dnpBZHZRTUF4UUZueVV1NnZ4RzlRSkg2dzZiZUlPNWJFUktlbE1ZQkpQMWZ6eWVjTlg3OUgyOHJvUzZHeXZmVHZGdjYzWXE1Rzg4Q0MtVW9TREtMckZJaTJWaXF4NVZBcFh2RHdjQ3N2MV9DVHhmREtPSW1ucEUzTE9OT3pUWHBGTVpOVWV6bzNtck9NSXhHX09CbU84VjZfbVAyTHEyVzhOdFlyVVBRMw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil",
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-03-22T02:44:47.837Z",
+      "pushedAt": "2026-03-22T02:44:47.837Z"
+    },
+    {
       "id": "02fe97e90a493528",
       "title": "WHO says attack on Sudan hospital killed 64, including 13 children",
       "url": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children?traffic_source=rss",
@@ -121,20 +134,7 @@
       ],
       "firstSeen": "2026-03-21T14:29:45.027Z",
       "pushedAt": "2026-03-21T14:29:45.027Z"
-    },
-    {
-      "id": "1b7034c8f7c8f467",
-      "title": "US lifts sanctions on some Iranian oil as gas prices soar",
-      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil",
-        "soar + oil"
-      ],
-      "firstSeen": "2026-03-20T23:59:11.835Z",
-      "pushedAt": "2026-03-20T23:59:11.835Z"
     }
   ],
-  "updatedAt": "2026-03-21T22:51:16.900Z"
+  "updatedAt": "2026-03-22T02:44:47.920Z"
 }
