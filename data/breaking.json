@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "da8fcc6d0c453386",
+      "title": "Woman confronts Ben-Gvir at site of Iranian missile strike",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/woman-confronts-ben-gvir-at-site-of-iranian-missile-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-03-22T09:48:48.755Z",
+      "pushedAt": "2026-03-22T09:48:48.755Z"
+    },
+    {
       "id": "7c65578560d3f90f",
       "title": "Trump's mixed messages on Iran: 'Winding down' the war and easing sanctions but adding more troops - AP News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTBKLU8wNmJnX2wwQmRDQmUwXzFFOGN5a1NFU2NBckQ3ZUV0SWJPNkYzRERhMDVBNHNmWDNWNnZUeFNkRnZEbDd3cG9CN0RlaHJmUVhQc0RRZWFMMWJQV2gxdEZ2bXBXdlBNYXhoQldEcTVMV2EtRXByWlVrbGdYcmZmSzZtMW5iVF9kNnRxWUV3MElMMGFtcFlLYWd6LTgyWVlHYXBuWTB4UzRDMkhV?oc=5",
@@ -160,5 +172,5 @@
       "pushedAt": "2026-03-21T14:29:45.027Z"
     }
   ],
-  "updatedAt": "2026-03-22T07:49:59.679Z"
+  "updatedAt": "2026-03-22T09:48:48.991Z"
 }
