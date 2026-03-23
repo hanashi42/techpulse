@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0798dd3598c5ff95",
+      "title": "Blast that injured two was 'terrorist attack', Ukrainian authorities say",
+      "url": "https://www.bbc.com/news/articles/crl1n0pn3e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terrorist attack"
+      ],
+      "firstSeen": "2026-03-23T20:25:35.697Z",
+      "pushedAt": "2026-03-23T20:25:35.697Z"
+    },
+    {
       "id": "76918fadbe9b6678",
       "title": "Oil prices ease and stock markets jump as hopes rise for an end to the Iran war - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXF2TnlFRWR1aDRqRXY4NFllT3pYTnI2QnBHM3FzaEpmMWQ4QW9TVmFGMGp3OTFWTGpsMmQtZHJ0X1hGZVUwQUdmQ0wxWjlfaHNWNThJTTlhSVBKUFBqQVBWUHJncFVOTUhza3hDN3NLNHhPbGV3ZGZuNUdzRlhjUUtqSFNDSTJmRGJ2MnpQSms4cGs?oc=5",
@@ -254,5 +266,5 @@
       "pushedAt": "2026-03-22T20:47:22.100Z"
     }
   ],
-  "updatedAt": "2026-03-23T18:10:18.579Z"
+  "updatedAt": "2026-03-23T20:25:36.057Z"
 }
