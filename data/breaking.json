@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "9cfda48112ba1e66",
+      "title": "Stocks skid to four-month low as oil shock spooks investors - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSy1DcTZZd2ZVTFNDc2hDRjVOc1luV1NyLTRMbWs4eTNadTVaSDRKQzE1bFdnQlJ0Y1gwNzg5UFlNZUdwNUQ1S2E2Q1NSUlJWS05MWFVua3MzN01UdmhVckVDNC0wTVpEQkdWVUc1VU82d3pwVEtzbjRhOTE2ZVdFYlB3T2xoRFo5bEFXTlRXY1VZVmxodGswUTc3ZGNrVFpmYkl0MmVGZVc?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-03-23T06:02:09.117Z",
+      "pushedAt": "2026-03-23T06:02:09.117Z"
+    },
+    {
       "id": "bd1e2c80fa87ebec",
       "title": "ICE officers soon will help with airport security unless Democrats end shutdown, Trump says - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVWpFSDRkaWpfNGF3elR5NkhVcUhWWmMxWmlFazhERlR5OXRYNnFkVWdiTHZsN19zNzJkV250OU83bUd6ZmpjN2FtSmVPY0hSTFAzUi10QTUyem9JYXNMUjZ6cXNQVnpKWlYzWF8xaHowVFY0SXVaREhlVTRaNWFoY2M2djhTWEpvbk9paC12T0o2ZVhlbWZvaFRXWWZ5VFdnZ3d5QkMtZS02QQ?oc=5",
@@ -83,94 +95,7 @@
       ],
       "firstSeen": "2026-03-22T07:49:59.399Z",
       "pushedAt": "2026-03-22T07:49:59.399Z"
-    },
-    {
-      "id": "9a478f52f0a6ab7f",
-      "title": "A Brussels Community Moves on From Terrorist Attacks, but New Challenges Emerge",
-      "url": "https://www.nytimes.com/2026/03/22/world/europe/brussels-terror-molenbeek.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "terrorist attack"
-      ],
-      "firstSeen": "2026-03-22T04:34:29.716Z",
-      "pushedAt": "2026-03-22T04:34:29.716Z"
-    },
-    {
-      "id": "62898f0d742c1061",
-      "title": "Trump threatens Iran with power plant strikes over Hormuz oil blockade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdEhmLUhYN1BhUGZ3dnpBZHZRTUF4UUZueVV1NnZ4RzlRSkg2dzZiZUlPNWJFUktlbE1ZQkpQMWZ6eWVjTlg3OUgyOHJvUzZHeXZmVHZGdjYzWXE1Rzg4Q0MtVW9TREtMckZJaTJWaXF4NVZBcFh2RHdjQ3N2MV9DVHhmREtPSW1ucEUzTE9OT3pUWHBGTVpOVWV6bzNtck9NSXhHX09CbU84VjZfbVAyTHEyVzhOdFlyVVBRMw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil",
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-03-22T02:44:47.837Z",
-      "pushedAt": "2026-03-22T02:44:47.837Z"
-    },
-    {
-      "id": "02fe97e90a493528",
-      "title": "WHO says attack on Sudan hospital killed 64, including 13 children",
-      "url": "https://www.aljazeera.com/news/2026/3/21/who-says-attack-on-sudan-hospital-killed-64-including-13-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-21T22:51:16.480Z",
-      "pushedAt": "2026-03-21T22:51:16.480Z"
-    },
-    {
-      "id": "b19babd18724d2da",
-      "title": "US says it has crippled Iranian threat in Strait of Hormuz",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/us-says-it-has-crippled-iranian-threat-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-03-21T22:01:01.552Z",
-      "pushedAt": "2026-03-21T22:01:01.552Z"
-    },
-    {
-      "id": "25db9f8db94b3a33",
-      "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
-      "url": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-03-21T22:01:01.661Z",
-      "pushedAt": "2026-03-21T22:01:01.661Z"
-    },
-    {
-      "id": "05e9a4ed084c24fa",
-      "title": "Iraq Declares Force Majeure On Foreign-Operated Oilfields Over Hormuz Disruption, Sources Say - bernama",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LbTdZRVA0OWxuNFZPQ2pXNG1HMlVFZDZaU1AyZnNPZVNpcW9tM2M3QUwxRHNfQjQyell0WnF5UG52TTd3bEpzcHQ0S1dEbGozWlA4UG5nWWtVaHJON05aYjlPYzR3Uy1TT2x2S2JR?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-03-21T22:01:01.768Z",
-      "pushedAt": "2026-03-21T22:01:01.768Z"
-    },
-    {
-      "id": "20989e832ec36c7d",
-      "title": "Dozens injured in Israel after Iranian missile strikes target areas near nuclear research center - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRklDb21aS2RrMFpsVlhtU3AtT0JOc0p3NGxhb3RIM0gxVWlNV1RMd09vcl9LTEFJRzRNNjY4VjB6MFlQVGNEdDRXbEdlVGljNXZXczZNZEZxLUY5UW9tcURKX3NGdkR0dXBpNmM1WmhoaEV3NjJZTlVxZk9tWUd3YUdteFljT2FHV0IzdFlIcW50Y1NyTk1VNGdUeXlyZkdmcTJkQQ?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-03-21T21:52:48.553Z",
-      "pushedAt": "2026-03-21T21:52:48.553Z"
     }
   ],
-  "updatedAt": "2026-03-22T21:02:17.698Z"
+  "updatedAt": "2026-03-23T06:02:09.305Z"
 }
