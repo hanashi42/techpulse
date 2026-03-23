@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "464927ec31895740",
+      "title": "Goldman Sachs expects ECB rate hikes in April and June as inflation concerns mount - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEZXSkhzYzI3M2FvVnZacm9yYzBwSG9ud3hubGRhUENEMDRldmx0djlWNEVWMWRJa3NaNGJlYURIcmFTVFFfdTRkMTB2SGtBNDUzWkZFV2NMeUxhenNsVWJkM0l5aVdtNmJReWhrZDVEdTJnTFNlUTNUb2x1VGNFaGtnZ2dRdUJncFhUQkgxcnVaR3d3ZnNCQmlvbm54MXA3R2NfbWgwcHdSUDZuNmVfN0s1REk4YVkxY1Rva2xPZEFZQk0?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + ecb"
+      ],
+      "firstSeen": "2026-03-23T10:13:08.041Z",
+      "pushedAt": "2026-03-23T10:13:08.041Z"
+    },
+    {
+      "id": "344ae60df3147d3d",
+      "title": "European stocks tumble as Trump sets Hormuz deadline",
+      "url": "https://www.cnbc.com/2026/03/23/european-markets-stoxx-ftse-dax-cac-iran-news-oil-prices.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + stock"
+      ],
+      "firstSeen": "2026-03-23T10:13:08.310Z",
+      "pushedAt": "2026-03-23T10:13:08.310Z"
+    },
+    {
       "id": "7c70831c0be64c81",
       "title": "Russia, China voice concern over Strait of Hormuz blockade and regional conflict escalation - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yQ0JkNnZMbWRsNnFNb0FmRW5XVVp3bGxlNEN0OWFidFBTMVc0OXpFbklpWHZPMTRfdGh2SzN3SWdkSXNzRDFDdDhjMk8zczJSWU9wRU0yZ2JKVGFkWWFB?oc=5",
@@ -156,19 +180,7 @@
       ],
       "firstSeen": "2026-03-22T16:27:49.368Z",
       "pushedAt": "2026-03-22T16:27:49.368Z"
-    },
-    {
-      "id": "da8fcc6d0c453386",
-      "title": "Woman confronts Ben-Gvir at site of Iranian missile strike",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/woman-confronts-ben-gvir-at-site-of-iranian-missile-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-03-22T09:48:48.755Z",
-      "pushedAt": "2026-03-22T09:48:48.755Z"
     }
   ],
-  "updatedAt": "2026-03-23T09:11:18.149Z"
+  "updatedAt": "2026-03-23T10:13:08.569Z"
 }
