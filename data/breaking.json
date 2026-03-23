@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "01486f2551c85649",
+      "title": "Gold miners' bull run squeezed as prices plummet and energy costs soar",
+      "url": "https://www.cnbc.com/2026/03/23/gold-prices-fall-miners-equities-mining.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + gold"
+      ],
+      "firstSeen": "2026-03-23T11:08:36.220Z",
+      "pushedAt": "2026-03-23T11:08:36.220Z"
+    },
+    {
       "id": "464927ec31895740",
       "title": "Goldman Sachs expects ECB rate hikes in April and June as inflation concerns mount - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEZXSkhzYzI3M2FvVnZacm9yYzBwSG9ud3hubGRhUENEMDRldmx0djlWNEVWMWRJa3NaNGJlYURIcmFTVFFfdTRkMTB2SGtBNDUzWkZFV2NMeUxhenNsVWJkM0l5aVdtNmJReWhrZDVEdTJnTFNlUTNUb2x1VGNFaGtnZ2dRdUJncFhUQkgxcnVaR3d3ZnNCQmlvbm54MXA3R2NfbWgwcHdSUDZuNmVfN0s1REk4YVkxY1Rva2xPZEFZQk0?oc=5",
@@ -182,5 +194,5 @@
       "pushedAt": "2026-03-22T16:27:49.368Z"
     }
   ],
-  "updatedAt": "2026-03-23T10:13:08.569Z"
+  "updatedAt": "2026-03-23T11:08:36.450Z"
 }
