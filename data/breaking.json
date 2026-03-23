@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "76918fadbe9b6678",
+      "title": "Oil prices ease and stock markets jump as hopes rise for an end to the Iran war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXF2TnlFRWR1aDRqRXY4NFllT3pYTnI2QnBHM3FzaEpmMWQ4QW9TVmFGMGp3OTFWTGpsMmQtZHJ0X1hGZVUwQUdmQ0wxWjlfaHNWNThJTTlhSVBKUFBqQVBWUHJncFVOTUhza3hDN3NLNHhPbGV3ZGZuNUdzRlhjUUtqSFNDSTJmRGJ2MnpQSms4cGs?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-03-23T18:10:18.170Z",
+      "pushedAt": "2026-03-23T18:10:18.170Z"
+    },
+    {
       "id": "ff5bcae4f5b15261",
       "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post",
       "url": "https://www.cnbc.com/2026/03/23/volume-in-stock-and-oil-futures-surged-minutes-before-trumps-market-turning-post.html",
@@ -242,5 +254,5 @@
       "pushedAt": "2026-03-22T20:47:22.100Z"
     }
   ],
-  "updatedAt": "2026-03-23T17:30:27.174Z"
+  "updatedAt": "2026-03-23T18:10:18.579Z"
 }
