@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ff5bcae4f5b15261",
+      "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post",
+      "url": "https://www.cnbc.com/2026/03/23/volume-in-stock-and-oil-futures-surged-minutes-before-trumps-market-turning-post.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-03-23T17:30:26.929Z",
+      "pushedAt": "2026-03-23T17:30:26.929Z"
+    },
+    {
       "id": "ede5d928bbaf1595",
       "title": "Iran attempted to attack a far-off military base.",
       "url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/iran-attempted-to-attack-a-far-off-military-base",
@@ -228,31 +240,7 @@
       ],
       "firstSeen": "2026-03-22T20:47:22.100Z",
       "pushedAt": "2026-03-22T20:47:22.100Z"
-    },
-    {
-      "id": "ca48753452565540",
-      "title": "Oil prices to rise further on Monday as Mideast war escalates - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEVFSDREaXNkcFNNM1NmZ3MzUHd1bTdHbXh4UUg3dS10QXlEak9xSjhQQUxKY1NBRjVwWnc0TFNKSHVxR0VwN2FIenVqMU1VcDhoWDFKaTRWZXk0TlZtYklkT3Y0WTdQNkkxM2JBbjRZRXdENHVjbE5weGFMem9hcTR0S3YwSkNqbE5Qc1VReVhFcFhKQ2l1UWNMaHVfYVZlNllWTl9ZNA?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-03-22T16:27:49.005Z",
-      "pushedAt": "2026-03-22T16:27:49.005Z"
-    },
-    {
-      "id": "32911e41da6c8554",
-      "title": "Iran claims missile attacks on key Israeli military bases",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-03-22T16:27:49.368Z",
-      "pushedAt": "2026-03-22T16:27:49.368Z"
     }
   ],
-  "updatedAt": "2026-03-23T14:51:16.974Z"
+  "updatedAt": "2026-03-23T17:30:27.174Z"
 }
