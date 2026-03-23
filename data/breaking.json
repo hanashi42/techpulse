@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7c70831c0be64c81",
+      "title": "Russia, China voice concern over Strait of Hormuz blockade and regional conflict escalation - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yQ0JkNnZMbWRsNnFNb0FmRW5XVVp3bGxlNEN0OWFidFBTMVc0OXpFbklpWHZPMTRfdGh2SzN3SWdkSXNzRDFDdDhjMk8zczJSWU9wRU0yZ2JKVGFkWWFB?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait"
+      ],
+      "firstSeen": "2026-03-23T09:11:17.811Z",
+      "pushedAt": "2026-03-23T09:11:17.811Z"
+    },
+    {
+      "id": "6d2502ebeb441046",
+      "title": "South Korea Says No Significant Oil Supply Disruption In April - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zeEE2UXhaeTVQWFZnOGowQzFHNGVBUHd3eHZGdWstcG1rR0RqQVdzeTFUd1d0UnBYZUgxQTZxdnNJLVhLellNOHI1ZHFpRzNacDNuT0xGMXBMNXI3d252UVd3?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-03-23T09:11:18.042Z",
+      "pushedAt": "2026-03-23T09:11:18.042Z"
+    },
+    {
       "id": "69be669a40034068",
       "title": "Iran threatens to 'completely' close Strait of Hormuz and hit power plants after Trump ultimatum - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklRRlJocUJXejUtLXl4U3M4WGQycThnVnF1S1V0QnRldE5Ud1MwYklKNEQ2VGx1VnBIWEZGMkJ3T19UTHliLWJzQ2xmMGRxRWM2SVFfeTNwaEhaaHJ5SV9zNW9xdmgyQ01HbGtIWlZCZmdDMk02OG5NU1h2ekZDR1Ryci1fek9UUU9ROC16Sm1KM0tMTDBxd080NWhKTE02bTFEXw?oc=5",
@@ -144,19 +168,7 @@
       ],
       "firstSeen": "2026-03-22T09:48:48.755Z",
       "pushedAt": "2026-03-22T09:48:48.755Z"
-    },
-    {
-      "id": "7c65578560d3f90f",
-      "title": "Trump's mixed messages on Iran: 'Winding down' the war and easing sanctions but adding more troops - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTBKLU8wNmJnX2wwQmRDQmUwXzFFOGN5a1NFU2NBckQ3ZUV0SWJPNkYzRERhMDVBNHNmWDNWNnZUeFNkRnZEbDd3cG9CN0RlaHJmUVhQc0RRZWFMMWJQV2gxdEZ2bXBXdlBNYXhoQldEcTVMV2EtRXByWlVrbGdYcmZmSzZtMW5iVF9kNnRxWUV3MElMMGFtcFlLYWd6LTgyWVlHYXBuWTB4UzRDMkhV?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-03-22T07:49:59.399Z",
-      "pushedAt": "2026-03-22T07:49:59.399Z"
     }
   ],
-  "updatedAt": "2026-03-23T07:23:13.845Z"
+  "updatedAt": "2026-03-23T09:11:18.149Z"
 }
