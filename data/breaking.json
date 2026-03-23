@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "55216a3c005ccdaf",
+      "title": "Negotiating a win-win end to the lose-lose US-China trade war over technology and critical minerals - Peterson Institute for International Economics",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUdtVWJfUWVMUnFhSjJpSUJVU0xxLU1jSG4tR3hVN3hQb21RbmxhSWYxV25mSllubFFZLWFiel8wR3hrVXM5VVE1Z3BiR2RHdGszWHRCR0RQNWpOYmdvN2dUZ2c4ZzcxcFUweWJNak5ZVW1RRFFmUjF3RGJhcWt4cnZrMGhqNzBFdUFSRGU3YTdFZ0hpbmVLRUsycng5ZWxYTGVNempsTFlXUGY3WU5LRw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + china"
+      ],
+      "firstSeen": "2026-03-23T13:57:13.327Z",
+      "pushedAt": "2026-03-23T13:57:13.327Z"
+    },
+    {
+      "id": "5146e5c053011855",
+      "title": "Indian Rupee Hits Record Low Against US Dollar - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yUzdmN1JmLWwxaFJjcVJYV2NLTGowUkJNYmZoRkhPM3RkV2Zoak03emc3ZVdxdTU0RnJXUndpTnlZYzdXYklSRUk2MWcwQWNSV3RVQXdzNTJKNGtIS2kyZjdB?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "dollar + record"
+      ],
+      "firstSeen": "2026-03-23T13:57:13.629Z",
+      "pushedAt": "2026-03-23T13:57:13.629Z"
+    },
+    {
       "id": "e34d97707060eb51",
       "title": "Oil tumbles after Trump postpones U.S. strikes against Iran energy infrastructure for five days",
       "url": "https://www.cnbc.com/2026/03/23/oil-prices-trump-iran-strait-of-hormuz-wti-crude-middle-east-lng-gas.html",
@@ -218,5 +242,5 @@
       "pushedAt": "2026-03-22T16:27:49.368Z"
     }
   ],
-  "updatedAt": "2026-03-23T11:52:33.795Z"
+  "updatedAt": "2026-03-23T13:57:13.872Z"
 }
