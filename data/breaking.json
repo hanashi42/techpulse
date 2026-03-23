@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "b0c12af19a17ce94",
+      "title": "Court names New Jersey federal prosecutor, ending standoff with Trump administration - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXczeU5SMVJnS3BUMXgyVklHOFJqS1lJS21DUHVRSTZMRS1TTnBma2xTYmFuTGx5NG9IUlpNdG55bWozOEQ5TWJoZkRmZFp0bzVvclhrelktVXBUVDR1NEpIWDU3YkdyT3lzSVFndk56Z1BTSmVtcUhta0JzMVpWeHJaRGJENTB5V0pUQWhkajZyemN4eTJCWHdJcklYb0FjcWlyQ0RKN0M3aWMySDktcllDSDZ0aElNUWwxbFY5V1paZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + cut"
+      ],
+      "firstSeen": "2026-03-23T23:59:34.305Z",
+      "pushedAt": "2026-03-23T23:59:34.305Z"
+    },
+    {
+      "id": "e67e585e6618bc55",
+      "title": "Japan core inflation in February misses estimates, headline CPI eases for a fourth straight month",
+      "url": "https://www.cnbc.com/2026/03/24/japan-cpi-inflation-february-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + cpi"
+      ],
+      "firstSeen": "2026-03-23T23:59:34.593Z",
+      "pushedAt": "2026-03-23T23:59:34.593Z"
+    },
+    {
       "id": "a473372f01cb5213",
       "title": "Exclusive: Russia delays change to fiscal fund after Iran war energy price surge - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM0tvQi04V0VZSm90dm4tSDkxcHZvOFpIcHlPQ0VRdlhYbEJVRE0ySWVkdkVCNURWZlZVbEVPMkZsRXMtZjhETTJKMjk4QUlVVnVDQWFpbURpZl9JRDBKV3JzNU1BVl8zbFNkRXdrUFJCVWJaZnluTy1GbmlydGJqdVJTSWhtZmFCaElySnhiVGhqN3h5V2xITGdZQ2dfRElkUE50ZlptcGhjMXJVc3pDYw?oc=5",
@@ -240,31 +264,7 @@
       ],
       "firstSeen": "2026-03-23T06:02:09.117Z",
       "pushedAt": "2026-03-23T06:02:09.117Z"
-    },
-    {
-      "id": "bd1e2c80fa87ebec",
-      "title": "ICE officers soon will help with airport security unless Democrats end shutdown, Trump says - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVWpFSDRkaWpfNGF3elR5NkhVcUhWWmMxWmlFazhERlR5OXRYNnFkVWdiTHZsN19zNzJkV250OU83bUd6ZmpjN2FtSmVPY0hSTFAzUi10QTUyem9JYXNMUjZ6cXNQVnpKWlYzWF8xaHowVFY0SXVaREhlVTRaNWFoY2M2djhTWEpvbk9paC12T0o2ZVhlbWZvaFRXWWZ5VFdnZ3d5QkMtZS02QQ?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-22T21:02:17.414Z",
-      "pushedAt": "2026-03-22T21:02:17.414Z"
-    },
-    {
-      "id": "875e762d598ee5d0",
-      "title": "Trump sends US immigration agents to airports as shutdown chaos deepens",
-      "url": "https://www.aljazeera.com/news/2026/3/22/trump-sends-us-immigration-agents-to-airports-as-shutdown-chaos-deepens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-22T21:02:17.614Z",
-      "pushedAt": "2026-03-22T21:02:17.614Z"
     }
   ],
-  "updatedAt": "2026-03-23T20:59:09.923Z"
+  "updatedAt": "2026-03-23T23:59:34.696Z"
 }
