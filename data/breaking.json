@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ede5d928bbaf1595",
+      "title": "Iran attempted to attack a far-off military base.",
+      "url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/iran-attempted-to-attack-a-far-off-military-base",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-03-23T14:51:16.615Z",
+      "pushedAt": "2026-03-23T14:51:16.615Z"
+    },
+    {
       "id": "55216a3c005ccdaf",
       "title": "Negotiating a win-win end to the lose-lose US-China trade war over technology and critical minerals - Peterson Institute for International Economics",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUdtVWJfUWVMUnFhSjJpSUJVU0xxLU1jSG4tR3hVN3hQb21RbmxhSWYxV25mSllubFFZLWFiel8wR3hrVXM5VVE1Z3BiR2RHdGszWHRCR0RQNWpOYmdvN2dUZ2c4ZzcxcFUweWJNak5ZVW1RRFFmUjF3RGJhcWt4cnZrMGhqNzBFdUFSRGU3YTdFZ0hpbmVLRUsycng5ZWxYTGVNempsTFlXUGY3WU5LRw?oc=5",
@@ -242,5 +254,5 @@
       "pushedAt": "2026-03-22T16:27:49.368Z"
     }
   ],
-  "updatedAt": "2026-03-23T13:57:13.872Z"
+  "updatedAt": "2026-03-23T14:51:16.974Z"
 }
