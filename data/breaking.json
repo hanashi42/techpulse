@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fab9a700a2117ab1",
+      "title": "Palestinians struggle as Gaza endures severe fuel and gas shortages",
+      "url": "https://www.aljazeera.com/news/2026/3/24/palestinians-struggle-as-gaza-endures-severe-fuel-and-gas-shortages?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + gas"
+      ],
+      "firstSeen": "2026-03-24T14:01:30.646Z",
+      "pushedAt": "2026-03-24T14:01:30.646Z"
+    },
+    {
       "id": "c974c84d24d2d574",
       "title": "How does the current global oil crisis compare with the 1973 oil embargo?",
       "url": "https://www.aljazeera.com/news/2026/3/24/how-does-the-current-global-oil-crisis-compare-with-the-1973-oil-embargo?traffic_source=rss",
@@ -167,31 +179,7 @@
       ],
       "firstSeen": "2026-03-23T14:51:16.615Z",
       "pushedAt": "2026-03-23T14:51:16.615Z"
-    },
-    {
-      "id": "55216a3c005ccdaf",
-      "title": "Negotiating a win-win end to the lose-lose US-China trade war over technology and critical minerals - Peterson Institute for International Economics",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUdtVWJfUWVMUnFhSjJpSUJVU0xxLU1jSG4tR3hVN3hQb21RbmxhSWYxV25mSllubFFZLWFiel8wR3hrVXM5VVE1Z3BiR2RHdGszWHRCR0RQNWpOYmdvN2dUZ2c4ZzcxcFUweWJNak5ZVW1RRFFmUjF3RGJhcWt4cnZrMGhqNzBFdUFSRGU3YTdFZ0hpbmVLRUsycng5ZWxYTGVNempsTFlXUGY3WU5LRw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "trade war + china"
-      ],
-      "firstSeen": "2026-03-23T13:57:13.327Z",
-      "pushedAt": "2026-03-23T13:57:13.327Z"
-    },
-    {
-      "id": "5146e5c053011855",
-      "title": "Indian Rupee Hits Record Low Against US Dollar - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yUzdmN1JmLWwxaFJjcVJYV2NLTGowUkJNYmZoRkhPM3RkV2Zoak03emc3ZVdxdTU0RnJXUndpTnlZYzdXYklSRUk2MWcwQWNSV3RVQXdzNTJKNGtIS2kyZjdB?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "dollar + record"
-      ],
-      "firstSeen": "2026-03-23T13:57:13.629Z",
-      "pushedAt": "2026-03-23T13:57:13.629Z"
     }
   ],
-  "updatedAt": "2026-03-24T11:54:30.942Z"
+  "updatedAt": "2026-03-24T14:01:30.930Z"
 }
