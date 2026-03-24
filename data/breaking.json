@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "95d7e2c3c24202a0",
+      "title": "Shares jittery, oil rebounds as fragile relief rally sours - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzVEQTdvNG5fUnVrdWRwSGZabVBOSHJ5eU9mZUZhWVBUdmJmZkZiTWRvdk10YTBGa3VPdUE1R3lXRk85cjdrUGtqemUzZC0tbGdQUFNINkZ5VnBUQ0lieUlyaVMyN09jX1ViNUFuZkFlVE81QkxKUkFtcmRnVFNNV2dHRQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + oil"
+      ],
+      "firstSeen": "2026-03-24T04:26:36.997Z",
+      "pushedAt": "2026-03-24T04:26:36.997Z"
+    },
+    {
+      "id": "37da2a6ad59a9f73",
+      "title": "Airstrikes on Iraq's Shi'ite PMF site kill six including Anbar commander - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUXdleGotYVJlZG1CczA2SUdKcE9FMENfWTlMd3BkclNZNnY4WHQ1ZVcwa2VxVHpkQlpILVE4LWJKY2I1UU1LR2s5WnQ2TUwxLWN4cldBci01WkxGNlBmV0dFTkJUdzFTRlhvaVRCNC01TWxGVmNrQnBJN2NZWW56ZGJGUmRKTElvYU45YUhwelR0NHFfeFJ5alhMTy15UGdCRXFRaEtEMWdYUmdmRFNOaFJLcmtidG41c1kzSG5NVUpRNHNYdGU1eDVQOTl0QQ?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "airstrikes on"
+      ],
+      "firstSeen": "2026-03-24T04:26:37.286Z",
+      "pushedAt": "2026-03-24T04:26:37.286Z"
+    },
+    {
       "id": "b0c12af19a17ce94",
       "title": "Court names New Jersey federal prosecutor, ending standoff with Trump administration - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXczeU5SMVJnS3BUMXgyVklHOFJqS1lJS21DUHVRSTZMRS1TTnBma2xTYmFuTGx5NG9IUlpNdG55bWozOEQ5TWJoZkRmZFp0bzVvclhrelktVXBUVDR1NEpIWDU3YkdyT3lzSVFndk56Z1BTSmVtcUhta0JzMVpWeHJaRGJENTB5V0pUQWhkajZyemN4eTJCWHdJcklYb0FjcWlyQ0RKN0M3aWMySDktcllDSDZ0aElNUWwxbFY5V1paZw?oc=5",
@@ -266,5 +290,5 @@
       "pushedAt": "2026-03-23T06:02:09.117Z"
     }
   ],
-  "updatedAt": "2026-03-23T23:59:34.696Z"
+  "updatedAt": "2026-03-24T04:26:37.557Z"
 }
