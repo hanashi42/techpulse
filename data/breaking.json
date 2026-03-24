@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d1f561f6161581f0",
+      "title": "No tsunami threat after deep 7.6 magnitude earthquake near Tonga - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTEhfaUMtd2F0ZUJsRlpuNTE4S2tNX3lVZGlhVzJIZ3ZWOFFXNUNlV3RpMnpYeGdXS0dROVNrZzRjclRWeWdYWVc0OWM0Y0xUU3VRTFlHVEtTSzF5d3NIYmNzSExfNkRDei1GbDgzRDRRQm9Yc0tiX1BsNVdHZmNpY0R6NFdoWFlLUHZ6b0szRVFhMVBGYTNDb2ZpRzdUeUQ3MkhjRUxfWnV1NjJkaE1xQU5n?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-03-24T08:28:11.411Z",
+      "pushedAt": "2026-03-24T08:28:11.411Z"
+    },
+    {
       "id": "7e8426b0df635b04",
       "title": "Gold loses over 1% as dollar firms, Fed cut hopes fade - Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclJLSmh6VlVNb3hZUktRUDYzUU50clVpSXpMdTlrajhrU0ZCRjZWQnFQSW9ndGFsUC1ULXVwWUJuWnNwLVpMZl9WckVYN09od0hvRmdFWnhKRzZZWkJvUmZqVjg4Ul9ScTdwbWF1c0ZuVWJiRWltZTNEWHlXdmxISmhIVmF4NEZKRWlaYnNFTEFLM2VFcW9fVXZFTE01UQ?oc=5",
@@ -239,80 +251,7 @@
       ],
       "firstSeen": "2026-03-23T09:11:18.042Z",
       "pushedAt": "2026-03-23T09:11:18.042Z"
-    },
-    {
-      "id": "69be669a40034068",
-      "title": "Iran threatens to 'completely' close Strait of Hormuz and hit power plants after Trump ultimatum - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklRRlJocUJXejUtLXl4U3M4WGQycThnVnF1S1V0QnRldE5Ud1MwYklKNEQ2VGx1VnBIWEZGMkJ3T19UTHliLWJzQ2xmMGRxRWM2SVFfeTNwaEhaaHJ5SV9zNW9xdmgyQ01HbGtIWlZCZmdDMk02OG5NU1h2ekZDR1Ryci1fek9UUU9ROC16Sm1KM0tMTDBxd080NWhKTE02bTFEXw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-03-23T07:23:13.041Z",
-      "pushedAt": "2026-03-23T07:23:13.041Z"
-    },
-    {
-      "id": "55e10db1f066a78c",
-      "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
-      "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-23T07:23:13.337Z",
-      "pushedAt": "2026-03-23T07:23:13.337Z"
-    },
-    {
-      "id": "25db9f8db94b3a33",
-      "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
-      "url": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-03-23T07:23:13.586Z",
-      "pushedAt": "2026-03-23T07:23:13.586Z"
-    },
-    {
-      "id": "43f369559e272d56",
-      "title": "Asia markets tumble as Middle East conflict spiral with no sign of abating",
-      "url": "https://www.cnbc.com/2026/03/23/asia-markets-us-iran-threats-strait-of-hormuz-oil-nikkei-kospi-hsi-hang-seng.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + market"
-      ],
-      "firstSeen": "2026-03-23T07:23:13.672Z",
-      "pushedAt": "2026-03-23T07:23:13.672Z"
-    },
-    {
-      "id": "4e3432a73a0c1186",
-      "title": "Asian Stocks Plunge Following Trump's Ultimatum To Iran - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVdpNWxrV1FXQk9wYVpka2p2R1Y5UzNlUEt5U2F3Wmc0d2hvajFZdFNDRmZlQmFTRkUzYzQ2YTdENW5pRzZ6d0dZcnhwN29fOHN1X1lPZjJmN09JLXhDdjB1M2JsbHMteFNseXMwSkhtRGRiWFRKdk91cUVMZlI1VDlGZEFZRjRX?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock"
-      ],
-      "firstSeen": "2026-03-23T07:23:13.762Z",
-      "pushedAt": "2026-03-23T07:23:13.762Z"
-    },
-    {
-      "id": "9cfda48112ba1e66",
-      "title": "Stocks skid to four-month low as oil shock spooks investors - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSy1DcTZZd2ZVTFNDc2hDRjVOc1luV1NyLTRMbWs4eTNadTVaSDRKQzE1bFdnQlJ0Y1gwNzg5UFlNZUdwNUQ1S2E2Q1NSUlJWS05MWFVua3MzN01UdmhVckVDNC0wTVpEQkdWVUc1VU82d3pwVEtzbjRhOTE2ZVdFYlB3T2xoRFo5bEFXTlRXY1VZVmxodGswUTc3ZGNrVFpmYkl0MmVGZVc?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-03-23T06:02:09.117Z",
-      "pushedAt": "2026-03-23T06:02:09.117Z"
     }
   ],
-  "updatedAt": "2026-03-24T05:40:59.824Z"
+  "updatedAt": "2026-03-24T08:28:11.693Z"
 }
