@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "c888dab779cba51d",
+      "title": "Delta suspends special treatment for Congress as shutdown sows chaos in airports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQTFGNmFTcDM1dElJMTJXUks5REtBbGJZcVV4OXlINkFnbWFIbW5VQnJWalpYU1BwTjhKZ211QTFNMTR1aW5HZ1dhRnlFTnRnU1BDOVVmaUc4SUtXWG5VeUg0clV4UFowWmJDUGNSY0lvMzNuWTg1cHFoWkxSSDdYZTV1OHktdFNHNlBxUWJUdzNPb3dsSl91NTVoU1RMRzBQcGZrTE8teEpKZnFpNlo4TzhHN0E3NXVEXzdMbDhnV3lYRHNFY2JuTEVHSzVuU3d4WThCcXZsYndIQkV3bHRlNThpeUd4Zw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-24T19:18:51.264Z",
+      "pushedAt": "2026-03-24T19:18:51.264Z"
+    },
+    {
+      "id": "5e81901ab898eea5",
+      "title": "Iran names successor to security chief killed in US-Israeli attack",
+      "url": "https://www.aljazeera.com/news/2026/3/24/mohammad-bagher-zolghadr-succeeds-slain-larijani-as-iran-security-chief?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-24T19:18:51.336Z",
+      "pushedAt": "2026-03-24T19:18:51.336Z"
+    },
+    {
       "id": "f57b3e7dc975bc5f",
       "title": "Aid flotilla reaches Cuba amid US oil blockade and blackouts",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/aid-flotilla-reaches-cuba-amid-us-oil-blockade-and-blackouts?traffic_source=rss",
@@ -168,31 +192,7 @@
       ],
       "firstSeen": "2026-03-23T20:25:35.697Z",
       "pushedAt": "2026-03-23T20:25:35.697Z"
-    },
-    {
-      "id": "76918fadbe9b6678",
-      "title": "Oil prices ease and stock markets jump as hopes rise for an end to the Iran war - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXF2TnlFRWR1aDRqRXY4NFllT3pYTnI2QnBHM3FzaEpmMWQ4QW9TVmFGMGp3OTFWTGpsMmQtZHJ0X1hGZVUwQUdmQ0wxWjlfaHNWNThJTTlhSVBKUFBqQVBWUHJncFVOTUhza3hDN3NLNHhPbGV3ZGZuNUdzRlhjUUtqSFNDSTJmRGJ2MnpQSms4cGs?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-03-23T18:10:18.170Z",
-      "pushedAt": "2026-03-23T18:10:18.170Z"
-    },
-    {
-      "id": "ff5bcae4f5b15261",
-      "title": "Volume in stock and oil futures surged minutes before Trump's market-turning post",
-      "url": "https://www.cnbc.com/2026/03/23/volume-in-stock-and-oil-futures-surged-minutes-before-trumps-market-turning-post.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-03-23T17:30:26.929Z",
-      "pushedAt": "2026-03-23T17:30:26.929Z"
     }
   ],
-  "updatedAt": "2026-03-24T17:14:49.468Z"
+  "updatedAt": "2026-03-24T19:18:51.399Z"
 }
