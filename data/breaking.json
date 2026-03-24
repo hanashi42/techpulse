@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c974c84d24d2d574",
+      "title": "How does the current global oil crisis compare with the 1973 oil embargo?",
+      "url": "https://www.aljazeera.com/news/2026/3/24/how-does-the-current-global-oil-crisis-compare-with-the-1973-oil-embargo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil embargo"
+      ],
+      "firstSeen": "2026-03-24T11:54:30.770Z",
+      "pushedAt": "2026-03-24T11:54:30.770Z"
+    },
+    {
       "id": "5242bdd6a7c7b2f3",
       "title": "Iran Supreme Leader Mojtaba Khamenei gets another blue check on X, despite sanctions policy",
       "url": "https://www.cnbc.com/2026/03/24/iran-supreme-leader-gets-new-x-premium-account-despite-sanctions.html",
@@ -179,67 +191,7 @@
       ],
       "firstSeen": "2026-03-23T13:57:13.629Z",
       "pushedAt": "2026-03-23T13:57:13.629Z"
-    },
-    {
-      "id": "e34d97707060eb51",
-      "title": "Oil tumbles after Trump postpones U.S. strikes against Iran energy infrastructure for five days",
-      "url": "https://www.cnbc.com/2026/03/23/oil-prices-trump-iran-strait-of-hormuz-wti-crude-middle-east-lng-gas.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + oil"
-      ],
-      "firstSeen": "2026-03-23T11:52:33.497Z",
-      "pushedAt": "2026-03-23T11:52:33.497Z"
-    },
-    {
-      "id": "060aa1b8ba29c699",
-      "title": "'This is insane.' Long lines plague U.S. airports as TSA officers face second missed paycheck in shutdown",
-      "url": "https://www.cnbc.com/2026/03/23/airport-lines-government-shutdown-tsa.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-23T11:52:33.699Z",
-      "pushedAt": "2026-03-23T11:52:33.699Z"
-    },
-    {
-      "id": "01486f2551c85649",
-      "title": "Gold miners' bull run squeezed as prices plummet and energy costs soar",
-      "url": "https://www.cnbc.com/2026/03/23/gold-prices-fall-miners-equities-mining.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + gold"
-      ],
-      "firstSeen": "2026-03-23T11:08:36.220Z",
-      "pushedAt": "2026-03-23T11:08:36.220Z"
-    },
-    {
-      "id": "464927ec31895740",
-      "title": "Goldman Sachs expects ECB rate hikes in April and June as inflation concerns mount - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEZXSkhzYzI3M2FvVnZacm9yYzBwSG9ud3hubGRhUENEMDRldmx0djlWNEVWMWRJa3NaNGJlYURIcmFTVFFfdTRkMTB2SGtBNDUzWkZFV2NMeUxhenNsVWJkM0l5aVdtNmJReWhrZDVEdTJnTFNlUTNUb2x1VGNFaGtnZ2dRdUJncFhUQkgxcnVaR3d3ZnNCQmlvbm54MXA3R2NfbWgwcHdSUDZuNmVfN0s1REk4YVkxY1Rva2xPZEFZQk0?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + ecb"
-      ],
-      "firstSeen": "2026-03-23T10:13:08.041Z",
-      "pushedAt": "2026-03-23T10:13:08.041Z"
-    },
-    {
-      "id": "344ae60df3147d3d",
-      "title": "European stocks tumble as Trump sets Hormuz deadline",
-      "url": "https://www.cnbc.com/2026/03/23/european-markets-stoxx-ftse-dax-cac-iran-news-oil-prices.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + stock"
-      ],
-      "firstSeen": "2026-03-23T10:13:08.310Z",
-      "pushedAt": "2026-03-23T10:13:08.310Z"
     }
   ],
-  "updatedAt": "2026-03-24T09:27:44.833Z"
+  "updatedAt": "2026-03-24T11:54:30.942Z"
 }
