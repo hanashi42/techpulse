@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5242bdd6a7c7b2f3",
+      "title": "Iran Supreme Leader Mojtaba Khamenei gets another blue check on X, despite sanctions policy",
+      "url": "https://www.cnbc.com/2026/03/24/iran-supreme-leader-gets-new-x-premium-account-despite-sanctions.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-03-24T09:27:44.636Z",
+      "pushedAt": "2026-03-24T09:27:44.636Z"
+    },
+    {
       "id": "d1f561f6161581f0",
       "title": "No tsunami threat after deep 7.6 magnitude earthquake near Tonga - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTEhfaUMtd2F0ZUJsRlpuNTE4S2tNX3lVZGlhVzJIZ3ZWOFFXNUNlV3RpMnpYeGdXS0dROVNrZzRjclRWeWdYWVc0OWM0Y0xUU3VRTFlHVEtTSzF5d3NIYmNzSExfNkRDei1GbDgzRDRRQm9Yc0tiX1BsNVdHZmNpY0R6NFdoWFlLUHZ6b0szRVFhMVBGYTNDb2ZpRzdUeUQ3MkhjRUxfWnV1NjJkaE1xQU5n?oc=5",
@@ -227,31 +239,7 @@
       ],
       "firstSeen": "2026-03-23T10:13:08.310Z",
       "pushedAt": "2026-03-23T10:13:08.310Z"
-    },
-    {
-      "id": "7c70831c0be64c81",
-      "title": "Russia, China voice concern over Strait of Hormuz blockade and regional conflict escalation - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yQ0JkNnZMbWRsNnFNb0FmRW5XVVp3bGxlNEN0OWFidFBTMVc0OXpFbklpWHZPMTRfdGh2SzN3SWdkSXNzRDFDdDhjMk8zczJSWU9wRU0yZ2JKVGFkWWFB?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait"
-      ],
-      "firstSeen": "2026-03-23T09:11:17.811Z",
-      "pushedAt": "2026-03-23T09:11:17.811Z"
-    },
-    {
-      "id": "6d2502ebeb441046",
-      "title": "South Korea Says No Significant Oil Supply Disruption In April - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zeEE2UXhaeTVQWFZnOGowQzFHNGVBUHd3eHZGdWstcG1rR0RqQVdzeTFUd1d0UnBYZUgxQTZxdnNJLVhLellNOHI1ZHFpRzNacDNuT0xGMXBMNXI3d252UVd3?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-03-23T09:11:18.042Z",
-      "pushedAt": "2026-03-23T09:11:18.042Z"
     }
   ],
-  "updatedAt": "2026-03-24T08:28:11.693Z"
+  "updatedAt": "2026-03-24T09:27:44.833Z"
 }
