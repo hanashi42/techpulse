@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "f57b3e7dc975bc5f",
+      "title": "Aid flotilla reaches Cuba amid US oil blockade and blackouts",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/aid-flotilla-reaches-cuba-amid-us-oil-blockade-and-blackouts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-03-24T17:14:48.768Z",
+      "pushedAt": "2026-03-24T17:14:48.768Z"
+    },
+    {
+      "id": "c2bada614abbbf3f",
+      "title": "Circle heads for its worst day on record as stablecoin rival Tether announces audit milestone",
+      "url": "https://www.cnbc.com/2026/03/24/circle-stock-craters-as-stablecoin-rival-tether-announces-audit-milestone.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "stablecoin + tether",
+        "tether + audit"
+      ],
+      "firstSeen": "2026-03-24T17:14:49.218Z",
+      "pushedAt": "2026-03-24T17:14:49.218Z"
+    },
+    {
       "id": "fab9a700a2117ab1",
       "title": "Palestinians struggle as Gaza endures severe fuel and gas shortages",
       "url": "https://www.aljazeera.com/news/2026/3/24/palestinians-struggle-as-gaza-endures-severe-fuel-and-gas-shortages?traffic_source=rss",
@@ -167,19 +192,7 @@
       ],
       "firstSeen": "2026-03-23T17:30:26.929Z",
       "pushedAt": "2026-03-23T17:30:26.929Z"
-    },
-    {
-      "id": "ede5d928bbaf1595",
-      "title": "Iran attempted to attack a far-off military base.",
-      "url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/iran-attempted-to-attack-a-far-off-military-base",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-03-23T14:51:16.615Z",
-      "pushedAt": "2026-03-23T14:51:16.615Z"
     }
   ],
-  "updatedAt": "2026-03-24T14:01:30.930Z"
+  "updatedAt": "2026-03-24T17:14:49.468Z"
 }
