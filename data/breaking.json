@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7e8426b0df635b04",
+      "title": "Gold loses over 1% as dollar firms, Fed cut hopes fade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclJLSmh6VlVNb3hZUktRUDYzUU50clVpSXpMdTlrajhrU0ZCRjZWQnFQSW9ndGFsUC1ULXVwWUJuWnNwLVpMZl9WckVYN09od0hvRmdFWnhKRzZZWkJvUmZqVjg4Ul9ScTdwbWF1c0ZuVWJiRWltZTNEWHlXdmxISmhIVmF4NEZKRWlaYnNFTEFLM2VFcW9fVXZFTE01UQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + cut"
+      ],
+      "firstSeen": "2026-03-24T05:40:59.508Z",
+      "pushedAt": "2026-03-24T05:40:59.508Z"
+    },
+    {
+      "id": "3d9856271e1d7bff",
+      "title": "Israel bombs petrol station in southern Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-bombs-petrol-station-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-03-24T05:40:59.770Z",
+      "pushedAt": "2026-03-24T05:40:59.770Z"
+    },
+    {
       "id": "95d7e2c3c24202a0",
       "title": "Shares jittery, oil rebounds as fragile relief rally sours - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzVEQTdvNG5fUnVrdWRwSGZabVBOSHJ5eU9mZUZhWVBUdmJmZkZiTWRvdk10YTBGa3VPdUE1R3lXRk85cjdrUGtqemUzZC0tbGdQUFNINkZ5VnBUQ0lieUlyaVMyN09jX1ViNUFuZkFlVE81QkxKUkFtcmRnVFNNV2dHRQ?oc=5",
@@ -290,5 +314,5 @@
       "pushedAt": "2026-03-23T06:02:09.117Z"
     }
   ],
-  "updatedAt": "2026-03-24T04:26:37.557Z"
+  "updatedAt": "2026-03-24T05:40:59.824Z"
 }
