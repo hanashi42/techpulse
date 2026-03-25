@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "7715a076bcfeae6e",
+      "title": "ECB ready to hike rates even if expected inflation surge is short-lived, Lagarde says",
+      "url": "https://www.cnbc.com/2026/03/25/ecb-rate-hikes-inflation-forecasts-christine-lagarde-iran-war.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + inflation",
+        "inflation + surge"
+      ],
+      "firstSeen": "2026-03-25T13:58:05.788Z",
+      "pushedAt": "2026-03-25T13:58:05.788Z"
+    },
+    {
       "id": "42c4b2fef92fcf77",
       "title": "Leaders of AI Firm Bought by Meta Are Restricted From Leaving China - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQWUV5WXBLVzEycFhKeGNodTdlU3Z4SXlTMFgwS1gtWjlUd1lTNGZ5LTdzaGFuOE9rdW03M0E1OUxjYi1ua04xb25DOUVJWFBxVzN5Nlp3OWl2UVplZ2ZIbklsVWIyRDVyNkI4dzJNNV8tRzZTZUZJT0VER0lsMFZIVWxfQ3N4ZmFfS1RSZmVOM0xQUkhRUTM5MVprT0w5NU0yTXNEaUUzRnBFbi1ZQ0xLbEtuMlExVElCVGc5TWEzTkl6SmlBRGpCdHc2Y01jWC1CdjlqTExiNl9zX1loOXhldnQzbWZ3RG5sajRpVEdwdmdka2JlNlFJbW1kb1l2dW96dGd4bE9lYWVYcjhicS1MUlF2bjV0VGpwQ0tYODJpY2R0ZkVEcVctMUtlSWgydXh2a0lHRVhNNVV5aE5oQm1QT25OWEgydTBLSDAtX3J6ei04dFNwM2FRNVJTLVFDbkMxdjRhOGs5OC1EZVVsQjU3R2RBQ3duekNSTUNlY1RtdkZ0clBzMzNlaU1SYk5DRng0MWVPMXZfZFpfX3hMRTFxRVdleEV3NGhw?oc=5",
@@ -231,5 +244,5 @@
       "pushedAt": "2026-03-24T14:01:30.646Z"
     }
   ],
-  "updatedAt": "2026-03-25T12:34:08.698Z"
+  "updatedAt": "2026-03-25T13:58:05.905Z"
 }
