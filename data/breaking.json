@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "c83c9ab72a248e6d",
+      "title": "Oil prices drop on prospect of Middle East ceasefire easing supply disruption - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNVU5QWgzLWc3VmJ3VS1jcUNrcklMYXFiNG8yeE1wcmdqZTJHZDBxd1ZLS0hYSEdMQTlzQUJTa0FHcjdyeHQ4Ry0yQXN0OXI4QWsxVmJXbjJvNTBGM1FYMUtNZUNDM01PSmxRay1IcG9XQTFQc045bkZxbHZJeE94VC1zaHJVTmlVaWx6b21sTmlqZGxkRHdQQ0hwOEphLWVTQ29KbUNtdkprQXZ4QWVUMGVvamZUVVh1blUwcGt3TFlaTkhG?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + drop",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-03-25T02:55:52.163Z",
+      "pushedAt": "2026-03-25T02:55:52.163Z"
+    },
+    {
+      "id": "937c10f2f66dcbcf",
+      "title": "Photos show ICE agents at US airports where the partial government shutdown triggered delays - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3hLS2xGSEdHQ043TFVyRjBBeVprWjZlYXhoaXBpZHlJM3A1NXNhb2pXQW9UM3ZNRHJKdVJiQXZlcW5WVW82MWxKSW0xTFZhS29UeFdFTGVQTlM2dUpibDNYMHBOYUNJWi1YVG55cWRzeEo4eUV6NGthc2JmXzVTUzgxMmR6bnltNjFqdlFpdDFPLUMtbGptOG5wTERlR0NBQy0yRVR5OHFNOXZJZnpjMFF6R2VjSTg?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-25T02:55:52.310Z",
+      "pushedAt": "2026-03-25T02:55:52.310Z"
+    },
+    {
+      "id": "fdc328b3bf512a43",
+      "title": "Oil Prices Fall Amid Hopes For Diplomatic Efforts In West Asia - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYVlc2d1JYMTFmempUcURkdlpqYmlxeV9uNnBDNWdBdjRMVVNLTHFySGZQTVhmQlR4QjhTRC03dFcwNERETHBXYUdHYnd0V3RqSEs1SDJfNWhJUmJld3c4NlhHVQ?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-03-25T02:55:52.400Z",
+      "pushedAt": "2026-03-25T02:55:52.400Z"
+    },
+    {
       "id": "26573b44f3368dca",
       "title": "Exclusive: Trump's approval hits new 36% low as fuel prices surge amid Iran war, Reuters/Ipsos poll finds - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOanhmUEpTRkdVdmxGd0txdEFudGQ5b0lxTTZkTU9acHVRVERpb0Q5bTJaMmFuaWQzOTBZTFVZRXFPWU5sSE5TOFVkenc4N0VtWkRrTjJ0RExoRXpaRmpNWTZHRUtQY3FaVEhBWU9nMmplNFNrUm9RbF8xTjI5enZHaTd2bUtpSWJuWWR1MjBNMHNJZmxFRGFmcnJTblpGejBUQThHWTV3dTFWQXFBRFdBZEgtMW12dExteFhGNEJR?oc=5",
@@ -192,31 +229,7 @@
       ],
       "firstSeen": "2026-03-24T04:26:37.286Z",
       "pushedAt": "2026-03-24T04:26:37.286Z"
-    },
-    {
-      "id": "b0c12af19a17ce94",
-      "title": "Court names New Jersey federal prosecutor, ending standoff with Trump administration - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXczeU5SMVJnS3BUMXgyVklHOFJqS1lJS21DUHVRSTZMRS1TTnBma2xTYmFuTGx5NG9IUlpNdG55bWozOEQ5TWJoZkRmZFp0bzVvclhrelktVXBUVDR1NEpIWDU3YkdyT3lzSVFndk56Z1BTSmVtcUhta0JzMVpWeHJaRGJENTB5V0pUQWhkajZyemN4eTJCWHdJcklYb0FjcWlyQ0RKN0M3aWMySDktcllDSDZ0aElNUWwxbFY5V1paZw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + cut"
-      ],
-      "firstSeen": "2026-03-23T23:59:34.305Z",
-      "pushedAt": "2026-03-23T23:59:34.305Z"
-    },
-    {
-      "id": "e67e585e6618bc55",
-      "title": "Japan core inflation in February misses estimates, headline CPI eases for a fourth straight month",
-      "url": "https://www.cnbc.com/2026/03/24/japan-cpi-inflation-february-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + cpi"
-      ],
-      "firstSeen": "2026-03-23T23:59:34.593Z",
-      "pushedAt": "2026-03-23T23:59:34.593Z"
     }
   ],
-  "updatedAt": "2026-03-24T22:17:00.854Z"
+  "updatedAt": "2026-03-25T02:55:52.434Z"
 }
