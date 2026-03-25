@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "47cb2226f7f61d70",
+      "title": "Warning oil rise to $150 could trigger global recession",
+      "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "recession + warning"
+      ],
+      "firstSeen": "2026-03-25T07:40:56.993Z",
+      "pushedAt": "2026-03-25T07:40:56.993Z"
+    },
+    {
+      "id": "6c4fe21423843cd3",
+      "title": "South Korea braces for 'worst-case scenarios' as Iran oil shock deepens",
+      "url": "https://www.cnbc.com/2026/03/25/south-korea-iran-oil-shock-middle-east-conflict.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-03-25T07:40:57.187Z",
+      "pushedAt": "2026-03-25T07:40:57.187Z"
+    },
+    {
       "id": "c83c9ab72a248e6d",
       "title": "Oil prices drop on prospect of Middle East ceasefire easing supply disruption - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNVU5QWgzLWc3VmJ3VS1jcUNrcklMYXFiNG8yeE1wcmdqZTJHZDBxd1ZLS0hYSEdMQTlzQUJTa0FHcjdyeHQ4Ry0yQXN0OXI4QWsxVmJXbjJvNTBGM1FYMUtNZUNDM01PSmxRay1IcG9XQTFQc045bkZxbHZJeE94VC1zaHJVTmlVaWx6b21sTmlqZGxkRHdQQ0hwOEphLWVTQ29KbUNtdkprQXZ4QWVUMGVvamZUVVh1blUwcGt3TFlaTkhG?oc=5",
@@ -181,55 +205,7 @@
       ],
       "firstSeen": "2026-03-24T08:28:11.411Z",
       "pushedAt": "2026-03-24T08:28:11.411Z"
-    },
-    {
-      "id": "7e8426b0df635b04",
-      "title": "Gold loses over 1% as dollar firms, Fed cut hopes fade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclJLSmh6VlVNb3hZUktRUDYzUU50clVpSXpMdTlrajhrU0ZCRjZWQnFQSW9ndGFsUC1ULXVwWUJuWnNwLVpMZl9WckVYN09od0hvRmdFWnhKRzZZWkJvUmZqVjg4Ul9ScTdwbWF1c0ZuVWJiRWltZTNEWHlXdmxISmhIVmF4NEZKRWlaYnNFTEFLM2VFcW9fVXZFTE01UQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + cut"
-      ],
-      "firstSeen": "2026-03-24T05:40:59.508Z",
-      "pushedAt": "2026-03-24T05:40:59.508Z"
-    },
-    {
-      "id": "3d9856271e1d7bff",
-      "title": "Israel bombs petrol station in southern Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-bombs-petrol-station-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-03-24T05:40:59.770Z",
-      "pushedAt": "2026-03-24T05:40:59.770Z"
-    },
-    {
-      "id": "95d7e2c3c24202a0",
-      "title": "Shares jittery, oil rebounds as fragile relief rally sours - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzVEQTdvNG5fUnVrdWRwSGZabVBOSHJ5eU9mZUZhWVBUdmJmZkZiTWRvdk10YTBGa3VPdUE1R3lXRk85cjdrUGtqemUzZC0tbGdQUFNINkZ5VnBUQ0lieUlyaVMyN09jX1ViNUFuZkFlVE81QkxKUkFtcmRnVFNNV2dHRQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + oil"
-      ],
-      "firstSeen": "2026-03-24T04:26:36.997Z",
-      "pushedAt": "2026-03-24T04:26:36.997Z"
-    },
-    {
-      "id": "37da2a6ad59a9f73",
-      "title": "Airstrikes on Iraq's Shi'ite PMF site kill six including Anbar commander - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUXdleGotYVJlZG1CczA2SUdKcE9FMENfWTlMd3BkclNZNnY4WHQ1ZVcwa2VxVHpkQlpILVE4LWJKY2I1UU1LR2s5WnQ2TUwxLWN4cldBci01WkxGNlBmV0dFTkJUdzFTRlhvaVRCNC01TWxGVmNrQnBJN2NZWW56ZGJGUmRKTElvYU45YUhwelR0NHFfeFJ5alhMTy15UGdCRXFRaEtEMWdYUmdmRFNOaFJLcmtidG41c1kzSG5NVUpRNHNYdGU1eDVQOTl0QQ?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "airstrikes on"
-      ],
-      "firstSeen": "2026-03-24T04:26:37.286Z",
-      "pushedAt": "2026-03-24T04:26:37.286Z"
     }
   ],
-  "updatedAt": "2026-03-25T02:55:52.434Z"
+  "updatedAt": "2026-03-25T07:40:57.250Z"
 }
