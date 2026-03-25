@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "163e9086230d0ebf",
+      "title": "Oil giants raise the alarm over energy shortages as Iran war drags on",
+      "url": "https://www.cnbc.com/2026/03/25/iran-war-oil-shell-totalenergies-energy-strait-of-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + oil"
+      ],
+      "firstSeen": "2026-03-25T22:04:58.812Z",
+      "pushedAt": "2026-03-25T22:04:58.812Z"
+    },
+    {
       "id": "09747fd845737620",
       "title": "US investors bet big on Indian cricket with record billion-dollar IPL deals",
       "url": "https://www.aljazeera.com/sports/2026/3/25/us-investors-bet-big-on-indian-cricket-with-record-billion-dollar-ipl-deals?traffic_source=rss",
@@ -266,19 +278,7 @@
       ],
       "firstSeen": "2026-03-24T22:17:00.624Z",
       "pushedAt": "2026-03-24T22:17:00.624Z"
-    },
-    {
-      "id": "d24799f9d05caa44",
-      "title": "Building collapses after Iranian missile strike on Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/building-collapses-after-iranian-missile-strike-on-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-03-24T21:51:07.627Z",
-      "pushedAt": "2026-03-24T21:51:07.627Z"
     }
   ],
-  "updatedAt": "2026-03-25T21:35:01.717Z"
+  "updatedAt": "2026-03-25T22:04:59.249Z"
 }
