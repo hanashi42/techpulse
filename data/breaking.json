@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "94aa14aca4b0ea66",
+      "title": "China Restricts Manus Founders From Leaving China, FT Says - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZThCbFozckt3NHFoNjQwNzlPa2RDbGFYNGJUWVJoT1luVVZ4WWVmenNLTW1VaWJhZHBxRVRDU2t0U1YwOUZwendQSWNSWnI2ejR4bC0zTlBNUWthUWwtRi1MR1paZ2ZsYzhpSjRxTWQ4bzBqc003Q0FZckl5ZnBnZmNXQ1FDQ2J1c0VUeDZlLXpzbWdfYjM2R1pJekJ5RXFjWHJERGc0ck52THVs?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-03-25T11:06:13.027Z",
+      "pushedAt": "2026-03-25T11:06:13.027Z"
+    },
+    {
       "id": "da1a80e1d5c49985",
       "title": "Pop Mart shares plunge over 22% as concerns over sustainability of Labubu sales dwarf stellar results",
       "url": "https://www.cnbc.com/2026/03/25/pop-mart-labubu-sluggish-crybaby-monster-family-sales-.html",
@@ -193,19 +205,7 @@
       ],
       "firstSeen": "2026-03-24T11:54:30.770Z",
       "pushedAt": "2026-03-24T11:54:30.770Z"
-    },
-    {
-      "id": "5242bdd6a7c7b2f3",
-      "title": "Iran Supreme Leader Mojtaba Khamenei gets another blue check on X, despite sanctions policy",
-      "url": "https://www.cnbc.com/2026/03/24/iran-supreme-leader-gets-new-x-premium-account-despite-sanctions.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-03-24T09:27:44.636Z",
-      "pushedAt": "2026-03-24T09:27:44.636Z"
     }
   ],
-  "updatedAt": "2026-03-25T09:26:35.876Z"
+  "updatedAt": "2026-03-25T11:06:13.327Z"
 }
