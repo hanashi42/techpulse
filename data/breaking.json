@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e086986c507df6b0",
+      "title": "How US Trade Sanctions Fueled China's Innovation Surge - Harvard Business School",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHhQVHI3QjM5UVYtc2xFdlV1QlphaEZiMWRSTXVMY3llR2VacUxiT0VsVlpQaTdyeWg5cnNpcDNBZFpYZG03V1R6XzRxbDZtbkdBWVQ0Vm85NU5wWHdOUlV4LVVLeVR5cEtZWTRsUXVxYnp3bk9aM1dfLXJ5RXJMWUtZV092d2lRQWhkYXhFX3ozLXVsLTE0aW9NLV91X1No?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-03-25T17:05:44.849Z",
+      "pushedAt": "2026-03-25T17:05:44.849Z"
+    },
+    {
       "id": "a5ae7b289c21f634",
       "title": "US import prices post largest gain in four years as energy costs soar - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFJHZnRCY21EdXhTTGFpeHJLRGFNN2VGTFZURngwQ1owRjVPeW9RbjFMeGZMUk5YVEJQUzlLY2JjalF1NVBWemtqRV9qQ2w1TVVEYzhzZVVET1hLbG9pSDU5SWdudGl6eTRnTXVmcVVjbzFMRzBHQ2g0dUV6NU1rMDFpeXdmOWZBTEpHS2c0NUFhZUN1RmVCd2RiVzJ1OXhNTDkwT0pzRER2UQ?oc=5",
@@ -281,5 +293,5 @@
       "pushedAt": "2026-03-24T17:14:49.218Z"
     }
   ],
-  "updatedAt": "2026-03-25T16:00:29.472Z"
+  "updatedAt": "2026-03-25T17:05:45.168Z"
 }
