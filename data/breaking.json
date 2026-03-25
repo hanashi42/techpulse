@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "cb5c1edba1f16d9c",
+      "title": "India buys first Iran LPG cargo in years after US eases sanctions, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTi10dVlHTEVBa2F5YmFlWjI2ZUdJNEljQUJ1UzR5eDZVRGt3THhBQUxFN2xnNkpjcEsxUTNxNnVtcS02T1hYejJLdVhyeGs2Slk1ZnFMcWlrRUdCVFJUM0M5RFI3eVlXcU9DUHNQT1JPZmZoVmMyTnBKbTEyaUFxeHpZRVJHNXl0em90Y0Vld3pXeG0xaXBRbl9QMjBtREUtN2p4WHlnTGgyLXF5eUZMTHk4QmxlU0JseHlsZG93Mm5ycG1E?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-03-25T14:55:59.668Z",
+      "pushedAt": "2026-03-25T14:55:59.668Z"
+    },
+    {
       "id": "7715a076bcfeae6e",
       "title": "ECB ready to hike rates even if expected inflation surge is short-lived, Lagarde says",
       "url": "https://www.cnbc.com/2026/03/25/ecb-rate-hikes-inflation-forecasts-christine-lagarde-iran-war.html",
@@ -230,19 +242,7 @@
       ],
       "firstSeen": "2026-03-24T17:14:49.218Z",
       "pushedAt": "2026-03-24T17:14:49.218Z"
-    },
-    {
-      "id": "fab9a700a2117ab1",
-      "title": "Palestinians struggle as Gaza endures severe fuel and gas shortages",
-      "url": "https://www.aljazeera.com/news/2026/3/24/palestinians-struggle-as-gaza-endures-severe-fuel-and-gas-shortages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + gas"
-      ],
-      "firstSeen": "2026-03-24T14:01:30.646Z",
-      "pushedAt": "2026-03-24T14:01:30.646Z"
     }
   ],
-  "updatedAt": "2026-03-25T13:58:05.905Z"
+  "updatedAt": "2026-03-25T14:55:59.931Z"
 }
