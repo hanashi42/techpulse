@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "42c4b2fef92fcf77",
+      "title": "Leaders of AI Firm Bought by Meta Are Restricted From Leaving China - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQWUV5WXBLVzEycFhKeGNodTdlU3Z4SXlTMFgwS1gtWjlUd1lTNGZ5LTdzaGFuOE9rdW03M0E1OUxjYi1ua04xb25DOUVJWFBxVzN5Nlp3OWl2UVplZ2ZIbklsVWIyRDVyNkI4dzJNNV8tRzZTZUZJT0VER0lsMFZIVWxfQ3N4ZmFfS1RSZmVOM0xQUkhRUTM5MVprT0w5NU0yTXNEaUUzRnBFbi1ZQ0xLbEtuMlExVElCVGc5TWEzTkl6SmlBRGpCdHc2Y01jWC1CdjlqTExiNl9zX1loOXhldnQzbWZ3RG5sajRpVEdwdmdka2JlNlFJbW1kb1l2dW96dGd4bE9lYWVYcjhicS1MUlF2bjV0VGpwQ0tYODJpY2R0ZkVEcVctMUtlSWgydXh2a0lHRVhNNVV5aE5oQm1QT25OWEgydTBLSDAtX3J6ei04dFNwM2FRNVJTLVFDbkMxdjRhOGs5OC1EZVVsQjU3R2RBQ3duekNSTUNlY1RtdkZ0clBzMzNlaU1SYk5DRng0MWVPMXZfZFpfX3hMRTFxRVdleEV3NGhw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-03-25T12:34:08.023Z",
+      "pushedAt": "2026-03-25T12:34:08.023Z"
+    },
+    {
+      "id": "37ec4ed46d3b763d",
+      "title": "Why a Chinese invasion of Taiwan by 2030 would ignite an economic shockwave across Milwaukee industries - Milwaukee Independent",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON25UelVqWFFQLXhJUEtpbGJqS3VfLW1KV3d6c3pldko1WGhDd184Z2hLSmJiaDZ4RTZkdGtIRmJTV3dmMWxNalFzZjdJZGxpb2oxQzdQckdieEdCLTFWd3ZCekxLV3ZrWTByaVVSdU9OTmNOSENIT1QxWmpvaHlDRjJoTEZlc245ZUg2RDR2eWVqcXpUaHVyRTNLNzlvOTd5Q2FFaGs1bkJlRER5NmRvcXdEYXRWLXV2cXp0RF9aay1zUXdXcThYVw?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "invasion of"
+      ],
+      "firstSeen": "2026-03-25T12:34:08.466Z",
+      "pushedAt": "2026-03-25T12:34:08.466Z"
+    },
+    {
       "id": "362f4e788a87a994",
       "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
       "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html",
@@ -205,19 +229,7 @@
       ],
       "firstSeen": "2026-03-24T14:01:30.646Z",
       "pushedAt": "2026-03-24T14:01:30.646Z"
-    },
-    {
-      "id": "c974c84d24d2d574",
-      "title": "How does the current global oil crisis compare with the 1973 oil embargo?",
-      "url": "https://www.aljazeera.com/news/2026/3/24/how-does-the-current-global-oil-crisis-compare-with-the-1973-oil-embargo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil embargo"
-      ],
-      "firstSeen": "2026-03-24T11:54:30.770Z",
-      "pushedAt": "2026-03-24T11:54:30.770Z"
     }
   ],
-  "updatedAt": "2026-03-25T11:51:43.019Z"
+  "updatedAt": "2026-03-25T12:34:08.698Z"
 }
