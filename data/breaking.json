@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "09747fd845737620",
+      "title": "US investors bet big on Indian cricket with record billion-dollar IPL deals",
+      "url": "https://www.aljazeera.com/sports/2026/3/25/us-investors-bet-big-on-indian-cricket-with-record-billion-dollar-ipl-deals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "dollar + record"
+      ],
+      "firstSeen": "2026-03-25T21:35:00.711Z",
+      "pushedAt": "2026-03-25T21:35:00.711Z"
+    },
+    {
+      "id": "86e28e8bb758c609",
+      "title": "Four killed in latest US attack on alleged drug-smuggling boat in Caribbean",
+      "url": "https://www.aljazeera.com/news/2026/3/25/four-killed-in-latest-us-attack-on-alleged-drug-smuggling-boat-in-caribbean?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-25T21:35:01.153Z",
+      "pushedAt": "2026-03-25T21:35:01.153Z"
+    },
+    {
       "id": "040006cc387551e7",
       "title": "Space stocks rally on reports of SpaceX's imminent IPO filing",
       "url": "https://www.cnbc.com/2026/03/25/space-stocks-.html",
@@ -254,43 +278,7 @@
       ],
       "firstSeen": "2026-03-24T21:51:07.627Z",
       "pushedAt": "2026-03-24T21:51:07.627Z"
-    },
-    {
-      "id": "76918fadbe9b6678",
-      "title": "Stocks rally and oil sinks after Trump hints at a possible end to war, even as Iran denies talks - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXF2TnlFRWR1aDRqRXY4NFllT3pYTnI2QnBHM3FzaEpmMWQ4QW9TVmFGMGp3OTFWTGpsMmQtZHJ0X1hGZVUwQUdmQ0wxWjlfaHNWNThJTTlhSVBKUFBqQVBWUHJncFVOTUhza3hDN3NLNHhPbGV3ZGZuNUdzRlhjUUtqSFNDSTJmRGJ2MnpQSms4cGs?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-03-24T19:57:46.021Z",
-      "pushedAt": "2026-03-24T19:57:46.021Z"
-    },
-    {
-      "id": "c888dab779cba51d",
-      "title": "Delta suspends special treatment for Congress as shutdown sows chaos in airports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQTFGNmFTcDM1dElJMTJXUks5REtBbGJZcVV4OXlINkFnbWFIbW5VQnJWalpYU1BwTjhKZ211QTFNMTR1aW5HZ1dhRnlFTnRnU1BDOVVmaUc4SUtXWG5VeUg0clV4UFowWmJDUGNSY0lvMzNuWTg1cHFoWkxSSDdYZTV1OHktdFNHNlBxUWJUdzNPb3dsSl91NTVoU1RMRzBQcGZrTE8teEpKZnFpNlo4TzhHN0E3NXVEXzdMbDhnV3lYRHNFY2JuTEVHSzVuU3d4WThCcXZsYndIQkV3bHRlNThpeUd4Zw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-24T19:18:51.264Z",
-      "pushedAt": "2026-03-24T19:18:51.264Z"
-    },
-    {
-      "id": "5e81901ab898eea5",
-      "title": "Iran names successor to security chief killed in US-Israeli attack",
-      "url": "https://www.aljazeera.com/news/2026/3/24/mohammad-bagher-zolghadr-succeeds-slain-larijani-as-iran-security-chief?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-24T19:18:51.336Z",
-      "pushedAt": "2026-03-24T19:18:51.336Z"
     }
   ],
-  "updatedAt": "2026-03-25T19:09:34.812Z"
+  "updatedAt": "2026-03-25T21:35:01.717Z"
 }
