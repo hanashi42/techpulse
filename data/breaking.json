@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "a5ae7b289c21f634",
+      "title": "US import prices post largest gain in four years as energy costs soar - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFJHZnRCY21EdXhTTGFpeHJLRGFNN2VGTFZURngwQ1owRjVPeW9RbjFMeGZMUk5YVEJQUzlLY2JjalF1NVBWemtqRV9qQ2w1TVVEYzhzZVVET1hLbG9pSDU5SWdudGl6eTRnTXVmcVVjbzFMRzBHQ2g0dUV6NU1rMDFpeXdmOWZBTEpHS2c0NUFhZUN1RmVCd2RiVzJ1OXhNTDkwT0pzRER2UQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-03-25T16:00:29.324Z",
+      "pushedAt": "2026-03-25T16:00:29.324Z"
+    },
+    {
+      "id": "e8112c2c7b5568bd",
+      "title": "Exclusive: Iraq oil output further plunges as storage fills, Hormuz exports blocked by conflict - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObEhaSVd5dE9hZVY4MDZ4S3RhM1pUcWtXdmZZdHUzVjhUZmhONERUQlZpZ250SURqOTZWeV9oSEpkQ2JvNnRsNWR5RHh2eWU4YkVXb3puVnNBYXVOa0tYaFNFX1lxNU1YWHg0NW1DOV94WVZWSVU4UzRKMEhPYURkaUhldEdBaUI3c0xYRHV0N1RLYy1wZVJyRkVjd3JCLW1YZmRUN1pzU1QxVkhqaGtBWGUzVU4wV1ZrSUhlc3hTUy1nQmpjYVF6MllPRmk?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + blocked",
+        "plunge + oil"
+      ],
+      "firstSeen": "2026-03-25T16:00:29.393Z",
+      "pushedAt": "2026-03-25T16:00:29.393Z"
+    },
+    {
+      "id": "414660655d33466d",
+      "title": "Iraq Summons U.S. Diplomat After Attack on Military Base",
+      "url": "https://www.nytimes.com/2026/03/25/world/middleeast/iraq-summons-us-diplomat-after-attack-on-military-base.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-03-25T16:00:29.445Z",
+      "pushedAt": "2026-03-25T16:00:29.445Z"
+    },
+    {
       "id": "cb5c1edba1f16d9c",
       "title": "India buys first Iran LPG cargo in years after US eases sanctions, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTi10dVlHTEVBa2F5YmFlWjI2ZUdJNEljQUJ1UzR5eDZVRGt3THhBQUxFN2xnNkpjcEsxUTNxNnVtcS02T1hYejJLdVhyeGs2Slk1ZnFMcWlrRUdCVFJUM0M5RFI3eVlXcU9DUHNQT1JPZmZoVmMyTnBKbTEyaUFxeHpZRVJHNXl0em90Y0Vld3pXeG0xaXBRbl9QMjBtREUtN2p4WHlnTGgyLXF5eUZMTHk4QmxlU0JseHlsZG93Mm5ycG1E?oc=5",
@@ -244,5 +281,5 @@
       "pushedAt": "2026-03-24T17:14:49.218Z"
     }
   ],
-  "updatedAt": "2026-03-25T14:55:59.931Z"
+  "updatedAt": "2026-03-25T16:00:29.472Z"
 }
