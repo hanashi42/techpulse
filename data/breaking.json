@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "4a83381831c52395",
+      "title": "India secures 60 days of oil supply amid Hormuz disruption - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFNWWU55ak5zZWZQRDU2X2FXbEhSaF9vcG83dUtaQktCQ2QycGdFcFc1TDNqYUd0QnRHMGJzeEV2aWQ4SVpJSzI3RUZGVW9KS0JCSnFxWHJORFBFdHU5dDhDYlJsVnZTWm41UU1PYzNiSkRwSlNRb0lqeUlLNzZ4RUtWYzBDNmNxcDdQR1ZpeURrNnd4dUsxaHZ6aVVrZ1NYRnhzRXU5RFBUbnM?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-03-26T18:05:33.907Z",
+      "pushedAt": "2026-03-26T18:05:33.907Z"
+    },
+    {
       "id": "402dad6c16e209ea",
       "title": "Pokemon shop employee killed in Tokyo knife attack - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzU1akRXV3Z5NWVILTN5aW1YMGZUdXFsbWZSOXhvYnR3V2VKSVlqQkNMZW5GTk1RSkJBZmNIRUIxWnF1OWM5bFlHNDRIOXdzTkNHSVRYYk5TYUk3T25nR1ZuTWJkSllIclBSWUFoMHZFN3FyQXZtRWJlRXlTZXJfc0swU1ZZbjMyaE5uVVdrNVZEVFBGYVFwaWtiRG1MYjJVTmVVYzhWM2h3c3hudkVtWWpmN0QzR05CWGZFS0xR?oc=5",
@@ -216,19 +229,7 @@
       ],
       "firstSeen": "2026-03-25T18:05:42.155Z",
       "pushedAt": "2026-03-25T18:05:42.155Z"
-    },
-    {
-      "id": "e086986c507df6b0",
-      "title": "How US Trade Sanctions Fueled China's Innovation Surge - Harvard Business School",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHhQVHI3QjM5UVYtc2xFdlV1QlphaEZiMWRSTXVMY3llR2VacUxiT0VsVlpQaTdyeWg5cnNpcDNBZFpYZG03V1R6XzRxbDZtbkdBWVQ0Vm85NU5wWHdOUlV4LVVLeVR5cEtZWTRsUXVxYnp3bk9aM1dfLXJ5RXJMWUtZV092d2lRQWhkYXhFX3ozLXVsLTE0aW9NLV91X1No?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-03-25T17:05:44.849Z",
-      "pushedAt": "2026-03-25T17:05:44.849Z"
     }
   ],
-  "updatedAt": "2026-03-26T17:03:34.792Z"
+  "updatedAt": "2026-03-26T18:05:34.112Z"
 }
