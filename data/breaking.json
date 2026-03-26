@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ec67fa1ec9845104",
+      "title": "Iranian naval commander Alireza Tangsiri killed in attack, Israel says",
+      "url": "https://www.aljazeera.com/news/2026/3/26/iranian-naval-commander-alireza-tangsiri-killed-in-attack-says-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-26T12:06:38.880Z",
+      "pushedAt": "2026-03-26T12:06:38.880Z"
+    },
+    {
       "id": "937c10f2f66dcbcf",
       "title": "Photos show ICE agents at US airports where the partial government shutdown triggered delays - AP News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3hLS2xGSEdHQ043TFVyRjBBeVprWjZlYXhoaXBpZHlJM3A1NXNhb2pXQW9UM3ZNRHJKdVJiQXZlcW5WVW82MWxKSW0xTFZhS29UeFdFTGVQTlM2dUpibDNYMHBOYUNJWi1YVG55cWRzeEo4eUV6NGthc2JmXzVTUzgxMmR6bnltNjFqdlFpdDFPLUMtbGptOG5wTERlR0NBQy0yRVR5OHFNOXZJZnpjMFF6R2VjSTg?oc=5",
@@ -242,31 +254,7 @@
       ],
       "firstSeen": "2026-03-25T12:34:08.466Z",
       "pushedAt": "2026-03-25T12:34:08.466Z"
-    },
-    {
-      "id": "362f4e788a87a994",
-      "title": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
-      "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "recession + economy"
-      ],
-      "firstSeen": "2026-03-25T11:51:42.769Z",
-      "pushedAt": "2026-03-25T11:51:42.769Z"
-    },
-    {
-      "id": "94aa14aca4b0ea66",
-      "title": "China Restricts Manus Founders From Leaving China, FT Says - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZThCbFozckt3NHFoNjQwNzlPa2RDbGFYNGJUWVJoT1luVVZ4WWVmenNLTW1VaWJhZHBxRVRDU2t0U1YwOUZwendQSWNSWnI2ejR4bC0zTlBNUWthUWwtRi1MR1paZ2ZsYzhpSjRxTWQ4bzBqc003Q0FZckl5ZnBnZmNXQ1FDQ2J1c0VUeDZlLXpzbWdfYjM2R1pJekJ5RXFjWHJERGc0ck52THVs?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-03-25T11:06:13.027Z",
-      "pushedAt": "2026-03-25T11:06:13.027Z"
     }
   ],
-  "updatedAt": "2026-03-26T10:31:43.100Z"
+  "updatedAt": "2026-03-26T12:06:38.948Z"
 }
