@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "051c780752a8d70f",
+      "title": "ECB's Nagel says April rate hike 'an option' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUE02QnEzNmVZN2U2ZGdyQU9UNVJPM1MyanJTOVdrSWpORGU1M3E3R3o2dXdxZVZ3WlY0OFhRWHZQeVYzcFlWS1BXOS14YjJLQ2dmYi1PeTdCMjRpVkZPOVBJNi1nWlFKa1JvTDJnY3dGdWpWdU9GcDdPcU5FUHFUZVE5TThYNGFkcnZNV1N4Ymxxa0tRMHBPVGJ3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + ecb"
+      ],
+      "firstSeen": "2026-03-26T08:33:52.032Z",
+      "pushedAt": "2026-03-26T08:33:52.032Z"
+    },
+    {
       "id": "807b8b30583cd297",
       "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
@@ -244,5 +256,5 @@
       "pushedAt": "2026-03-25T09:26:35.746Z"
     }
   ],
-  "updatedAt": "2026-03-26T07:45:19.857Z"
+  "updatedAt": "2026-03-26T08:33:53.026Z"
 }
