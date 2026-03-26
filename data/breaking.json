@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b9b3f6c31087918a",
+      "title": "Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine",
+      "url": "https://www.nytimes.com/2026/03/26/world/europe/russia-us-talks-ukraine-sanctions.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "invasion of"
+      ],
+      "firstSeen": "2026-03-26T14:54:44.696Z",
+      "pushedAt": "2026-03-26T14:54:44.696Z"
+    },
+    {
       "id": "e6eb670d55f2a37b",
       "title": "Two Killed in Abu Dhabi as Gulf States Face Fresh Attacks",
       "url": "https://www.nytimes.com/2026/03/26/world/middleeast/iran-missile-strikes-abu-dhabi.html",
@@ -229,20 +241,7 @@
       ],
       "firstSeen": "2026-03-25T14:55:59.668Z",
       "pushedAt": "2026-03-25T14:55:59.668Z"
-    },
-    {
-      "id": "7715a076bcfeae6e",
-      "title": "ECB ready to hike rates even if expected inflation surge is short-lived, Lagarde says",
-      "url": "https://www.cnbc.com/2026/03/25/ecb-rate-hikes-inflation-forecasts-christine-lagarde-iran-war.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + inflation",
-        "inflation + surge"
-      ],
-      "firstSeen": "2026-03-25T13:58:05.788Z",
-      "pushedAt": "2026-03-25T13:58:05.788Z"
     }
   ],
-  "updatedAt": "2026-03-26T13:53:31.052Z"
+  "updatedAt": "2026-03-26T14:54:45.018Z"
 }
