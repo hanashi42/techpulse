@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e6eb670d55f2a37b",
+      "title": "Two Killed in Abu Dhabi as Gulf States Face Fresh Attacks",
+      "url": "https://www.nytimes.com/2026/03/26/world/middleeast/iran-missile-strikes-abu-dhabi.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-26T13:53:30.880Z",
+      "pushedAt": "2026-03-26T13:53:30.880Z"
+    },
+    {
       "id": "ec67fa1ec9845104",
       "title": "Iranian naval commander Alireza Tangsiri killed in attack, Israel says",
       "url": "https://www.aljazeera.com/news/2026/3/26/iranian-naval-commander-alireza-tangsiri-killed-in-attack-says-israel?traffic_source=rss",
@@ -230,31 +242,7 @@
       ],
       "firstSeen": "2026-03-25T13:58:05.788Z",
       "pushedAt": "2026-03-25T13:58:05.788Z"
-    },
-    {
-      "id": "42c4b2fef92fcf77",
-      "title": "Leaders of AI Firm Bought by Meta Are Restricted From Leaving China - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQWUV5WXBLVzEycFhKeGNodTdlU3Z4SXlTMFgwS1gtWjlUd1lTNGZ5LTdzaGFuOE9rdW03M0E1OUxjYi1ua04xb25DOUVJWFBxVzN5Nlp3OWl2UVplZ2ZIbklsVWIyRDVyNkI4dzJNNV8tRzZTZUZJT0VER0lsMFZIVWxfQ3N4ZmFfS1RSZmVOM0xQUkhRUTM5MVprT0w5NU0yTXNEaUUzRnBFbi1ZQ0xLbEtuMlExVElCVGc5TWEzTkl6SmlBRGpCdHc2Y01jWC1CdjlqTExiNl9zX1loOXhldnQzbWZ3RG5sajRpVEdwdmdka2JlNlFJbW1kb1l2dW96dGd4bE9lYWVYcjhicS1MUlF2bjV0VGpwQ0tYODJpY2R0ZkVEcVctMUtlSWgydXh2a0lHRVhNNVV5aE5oQm1QT25OWEgydTBLSDAtX3J6ei04dFNwM2FRNVJTLVFDbkMxdjRhOGs5OC1EZVVsQjU3R2RBQ3duekNSTUNlY1RtdkZ0clBzMzNlaU1SYk5DRng0MWVPMXZfZFpfX3hMRTFxRVdleEV3NGhw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-03-25T12:34:08.023Z",
-      "pushedAt": "2026-03-25T12:34:08.023Z"
-    },
-    {
-      "id": "37ec4ed46d3b763d",
-      "title": "Why a Chinese invasion of Taiwan by 2030 would ignite an economic shockwave across Milwaukee industries - Milwaukee Independent",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON25UelVqWFFQLXhJUEtpbGJqS3VfLW1KV3d6c3pldko1WGhDd184Z2hLSmJiaDZ4RTZkdGtIRmJTV3dmMWxNalFzZjdJZGxpb2oxQzdQckdieEdCLTFWd3ZCekxLV3ZrWTByaVVSdU9OTmNOSENIT1QxWmpvaHlDRjJoTEZlc245ZUg2RDR2eWVqcXpUaHVyRTNLNzlvOTd5Q2FFaGs1bkJlRER5NmRvcXdEYXRWLXV2cXp0RF9aay1zUXdXcThYVw?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "invasion of"
-      ],
-      "firstSeen": "2026-03-25T12:34:08.466Z",
-      "pushedAt": "2026-03-25T12:34:08.466Z"
     }
   ],
-  "updatedAt": "2026-03-26T12:06:38.948Z"
+  "updatedAt": "2026-03-26T13:53:31.052Z"
 }
