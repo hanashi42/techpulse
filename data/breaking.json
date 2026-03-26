@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "731d4d0640973c11",
+      "title": "Oil prices rise as Iran rejects direct U.S. talks despite proposal review",
+      "url": "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-03-26T03:51:37.657Z",
+      "pushedAt": "2026-03-26T03:51:37.657Z"
+    },
+    {
       "id": "163e9086230d0ebf",
       "title": "Oil giants raise the alarm over energy shortages as Iran war drags on",
       "url": "https://www.cnbc.com/2026/03/25/iran-war-oil-shell-totalenergies-energy-strait-of-hormuz.html",
@@ -217,68 +229,7 @@
       ],
       "firstSeen": "2026-03-25T07:40:57.187Z",
       "pushedAt": "2026-03-25T07:40:57.187Z"
-    },
-    {
-      "id": "c83c9ab72a248e6d",
-      "title": "Oil prices drop on prospect of Middle East ceasefire easing supply disruption - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNVU5QWgzLWc3VmJ3VS1jcUNrcklMYXFiNG8yeE1wcmdqZTJHZDBxd1ZLS0hYSEdMQTlzQUJTa0FHcjdyeHQ4Ry0yQXN0OXI4QWsxVmJXbjJvNTBGM1FYMUtNZUNDM01PSmxRay1IcG9XQTFQc045bkZxbHZJeE94VC1zaHJVTmlVaWx6b21sTmlqZGxkRHdQQ0hwOEphLWVTQ29KbUNtdkprQXZ4QWVUMGVvamZUVVh1blUwcGt3TFlaTkhG?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + drop",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-03-25T02:55:52.163Z",
-      "pushedAt": "2026-03-25T02:55:52.163Z"
-    },
-    {
-      "id": "937c10f2f66dcbcf",
-      "title": "Photos show ICE agents at US airports where the partial government shutdown triggered delays - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3hLS2xGSEdHQ043TFVyRjBBeVprWjZlYXhoaXBpZHlJM3A1NXNhb2pXQW9UM3ZNRHJKdVJiQXZlcW5WVW82MWxKSW0xTFZhS29UeFdFTGVQTlM2dUpibDNYMHBOYUNJWi1YVG55cWRzeEo4eUV6NGthc2JmXzVTUzgxMmR6bnltNjFqdlFpdDFPLUMtbGptOG5wTERlR0NBQy0yRVR5OHFNOXZJZnpjMFF6R2VjSTg?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-25T02:55:52.310Z",
-      "pushedAt": "2026-03-25T02:55:52.310Z"
-    },
-    {
-      "id": "fdc328b3bf512a43",
-      "title": "Oil Prices Fall Amid Hopes For Diplomatic Efforts In West Asia - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYVlc2d1JYMTFmempUcURkdlpqYmlxeV9uNnBDNWdBdjRMVVNLTHFySGZQTVhmQlR4QjhTRC03dFcwNERETHBXYUdHYnd0V3RqSEs1SDJfNWhJUmJld3c4NlhHVQ?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-03-25T02:55:52.400Z",
-      "pushedAt": "2026-03-25T02:55:52.400Z"
-    },
-    {
-      "id": "26573b44f3368dca",
-      "title": "Exclusive: Trump's approval hits new 36% low as fuel prices surge amid Iran war, Reuters/Ipsos poll finds - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOanhmUEpTRkdVdmxGd0txdEFudGQ5b0lxTTZkTU9acHVRVERpb0Q5bTJaMmFuaWQzOTBZTFVZRXFPWU5sSE5TOFVkenc4N0VtWkRrTjJ0RExoRXpaRmpNWTZHRUtQY3FaVEhBWU9nMmplNFNrUm9RbF8xTjI5enZHaTd2bUtpSWJuWWR1MjBNMHNJZmxFRGFmcnJTblpGejBUQThHWTV3dTFWQXFBRFdBZEgtMW12dExteFhGNEJR?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + price"
-      ],
-      "firstSeen": "2026-03-24T22:17:00.268Z",
-      "pushedAt": "2026-03-24T22:17:00.268Z"
-    },
-    {
-      "id": "6d5468a6f5b1f1a8",
-      "title": "Corn, Wheat Rally With Oil, Add Risk Premium: Soybeans Ease as China Takes Brazil Product - AgWeb",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUzhfN2VSSVhzdmlxMGt1c1VpS3JEQl9CSXplaEFFcTJ0Z0pXeVBYbFdzeU9BMmdzdFZUVURfWWN4RWs1SEI5czNyWUlvd1FRWU56aWZ0VnFFekQ1OFA5bzJ5dS11d3pibDBNOWtoTm5yNDloek1wMzhwR2lDRFp6MTlEbzdNYjFvSWtyWnJoQmJaQ2IyVUFDTW9Qb3FoTDlMcXBsdzZscHdoVzlyMndtMHp4MmEzYkptNDN3?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + oil"
-      ],
-      "firstSeen": "2026-03-24T22:17:00.624Z",
-      "pushedAt": "2026-03-24T22:17:00.624Z"
     }
   ],
-  "updatedAt": "2026-03-25T22:04:59.249Z"
+  "updatedAt": "2026-03-26T03:51:37.926Z"
 }
