@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "807b8b30583cd297",
+      "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "nuclear test"
+      ],
+      "firstSeen": "2026-03-26T07:45:19.794Z",
+      "pushedAt": "2026-03-26T07:45:19.794Z"
+    },
+    {
       "id": "6d8a498d6e33bc71",
       "title": "TSA boss warns of airport shutdowns, but no deal yet on day 40 of Homeland Security funding fight - AP News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDc4U0JqMzFxNTBwb1NEd3FReVk1Zk5abVdpQW5pTjZpUGZSM0Q1TkY1QnhyblFieFI1X0lQTlhuejhmRzFhRWVQODVUVk1pQm9ucTNsQ1NXTm1ZSk41ZGNPeGZJOEVDOW5fWnNLbUlIZHVOd1BqLTJOeUZDOTA3SjY4VjhyMWg0U2dWRk00SEsyWWYwZmZELW9lczJCZV9UZ08xdll6NA?oc=5",
@@ -230,31 +242,7 @@
       ],
       "firstSeen": "2026-03-25T09:26:35.746Z",
       "pushedAt": "2026-03-25T09:26:35.746Z"
-    },
-    {
-      "id": "47cb2226f7f61d70",
-      "title": "Warning oil rise to $150 could trigger global recession",
-      "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "recession + warning"
-      ],
-      "firstSeen": "2026-03-25T07:40:56.993Z",
-      "pushedAt": "2026-03-25T07:40:56.993Z"
-    },
-    {
-      "id": "6c4fe21423843cd3",
-      "title": "South Korea braces for 'worst-case scenarios' as Iran oil shock deepens",
-      "url": "https://www.cnbc.com/2026/03/25/south-korea-iran-oil-shock-middle-east-conflict.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-03-25T07:40:57.187Z",
-      "pushedAt": "2026-03-25T07:40:57.187Z"
     }
   ],
-  "updatedAt": "2026-03-26T06:41:40.155Z"
+  "updatedAt": "2026-03-26T07:45:19.857Z"
 }
