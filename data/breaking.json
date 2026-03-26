@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6d8a498d6e33bc71",
+      "title": "TSA boss warns of airport shutdowns, but no deal yet on day 40 of Homeland Security funding fight - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDc4U0JqMzFxNTBwb1NEd3FReVk1Zk5abVdpQW5pTjZpUGZSM0Q1TkY1QnhyblFieFI1X0lQTlhuejhmRzFhRWVQODVUVk1pQm9ucTNsQ1NXTm1ZSk41ZGNPeGZJOEVDOW5fWnNLbUlIZHVOd1BqLTJOeUZDOTA3SjY4VjhyMWg0U2dWRk00SEsyWWYwZmZELW9lczJCZV9UZ08xdll6NA?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-26T06:41:40.034Z",
+      "pushedAt": "2026-03-26T06:41:40.034Z"
+    },
+    {
       "id": "fecde5a7d0e8c110",
       "title": "Bursa Malaysia Ends Higher, Tracks Regional Rally As Oil Prices Ease - Bernama",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02T1gxakVwUGN2bWU2bUhmanRMWE1oVzBFcVhBT3lEbUxicnI5MlQ2cW02dXZiZGhvcVZ0ZXhDYmNheF9tRTI0VnR1TUdHempPOWY0cjJjTFJPdzQxM1VCWGFqbGUzN0FrUHEyRFh6QnBhVk16?oc=5",
@@ -244,5 +256,5 @@
       "pushedAt": "2026-03-25T07:40:57.187Z"
     }
   ],
-  "updatedAt": "2026-03-26T05:26:01.772Z"
+  "updatedAt": "2026-03-26T06:41:40.155Z"
 }
