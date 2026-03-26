@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "fecde5a7d0e8c110",
+      "title": "Bursa Malaysia Ends Higher, Tracks Regional Rally As Oil Prices Ease - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02T1gxakVwUGN2bWU2bUhmanRMWE1oVzBFcVhBT3lEbUxicnI5MlQ2cW02dXZiZGhvcVZ0ZXhDYmNheF9tRTI0VnR1TUdHempPOWY0cjJjTFJPdzQxM1VCWGFqbGUzN0FrUHEyRFh6QnBhVk16?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + oil",
+        "bursa + rally"
+      ],
+      "firstSeen": "2026-03-26T05:26:01.479Z",
+      "pushedAt": "2026-03-26T05:26:01.479Z"
+    },
+    {
       "id": "731d4d0640973c11",
       "title": "Oil prices rise as Iran rejects direct U.S. talks despite proposal review",
       "url": "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html",
@@ -231,5 +244,5 @@
       "pushedAt": "2026-03-25T07:40:57.187Z"
     }
   ],
-  "updatedAt": "2026-03-26T03:51:37.926Z"
+  "updatedAt": "2026-03-26T05:26:01.772Z"
 }
