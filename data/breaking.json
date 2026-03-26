@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "937c10f2f66dcbcf",
+      "title": "Photos show ICE agents at US airports where the partial government shutdown triggered delays - AP News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3hLS2xGSEdHQ043TFVyRjBBeVprWjZlYXhoaXBpZHlJM3A1NXNhb2pXQW9UM3ZNRHJKdVJiQXZlcW5WVW82MWxKSW0xTFZhS29UeFdFTGVQTlM2dUpibDNYMHBOYUNJWi1YVG55cWRzeEo4eUV6NGthc2JmXzVTUzgxMmR6bnltNjFqdlFpdDFPLUMtbGptOG5wTERlR0NBQy0yRVR5OHFNOXZJZnpjMFF6R2VjSTg?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-26T10:31:42.936Z",
+      "pushedAt": "2026-03-26T10:31:42.936Z"
+    },
+    {
       "id": "0b9f941ca934bd34",
       "title": "Cuban president says Raul Castro involved in US talks amid oil blockade",
       "url": "https://www.aljazeera.com/news/2026/3/26/cuban-president-says-raul-castro-involved-in-us-talks-amid-oil-blockade?traffic_source=rss",
@@ -256,5 +268,5 @@
       "pushedAt": "2026-03-25T11:06:13.027Z"
     }
   ],
-  "updatedAt": "2026-03-26T09:38:02.905Z"
+  "updatedAt": "2026-03-26T10:31:43.100Z"
 }
