@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "402dad6c16e209ea",
+      "title": "Pokemon shop employee killed in Tokyo knife attack - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzU1akRXV3Z5NWVILTN5aW1YMGZUdXFsbWZSOXhvYnR3V2VKSVlqQkNMZW5GTk1RSkJBZmNIRUIxWnF1OWM5bFlHNDRIOXdzTkNHSVRYYk5TYUk3T25nR1ZuTWJkSllIclBSWUFoMHZFN3FyQXZtRWJlRXlTZXJfc0swU1ZZbjMyaE5uVVdrNVZEVFBGYVFwaWtiRG1MYjJVTmVVYzhWM2h3c3hudkVtWWpmN0QzR05CWGZFS0xR?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-26T17:03:34.539Z",
+      "pushedAt": "2026-03-26T17:03:34.539Z"
+    },
+    {
+      "id": "c86e6274170af94f",
+      "title": "Iran war chokes petrochemical supply, sends plastic prices soaring - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWVo5STE3WnVPWjZLMGdxVmoxTlM5N2wwb3NGNDF3Qmw1d3lrUmg2RWhvZWVyTkZRdGpOWmVXTkE1TklncVcwOGRQa1VSb21HcG9MQlNCWDItOHA3R2xhVFNLSFpka2dacE90RHN3dlRSR0haUjdMRlBaamhPS0FwMzZBekMzQ0N2RU9nd2JScHR3NW5aZDl0OHQwekJWWDk4OF9aLTdjMDNiLXhaT1JkT1d6dVdBQ0hJ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-03-26T17:03:34.736Z",
+      "pushedAt": "2026-03-26T17:03:34.736Z"
+    },
+    {
       "id": "bb068fb855d16b3e",
       "title": "AI rift widens as China urges boycott of top US conference over sanctions ban - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNREdSTmxaY0pPejZJaXh3VkY4am1MWjJUcVlxVGMxZWdJRk5hMms1VGVuUnI4S2hCUnZIWTlNZlV1VzFTNjNlaGNlYlZsSXA4cnFBbEVzdEtOdkxwMUVXNUZScHZWbjlaRGxra0JfUlZ3Y3g1bkZxV0JQQnRJTl9uUWJmMzNiRFN6MUk4UV9UMW51aVpNVlAyUlJYalFOSTRERnctM2xQMi1waG1vZlZDdXpmVdIBswFBVV95cUxPWkNuMVlXR3ljN2lxQkN6SnR3dFpTM09HYkF5cWhnbk5ydnlxb0EwZm1GX2d6TEVZN050UlNJVXFfR0VJMUpUazZCZi1zNmZqNzhqeHIyUDlrckluc3NSMGljRHg2WktDeWpfcWlZTmdKY183SjBjV0xKYkFJUHF0UEtYa3V6U2lwY3A5STA1QWpTblozUjh3X3hDTkdOakJLeU9hQ2Iwc05sbTNiMzZrQ1UtYw?oc=5",
@@ -204,44 +228,7 @@
       ],
       "firstSeen": "2026-03-25T17:05:44.849Z",
       "pushedAt": "2026-03-25T17:05:44.849Z"
-    },
-    {
-      "id": "a5ae7b289c21f634",
-      "title": "US import prices post largest gain in four years as energy costs soar - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFJHZnRCY21EdXhTTGFpeHJLRGFNN2VGTFZURngwQ1owRjVPeW9RbjFMeGZMUk5YVEJQUzlLY2JjalF1NVBWemtqRV9qQ2w1TVVEYzhzZVVET1hLbG9pSDU5SWdudGl6eTRnTXVmcVVjbzFMRzBHQ2g0dUV6NU1rMDFpeXdmOWZBTEpHS2c0NUFhZUN1RmVCd2RiVzJ1OXhNTDkwT0pzRER2UQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-03-25T16:00:29.324Z",
-      "pushedAt": "2026-03-25T16:00:29.324Z"
-    },
-    {
-      "id": "e8112c2c7b5568bd",
-      "title": "Exclusive: Iraq oil output further plunges as storage fills, Hormuz exports blocked by conflict - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObEhaSVd5dE9hZVY4MDZ4S3RhM1pUcWtXdmZZdHUzVjhUZmhONERUQlZpZ250SURqOTZWeV9oSEpkQ2JvNnRsNWR5RHh2eWU4YkVXb3puVnNBYXVOa0tYaFNFX1lxNU1YWHg0NW1DOV94WVZWSVU4UzRKMEhPYURkaUhldEdBaUI3c0xYRHV0N1RLYy1wZVJyRkVjd3JCLW1YZmRUN1pzU1QxVkhqaGtBWGUzVU4wV1ZrSUhlc3hTUy1nQmpjYVF6MllPRmk?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + blocked",
-        "plunge + oil"
-      ],
-      "firstSeen": "2026-03-25T16:00:29.393Z",
-      "pushedAt": "2026-03-25T16:00:29.393Z"
-    },
-    {
-      "id": "414660655d33466d",
-      "title": "Iraq Summons U.S. Diplomat After Attack on Military Base",
-      "url": "https://www.nytimes.com/2026/03/25/world/middleeast/iraq-summons-us-diplomat-after-attack-on-military-base.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-03-25T16:00:29.445Z",
-      "pushedAt": "2026-03-25T16:00:29.445Z"
     }
   ],
-  "updatedAt": "2026-03-26T15:59:47.241Z"
+  "updatedAt": "2026-03-26T17:03:34.792Z"
 }
