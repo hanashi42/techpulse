@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0b9f941ca934bd34",
+      "title": "Cuban president says Raul Castro involved in US talks amid oil blockade",
+      "url": "https://www.aljazeera.com/news/2026/3/26/cuban-president-says-raul-castro-involved-in-us-talks-amid-oil-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-03-26T09:38:02.651Z",
+      "pushedAt": "2026-03-26T09:38:02.651Z"
+    },
+    {
       "id": "051c780752a8d70f",
       "title": "ECB's Nagel says April rate hike 'an option' - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUE02QnEzNmVZN2U2ZGdyQU9UNVJPM1MyanJTOVdrSWpORGU1M3E3R3o2dXdxZVZ3WlY0OFhRWHZQeVYzcFlWS1BXOS14YjJLQ2dmYi1PeTdCMjRpVkZPOVBJNi1nWlFKa1JvTDJnY3dGdWpWdU9GcDdPcU5FUHFUZVE5TThYNGFkcnZNV1N4Ymxxa0tRMHBPVGJ3?oc=5",
@@ -242,19 +254,7 @@
       ],
       "firstSeen": "2026-03-25T11:06:13.027Z",
       "pushedAt": "2026-03-25T11:06:13.027Z"
-    },
-    {
-      "id": "da1a80e1d5c49985",
-      "title": "Pop Mart shares plunge over 22% as concerns over sustainability of Labubu sales dwarf stellar results",
-      "url": "https://www.cnbc.com/2026/03/25/pop-mart-labubu-sluggish-crybaby-monster-family-sales-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + shares"
-      ],
-      "firstSeen": "2026-03-25T09:26:35.746Z",
-      "pushedAt": "2026-03-25T09:26:35.746Z"
     }
   ],
-  "updatedAt": "2026-03-26T08:33:53.026Z"
+  "updatedAt": "2026-03-26T09:38:02.905Z"
 }
