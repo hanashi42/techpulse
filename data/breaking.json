@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "58a9936e3339e3bf",
+      "title": "Chinese universities with military links bought Super Micro servers with restricted AI chips - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVd5M1BnNC01RmtiNms4Vlg1clZ0MXZlclpYWF80MDhkUjg3eEFJT18wVGo2U1VMSTZWZXJfdDkzcndLX1FfM3ZKb2Frc0dSanVyZzMyTTRBY2ZvMW51RmVsbjJtcjZMcG41QzFDb3hhNXRtWlUxSXg5V1luWVlTWFlyZUJKR3hWOTc0WHpLV0RLNG03UTB4RUpneXpIZ2k4RHE5bnhNVXJVVmV1S05jUzF3VGxlQjVtWkVaSA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + chip"
+      ],
+      "firstSeen": "2026-03-27T06:44:04.904Z",
+      "pushedAt": "2026-03-27T06:44:04.904Z"
+    },
+    {
       "id": "9fca57a30109ec2c",
       "title": "Oil prices fall as Trump pauses attacks on Iranian energy plants - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3JQcW42VTUxV2dTekoyZUMzVzRlZExaSWVFNjFJc2NGNmFyNmVISWZZdTlBeWFfb05RRzN1WGVlQ3RJUnhfbnBPR3VKclJXR3FPLWk0c0VkQjhrNjdmVGVqQTE2bjI1N0J0aUVVX3hCRHdUWlhITDlNc1pTd3dZZzJKbVktOVdMcS1sTW01cjNTSXNRSmhWck9ZRk9WWGlVVGM5MkRyQmVhSGNNaXp3?oc=5",
@@ -169,32 +181,7 @@
       ],
       "firstSeen": "2026-03-26T07:45:19.794Z",
       "pushedAt": "2026-03-26T07:45:19.794Z"
-    },
-    {
-      "id": "6d8a498d6e33bc71",
-      "title": "TSA boss warns of airport shutdowns, but no deal yet on day 40 of Homeland Security funding fight - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDc4U0JqMzFxNTBwb1NEd3FReVk1Zk5abVdpQW5pTjZpUGZSM0Q1TkY1QnhyblFieFI1X0lQTlhuejhmRzFhRWVQODVUVk1pQm9ucTNsQ1NXTm1ZSk41ZGNPeGZJOEVDOW5fWnNLbUlIZHVOd1BqLTJOeUZDOTA3SjY4VjhyMWg0U2dWRk00SEsyWWYwZmZELW9lczJCZV9UZ08xdll6NA?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-26T06:41:40.034Z",
-      "pushedAt": "2026-03-26T06:41:40.034Z"
-    },
-    {
-      "id": "fecde5a7d0e8c110",
-      "title": "Bursa Malaysia Ends Higher, Tracks Regional Rally As Oil Prices Ease - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02T1gxakVwUGN2bWU2bUhmanRMWE1oVzBFcVhBT3lEbUxicnI5MlQ2cW02dXZiZGhvcVZ0ZXhDYmNheF9tRTI0VnR1TUdHempPOWY0cjJjTFJPdzQxM1VCWGFqbGUzN0FrUHEyRFh6QnBhVk16?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + oil",
-        "bursa + rally"
-      ],
-      "firstSeen": "2026-03-26T05:26:01.479Z",
-      "pushedAt": "2026-03-26T05:26:01.479Z"
     }
   ],
-  "updatedAt": "2026-03-27T03:52:22.775Z"
+  "updatedAt": "2026-03-27T06:44:05.221Z"
 }
