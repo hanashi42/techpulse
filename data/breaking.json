@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5027f80cf874bf19",
+      "title": "Opinion | If U.S. banks win the fight over stablecoins, China does too - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3B4ejZiWVhFS3l2SXdJczRQblRyM2NwZElnWkswT1BRaDZ3VFdBYk95NEFFRGt3YW5TMWwyZm5DTUtFSFg0OGpiNmY1Rm14ZkZZdF9mMnBDZmg3a2ZBYUVpb3VYMFVENFVWaV9yMWlBQXhKZldxZFJ4NkRkUzVPQjQ3Vzg2Wi1fbGszTy00UF93R1NhOS1YRVE0blBHMlU?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "stablecoin + ban"
+      ],
+      "firstSeen": "2026-03-27T13:51:23.299Z",
+      "pushedAt": "2026-03-27T13:51:23.299Z"
+    },
+    {
       "id": "72fb034eff1375d0",
       "title": "Soaring Diesel Prices Set Off Transport Strike in Philippines",
       "url": "https://www.nytimes.com/2026/03/27/world/middleeast/manila-jeepney-drivers-strike-fuel.html",
@@ -147,5 +159,5 @@
       "pushedAt": "2026-03-26T13:53:30.880Z"
     }
   ],
-  "updatedAt": "2026-03-27T12:31:31.750Z"
+  "updatedAt": "2026-03-27T13:51:23.563Z"
 }
