@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "cdbabc584ada7b4a",
+      "title": "Senate moves to fund most of Homeland Security after shutdown disrupts airports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQkd2N2Q4UEhHWkthcVhmb2o2Q0J1d1J1RDNOSHhpMW1reXNMUmlIV1pPWmlhVlNEaURKQld4Qm9oUXBpQ1pJMXo5ZTYtQ3lfUDlTdmI3YjEydkV4TUNyUmlwZk8tZXU1ZFdJY0tMendGR1MzOWV2LXZCVHJ4S0hYajZLWDVmTjRlV09xMmpMVWhHS1MtcVk2N2FfeWNSOUtfTUE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-27T11:05:05.526Z",
+      "pushedAt": "2026-03-27T11:05:05.526Z"
+    },
+    {
       "id": "58a9936e3339e3bf",
       "title": "Chinese universities with military links bought Super Micro servers with restricted AI chips - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVd5M1BnNC01RmtiNms4Vlg1clZ0MXZlclpYWF80MDhkUjg3eEFJT18wVGo2U1VMSTZWZXJfdDkzcndLX1FfM3ZKb2Frc0dSanVyZzMyTTRBY2ZvMW51RmVsbjJtcjZMcG41QzFDb3hhNXRtWlUxSXg5V1luWVlTWFlyZUJKR3hWOTc0WHpLV0RLNG03UTB4RUpneXpIZ2k4RHE5bnhNVXJVVmV1S05jUzF3VGxlQjVtWkVaSA?oc=5",
@@ -133,55 +145,7 @@
       ],
       "firstSeen": "2026-03-26T12:06:38.880Z",
       "pushedAt": "2026-03-26T12:06:38.880Z"
-    },
-    {
-      "id": "937c10f2f66dcbcf",
-      "title": "Photos show ICE agents at US airports where the partial government shutdown triggered delays - AP News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3hLS2xGSEdHQ043TFVyRjBBeVprWjZlYXhoaXBpZHlJM3A1NXNhb2pXQW9UM3ZNRHJKdVJiQXZlcW5WVW82MWxKSW0xTFZhS29UeFdFTGVQTlM2dUpibDNYMHBOYUNJWi1YVG55cWRzeEo4eUV6NGthc2JmXzVTUzgxMmR6bnltNjFqdlFpdDFPLUMtbGptOG5wTERlR0NBQy0yRVR5OHFNOXZJZnpjMFF6R2VjSTg?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-26T10:31:42.936Z",
-      "pushedAt": "2026-03-26T10:31:42.936Z"
-    },
-    {
-      "id": "0b9f941ca934bd34",
-      "title": "Cuban president says Raul Castro involved in US talks amid oil blockade",
-      "url": "https://www.aljazeera.com/news/2026/3/26/cuban-president-says-raul-castro-involved-in-us-talks-amid-oil-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-03-26T09:38:02.651Z",
-      "pushedAt": "2026-03-26T09:38:02.651Z"
-    },
-    {
-      "id": "051c780752a8d70f",
-      "title": "ECB's Nagel says April rate hike 'an option' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUE02QnEzNmVZN2U2ZGdyQU9UNVJPM1MyanJTOVdrSWpORGU1M3E3R3o2dXdxZVZ3WlY0OFhRWHZQeVYzcFlWS1BXOS14YjJLQ2dmYi1PeTdCMjRpVkZPOVBJNi1nWlFKa1JvTDJnY3dGdWpWdU9GcDdPcU5FUHFUZVE5TThYNGFkcnZNV1N4Ymxxa0tRMHBPVGJ3?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + ecb"
-      ],
-      "firstSeen": "2026-03-26T08:33:52.032Z",
-      "pushedAt": "2026-03-26T08:33:52.032Z"
-    },
-    {
-      "id": "807b8b30583cd297",
-      "title": "U.S. Accuses China of Nuclear Test, Preparations - Arms Control Association",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWhYdVNCQWJQemxfTW1WS0sybFRTR2pPNkR4VXNOemtORFB2WnVfbVhpendiNjlJeng0Zng2VkVIbmdlQUdLd2Q3NUM1LVIyUlFnUW1rTU82RXJ1bkx3T3pBTHhvYmhFSWRMLVhNOWNucF84OTVuT04wT01heDdiZS1aM0tHWjhTeUQ5TDJ3VFQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "nuclear test"
-      ],
-      "firstSeen": "2026-03-26T07:45:19.794Z",
-      "pushedAt": "2026-03-26T07:45:19.794Z"
     }
   ],
-  "updatedAt": "2026-03-27T06:44:05.221Z"
+  "updatedAt": "2026-03-27T11:05:05.810Z"
 }
