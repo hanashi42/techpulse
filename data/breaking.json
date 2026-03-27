@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6d8a498d6e33bc71",
+      "title": "TSA boss warns of airport shutdowns, but no deal yet on day 40 of Homeland Security funding fight - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDc4U0JqMzFxNTBwb1NEd3FReVk1Zk5abVdpQW5pTjZpUGZSM0Q1TkY1QnhyblFieFI1X0lQTlhuejhmRzFhRWVQODVUVk1pQm9ucTNsQ1NXTm1ZSk41ZGNPeGZJOEVDOW5fWnNLbUlIZHVOd1BqLTJOeUZDOTA3SjY4VjhyMWg0U2dWRk00SEsyWWYwZmZELW9lczJCZV9UZ08xdll6NA?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-27T14:40:51.866Z",
+      "pushedAt": "2026-03-27T14:40:51.866Z"
+    },
+    {
+      "id": "f921f861465e097b",
+      "title": "China opens investigations into US trade practices in response to Trump tariff moves - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGJGQkxHNlhfckEwNnZ2ZU5qQ3pYSW9UWms0Y1M0cjh1c0xGRW5TY19YTUtKTVRoZnlRUVQ0YmgwdFpValp2YjAzcEVMOTZIYkgzaHBGUk1aVWNmaTFTVExlZXUtb3BRRkJzZjJ1MXBGZTBXel96UnhzLWppTjVwc0xndHJ5RTljaXNaeUF1X1NuYmVGLW9qWW1DSklrWE1kZVBN?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-03-27T14:40:51.985Z",
+      "pushedAt": "2026-03-27T14:40:51.985Z"
+    },
+    {
       "id": "5027f80cf874bf19",
       "title": "Opinion | If U.S. banks win the fight over stablecoins, China does too - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3B4ejZiWVhFS3l2SXdJczRQblRyM2NwZElnWkswT1BRaDZ3VFdBYk95NEFFRGt3YW5TMWwyZm5DTUtFSFg0OGpiNmY1Rm14ZkZZdF9mMnBDZmg3a2ZBYUVpb3VYMFVENFVWaV9yMWlBQXhKZldxZFJ4NkRkUzVPQjQ3Vzg2Wi1fbGszTy00UF93R1NhOS1YRVE0blBHMlU?oc=5",
@@ -145,19 +169,7 @@
       ],
       "firstSeen": "2026-03-26T14:54:44.696Z",
       "pushedAt": "2026-03-26T14:54:44.696Z"
-    },
-    {
-      "id": "e6eb670d55f2a37b",
-      "title": "Two Killed in Abu Dhabi as Gulf States Face Fresh Attacks",
-      "url": "https://www.nytimes.com/2026/03/26/world/middleeast/iran-missile-strikes-abu-dhabi.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-26T13:53:30.880Z",
-      "pushedAt": "2026-03-26T13:53:30.880Z"
     }
   ],
-  "updatedAt": "2026-03-27T13:51:23.563Z"
+  "updatedAt": "2026-03-27T14:40:52.071Z"
 }
