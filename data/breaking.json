@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "9fca57a30109ec2c",
+      "title": "Oil prices fall as Trump pauses attacks on Iranian energy plants - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3JQcW42VTUxV2dTekoyZUMzVzRlZExaSWVFNjFJc2NGNmFyNmVISWZZdTlBeWFfb05RRzN1WGVlQ3RJUnhfbnBPR3VKclJXR3FPLWk0c0VkQjhrNjdmVGVqQTE2bjI1N0J0aUVVX3hCRHdUWlhITDlNc1pTd3dZZzJKbVktOVdMcS1sTW01cjNTSXNRSmhWck9ZRk9WWGlVVGM5MkRyQmVhSGNNaXp3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-03-27T03:52:22.191Z",
+      "pushedAt": "2026-03-27T03:52:22.191Z"
+    },
+    {
+      "id": "2a5d2b3da3a68a06",
+      "title": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
+      "url": "https://www.cnbc.com/2026/03/27/china-industrial-profits-jan-feb-surge-oil-price-shock-threatens-outlook.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-03-27T03:52:22.448Z",
+      "pushedAt": "2026-03-27T03:52:22.448Z"
+    },
+    {
+      "id": "a4e0af966fd08f7e",
+      "title": "Reflation Can Be Good for Chinese Stocks as Global Prices Soar - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMldyLTh2TVIzcHk0STdzV3RDVFhQT29Md0RweldudDJSQkxFeEowOXpYcjFtaWYtRlNmTG5hTjZLRVVDTUUwb1cyMDBmcWhpWFVpQU90amJRbmpxRTBydWV1NjJMeWd0OWROVzl1QnFDNU9JVENrQ1pHek4xczNPb1M3WnZRZ1NZT3BwMUl0VHBFWTE4dEFnNFRUem1vUTVNbm02RjFEek84c2paZDBRSVZTVjA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-03-27T03:52:22.694Z",
+      "pushedAt": "2026-03-27T03:52:22.694Z"
+    },
+    {
       "id": "4a83381831c52395",
       "title": "India secures 60 days of oil supply amid Hormuz disruption - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFNWWU55ak5zZWZQRDU2X2FXbEhSaF9vcG83dUtaQktCQ2QycGdFcFc1TDNqYUd0QnRHMGJzeEV2aWQ4SVpJSzI3RUZGVW9KS0JCSnFxWHJORFBFdHU5dDhDYlJsVnZTWm41UU1PYzNiSkRwSlNRb0lqeUlLNzZ4RUtWYzBDNmNxcDdQR1ZpeURrNnd4dUsxaHZ6aVVrZ1NYRnhzRXU5RFBUbnM?oc=5",
@@ -157,79 +194,7 @@
       ],
       "firstSeen": "2026-03-26T05:26:01.479Z",
       "pushedAt": "2026-03-26T05:26:01.479Z"
-    },
-    {
-      "id": "731d4d0640973c11",
-      "title": "Oil prices rise as Iran rejects direct U.S. talks despite proposal review",
-      "url": "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-03-26T03:51:37.657Z",
-      "pushedAt": "2026-03-26T03:51:37.657Z"
-    },
-    {
-      "id": "163e9086230d0ebf",
-      "title": "Oil giants raise the alarm over energy shortages as Iran war drags on",
-      "url": "https://www.cnbc.com/2026/03/25/iran-war-oil-shell-totalenergies-energy-strait-of-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + oil"
-      ],
-      "firstSeen": "2026-03-25T22:04:58.812Z",
-      "pushedAt": "2026-03-25T22:04:58.812Z"
-    },
-    {
-      "id": "09747fd845737620",
-      "title": "US investors bet big on Indian cricket with record billion-dollar IPL deals",
-      "url": "https://www.aljazeera.com/sports/2026/3/25/us-investors-bet-big-on-indian-cricket-with-record-billion-dollar-ipl-deals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "dollar + record"
-      ],
-      "firstSeen": "2026-03-25T21:35:00.711Z",
-      "pushedAt": "2026-03-25T21:35:00.711Z"
-    },
-    {
-      "id": "86e28e8bb758c609",
-      "title": "Four killed in latest US attack on alleged drug-smuggling boat in Caribbean",
-      "url": "https://www.aljazeera.com/news/2026/3/25/four-killed-in-latest-us-attack-on-alleged-drug-smuggling-boat-in-caribbean?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-25T21:35:01.153Z",
-      "pushedAt": "2026-03-25T21:35:01.153Z"
-    },
-    {
-      "id": "040006cc387551e7",
-      "title": "Space stocks rally on reports of SpaceX's imminent IPO filing",
-      "url": "https://www.cnbc.com/2026/03/25/space-stocks-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-03-25T19:09:34.438Z",
-      "pushedAt": "2026-03-25T19:09:34.438Z"
-    },
-    {
-      "id": "58e90010e2142fb9",
-      "title": "What we know about US attack on Iraqi military site",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-us-attack-on-iraqi-military-site?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-03-25T18:05:42.155Z",
-      "pushedAt": "2026-03-25T18:05:42.155Z"
     }
   ],
-  "updatedAt": "2026-03-26T18:05:34.112Z"
+  "updatedAt": "2026-03-27T03:52:22.775Z"
 }
