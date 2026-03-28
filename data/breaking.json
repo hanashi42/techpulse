@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f6a591dc0060e082",
+      "title": "HAWKISH FED BETS, OIL SHOCK SET TO KEEP RINGGIT AROUND 4.00 AGAINST US DOLLAR NEXT WEEK - web11.bernama.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lelluOGE1OGN1T0lycUMzZDlNSUlsRUhqd2ZualpPQzdCQkRqRFc3MTl3SWZGZVhTTmd1SXhHTUs4bURRUkc0ZXhVOHNVcHN6dXNQMHBoZHZraXlQU1NSSnhuTHBwQQ?oc=5",
+      "source": "Bernama",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-03-28T08:23:20.323Z",
+      "pushedAt": "2026-03-28T08:23:20.323Z"
+    },
+    {
       "id": "726657c866d3f59c",
       "title": "G7 Top Diplomats Urge End To Attacks On Civilians In Iran War - bernama",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zQkF0eW5UcDllSlBza1E4M0ZlUTI4LUwwTjJJUE12SWdfTndheHpVT1VGRk9EWG51Q0x1dFdDY01neTJDVHZoVEsxTVFVT1oycXltU1dvcVdGOHBZQ1lqNkdWbjZBUjUzWHBHa0xOVnBkMXBiQ3c?oc=5",
@@ -119,19 +131,7 @@
       ],
       "firstSeen": "2026-03-27T11:05:05.526Z",
       "pushedAt": "2026-03-27T11:05:05.526Z"
-    },
-    {
-      "id": "58a9936e3339e3bf",
-      "title": "Chinese universities with military links bought Super Micro servers with restricted AI chips - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVd5M1BnNC01RmtiNms4Vlg1clZ0MXZlclpYWF80MDhkUjg3eEFJT18wVGo2U1VMSTZWZXJfdDkzcndLX1FfM3ZKb2Frc0dSanVyZzMyTTRBY2ZvMW51RmVsbjJtcjZMcG41QzFDb3hhNXRtWlUxSXg5V1luWVlTWFlyZUJKR3hWOTc0WHpLV0RLNG03UTB4RUpneXpIZ2k4RHE5bnhNVXJVVmV1S05jUzF3VGxlQjVtWkVaSA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + chip"
-      ],
-      "firstSeen": "2026-03-27T06:44:04.904Z",
-      "pushedAt": "2026-03-27T06:44:04.904Z"
     }
   ],
-  "updatedAt": "2026-03-28T06:11:10.881Z"
+  "updatedAt": "2026-03-28T08:23:20.485Z"
 }
