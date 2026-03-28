@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "229489d016167cb7",
+      "title": "The war in Iran sparks a global fertilizer shortage and threatens food prices - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTZva0hhTXB6ejNBNFRFdk9CYmE1bXJVdVRmOFoxcG9IUVQwUnpBLUN1TlpwSGFzNjE0TUNST2JaYkJjREhHT1FGM2tQanlGUTJlLWQ3Tmg0SVFVT0FaZEtHaF9XY3NrVm5QNVdqT0RTUXFfWjQ3YV9WWnFrS1pBVDBrbFJlZVZ2Unh0ajlfUEI3Sm5UTEQwOVk0cw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + food"
+      ],
+      "firstSeen": "2026-03-28T01:20:55.079Z",
+      "pushedAt": "2026-03-28T01:20:55.079Z"
+    },
+    {
+      "id": "6eb892c501a56690",
+      "title": "The Tech Download: How Russia could profit from Iran war helium supply chain disruption in the chip sector",
+      "url": "https://www.cnbc.com/2026/03/27/russia-helium-supply-crunch-iran-war.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + supply chain"
+      ],
+      "firstSeen": "2026-03-28T01:20:55.255Z",
+      "pushedAt": "2026-03-28T01:20:55.255Z"
+    },
+    {
       "id": "a6974283a960fb33",
       "title": "Rescue workers rush to save lives after south Tehran missile strike",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rescue-workers-rush-to-save-lives-after-south-tehran-missile-strike?traffic_source=rss",
@@ -122,5 +146,5 @@
       "pushedAt": "2026-03-27T03:52:22.694Z"
     }
   ],
-  "updatedAt": "2026-03-27T23:56:25.788Z"
+  "updatedAt": "2026-03-28T01:20:55.381Z"
 }
