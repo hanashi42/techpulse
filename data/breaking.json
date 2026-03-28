@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6c90429f966abe90",
+      "title": "Iran War Live Updates: 12 U.S. Troops Injured in Attack on Saudi Base, Officials Say",
+      "url": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + base"
+      ],
+      "firstSeen": "2026-03-28T03:45:44.513Z",
+      "pushedAt": "2026-03-28T03:45:44.513Z"
+    },
+    {
       "id": "229489d016167cb7",
       "title": "The war in Iran sparks a global fertilizer shortage and threatens food prices - AP News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTZva0hhTXB6ejNBNFRFdk9CYmE1bXJVdVRmOFoxcG9IUVQwUnpBLUN1TlpwSGFzNjE0TUNST2JaYkJjREhHT1FGM2tQanlGUTJlLWQ3Tmg0SVFVT0FaZEtHaF9XY3NrVm5QNVdqT0RTUXFfWjQ3YV9WWnFrS1pBVDBrbFJlZVZ2Unh0ajlfUEI3Sm5UTEQwOVk0cw?oc=5",
@@ -146,5 +158,5 @@
       "pushedAt": "2026-03-27T03:52:22.694Z"
     }
   ],
-  "updatedAt": "2026-03-28T01:20:55.381Z"
+  "updatedAt": "2026-03-28T03:45:44.753Z"
 }
