@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "14ba754883f50734",
+      "title": "Iranian attack on Saudi base injures US troops. More American forces arrive in the Middle East - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblloY2RKTmxkUWY2ZUQwak54MXZLRHJzcTZVNWk4STFDb3VQZkU5OXg1ZUp6dXpITmxFVkRubXAwTDZkcDU4cTBjZmhHSnd3dzRqZ1dGQXBVUldqakRLbTFzUENheUotNTQ5Vm9jTV9HemE4dUtEVDhXbl93YnRIS3hoVHJWOFpoSHBzUUFUU1NjMDNDcGhEbmpvSFZndDByODVUT2dn?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + base"
+      ],
+      "firstSeen": "2026-03-29T17:17:04.695Z",
+      "pushedAt": "2026-03-29T17:17:04.695Z"
+    },
+    {
       "id": "0fd0530d677d2264",
       "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
       "url": "https://www.cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html",
@@ -25,5 +37,5 @@
       "pushedAt": "2026-03-29T14:05:36.094Z"
     }
   ],
-  "updatedAt": "2026-03-29T14:47:03.111Z"
+  "updatedAt": "2026-03-29T17:17:04.957Z"
 }
