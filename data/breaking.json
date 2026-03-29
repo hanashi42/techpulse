@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6fbc33a88cbe034b",
+      "title": "U.S. to Allow Russian Oil Tanker to Reach Cuba, Breaking Blockade",
+      "url": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-03-29T21:27:16.840Z",
+      "pushedAt": "2026-03-29T21:27:16.840Z"
+    },
+    {
       "id": "03a5a15edcacdcea",
       "title": "Netanyahu orders military to expand invasion of southern Lebanon",
       "url": "https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon?traffic_source=rss",
@@ -73,5 +85,5 @@
       "pushedAt": "2026-03-29T14:05:36.094Z"
     }
   ],
-  "updatedAt": "2026-03-29T19:05:03.715Z"
+  "updatedAt": "2026-03-29T21:27:17.091Z"
 }
