@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5732afbab474de68",
+      "title": "Iran War Live Updates: Israel Vows to Seize More Territory in Lebanon and Strikes Hit Iranian Port",
+      "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "seize + territory"
+      ],
+      "firstSeen": "2026-03-29T18:20:42.838Z",
+      "pushedAt": "2026-03-29T18:20:42.838Z"
+    },
+    {
       "id": "540af91f2b3d82fb",
       "title": "Govt Balancing Inflation, Growth Amid West Asia Conflict, Maintaining GDP Target For Now - bernama.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUTVUNjNXZk1IOEZUSHFyUnhoMW9vRF82ZWZORXZoRkMzNDVpZWlmN2NQVnJtRU4xbzVEMVZrZHpDNVVjVzNpRFhnVGtJbEpENG1pMlppV3gtVk5UbDNPdGpaTnNfNXF3TDB3dUJqZVBFY0k3NXlDUVFkejNuQi1sSXBn?oc=5",
@@ -49,5 +61,5 @@
       "pushedAt": "2026-03-29T14:05:36.094Z"
     }
   ],
-  "updatedAt": "2026-03-29T17:49:40.493Z"
+  "updatedAt": "2026-03-29T18:20:42.980Z"
 }
