@@ -1,137 +1,17 @@
 {
   "items": [
     {
-      "id": "f6a591dc0060e082",
-      "title": "HAWKISH FED BETS, OIL SHOCK SET TO KEEP RINGGIT AROUND 4.00 AGAINST US DOLLAR NEXT WEEK - web11.bernama.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lelluOGE1OGN1T0lycUMzZDlNSUlsRUhqd2ZualpPQzdCQkRqRFc3MTl3SWZGZVhTTmd1SXhHTUs4bURRUkc0ZXhVOHNVcHN6dXNQMHBoZHZraXlQU1NSSnhuTHBwQQ?oc=5",
+      "id": "a6f030bdbe1d0898",
+      "title": "State Of Emergency Declared In City In Russia's Dagestan Region Due To Heavy Rainfall - bernama.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSb3JaemVUSThRRW1QeWRndk9QRHVobXVyOGJLTDdVbENUYnFlX1hXaTY2Ym1aTVlaYVZhVml2VEtuUkNvXzdILW5xR1FaTHc4RVRUSg?oc=5",
       "source": "Bernama",
       "priority": "P0",
       "matchedKeywords": [
-        "oil shock"
+        "state of emergency declared"
       ],
-      "firstSeen": "2026-03-28T08:23:20.323Z",
-      "pushedAt": "2026-03-28T08:23:20.323Z"
-    },
-    {
-      "id": "726657c866d3f59c",
-      "title": "G7 Top Diplomats Urge End To Attacks On Civilians In Iran War - bernama",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zQkF0eW5UcDllSlBza1E4M0ZlUTI4LUwwTjJJUE12SWdfTndheHpVT1VGRk9EWG51Q0x1dFdDY01neTJDVHZoVEsxTVFVT1oycXltU1dvcVdGOHBZQ1lqNkdWbjZBUjUzWHBHa0xOVnBkMXBiQ3c?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + civilian"
-      ],
-      "firstSeen": "2026-03-28T06:11:10.807Z",
-      "pushedAt": "2026-03-28T06:11:10.807Z"
-    },
-    {
-      "id": "6c90429f966abe90",
-      "title": "Iran War Live Updates: 12 U.S. Troops Injured in Attack on Saudi Base, Officials Say",
-      "url": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + base"
-      ],
-      "firstSeen": "2026-03-28T03:45:44.513Z",
-      "pushedAt": "2026-03-28T03:45:44.513Z"
-    },
-    {
-      "id": "229489d016167cb7",
-      "title": "The war in Iran sparks a global fertilizer shortage and threatens food prices - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTZva0hhTXB6ejNBNFRFdk9CYmE1bXJVdVRmOFoxcG9IUVQwUnpBLUN1TlpwSGFzNjE0TUNST2JaYkJjREhHT1FGM2tQanlGUTJlLWQ3Tmg0SVFVT0FaZEtHaF9XY3NrVm5QNVdqT0RTUXFfWjQ3YV9WWnFrS1pBVDBrbFJlZVZ2Unh0ajlfUEI3Sm5UTEQwOVk0cw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + food"
-      ],
-      "firstSeen": "2026-03-28T01:20:55.079Z",
-      "pushedAt": "2026-03-28T01:20:55.079Z"
-    },
-    {
-      "id": "6eb892c501a56690",
-      "title": "The Tech Download: How Russia could profit from Iran war helium supply chain disruption in the chip sector",
-      "url": "https://www.cnbc.com/2026/03/27/russia-helium-supply-crunch-iran-war.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + supply chain"
-      ],
-      "firstSeen": "2026-03-28T01:20:55.255Z",
-      "pushedAt": "2026-03-28T01:20:55.255Z"
-    },
-    {
-      "id": "a6974283a960fb33",
-      "title": "Rescue workers rush to save lives after south Tehran missile strike",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rescue-workers-rush-to-save-lives-after-south-tehran-missile-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-03-27T23:56:25.672Z",
-      "pushedAt": "2026-03-27T23:56:25.672Z"
-    },
-    {
-      "id": "6d8a498d6e33bc71",
-      "title": "TSA boss warns of airport shutdowns, but no deal yet on day 40 of Homeland Security funding fight - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDc4U0JqMzFxNTBwb1NEd3FReVk1Zk5abVdpQW5pTjZpUGZSM0Q1TkY1QnhyblFieFI1X0lQTlhuejhmRzFhRWVQODVUVk1pQm9ucTNsQ1NXTm1ZSk41ZGNPeGZJOEVDOW5fWnNLbUlIZHVOd1BqLTJOeUZDOTA3SjY4VjhyMWg0U2dWRk00SEsyWWYwZmZELW9lczJCZV9UZ08xdll6NA?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-27T14:40:51.866Z",
-      "pushedAt": "2026-03-27T14:40:51.866Z"
-    },
-    {
-      "id": "f921f861465e097b",
-      "title": "China opens investigations into US trade practices in response to Trump tariff moves - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGJGQkxHNlhfckEwNnZ2ZU5qQ3pYSW9UWms0Y1M0cjh1c0xGRW5TY19YTUtKTVRoZnlRUVQ0YmgwdFpValp2YjAzcEVMOTZIYkgzaHBGUk1aVWNmaTFTVExlZXUtb3BRRkJzZjJ1MXBGZTBXel96UnhzLWppTjVwc0xndHJ5RTljaXNaeUF1X1NuYmVGLW9qWW1DSklrWE1kZVBN?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-03-27T14:40:51.985Z",
-      "pushedAt": "2026-03-27T14:40:51.985Z"
-    },
-    {
-      "id": "5027f80cf874bf19",
-      "title": "Opinion | If U.S. banks win the fight over stablecoins, China does too - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3B4ejZiWVhFS3l2SXdJczRQblRyM2NwZElnWkswT1BRaDZ3VFdBYk95NEFFRGt3YW5TMWwyZm5DTUtFSFg0OGpiNmY1Rm14ZkZZdF9mMnBDZmg3a2ZBYUVpb3VYMFVENFVWaV9yMWlBQXhKZldxZFJ4NkRkUzVPQjQ3Vzg2Wi1fbGszTy00UF93R1NhOS1YRVE0blBHMlU?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "stablecoin + ban"
-      ],
-      "firstSeen": "2026-03-27T13:51:23.299Z",
-      "pushedAt": "2026-03-27T13:51:23.299Z"
-    },
-    {
-      "id": "72fb034eff1375d0",
-      "title": "Soaring Diesel Prices Set Off Transport Strike in Philippines",
-      "url": "https://www.nytimes.com/2026/03/27/world/middleeast/manila-jeepney-drivers-strike-fuel.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-03-27T12:31:31.473Z",
-      "pushedAt": "2026-03-27T12:31:31.473Z"
-    },
-    {
-      "id": "cdbabc584ada7b4a",
-      "title": "Senate moves to fund most of Homeland Security after shutdown disrupts airports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQkd2N2Q4UEhHWkthcVhmb2o2Q0J1d1J1RDNOSHhpMW1reXNMUmlIV1pPWmlhVlNEaURKQld4Qm9oUXBpQ1pJMXo5ZTYtQ3lfUDlTdmI3YjEydkV4TUNyUmlwZk8tZXU1ZFdJY0tMendGR1MzOWV2LXZCVHJ4S0hYajZLWDVmTjRlV09xMmpMVWhHS1MtcVk2N2FfeWNSOUtfTUE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-27T11:05:05.526Z",
-      "pushedAt": "2026-03-27T11:05:05.526Z"
+      "firstSeen": "2026-03-29T14:05:36.094Z",
+      "pushedAt": "2026-03-29T14:05:36.094Z"
     }
   ],
-  "updatedAt": "2026-03-28T08:23:20.485Z"
+  "updatedAt": "2026-03-29T14:05:36.276Z"
 }
