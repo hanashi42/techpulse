@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e6d029902c332721",
+      "title": "Syrian army says drone attacks targeted its bases near Iraq - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmJZSGNuczY4amZic0hGTFRQbFdyaFhtY24tTXZLNnFPbGprajllRmJ2TEIwSTF2cnRWZjVwSzd1ckloV0dWa0Y0dXgzQk9OR2YwdnlPdEx6WG9Zbm1CVVA5RUdXMHlfUlhJMVlGVkJQYlFlWXNNSVF1S0xrWmxUekVBcTQ4dFQ0ajVtRnJzSl9BQzkzZ2JSUTZ4WFk0QWRXUVhBemZORFNPdE1zVzlPVGtDUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + base"
+      ],
+      "firstSeen": "2026-03-30T19:15:34.844Z",
+      "pushedAt": "2026-03-30T19:15:34.844Z"
+    },
+    {
       "id": "e8a696e2188f5099",
       "title": "Treasury yields slide as traders pare bets on Fed rate cuts",
       "url": "https://www.cnbc.com/2026/03/30/us-treasury-yields-investors-look-ahead-to-busy-week-of-jobs-data.html",
@@ -193,55 +205,7 @@
       ],
       "firstSeen": "2026-03-29T21:27:16.840Z",
       "pushedAt": "2026-03-29T21:27:16.840Z"
-    },
-    {
-      "id": "03a5a15edcacdcea",
-      "title": "Netanyahu orders military to expand invasion of southern Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/3/29/netanyahu-announces-expansion-of-security-buffer-zone-in-south-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "invasion of"
-      ],
-      "firstSeen": "2026-03-29T19:05:03.456Z",
-      "pushedAt": "2026-03-29T19:05:03.456Z"
-    },
-    {
-      "id": "5732afbab474de68",
-      "title": "Iran War Live Updates: Israel Vows to Seize More Territory in Lebanon and Strikes Hit Iranian Port",
-      "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "seize + territory"
-      ],
-      "firstSeen": "2026-03-29T18:20:42.838Z",
-      "pushedAt": "2026-03-29T18:20:42.838Z"
-    },
-    {
-      "id": "540af91f2b3d82fb",
-      "title": "Govt Balancing Inflation, Growth Amid West Asia Conflict, Maintaining GDP Target For Now - bernama.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUTVUNjNXZk1IOEZUSHFyUnhoMW9vRF82ZWZORXZoRkMzNDVpZWlmN2NQVnJtRU4xbzVEMVZrZHpDNVVjVzNpRFhnVGtJbEpENG1pMlppV3gtVk5UbDNPdGpaTnNfNXF3TDB3dUJqZVBFY0k3NXlDUVFkejNuQi1sSXBn?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "gdp + growth"
-      ],
-      "firstSeen": "2026-03-29T17:49:40.336Z",
-      "pushedAt": "2026-03-29T17:49:40.336Z"
-    },
-    {
-      "id": "14ba754883f50734",
-      "title": "Iranian attack on Saudi base injures US troops. More American forces arrive in the Middle East - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblloY2RKTmxkUWY2ZUQwak54MXZLRHJzcTZVNWk4STFDb3VQZkU5OXg1ZUp6dXpITmxFVkRubXAwTDZkcDU4cTBjZmhHSnd3dzRqZ1dGQXBVUldqakRLbTFzUENheUotNTQ5Vm9jTV9HemE4dUtEVDhXbl93YnRIS3hoVHJWOFpoSHBzUUFUU1NjMDNDcGhEbmpvSFZndDByODVUT2dn?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + base"
-      ],
-      "firstSeen": "2026-03-29T17:17:04.695Z",
-      "pushedAt": "2026-03-29T17:17:04.695Z"
     }
   ],
-  "updatedAt": "2026-03-30T17:12:34.487Z"
+  "updatedAt": "2026-03-30T19:15:34.975Z"
 }
