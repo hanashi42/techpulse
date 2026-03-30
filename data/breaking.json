@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3ff588c92faea6f2",
+      "title": "At leat 70 people killed and 30 injured in Haiti gang attack",
+      "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-03-30T21:29:53.686Z",
+      "pushedAt": "2026-03-30T21:29:53.686Z"
+    },
+    {
       "id": "e6d029902c332721",
       "title": "Syrian army says drone attacks targeted its bases near Iraq - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmJZSGNuczY4amZic0hGTFRQbFdyaFhtY24tTXZLNnFPbGprajllRmJ2TEIwSTF2cnRWZjVwSzd1ckloV0dWa0Y0dXgzQk9OR2YwdnlPdEx6WG9Zbm1CVVA5RUdXMHlfUlhJMVlGVkJQYlFlWXNNSVF1S0xrWmxUekVBcTQ4dFQ0ajVtRnJzSl9BQzkzZ2JSUTZ4WFk0QWRXUVhBemZORFNPdE1zVzlPVGtDUQ?oc=5",
@@ -193,19 +205,7 @@
       ],
       "firstSeen": "2026-03-29T23:18:36.116Z",
       "pushedAt": "2026-03-29T23:18:36.116Z"
-    },
-    {
-      "id": "6fbc33a88cbe034b",
-      "title": "U.S. to Allow Russian Oil Tanker to Reach Cuba, Breaking Blockade",
-      "url": "https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-03-29T21:27:16.840Z",
-      "pushedAt": "2026-03-29T21:27:16.840Z"
     }
   ],
-  "updatedAt": "2026-03-30T19:15:34.975Z"
+  "updatedAt": "2026-03-30T21:29:53.856Z"
 }
