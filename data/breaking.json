@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "97f0e33807a126dc",
+      "title": "Gold firms on softer dollar, but dimming Fed rate-cut hopes cap rise - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWdTRm5fRWl6eXRlRUxTTEZqYVA3MWZzcmdQSzlMZ1RvcGtTOGdqMmhxTGVTODhsSHhuQWR0UDNXYVVGTUNYWVFGelpCZWl0WXZ3dng5U1FXTFZZUVM5M3lfYkV3VVlHLTVOTVUwNUd1emYzbzFmOGM1UFlhLWc3R1ZCMGFTX0tvektOM0V0ZXVPRjByT08zc3puQldkdExFTm96a3p6Sno?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-03-30T06:06:46.056Z",
+      "pushedAt": "2026-03-30T06:06:46.056Z"
+    },
+    {
+      "id": "d87b8a165f8edc88",
+      "title": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
+      "url": "https://www.nytimes.com/2026/03/30/world/australia/australia-melbourne-free-transit.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-03-30T06:06:46.326Z",
+      "pushedAt": "2026-03-30T06:06:46.326Z"
+    },
+    {
       "id": "16d18716e46dde8a",
       "title": "UNIFIL says one peacekeeper killed, one critically injured in southern Lebanon explosion - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmlHVk1vMEtvV3g1NHM1VElNM1ByYVRUekV0Y3o2alE3czltaVdoNnlEazUzb3dTeWRNcksybEZiRVZxMGtBRk81YndqYmd3Zkh2RjlEejByUGdTY3J1Q2txdkRxQV8yZDJmeC1vcjVGNEJfc1NicXlDa3M1cVRXRkhuVC1UTEFfSHNkME5WZUxzNllnTFp2dUhkTDdsc04zbnotMExRV09Na3FqTXdJOFkxMlljRWNfdU8xVU5HZWwwRm1ySlFJ?oc=5",
@@ -134,5 +158,5 @@
       "pushedAt": "2026-03-29T14:05:36.094Z"
     }
   ],
-  "updatedAt": "2026-03-30T04:13:12.976Z"
+  "updatedAt": "2026-03-30T06:06:46.578Z"
 }
