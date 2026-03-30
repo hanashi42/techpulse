@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "dbe298295ae8067e",
+      "title": "Morning Bid: It's a sad Strait of affairs as oil soars - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUt3WFdkQVhZVGZNazg1Q2RpdjNocGdHeGNoVHNENXcwYnBmUFphcEREQWxYOEwtcFdQSWxuYW5UUnh5T3dHclFabVlPRzYyZ1pvMWpKWVdOUmJUdF8zYjdPOEJpaE1SQ2p3MXY1SjR0TlRiQTgtN0luR3lsSG1sLU1raw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + oil"
+      ],
+      "firstSeen": "2026-03-30T09:07:21.006Z",
+      "pushedAt": "2026-03-30T09:07:21.006Z"
+    },
+    {
+      "id": "d9a8b92375fb1c06",
+      "title": "Three killed as unfinished building collapses on church service in Ghana",
+      "url": "https://www.bbc.com/news/articles/ckgex51zzd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "collapses + building"
+      ],
+      "firstSeen": "2026-03-30T09:07:21.286Z",
+      "pushedAt": "2026-03-30T09:07:21.286Z"
+    },
+    {
+      "id": "348218c2b6755099",
+      "title": "China Sanctions Japanese Lawmaker Furuya - nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mQnpCSng3Qnlqek1yc2JrelZXSGI2VEduaW04SzhlZzIwWXFGVk9BbDdkaXBhc3FSOU1XeElqRlE2bTdoN29RdGQ4TEZ2NkJRR0ttbENoVlJmR1Ix?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-03-30T09:07:21.538Z",
+      "pushedAt": "2026-03-30T09:07:21.538Z"
+    },
+    {
+      "id": "7d595955717aa50c",
+      "title": "IRAN LAUNCHED OVER 5,400 ATTACKS ON US BASES, CRITICAL SITES IN ARAB COUNTRIES IN A MONTH: DATA - bernama",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZMGxBUzFzZDIxREhCSC1jUG5FNjBSSUxNUGZFLV9YNGw2Z2ZjRnU3Xzc0eDhRaWJTQ3l1MFB6a1Atb0RzTFk1QnRiam4zUVAyTTdNRVBRVzEwZVU?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + base"
+      ],
+      "firstSeen": "2026-03-30T09:07:21.628Z",
+      "pushedAt": "2026-03-30T09:07:21.628Z"
+    },
+    {
       "id": "97f0e33807a126dc",
       "title": "Gold firms on softer dollar, but dimming Fed rate-cut hopes cap rise - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWdTRm5fRWl6eXRlRUxTTEZqYVA3MWZzcmdQSzlMZ1RvcGtTOGdqMmhxTGVTODhsSHhuQWR0UDNXYVVGTUNYWVFGelpCZWl0WXZ3dng5U1FXTFZZUVM5M3lfYkV3VVlHLTVOTVUwNUd1emYzbzFmOGM1UFlhLWc3R1ZCMGFTX0tvektOM0V0ZXVPRjByT08zc3puQldkdExFTm96a3p6Sno?oc=5",
@@ -158,5 +206,5 @@
       "pushedAt": "2026-03-29T14:05:36.094Z"
     }
   ],
-  "updatedAt": "2026-03-30T06:06:46.578Z"
+  "updatedAt": "2026-03-30T09:07:21.713Z"
 }
