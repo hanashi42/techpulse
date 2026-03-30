@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7396150b1ab4babc",
+      "title": "US menus change as Trump's tariffs hit wine prices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDIwUmYtMldMd3RESWJiOEJ2UGp1RXpWYUJ5YUZGNVJjT0d0bTZQbTYzbldHaTFOOXJFZ2QzaG14MUtsMTQxN2tjWXlBemt1Tzl6d2FwZTFQRFZ0aUZnX01SOW9XRGF1cGtxdnZ3MnBDdlNaOUVuSFVpc2l3U2JjaFFWTzY0Z013LTlhSFMzLWYzUFVWZkE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-03-30T11:38:06.246Z",
+      "pushedAt": "2026-03-30T11:38:06.246Z"
+    },
+    {
       "id": "dbe298295ae8067e",
       "title": "Morning Bid: It's a sad Strait of affairs as oil soars - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUt3WFdkQVhZVGZNazg1Q2RpdjNocGdHeGNoVHNENXcwYnBmUFphcEREQWxYOEwtcFdQSWxuYW5UUnh5T3dHclFabVlPRzYyZ1pvMWpKWVdOUmJUdF8zYjdPOEJpaE1SQ2p3MXY1SjR0TlRiQTgtN0luR3lsSG1sLU1raw?oc=5",
@@ -206,5 +218,5 @@
       "pushedAt": "2026-03-29T14:05:36.094Z"
     }
   ],
-  "updatedAt": "2026-03-30T09:07:21.713Z"
+  "updatedAt": "2026-03-30T11:38:06.387Z"
 }
