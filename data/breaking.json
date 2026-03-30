@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3665aa934305ebb0",
+      "title": "Trump says he has no problem with a Russian tanker bringing oil to Cuba despite US blockade - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWQtVkFiQS1Ic0pjN2dxcUplNmlKVzFNUUUtRDlnVnE3NTBNTWxaektLNGVhU3hNYjM2VEFQMU12TzVVa0lXMkEweC1wV25CRXlfNlQxWkd6dkl5ZHpTMmd0WVNSS1hLYU9nZkI4d0lLUXZpUHVCdFBrSnZLMmJqMHRIOE0tZUlUTjdMZTFHbXI4X2c1?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-03-30T22:03:37.860Z",
+      "pushedAt": "2026-03-30T22:03:37.860Z"
+    },
+    {
       "id": "3ff588c92faea6f2",
       "title": "At leat 70 people killed and 30 injured in Haiti gang attack",
       "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
@@ -207,5 +219,5 @@
       "pushedAt": "2026-03-29T23:18:36.116Z"
     }
   ],
-  "updatedAt": "2026-03-30T21:29:53.856Z"
+  "updatedAt": "2026-03-30T22:03:38.104Z"
 }
