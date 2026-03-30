@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fb28bb7313d45e42",
+      "title": "US stocks rise and recover some of their losses even as oil prices keep climbing - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjlXaktoUHhvcHZmaGh0ZFVnRGU0SE9qTG9ONnVscDRRczRXTGFOazJfaGQyOF9XVzVRRzg0eXBxWWhhaWdlRGpjVmpGZTJVak1aSWJxN2ZVRFhpRElTYWh6Q0dBRm9Rdy1zNm93bkRzTUtSRmhGT2tqRzdnRTAzLUEybkV4ckxrY1FFUWpGUzdqbnFrekU4?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-03-30T14:08:37.027Z",
+      "pushedAt": "2026-03-30T14:08:37.027Z"
+    },
+    {
       "id": "7396150b1ab4babc",
       "title": "US menus change as Trump's tariffs hit wine prices - Reuters",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDIwUmYtMldMd3RESWJiOEJ2UGp1RXpWYUJ5YUZGNVJjT0d0bTZQbTYzbldHaTFOOXJFZ2QzaG14MUtsMTQxN2tjWXlBemt1Tzl6d2FwZTFQRFZ0aUZnX01SOW9XRGF1cGtxdnZ3MnBDdlNaOUVuSFVpc2l3U2JjaFFWTzY0Z013LTlhSFMzLWYzUFVWZkE?oc=5",
@@ -204,19 +216,7 @@
       ],
       "firstSeen": "2026-03-29T14:47:02.893Z",
       "pushedAt": "2026-03-29T14:47:02.893Z"
-    },
-    {
-      "id": "a6f030bdbe1d0898",
-      "title": "State Of Emergency Declared In City In Russia's Dagestan Region Due To Heavy Rainfall - bernama.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSb3JaemVUSThRRW1QeWRndk9QRHVobXVyOGJLTDdVbENUYnFlX1hXaTY2Ym1aTVlaYVZhVml2VEtuUkNvXzdILW5xR1FaTHc4RVRUSg?oc=5",
-      "source": "Bernama",
-      "priority": "P0",
-      "matchedKeywords": [
-        "state of emergency declared"
-      ],
-      "firstSeen": "2026-03-29T14:05:36.094Z",
-      "pushedAt": "2026-03-29T14:05:36.094Z"
     }
   ],
-  "updatedAt": "2026-03-30T11:38:06.387Z"
+  "updatedAt": "2026-03-30T14:08:37.200Z"
 }
