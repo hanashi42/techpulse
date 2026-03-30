@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c3590271f7afec93",
+      "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+      "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-03-30T16:16:15.378Z",
+      "pushedAt": "2026-03-30T16:16:15.378Z"
+    },
+    {
       "id": "fb28bb7313d45e42",
       "title": "US stocks rise and recover some of their losses even as oil prices keep climbing - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjlXaktoUHhvcHZmaGh0ZFVnRGU0SE9qTG9ONnVscDRRczRXTGFOazJfaGQyOF9XVzVRRzg0eXBxWWhhaWdlRGpjVmpGZTJVak1aSWJxN2ZVRFhpRElTYWh6Q0dBRm9Rdy1zNm93bkRzTUtSRmhGT2tqRzdnRTAzLUEybkV4ckxrY1FFUWpGUzdqbnFrekU4?oc=5",
@@ -204,19 +216,7 @@
       ],
       "firstSeen": "2026-03-29T17:17:04.695Z",
       "pushedAt": "2026-03-29T17:17:04.695Z"
-    },
-    {
-      "id": "0fd0530d677d2264",
-      "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
-      "url": "https://www.cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-03-29T14:47:02.893Z",
-      "pushedAt": "2026-03-29T14:47:02.893Z"
     }
   ],
-  "updatedAt": "2026-03-30T14:08:37.200Z"
+  "updatedAt": "2026-03-30T16:16:15.665Z"
 }
