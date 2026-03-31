@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e3966b9d59d7088e",
+      "title": "Soaring fuel prices drive German far-right calls for a turn back to Russia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRFQzYUtGY3cxZjdlZnlKOTE4YzI3Wm1NX1EzeFpsbjRjeUN0ak9ZYkM0cXMwLUFaZ3FuOVI5NG1xQWladUphWEN1TmVwanR4MzZxLVIxTE9Ma2FIeV9jZ29ySmppTk56ZGdzQ1RJTHo1TFF2UmU0UGZkdmpReDRpM0Y4akZMd1ZUVnJBcjBGQkgxZHBPd0ZsYmpidmN2SGRNTXZhNEw2U01BSjVFQzFV?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-03-31T07:57:45.692Z",
+      "pushedAt": "2026-03-31T07:57:45.692Z"
+    },
+    {
+      "id": "3f894f39001e1bc8",
+      "title": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
+      "url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-03-31T07:57:45.957Z",
+      "pushedAt": "2026-03-31T07:57:45.957Z"
+    },
+    {
       "id": "1b206d08f9e20d6a",
       "title": "Airport bottlenecks ease as TSA workers get paid, but shutdown continues - AP News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaS04V1AxRnRQdlJVcTlYSnVRbEVUbVJ2MERaZzgyQjRqMDRKOFA4VGxObGhLZnYtWTVVcWtFbzhZSFVIWlFLNUFmVHdGbG9iT0F2YjFjX1o4OE1QSG1RejNrZFBVeTRlYkdNQkpGeTktN1d3b2lxa2NSNkRudGdaN0hEaE1QRHd4LTdHOEJ0c3ZnY3JFcFE?oc=5",
@@ -158,5 +182,5 @@
       "pushedAt": "2026-03-30T09:07:21.628Z"
     }
   ],
-  "updatedAt": "2026-03-31T06:49:33.721Z"
+  "updatedAt": "2026-03-31T07:57:46.176Z"
 }
