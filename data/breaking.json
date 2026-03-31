@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "888e1933ed3bff31",
+      "title": "Euro zone inflation smashes through ECB target to 2.5% in March as energy costs soar",
+      "url": "https://www.cnbc.com/2026/03/31/euro-zone-inflation-smashes-through-ecb-target-to-2point5percent-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + inflation"
+      ],
+      "firstSeen": "2026-03-31T09:50:49.323Z",
+      "pushedAt": "2026-03-31T09:50:49.323Z"
+    },
+    {
       "id": "e3966b9d59d7088e",
       "title": "Soaring fuel prices drive German far-right calls for a turn back to Russia - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRFQzYUtGY3cxZjdlZnlKOTE4YzI3Wm1NX1EzeFpsbjRjeUN0ak9ZYkM0cXMwLUFaZ3FuOVI5NG1xQWladUphWEN1TmVwanR4MzZxLVIxTE9Ma2FIeV9jZ29ySmppTk56ZGdzQ1RJTHo1TFF2UmU0UGZkdmpReDRpM0Y4akZMd1ZUVnJBcjBGQkgxZHBPd0ZsYmpidmN2SGRNTXZhNEw2U01BSjVFQzFV?oc=5",
@@ -132,55 +144,7 @@
       ],
       "firstSeen": "2026-03-30T11:38:06.246Z",
       "pushedAt": "2026-03-30T11:38:06.246Z"
-    },
-    {
-      "id": "dbe298295ae8067e",
-      "title": "Morning Bid: It's a sad Strait of affairs as oil soars - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeUt3WFdkQVhZVGZNazg1Q2RpdjNocGdHeGNoVHNENXcwYnBmUFphcEREQWxYOEwtcFdQSWxuYW5UUnh5T3dHclFabVlPRzYyZ1pvMWpKWVdOUmJUdF8zYjdPOEJpaE1SQ2p3MXY1SjR0TlRiQTgtN0luR3lsSG1sLU1raw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-03-30T09:07:21.006Z",
-      "pushedAt": "2026-03-30T09:07:21.006Z"
-    },
-    {
-      "id": "d9a8b92375fb1c06",
-      "title": "Three killed as unfinished building collapses on church service in Ghana",
-      "url": "https://www.bbc.com/news/articles/ckgex51zzd8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "collapses + building"
-      ],
-      "firstSeen": "2026-03-30T09:07:21.286Z",
-      "pushedAt": "2026-03-30T09:07:21.286Z"
-    },
-    {
-      "id": "348218c2b6755099",
-      "title": "China Sanctions Japanese Lawmaker Furuya - nippon.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mQnpCSng3Qnlqek1yc2JrelZXSGI2VEduaW04SzhlZzIwWXFGVk9BbDdkaXBhc3FSOU1XeElqRlE2bTdoN29RdGQ4TEZ2NkJRR0ttbENoVlJmR1Ix?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-03-30T09:07:21.538Z",
-      "pushedAt": "2026-03-30T09:07:21.538Z"
-    },
-    {
-      "id": "7d595955717aa50c",
-      "title": "IRAN LAUNCHED OVER 5,400 ATTACKS ON US BASES, CRITICAL SITES IN ARAB COUNTRIES IN A MONTH: DATA - bernama",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZMGxBUzFzZDIxREhCSC1jUG5FNjBSSUxNUGZFLV9YNGw2Z2ZjRnU3Xzc0eDhRaWJTQ3l1MFB6a1Atb0RzTFk1QnRiam4zUVAyTTdNRVBRVzEwZVU?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + base"
-      ],
-      "firstSeen": "2026-03-30T09:07:21.628Z",
-      "pushedAt": "2026-03-30T09:07:21.628Z"
     }
   ],
-  "updatedAt": "2026-03-31T07:57:46.176Z"
+  "updatedAt": "2026-03-31T09:50:49.644Z"
 }
