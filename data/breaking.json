@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "5d7cebc309a16cac",
+      "title": "OPEC oil output plunges in March as war forces export cuts, Reuters survey finds - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0lEUktqNms5SVRmWjJUOTB1MTMwd2wwcTJ6ZmYxOF9fVG1fSGhVQk9kTnhsbTlLY2NkNk9MbkVZQUdMckk0eVdwQUNBU2dMSDJ5bE0xekpDbDRydDVjM1dqNDhJT0E5TGZjQkJ0Vmp3Q1RJVklWdkhiZzFHT0NXSTlNWk9sUXhTZGpLMUxCdjV4VWM4RUVmTnRGUWtVWnotelN0WVU0aXBPY3JucnBCTHpiQW01VjloejhIOWthMjRoR1E?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + oil",
+        "opec + cut"
+      ],
+      "firstSeen": "2026-03-31T18:05:53.422Z",
+      "pushedAt": "2026-03-31T18:05:53.422Z"
+    },
+    {
       "id": "dd52464ac3bc4792",
       "title": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
       "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
@@ -107,44 +120,7 @@
       ],
       "firstSeen": "2026-03-30T19:15:34.844Z",
       "pushedAt": "2026-03-30T19:15:34.844Z"
-    },
-    {
-      "id": "e8a696e2188f5099",
-      "title": "Treasury yields slide as traders pare bets on Fed rate cuts",
-      "url": "https://www.cnbc.com/2026/03/30/us-treasury-yields-investors-look-ahead-to-busy-week-of-jobs-data.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate cut + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-03-30T17:12:34.183Z",
-      "pushedAt": "2026-03-30T17:12:34.183Z"
-    },
-    {
-      "id": "0fd0530d677d2264",
-      "title": "How the big oil and gas CEOs think the Iran war supply disruption will play out",
-      "url": "https://www.cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-03-30T17:12:34.349Z",
-      "pushedAt": "2026-03-30T17:12:34.349Z"
-    },
-    {
-      "id": "c3590271f7afec93",
-      "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
-      "url": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-03-30T16:16:15.378Z",
-      "pushedAt": "2026-03-30T16:16:15.378Z"
     }
   ],
-  "updatedAt": "2026-03-31T16:09:15.942Z"
+  "updatedAt": "2026-03-31T18:05:53.547Z"
 }
