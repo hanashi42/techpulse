@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "dff3a6bec8860109",
+      "title": "Nike earnings beat estimates despite tariff hit and uneven recovery in China, North America",
+      "url": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-03-31T20:46:00.370Z",
+      "pushedAt": "2026-03-31T20:46:00.370Z"
+    },
+    {
       "id": "5d7cebc309a16cac",
       "title": "OPEC oil output plunges in March as war forces export cuts, Reuters survey finds - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0lEUktqNms5SVRmWjJUOTB1MTMwd2wwcTJ6ZmYxOF9fVG1fSGhVQk9kTnhsbTlLY2NkNk9MbkVZQUdMckk0eVdwQUNBU2dMSDJ5bE0xekpDbDRydDVjM1dqNDhJT0E5TGZjQkJ0Vmp3Q1RJVklWdkhiZzFHT0NXSTlNWk9sUXhTZGpLMUxCdjV4VWM4RUVmTnRGUWtVWnotelN0WVU0aXBPY3JucnBCTHpiQW01VjloejhIOWthMjRoR1E?oc=5",
@@ -108,19 +120,7 @@
       ],
       "firstSeen": "2026-03-30T21:29:53.686Z",
       "pushedAt": "2026-03-30T21:29:53.686Z"
-    },
-    {
-      "id": "e6d029902c332721",
-      "title": "Syrian army says drone attacks targeted its bases near Iraq - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmJZSGNuczY4amZic0hGTFRQbFdyaFhtY24tTXZLNnFPbGprajllRmJ2TEIwSTF2cnRWZjVwSzd1ckloV0dWa0Y0dXgzQk9OR2YwdnlPdEx6WG9Zbm1CVVA5RUdXMHlfUlhJMVlGVkJQYlFlWXNNSVF1S0xrWmxUekVBcTQ4dFQ0ajVtRnJzSl9BQzkzZ2JSUTZ4WFk0QWRXUVhBemZORFNPdE1zVzlPVGtDUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + base"
-      ],
-      "firstSeen": "2026-03-30T19:15:34.844Z",
-      "pushedAt": "2026-03-30T19:15:34.844Z"
     }
   ],
-  "updatedAt": "2026-03-31T18:05:53.547Z"
+  "updatedAt": "2026-03-31T20:46:00.674Z"
 }
