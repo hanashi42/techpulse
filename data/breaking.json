@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "dd52464ac3bc4792",
+      "title": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
+      "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + thousand"
+      ],
+      "firstSeen": "2026-03-31T16:09:15.828Z",
+      "pushedAt": "2026-03-31T16:09:15.828Z"
+    },
+    {
       "id": "d9f410498602700f",
       "title": "Italy denies the US military use of its air bases to attack Iran",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/italy-denies-the-us-military-use-of-its-air-bases-to-attack-iran?traffic_source=rss",
@@ -132,31 +144,7 @@
       ],
       "firstSeen": "2026-03-30T16:16:15.378Z",
       "pushedAt": "2026-03-30T16:16:15.378Z"
-    },
-    {
-      "id": "fb28bb7313d45e42",
-      "title": "US stocks rise and recover some of their losses even as oil prices keep climbing - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjlXaktoUHhvcHZmaGh0ZFVnRGU0SE9qTG9ONnVscDRRczRXTGFOazJfaGQyOF9XVzVRRzg0eXBxWWhhaWdlRGpjVmpGZTJVak1aSWJxN2ZVRFhpRElTYWh6Q0dBRm9Rdy1zNm93bkRzTUtSRmhGT2tqRzdnRTAzLUEybkV4ckxrY1FFUWpGUzdqbnFrekU4?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-03-30T14:08:37.027Z",
-      "pushedAt": "2026-03-30T14:08:37.027Z"
-    },
-    {
-      "id": "7396150b1ab4babc",
-      "title": "US menus change as Trump's tariffs hit wine prices - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeDIwUmYtMldMd3RESWJiOEJ2UGp1RXpWYUJ5YUZGNVJjT0d0bTZQbTYzbldHaTFOOXJFZ2QzaG14MUtsMTQxN2tjWXlBemt1Tzl6d2FwZTFQRFZ0aUZnX01SOW9XRGF1cGtxdnZ3MnBDdlNaOUVuSFVpc2l3U2JjaFFWTzY0Z013LTlhSFMzLWYzUFVWZkE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-03-30T11:38:06.246Z",
-      "pushedAt": "2026-03-30T11:38:06.246Z"
     }
   ],
-  "updatedAt": "2026-03-31T11:31:53.436Z"
+  "updatedAt": "2026-03-31T16:09:15.942Z"
 }
