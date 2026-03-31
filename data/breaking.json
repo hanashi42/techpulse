@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1b206d08f9e20d6a",
+      "title": "Airport bottlenecks ease as TSA workers get paid, but shutdown continues - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaS04V1AxRnRQdlJVcTlYSnVRbEVUbVJ2MERaZzgyQjRqMDRKOFA4VGxObGhLZnYtWTVVcWtFbzhZSFVIWlFLNUFmVHdGbG9iT0F2YjFjX1o4OE1QSG1RejNrZFBVeTRlYkdNQkpGeTktN1d3b2lxa2NSNkRudGdaN0hEaE1QRHd4LTdHOEJ0c3ZnY3JFcFE?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-03-31T06:49:33.393Z",
+      "pushedAt": "2026-03-31T06:49:33.393Z"
+    },
+    {
       "id": "3665aa934305ebb0",
       "title": "Trump says he has no problem with a Russian tanker bringing oil to Cuba despite US blockade - AP News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWQtVkFiQS1Ic0pjN2dxcUplNmlKVzFNUUUtRDlnVnE3NTBNTWxaektLNGVhU3hNYjM2VEFQMU12TzVVa0lXMkEweC1wV25CRXlfNlQxWkd6dkl5ZHpTMmd0WVNSS1hLYU9nZkI4d0lLUXZpUHVCdFBrSnZLMmJqMHRIOE0tZUlUTjdMZTFHbXI4X2c1?oc=5",
@@ -144,80 +156,7 @@
       ],
       "firstSeen": "2026-03-30T09:07:21.628Z",
       "pushedAt": "2026-03-30T09:07:21.628Z"
-    },
-    {
-      "id": "97f0e33807a126dc",
-      "title": "Gold firms on softer dollar, but dimming Fed rate-cut hopes cap rise - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWdTRm5fRWl6eXRlRUxTTEZqYVA3MWZzcmdQSzlMZ1RvcGtTOGdqMmhxTGVTODhsSHhuQWR0UDNXYVVGTUNYWVFGelpCZWl0WXZ3dng5U1FXTFZZUVM5M3lfYkV3VVlHLTVOTVUwNUd1emYzbzFmOGM1UFlhLWc3R1ZCMGFTX0tvektOM0V0ZXVPRjByT08zc3puQldkdExFTm96a3p6Sno?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-03-30T06:06:46.056Z",
-      "pushedAt": "2026-03-30T06:06:46.056Z"
-    },
-    {
-      "id": "d87b8a165f8edc88",
-      "title": "In Australia, Victoria and Tasmania Waive Transit Fares as Fuel Prices Soar",
-      "url": "https://www.nytimes.com/2026/03/30/world/australia/australia-melbourne-free-transit.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-03-30T06:06:46.326Z",
-      "pushedAt": "2026-03-30T06:06:46.326Z"
-    },
-    {
-      "id": "16d18716e46dde8a",
-      "title": "UNIFIL says one peacekeeper killed, one critically injured in southern Lebanon explosion - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmlHVk1vMEtvV3g1NHM1VElNM1ByYVRUekV0Y3o2alE3czltaVdoNnlEazUzb3dTeWRNcksybEZiRVZxMGtBRk81YndqYmd3Zkh2RjlEejByUGdTY3J1Q2txdkRxQV8yZDJmeC1vcjVGNEJfc1NicXlDa3M1cVRXRkhuVC1UTEFfSHNkME5WZUxzNllnTFp2dUhkTDdsc04zbnotMExRV09Na3FqTXdJOFkxMlljRWNfdU8xVU5HZWwwRm1ySlFJ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + killed"
-      ],
-      "firstSeen": "2026-03-30T04:13:12.711Z",
-      "pushedAt": "2026-03-30T04:13:12.711Z"
-    },
-    {
-      "id": "b4250413490fcc18",
-      "title": "Oil soars with Brent heading for record monthly surge as Trump reportedly eyes Iran energy control",
-      "url": "https://www.cnbc.com/2026/03/30/oil-price-today-wti-brent-yemen-houthis-israel-iran-war.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "soar + oil"
-      ],
-      "firstSeen": "2026-03-30T04:13:12.871Z",
-      "pushedAt": "2026-03-30T04:13:12.871Z"
-    },
-    {
-      "id": "8312869b84c0a948",
-      "title": "Indian worker killed in Iranian attack on Kuwait power, desalination plant - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3hpa0lfb3B2VWpLc09CQVRValprYTJoT0hwNHBGTFJnWHVld1RrUktQTUxMNFhLTEp3RlVtdFhwUjdoWlA2d0l1RzJHS2cyQjVvRWd0RVhZbTY3WDZkeFpnMHVXMXNQclRjYnRnenRzVGxxaXhBYzdNMGhjeEhIT1MyekptQ05NT1dibHdUZGhwU3M4c2s1WTV5aktENVphdERxR0lqZ0VPVmt6Vy1wM0NxYWZKUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-30T01:05:52.060Z",
-      "pushedAt": "2026-03-30T01:05:52.060Z"
-    },
-    {
-      "id": "ac49154808fa67b5",
-      "title": "Oil prices jump after Yemeni Houthis attack Israel, widening Iran conflict - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkZvZ3BaenZ6c2RiV2tKZGwxZ3dyc2VxZVlnelR2QU5LOEhDWDd4aFhTX0RCVWROc1VXQjlpQWdhWHpGU2kwVVBOMFlzMzdJRGdzUnEwVXg1clZzUWN2SGpWVWVYUkEwalBCOFlFMTBrVjN6LU1pWGczdHc1MjdSTHJ5RTRtMkZydjRaa2lDN0dmQnZZYTd5SzVrdDI1Q3pUR3pTSlFzcHdDOVhTQkpmN2lZeFR5bUtKVVVsYm1aT184Mmc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-03-29T23:18:36.116Z",
-      "pushedAt": "2026-03-29T23:18:36.116Z"
     }
   ],
-  "updatedAt": "2026-03-30T22:03:38.104Z"
+  "updatedAt": "2026-03-31T06:49:33.721Z"
 }
