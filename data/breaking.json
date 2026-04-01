@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f3c58730e8c33355",
+      "title": "IEA warns Middle East oil disruptions set to hit Europe in April - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmpTTEFRWFR0dmJKYjBvaURaLVh4MW9vVklPVEU5ZGp0X01yYWp6dDQ3bzh6bU9zaHlkQW1zaUVqcEJnWnlfZ2VGQnJWZ0hHYlN6Tm42LUtqUG8tdmZ5OHNGX2FJM3VlWkFIQWlpYUxfdUlYT1BvYXlQb3hIS24yZ0h1TTZtZTJ5ZmpMaXVMZF9KZ2ZnQWpPY2lVck1UZ1NCRkZpZUNnX2RmaVJLdEg1eWRQVUJPbTF2N2tDekRNYUE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-04-01T14:02:21.973Z",
+      "pushedAt": "2026-04-01T14:02:21.973Z"
+    },
+    {
+      "id": "2583ddb0b8567e1c",
+      "title": "China was ready for an oil shock and now investors are reaping the rewards - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNFFmcFU3b2hwNmdQOU9KWlFFM0JDczViS2NkcW0wVGt5MGxRSXVtRmpsbGI3NTZlUlFlX0I1eDUtbGZ6c3UwaV9saHpSMkVPOVlCOWF2YWY4SmVHS0JlZkM4MmJFMWs2cGlMeFFmcjE3Y1FHOWFWUzhwVlhNTTF6S1RWOG92ME94UjVJSXhzeGdSM1JwWDUtZnJyT2RpUXVhOXFwNGpKTURreHZTWlJNcE9iOXFRTTFt?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-04-01T14:02:22.075Z",
+      "pushedAt": "2026-04-01T14:02:22.075Z"
+    },
+    {
       "id": "ca4aab66eeefe4c8",
       "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
       "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
@@ -133,31 +157,7 @@
       ],
       "firstSeen": "2026-03-31T16:09:15.828Z",
       "pushedAt": "2026-03-31T16:09:15.828Z"
-    },
-    {
-      "id": "d9f410498602700f",
-      "title": "Italy denies the US military use of its air bases to attack Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/italy-denies-the-us-military-use-of-its-air-bases-to-attack-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-03-31T11:31:53.186Z",
-      "pushedAt": "2026-03-31T11:31:53.186Z"
-    },
-    {
-      "id": "888e1933ed3bff31",
-      "title": "Euro zone inflation smashes through ECB target to 2.5% in March as energy costs soar",
-      "url": "https://www.cnbc.com/2026/03/31/euro-zone-inflation-smashes-through-ecb-target-to-2point5percent-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + inflation"
-      ],
-      "firstSeen": "2026-03-31T09:50:49.323Z",
-      "pushedAt": "2026-03-31T09:50:49.323Z"
     }
   ],
-  "updatedAt": "2026-04-01T09:38:49.987Z"
+  "updatedAt": "2026-04-01T14:02:22.124Z"
 }
