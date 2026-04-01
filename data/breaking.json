@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3ff588c92faea6f2",
+      "title": "At least 70 people killed and 30 injured in Haiti gang attack",
+      "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-01T05:36:15.914Z",
+      "pushedAt": "2026-04-01T05:36:15.914Z"
+    },
+    {
       "id": "f1a2b02c4a0b4b8b",
       "title": "Asia markets rally on optimism Iran war could end soon - Reuters",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5VW9TZlFwYjJuQzY5Ui01ZGxTaWpZVGw0emx5UHlNanE4LXNUOGJtRVg3UDhOLWg3RkF3anN4SnVldkQ0OHFJVmpsbzRMcUhnSnFiSWZtODVIcHY2ME9SMHFyQzEyQWxmVUg5ZEk0R1dZZWctRjlkUkFxYw?oc=5",
@@ -122,5 +134,5 @@
       "pushedAt": "2026-03-31T06:49:33.393Z"
     }
   ],
-  "updatedAt": "2026-04-01T03:35:57.656Z"
+  "updatedAt": "2026-04-01T05:36:16.321Z"
 }
