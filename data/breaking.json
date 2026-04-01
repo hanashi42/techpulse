@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f1a2b02c4a0b4b8b",
+      "title": "Asia markets rally on optimism Iran war could end soon - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5VW9TZlFwYjJuQzY5Ui01ZGxTaWpZVGw0emx5UHlNanE4LXNUOGJtRVg3UDhOLWg3RkF3anN4SnVldkQ0OHFJVmpsbzRMcUhnSnFiSWZtODVIcHY2ME9SMHFyQzEyQWxmVUg5ZEk0R1dZZWctRjlkUkFxYw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + market"
+      ],
+      "firstSeen": "2026-04-01T03:35:56.951Z",
+      "pushedAt": "2026-04-01T03:35:56.951Z"
+    },
+    {
+      "id": "1aed3f52cdb82e4a",
+      "title": "Emergency workers search for victims of Israeli airstrikes on Beirut",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/emergency-workers-search-for-victims-of-israeli-airstrikes-on-beirut?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "airstrikes on"
+      ],
+      "firstSeen": "2026-04-01T03:35:57.402Z",
+      "pushedAt": "2026-04-01T03:35:57.402Z"
+    },
+    {
       "id": "dff3a6bec8860109",
       "title": "Nike earnings beat estimates despite tariff hit and uneven recovery in China, North America",
       "url": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
@@ -96,31 +120,7 @@
       ],
       "firstSeen": "2026-03-31T06:49:33.393Z",
       "pushedAt": "2026-03-31T06:49:33.393Z"
-    },
-    {
-      "id": "3665aa934305ebb0",
-      "title": "Trump says he has no problem with a Russian tanker bringing oil to Cuba despite US blockade - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWQtVkFiQS1Ic0pjN2dxcUplNmlKVzFNUUUtRDlnVnE3NTBNTWxaektLNGVhU3hNYjM2VEFQMU12TzVVa0lXMkEweC1wV25CRXlfNlQxWkd6dkl5ZHpTMmd0WVNSS1hLYU9nZkI4d0lLUXZpUHVCdFBrSnZLMmJqMHRIOE0tZUlUTjdMZTFHbXI4X2c1?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-03-30T22:03:37.860Z",
-      "pushedAt": "2026-03-30T22:03:37.860Z"
-    },
-    {
-      "id": "3ff588c92faea6f2",
-      "title": "At leat 70 people killed and 30 injured in Haiti gang attack",
-      "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-03-30T21:29:53.686Z",
-      "pushedAt": "2026-03-30T21:29:53.686Z"
     }
   ],
-  "updatedAt": "2026-03-31T20:46:00.674Z"
+  "updatedAt": "2026-04-01T03:35:57.656Z"
 }
