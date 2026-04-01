@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "00ad34519d5faf65",
+      "title": "Tokyo buildings shaken by magnitude 5 earthquake; no tsunami warning - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV2tUOF9OTS1LTkN2MkhIbE9qVmJacUQzeC1fTHhTSVh4X1dXTEJiQ0lCQlM3Si1OU0VrVERMcG81R2V5ZHhYc2ppVnlGVms1VnVQTXhpSmNlRDFUaXRpZEQtMVNxZUxqMndDczROTnV2MERyellGSUQtZ1JhQmNyUWl2V3pIYUhLWEJJRVV0Nlc2LWtyN2hneWgwX1pZNGQwckxORHFra0VoZ01OZExULTBKYkhzalJxSTA4UUM0T3oyQQ?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "tsunami warning"
+      ],
+      "firstSeen": "2026-04-01T07:02:46.422Z",
+      "pushedAt": "2026-04-01T07:02:46.422Z"
+    },
+    {
+      "id": "921703022700b046",
+      "title": "Oil prices plunge over 3% in volatile trading as investors assess Trump comments on Iran war exit",
+      "url": "https://www.cnbc.com/2026/04/01/oil-prices-today-brent-wti.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + oil",
+        "oil price + plunge"
+      ],
+      "firstSeen": "2026-04-01T07:02:46.569Z",
+      "pushedAt": "2026-04-01T07:02:46.569Z"
+    },
+    {
       "id": "3ff588c92faea6f2",
       "title": "At least 70 people killed and 30 injured in Haiti gang attack",
       "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
@@ -120,19 +145,7 @@
       ],
       "firstSeen": "2026-03-31T07:57:45.957Z",
       "pushedAt": "2026-03-31T07:57:45.957Z"
-    },
-    {
-      "id": "1b206d08f9e20d6a",
-      "title": "Airport bottlenecks ease as TSA workers get paid, but shutdown continues - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaS04V1AxRnRQdlJVcTlYSnVRbEVUbVJ2MERaZzgyQjRqMDRKOFA4VGxObGhLZnYtWTVVcWtFbzhZSFVIWlFLNUFmVHdGbG9iT0F2YjFjX1o4OE1QSG1RejNrZFBVeTRlYkdNQkpGeTktN1d3b2lxa2NSNkRudGdaN0hEaE1QRHd4LTdHOEJ0c3ZnY3JFcFE?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-03-31T06:49:33.393Z",
-      "pushedAt": "2026-03-31T06:49:33.393Z"
     }
   ],
-  "updatedAt": "2026-04-01T05:36:16.321Z"
+  "updatedAt": "2026-04-01T07:02:46.608Z"
 }
