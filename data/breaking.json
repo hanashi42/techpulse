@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ca4aab66eeefe4c8",
+      "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
+      "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-04-01T09:38:49.891Z",
+      "pushedAt": "2026-04-01T09:38:49.891Z"
+    },
+    {
       "id": "13173019eda3b2ee",
       "title": "Kuwait says Iran drone attack sets airport fuel tanks ablaze, no casualties - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVgzNGJoVTc2X2RBUUViamFfTFZLbjhvOUMzVmNlWjVwWmF1ZkU0MTJYVnZQN04ySEZpb0JnektYOXJpeFNDNnV5SVkzUDRGZXZZelMxV1JHYXB1aVBCX1BrcWFGNC1ubUM3bVdIZnIwUHJSekZhRjVPVmlaQmZVN3dYWHJfZ3FjVnRfQ3VRODY1OTd6ZjNYcEtCLVVXdnVwZnlhSkZZMFA4Zks5MXVaT1VCMFlPblZJN0pKT2d3UEtjaC1mc0V3?oc=5",
@@ -147,5 +159,5 @@
       "pushedAt": "2026-03-31T09:50:49.323Z"
     }
   ],
-  "updatedAt": "2026-04-01T08:19:28.247Z"
+  "updatedAt": "2026-04-01T09:38:49.987Z"
 }
