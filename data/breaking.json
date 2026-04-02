@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "95b945daf65cc9df",
+      "title": "Hopes dim for swift end to Iran war after Trump speech, oil prices surge anew - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclFYSC10dV9USHVJSkFHbk5lZzk3U2daVHJPOWFwNnNsajFua2RQMzVfamRIOVR3dmRLUlI2Q2JlcDM5Z2g1MnNwcTM3VUFuS05PMjI5OGFMUGV6azlOenFvRnZtY2hvNkZaZTBYTFhVVDBidkFrUVVvYVY3elN2amxwLS1iNDBrVlVYcDRCdzBFbVlJcEp5SlFoOG0xZ0JfSnQxY215ekVhR0ZKSm9BZFRkdEx0LU0zeEsydDVvb3lRZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-04-02T09:41:38.009Z",
+      "pushedAt": "2026-04-02T09:41:38.009Z"
+    },
+    {
+      "id": "3ff588c92faea6f2",
+      "title": "At least 70 people killed and 30 injured in Haiti gang attack",
+      "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-02T09:41:38.290Z",
+      "pushedAt": "2026-04-02T09:41:38.290Z"
+    },
+    {
+      "id": "403b42a223753bd9",
+      "title": "A year on: Four ways Trump's tariffs have changed the global economy - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NcTJmTVo3ajMtLXFDTUw1bEVKbVd3UHh6MTdxb2NrQl9BNGxMN1NlRjUwXzdlT0ZWd3pKeE4wUlQ3dHRObGc0aVZZbzJMbXBnTWg2V0M1VHd4Zw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-04-02T09:41:38.461Z",
+      "pushedAt": "2026-04-02T09:41:38.461Z"
+    },
+    {
       "id": "01a9ce2e0389efb1",
       "title": "European stocks plunge as tech sector faces worst day since February 3",
       "url": "https://www.cnbc.com/2026/04/02/europe-stock-market-ftse-stoxx-trump-iran-pharma-tariffs.html",
@@ -71,19 +108,7 @@
       ],
       "firstSeen": "2026-04-01T14:02:22.075Z",
       "pushedAt": "2026-04-01T14:02:22.075Z"
-    },
-    {
-      "id": "ca4aab66eeefe4c8",
-      "title": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds",
-      "url": "https://www.bbc.com/news/articles/c05d7md899ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + killed"
-      ],
-      "firstSeen": "2026-04-01T09:38:49.891Z",
-      "pushedAt": "2026-04-01T09:38:49.891Z"
     }
   ],
-  "updatedAt": "2026-04-02T08:40:55.799Z"
+  "updatedAt": "2026-04-02T09:41:38.530Z"
 }
