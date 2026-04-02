@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f2a327d597dcf6a5",
+      "title": "Trump unveils 100-percent tariff on drugs to push for pharmaceutical deals",
+      "url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-04-02T23:45:52.531Z",
+      "pushedAt": "2026-04-02T23:45:52.531Z"
+    },
+    {
       "id": "687e12a050964794",
       "title": "Russia sending second ship with oil to Cuba amid US blockade",
       "url": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss",
@@ -182,5 +194,5 @@
       "pushedAt": "2026-04-02T03:45:42.875Z"
     }
   ],
-  "updatedAt": "2026-04-02T21:34:13.391Z"
+  "updatedAt": "2026-04-02T23:45:52.776Z"
 }
