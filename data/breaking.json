@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "01a9ce2e0389efb1",
+      "title": "European stocks plunge as tech sector faces worst day since February 3",
+      "url": "https://www.cnbc.com/2026/04/02/europe-stock-market-ftse-stoxx-trump-iran-pharma-tariffs.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock"
+      ],
+      "firstSeen": "2026-04-02T08:40:55.655Z",
+      "pushedAt": "2026-04-02T08:40:55.655Z"
+    },
+    {
       "id": "aa2b985cc005274b",
       "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
       "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
@@ -71,68 +83,7 @@
       ],
       "firstSeen": "2026-04-01T09:38:49.891Z",
       "pushedAt": "2026-04-01T09:38:49.891Z"
-    },
-    {
-      "id": "13173019eda3b2ee",
-      "title": "Kuwait says Iran drone attack sets airport fuel tanks ablaze, no casualties - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVgzNGJoVTc2X2RBUUViamFfTFZLbjhvOUMzVmNlWjVwWmF1ZkU0MTJYVnZQN04ySEZpb0JnektYOXJpeFNDNnV5SVkzUDRGZXZZelMxV1JHYXB1aVBCX1BrcWFGNC1ubUM3bVdIZnIwUHJSekZhRjVPVmlaQmZVN3dYWHJfZ3FjVnRfQ3VRODY1OTd6ZjNYcEtCLVVXdnVwZnlhSkZZMFA4Zks5MXVaT1VCMFlPblZJN0pKT2d3UEtjaC1mc0V3?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + casualties"
-      ],
-      "firstSeen": "2026-04-01T08:19:27.979Z",
-      "pushedAt": "2026-04-01T08:19:27.979Z"
-    },
-    {
-      "id": "b951c905787760ec",
-      "title": "India raises jet fuel, commercial LPG prices as Mideast crisis drives global surge - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVlyMTdieUo0c28wZTNYMlNMNVpOOExGU19jZE9ZV3ZreHFnWVBnYktXY0ozeTZqVkRtb0pDNFN6YlEwbnJ5RWtQSFppWkJIc2NaNDdyeVRzdkZ4SnduMk5qSVQ2VnZOb055NHl3bnBEeURHZEdtbVlnV3FrdmVVNDBiemI0OEExWUhLODk3QmpCdTdjNUFiU2VVOXYwb1FITDRfTFp0cw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + price"
-      ],
-      "firstSeen": "2026-04-01T08:19:28.120Z",
-      "pushedAt": "2026-04-01T08:19:28.120Z"
-    },
-    {
-      "id": "00ad34519d5faf65",
-      "title": "Tokyo buildings shaken by magnitude 5 earthquake; no tsunami warning - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV2tUOF9OTS1LTkN2MkhIbE9qVmJacUQzeC1fTHhTSVh4X1dXTEJiQ0lCQlM3Si1OU0VrVERMcG81R2V5ZHhYc2ppVnlGVms1VnVQTXhpSmNlRDFUaXRpZEQtMVNxZUxqMndDczROTnV2MERyellGSUQtZ1JhQmNyUWl2V3pIYUhLWEJJRVV0Nlc2LWtyN2hneWgwX1pZNGQwckxORHFra0VoZ01OZExULTBKYkhzalJxSTA4UUM0T3oyQQ?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "tsunami warning"
-      ],
-      "firstSeen": "2026-04-01T07:02:46.422Z",
-      "pushedAt": "2026-04-01T07:02:46.422Z"
-    },
-    {
-      "id": "921703022700b046",
-      "title": "Oil prices plunge over 3% in volatile trading as investors assess Trump comments on Iran war exit",
-      "url": "https://www.cnbc.com/2026/04/01/oil-prices-today-brent-wti.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + oil",
-        "oil price + plunge"
-      ],
-      "firstSeen": "2026-04-01T07:02:46.569Z",
-      "pushedAt": "2026-04-01T07:02:46.569Z"
-    },
-    {
-      "id": "3ff588c92faea6f2",
-      "title": "At least 70 people killed and 30 injured in Haiti gang attack",
-      "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-01T05:36:15.914Z",
-      "pushedAt": "2026-04-01T05:36:15.914Z"
     }
   ],
-  "updatedAt": "2026-04-02T05:24:30.805Z"
+  "updatedAt": "2026-04-02T08:40:55.799Z"
 }
