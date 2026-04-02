@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "687e12a050964794",
+      "title": "Russia sending second ship with oil to Cuba amid US blockade",
+      "url": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-04-02T21:34:12.863Z",
+      "pushedAt": "2026-04-02T21:34:12.863Z"
+    },
+    {
+      "id": "4245bf3039a3b238",
+      "title": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis",
+      "url": "https://www.cnbc.com/2026/04/02/dated-brent-oil-price-actual-cargo-highest-level-2008.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + oil"
+      ],
+      "firstSeen": "2026-04-02T21:34:13.132Z",
+      "pushedAt": "2026-04-02T21:34:13.132Z"
+    },
+    {
       "id": "1ad0477552070a96",
       "title": "Drugmakers face 100% tariff unless they cut prices or produce drugs in US - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdUQ5VURXMUcxaFM0SFdKQlA1WDZHZlZIeFRvazhkZnUwZUVWXzcxTGpSUUdqT2VtVXUxWEdIM0hRQXNEWnJsYkdGX09uc2UxcW9BWXE1R3l0c2dyaC1XQ2w5SjdCUVlwZEd3NkVzWDhZa2RnbW1kaDEzWC05ajBXTUhUNldyZ3U2N1ItV1VweFc2Z0dqek5mZGRSU2QyYUZtT1l2ZTAzQ19vbGlRN0U0OGlWanVpaERZU1FWQmYtWHA1bWxPbDJtdjMxMkdhWkVfWkFFbHVyY1B0UUVneHc?oc=5",
@@ -158,5 +182,5 @@
       "pushedAt": "2026-04-02T03:45:42.875Z"
     }
   ],
-  "updatedAt": "2026-04-02T20:58:04.589Z"
+  "updatedAt": "2026-04-02T21:34:13.391Z"
 }
