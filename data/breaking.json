@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3c686a4a006224bc",
+      "title": "Four children killed in nursery school stabbing attack in Uganda",
+      "url": "https://www.aljazeera.com/news/2026/4/2/four-children-killed-in-school-stabbing-attack-in-uganda?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-02T13:48:47.187Z",
+      "pushedAt": "2026-04-02T13:48:47.187Z"
+    },
+    {
       "id": "cdd465407848fba1",
       "title": "Magnitude 5 earthquake strikes Brookdale, California region, USGS says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmNnclFvQ3dfcGNQdm5QRGZKdXdJNkEzZUNYVFZxZldRU3YyVmotQlBoX3J1QUcwLWxMRXpfSFhSZGlKaTNfUGVVd0FaMW1fc3lpRjlPaExtMHlCanFEQlVwQUZOQm9XRVgwWGExelRjR2JzM2s5S1ljdllCU0dwRTVXcnNWaktGeGU0MEdfR0d5ZWxLaU5MZmtiY3dDbGZheG5DamNkY2hTQ1kwbFhlRDZEcUdhVGFFY0NFaFJHUDE5M2c?oc=5",
@@ -122,5 +134,5 @@
       "pushedAt": "2026-04-01T14:02:22.075Z"
     }
   ],
-  "updatedAt": "2026-04-02T10:34:52.364Z"
+  "updatedAt": "2026-04-02T13:48:47.427Z"
 }
