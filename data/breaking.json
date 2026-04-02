@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "cdd465407848fba1",
+      "title": "Magnitude 5 earthquake strikes Brookdale, California region, USGS says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmNnclFvQ3dfcGNQdm5QRGZKdXdJNkEzZUNYVFZxZldRU3YyVmotQlBoX3J1QUcwLWxMRXpfSFhSZGlKaTNfUGVVd0FaMW1fc3lpRjlPaExtMHlCanFEQlVwQUZOQm9XRVgwWGExelRjR2JzM2s5S1ljdllCU0dwRTVXcnNWaktGeGU0MEdfR0d5ZWxLaU5MZmtiY3dDbGZheG5DamNkY2hTQ1kwbFhlRDZEcUdhVGFFY0NFaFJHUDE5M2c?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-04-02T10:34:51.184Z",
+      "pushedAt": "2026-04-02T10:34:51.184Z"
+    },
+    {
       "id": "95b945daf65cc9df",
       "title": "Hopes dim for swift end to Iran war after Trump speech, oil prices surge anew - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclFYSC10dV9USHVJSkFHbk5lZzk3U2daVHJPOWFwNnNsajFua2RQMzVfamRIOVR3dmRLUlI2Q2JlcDM5Z2g1MnNwcTM3VUFuS05PMjI5OGFMUGV6azlOenFvRnZtY2hvNkZaZTBYTFhVVDBidkFrUVVvYVY3elN2amxwLS1iNDBrVlVYcDRCdzBFbVlJcEp5SlFoOG0xZ0JfSnQxY215ekVhR0ZKSm9BZFRkdEx0LU0zeEsydDVvb3lRZw?oc=5",
@@ -110,5 +122,5 @@
       "pushedAt": "2026-04-01T14:02:22.075Z"
     }
   ],
-  "updatedAt": "2026-04-02T09:41:38.530Z"
+  "updatedAt": "2026-04-02T10:34:52.364Z"
 }
