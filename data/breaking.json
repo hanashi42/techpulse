@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "aa2b985cc005274b",
+      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+      "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "magnitude 7"
+      ],
+      "firstSeen": "2026-04-02T05:24:30.668Z",
+      "pushedAt": "2026-04-02T05:24:30.668Z"
+    },
+    {
       "id": "54cd0c85d9dae840",
       "title": "Trump administration readies new tariffs on select drugmakers, Bloomberg News reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM1lTejhtQ1lHRlVaX1IzY0pEVkNzQVJrUVRmOXNRSHcyVkhhdWRzSjU1YWk2NmZLZWtMNml4d3ZJN2N5aTVTU3UtN0hfV3RGdHZZbmkzOGk1TEJvZmNUbGdpQjNJRjVHYXJsTVd0Y0F6aWRTcDVlV1J0S1JTdjU1YkdvM0JJVUxjZmFNTGdhZE5NcXI2ZHBNYWtRTmhGaXhIOVNMMnJTNFVSanQ5aXMxbTE5clU2V0FiaEN1T1IwSnV5eVBCWHhyZ1VLYUFCYjZjYnlqMHRLUmdpNDI4aEE?oc=5",
@@ -122,5 +134,5 @@
       "pushedAt": "2026-04-01T05:36:15.914Z"
     }
   ],
-  "updatedAt": "2026-04-02T03:45:42.962Z"
+  "updatedAt": "2026-04-02T05:24:30.805Z"
 }
