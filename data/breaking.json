@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3e8b0a61665d30ff",
+      "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
+      "url": "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "stablecoin + regulat"
+      ],
+      "firstSeen": "2026-04-02T19:11:29.459Z",
+      "pushedAt": "2026-04-02T19:11:29.459Z"
+    },
+    {
       "id": "a2c8b47c2297873d",
       "title": "Britain says 40 countries discuss reopening Strait of Hormuz after Iran blockade - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2wteXFwajNBQUdCX0xBSmZ2bi02Nld6dERJODNsQVozQVgxVzhxTDlkdXNBN0dWby1lSGpxWjJ0YTF0OHdSRFY0M1RXUEJJWHNiWlZRcDNhUF9MUTdhMEVHWW9qZGR6SkhpcGwyNmRKZHlGR2ZwMHNuS2VIa3pFVmw3cUFxX1BkQlctRnRuNzV5YXRSTlVKeEY0dk15RklyM0RCQjNfUlJnX1pMZ3g5NmxOTjVrVHI3Z3RIV28xRW8?oc=5",
@@ -134,5 +146,5 @@
       "pushedAt": "2026-04-02T03:45:42.875Z"
     }
   ],
-  "updatedAt": "2026-04-02T16:35:39.362Z"
+  "updatedAt": "2026-04-02T19:11:29.710Z"
 }
