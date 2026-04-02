@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "54cd0c85d9dae840",
+      "title": "Trump administration readies new tariffs on select drugmakers, Bloomberg News reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM1lTejhtQ1lHRlVaX1IzY0pEVkNzQVJrUVRmOXNRSHcyVkhhdWRzSjU1YWk2NmZLZWtMNml4d3ZJN2N5aTVTU3UtN0hfV3RGdHZZbmkzOGk1TEJvZmNUbGdpQjNJRjVHYXJsTVd0Y0F6aWRTcDVlV1J0S1JTdjU1YkdvM0JJVUxjZmFNTGdhZE5NcXI2ZHBNYWtRTmhGaXhIOVNMMnJTNFVSanQ5aXMxbTE5clU2V0FiaEN1T1IwSnV5eVBCWHhyZ1VLYUFCYjZjYnlqMHRLUmdpNDI4aEE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-04-02T03:45:42.875Z",
+      "pushedAt": "2026-04-02T03:45:42.875Z"
+    },
+    {
       "id": "31b0adc4bf0f90db",
       "title": "Nike stock tumbles as weakness in China, high oil prices weigh on outlook - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTUJGZHRfNVFDZ1VEWEhjRFUyd1U5NV8tY0R0YmthamppeGlmenRDNDlMMW13QTZacXJhWEJ4WGxoUVF1eEItU2hNRDQ1RURNenRxdnBGZzlMM1A3MU1fcDJMdUUxWkZRc1NLS1VwTUNzV0JlMVBndnBqOEU2UHRLaWo1cHdMNXNISFEzbUxETDJVbFBRc0pFRVZuajFQdHJOaERpRDlZSUE4cHp6UEtpUjJMLXZFVzFBbnc?oc=5",
@@ -108,68 +120,7 @@
       ],
       "firstSeen": "2026-04-01T05:36:15.914Z",
       "pushedAt": "2026-04-01T05:36:15.914Z"
-    },
-    {
-      "id": "f1a2b02c4a0b4b8b",
-      "title": "Asia markets rally on optimism Iran war could end soon - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5VW9TZlFwYjJuQzY5Ui01ZGxTaWpZVGw0emx5UHlNanE4LXNUOGJtRVg3UDhOLWg3RkF3anN4SnVldkQ0OHFJVmpsbzRMcUhnSnFiSWZtODVIcHY2ME9SMHFyQzEyQWxmVUg5ZEk0R1dZZWctRjlkUkFxYw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + market"
-      ],
-      "firstSeen": "2026-04-01T03:35:56.951Z",
-      "pushedAt": "2026-04-01T03:35:56.951Z"
-    },
-    {
-      "id": "1aed3f52cdb82e4a",
-      "title": "Emergency workers search for victims of Israeli airstrikes on Beirut",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/emergency-workers-search-for-victims-of-israeli-airstrikes-on-beirut?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "airstrikes on"
-      ],
-      "firstSeen": "2026-04-01T03:35:57.402Z",
-      "pushedAt": "2026-04-01T03:35:57.402Z"
-    },
-    {
-      "id": "dff3a6bec8860109",
-      "title": "Nike earnings beat estimates despite tariff hit and uneven recovery in China, North America",
-      "url": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-03-31T20:46:00.370Z",
-      "pushedAt": "2026-03-31T20:46:00.370Z"
-    },
-    {
-      "id": "5d7cebc309a16cac",
-      "title": "OPEC oil output plunges in March as war forces export cuts, Reuters survey finds - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0lEUktqNms5SVRmWjJUOTB1MTMwd2wwcTJ6ZmYxOF9fVG1fSGhVQk9kTnhsbTlLY2NkNk9MbkVZQUdMckk0eVdwQUNBU2dMSDJ5bE0xekpDbDRydDVjM1dqNDhJT0E5TGZjQkJ0Vmp3Q1RJVklWdkhiZzFHT0NXSTlNWk9sUXhTZGpLMUxCdjV4VWM4RUVmTnRGUWtVWnotelN0WVU0aXBPY3JucnBCTHpiQW01VjloejhIOWthMjRoR1E?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + oil",
-        "opec + cut"
-      ],
-      "firstSeen": "2026-03-31T18:05:53.422Z",
-      "pushedAt": "2026-03-31T18:05:53.422Z"
-    },
-    {
-      "id": "dd52464ac3bc4792",
-      "title": "Oracle cutting thousands in latest layoff round as company continues to ramp AI spending",
-      "url": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + thousand"
-      ],
-      "firstSeen": "2026-03-31T16:09:15.828Z",
-      "pushedAt": "2026-03-31T16:09:15.828Z"
     }
   ],
-  "updatedAt": "2026-04-01T15:15:33.094Z"
+  "updatedAt": "2026-04-02T03:45:42.962Z"
 }
