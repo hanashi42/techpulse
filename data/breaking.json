@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f033d6b9b897f8bf",
+      "title": "US removes Russian national Mikhail Zadornov from sanctions list - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjRUVERZNDFvT0NxTnZiS0xQaDFxUDh4Um8ybnNxTy1jczJFWFlra0k1QVlSU3B5a3RvNHVjTlNCZVRRLUdvV0VIS0lLMlpJdEs5QmJ3b0s5MUJ2akNuREZWdmd6R056dUlQVVJYLXN4eFNlSWhrVzcyQVczb3htN0JBbzVHbWZ1R1NyUnFnN3hBREtZMjZCcmw4cGxYdTRlb3RJ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-04-03T19:23:38.649Z",
+      "pushedAt": "2026-04-03T19:23:38.649Z"
+    },
+    {
       "id": "af220df96ddbbec7",
       "title": "Britain Says 40 Countries Discuss Reopening Strait Of Hormuz After Iran Blockade - Bernama",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LX2hzSTdHUlVPZ0Zxb1F2RC1sNFdlRFlNakhPQjE3QjVON0NTR1dxT0dCWElPTjNsSkxfQzZvZjJIelYzUTdrd3pJSS1WbWJtSFYwWmZWMGxRRHZoUUlfcEg2SWZVejItWnNiRjZnWQ?oc=5",
@@ -179,19 +191,7 @@
       ],
       "firstSeen": "2026-04-02T20:58:04.454Z",
       "pushedAt": "2026-04-02T20:58:04.454Z"
-    },
-    {
-      "id": "3e8b0a61665d30ff",
-      "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
-      "url": "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "stablecoin + regulat"
-      ],
-      "firstSeen": "2026-04-02T19:11:29.459Z",
-      "pushedAt": "2026-04-02T19:11:29.459Z"
     }
   ],
-  "updatedAt": "2026-04-03T17:23:34.035Z"
+  "updatedAt": "2026-04-03T19:23:38.995Z"
 }
