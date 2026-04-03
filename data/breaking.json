@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "02f9172dd9b341ed",
+      "title": "US targets Chinese chipmaking with proposed export restrictions on ASML and others - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2VvanJZRy04RmpiTUF4aG5QSXhVV3RNdTVUM0ZSdy1NN1d2dmZhMVhveTF2ZkdFY2JsdmF4RGZXcXB3NmVkOHI1cFZVQ1NzdU9ncU84RkZVX3IzeXpwUVByVk5uOWRNT2JHcHZaSUxFU0k0YTcyX0dhLTBZM3pLMDhaMkREd3MtWUlwRkl0REpTNUc3bDdIZUVva3c1UVYxcXR3TGJLUGpHWjRNMmt5R1g1cHFyRnhudng1MllRaWg?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + export"
+      ],
+      "firstSeen": "2026-04-03T13:24:06.532Z",
+      "pushedAt": "2026-04-03T13:24:06.532Z"
+    },
+    {
       "id": "cf81c188a66167c4",
       "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
       "url": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
@@ -181,5 +193,5 @@
       "pushedAt": "2026-04-02T13:48:47.187Z"
     }
   ],
-  "updatedAt": "2026-04-03T12:04:27.013Z"
+  "updatedAt": "2026-04-03T13:24:06.760Z"
 }
