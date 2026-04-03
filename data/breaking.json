@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bacc13eec429b4d9",
+      "title": "South Korean Heavy Oil Usage Firms Devise Consumption Reduction Plan Amid Supply Disruptions - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FNUZscERtdFZMVnJFOEVIZWtDenZnWDBHaXF6U3lBT04xYkRYaVVnalVGQ0FtWVRlS0Vrb2VTTXJBYTJfTnJxWU16Z3BWOVJSQ2EzYw?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-04-03T16:06:22.756Z",
+      "pushedAt": "2026-04-03T16:06:22.756Z"
+    },
+    {
       "id": "7cd4b96d4bd59779",
       "title": "US fighter jet shot down over Iran, search underway for crew, US official says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGlIcmp6ajhocl9IYVNsSVE1TmFlaUUwSFJ5RkREMWhhNlhfN3NqeTgxa2lJZ1pjenY0blE2ZU1kV25USHd6VUY4UGJ0ekRZVUltU1k5NzUtSm5iVUU3cVk0Mmt1Z25XeE1LSHdKRlhHYXhUdm5jemVGTDZVQ1pVeEIxbWhYRGdfMTI5c1dfMXF1bkp3NkZYWmhMLUJuTF9udTFsUHNXd1Z0OEpNQVVGc3ZaR0FCbGtwU2FrNmMtRG5OTDVI?oc=5",
@@ -167,31 +179,7 @@
       ],
       "firstSeen": "2026-04-02T16:35:39.162Z",
       "pushedAt": "2026-04-02T16:35:39.162Z"
-    },
-    {
-      "id": "b4e453389120116a",
-      "title": "OPEC+ likely to weigh further oil output hike on Sunday, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjRHdWJmSmtobjlnWlFQcTdlTXczQTBJZ3g4QnI2VnRYU1gxLXA2Y0thM0k3WUw1Mkd4Y25wTmdnUWNEZlNvLXA1VlIxeVd0M3BpQzBxcE14QUJzYVVoOXUtOFBkUkRObFZ5T3I1T2VLZ2dBTWZBSGN4SG1GVHMzSFl0YkQ3Z3NuSGl2S2wydExtY2FUbDU3SDk3M2pYcmVYV0FNSE9XWGZYTW9SNFNuZDln?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + output"
-      ],
-      "firstSeen": "2026-04-02T15:41:23.250Z",
-      "pushedAt": "2026-04-02T15:41:23.250Z"
-    },
-    {
-      "id": "325026a5c639d87c",
-      "title": "India graveyard raid uncovers hidden cooking gas canisters amid shortage - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa3ItYkRqci1hYzBPMkpmUW9hT2k1RkNheUgtZ0tvQVJxWll4ZVJQXzFVQkdOb1daZ21Gcm8xV2xQbjQySTVkcmprUFE0RFFxYVRfT0c2YTFWVDZEZzdnMFpiaVdsMlpYWTJtVUg2RHR6RGpRdHlIaWxYdjZNU01sVU5USnNSSXA0N0xoaGFDQTFJSl96SVF3cWlVUnFxVFpZbGhnQ3FuaE9RbG9EYWZUZ3pwQW9neVR0ZmxORw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + gas"
-      ],
-      "firstSeen": "2026-04-02T15:41:23.309Z",
-      "pushedAt": "2026-04-02T15:41:23.309Z"
     }
   ],
-  "updatedAt": "2026-04-03T14:59:18.297Z"
+  "updatedAt": "2026-04-03T16:06:22.934Z"
 }
