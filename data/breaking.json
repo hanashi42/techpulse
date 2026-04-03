@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8530d647c8508863",
+      "title": "Hyundai Motor flags export disruptions as Middle East conflict hits shipping - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFNKX041OXdSeTdrSDEwT0hTellUTzVIX240eTBQclNUOFBmT3lnV05yMnc2MDB4dWRybFVZZG5mSV9SZzAyWGtVRng1ZXJGR2tJSENRbFp3N2RzQ0ljNDFIR2FFOXBFSndBQ3BZc2pYUi1veGVsUE42N08xR21SckdpNWQ1N3dpcXJfelRlUHgtaU5QaEVZYUFUQUZfQzZCSXNnc1pVb0hKVzY5c1NibkhFWWhaRHBrS2NCUHJfMEFwMWVDNUhIcHBPalZVc3JiVG5mbmVR?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + shipping"
+      ],
+      "firstSeen": "2026-04-03T09:32:13.984Z",
+      "pushedAt": "2026-04-03T09:32:13.984Z"
+    },
+    {
       "id": "f2a327d597dcf6a5",
       "title": "Trump unveils 100-percent tariff on drugs to push for pharmaceutical deals",
       "url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss",
@@ -156,43 +168,7 @@
       ],
       "firstSeen": "2026-04-02T09:41:38.461Z",
       "pushedAt": "2026-04-02T09:41:38.461Z"
-    },
-    {
-      "id": "01a9ce2e0389efb1",
-      "title": "European stocks plunge as tech sector faces worst day since February 3",
-      "url": "https://www.cnbc.com/2026/04/02/europe-stock-market-ftse-stoxx-trump-iran-pharma-tariffs.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock"
-      ],
-      "firstSeen": "2026-04-02T08:40:55.655Z",
-      "pushedAt": "2026-04-02T08:40:55.655Z"
-    },
-    {
-      "id": "aa2b985cc005274b",
-      "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
-      "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "magnitude 7"
-      ],
-      "firstSeen": "2026-04-02T05:24:30.668Z",
-      "pushedAt": "2026-04-02T05:24:30.668Z"
-    },
-    {
-      "id": "54cd0c85d9dae840",
-      "title": "Trump administration readies new tariffs on select drugmakers, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM1lTejhtQ1lHRlVaX1IzY0pEVkNzQVJrUVRmOXNRSHcyVkhhdWRzSjU1YWk2NmZLZWtMNml4d3ZJN2N5aTVTU3UtN0hfV3RGdHZZbmkzOGk1TEJvZmNUbGdpQjNJRjVHYXJsTVd0Y0F6aWRTcDVlV1J0S1JTdjU1YkdvM0JJVUxjZmFNTGdhZE5NcXI2ZHBNYWtRTmhGaXhIOVNMMnJTNFVSanQ5aXMxbTE5clU2V0FiaEN1T1IwSnV5eVBCWHhyZ1VLYUFCYjZjYnlqMHRLUmdpNDI4aEE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-04-02T03:45:42.875Z",
-      "pushedAt": "2026-04-02T03:45:42.875Z"
     }
   ],
-  "updatedAt": "2026-04-02T23:45:52.776Z"
+  "updatedAt": "2026-04-03T09:32:14.129Z"
 }
