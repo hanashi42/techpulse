@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7cd4b96d4bd59779",
+      "title": "US fighter jet shot down over Iran, search underway for crew, US official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGlIcmp6ajhocl9IYVNsSVE1TmFlaUUwSFJ5RkREMWhhNlhfN3NqeTgxa2lJZ1pjenY0blE2ZU1kV25USHd6VUY4UGJ0ekRZVUltU1k5NzUtSm5iVUU3cVk0Mmt1Z25XeE1LSHdKRlhHYXhUdm5jemVGTDZVQ1pVeEIxbWhYRGdfMTI5c1dfMXF1bkp3NkZYWmhMLUJuTF9udTFsUHNXd1Z0OEpNQVVGc3ZaR0FCbGtwU2FrNmMtRG5OTDVI?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shot down + jet"
+      ],
+      "firstSeen": "2026-04-03T14:59:18.134Z",
+      "pushedAt": "2026-04-03T14:59:18.134Z"
+    },
+    {
       "id": "02f9172dd9b341ed",
       "title": "US targets Chinese chipmaking with proposed export restrictions on ASML and others - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2VvanJZRy04RmpiTUF4aG5QSXhVV3RNdTVUM0ZSdy1NN1d2dmZhMVhveTF2ZkdFY2JsdmF4RGZXcXB3NmVkOHI1cFZVQ1NzdU9ncU84RkZVX3IzeXpwUVByVk5uOWRNT2JHcHZaSUxFU0k0YTcyX0dhLTBZM3pLMDhaMkREd3MtWUlwRkl0REpTNUc3bDdIZUVva3c1UVYxcXR3TGJLUGpHWjRNMmt5R1g1cHFyRnhudng1MllRaWg?oc=5",
@@ -179,19 +191,7 @@
       ],
       "firstSeen": "2026-04-02T15:41:23.309Z",
       "pushedAt": "2026-04-02T15:41:23.309Z"
-    },
-    {
-      "id": "3c686a4a006224bc",
-      "title": "Four children killed in nursery school stabbing attack in Uganda",
-      "url": "https://www.aljazeera.com/news/2026/4/2/four-children-killed-in-school-stabbing-attack-in-uganda?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-02T13:48:47.187Z",
-      "pushedAt": "2026-04-02T13:48:47.187Z"
     }
   ],
-  "updatedAt": "2026-04-03T13:24:06.760Z"
+  "updatedAt": "2026-04-03T14:59:18.297Z"
 }
