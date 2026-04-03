@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "cf81c188a66167c4",
+      "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
+      "url": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-04-03T12:04:26.916Z",
+      "pushedAt": "2026-04-03T12:04:26.916Z"
+    },
+    {
       "id": "d48add468f005899",
       "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
       "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
@@ -169,5 +181,5 @@
       "pushedAt": "2026-04-02T13:48:47.187Z"
     }
   ],
-  "updatedAt": "2026-04-03T11:40:03.531Z"
+  "updatedAt": "2026-04-03T12:04:27.013Z"
 }
