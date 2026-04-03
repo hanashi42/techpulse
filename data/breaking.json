@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d92c671dd0e83e06",
+      "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
+      "url": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 100%"
+      ],
+      "firstSeen": "2026-04-03T10:09:19.744Z",
+      "pushedAt": "2026-04-03T10:09:19.744Z"
+    },
+    {
       "id": "8530d647c8508863",
       "title": "Hyundai Motor flags export disruptions as Middle East conflict hits shipping - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFNKX041OXdSeTdrSDEwT0hTellUTzVIX240eTBQclNUOFBmT3lnV05yMnc2MDB4dWRybFVZZG5mSV9SZzAyWGtVRng1ZXJGR2tJSENRbFp3N2RzQ0ljNDFIR2FFOXBFSndBQ3BZc2pYUi1veGVsUE42N08xR21SckdpNWQ1N3dpcXJfelRlUHgtaU5QaEVZYUFUQUZfQzZCSXNnc1pVb0hKVzY5c1NibkhFWWhaRHBrS2NCUHJfMEFwMWVDNUhIcHBPalZVc3JiVG5mbmVR?oc=5",
@@ -131,44 +143,7 @@
       ],
       "firstSeen": "2026-04-02T10:34:51.184Z",
       "pushedAt": "2026-04-02T10:34:51.184Z"
-    },
-    {
-      "id": "95b945daf65cc9df",
-      "title": "Hopes dim for swift end to Iran war after Trump speech, oil prices surge anew - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclFYSC10dV9USHVJSkFHbk5lZzk3U2daVHJPOWFwNnNsajFua2RQMzVfamRIOVR3dmRLUlI2Q2JlcDM5Z2g1MnNwcTM3VUFuS05PMjI5OGFMUGV6azlOenFvRnZtY2hvNkZaZTBYTFhVVDBidkFrUVVvYVY3elN2amxwLS1iNDBrVlVYcDRCdzBFbVlJcEp5SlFoOG0xZ0JfSnQxY215ekVhR0ZKSm9BZFRkdEx0LU0zeEsydDVvb3lRZw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-04-02T09:41:38.009Z",
-      "pushedAt": "2026-04-02T09:41:38.009Z"
-    },
-    {
-      "id": "3ff588c92faea6f2",
-      "title": "At least 70 people killed and 30 injured in Haiti gang attack",
-      "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-02T09:41:38.290Z",
-      "pushedAt": "2026-04-02T09:41:38.290Z"
-    },
-    {
-      "id": "403b42a223753bd9",
-      "title": "A year on: Four ways Trump's tariffs have changed the global economy - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NcTJmTVo3ajMtLXFDTUw1bEVKbVd3UHh6MTdxb2NrQl9BNGxMN1NlRjUwXzdlT0ZWd3pKeE4wUlQ3dHRObGc0aVZZbzJMbXBnTWg2V0M1VHd4Zw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-04-02T09:41:38.461Z",
-      "pushedAt": "2026-04-02T09:41:38.461Z"
     }
   ],
-  "updatedAt": "2026-04-03T09:32:14.129Z"
+  "updatedAt": "2026-04-03T10:09:20.403Z"
 }
