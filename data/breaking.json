@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "048e96eb86c66bd0",
+      "title": "Military coup leader who overthrew Aung San Suu Kyi elected president",
+      "url": "https://news.sky.com/story/head-of-myanmars-ruling-junta-who-led-coup-against-nobel-peace-prize-winner-aung-san-suu-kyi-becomes-president-13527465",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "military coup"
+      ],
+      "firstSeen": "2026-04-03T11:00:50.300Z",
+      "pushedAt": "2026-04-03T11:00:50.300Z"
+    },
+    {
+      "id": "db04389afe8597ef",
+      "title": "U.S. oil prices soar 11% as Trump's Iran war speech stokes fears of further escalation",
+      "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + oil"
+      ],
+      "firstSeen": "2026-04-03T11:00:50.505Z",
+      "pushedAt": "2026-04-03T11:00:50.505Z"
+    },
+    {
       "id": "d92c671dd0e83e06",
       "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
       "url": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
@@ -131,19 +155,7 @@
       ],
       "firstSeen": "2026-04-02T13:48:47.187Z",
       "pushedAt": "2026-04-02T13:48:47.187Z"
-    },
-    {
-      "id": "cdd465407848fba1",
-      "title": "Magnitude 5 earthquake strikes Brookdale, California region, USGS says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmNnclFvQ3dfcGNQdm5QRGZKdXdJNkEzZUNYVFZxZldRU3YyVmotQlBoX3J1QUcwLWxMRXpfSFhSZGlKaTNfUGVVd0FaMW1fc3lpRjlPaExtMHlCanFEQlVwQUZOQm9XRVgwWGExelRjR2JzM2s5S1ljdllCU0dwRTVXcnNWaktGeGU0MEdfR0d5ZWxLaU5MZmtiY3dDbGZheG5DamNkY2hTQ1kwbFhlRDZEcUdhVGFFY0NFaFJHUDE5M2c?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-04-02T10:34:51.184Z",
-      "pushedAt": "2026-04-02T10:34:51.184Z"
     }
   ],
-  "updatedAt": "2026-04-03T10:09:20.403Z"
+  "updatedAt": "2026-04-03T11:00:50.610Z"
 }
