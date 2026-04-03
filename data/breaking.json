@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5873e2d154c0af9b",
+      "title": "Trump proposes \"historic\" defense spending budget, eyes 10% cut to other federal programs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVA1Ym02OGJuQkdHMnFmTGd3cjNKdVFYY2xYQkx6S1JlRERLVnV2d19QR0xLRUlkb2c5bE1uUHpkZnVRSUM2RjlRbXUxVkt6empwVnF5Z2UzUWYxU0x5Q1J3T3pDSmVfTExGX05zdTEtSE1xcE9CRVZDOThGUUpwVVZ0R2VhSGk0R1JBblhPVjRFWXRaWWpBZVhPTTI5TU02ZHF3NG5ERHB1TXdRWGY5dkdOVXZHTmg2RzI1UmptdTFTZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + cut"
+      ],
+      "firstSeen": "2026-04-03T16:54:39.531Z",
+      "pushedAt": "2026-04-03T16:54:39.532Z"
+    },
+    {
       "id": "bacc13eec429b4d9",
       "title": "South Korean Heavy Oil Usage Firms Devise Consumption Reduction Plan Amid Supply Disruptions - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FNUZscERtdFZMVnJFOEVIZWtDenZnWDBHaXF6U3lBT04xYkRYaVVnalVGQ0FtWVRlS0Vrb2VTTXJBYTJfTnJxWU16Z3BWOVJSQ2EzYw?oc=5",
@@ -167,19 +179,7 @@
       ],
       "firstSeen": "2026-04-02T19:11:29.459Z",
       "pushedAt": "2026-04-02T19:11:29.459Z"
-    },
-    {
-      "id": "a2c8b47c2297873d",
-      "title": "Britain says 40 countries discuss reopening Strait of Hormuz after Iran blockade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2wteXFwajNBQUdCX0xBSmZ2bi02Nld6dERJODNsQVozQVgxVzhxTDlkdXNBN0dWby1lSGpxWjJ0YTF0OHdSRFY0M1RXUEJJWHNiWlZRcDNhUF9MUTdhMEVHWW9qZGR6SkhpcGwyNmRKZHlGR2ZwMHNuS2VIa3pFVmw3cUFxX1BkQlctRnRuNzV5YXRSTlVKeEY0dk15RklyM0RCQjNfUlJnX1pMZ3g5NmxOTjVrVHI3Z3RIV28xRW8?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait"
-      ],
-      "firstSeen": "2026-04-02T16:35:39.162Z",
-      "pushedAt": "2026-04-02T16:35:39.162Z"
     }
   ],
-  "updatedAt": "2026-04-03T16:06:22.934Z"
+  "updatedAt": "2026-04-03T16:54:39.874Z"
 }
