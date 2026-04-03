@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d48add468f005899",
+      "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
+      "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "magnitude 7"
+      ],
+      "firstSeen": "2026-04-03T11:40:03.109Z",
+      "pushedAt": "2026-04-03T11:40:03.110Z"
+    },
+    {
       "id": "048e96eb86c66bd0",
       "title": "Military coup leader who overthrew Aung San Suu Kyi elected president",
       "url": "https://news.sky.com/story/head-of-myanmars-ruling-junta-who-led-coup-against-nobel-peace-prize-winner-aung-san-suu-kyi-becomes-president-13527465",
@@ -157,5 +169,5 @@
       "pushedAt": "2026-04-02T13:48:47.187Z"
     }
   ],
-  "updatedAt": "2026-04-03T11:00:50.610Z"
+  "updatedAt": "2026-04-03T11:40:03.531Z"
 }
