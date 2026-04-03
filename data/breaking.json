@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "af220df96ddbbec7",
+      "title": "Britain Says 40 Countries Discuss Reopening Strait Of Hormuz After Iran Blockade - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LX2hzSTdHUlVPZ0Zxb1F2RC1sNFdlRFlNakhPQjE3QjVON0NTR1dxT0dCWElPTjNsSkxfQzZvZjJIelYzUTdrd3pJSS1WbWJtSFYwWmZWMGxRRHZoUUlfcEg2SWZVejItWnNiRjZnWQ?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait"
+      ],
+      "firstSeen": "2026-04-03T17:23:33.930Z",
+      "pushedAt": "2026-04-03T17:23:33.930Z"
+    },
+    {
       "id": "5873e2d154c0af9b",
       "title": "Trump proposes \"historic\" defense spending budget, eyes 10% cut to other federal programs - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVA1Ym02OGJuQkdHMnFmTGd3cjNKdVFYY2xYQkx6S1JlRERLVnV2d19QR0xLRUlkb2c5bE1uUHpkZnVRSUM2RjlRbXUxVkt6empwVnF5Z2UzUWYxU0x5Q1J3T3pDSmVfTExGX05zdTEtSE1xcE9CRVZDOThGUUpwVVZ0R2VhSGk0R1JBblhPVjRFWXRaWWpBZVhPTTI5TU02ZHF3NG5ERHB1TXdRWGY5dkdOVXZHTmg2RzI1UmptdTFTZw?oc=5",
@@ -181,5 +193,5 @@
       "pushedAt": "2026-04-02T19:11:29.459Z"
     }
   ],
-  "updatedAt": "2026-04-03T16:54:39.874Z"
+  "updatedAt": "2026-04-03T17:23:34.035Z"
 }
