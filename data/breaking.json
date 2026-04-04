@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3ad85352c1bd735d",
+      "title": "Midnight train from Georgia: A view of America from the tracks as airports struggle in the shutdown - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkJac0NnenZBUU8xOTZfc1VUam40LTdnWmhwODNxLW03UG04MklPWTkySGhTUU5MTkRaMFcxZm92RndMQUZvTzBxZkJMT2JqMzM5VmlqOTlwN3pHVmdOaDJnczQ0R0FSNk83TDRKdUhPYWx2SlhfWmNEeElIU1RHUUhWZjBNUk9iOUNVUTR6MjFXQVNrRVItZlI2UXdCb0g1Q2dMWC1KMUJ4TndS?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + port"
+      ],
+      "firstSeen": "2026-04-04T05:44:02.507Z",
+      "pushedAt": "2026-04-04T05:44:02.507Z"
+    },
+    {
       "id": "4245bf3039a3b238",
       "title": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis",
       "url": "https://www.cnbc.com/2026/04/02/dated-brent-oil-price-actual-cargo-highest-level-2008.html",
@@ -193,5 +205,5 @@
       "pushedAt": "2026-04-03T09:32:13.984Z"
     }
   ],
-  "updatedAt": "2026-04-04T04:42:37.182Z"
+  "updatedAt": "2026-04-04T05:44:02.874Z"
 }
