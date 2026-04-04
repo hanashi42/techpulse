@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "3bf4c9e972fe28fd",
+      "title": "Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZnN5ZWE5LXdjMDBzT002ZEY3MkR3X1BacUp4UktBSVFWTlVMTDJUTVA0UmpuQnZyMzFOWGZmV0lOaWFfVVBoeXhELWRENV9xNUNlbmJwMHVPNXJHeEhJcnVPQndZSVRud1dPTXVHNXlMTW9YUjNGQk0waDZYNUNLUVFleDBhbXFpTkxUSG1LV2JrbGpIVlRPMUhCZ1ZIUVpXUTl1R3pUZFo2NEN6aTREeHFtNS1jVVFkNi1HUDZNWlg3QUtsT0xz?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-04-04T11:01:54.987Z",
+      "pushedAt": "2026-04-04T11:01:54.987Z"
+    },
+    {
+      "id": "fd8caa0b499b796a",
+      "title": "At least four people killed in Russian attacks on Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-04T11:01:55.202Z",
+      "pushedAt": "2026-04-04T11:01:55.202Z"
+    },
+    {
+      "id": "d92c671dd0e83e06",
+      "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
+      "url": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 100%"
+      ],
+      "firstSeen": "2026-04-04T11:01:55.385Z",
+      "pushedAt": "2026-04-04T11:01:55.385Z"
+    },
+    {
       "id": "1e390ccba8288023",
       "title": "Senegal bans ministers from foreign travel as oil price rise bites",
       "url": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
@@ -167,31 +203,7 @@
       ],
       "firstSeen": "2026-04-03T11:40:03.109Z",
       "pushedAt": "2026-04-03T11:40:03.110Z"
-    },
-    {
-      "id": "048e96eb86c66bd0",
-      "title": "Military coup leader who overthrew Aung San Suu Kyi elected president",
-      "url": "https://news.sky.com/story/head-of-myanmars-ruling-junta-who-led-coup-against-nobel-peace-prize-winner-aung-san-suu-kyi-becomes-president-13527465",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "military coup"
-      ],
-      "firstSeen": "2026-04-03T11:00:50.300Z",
-      "pushedAt": "2026-04-03T11:00:50.300Z"
-    },
-    {
-      "id": "db04389afe8597ef",
-      "title": "U.S. oil prices soar 11% as Trump's Iran war speech stokes fears of further escalation",
-      "url": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-04-03T11:00:50.505Z",
-      "pushedAt": "2026-04-03T11:00:50.505Z"
     }
   ],
-  "updatedAt": "2026-04-04T10:33:40.019Z"
+  "updatedAt": "2026-04-04T11:01:55.444Z"
 }
