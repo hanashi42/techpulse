@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "b5e3898086423a43",
+      "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-04-04T02:53:12.306Z",
+      "pushedAt": "2026-04-04T02:53:12.306Z"
+    },
+    {
+      "id": "dfe20502d433e305",
+      "title": "US Pushes Trade Board with China, Pharma Tariffs Announced, and China's Oil Imports Under Scrutiny - The US-China Business Council",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYk5HYUd3elJKY3ZDdl9QMDJWY3FmQUxFSUdUY1pqY3ZXQUk5Y2dSMzNvLXo4a0NtblJzQlVWdXFna3kxUTR1UzVBNHBmNzVjdGdkb3Q0dDRmZmdsWmN1Q25OTGhqR3NDZFRCZjRlREYwU0VRTWNqQUJDUTNFOHF2aGg3TW5weTdGbE1pZ210SGxnRThzbXRYekJwU2JEb3A3c1dmRmJTSS0xY19XQmFJR1dIMi1kbUlva01uMjZyeGVBSUxCVnJtSg?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-04-04T02:53:12.513Z",
+      "pushedAt": "2026-04-04T02:53:12.513Z"
+    },
+    {
       "id": "f033d6b9b897f8bf",
       "title": "US removes Russian national Mikhail Zadornov from sanctions list - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjRUVERZNDFvT0NxTnZiS0xQaDFxUDh4Um8ybnNxTy1jczJFWFlra0k1QVlSU3B5a3RvNHVjTlNCZVRRLUdvV0VIS0lLMlpJdEs5QmJ3b0s5MUJ2akNuREZWdmd6R056dUlQVVJYLXN4eFNlSWhrVzcyQVczb3htN0JBbzVHbWZ1R1NyUnFnN3hBREtZMjZCcmw4cGxYdTRlb3RJ?oc=5",
@@ -143,55 +167,7 @@
       ],
       "firstSeen": "2026-04-03T09:32:13.984Z",
       "pushedAt": "2026-04-03T09:32:13.984Z"
-    },
-    {
-      "id": "f2a327d597dcf6a5",
-      "title": "Trump unveils 100-percent tariff on drugs to push for pharmaceutical deals",
-      "url": "https://www.aljazeera.com/news/2026/4/2/trump-unveils-100-percent-tariff-on-drugs-to-push-for-pharmaceutical-deals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-04-02T23:45:52.531Z",
-      "pushedAt": "2026-04-02T23:45:52.531Z"
-    },
-    {
-      "id": "687e12a050964794",
-      "title": "Russia sending second ship with oil to Cuba amid US blockade",
-      "url": "https://www.aljazeera.com/news/2026/4/2/russia-sending-second-ship-with-oil-to-cuba-amid-us-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-04-02T21:34:12.863Z",
-      "pushedAt": "2026-04-02T21:34:12.863Z"
-    },
-    {
-      "id": "4245bf3039a3b238",
-      "title": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis",
-      "url": "https://www.cnbc.com/2026/04/02/dated-brent-oil-price-actual-cargo-highest-level-2008.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-04-02T21:34:13.132Z",
-      "pushedAt": "2026-04-02T21:34:13.132Z"
-    },
-    {
-      "id": "1ad0477552070a96",
-      "title": "Drugmakers face 100% tariff unless they cut prices or produce drugs in US - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdUQ5VURXMUcxaFM0SFdKQlA1WDZHZlZIeFRvazhkZnUwZUVWXzcxTGpSUUdqT2VtVXUxWEdIM0hRQXNEWnJsYkdGX09uc2UxcW9BWXE1R3l0c2dyaC1XQ2w5SjdCUVlwZEd3NkVzWDhZa2RnbW1kaDEzWC05ajBXTUhUNldyZ3U2N1ItV1VweFc2Z0dqek5mZGRSU2QyYUZtT1l2ZTAzQ19vbGlRN0U0OGlWanVpaERZU1FWQmYtWHA1bWxPbDJtdjMxMkdhWkVfWkFFbHVyY1B0UUVneHc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 100%"
-      ],
-      "firstSeen": "2026-04-02T20:58:04.454Z",
-      "pushedAt": "2026-04-02T20:58:04.454Z"
     }
   ],
-  "updatedAt": "2026-04-03T19:23:38.995Z"
+  "updatedAt": "2026-04-04T02:53:12.635Z"
 }
