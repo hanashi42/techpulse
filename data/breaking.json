@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1e390ccba8288023",
+      "title": "Senegal bans ministers from foreign travel as oil price rise bites",
+      "url": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-04-04T10:33:39.910Z",
+      "pushedAt": "2026-04-04T10:33:39.910Z"
+    },
+    {
       "id": "3ad85352c1bd735d",
       "title": "Midnight train from Georgia: A view of America from the tracks as airports struggle in the shutdown - AP News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkJac0NnenZBUU8xOTZfc1VUam40LTdnWmhwODNxLW03UG04MklPWTkySGhTUU5MTkRaMFcxZm92RndMQUZvTzBxZkJMT2JqMzM5VmlqOTlwN3pHVmdOaDJnczQ0R0FSNk83TDRKdUhPYWx2SlhfWmNEeElIU1RHUUhWZjBNUk9iOUNVUTR6MjFXQVNrRVItZlI2UXdCb0g1Q2dMWC1KMUJ4TndS?oc=5",
@@ -179,31 +191,7 @@
       ],
       "firstSeen": "2026-04-03T11:00:50.505Z",
       "pushedAt": "2026-04-03T11:00:50.505Z"
-    },
-    {
-      "id": "d92c671dd0e83e06",
-      "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
-      "url": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 100%"
-      ],
-      "firstSeen": "2026-04-03T10:09:19.744Z",
-      "pushedAt": "2026-04-03T10:09:19.744Z"
-    },
-    {
-      "id": "8530d647c8508863",
-      "title": "Hyundai Motor flags export disruptions as Middle East conflict hits shipping - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFNKX041OXdSeTdrSDEwT0hTellUTzVIX240eTBQclNUOFBmT3lnV05yMnc2MDB4dWRybFVZZG5mSV9SZzAyWGtVRng1ZXJGR2tJSENRbFp3N2RzQ0ljNDFIR2FFOXBFSndBQ3BZc2pYUi1veGVsUE42N08xR21SckdpNWQ1N3dpcXJfelRlUHgtaU5QaEVZYUFUQUZfQzZCSXNnc1pVb0hKVzY5c1NibkhFWWhaRHBrS2NCUHJfMEFwMWVDNUhIcHBPalZVc3JiVG5mbmVR?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + shipping"
-      ],
-      "firstSeen": "2026-04-03T09:32:13.984Z",
-      "pushedAt": "2026-04-03T09:32:13.984Z"
     }
   ],
-  "updatedAt": "2026-04-04T05:44:02.874Z"
+  "updatedAt": "2026-04-04T10:33:40.019Z"
 }
