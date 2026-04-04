@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4245bf3039a3b238",
+      "title": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis",
+      "url": "https://www.cnbc.com/2026/04/02/dated-brent-oil-price-actual-cargo-highest-level-2008.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + oil"
+      ],
+      "firstSeen": "2026-04-04T04:42:36.911Z",
+      "pushedAt": "2026-04-04T04:42:36.911Z"
+    },
+    {
+      "id": "f921f861465e097b",
+      "title": "China opens investigations into US trade practices in response to Trump tariff moves - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGJGQkxHNlhfckEwNnZ2ZU5qQ3pYSW9UWms0Y1M0cjh1c0xGRW5TY19YTUtKTVRoZnlRUVQ0YmgwdFpValp2YjAzcEVMOTZIYkgzaHBGUk1aVWNmaTFTVExlZXUtb3BRRkJzZjJ1MXBGZTBXel96UnhzLWppTjVwc0xndHJ5RTljaXNaeUF1X1NuYmVGLW9qWW1DSklrWE1kZVBN?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-04-04T04:42:37.081Z",
+      "pushedAt": "2026-04-04T04:42:37.081Z"
+    },
+    {
       "id": "b5e3898086423a43",
       "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
       "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
@@ -169,5 +193,5 @@
       "pushedAt": "2026-04-03T09:32:13.984Z"
     }
   ],
-  "updatedAt": "2026-04-04T02:53:12.635Z"
+  "updatedAt": "2026-04-04T04:42:37.182Z"
 }
