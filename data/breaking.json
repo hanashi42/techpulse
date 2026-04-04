@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "048e96eb86c66bd0",
+      "title": "Military coup leader who overthrew Aung San Suu Kyi elected president",
+      "url": "https://news.sky.com/story/head-of-myanmars-ruling-junta-who-led-coup-against-nobel-peace-prize-winner-aung-san-suu-kyi-becomes-president-13527465",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "military coup"
+      ],
+      "firstSeen": "2026-04-04T11:34:59.530Z",
+      "pushedAt": "2026-04-04T11:34:59.530Z"
+    },
+    {
       "id": "3bf4c9e972fe28fd",
       "title": "Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says - AP News",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZnN5ZWE5LXdjMDBzT002ZEY3MkR3X1BacUp4UktBSVFWTlVMTDJUTVA0UmpuQnZyMzFOWGZmV0lOaWFfVVBoeXhELWRENV9xNUNlbmJwMHVPNXJHeEhJcnVPQndZSVRud1dPTXVHNXlMTW9YUjNGQk0waDZYNUNLUVFleDBhbXFpTkxUSG1LV2JrbGpIVlRPMUhCZ1ZIUVpXUTl1R3pUZFo2NEN6aTREeHFtNS1jVVFkNi1HUDZNWlg3QUtsT0xz?oc=5",
@@ -205,5 +217,5 @@
       "pushedAt": "2026-04-03T11:40:03.110Z"
     }
   ],
-  "updatedAt": "2026-04-04T11:01:55.444Z"
+  "updatedAt": "2026-04-04T11:34:59.669Z"
 }
