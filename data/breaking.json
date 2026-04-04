@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2644517bd0bd5d09",
+      "title": "No Subsidised Cooking Oil Shortage Complaints In Johor Since eCOSS - KPDN - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jcVF1Rm5QbWl2T1ROZ2JhTG1FUFpzUHBvaWVQbGFVS0s4NWN0ejBZbWVrV2FaX0dvWEFzb1hfN2VRTG5GaGRtdUpCVGk3QnM2eURfWWJtRjZEQjBvTEl4eVpn?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + oil"
+      ],
+      "firstSeen": "2026-04-04T12:29:01.600Z",
+      "pushedAt": "2026-04-04T12:29:01.600Z"
+    },
+    {
       "id": "048e96eb86c66bd0",
       "title": "Military coup leader who overthrew Aung San Suu Kyi elected president",
       "url": "https://news.sky.com/story/head-of-myanmars-ruling-junta-who-led-coup-against-nobel-peace-prize-winner-aung-san-suu-kyi-becomes-president-13527465",
@@ -191,31 +203,7 @@
       ],
       "firstSeen": "2026-04-03T13:24:06.532Z",
       "pushedAt": "2026-04-03T13:24:06.532Z"
-    },
-    {
-      "id": "cf81c188a66167c4",
-      "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
-      "url": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-04-03T12:04:26.916Z",
-      "pushedAt": "2026-04-03T12:04:26.916Z"
-    },
-    {
-      "id": "d48add468f005899",
-      "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
-      "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "magnitude 7"
-      ],
-      "firstSeen": "2026-04-03T11:40:03.109Z",
-      "pushedAt": "2026-04-03T11:40:03.110Z"
     }
   ],
-  "updatedAt": "2026-04-04T11:34:59.669Z"
+  "updatedAt": "2026-04-04T12:29:01.843Z"
 }
