@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0540f182a47291b5",
+      "title": "European ministers call for profit caps on energy companies as Iran war drives price surge - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWtCT29fRzAwS2s0SjctZ2V0bnVmY1RFQTNaNHZ4dy1kUjk2MHZQc1ZNa1BEcDFxQ2p2cWZsZ3hGb254UjM2OVpfdkhBR09qUlZHbjF1TjRuWVJsLWIyb3czWF9uZ050UlB4SEd2VXZteGFxOHMtd1lnb2ViWTl6bklfcDhyTEVJb2h1RUM4allkVjZmLTg4?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-04-04T19:38:35.736Z",
+      "pushedAt": "2026-04-04T19:38:35.736Z"
+    },
+    {
       "id": "d48add468f005899",
       "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
       "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
@@ -155,67 +167,7 @@
       ],
       "firstSeen": "2026-04-04T02:53:12.513Z",
       "pushedAt": "2026-04-04T02:53:12.513Z"
-    },
-    {
-      "id": "f033d6b9b897f8bf",
-      "title": "US removes Russian national Mikhail Zadornov from sanctions list - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjRUVERZNDFvT0NxTnZiS0xQaDFxUDh4Um8ybnNxTy1jczJFWFlra0k1QVlSU3B5a3RvNHVjTlNCZVRRLUdvV0VIS0lLMlpJdEs5QmJ3b0s5MUJ2akNuREZWdmd6R056dUlQVVJYLXN4eFNlSWhrVzcyQVczb3htN0JBbzVHbWZ1R1NyUnFnN3hBREtZMjZCcmw4cGxYdTRlb3RJ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-04-03T19:23:38.649Z",
-      "pushedAt": "2026-04-03T19:23:38.649Z"
-    },
-    {
-      "id": "af220df96ddbbec7",
-      "title": "Britain Says 40 Countries Discuss Reopening Strait Of Hormuz After Iran Blockade - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LX2hzSTdHUlVPZ0Zxb1F2RC1sNFdlRFlNakhPQjE3QjVON0NTR1dxT0dCWElPTjNsSkxfQzZvZjJIelYzUTdrd3pJSS1WbWJtSFYwWmZWMGxRRHZoUUlfcEg2SWZVejItWnNiRjZnWQ?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait"
-      ],
-      "firstSeen": "2026-04-03T17:23:33.930Z",
-      "pushedAt": "2026-04-03T17:23:33.930Z"
-    },
-    {
-      "id": "5873e2d154c0af9b",
-      "title": "Trump proposes \"historic\" defense spending budget, eyes 10% cut to other federal programs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVA1Ym02OGJuQkdHMnFmTGd3cjNKdVFYY2xYQkx6S1JlRERLVnV2d19QR0xLRUlkb2c5bE1uUHpkZnVRSUM2RjlRbXUxVkt6empwVnF5Z2UzUWYxU0x5Q1J3T3pDSmVfTExGX05zdTEtSE1xcE9CRVZDOThGUUpwVVZ0R2VhSGk0R1JBblhPVjRFWXRaWWpBZVhPTTI5TU02ZHF3NG5ERHB1TXdRWGY5dkdOVXZHTmg2RzI1UmptdTFTZw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + cut"
-      ],
-      "firstSeen": "2026-04-03T16:54:39.531Z",
-      "pushedAt": "2026-04-03T16:54:39.532Z"
-    },
-    {
-      "id": "bacc13eec429b4d9",
-      "title": "South Korean Heavy Oil Usage Firms Devise Consumption Reduction Plan Amid Supply Disruptions - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FNUZscERtdFZMVnJFOEVIZWtDenZnWDBHaXF6U3lBT04xYkRYaVVnalVGQ0FtWVRlS0Vrb2VTTXJBYTJfTnJxWU16Z3BWOVJSQ2EzYw?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-04-03T16:06:22.756Z",
-      "pushedAt": "2026-04-03T16:06:22.756Z"
-    },
-    {
-      "id": "7cd4b96d4bd59779",
-      "title": "US fighter jet shot down over Iran, search underway for crew, US official says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGlIcmp6ajhocl9IYVNsSVE1TmFlaUUwSFJ5RkREMWhhNlhfN3NqeTgxa2lJZ1pjenY0blE2ZU1kV25USHd6VUY4UGJ0ekRZVUltU1k5NzUtSm5iVUU3cVk0Mmt1Z25XeE1LSHdKRlhHYXhUdm5jemVGTDZVQ1pVeEIxbWhYRGdfMTI5c1dfMXF1bkp3NkZYWmhMLUJuTF9udTFsUHNXd1Z0OEpNQVVGc3ZaR0FCbGtwU2FrNmMtRG5OTDVI?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + jet"
-      ],
-      "firstSeen": "2026-04-03T14:59:18.134Z",
-      "pushedAt": "2026-04-03T14:59:18.134Z"
     }
   ],
-  "updatedAt": "2026-04-04T13:33:43.611Z"
+  "updatedAt": "2026-04-04T19:38:35.799Z"
 }
