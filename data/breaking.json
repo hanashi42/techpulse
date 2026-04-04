@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "d48add468f005899",
+      "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
+      "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "magnitude 7"
+      ],
+      "firstSeen": "2026-04-04T13:33:43.072Z",
+      "pushedAt": "2026-04-04T13:33:43.072Z"
+    },
+    {
+      "id": "cf81c188a66167c4",
+      "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
+      "url": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-04-04T13:33:43.406Z",
+      "pushedAt": "2026-04-04T13:33:43.406Z"
+    },
+    {
       "id": "2644517bd0bd5d09",
       "title": "No Subsidised Cooking Oil Shortage Complaints In Johor Since eCOSS - KPDN - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jcVF1Rm5QbWl2T1ROZ2JhTG1FUFpzUHBvaWVQbGFVS0s4NWN0ejBZbWVrV2FaX0dvWEFzb1hfN2VRTG5GaGRtdUpCVGk3QnM2eURfWWJtRjZEQjBvTEl4eVpn?oc=5",
@@ -191,19 +215,7 @@
       ],
       "firstSeen": "2026-04-03T14:59:18.134Z",
       "pushedAt": "2026-04-03T14:59:18.134Z"
-    },
-    {
-      "id": "02f9172dd9b341ed",
-      "title": "US targets Chinese chipmaking with proposed export restrictions on ASML and others - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2VvanJZRy04RmpiTUF4aG5QSXhVV3RNdTVUM0ZSdy1NN1d2dmZhMVhveTF2ZkdFY2JsdmF4RGZXcXB3NmVkOHI1cFZVQ1NzdU9ncU84RkZVX3IzeXpwUVByVk5uOWRNT2JHcHZaSUxFU0k0YTcyX0dhLTBZM3pLMDhaMkREd3MtWUlwRkl0REpTNUc3bDdIZUVva3c1UVYxcXR3TGJLUGpHWjRNMmt5R1g1cHFyRnhudng1MllRaWg?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + export"
-      ],
-      "firstSeen": "2026-04-03T13:24:06.532Z",
-      "pushedAt": "2026-04-03T13:24:06.532Z"
     }
   ],
-  "updatedAt": "2026-04-04T12:29:01.843Z"
+  "updatedAt": "2026-04-04T13:33:43.611Z"
 }
