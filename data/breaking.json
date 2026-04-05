@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3290a027ccbdc66f",
+      "title": "Iranian missile strikes industrial area in southern Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/iranian-missile-strikes-industrial-area-in-southern-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-04-05T16:47:44.583Z",
+      "pushedAt": "2026-04-05T16:47:44.583Z"
+    },
+    {
       "id": "d48add468f005899",
       "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
       "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
@@ -97,5 +109,5 @@
       "pushedAt": "2026-04-04T19:38:35.736Z"
     }
   ],
-  "updatedAt": "2026-04-05T15:04:30.210Z"
+  "updatedAt": "2026-04-05T16:47:44.691Z"
 }
