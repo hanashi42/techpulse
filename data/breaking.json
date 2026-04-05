@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "534f8e3207df5d99",
+      "title": "Lebanese army says soldier killed in Israeli attack in southern Lebanon - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnJZRDNXdVUtNWgwY0dEOUl0U0lTWWdCbWpIMUNRYWpxNk1yTDl2eEtCWVJHRFI4QWNTcC14bjBoQnRmNUV0c09uY3N0cXpQVE9fU0xxWjhMSU1UR2tKQTlYektkVFFhQnJubnM4dFZ3RG1ndEVwaUdhTzRIZWdYcm56SUcteWg2a2xaYmFlb0FweENfbGRoaEFoWkxaSHhydFlEWU5pT1dPd0VLakt6NGpqNTBoWU9CZHdz?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-05T14:34:38.349Z",
+      "pushedAt": "2026-04-05T14:34:38.349Z"
+    },
+    {
       "id": "8204385795258706",
       "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
@@ -59,91 +71,7 @@
       ],
       "firstSeen": "2026-04-04T19:38:35.736Z",
       "pushedAt": "2026-04-04T19:38:35.736Z"
-    },
-    {
-      "id": "d48add468f005899",
-      "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
-      "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "magnitude 7"
-      ],
-      "firstSeen": "2026-04-04T13:33:43.072Z",
-      "pushedAt": "2026-04-04T13:33:43.072Z"
-    },
-    {
-      "id": "cf81c188a66167c4",
-      "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
-      "url": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-04-04T13:33:43.406Z",
-      "pushedAt": "2026-04-04T13:33:43.406Z"
-    },
-    {
-      "id": "2644517bd0bd5d09",
-      "title": "No Subsidised Cooking Oil Shortage Complaints In Johor Since eCOSS - KPDN - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jcVF1Rm5QbWl2T1ROZ2JhTG1FUFpzUHBvaWVQbGFVS0s4NWN0ejBZbWVrV2FaX0dvWEFzb1hfN2VRTG5GaGRtdUpCVGk3QnM2eURfWWJtRjZEQjBvTEl4eVpn?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + oil"
-      ],
-      "firstSeen": "2026-04-04T12:29:01.600Z",
-      "pushedAt": "2026-04-04T12:29:01.600Z"
-    },
-    {
-      "id": "048e96eb86c66bd0",
-      "title": "Military coup leader who overthrew Aung San Suu Kyi elected president",
-      "url": "https://news.sky.com/story/head-of-myanmars-ruling-junta-who-led-coup-against-nobel-peace-prize-winner-aung-san-suu-kyi-becomes-president-13527465",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "military coup"
-      ],
-      "firstSeen": "2026-04-04T11:34:59.530Z",
-      "pushedAt": "2026-04-04T11:34:59.530Z"
-    },
-    {
-      "id": "3bf4c9e972fe28fd",
-      "title": "Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says - AP News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZnN5ZWE5LXdjMDBzT002ZEY3MkR3X1BacUp4UktBSVFWTlVMTDJUTVA0UmpuQnZyMzFOWGZmV0lOaWFfVVBoeXhELWRENV9xNUNlbmJwMHVPNXJHeEhJcnVPQndZSVRud1dPTXVHNXlMTW9YUjNGQk0waDZYNUNLUVFleDBhbXFpTkxUSG1LV2JrbGpIVlRPMUhCZ1ZIUVpXUTl1R3pUZFo2NEN6aTREeHFtNS1jVVFkNi1HUDZNWlg3QUtsT0xz?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-04-04T11:01:54.987Z",
-      "pushedAt": "2026-04-04T11:01:54.987Z"
-    },
-    {
-      "id": "fd8caa0b499b796a",
-      "title": "At least four people killed in Russian attacks on Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/4/4/1997?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-04T11:01:55.202Z",
-      "pushedAt": "2026-04-04T11:01:55.202Z"
-    },
-    {
-      "id": "d92c671dd0e83e06",
-      "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
-      "url": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 100%"
-      ],
-      "firstSeen": "2026-04-04T11:01:55.385Z",
-      "pushedAt": "2026-04-04T11:01:55.385Z"
     }
   ],
-  "updatedAt": "2026-04-05T10:49:32.027Z"
+  "updatedAt": "2026-04-05T14:34:38.565Z"
 }
