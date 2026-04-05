@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b636808e76bcf3e3",
+      "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
+      "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-04-05T21:59:13.441Z",
+      "pushedAt": "2026-04-05T21:59:13.441Z"
+    },
+    {
       "id": "3290a027ccbdc66f",
       "title": "Iranian missile strikes industrial area in southern Israel",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/iranian-missile-strikes-industrial-area-in-southern-israel?traffic_source=rss",
@@ -71,43 +83,7 @@
       ],
       "firstSeen": "2026-04-05T10:04:55.467Z",
       "pushedAt": "2026-04-05T10:04:55.467Z"
-    },
-    {
-      "id": "d27d22d388c8dcc6",
-      "title": "Slovak PM says EU should drop sanctions on Russian oil and gas to boost energy security - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMGg1Yk05UjRVQVJmYUxxTUo3ZVBwZXZ4MmZwWEZZRURWb2w5OEFvRlJNYWNQYmFLdkdjdldaeDlJd25yYk1uMkJ6SHZ3M0dMZW0xQUlJTzFBTVhiX1ZFYzZWLWFGeEdDRkRaRndoSkFYR25Kck1YS3ROZmxzNmx1enJzeE43YVpDb0dPMlU2MW51X1hQR0dma091SUNXbl9wQUpSVU5QdWo4a2pXRFVlVW1Ka3pvQ3VFR2YwR1hiMTdKLWUzeEhPUw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-04-04T19:56:52.519Z",
-      "pushedAt": "2026-04-04T19:56:52.519Z"
-    },
-    {
-      "id": "70a02dfa6ebcaf15",
-      "title": "What we know so far about the US fighter jet shot down over Iran",
-      "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + jet"
-      ],
-      "firstSeen": "2026-04-04T19:56:52.956Z",
-      "pushedAt": "2026-04-04T19:56:52.956Z"
-    },
-    {
-      "id": "0540f182a47291b5",
-      "title": "European ministers call for profit caps on energy companies as Iran war drives price surge - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWtCT29fRzAwS2s0SjctZ2V0bnVmY1RFQTNaNHZ4dy1kUjk2MHZQc1ZNa1BEcDFxQ2p2cWZsZ3hGb254UjM2OVpfdkhBR09qUlZHbjF1TjRuWVJsLWIyb3czWF9uZ050UlB4SEd2VXZteGFxOHMtd1lnb2ViWTl6bklfcDhyTEVJb2h1RUM4allkVjZmLTg4?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + price"
-      ],
-      "firstSeen": "2026-04-04T19:38:35.736Z",
-      "pushedAt": "2026-04-04T19:38:35.736Z"
     }
   ],
-  "updatedAt": "2026-04-05T16:47:44.691Z"
+  "updatedAt": "2026-04-05T21:59:13.561Z"
 }
