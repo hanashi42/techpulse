@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "cdb03f4a7779c5ed",
+      "title": "OPEC+ debates theoretical oil output hike amid Iran war paralysis, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0w1SHNLQ1k1UGtoeDZfXzZ6N3pwVzNzc2tkZ2xCdmpjazMwQktBeEpzMXZLYTB0NzJZakNtdUdKV2FENkc0eW9nZHZseWQzTVNObWpidElWby1UTGhCaTlSZ2tSWU4weXlHNEppMlBXNUR0YXotR3dMbUgxdzlHSXdoM3REd2NQRG1COFlTeVlwRXZzR3RCckh6Q2pyTWRKTmExVkJjWXRpZlZBNUUzcExkdDYxdGxuRXB6QlZQTjF3MWlVdFpF?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "opec + output"
+      ],
+      "firstSeen": "2026-04-05T10:04:55.467Z",
+      "pushedAt": "2026-04-05T10:04:55.467Z"
+    },
+    {
       "id": "d27d22d388c8dcc6",
       "title": "Slovak PM says EU should drop sanctions on Russian oil and gas to boost energy security - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMGg1Yk05UjRVQVJmYUxxTUo3ZVBwZXZ4MmZwWEZZRURWb2w5OEFvRlJNYWNQYmFLdkdjdldaeDlJd25yYk1uMkJ6SHZ3M0dMZW0xQUlJTzFBTVhiX1ZFYzZWLWFGeEdDRkRaRndoSkFYR25Kck1YS3ROZmxzNmx1enJzeE43YVpDb0dPMlU2MW51X1hQR0dma091SUNXbl9wQUpSVU5QdWo4a2pXRFVlVW1Ka3pvQ3VFR2YwR1hiMTdKLWUzeEhPUw?oc=5",
@@ -131,67 +143,7 @@
       ],
       "firstSeen": "2026-04-04T10:33:39.910Z",
       "pushedAt": "2026-04-04T10:33:39.910Z"
-    },
-    {
-      "id": "3ad85352c1bd735d",
-      "title": "Midnight train from Georgia: A view of America from the tracks as airports struggle in the shutdown - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkJac0NnenZBUU8xOTZfc1VUam40LTdnWmhwODNxLW03UG04MklPWTkySGhTUU5MTkRaMFcxZm92RndMQUZvTzBxZkJMT2JqMzM5VmlqOTlwN3pHVmdOaDJnczQ0R0FSNk83TDRKdUhPYWx2SlhfWmNEeElIU1RHUUhWZjBNUk9iOUNVUTR6MjFXQVNrRVItZlI2UXdCb0g1Q2dMWC1KMUJ4TndS?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shutdown + port"
-      ],
-      "firstSeen": "2026-04-04T05:44:02.507Z",
-      "pushedAt": "2026-04-04T05:44:02.507Z"
-    },
-    {
-      "id": "4245bf3039a3b238",
-      "title": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis",
-      "url": "https://www.cnbc.com/2026/04/02/dated-brent-oil-price-actual-cargo-highest-level-2008.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-04-04T04:42:36.911Z",
-      "pushedAt": "2026-04-04T04:42:36.911Z"
-    },
-    {
-      "id": "f921f861465e097b",
-      "title": "China opens investigations into US trade practices in response to Trump tariff moves - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGJGQkxHNlhfckEwNnZ2ZU5qQ3pYSW9UWms0Y1M0cjh1c0xGRW5TY19YTUtKTVRoZnlRUVQ0YmgwdFpValp2YjAzcEVMOTZIYkgzaHBGUk1aVWNmaTFTVExlZXUtb3BRRkJzZjJ1MXBGZTBXel96UnhzLWppTjVwc0xndHJ5RTljaXNaeUF1X1NuYmVGLW9qWW1DSklrWE1kZVBN?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-04-04T04:42:37.081Z",
-      "pushedAt": "2026-04-04T04:42:37.081Z"
-    },
-    {
-      "id": "b5e3898086423a43",
-      "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-04-04T02:53:12.306Z",
-      "pushedAt": "2026-04-04T02:53:12.306Z"
-    },
-    {
-      "id": "dfe20502d433e305",
-      "title": "US Pushes Trade Board with China, Pharma Tariffs Announced, and China's Oil Imports Under Scrutiny - The US-China Business Council",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYk5HYUd3elJKY3ZDdl9QMDJWY3FmQUxFSUdUY1pqY3ZXQUk5Y2dSMzNvLXo4a0NtblJzQlVWdXFna3kxUTR1UzVBNHBmNzVjdGdkb3Q0dDRmZmdsWmN1Q25OTGhqR3NDZFRCZjRlREYwU0VRTWNqQUJDUTNFOHF2aGg3TW5weTdGbE1pZ210SGxnRThzbXRYekJwU2JEb3A3c1dmRmJTSS0xY19XQmFJR1dIMi1kbUlva01uMjZyeGVBSUxCVnJtSg?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-04T02:53:12.513Z",
-      "pushedAt": "2026-04-04T02:53:12.513Z"
     }
   ],
-  "updatedAt": "2026-04-04T19:56:53.227Z"
+  "updatedAt": "2026-04-05T10:04:55.562Z"
 }
