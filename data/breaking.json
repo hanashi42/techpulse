@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8204385795258706",
+      "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-04-05T10:49:31.882Z",
+      "pushedAt": "2026-04-05T10:49:31.882Z"
+    },
+    {
       "id": "cdb03f4a7779c5ed",
       "title": "OPEC+ debates theoretical oil output hike amid Iran war paralysis, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0w1SHNLQ1k1UGtoeDZfXzZ6N3pwVzNzc2tkZ2xCdmpjazMwQktBeEpzMXZLYTB0NzJZakNtdUdKV2FENkc0eW9nZHZseWQzTVNObWpidElWby1UTGhCaTlSZ2tSWU4weXlHNEppMlBXNUR0YXotR3dMbUgxdzlHSXdoM3REd2NQRG1COFlTeVlwRXZzR3RCckh6Q2pyTWRKTmExVkJjWXRpZlZBNUUzcExkdDYxdGxuRXB6QlZQTjF3MWlVdFpF?oc=5",
@@ -131,19 +143,7 @@
       ],
       "firstSeen": "2026-04-04T11:01:55.385Z",
       "pushedAt": "2026-04-04T11:01:55.385Z"
-    },
-    {
-      "id": "1e390ccba8288023",
-      "title": "Senegal bans ministers from foreign travel as oil price rise bites",
-      "url": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-04-04T10:33:39.910Z",
-      "pushedAt": "2026-04-04T10:33:39.910Z"
     }
   ],
-  "updatedAt": "2026-04-05T10:04:55.562Z"
+  "updatedAt": "2026-04-05T10:49:32.027Z"
 }
