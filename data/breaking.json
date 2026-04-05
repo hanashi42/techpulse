@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "d48add468f005899",
+      "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
+      "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "magnitude 7"
+      ],
+      "firstSeen": "2026-04-05T15:04:29.924Z",
+      "pushedAt": "2026-04-05T15:04:29.924Z"
+    },
+    {
+      "id": "048e96eb86c66bd0",
+      "title": "Military coup leader who overthrew Aung San Suu Kyi elected president",
+      "url": "https://news.sky.com/story/head-of-myanmars-ruling-junta-who-led-coup-against-nobel-peace-prize-winner-aung-san-suu-kyi-becomes-president-13527465",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "military coup"
+      ],
+      "firstSeen": "2026-04-05T15:04:30.089Z",
+      "pushedAt": "2026-04-05T15:04:30.089Z"
+    },
+    {
       "id": "534f8e3207df5d99",
       "title": "Lebanese army says soldier killed in Israeli attack in southern Lebanon - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnJZRDNXdVUtNWgwY0dEOUl0U0lTWWdCbWpIMUNRYWpxNk1yTDl2eEtCWVJHRFI4QWNTcC14bjBoQnRmNUV0c09uY3N0cXpQVE9fU0xxWjhMSU1UR2tKQTlYektkVFFhQnJubnM4dFZ3RG1ndEVwaUdhTzRIZWdYcm56SUcteWg2a2xaYmFlb0FweENfbGRoaEFoWkxaSHhydFlEWU5pT1dPd0VLakt6NGpqNTBoWU9CZHdz?oc=5",
@@ -73,5 +97,5 @@
       "pushedAt": "2026-04-04T19:38:35.736Z"
     }
   ],
-  "updatedAt": "2026-04-05T14:34:38.565Z"
+  "updatedAt": "2026-04-05T15:04:30.210Z"
 }
