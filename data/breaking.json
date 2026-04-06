@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fb62891b4e93b65c",
+      "title": "Trump says Iranians should rise up against government if ceasefire declared - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTZ6Q0JMQ054VzZJMEZ1d1NWTG9GT0doaFROVS1XZ3N4OWdWVXpqQ1A2ekFFaGVZdWkzdGlBNjMxZ2s3bU5XV3dGQ3JHODJrVzItY0piVlR6NVpMSjcyX3Mwb0hOUnBlaGpNTTQxbDFsZGFKTEYzSWluZmxPQlBscGJfaHk2N1NyYU8wZUlvUXc5eVlWV2t3WWE2NXJWeWM3T3M0UC1GT1RMUW9nMzNaUWFiTmVNeHpfeUtpTWRkZGYyRGZvaWtpWQ?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ceasefire declared"
+      ],
+      "firstSeen": "2026-04-06T21:25:00.646Z",
+      "pushedAt": "2026-04-06T21:25:00.646Z"
+    },
+    {
       "id": "6556cf1071482f85",
       "title": "Renewed Israeli strikes pound Lebanon as ground offensive deepens",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/renewed-israeli-strikes-pound-lebanon-as-ground-offensive-deepens?traffic_source=rss",
@@ -206,5 +218,5 @@
       "pushedAt": "2026-04-05T21:59:13.441Z"
     }
   ],
-  "updatedAt": "2026-04-06T20:08:11.018Z"
+  "updatedAt": "2026-04-06T21:25:01.131Z"
 }
