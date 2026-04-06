@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ec6028eab8383863",
+      "title": "Airstrikes on Iran kill more than 25 as new ceasefire proposal is shared - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUdrTzFfcDgyYmxSNk93OTRQbHhNWW9IT3I1bUx2ZXlRRXE3ZTh5ZWwyRU1PbVdmWFUzOEVFa29DSUxUTmdxck1teTJtVnlvT3ZDR0JPU1BaUmh6WHB6U2NCZjV2ZW45OWhISTRndEI1S2hJN3ZOeUNnRlRuRUdQYTRVampZd1BuckRtOFhOYVAzd2FRczF3OXBtZVhjY2Frd2ww?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "airstrikes on"
+      ],
+      "firstSeen": "2026-04-06T09:52:40.503Z",
+      "pushedAt": "2026-04-06T09:52:40.503Z"
+    },
+    {
+      "id": "c128a0f48a0aebda",
+      "title": "Oil Prices Jump As Trump Ramps Up Threats Against Iran - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NRzFBSHc2eTNORFBkcktVRGVfOUV5YndCZl9YeDFVYmlLUEo0NHE3Vy1NM0pqRC1kUUd2MXpqV0s5V0FqTWdtM2RQWi1yczZxVG5VemFoR29VVWlfZmdKdGVnekVpZm1mV3BqNzlSNTkyS1M4?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-04-06T09:52:40.733Z",
+      "pushedAt": "2026-04-06T09:52:40.733Z"
+    },
+    {
       "id": "89f66b941164b429",
       "title": "South Korea's Lee says country must balance risk as Hormuz disruptions threaten oil supplies - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0NFcldTaElOY3NQSTZoOFlKb1ZGRlc2TGppR0MzX0VpTUNuei1qWGdaVDhFcEVaZk9aRTJnYWo1bzgtS0I0WV9lQkhvNDl5ekVqeXNLYjdCaW1JbXV5a3BOM292blNSS19hbzR0aFlJaF9aX2gyOE9kSmIxamdBdGd2Z3B0clVTYS1sdUlnRzE0NGMxOUJkRzZ4cm1Eekc0ZjFwRmJWcExIcmZyUVV4d1J0QkI2akJPXzY5eUNaRXRnTF9wNXhDMkxKNA?oc=5",
@@ -134,5 +158,5 @@
       "pushedAt": "2026-04-05T10:04:55.467Z"
     }
   ],
-  "updatedAt": "2026-04-06T07:10:41.342Z"
+  "updatedAt": "2026-04-06T09:52:40.913Z"
 }
