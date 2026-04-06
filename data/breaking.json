@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "df78f626f4673a08",
+      "title": "Seyed Majid Khademi, Iranian Intelligence Chief, Killed in Overnight Attack",
+      "url": "https://www.nytimes.com/2026/04/06/world/middleeast/iran-khademi-intelligence-israel.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-06T13:43:13.528Z",
+      "pushedAt": "2026-04-06T13:43:13.528Z"
+    },
+    {
+      "id": "60723d7b2ae3320e",
+      "title": "China-Russia alliance raises alarm as Strait of Hormuz crisis threatens global oil supply - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JYVJqSGxNX053QURMYUtvZEpKTEY5VTM1Q3JvZ2paMnBaLWh3LVNUaDVJbEpCUzg5X0FzaEhXdnR1OVlwcUR0dVJiS3pwWmRIMUp2bFdoSEw5c1k?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-04-06T13:43:13.602Z",
+      "pushedAt": "2026-04-06T13:43:13.602Z"
+    },
+    {
       "id": "f7c013a2b7c05c05",
       "title": "Thailand PM calls for energy saving as Middle East conflict drives price surge",
       "url": "https://www.theguardian.com/world/2026/apr/06/thailand-pm-calls-for-energy-saving-as-middle-east-conflict-drives-price-surge",
@@ -146,5 +170,5 @@
       "pushedAt": "2026-04-05T14:34:38.349Z"
     }
   ],
-  "updatedAt": "2026-04-06T12:08:34.760Z"
+  "updatedAt": "2026-04-06T13:43:13.644Z"
 }
