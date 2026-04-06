@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "db22fc3239cbae27",
+      "title": "Cairo faces darker nights as global energy prices continue to soar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/cairo-faces-darker-nights-as-global-energy-prices-continue-to-soar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-04-06T18:37:15.504Z",
+      "pushedAt": "2026-04-06T18:37:15.504Z"
+    },
+    {
       "id": "04ffdcf53df2bdaa",
       "title": "ASML Stock Sinks On Proposed China Trade Restrictions - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbVN5eDRCYmFBaGpwZmFIVHlKZGRMeE5sYXhNN0tWVEpNM3NLSmhTS21qTUpzbGVENXM4d0NLcHU2V3VKbzljVjAtQkFEQmQycDg5RDdqSG9iU1ZjblJnOGhJY0FBOHRnUDJtaDB3SldoMlhWQ3FHblZXbkI5TC1IUC02V0lYSXlqb1JBZUJhVVdoeDJCVHB1WkRGV3k?oc=5",
@@ -182,5 +194,5 @@
       "pushedAt": "2026-04-05T21:59:13.441Z"
     }
   ],
-  "updatedAt": "2026-04-06T17:01:34.879Z"
+  "updatedAt": "2026-04-06T18:37:15.767Z"
 }
