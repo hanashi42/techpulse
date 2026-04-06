@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1c89b0f837b30dc2",
+      "title": "Trump's trade war with China in focus ahead of May summit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWdZTUNvd3VfbWx4djBBNjU0OGZlbE04dHRGUC1VaEw2Zl9uQUhfQnNzQzkzdVNPeEMxUk44bjFMSjFwajgyN0wzTGdTRDU2WUZTUzREQ1YyWnlMSzhpeU1hWDVUeUxwWG1MdzZoRHVmbGw2VTZRXzQzNDFLek9LOWJWQ0QtWU9JckhvbVZXSkxqc2Fpb0hnOHhXSHJXdlU?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + china"
+      ],
+      "firstSeen": "2026-04-06T03:24:30.276Z",
+      "pushedAt": "2026-04-06T03:24:30.276Z"
+    },
+    {
       "id": "a42e285b471427bb",
       "title": "U.S. fighter jet shot down in Iran, one crew member rescued, MS NOW reports",
       "url": "https://www.cnbc.com/2026/04/03/us-fighter-jet-downed-in-iran.html",
@@ -97,5 +109,5 @@
       "pushedAt": "2026-04-05T10:04:55.467Z"
     }
   ],
-  "updatedAt": "2026-04-05T22:31:42.038Z"
+  "updatedAt": "2026-04-06T03:24:30.555Z"
 }
