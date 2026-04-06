@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f7c013a2b7c05c05",
+      "title": "Thailand PM calls for energy saving as Middle East conflict drives price surge",
+      "url": "https://www.theguardian.com/world/2026/apr/06/thailand-pm-calls-for-energy-saving-as-middle-east-conflict-drives-price-surge",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-04-06T12:08:34.374Z",
+      "pushedAt": "2026-04-06T12:08:34.374Z"
+    },
+    {
       "id": "ec6028eab8383863",
       "title": "Airstrikes on Iran kill more than 25 as new ceasefire proposal is shared - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUdrTzFfcDgyYmxSNk93OTRQbHhNWW9IT3I1bUx2ZXlRRXE3ZTh5ZWwyRU1PbVdmWFUzOEVFa29DSUxUTmdxck1teTJtVnlvT3ZDR0JPU1BaUmh6WHB6U2NCZjV2ZW45OWhISTRndEI1S2hJN3ZOeUNnRlRuRUdQYTRVampZd1BuckRtOFhOYVAzd2FRczF3OXBtZVhjY2Frd2ww?oc=5",
@@ -132,31 +144,7 @@
       ],
       "firstSeen": "2026-04-05T14:34:38.349Z",
       "pushedAt": "2026-04-05T14:34:38.349Z"
-    },
-    {
-      "id": "8204385795258706",
-      "title": "Footage shows Israeli military dog attacking Palestinian man inside mosque",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-04-05T10:49:31.882Z",
-      "pushedAt": "2026-04-05T10:49:31.882Z"
-    },
-    {
-      "id": "cdb03f4a7779c5ed",
-      "title": "OPEC+ debates theoretical oil output hike amid Iran war paralysis, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0w1SHNLQ1k1UGtoeDZfXzZ6N3pwVzNzc2tkZ2xCdmpjazMwQktBeEpzMXZLYTB0NzJZakNtdUdKV2FENkc0eW9nZHZseWQzTVNObWpidElWby1UTGhCaTlSZ2tSWU4weXlHNEppMlBXNUR0YXotR3dMbUgxdzlHSXdoM3REd2NQRG1COFlTeVlwRXZzR3RCckh6Q2pyTWRKTmExVkJjWXRpZlZBNUUzcExkdDYxdGxuRXB6QlZQTjF3MWlVdFpF?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + output"
-      ],
-      "firstSeen": "2026-04-05T10:04:55.467Z",
-      "pushedAt": "2026-04-05T10:04:55.467Z"
     }
   ],
-  "updatedAt": "2026-04-06T09:52:40.913Z"
+  "updatedAt": "2026-04-06T12:08:34.760Z"
 }
