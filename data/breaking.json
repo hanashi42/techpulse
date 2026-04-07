@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c430b8cbd68dd273",
+      "title": "From falling U.S. wealth to Indian factory closures, oil shock raises global recession risk - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2wySHZrQm5Bc05hU2s1NkF4SjFFSUIxQ3pvcnlfVjZfZUhWNDFoT0t0WnVoT2tabzIxOEJzaUxHU0t2ZlFBQ0VnWDRmaFlta3ZfY0pjLWV5Tk5ZRDd2MFpJcHBkUFEwbktWS1VLWmM0X1p1WGNtMEktYXJySGdIY3BibXZGeWJvV0ozMUFRMnJmMElsMG9LcjA5NEJkd3oxRVBENEl3bGtyVDFtQkoxM2dtZ2xPbEhLU0pCWnB2ci1hR3dJWmN4ZFBPckU4MXAw?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-04-07T19:20:06.204Z",
+      "pushedAt": "2026-04-07T19:20:06.204Z"
+    },
+    {
       "id": "c098d0a8c0452e6d",
       "title": "Delta Air hikes checked baggage fees as jet fuel prices soar - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlZwRHY0Rk5rSDRROURyM1VCTWs5OWVLRFJPLS1KRGp5eV8yXzBHdFpTOHltWTl0RnZOS2xpZnFEX3p4LWdZQ3VNb1gwSUJlYTlZWk04cU80dEhyUXJtMFEtb3RTaGJBODhNMy01aDdkc0NZRTc2MnRHejFHZVZtOGNaNG1QaW5CaXdKelUzeTVDMmJpWFY3Vy1mbDVsNk5YU1hMNg?oc=5",
@@ -181,19 +193,7 @@
       ],
       "firstSeen": "2026-04-06T20:08:10.791Z",
       "pushedAt": "2026-04-06T20:08:10.791Z"
-    },
-    {
-      "id": "db22fc3239cbae27",
-      "title": "Cairo faces darker nights as global energy prices continue to soar",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/cairo-faces-darker-nights-as-global-energy-prices-continue-to-soar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-04-06T18:37:15.504Z",
-      "pushedAt": "2026-04-06T18:37:15.504Z"
     }
   ],
-  "updatedAt": "2026-04-07T17:14:06.892Z"
+  "updatedAt": "2026-04-07T19:20:06.330Z"
 }
