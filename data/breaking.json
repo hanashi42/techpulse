@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8f7ea7573ce9b11b",
+      "title": "Stocks stumble, oil above $110 as Trump's Iran deadline nears - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPclFHbk5DX2dtMzRqM1I2YzZuakJ1SmVFUm5pdzFSWFBOWE50bXMyWTFkSjhWUnRuTVhjMmlvOXBJdHU5NV93eU8tQmxyeVBUU3ZvYkJCcklqYlN6QXp6WFhUM0pHYXNmclJSR0tNMUR0QktJVF91OHFQQXc1Y3ZKWDNPcw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + stock"
+      ],
+      "firstSeen": "2026-04-07T06:48:50.980Z",
+      "pushedAt": "2026-04-07T06:48:50.980Z"
+    },
+    {
       "id": "ed632be28661fdc9",
       "title": "How China Helped Iran Cushion the Blow of Sanctions and Fund Its War Machine - WSJ",
       "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNSmlHay0tanZoSi1MMlZtTXRXVkN4U2x5LW9IcS1KVjZkdVh3aEJNUmlSUWUtc09hdXA3RmtLWXljbWl1T2ZXNkNwQlR2NjJRaWxEVDdxM3F5Tm9IVGh4QW1sOVFVZ3pjVEdoY2FKYXpqV1NMVk5PTlAyZ2hzbkp0bEpCbERPcXFUMm5YUU1vaWJoeUhNY0FzQ0hKYlZPRExZNXgzZEdmQlFLYzE1THhiNW4zeEp5NXJ6d3AtU216cUJFdVdsakdQdlpvV0pPNW4tUUJaNHpvRTR4VTFrMG9zc0JQNWp1TWw4UVMtcThiR1pVcHNuVTMtb3ZyaFpvRjNFNldlUmR1Ui1QMUFtYVpVd1hjX04wMzFhaEs2M2NuaDhNMmgzNDYzTTRRcjZnRHFmMWdkLU9abUNWalV4R2piSXNhNDdnV0pINWhLekpFbDZvVTNzR2E2MFJMTHQ3YVlJSEVLNWxUaENkS1ZHSDVnTzNsVnZYSVo3a3FGZnpza2w3ZDkybmEtdnZqZWw3QjBCNjNYWEtqTDVzSFU1NjAtZWdESlFaVnZ2T3JqNGd0M3RMUW1GOFV5RGdGVzg0UE1oOFdURGN3?oc=5",
@@ -193,19 +205,7 @@
       ],
       "firstSeen": "2026-04-06T07:10:40.901Z",
       "pushedAt": "2026-04-06T07:10:40.901Z"
-    },
-    {
-      "id": "6f2427c44627db43",
-      "title": "How one factory in China learned to live with Trump, tariffs and turmoil - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMl80UFk3LU5BWkl5cXktUGNfTm42TW9NeXJ4ZjRYRjB6aWpMUnBaQmF2eGs3eUVkb3djOThaUlVYanVYSXkySGZWRHdnSXJQZjhQZm1wczZLWGIxYURuUVNYazRXai1YX1ByRzdjVkMxUVdKNGlYOVhrOVhJamd4bExjM0NQWmZvOTVTbXRUQUR2dTU0THd4cUIzYW5yMGNxeW1FcHFwcV9wdEJ6R1E?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-06T05:36:29.582Z",
-      "pushedAt": "2026-04-06T05:36:29.582Z"
     }
   ],
-  "updatedAt": "2026-04-07T05:22:46.976Z"
+  "updatedAt": "2026-04-07T06:48:51.350Z"
 }
