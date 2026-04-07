@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "ce5022a771f2788f",
+      "title": "Physical oil prices hit record highs near $150 a barrel as Hormuz crisis worsens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFpWRERLbXFJcjA1YWtGb1AxUTBPUnNOQ0ZiMUZJYjdOTkN1S3lIbklodktvOUlfRkpHZHZ2dlFMcF9WdlBzRTlLcDRQUXFEUmZKcmY1aEFGcTJqcm1SNjRjRWo2WktxdWlZQXNnS2RGSlZNdEtCOG9HUGlnWl9zNTZGWld1VVdkdG8tV3BYcUFuelgxZmtCMUpJVFRuZUdaMjZ6dDJ3MG5EWk1YeW51d2hZV3c2UFdaU3B5dndKOUtkb0Nl?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "record high + oil",
+        "oil price + record"
+      ],
+      "firstSeen": "2026-04-07T16:07:47.123Z",
+      "pushedAt": "2026-04-07T16:07:47.123Z"
+    },
+    {
+      "id": "2362e2c6f91b08d9",
+      "title": "From 9pm shutdowns to remote work: Egypt cuts fuel amid power crisis",
+      "url": "https://www.aljazeera.com/economy/2026/4/7/from-9pm-shutdowns-to-remote-work-egypt-cuts-fuel-amid-power-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shutdown + power"
+      ],
+      "firstSeen": "2026-04-07T16:07:47.356Z",
+      "pushedAt": "2026-04-07T16:07:47.356Z"
+    },
+    {
+      "id": "b687f8b9f4c7db6e",
+      "title": "Britain Reinforces That U.S. Cannot Use British Bases for Attacks on Iran",
+      "url": "https://www.nytimes.com/2026/04/07/world/middleeast/britain-iran-bases.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + base"
+      ],
+      "firstSeen": "2026-04-07T16:07:47.403Z",
+      "pushedAt": "2026-04-07T16:07:47.403Z"
+    },
+    {
       "id": "45b35b511c903991",
       "title": "Iran War Live Updates: Trump Issues Grave Threats as Hormuz Deadline Draws Closer",
       "url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
@@ -144,55 +181,7 @@
       ],
       "firstSeen": "2026-04-06T17:01:34.823Z",
       "pushedAt": "2026-04-06T17:01:34.823Z"
-    },
-    {
-      "id": "d48add468f005899",
-      "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
-      "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "magnitude 7"
-      ],
-      "firstSeen": "2026-04-06T16:06:22.135Z",
-      "pushedAt": "2026-04-06T16:06:22.135Z"
-    },
-    {
-      "id": "048e96eb86c66bd0",
-      "title": "Military coup leader who overthrew Aung San Suu Kyi elected president",
-      "url": "https://news.sky.com/story/head-of-myanmars-ruling-junta-who-led-coup-against-nobel-peace-prize-winner-aung-san-suu-kyi-becomes-president-13527465",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "military coup"
-      ],
-      "firstSeen": "2026-04-06T16:06:22.360Z",
-      "pushedAt": "2026-04-06T16:06:22.360Z"
-    },
-    {
-      "id": "7de78573c9faa2ea",
-      "title": "Four killed in Israel's Haifa after Iranian missile strike - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3RTdkNwOHlSZXlkWUJqdXdYOXdrWEsyR00tcndjc1RCcV85OFZGU3VxYVNYRTl3aTNGUldsSTg3blI4OTRUUWlvWTlBODR1aWI5c215dlBBTWQ3a1VLRnNhNmQ2RWlOTXROcDQtYzhBaWNIellkLV9BeThsZW8zY2dNUW5zWk5ZMU1EdWZvX0xqZkdQdzRzMk1OYm1jN2NCUk0tRVAxWmxmQ1V5?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-04-06T15:26:35.173Z",
-      "pushedAt": "2026-04-06T15:26:35.173Z"
-    },
-    {
-      "id": "126910738ffee130",
-      "title": "Nigerian military and officials say at least 26 killed in 3 weekend attacks on civilians and police - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFE5dDlXOXRNV29NR01LMU5YYUtFMHdHVDh2clotOXNFX3Z3VU5qSFlza0RwTF9TbFNaVFpxVzdUUlJzLWZOVm44TmkzNV9RNmJid3V3TGhkM1hIYVRab3VRUWl3aGUxRGJiOGx3R2RVbWM2bFVMcU5Da2lRa1RFZXBMZ0hCcHlzN2F4aENrcGtLQzBk?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-04-06T15:26:35.284Z",
-      "pushedAt": "2026-04-06T15:26:35.284Z"
     }
   ],
-  "updatedAt": "2026-04-07T13:52:21.606Z"
+  "updatedAt": "2026-04-07T16:07:47.425Z"
 }
