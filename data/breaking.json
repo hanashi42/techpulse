@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "d7d459ab5b79d65a",
+      "title": "Can Africa tackle the oil shock from the Iran war?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-04-07T12:02:44.171Z",
+      "pushedAt": "2026-04-07T12:02:44.171Z"
+    },
+    {
+      "id": "679a3aa8e482d0d5",
+      "title": "Oil prices rise as Trump reaffirms deadline for bombarding Iran's power plants, bridges",
+      "url": "https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-04-07T12:02:44.553Z",
+      "pushedAt": "2026-04-07T12:02:44.553Z"
+    },
+    {
       "id": "610552c19291c093",
       "title": "Ukraine, Russia kill three civilians each in tit-for-tat drone attacks",
       "url": "https://www.aljazeera.com/news/2026/4/7/three-civilians-killed-in-both-russia-ukraine-following-drone-attacks?traffic_source=rss",
@@ -194,5 +218,5 @@
       "pushedAt": "2026-04-06T12:08:34.374Z"
     }
   ],
-  "updatedAt": "2026-04-07T11:14:52.828Z"
+  "updatedAt": "2026-04-07T12:02:44.815Z"
 }
