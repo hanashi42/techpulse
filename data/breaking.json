@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "c098d0a8c0452e6d",
+      "title": "Delta Air hikes checked baggage fees as jet fuel prices soar - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlZwRHY0Rk5rSDRROURyM1VCTWs5OWVLRFJPLS1KRGp5eV8yXzBHdFpTOHltWTl0RnZOS2xpZnFEX3p4LWdZQ3VNb1gwSUJlYTlZWk04cU80dEhyUXJtMFEtb3RTaGJBODhNMy01aDdkc0NZRTc2MnRHejFHZVZtOGNaNG1QaW5CaXdKelUzeTVDMmJpWFY3Vy1mbDVsNk5YU1hMNg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-04-07T17:14:06.420Z",
+      "pushedAt": "2026-04-07T17:14:06.420Z"
+    },
+    {
+      "id": "d48add468f005899",
+      "title": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
+      "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "magnitude 7"
+      ],
+      "firstSeen": "2026-04-07T17:14:06.666Z",
+      "pushedAt": "2026-04-07T17:14:06.666Z"
+    },
+    {
       "id": "ce5022a771f2788f",
       "title": "Physical oil prices hit record highs near $150 a barrel as Hormuz crisis worsens - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFpWRERLbXFJcjA1YWtGb1AxUTBPUnNOQ0ZiMUZJYjdOTkN1S3lIbklodktvOUlfRkpHZHZ2dlFMcF9WdlBzRTlLcDRQUXFEUmZKcmY1aEFGcTJqcm1SNjRjRWo2WktxdWlZQXNnS2RGSlZNdEtCOG9HUGlnWl9zNTZGWld1VVdkdG8tV3BYcUFuelgxZmtCMUpJVFRuZUdaMjZ6dDJ3MG5EWk1YeW51d2hZV3c2UFdaU3B5dndKOUtkb0Nl?oc=5",
@@ -169,19 +193,7 @@
       ],
       "firstSeen": "2026-04-06T18:37:15.504Z",
       "pushedAt": "2026-04-06T18:37:15.504Z"
-    },
-    {
-      "id": "04ffdcf53df2bdaa",
-      "title": "ASML Stock Sinks On Proposed China Trade Restrictions - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbVN5eDRCYmFBaGpwZmFIVHlKZGRMeE5sYXhNN0tWVEpNM3NLSmhTS21qTUpzbGVENXM4d0NLcHU2V3VKbzljVjAtQkFEQmQycDg5RDdqSG9iU1ZjblJnOGhJY0FBOHRnUDJtaDB3SldoMlhWQ3FHblZXbkI5TC1IUC02V0lYSXlqb1JBZUJhVVdoeDJCVHB1WkRGV3k?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-04-06T17:01:34.823Z",
-      "pushedAt": "2026-04-06T17:01:34.823Z"
     }
   ],
-  "updatedAt": "2026-04-07T16:07:47.425Z"
+  "updatedAt": "2026-04-07T17:14:06.892Z"
 }
