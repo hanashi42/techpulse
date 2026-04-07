@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "610552c19291c093",
+      "title": "Ukraine, Russia kill three civilians each in tit-for-tat drone attacks",
+      "url": "https://www.aljazeera.com/news/2026/4/7/three-civilians-killed-in-both-russia-ukraine-following-drone-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + civilian"
+      ],
+      "firstSeen": "2026-04-07T11:14:52.629Z",
+      "pushedAt": "2026-04-07T11:14:52.629Z"
+    },
+    {
       "id": "6356e274da317136",
       "title": "Man Killed, Several Injured in Buntong Machete Attack - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qcUdUeEFuWk15WFI0T3N2VGVNVVFFWEpHSlVYOEgwSGR6R3BXdVpvVEVIZ01mTFVodVo1UVZ6ODhYMXlTTGhFQU5jWGNmclJJWEMwcHV6QTczWXM?oc=5",
@@ -180,31 +192,7 @@
       ],
       "firstSeen": "2026-04-06T12:08:34.374Z",
       "pushedAt": "2026-04-06T12:08:34.374Z"
-    },
-    {
-      "id": "ec6028eab8383863",
-      "title": "Airstrikes on Iran kill more than 25 as new ceasefire proposal is shared - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdUdrTzFfcDgyYmxSNk93OTRQbHhNWW9IT3I1bUx2ZXlRRXE3ZTh5ZWwyRU1PbVdmWFUzOEVFa29DSUxUTmdxck1teTJtVnlvT3ZDR0JPU1BaUmh6WHB6U2NCZjV2ZW45OWhISTRndEI1S2hJN3ZOeUNnRlRuRUdQYTRVampZd1BuckRtOFhOYVAzd2FRczF3OXBtZVhjY2Frd2ww?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "airstrikes on"
-      ],
-      "firstSeen": "2026-04-06T09:52:40.503Z",
-      "pushedAt": "2026-04-06T09:52:40.503Z"
-    },
-    {
-      "id": "c128a0f48a0aebda",
-      "title": "Oil Prices Jump As Trump Ramps Up Threats Against Iran - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NRzFBSHc2eTNORFBkcktVRGVfOUV5YndCZl9YeDFVYmlLUEo0NHE3Vy1NM0pqRC1kUUd2MXpqV0s5V0FqTWdtM2RQWi1yczZxVG5VemFoR29VVWlfZmdKdGVnekVpZm1mV3BqNzlSNTkyS1M4?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-04-06T09:52:40.733Z",
-      "pushedAt": "2026-04-06T09:52:40.733Z"
     }
   ],
-  "updatedAt": "2026-04-07T08:00:59.335Z"
+  "updatedAt": "2026-04-07T11:14:52.828Z"
 }
