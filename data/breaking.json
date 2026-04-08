@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "66b42a230d3c81d6",
+      "title": "Thailand confirms three deaths from vessel attacked in Strait of Hormuz - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDVDYnR2WEhSdHB4ak5McUZ6MWJ1RGs0T2R2SlJmczNZN25ZTGVpanhlTk5JSlVJTGQtM21iOWVPXzJBWDhKOFFoNW05RlJXekJTRXYwaWVBZC1RSk51TWFUX2RPNmRad0xwMi1rR1N2ZHRFVzI3NHFQQzQzbXY5WVFZc1ZkQWd4WEc0WmNBMjVqUWl4VzkxamZIR2FnaXJMX1dOdlktX3pKS2tXVGwxRVlNbmg2cEczOUE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + attacked"
+      ],
+      "firstSeen": "2026-04-08T15:12:49.864Z",
+      "pushedAt": "2026-04-08T15:12:49.864Z"
+    },
+    {
       "id": "1071be461e909eff",
       "title": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
       "url": "https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&at_campaign=rss",
@@ -184,5 +196,5 @@
       "pushedAt": "2026-04-07T16:07:47.403Z"
     }
   ],
-  "updatedAt": "2026-04-08T14:00:22.353Z"
+  "updatedAt": "2026-04-08T15:12:49.965Z"
 }
