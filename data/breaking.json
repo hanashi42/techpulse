@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "35962919f1038078",
+      "title": "Gulf countries scramble to intercept missiles hours into U.S.-Iran ceasefire agreement",
+      "url": "https://www.cnbc.com/2026/04/08/iran-missile-attacks-after-us-ceasefire-gulf-air-defenses.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ceasefire agreement"
+      ],
+      "firstSeen": "2026-04-08T03:55:04.977Z",
+      "pushedAt": "2026-04-08T03:55:04.977Z"
+    },
+    {
       "id": "33aa282a378890ce",
       "title": "South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal",
       "url": "https://www.cnbc.com/2026/04/08/asia-markets-today-trump-iran-war-kospi-nikkei-225-oil-hang-seng-index.html",
@@ -184,5 +196,5 @@
       "pushedAt": "2026-04-07T05:22:46.789Z"
     }
   ],
-  "updatedAt": "2026-04-08T01:02:58.101Z"
+  "updatedAt": "2026-04-08T03:55:05.084Z"
 }
