@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "d41b23388ac1d902",
+      "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
+      "url": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate cut + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-04-08T18:49:29.674Z",
+      "pushedAt": "2026-04-08T18:49:29.674Z"
+    },
+    {
       "id": "1e262ee8cbbffc69",
       "title": "Trump says US will work closely with Iran, discuss sanctions - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVU9pYzJJWVZkT3RHVjNuSElBTjhLOTFqVFFzaVBTLW9qc3VTMUpNMmFqWjJBWDVSSi10VlBhYmtWeU1NLUwtNFhkWDF6RXpBTUpYbnlYNEV3Z2IyTzE3VW4wTG1ZcFEtdVpLem5wZE15YjFZYndQMHFEZ2NwYzFRYTVXVmE1R2JWQmdkMG0tOHQ1VkJBYTRFV1pMWQ?oc=5",
@@ -159,5 +172,5 @@
       "pushedAt": "2026-04-07T19:20:06.204Z"
     }
   ],
-  "updatedAt": "2026-04-08T17:35:22.800Z"
+  "updatedAt": "2026-04-08T18:49:29.924Z"
 }
