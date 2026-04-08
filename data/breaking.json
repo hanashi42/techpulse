@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a641db08184a2ccf",
+      "title": "How China Helped Iran Cushion the Blow of Sanctions and Fund Its War Machine - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR3EwMWE2ZDEyNk1Ub1JzVXRmOHhkVVRkdERYeC1VY1Y1MkJWS0VVTmxBbUNLVnFnT092aW9oT0FtMUNuaDJJNFNLTzFtLVlvSVZsX1BWTmMtNktOaHlVVHNwUGwyb3Q5Y3lFZEhuYkdYR0dfZHNhQ2wxNnNWV2xjUGE3ZFVTdDBNWXRIX3FQNUt0NzZjMlNzdE9PYXdIVGxSOFFIcVh0RXdDbmFnX0hGUDNhcWdxTlRFZUNfbXZjd0U?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-04-08T08:14:45.064Z",
+      "pushedAt": "2026-04-08T08:14:45.064Z"
+    },
+    {
       "id": "459d493a82a7c16c",
       "title": "Asian tech stocks surge as U.S.-Iran cease fire ease Hormuz disruption worries",
       "url": "https://www.cnbc.com/2026/04/08/asian-chip-stocks-surge-us-iran-ceasefire-helium-supply-relief.html",
@@ -170,19 +182,7 @@
       ],
       "firstSeen": "2026-04-07T11:14:52.629Z",
       "pushedAt": "2026-04-07T11:14:52.629Z"
-    },
-    {
-      "id": "6356e274da317136",
-      "title": "Man Killed, Several Injured in Buntong Machete Attack - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qcUdUeEFuWk15WFI0T3N2VGVNVVFFWEpHSlVYOEgwSGR6R3BXdVpvVEVIZ01mTFVodVo1UVZ6ODhYMXlTTGhFQU5jWGNmclJJWEMwcHV6QTczWXM?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-07T08:00:59.159Z",
-      "pushedAt": "2026-04-07T08:00:59.159Z"
     }
   ],
-  "updatedAt": "2026-04-08T07:01:03.102Z"
+  "updatedAt": "2026-04-08T08:14:45.479Z"
 }
