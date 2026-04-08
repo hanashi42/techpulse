@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b5f6f6118b9e2743",
+      "title": "One country is winning the US-China trade war: Mexico - Mexico News Daily",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GaFhueExiVm5vWUxmVEVhWGVndWx5VktlRTROQm4xUHlVRVB0OXNIalpydEJYcnBpZ0p2X2FTX2tlbWY3X0dQTkx1dkw3ZmF4Qk16cmVBVnVjbnBleS1hOFBQZ1hLbWZxRjNNS1FQb2I?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + china"
+      ],
+      "firstSeen": "2026-04-08T21:56:34.003Z",
+      "pushedAt": "2026-04-08T21:56:34.003Z"
+    },
+    {
       "id": "67ac8d6165706ea7",
       "title": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says",
       "url": "https://www.cnbc.com/2026/04/08/ceasefire-iran-war-lebanon.html",
@@ -184,5 +196,5 @@
       "pushedAt": "2026-04-07T23:42:32.346Z"
     }
   ],
-  "updatedAt": "2026-04-08T19:50:12.431Z"
+  "updatedAt": "2026-04-08T21:56:34.123Z"
 }
