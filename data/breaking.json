@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "33aa282a378890ce",
+      "title": "South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal",
+      "url": "https://www.cnbc.com/2026/04/08/asia-markets-today-trump-iran-war-kospi-nikkei-225-oil-hang-seng-index.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock",
+        "oil price + plunge"
+      ],
+      "firstSeen": "2026-04-08T01:02:57.903Z",
+      "pushedAt": "2026-04-08T01:02:57.903Z"
+    },
+    {
       "id": "804f1cc5e90824fa",
       "title": "U.S. oil price plunges nearly 19% to below $100 after Trump agrees to two-week ceasefire with Iran",
       "url": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html",
@@ -169,20 +182,7 @@
       ],
       "firstSeen": "2026-04-07T05:22:46.789Z",
       "pushedAt": "2026-04-07T05:22:46.789Z"
-    },
-    {
-      "id": "439bdf74aa27e42c",
-      "title": "Key Fed official sees possible rate hike amid higher gas prices, inflation concerns - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0t3MjZSMlpPbEc2N18xV2VwRlBINm1nR09OeE53U2dSSTZhdHlJd181bGsyNlhzYXY0V1NLcHUwZGtWblNDLW1nTTNOc3pjcnRsRVJNd2YtS0pkNjlsb09YbnpKa2RzZmtBTUdFeTZNUTBmb2Ftd2UtRjJ1QTBaQjg5QlEwdXRLeEF0VWZDOUFmT1g4MFZWMjdBcjY3TVZ1SWc?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-04-07T00:03:46.307Z",
-      "pushedAt": "2026-04-07T00:03:46.307Z"
     }
   ],
-  "updatedAt": "2026-04-07T23:42:32.400Z"
+  "updatedAt": "2026-04-08T01:02:58.101Z"
 }
