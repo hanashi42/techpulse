@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "1071be461e909eff",
+      "title": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
+      "url": "https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + gas"
+      ],
+      "firstSeen": "2026-04-08T14:00:21.962Z",
+      "pushedAt": "2026-04-08T14:00:21.962Z"
+    },
+    {
+      "id": "16f95698db01071e",
+      "title": "Airstrikes Hit Central Beirut As Israel Continues Attacks In Lebanon - bernama",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0bWhWcHVyYWtjM3lTT3Vua0Z4S3g0SF90RU5reXlROGJiU1BFNjFkc0F6dHRBTkVRTnZ2XzBtVV9uaTJxYmcxdS0wbVZFcW8zZ1d1QlhDcTZ4UDA?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + airstrike"
+      ],
+      "firstSeen": "2026-04-08T14:00:22.265Z",
+      "pushedAt": "2026-04-08T14:00:22.265Z"
+    },
+    {
       "id": "3349e8ee1daba4f1",
       "title": "Trump announces 50% tariffs on nations supplying Iran with weapons - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkFERl9sVHBjNm82NjU1TDJ6TmJEQmtvd1RQc3kwMjBZY1hyZkxuckV1ZG5KTE9Fb01JMDhQOUNRQ0ZUOXlkZG9aUnNieDktWHJZM0dMaFB4UzVLVnZ3T1pseVZ5N1pTLUVYZFpDZkc3UW5Pd2U1V0ZIc3paa0h6YTZYNnp2T1o2akhlVW9MbGw0c2lmQ1Jjc1FDeXQwakFZcVdBQkdrdw?oc=5",
@@ -158,19 +182,7 @@
       ],
       "firstSeen": "2026-04-07T16:07:47.403Z",
       "pushedAt": "2026-04-07T16:07:47.403Z"
-    },
-    {
-      "id": "45b35b511c903991",
-      "title": "Iran War Live Updates: Trump Issues Grave Threats as Hormuz Deadline Draws Closer",
-      "url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-04-07T13:52:21.411Z",
-      "pushedAt": "2026-04-07T13:52:21.411Z"
     }
   ],
-  "updatedAt": "2026-04-08T12:09:37.597Z"
+  "updatedAt": "2026-04-08T14:00:22.353Z"
 }
