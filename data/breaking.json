@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "459d493a82a7c16c",
+      "title": "Asian tech stocks surge as U.S.-Iran cease fire ease Hormuz disruption worries",
+      "url": "https://www.cnbc.com/2026/04/08/asian-chip-stocks-surge-us-iran-ceasefire-helium-supply-relief.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption"
+      ],
+      "firstSeen": "2026-04-08T07:01:03.039Z",
+      "pushedAt": "2026-04-08T07:01:03.039Z"
+    },
+    {
       "id": "35962919f1038078",
       "title": "Gulf countries scramble to intercept missiles hours into U.S.-Iran ceasefire agreement",
       "url": "https://www.cnbc.com/2026/04/08/iran-missile-attacks-after-us-ceasefire-gulf-air-defenses.html",
@@ -170,31 +182,7 @@
       ],
       "firstSeen": "2026-04-07T08:00:59.159Z",
       "pushedAt": "2026-04-07T08:00:59.159Z"
-    },
-    {
-      "id": "8f7ea7573ce9b11b",
-      "title": "Stocks stumble, oil above $110 as Trump's Iran deadline nears - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPclFHbk5DX2dtMzRqM1I2YzZuakJ1SmVFUm5pdzFSWFBOWE50bXMyWTFkSjhWUnRuTVhjMmlvOXBJdHU5NV93eU8tQmxyeVBUU3ZvYkJCcklqYlN6QXp6WFhUM0pHYXNmclJSR0tNMUR0QktJVF91OHFQQXc1Y3ZKWDNPcw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + stock"
-      ],
-      "firstSeen": "2026-04-07T06:48:50.980Z",
-      "pushedAt": "2026-04-07T06:48:50.980Z"
-    },
-    {
-      "id": "ed632be28661fdc9",
-      "title": "How China Helped Iran Cushion the Blow of Sanctions and Fund Its War Machine - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNSmlHay0tanZoSi1MMlZtTXRXVkN4U2x5LW9IcS1KVjZkdVh3aEJNUmlSUWUtc09hdXA3RmtLWXljbWl1T2ZXNkNwQlR2NjJRaWxEVDdxM3F5Tm9IVGh4QW1sOVFVZ3pjVEdoY2FKYXpqV1NMVk5PTlAyZ2hzbkp0bEpCbERPcXFUMm5YUU1vaWJoeUhNY0FzQ0hKYlZPRExZNXgzZEdmQlFLYzE1THhiNW4zeEp5NXJ6d3AtU216cUJFdVdsakdQdlpvV0pPNW4tUUJaNHpvRTR4VTFrMG9zc0JQNWp1TWw4UVMtcThiR1pVcHNuVTMtb3ZyaFpvRjNFNldlUmR1Ui1QMUFtYVpVd1hjX04wMzFhaEs2M2NuaDhNMmgzNDYzTTRRcjZnRHFmMWdkLU9abUNWalV4R2piSXNhNDdnV0pINWhLekpFbDZvVTNzR2E2MFJMTHQ3YVlJSEVLNWxUaENkS1ZHSDVnTzNsVnZYSVo3a3FGZnpza2w3ZDkybmEtdnZqZWw3QjBCNjNYWEtqTDVzSFU1NjAtZWdESlFaVnZ2T3JqNGd0M3RMUW1GOFV5RGdGVzg0UE1oOFdURGN3?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-04-07T05:22:46.789Z",
-      "pushedAt": "2026-04-07T05:22:46.789Z"
     }
   ],
-  "updatedAt": "2026-04-08T03:55:05.084Z"
+  "updatedAt": "2026-04-08T07:01:03.102Z"
 }
