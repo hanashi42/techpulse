@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "67ac8d6165706ea7",
+      "title": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says",
+      "url": "https://www.cnbc.com/2026/04/08/ceasefire-iran-war-lebanon.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ceasefire agreement"
+      ],
+      "firstSeen": "2026-04-08T19:50:12.118Z",
+      "pushedAt": "2026-04-08T19:50:12.118Z"
+    },
+    {
+      "id": "f2ea226430a8f1a3",
+      "title": "Lawmakers push to restrict chipmaking equipment exports to China - Manufacturing Dive",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXBWVXBvZ1AzTzJOQk1TMzJGYkFBcWVJWW9Sa2E4M011OHBIZ0xqS01ScVZHX0k2VEZoX3EzUlpQS2JyLU4xNlhOVE5CR2V4MGhMOHM4OHhUVmd0c01KbFA3bkhWbUtJNWc5MDhJR3VxdFZuV05OVlM1aHBLUkVVSGpncEJJVk5kVEMxN05MaUNvQUlWZnJsNF8zajNzWEVJSnRjY3JVZ1hsUnRLdmxkZElRVER3dmVSdjBv?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + export"
+      ],
+      "firstSeen": "2026-04-08T19:50:12.316Z",
+      "pushedAt": "2026-04-08T19:50:12.316Z"
+    },
+    {
       "id": "d41b23388ac1d902",
       "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
       "url": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
@@ -158,19 +182,7 @@
       ],
       "firstSeen": "2026-04-07T23:42:32.346Z",
       "pushedAt": "2026-04-07T23:42:32.346Z"
-    },
-    {
-      "id": "c430b8cbd68dd273",
-      "title": "From falling U.S. wealth to Indian factory closures, oil shock raises global recession risk - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2wySHZrQm5Bc05hU2s1NkF4SjFFSUIxQ3pvcnlfVjZfZUhWNDFoT0t0WnVoT2tabzIxOEJzaUxHU0t2ZlFBQ0VnWDRmaFlta3ZfY0pjLWV5Tk5ZRDd2MFpJcHBkUFEwbktWS1VLWmM0X1p1WGNtMEktYXJySGdIY3BibXZGeWJvV0ozMUFRMnJmMElsMG9LcjA5NEJkd3oxRVBENEl3bGtyVDFtQkoxM2dtZ2xPbEhLU0pCWnB2ci1hR3dJWmN4ZFBPckU4MXAw?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-04-07T19:20:06.204Z",
-      "pushedAt": "2026-04-07T19:20:06.204Z"
     }
   ],
-  "updatedAt": "2026-04-08T18:49:29.924Z"
+  "updatedAt": "2026-04-08T19:50:12.431Z"
 }
