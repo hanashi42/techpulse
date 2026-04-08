@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4987c5790d020e56",
+      "title": "Swiss banks to test use cases for Swiss franc stablecoin - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRG1FVE5JSjF2UTVsNEJnT1RacXYzRFBWTTJuWEk4SDA4T20tTklodllCZnBrNFV0N2x2ZklIQ0tRYlQ3YzNXbTgtbmJrTTdSY1p0djhBWHhCRWo2UlliemJDaGdOdFBJQ3lvdkFqcXdMUGF4bG5FMEpGcEpJczNISTU2Y0ItakhXTEozNWtTUHItTk8zRGlxeDAwZ19JQnBmdzNRcA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "stablecoin + ban"
+      ],
+      "firstSeen": "2026-04-08T09:19:38.598Z",
+      "pushedAt": "2026-04-08T09:19:38.598Z"
+    },
+    {
       "id": "a641db08184a2ccf",
       "title": "How China Helped Iran Cushion the Blow of Sanctions and Fund Its War Machine - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR3EwMWE2ZDEyNk1Ub1JzVXRmOHhkVVRkdERYeC1VY1Y1MkJWS0VVTmxBbUNLVnFnT092aW9oT0FtMUNuaDJJNFNLTzFtLVlvSVZsX1BWTmMtNktOaHlVVHNwUGwyb3Q5Y3lFZEhuYkdYR0dfZHNhQ2wxNnNWV2xjUGE3ZFVTdDBNWXRIX3FQNUt0NzZjMlNzdE9PYXdIVGxSOFFIcVh0RXdDbmFnX0hGUDNhcWdxTlRFZUNfbXZjd0U?oc=5",
@@ -184,5 +196,5 @@
       "pushedAt": "2026-04-07T11:14:52.629Z"
     }
   ],
-  "updatedAt": "2026-04-08T08:14:45.479Z"
+  "updatedAt": "2026-04-08T09:19:38.858Z"
 }
