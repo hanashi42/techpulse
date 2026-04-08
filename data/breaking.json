@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3349e8ee1daba4f1",
+      "title": "Trump announces 50% tariffs on nations supplying Iran with weapons - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkFERl9sVHBjNm82NjU1TDJ6TmJEQmtvd1RQc3kwMjBZY1hyZkxuckV1ZG5KTE9Fb01JMDhQOUNRQ0ZUOXlkZG9aUnNieDktWHJZM0dMaFB4UzVLVnZ3T1pseVZ5N1pTLUVYZFpDZkc3UW5Pd2U1V0ZIc3paa0h6YTZYNnp2T1o2akhlVW9MbGw0c2lmQ1Jjc1FDeXQwakFZcVdBQkdrdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 50%"
+      ],
+      "firstSeen": "2026-04-08T12:09:37.491Z",
+      "pushedAt": "2026-04-08T12:09:37.491Z"
+    },
+    {
       "id": "4987c5790d020e56",
       "title": "Swiss banks to test use cases for Swiss franc stablecoin - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRG1FVE5JSjF2UTVsNEJnT1RacXYzRFBWTTJuWEk4SDA4T20tTklodllCZnBrNFV0N2x2ZklIQ0tRYlQ3YzNXbTgtbmJrTTdSY1p0djhBWHhCRWo2UlliemJDaGdOdFBJQ3lvdkFqcXdMUGF4bG5FMEpGcEpJczNISTU2Y0ItakhXTEozNWtTUHItTk8zRGlxeDAwZ19JQnBmdzNRcA?oc=5",
@@ -158,43 +170,7 @@
       ],
       "firstSeen": "2026-04-07T13:52:21.411Z",
       "pushedAt": "2026-04-07T13:52:21.411Z"
-    },
-    {
-      "id": "d7d459ab5b79d65a",
-      "title": "Can Africa tackle the oil shock from the Iran war?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-04-07T12:02:44.171Z",
-      "pushedAt": "2026-04-07T12:02:44.171Z"
-    },
-    {
-      "id": "679a3aa8e482d0d5",
-      "title": "Oil prices rise as Trump reaffirms deadline for bombarding Iran's power plants, bridges",
-      "url": "https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-04-07T12:02:44.553Z",
-      "pushedAt": "2026-04-07T12:02:44.553Z"
-    },
-    {
-      "id": "610552c19291c093",
-      "title": "Ukraine, Russia kill three civilians each in tit-for-tat drone attacks",
-      "url": "https://www.aljazeera.com/news/2026/4/7/three-civilians-killed-in-both-russia-ukraine-following-drone-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + civilian"
-      ],
-      "firstSeen": "2026-04-07T11:14:52.629Z",
-      "pushedAt": "2026-04-07T11:14:52.629Z"
     }
   ],
-  "updatedAt": "2026-04-08T09:19:38.858Z"
+  "updatedAt": "2026-04-08T12:09:37.597Z"
 }
