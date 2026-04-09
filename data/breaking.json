@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7e38ab092ed91bfa",
+      "title": "Bessent urges Congress to pass crypto regulation bill - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGJQbU9oYjFhSjVZLVFhWFJxUXhDVVI2ZlVmUEdYX1JZM1prU0ZsNHRMaHJYZ1JfWjhUei1PcFNrNmp5emtuemlSNVV0bWs4WmhWQ0ZUQ0pSUTBKd3lhYlVoOEh5c1lUSnhnN3M4VGo5dXhrVkJQbUYxZzluRUhsU1ZKSVZUMWlMZk40dVgyalBkeHZjUGFvUFk3azdBY2pkWElVTnhB?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crypto + regulat"
+      ],
+      "firstSeen": "2026-04-09T06:56:37.077Z",
+      "pushedAt": "2026-04-09T06:56:37.077Z"
+    },
+    {
       "id": "a0dd27f44a322c0c",
       "title": "KLCI Futures Lower In Early Trade - bernama",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rbmplVmhRSUZXanMwQkoxMXcyejVFc1Ruc1gtalBzWmFCTWt3UFRZRUV0OXRLVzFULS1DMHBGcENxR0hYVnc1dm96Tk5NV1lYci1fdlY4bU9oMjg?oc=5",
@@ -206,5 +218,5 @@
       "pushedAt": "2026-04-08T07:01:03.039Z"
     }
   ],
-  "updatedAt": "2026-04-09T05:30:33.825Z"
+  "updatedAt": "2026-04-09T06:56:37.255Z"
 }
