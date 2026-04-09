@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "87d5814f2814aa95",
+      "title": "US fourth-quarter GDP growth revised lower to a 0.5% rate - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWtZSEQ1aHEydXc1UC1fUjhJSTNwQjFNWlpqd0hFWDJTOWlhemlreXhiY3NVRjVJT0praVBBd182bFdFcmduaGtzenhZV3djSk9PcllHQ09IalhkWVpJX0drY3ExaG5jVXZRQnBMcWswc2xVRzlNZHo0VG5ydG91elNFX1htU29feXRTcVF3dm5pTll5QnpISmI2RQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "gdp + growth"
+      ],
+      "firstSeen": "2026-04-09T15:59:27.844Z",
+      "pushedAt": "2026-04-09T15:59:27.844Z"
+    },
+    {
       "id": "ecd8d54cb3d9c981",
       "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU01VOHBWaTFyVmxqSVhsOUk2NGdzb1hvOFR3WUxiWnhYSnJ4TnAtSkFhREs1V2JENnhET3hrNVB0cXdsQ09fSVFBQzBub1Q4bF81cUU3TVlhQkhJY21MNWRkSTNFZEJod1BRWnFLV0FtbTNQeHhBbUxTSDJ1Vjh6YnBrbjJScEhOalpWbTJQaHJvWjNnajZnUHE1Zw?oc=5",
@@ -180,19 +192,7 @@
       ],
       "firstSeen": "2026-04-08T17:35:22.739Z",
       "pushedAt": "2026-04-08T17:35:22.739Z"
-    },
-    {
-      "id": "66b42a230d3c81d6",
-      "title": "Thailand confirms three deaths from vessel attacked in Strait of Hormuz - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDVDYnR2WEhSdHB4ak5McUZ6MWJ1RGs0T2R2SlJmczNZN25ZTGVpanhlTk5JSlVJTGQtM21iOWVPXzJBWDhKOFFoNW05RlJXekJTRXYwaWVBZC1RSk51TWFUX2RPNmRad0xwMi1rR1N2ZHRFVzI3NHFQQzQzbXY5WVFZc1ZkQWd4WEc0WmNBMjVqUWl4VzkxamZIR2FnaXJMX1dOdlktX3pKS2tXVGwxRVlNbmg2cEczOUE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + attacked"
-      ],
-      "firstSeen": "2026-04-08T15:12:49.864Z",
-      "pushedAt": "2026-04-08T15:12:49.864Z"
     }
   ],
-  "updatedAt": "2026-04-09T14:25:32.805Z"
+  "updatedAt": "2026-04-09T15:59:28.107Z"
 }
