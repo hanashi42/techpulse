@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a0dd27f44a322c0c",
+      "title": "KLCI Futures Lower In Early Trade - bernama",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rbmplVmhRSUZXanMwQkoxMXcyejVFc1Ruc1gtalBzWmFCTWt3UFRZRUV0OXRLVzFULS1DMHBGcENxR0hYVnc1dm96Tk5NV1lYci1fdlY4bU9oMjg?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "klci + low"
+      ],
+      "firstSeen": "2026-04-09T05:30:33.735Z",
+      "pushedAt": "2026-04-09T05:30:33.735Z"
+    },
+    {
       "id": "7cb25398fe674a02",
       "title": "Brent oil spot price above $120 in sign that Iran ceasefire can't solve deep disruption",
       "url": "https://www.cnbc.com/2026/04/08/dated-brent-oil-price-iran-war-ceasefire-strait-hormuz.html",
@@ -192,19 +204,7 @@
       ],
       "firstSeen": "2026-04-08T07:01:03.039Z",
       "pushedAt": "2026-04-08T07:01:03.039Z"
-    },
-    {
-      "id": "35962919f1038078",
-      "title": "Gulf countries scramble to intercept missiles hours into U.S.-Iran ceasefire agreement",
-      "url": "https://www.cnbc.com/2026/04/08/iran-missile-attacks-after-us-ceasefire-gulf-air-defenses.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "ceasefire agreement"
-      ],
-      "firstSeen": "2026-04-08T03:55:04.977Z",
-      "pushedAt": "2026-04-08T03:55:04.977Z"
     }
   ],
-  "updatedAt": "2026-04-09T03:42:17.080Z"
+  "updatedAt": "2026-04-09T05:30:33.825Z"
 }
