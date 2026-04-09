@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7cb25398fe674a02",
+      "title": "Brent oil spot price above $120 in sign that Iran ceasefire can't solve deep disruption",
+      "url": "https://www.cnbc.com/2026/04/08/dated-brent-oil-price-iran-war-ceasefire-strait-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-04-09T03:42:16.838Z",
+      "pushedAt": "2026-04-09T03:42:16.838Z"
+    },
+    {
       "id": "647ce23d8ece9359",
       "title": "Inside India newsletter: Tariffs and Iran war threaten India's $100 billion garments export goal",
       "url": "https://www.cnbc.com/2026/04/09/inside-india-newsletter-tariffs-iran-war-india-massive-garments-industry.html",
@@ -192,20 +204,7 @@
       ],
       "firstSeen": "2026-04-08T03:55:04.977Z",
       "pushedAt": "2026-04-08T03:55:04.977Z"
-    },
-    {
-      "id": "33aa282a378890ce",
-      "title": "South Korea stocks lead gains in Asia as oil prices plunge after U.S.-Iran ceasefire deal",
-      "url": "https://www.cnbc.com/2026/04/08/asia-markets-today-trump-iran-war-kospi-nikkei-225-oil-hang-seng-index.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock",
-        "oil price + plunge"
-      ],
-      "firstSeen": "2026-04-08T01:02:57.903Z",
-      "pushedAt": "2026-04-08T01:02:57.903Z"
     }
   ],
-  "updatedAt": "2026-04-09T00:55:47.702Z"
+  "updatedAt": "2026-04-09T03:42:17.080Z"
 }
