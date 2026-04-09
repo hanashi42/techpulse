@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "857b216ab286ff16",
+      "title": "Oil rally loses steam after Israel agrees to negotiate with Lebanon",
+      "url": "https://www.cnbc.com/2026/04/09/oil-prices-today-wti-brent-iran-accuse-us-of-ceasefire-breach.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + oil"
+      ],
+      "firstSeen": "2026-04-09T18:07:08.333Z",
+      "pushedAt": "2026-04-09T18:07:08.333Z"
+    },
+    {
       "id": "87d5814f2814aa95",
       "title": "US fourth-quarter GDP growth revised lower to a 0.5% rate - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWtZSEQ1aHEydXc1UC1fUjhJSTNwQjFNWlpqd0hFWDJTOWlhemlreXhiY3NVRjVJT0praVBBd182bFdFcmduaGtzenhZV3djSk9PcllHQ09IalhkWVpJX0drY3ExaG5jVXZRQnBMcWswc2xVRzlNZHo0VG5ydG91elNFX1htU29feXRTcVF3dm5pTll5QnpISmI2RQ?oc=5",
@@ -168,31 +180,7 @@
       ],
       "firstSeen": "2026-04-08T18:49:29.674Z",
       "pushedAt": "2026-04-08T18:49:29.674Z"
-    },
-    {
-      "id": "1e262ee8cbbffc69",
-      "title": "Trump says US will work closely with Iran, discuss sanctions - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVU9pYzJJWVZkT3RHVjNuSElBTjhLOTFqVFFzaVBTLW9qc3VTMUpNMmFqWjJBWDVSSi10VlBhYmtWeU1NLUwtNFhkWDF6RXpBTUpYbnlYNEV3Z2IyTzE3VW4wTG1ZcFEtdVpLem5wZE15YjFZYndQMHFEZ2NwYzFRYTVXVmE1R2JWQmdkMG0tOHQ1VkJBYTRFV1pMWQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-04-08T17:35:22.613Z",
-      "pushedAt": "2026-04-08T17:35:22.613Z"
-    },
-    {
-      "id": "09ed8bbce9dd644a",
-      "title": "Iran closes Strait of Hormuz again in response to Israeli attacks in Lebanon, threatening ceasefire - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM0M4QVNLMzRVZGI1YTVINHdJUWZFYU5DbEs5NjBxNVNkXzU2YUw0VDNlMXE3NTg2ZTRucjRaLXVBc19aaTF5RTA5Q1ZFOTlpZ2NYVUpqUFhMMERzRW5SdVV5dzUyajZLaVowRFR6WTM0Sks5MFFsb3NlYnRyR1lsTUdLaVBsejlaamtFcEUtODZHcjk4cjBIa2tnekhrZWpFTDlj?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-04-08T17:35:22.739Z",
-      "pushedAt": "2026-04-08T17:35:22.739Z"
     }
   ],
-  "updatedAt": "2026-04-09T15:59:28.107Z"
+  "updatedAt": "2026-04-09T18:07:08.561Z"
 }
