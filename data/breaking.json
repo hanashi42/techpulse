@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "647ce23d8ece9359",
+      "title": "Inside India newsletter: Tariffs and Iran war threaten India's $100 billion garments export goal",
+      "url": "https://www.cnbc.com/2026/04/09/inside-india-newsletter-tariffs-iran-war-india-massive-garments-industry.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-04-09T00:55:47.321Z",
+      "pushedAt": "2026-04-09T00:55:47.321Z"
+    },
+    {
+      "id": "a42eaced68b642df",
+      "title": "Inside the Ring: China imposes 40-day airspace restriction near coast - Washington Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVQ3ZlA0N0QyMGFVbG44bWlEWlRQNG5tRmNMNklyc09vTGhlYXNMRXVsSVhDblV6dV9nZEFqdS1xYXA5QmNadjFIVjNZelVielNjT0VIcUt4YXlyN1RtWXpGOFpDNXBvZ2dLTVhDQXpMUk0zWjJOUF9BcUVXSEhlZnlSbmFLZjVoS0VhYzZKTllHTTktSkRILVRXR0ZDTmRneFY3SUpXd0VJSHlYcUprZ1FCSQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-04-09T00:55:47.597Z",
+      "pushedAt": "2026-04-09T00:55:47.597Z"
+    },
+    {
       "id": "b5f6f6118b9e2743",
       "title": "One country is winning the US-China trade war: Mexico - Mexico News Daily",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GaFhueExiVm5vWUxmVEVhWGVndWx5VktlRTROQm4xUHlVRVB0OXNIalpydEJYcnBpZ0p2X2FTX2tlbWY3X0dQTkx1dkw3ZmF4Qk16cmVBVnVjbnBleS1hOFBQZ1hLbWZxRjNNS1FQb2I?oc=5",
@@ -181,20 +205,7 @@
       ],
       "firstSeen": "2026-04-08T01:02:57.903Z",
       "pushedAt": "2026-04-08T01:02:57.903Z"
-    },
-    {
-      "id": "804f1cc5e90824fa",
-      "title": "U.S. oil price plunges nearly 19% to below $100 after Trump agrees to two-week ceasefire with Iran",
-      "url": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + oil",
-        "oil price + plunge"
-      ],
-      "firstSeen": "2026-04-07T23:42:32.346Z",
-      "pushedAt": "2026-04-07T23:42:32.346Z"
     }
   ],
-  "updatedAt": "2026-04-08T21:56:34.123Z"
+  "updatedAt": "2026-04-09T00:55:47.702Z"
 }
