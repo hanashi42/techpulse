@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f797b554fe8cbdbd",
+      "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
+      "url": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + casualties"
+      ],
+      "firstSeen": "2026-04-09T21:51:07.664Z",
+      "pushedAt": "2026-04-09T21:51:07.665Z"
+    },
+    {
       "id": "857b216ab286ff16",
       "title": "Oil rally loses steam after Israel agrees to negotiate with Lebanon",
       "url": "https://www.cnbc.com/2026/04/09/oil-prices-today-wti-brent-iran-accuse-us-of-ceasefire-breach.html",
@@ -143,44 +155,7 @@
       ],
       "firstSeen": "2026-04-08T21:56:34.003Z",
       "pushedAt": "2026-04-08T21:56:34.003Z"
-    },
-    {
-      "id": "67ac8d6165706ea7",
-      "title": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says",
-      "url": "https://www.cnbc.com/2026/04/08/ceasefire-iran-war-lebanon.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "ceasefire agreement"
-      ],
-      "firstSeen": "2026-04-08T19:50:12.118Z",
-      "pushedAt": "2026-04-08T19:50:12.118Z"
-    },
-    {
-      "id": "f2ea226430a8f1a3",
-      "title": "Lawmakers push to restrict chipmaking equipment exports to China - Manufacturing Dive",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXBWVXBvZ1AzTzJOQk1TMzJGYkFBcWVJWW9Sa2E4M011OHBIZ0xqS01ScVZHX0k2VEZoX3EzUlpQS2JyLU4xNlhOVE5CR2V4MGhMOHM4OHhUVmd0c01KbFA3bkhWbUtJNWc5MDhJR3VxdFZuV05OVlM1aHBLUkVVSGpncEJJVk5kVEMxN05MaUNvQUlWZnJsNF8zajNzWEVJSnRjY3JVZ1hsUnRLdmxkZElRVER3dmVSdjBv?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + export"
-      ],
-      "firstSeen": "2026-04-08T19:50:12.316Z",
-      "pushedAt": "2026-04-08T19:50:12.316Z"
-    },
-    {
-      "id": "d41b23388ac1d902",
-      "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
-      "url": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate cut + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-04-08T18:49:29.674Z",
-      "pushedAt": "2026-04-08T18:49:29.674Z"
     }
   ],
-  "updatedAt": "2026-04-09T18:07:08.561Z"
+  "updatedAt": "2026-04-09T21:51:07.968Z"
 }
