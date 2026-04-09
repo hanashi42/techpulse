@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ecd8d54cb3d9c981",
+      "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU01VOHBWaTFyVmxqSVhsOUk2NGdzb1hvOFR3WUxiWnhYSnJ4TnAtSkFhREs1V2JENnhET3hrNVB0cXdsQ09fSVFBQzBub1Q4bF81cUU3TVlhQkhJY21MNWRkSTNFZEJod1BRWnFLV0FtbTNQeHhBbUxTSDJ1Vjh6YnBrbjJScEhOalpWbTJQaHJvWjNnajZnUHE1Zw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-04-09T14:25:32.506Z",
+      "pushedAt": "2026-04-09T14:25:32.506Z"
+    },
+    {
+      "id": "7f0b77cdf4c08f0c",
+      "title": "Oil prices jump back up near $100 a barrel on skepticism over fragile US-Iran ceasefire - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWM1dEpfR1hpNlhmMG8xRXNrbTZxRmp5aGhkSldFV1R5WUpnNmdBUFNlRUd5ZnJTellOcDhiREFMcG9HNkZMWlZfRi04Y0JZYXhGS0tHOHUyTXNheDNOS2dnSWx1YWRCeFdFVXAycnQtaTRuM1FjZ2tCcFZrX2hZZnk2ZHBONUxWRVEyLWUyMjNTZEpKOGs2QWx1ejFIblE?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + barrel"
+      ],
+      "firstSeen": "2026-04-09T14:25:32.678Z",
+      "pushedAt": "2026-04-09T14:25:32.678Z"
+    },
+    {
       "id": "a641db08184a2ccf",
       "title": "How China Helped Iran Cushion the Blow of Sanctions and Fund Its War Machine - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR3EwMWE2ZDEyNk1Ub1JzVXRmOHhkVVRkdERYeC1VY1Y1MkJWS0VVTmxBbUNLVnFnT092aW9oT0FtMUNuaDJJNFNLTzFtLVlvSVZsX1BWTmMtNktOaHlVVHNwUGwyb3Q5Y3lFZEhuYkdYR0dfZHNhQ2wxNnNWV2xjUGE3ZFVTdDBNWXRIX3FQNUt0NzZjMlNzdE9PYXdIVGxSOFFIcVh0RXdDbmFnX0hGUDNhcWdxTlRFZUNfbXZjd0U?oc=5",
@@ -168,43 +192,7 @@
       ],
       "firstSeen": "2026-04-08T15:12:49.864Z",
       "pushedAt": "2026-04-08T15:12:49.864Z"
-    },
-    {
-      "id": "1071be461e909eff",
-      "title": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
-      "url": "https://www.bbc.com/news/articles/cgj0dzwgzq5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + gas"
-      ],
-      "firstSeen": "2026-04-08T14:00:21.962Z",
-      "pushedAt": "2026-04-08T14:00:21.962Z"
-    },
-    {
-      "id": "16f95698db01071e",
-      "title": "Airstrikes Hit Central Beirut As Israel Continues Attacks In Lebanon - bernama",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0bWhWcHVyYWtjM3lTT3Vua0Z4S3g0SF90RU5reXlROGJiU1BFNjFkc0F6dHRBTkVRTnZ2XzBtVV9uaTJxYmcxdS0wbVZFcW8zZ1d1QlhDcTZ4UDA?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + airstrike"
-      ],
-      "firstSeen": "2026-04-08T14:00:22.265Z",
-      "pushedAt": "2026-04-08T14:00:22.265Z"
-    },
-    {
-      "id": "3349e8ee1daba4f1",
-      "title": "Trump announces 50% tariffs on nations supplying Iran with weapons - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkFERl9sVHBjNm82NjU1TDJ6TmJEQmtvd1RQc3kwMjBZY1hyZkxuckV1ZG5KTE9Fb01JMDhQOUNRQ0ZUOXlkZG9aUnNieDktWHJZM0dMaFB4UzVLVnZ3T1pseVZ5N1pTLUVYZFpDZkc3UW5Pd2U1V0ZIc3paa0h6YTZYNnp2T1o2akhlVW9MbGw0c2lmQ1Jjc1FDeXQwakFZcVdBQkdrdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 50%"
-      ],
-      "firstSeen": "2026-04-08T12:09:37.491Z",
-      "pushedAt": "2026-04-08T12:09:37.491Z"
     }
   ],
-  "updatedAt": "2026-04-09T09:40:37.278Z"
+  "updatedAt": "2026-04-09T14:25:32.805Z"
 }
