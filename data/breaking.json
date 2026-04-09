@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b716d26eb29e3973",
+      "title": "China Considers Financial Aid for Airlines Hit by Oil Shock - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUVNMy1jYnlRVy1GQ3NBUzRObXhtOGNvelFBNWtmcmp5d2ZjQ0lKZHFGUUZOeGczY3FDS2loQjdNeTJ5Y3VrSnJTbm42V01LNEFyODB5Nm5TSV9nWEg2NFNXSEdBVlZVXzMtN2JXY1E3LVdlUnVzS095dWlkZTU5eENjT1hZOS1KMV91VFJ2c0wtMTBJd0E4RWlTelJBLXJEZ0FLV1FKZ3RDdzFBV3RWQklCV2ttZw?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-04-09T08:14:47.384Z",
+      "pushedAt": "2026-04-09T08:14:47.384Z"
+    },
+    {
       "id": "7e38ab092ed91bfa",
       "title": "Bessent urges Congress to pass crypto regulation bill - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGJQbU9oYjFhSjVZLVFhWFJxUXhDVVI2ZlVmUEdYX1JZM1prU0ZsNHRMaHJYZ1JfWjhUei1PcFNrNmp5emtuemlSNVV0bWs4WmhWQ0ZUQ0pSUTBKd3lhYlVoOEh5c1lUSnhnN3M4VGo5dXhrVkJQbUYxZzluRUhsU1ZKSVZUMWlMZk40dVgyalBkeHZjUGFvUFk3azdBY2pkWElVTnhB?oc=5",
@@ -192,31 +204,7 @@
       ],
       "firstSeen": "2026-04-08T09:19:38.598Z",
       "pushedAt": "2026-04-08T09:19:38.598Z"
-    },
-    {
-      "id": "a641db08184a2ccf",
-      "title": "How China Helped Iran Cushion the Blow of Sanctions and Fund Its War Machine - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR3EwMWE2ZDEyNk1Ub1JzVXRmOHhkVVRkdERYeC1VY1Y1MkJWS0VVTmxBbUNLVnFnT092aW9oT0FtMUNuaDJJNFNLTzFtLVlvSVZsX1BWTmMtNktOaHlVVHNwUGwyb3Q5Y3lFZEhuYkdYR0dfZHNhQ2wxNnNWV2xjUGE3ZFVTdDBNWXRIX3FQNUt0NzZjMlNzdE9PYXdIVGxSOFFIcVh0RXdDbmFnX0hGUDNhcWdxTlRFZUNfbXZjd0U?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-04-08T08:14:45.064Z",
-      "pushedAt": "2026-04-08T08:14:45.064Z"
-    },
-    {
-      "id": "459d493a82a7c16c",
-      "title": "Asian tech stocks surge as U.S.-Iran cease fire ease Hormuz disruption worries",
-      "url": "https://www.cnbc.com/2026/04/08/asian-chip-stocks-surge-us-iran-ceasefire-helium-supply-relief.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption"
-      ],
-      "firstSeen": "2026-04-08T07:01:03.039Z",
-      "pushedAt": "2026-04-08T07:01:03.039Z"
     }
   ],
-  "updatedAt": "2026-04-09T06:56:37.255Z"
+  "updatedAt": "2026-04-09T08:14:47.756Z"
 }
