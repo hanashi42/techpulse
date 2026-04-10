@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "153910eb2b69a01a",
+      "title": "European stocks end higher, defense shares tumble on Ukraine-Russia deal progress reports",
+      "url": "https://www.cnbc.com/2026/04/10/european-stocks-us-iran-ceasefire-uncertainty.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + stock"
+      ],
+      "firstSeen": "2026-04-10T16:05:26.010Z",
+      "pushedAt": "2026-04-10T16:05:26.010Z"
+    },
+    {
+      "id": "600cec2d1acb1758",
+      "title": "EU-China deficit jumps 18% in 2025 as US tariffs divert trade to Europe - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcllaWHRkVkhJQ1RsTWxVTmMyRGJQVkxsQXR2MHFVQlIyNEpQaDRhdkVKUzBiazl3eFhab3FfUVVuZ2pfMmZoR005MGktYU5xX1V1MzJuYkQzeU5tWnB3X2V1anl3aXpJRGJyVERHbWhzd1lrVWdYbDJYbFBDdGJseVJLM3lXUUJqZUh5ZGJkU1l5Sk5YbWF2UFZSVFJJYkJPektOaQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-04-10T16:05:26.446Z",
+      "pushedAt": "2026-04-10T16:05:26.446Z"
+    },
+    {
       "id": "173969e1de568cbd",
       "title": "Zelenskyy says Ukrainian forces shot down Shahed drones in Middle Eastern countries during Iran war - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdnFVdTdkLUZ0cmZQQ0hKMjd0T0NFMkJwWk9iTFRKYlV2NDhGYlRIT3J3Sm9fSTZnenNVdlVaajkxbFlYVElENEs0VlEzYzZkd1VFX0JMaFdYYlVwTXNubHJjQUVfMXBRR3ZVYnlnQUtOdzJTQ0JydkFyc3pXcUZ6VS1vd1VsaWdKRThNUEFBelloTkJGN0RFY0FhTkk4TVVxX3Npc1JfZzk1TmM?oc=5",
@@ -60,43 +84,7 @@
       ],
       "firstSeen": "2026-04-09T18:07:08.333Z",
       "pushedAt": "2026-04-09T18:07:08.333Z"
-    },
-    {
-      "id": "87d5814f2814aa95",
-      "title": "US fourth-quarter GDP growth revised lower to a 0.5% rate - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWtZSEQ1aHEydXc1UC1fUjhJSTNwQjFNWlpqd0hFWDJTOWlhemlreXhiY3NVRjVJT0praVBBd182bFdFcmduaGtzenhZV3djSk9PcllHQ09IalhkWVpJX0drY3ExaG5jVXZRQnBMcWswc2xVRzlNZHo0VG5ydG91elNFX1htU29feXRTcVF3dm5pTll5QnpISmI2RQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "gdp + growth"
-      ],
-      "firstSeen": "2026-04-09T15:59:27.844Z",
-      "pushedAt": "2026-04-09T15:59:27.844Z"
-    },
-    {
-      "id": "ecd8d54cb3d9c981",
-      "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU01VOHBWaTFyVmxqSVhsOUk2NGdzb1hvOFR3WUxiWnhYSnJ4TnAtSkFhREs1V2JENnhET3hrNVB0cXdsQ09fSVFBQzBub1Q4bF81cUU3TVlhQkhJY21MNWRkSTNFZEJod1BRWnFLV0FtbTNQeHhBbUxTSDJ1Vjh6YnBrbjJScEhOalpWbTJQaHJvWjNnajZnUHE1Zw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-04-09T14:25:32.506Z",
-      "pushedAt": "2026-04-09T14:25:32.506Z"
-    },
-    {
-      "id": "7f0b77cdf4c08f0c",
-      "title": "Oil prices jump back up near $100 a barrel on skepticism over fragile US-Iran ceasefire - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWM1dEpfR1hpNlhmMG8xRXNrbTZxRmp5aGhkSldFV1R5WUpnNmdBUFNlRUd5ZnJTellOcDhiREFMcG9HNkZMWlZfRi04Y0JZYXhGS0tHOHUyTXNheDNOS2dnSWx1YWRCeFdFVXAycnQtaTRuM1FjZ2tCcFZrX2hZZnk2ZHBONUxWRVEyLWUyMjNTZEpKOGs2QWx1ejFIblE?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + barrel"
-      ],
-      "firstSeen": "2026-04-09T14:25:32.678Z",
-      "pushedAt": "2026-04-09T14:25:32.678Z"
     }
   ],
-  "updatedAt": "2026-04-10T10:10:26.646Z"
+  "updatedAt": "2026-04-10T16:05:26.575Z"
 }
