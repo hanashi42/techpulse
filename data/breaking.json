@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "0fdf946bef589d35",
+      "title": "US consumer inflation expected to have surged in March amid Iran war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0xMYzVjbXA1dkd6NFVtTkhhTWtQb2h3WEp3aEZXOV9YbjdwZHVDUE5Qd0RWbUZjcy12VUgtTy1tTXZhS0V1MjI4UXlGQmV2R0E0c3psMTlaaGFRR0hoSXItNXo1R2JmTk1oVW5fdE1uWlVxNERtZG10R2NZcldqdnBhS18waWVabTB3cGFEbDlCSFBVM1lKVDgtbXhCOTEzOUcxVUxjSXNZYmc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + inflation",
+        "inflation + surge"
+      ],
+      "firstSeen": "2026-04-10T09:01:02.153Z",
+      "pushedAt": "2026-04-10T09:01:02.153Z"
+    },
+    {
       "id": "eadc854e0eccf3ac",
       "title": "Asia-Pacific markets rise amid worries over Strait of Hormuz staying largely closed; oil gains",
       "url": "https://www.cnbc.com/2026/04/10/asia-pacific-markets-today-iran-us-ceasefire-deal-oil-.html",
@@ -83,43 +96,7 @@
       ],
       "firstSeen": "2026-04-09T09:40:36.998Z",
       "pushedAt": "2026-04-09T09:40:36.998Z"
-    },
-    {
-      "id": "b716d26eb29e3973",
-      "title": "China Considers Financial Aid for Airlines Hit by Oil Shock - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUVNMy1jYnlRVy1GQ3NBUzRObXhtOGNvelFBNWtmcmp5d2ZjQ0lKZHFGUUZOeGczY3FDS2loQjdNeTJ5Y3VrSnJTbm42V01LNEFyODB5Nm5TSV9nWEg2NFNXSEdBVlZVXzMtN2JXY1E3LVdlUnVzS095dWlkZTU5eENjT1hZOS1KMV91VFJ2c0wtMTBJd0E4RWlTelJBLXJEZ0FLV1FKZ3RDdzFBV3RWQklCV2ttZw?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-04-09T08:14:47.384Z",
-      "pushedAt": "2026-04-09T08:14:47.384Z"
-    },
-    {
-      "id": "7e38ab092ed91bfa",
-      "title": "Bessent urges Congress to pass crypto regulation bill - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGJQbU9oYjFhSjVZLVFhWFJxUXhDVVI2ZlVmUEdYX1JZM1prU0ZsNHRMaHJYZ1JfWjhUei1PcFNrNmp5emtuemlSNVV0bWs4WmhWQ0ZUQ0pSUTBKd3lhYlVoOEh5c1lUSnhnN3M4VGo5dXhrVkJQbUYxZzluRUhsU1ZKSVZUMWlMZk40dVgyalBkeHZjUGFvUFk3azdBY2pkWElVTnhB?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crypto + regulat"
-      ],
-      "firstSeen": "2026-04-09T06:56:37.077Z",
-      "pushedAt": "2026-04-09T06:56:37.077Z"
-    },
-    {
-      "id": "a0dd27f44a322c0c",
-      "title": "KLCI Futures Lower In Early Trade - bernama",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rbmplVmhRSUZXanMwQkoxMXcyejVFc1Ruc1gtalBzWmFCTWt3UFRZRUV0OXRLVzFULS1DMHBGcENxR0hYVnc1dm96Tk5NV1lYci1fdlY4bU9oMjg?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "klci + low"
-      ],
-      "firstSeen": "2026-04-09T05:30:33.735Z",
-      "pushedAt": "2026-04-09T05:30:33.735Z"
     }
   ],
-  "updatedAt": "2026-04-10T04:13:38.325Z"
+  "updatedAt": "2026-04-10T09:01:03.127Z"
 }
