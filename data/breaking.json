@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "410d4fcc51a36fa7",
+      "title": "US federal court hears new case against Trump tariffs",
+      "url": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-04-10T18:37:28.984Z",
+      "pushedAt": "2026-04-10T18:37:28.984Z"
+    },
+    {
       "id": "153910eb2b69a01a",
       "title": "European stocks end higher, defense shares tumble on Ukraine-Russia deal progress reports",
       "url": "https://www.cnbc.com/2026/04/10/european-stocks-us-iran-ceasefire-uncertainty.html",
@@ -72,19 +84,7 @@
       ],
       "firstSeen": "2026-04-09T21:51:07.664Z",
       "pushedAt": "2026-04-09T21:51:07.665Z"
-    },
-    {
-      "id": "857b216ab286ff16",
-      "title": "Oil rally loses steam after Israel agrees to negotiate with Lebanon",
-      "url": "https://www.cnbc.com/2026/04/09/oil-prices-today-wti-brent-iran-accuse-us-of-ceasefire-breach.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + oil"
-      ],
-      "firstSeen": "2026-04-09T18:07:08.333Z",
-      "pushedAt": "2026-04-09T18:07:08.333Z"
     }
   ],
-  "updatedAt": "2026-04-10T16:05:26.575Z"
+  "updatedAt": "2026-04-10T18:37:29.423Z"
 }
