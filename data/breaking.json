@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ea4da982f66a8448",
+      "title": "Kelantan Police Dispose Of Four Fish Bombs Found Near Border - bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zbDY2YkdhS2ZKX3NhUFFaU2FfM0x2U1lQZ2l6T1FjeGVLdHFVdnEtVUVhTjFPbklWQ216QXkwVTZLZlpaMkl6ajE3S1V5V0M0MjVLQ1J3?oc=5",
+      "source": "Bernama",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-04-11T10:38:44.370Z",
+      "pushedAt": "2026-04-11T10:38:44.370Z"
+    },
+    {
       "id": "7f3445656239fc7f",
       "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
       "url": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html",
@@ -83,19 +95,7 @@
       ],
       "firstSeen": "2026-04-10T16:05:26.446Z",
       "pushedAt": "2026-04-10T16:05:26.446Z"
-    },
-    {
-      "id": "173969e1de568cbd",
-      "title": "Zelenskyy says Ukrainian forces shot down Shahed drones in Middle Eastern countries during Iran war - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdnFVdTdkLUZ0cmZQQ0hKMjd0T0NFMkJwWk9iTFRKYlV2NDhGYlRIT3J3Sm9fSTZnenNVdlVaajkxbFlYVElENEs0VlEzYzZkd1VFX0JMaFdYYlVwTXNubHJjQUVfMXBRR3ZVYnlnQUtOdzJTQ0JydkFyc3pXcUZ6VS1vd1VsaWdKRThNUEFBelloTkJGN0RFY0FhTkk4TVVxX3Npc1JfZzk1TmM?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + drone"
-      ],
-      "firstSeen": "2026-04-10T10:10:26.350Z",
-      "pushedAt": "2026-04-10T10:10:26.350Z"
     }
   ],
-  "updatedAt": "2026-04-11T10:00:47.030Z"
+  "updatedAt": "2026-04-11T10:38:44.487Z"
 }
