@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "65b582fd693a3784",
+      "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
+      "url": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-11T09:23:36.831Z",
+      "pushedAt": "2026-04-11T09:23:36.831Z"
+    },
+    {
       "id": "d686a31d26c7734c",
       "title": "US, Iran set for peace talks but doubts emerge over Lebanon, sanctions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOam1RZGY3dngzb1VBWXFteDlZNldBNE1RMkpRMFpEbWszckQ2Zk1DUWdiWG0zcjkzMUEyVTVPdkVXYTBwZW5ybnIxT0szNDMxb3dOUUptV1M3MEJhOGYxZ2pZcW1BT01WRGJnYU9zWDl6UGhFaHQ0cFU5MS1VVlU0RVZTd1dZRG5NX0F5X3BvOUlBbEtULUJHODQ0SHpPRlpJaG1pY1doVXpjcDY3ek9ublB6bC01dw?oc=5",
@@ -71,20 +83,7 @@
       ],
       "firstSeen": "2026-04-10T10:10:26.350Z",
       "pushedAt": "2026-04-10T10:10:26.350Z"
-    },
-    {
-      "id": "0fdf946bef589d35",
-      "title": "US consumer inflation expected to have surged in March amid Iran war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0xMYzVjbXA1dkd6NFVtTkhhTWtQb2h3WEp3aEZXOV9YbjdwZHVDUE5Qd0RWbUZjcy12VUgtTy1tTXZhS0V1MjI4UXlGQmV2R0E0c3psMTlaaGFRR0hoSXItNXo1R2JmTk1oVW5fdE1uWlVxNERtZG10R2NZcldqdnBhS18waWVabTB3cGFEbDlCSFBVM1lKVDgtbXhCOTEzOUcxVUxjSXNZYmc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + inflation",
-        "inflation + surge"
-      ],
-      "firstSeen": "2026-04-10T09:01:02.153Z",
-      "pushedAt": "2026-04-10T09:01:02.153Z"
     }
   ],
-  "updatedAt": "2026-04-11T06:13:37.835Z"
+  "updatedAt": "2026-04-11T09:23:37.006Z"
 }
