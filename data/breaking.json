@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d686a31d26c7734c",
+      "title": "US, Iran set for peace talks but doubts emerge over Lebanon, sanctions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOam1RZGY3dngzb1VBWXFteDlZNldBNE1RMkpRMFpEbWszckQ2Zk1DUWdiWG0zcjkzMUEyVTVPdkVXYTBwZW5ybnIxT0szNDMxb3dOUUptV1M3MEJhOGYxZ2pZcW1BT01WRGJnYU9zWDl6UGhFaHQ0cFU5MS1VVlU0RVZTd1dZRG5NX0F5X3BvOUlBbEtULUJHODQ0SHpPRlpJaG1pY1doVXpjcDY3ek9ublB6bC01dw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-04-11T06:13:37.687Z",
+      "pushedAt": "2026-04-11T06:13:37.687Z"
+    },
+    {
       "id": "60be48d1491c39e2",
       "title": "Irish government prepares fuel support deal after blockade pressure",
       "url": "https://www.bbc.com/news/articles/cy814wypp5go?at_medium=RSS&at_campaign=rss",
@@ -72,19 +84,7 @@
       ],
       "firstSeen": "2026-04-10T09:01:02.153Z",
       "pushedAt": "2026-04-10T09:01:02.153Z"
-    },
-    {
-      "id": "eadc854e0eccf3ac",
-      "title": "Asia-Pacific markets rise amid worries over Strait of Hormuz staying largely closed; oil gains",
-      "url": "https://www.cnbc.com/2026/04/10/asia-pacific-markets-today-iran-us-ceasefire-deal-oil-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + closed"
-      ],
-      "firstSeen": "2026-04-10T04:13:38.139Z",
-      "pushedAt": "2026-04-10T04:13:38.139Z"
     }
   ],
-  "updatedAt": "2026-04-11T03:37:22.181Z"
+  "updatedAt": "2026-04-11T06:13:37.835Z"
 }
