@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "60be48d1491c39e2",
+      "title": "Irish government prepares fuel support deal after blockade pressure",
+      "url": "https://www.bbc.com/news/articles/cy814wypp5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-04-11T03:37:22.013Z",
+      "pushedAt": "2026-04-11T03:37:22.013Z"
+    },
+    {
       "id": "410d4fcc51a36fa7",
       "title": "US federal court hears new case against Trump tariffs",
       "url": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss",
@@ -72,19 +84,7 @@
       ],
       "firstSeen": "2026-04-10T04:13:38.139Z",
       "pushedAt": "2026-04-10T04:13:38.139Z"
-    },
-    {
-      "id": "f797b554fe8cbdbd",
-      "title": "Hospitals in Beirut struggle to deal with casualties after Israeli attacks",
-      "url": "https://www.aljazeera.com/news/2026/4/9/hospitals-in-beirut-struggle-to-deal-with-casualties-after-israeli-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + casualties"
-      ],
-      "firstSeen": "2026-04-09T21:51:07.664Z",
-      "pushedAt": "2026-04-09T21:51:07.665Z"
     }
   ],
-  "updatedAt": "2026-04-10T18:37:29.423Z"
+  "updatedAt": "2026-04-11T03:37:22.181Z"
 }
