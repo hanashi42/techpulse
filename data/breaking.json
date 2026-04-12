@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "449e6de4875df802",
+      "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
+      "url": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait"
+      ],
+      "firstSeen": "2026-04-12T13:21:03.010Z",
+      "pushedAt": "2026-04-12T13:21:03.010Z"
+    },
+    {
       "id": "c67037833abe2c33",
       "title": "MAN ATTACKS US MILITARY AIRCRAFT WITH AXE, CAUSING DAMAGE IN IRELAND - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UZnhKRjhxSnRMOUYxTGtJX3pXUVhzWmFsSHo5VTVqR3I5WnVjMUJjUXJPcDNUeno3ckJ0UHpmVjUzRFJUQkphTFJjZXJVbG5zVlJpaDRyQ2w5LUE?oc=5",
@@ -11,43 +23,7 @@
       ],
       "firstSeen": "2026-04-12T08:27:10.178Z",
       "pushedAt": "2026-04-12T08:27:10.178Z"
-    },
-    {
-      "id": "ea4da982f66a8448",
-      "title": "Kelantan Police Dispose Of Four Fish Bombs Found Near Border - bernama",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zbDY2YkdhS2ZKX3NhUFFaU2FfM0x2U1lQZ2l6T1FjeGVLdHFVdnEtVUVhTjFPbklWQ216QXkwVTZLZlpaMkl6ajE3S1V5V0M0MjVLQ1J3?oc=5",
-      "source": "Bernama",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-04-11T10:38:44.370Z",
-      "pushedAt": "2026-04-11T10:38:44.370Z"
-    },
-    {
-      "id": "7f3445656239fc7f",
-      "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
-      "url": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + record"
-      ],
-      "firstSeen": "2026-04-11T10:00:46.955Z",
-      "pushedAt": "2026-04-11T10:00:46.955Z"
-    },
-    {
-      "id": "65b582fd693a3784",
-      "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
-      "url": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-11T09:23:36.831Z",
-      "pushedAt": "2026-04-11T09:23:36.831Z"
     }
   ],
-  "updatedAt": "2026-04-12T08:27:10.406Z"
+  "updatedAt": "2026-04-12T13:21:03.160Z"
 }
