@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "ef0d9fb48a76bf3d",
+      "title": "Asia markets set for mixed open as oil surges after U.S. moves to blockade Iran ports",
+      "url": "https://www.cnbc.com/2026/04/13/asia-pacific-market-us-iran-talks-blockade-oil-prices.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port",
+        "surge + oil"
+      ],
+      "firstSeen": "2026-04-12T23:59:09.177Z",
+      "pushedAt": "2026-04-12T23:59:09.177Z"
+    },
+    {
       "id": "86bd9c2eb8fd174d",
       "title": "US Central Command says it will begin blockade of Iranian ports Monday - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDBuS25Ed1dnMVpaQi12SWtDTzZNam1jaG9GaEFyOUR2V0tyMjB5R3IwM185S3ZaNVpjeDQwdy11VUdodDVrZmR5d2xEZ3RWWUpYVXMzQmM1NW9CWXVTWUEyM0dfRXcyX3czLWYzbHRqOXg1WGtpaU01RzJ1TGZFc01EanhQUGstdWtNS0Y1LTRSaGRfbnlTZTVlYTZtNmVydEhsRQ?oc=5",
@@ -86,5 +99,5 @@
       "pushedAt": "2026-04-12T08:27:10.178Z"
     }
   ],
-  "updatedAt": "2026-04-12T21:19:41.746Z"
+  "updatedAt": "2026-04-12T23:59:09.365Z"
 }
