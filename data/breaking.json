@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c67037833abe2c33",
+      "title": "MAN ATTACKS US MILITARY AIRCRAFT WITH AXE, CAUSING DAMAGE IN IRELAND - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UZnhKRjhxSnRMOUYxTGtJX3pXUVhzWmFsSHo5VTVqR3I5WnVjMUJjUXJPcDNUeno3ckJ0UHpmVjUzRFJUQkphTFJjZXJVbG5zVlJpaDRyQ2w5LUE?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-04-12T08:27:10.178Z",
+      "pushedAt": "2026-04-12T08:27:10.178Z"
+    },
+    {
       "id": "ea4da982f66a8448",
       "title": "Kelantan Police Dispose Of Four Fish Bombs Found Near Border - bernama",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zbDY2YkdhS2ZKX3NhUFFaU2FfM0x2U1lQZ2l6T1FjeGVLdHFVdnEtVUVhTjFPbklWQ216QXkwVTZLZlpaMkl6ajE3S1V5V0M0MjVLQ1J3?oc=5",
@@ -35,67 +47,7 @@
       ],
       "firstSeen": "2026-04-11T09:23:36.831Z",
       "pushedAt": "2026-04-11T09:23:36.831Z"
-    },
-    {
-      "id": "d686a31d26c7734c",
-      "title": "US, Iran set for peace talks but doubts emerge over Lebanon, sanctions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOam1RZGY3dngzb1VBWXFteDlZNldBNE1RMkpRMFpEbWszckQ2Zk1DUWdiWG0zcjkzMUEyVTVPdkVXYTBwZW5ybnIxT0szNDMxb3dOUUptV1M3MEJhOGYxZ2pZcW1BT01WRGJnYU9zWDl6UGhFaHQ0cFU5MS1VVlU0RVZTd1dZRG5NX0F5X3BvOUlBbEtULUJHODQ0SHpPRlpJaG1pY1doVXpjcDY3ek9ublB6bC01dw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-04-11T06:13:37.687Z",
-      "pushedAt": "2026-04-11T06:13:37.687Z"
-    },
-    {
-      "id": "60be48d1491c39e2",
-      "title": "Irish government prepares fuel support deal after blockade pressure",
-      "url": "https://www.bbc.com/news/articles/cy814wypp5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-04-11T03:37:22.013Z",
-      "pushedAt": "2026-04-11T03:37:22.013Z"
-    },
-    {
-      "id": "410d4fcc51a36fa7",
-      "title": "US federal court hears new case against Trump tariffs",
-      "url": "https://www.aljazeera.com/economy/2026/4/10/us-federal-court-hears-new-case-against-trump-tariffs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-04-10T18:37:28.984Z",
-      "pushedAt": "2026-04-10T18:37:28.984Z"
-    },
-    {
-      "id": "153910eb2b69a01a",
-      "title": "European stocks end higher, defense shares tumble on Ukraine-Russia deal progress reports",
-      "url": "https://www.cnbc.com/2026/04/10/european-stocks-us-iran-ceasefire-uncertainty.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + stock"
-      ],
-      "firstSeen": "2026-04-10T16:05:26.010Z",
-      "pushedAt": "2026-04-10T16:05:26.010Z"
-    },
-    {
-      "id": "600cec2d1acb1758",
-      "title": "EU-China deficit jumps 18% in 2025 as US tariffs divert trade to Europe - Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcllaWHRkVkhJQ1RsTWxVTmMyRGJQVkxsQXR2MHFVQlIyNEpQaDRhdkVKUzBiazl3eFhab3FfUVVuZ2pfMmZoR005MGktYU5xX1V1MzJuYkQzeU5tWnB3X2V1anl3aXpJRGJyVERHbWhzd1lrVWdYbDJYbFBDdGJseVJLM3lXUUJqZUh5ZGJkU1l5Sk5YbWF2UFZSVFJJYkJPektOaQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-04-10T16:05:26.446Z",
-      "pushedAt": "2026-04-10T16:05:26.446Z"
     }
   ],
-  "updatedAt": "2026-04-11T10:38:44.487Z"
+  "updatedAt": "2026-04-12T08:27:10.406Z"
 }
