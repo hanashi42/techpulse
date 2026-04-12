@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7f3445656239fc7f",
+      "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
+      "url": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + record"
+      ],
+      "firstSeen": "2026-04-12T14:05:59.869Z",
+      "pushedAt": "2026-04-12T14:05:59.869Z"
+    },
+    {
       "id": "449e6de4875df802",
       "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
       "url": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html",
@@ -25,5 +37,5 @@
       "pushedAt": "2026-04-12T08:27:10.178Z"
     }
   ],
-  "updatedAt": "2026-04-12T13:21:03.160Z"
+  "updatedAt": "2026-04-12T14:05:59.999Z"
 }
