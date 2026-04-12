@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "86bd9c2eb8fd174d",
+      "title": "US Central Command says it will begin blockade of Iranian ports Monday - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDBuS25Ed1dnMVpaQi12SWtDTzZNam1jaG9GaEFyOUR2V0tyMjB5R3IwM185S3ZaNVpjeDQwdy11VUdodDVrZmR5d2xEZ3RWWUpYVXMzQmM1NW9CWXVTWUEyM0dfRXcyX3czLWYzbHRqOXg1WGtpaU01RzJ1TGZFc01EanhQUGstdWtNS0Y1LTRSaGRfbnlTZTVlYTZtNmVydEhsRQ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-04-12T21:19:41.429Z",
+      "pushedAt": "2026-04-12T21:19:41.429Z"
+    },
+    {
       "id": "4a4b8f0241267a6d",
       "title": "Three killed as armed men attack Pakistan Coast Guards in Arabian Sea - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzB1OUZWX01pbXdzbVdXcEhZczRNRnBQYzBqcVVPa3l1aklGWVVqeXItWWpEMjJfMDJLNTMtTmZXQ2M4OU54MmJJTUlrRkF2bkp4NnQwS0drOG5SajMzQlZVXzRhb1FYbXVILWVjUkdSYmZKdWRRQlUzVmplbUFXZ0VOX1dyQ05XcHUwWDZPYktOdUlxRFR3bVNfaVBJWWpEZTh5MnJmLXJ5bHUwTHdxaHBZWjVEZnVtaHc?oc=5",
@@ -74,5 +86,5 @@
       "pushedAt": "2026-04-12T08:27:10.178Z"
     }
   ],
-  "updatedAt": "2026-04-12T17:41:30.685Z"
+  "updatedAt": "2026-04-12T21:19:41.746Z"
 }
