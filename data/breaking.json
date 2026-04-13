@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "c8d4b918692fdcc0",
+      "title": "From panic to pricing in: Are markets past 'peak fear and sell-off' despite oil price surge?",
+      "url": "https://www.cnbc.com/2026/04/13/markets-trump-strait-of-hormuz-blockade-gold-stocks-dollar.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-04-13T05:29:24.522Z",
+      "pushedAt": "2026-04-13T05:29:24.522Z"
+    },
+    {
+      "id": "2809eac6101fe9db",
+      "title": "Aiming at China, Malaysia Puts New Restrictions on Electric Cars - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTRQcHg1OTFxbDZxSjFmb3VSaXIwcExKcW9PaW5MSkFKSlVwMGVpbGg2YVptN1VZSFd1QmFFVHh6d21GTUVQd2QyMDBlaDJoRDJvYTYzSDlVYjVxemhzUGlwRDQ1SVNxZ3BfNFFycHVYcE1xLVZ4M2IxTFJiMmEyeDBiTEUzdw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-04-13T05:29:24.635Z",
+      "pushedAt": "2026-04-13T05:29:24.635Z"
+    },
+    {
       "id": "ef0d9fb48a76bf3d",
       "title": "Asia markets set for mixed open as oil surges after U.S. moves to blockade Iran ports",
       "url": "https://www.cnbc.com/2026/04/13/asia-pacific-market-us-iran-talks-blockade-oil-prices.html",
@@ -99,5 +124,5 @@
       "pushedAt": "2026-04-12T08:27:10.178Z"
     }
   ],
-  "updatedAt": "2026-04-12T23:59:09.365Z"
+  "updatedAt": "2026-04-13T05:29:24.680Z"
 }
