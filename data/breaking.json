@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fd9cffa395ee2cc0",
+      "title": "Oil prices gives back much of their morning jump as US stocks climb on a still hopeful Wall Street - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjlJSnhfZk5sRWxBQ1hvWEdORi05MXVVZVdJV1hURGZnRWU2amxWR1I0eHktaWxBanJFLUtmdmtjOWtJOEhNa1FNSXN4SzdDMjZjSnloNDA5VU9YRElEa2ZuaG53ZlF2SnhaamJfb2RCZi1NTzFBdVVScG9xV3dFSzFNNU5zWENtS3dtRlJQMEloTEFnS1JJLVIzV3pYYmFKamp4d1VhSVE?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-04-13T19:40:48.962Z",
+      "pushedAt": "2026-04-13T19:40:48.962Z"
+    },
+    {
       "id": "a485f08d43d9d888",
       "title": "Oracle pops 11%, leading bounce back rally in software stocks",
       "url": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
@@ -183,5 +195,5 @@
       "pushedAt": "2026-04-12T21:19:41.429Z"
     }
   ],
-  "updatedAt": "2026-04-13T18:17:47.278Z"
+  "updatedAt": "2026-04-13T19:40:49.038Z"
 }
