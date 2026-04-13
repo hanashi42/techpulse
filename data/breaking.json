@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "1e0fe5d2374a52a8",
+      "title": "Physical oil in Europe hits record high near $150 a barrel as Hormuz crisis worsens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3dzcVNuSUx3RDE5NGJyZUhvV2dhMmZaMHFrenExLVlaR1lWYmNxb1BrNlp1RHZhRUQ5dTBzME5pUWp0OEw5eUJSOURGZWM1MU1nNHBhcXZNTzhPVWk3emJCLTdYdlFwVDZFSzBIN0VHSHozeHhaa1R5S3FPZEEwOTVqWVQ5VjlTUnJUQ0k1alhROG0zWkJCUlNObjFQbGdsczFhYU90T2RpZ0kzdEpfd21uT0IxM1hVWEpJZV9XaUtGaFNa?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "record high + oil"
+      ],
+      "firstSeen": "2026-04-13T13:25:19.216Z",
+      "pushedAt": "2026-04-13T13:25:19.216Z"
+    },
+    {
+      "id": "49e7513ae29c4535",
+      "title": "Irish prime minister announces fuel tax cuts to stop protests over soaring pump prices - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaS1nWGpQT1RqVC1KaklaY21ad0RKX2p4N2RpRGNVcF9iVnVGTmpDTDNNVWdtaGllazBKQkl4cjF0cURodUpvQnI5am12bE51ZDhqTjFjVXV1Q2ljVjVSaG9EOXlOaTVISVpvRklYT1ByZWRlMy0yeGFCZld4SUdSUnlsajhNSUVyRWNoYVFyRWl5aTlXMGRLS002WVl1aUxzcDVndHVPMnVXLV9oeFBDMlNB?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-04-13T13:25:19.529Z",
+      "pushedAt": "2026-04-13T13:25:19.529Z"
+    },
+    {
       "id": "8f6ff3592be8a9ec",
       "title": "European markets edge lower and travel stocks plunge as Iran peace hopes fade",
       "url": "https://www.cnbc.com/2026/04/13/european-markets-stoxx-600-ftse-dax-iran-latest-hungary-election.html",
@@ -170,19 +194,7 @@
       ],
       "firstSeen": "2026-04-12T14:05:59.869Z",
       "pushedAt": "2026-04-12T14:05:59.869Z"
-    },
-    {
-      "id": "449e6de4875df802",
-      "title": "Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
-      "url": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait"
-      ],
-      "firstSeen": "2026-04-12T13:21:03.010Z",
-      "pushedAt": "2026-04-12T13:21:03.010Z"
     }
   ],
-  "updatedAt": "2026-04-13T11:59:11.009Z"
+  "updatedAt": "2026-04-13T13:25:19.673Z"
 }
