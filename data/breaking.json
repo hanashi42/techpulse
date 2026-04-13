@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6604e57ccacca544",
+      "title": "Starmer says UK will not support US blockade of Strait of Hormuz",
+      "url": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-04-13T14:58:10.216Z",
+      "pushedAt": "2026-04-13T14:58:10.216Z"
+    },
+    {
       "id": "1e0fe5d2374a52a8",
       "title": "Physical oil in Europe hits record high near $150 a barrel as Hormuz crisis worsens - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3dzcVNuSUx3RDE5NGJyZUhvV2dhMmZaMHFrenExLVlaR1lWYmNxb1BrNlp1RHZhRUQ5dTBzME5pUWp0OEw5eUJSOURGZWM1MU1nNHBhcXZNTzhPVWk3emJCLTdYdlFwVDZFSzBIN0VHSHozeHhaa1R5S3FPZEEwOTVqWVQ5VjlTUnJUQ0k1alhROG0zWkJCUlNObjFQbGdsczFhYU90T2RpZ0kzdEpfd21uT0IxM1hVWEpJZV9XaUtGaFNa?oc=5",
@@ -182,19 +194,7 @@
       ],
       "firstSeen": "2026-04-12T16:25:07.308Z",
       "pushedAt": "2026-04-12T16:25:07.308Z"
-    },
-    {
-      "id": "7f3445656239fc7f",
-      "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
-      "url": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + record"
-      ],
-      "firstSeen": "2026-04-12T14:05:59.869Z",
-      "pushedAt": "2026-04-12T14:05:59.869Z"
     }
   ],
-  "updatedAt": "2026-04-13T13:25:19.673Z"
+  "updatedAt": "2026-04-13T14:58:10.337Z"
 }
