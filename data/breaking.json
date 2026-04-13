@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "14ed3d037b366bc1",
+      "title": "NATO allies refuse to join Trump's Iranian port blockade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVUt5eDRaWkRBTTAtbDVmZUFWVUVhcmR3WFVIRWZuemxyMzhYWVU2dVNvaXBhWjBMQTBPeFQzYjFJOElnZ2FvWldGMW9WcjhUZlBwODFBS1llajMyZHRvNENjSl8wYXRLVTA3ZFVNSk9rOUZDOHBlVjFtVGI0ek9vaGU5ZWo0Rl93NE9wUl9BeFVxM0Fxa0ROeHh0ZTZ0bk1YTkdpag?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-04-13T17:17:39.884Z",
+      "pushedAt": "2026-04-13T17:17:39.884Z"
+    },
+    {
       "id": "6604e57ccacca544",
       "title": "Starmer says UK will not support US blockade of Strait of Hormuz",
       "url": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz?traffic_source=rss",
@@ -181,20 +193,7 @@
       ],
       "firstSeen": "2026-04-12T17:41:30.624Z",
       "pushedAt": "2026-04-12T17:41:30.624Z"
-    },
-    {
-      "id": "7dc1466d2ab93df9",
-      "title": "Ringgit Strength, Foreign Inflows Support Malaysia Bond Market Amid Global Uncertainties - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2doRW5aSkpRX09wNXdKcFFJVUxrMnJoMzd5ajJNTk1PV0RkZEpWZnc4OHlOdG9jSVNXSXBqTkxEMm11aEV4TnRTOEtOMUhXOWs3WlBkX1RCT1d0ZngzTElFa2ZnVjBpZjNjV3ZoZWt0VWlHSlRuWHRld3NQczlCeEh3?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "ringgit + low",
-        "ringgit + low"
-      ],
-      "firstSeen": "2026-04-12T16:25:07.308Z",
-      "pushedAt": "2026-04-12T16:25:07.308Z"
     }
   ],
-  "updatedAt": "2026-04-13T14:58:10.337Z"
+  "updatedAt": "2026-04-13T17:17:40.154Z"
 }
