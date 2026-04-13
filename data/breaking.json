@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8f6ff3592be8a9ec",
+      "title": "European markets edge lower and travel stocks plunge as Iran peace hopes fade",
+      "url": "https://www.cnbc.com/2026/04/13/european-markets-stoxx-600-ftse-dax-iran-latest-hungary-election.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock"
+      ],
+      "firstSeen": "2026-04-13T11:59:10.772Z",
+      "pushedAt": "2026-04-13T11:59:10.772Z"
+    },
+    {
       "id": "466d01a507fb0f89",
       "title": "World Bank chief sounds alarm about looming jobs crisis even after war ends - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUHZXbW9CTnlGQ0JrT2NRc2VpY0tCX1lVLWJPVGVBRGJidnBiT2xtaVQ4aWZhRUVQd1FDN2RDeFdjbGVDQVU1UEdhVU5JUG42Ny1Tek9IcUY4TldpR2s3eUdPVEstUnZtLVBSSldjU0RqUGlUS0o0MFl5bGIzVnNoRlRzTFZxSk5VQVdYLTZORXVRTjNvLS15V2xNRnNyYno2c1lfaVcyLW5CRVBOQzVSUVd1NDRLV181a0xSZEFCT1drM1BBZ0R2OFBJdkVUSk0?oc=5",
@@ -172,5 +184,5 @@
       "pushedAt": "2026-04-12T13:21:03.010Z"
     }
   ],
-  "updatedAt": "2026-04-13T10:56:49.039Z"
+  "updatedAt": "2026-04-13T11:59:11.009Z"
 }
