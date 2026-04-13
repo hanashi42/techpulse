@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "466d01a507fb0f89",
+      "title": "World Bank chief sounds alarm about looming jobs crisis even after war ends - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUHZXbW9CTnlGQ0JrT2NRc2VpY0tCX1lVLWJPVGVBRGJidnBiT2xtaVQ4aWZhRUVQd1FDN2RDeFdjbGVDQVU1UEdhVU5JUG42Ny1Tek9IcUY4TldpR2s3eUdPVEstUnZtLVBSSldjU0RqUGlUS0o0MFl5bGIzVnNoRlRzTFZxSk5VQVdYLTZORXVRTjNvLS15V2xNRnNyYno2c1lfaVcyLW5CRVBOQzVSUVd1NDRLV181a0xSZEFCT1drM1BBZ0R2OFBJdkVUSk0?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "war ends"
+      ],
+      "firstSeen": "2026-04-13T10:56:48.933Z",
+      "pushedAt": "2026-04-13T10:56:48.933Z"
+    },
+    {
+      "id": "db4fb69dd40b685d",
+      "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
+      "url": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-13T10:56:48.990Z",
+      "pushedAt": "2026-04-13T10:56:48.990Z"
+    },
+    {
       "id": "4930e3c3cef62211",
       "title": "Weather tracker: Super Typhoon Sinlaku threatens Mariana Islands",
       "url": "https://www.theguardian.com/environment/2026/apr/13/weather-tracker-super-typhoon-sinlaku-threatens-mariana-islands",
@@ -148,5 +172,5 @@
       "pushedAt": "2026-04-12T13:21:03.010Z"
     }
   ],
-  "updatedAt": "2026-04-13T09:17:09.164Z"
+  "updatedAt": "2026-04-13T10:56:49.039Z"
 }
