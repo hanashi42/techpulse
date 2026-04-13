@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a485f08d43d9d888",
+      "title": "Oracle pops 11%, leading bounce back rally in software stocks",
+      "url": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-04-13T18:17:47.106Z",
+      "pushedAt": "2026-04-13T18:17:47.106Z"
+    },
+    {
       "id": "14ed3d037b366bc1",
       "title": "NATO allies refuse to join Trump's Iranian port blockade - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVUt5eDRaWkRBTTAtbDVmZUFWVUVhcmR3WFVIRWZuemxyMzhYWVU2dVNvaXBhWjBMQTBPeFQzYjFJOElnZ2FvWldGMW9WcjhUZlBwODFBS1llajMyZHRvNENjSl8wYXRLVTA3ZFVNSk9rOUZDOHBlVjFtVGI0ek9vaGU5ZWo0Rl93NE9wUl9BeFVxM0Fxa0ROeHh0ZTZ0bk1YTkdpag?oc=5",
@@ -169,31 +181,7 @@
       ],
       "firstSeen": "2026-04-12T21:19:41.429Z",
       "pushedAt": "2026-04-12T21:19:41.429Z"
-    },
-    {
-      "id": "4a4b8f0241267a6d",
-      "title": "Three killed as armed men attack Pakistan Coast Guards in Arabian Sea - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzB1OUZWX01pbXdzbVdXcEhZczRNRnBQYzBqcVVPa3l1aklGWVVqeXItWWpEMjJfMDJLNTMtTmZXQ2M4OU54MmJJTUlrRkF2bkp4NnQwS0drOG5SajMzQlZVXzRhb1FYbXVILWVjUkdSYmZKdWRRQlUzVmplbUFXZ0VOX1dyQ05XcHUwWDZPYktOdUlxRFR3bVNfaVBJWWpEZTh5MnJmLXJ5bHUwTHdxaHBZWjVEZnVtaHc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-12T17:41:30.543Z",
-      "pushedAt": "2026-04-12T17:41:30.543Z"
-    },
-    {
-      "id": "cce22d9d19a1054a",
-      "title": "Hormuz blockade, Supreme Court retirements and powering AI with coal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGFkWVZERDlydExRQzBhNnpmaUZsakRYRGVVN0sxdEZEWW1LUWdHUmoxSTg3dEhHNjJxdllhVDdHOUw4MUJtODRpOEdINldtcVBxaXdSenRpcGRJdGRDTG9GNGk4WGZVMnRRTEVOWEZVcmdYcnozaDE0QWJsblFBNExwcnpoNWxPYnJwbFU0dTNMYjRRV05CckFRRXYzTUROZi1iYzljbnhtNGxi?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + hormuz"
-      ],
-      "firstSeen": "2026-04-12T17:41:30.624Z",
-      "pushedAt": "2026-04-12T17:41:30.624Z"
     }
   ],
-  "updatedAt": "2026-04-13T17:17:40.154Z"
+  "updatedAt": "2026-04-13T18:17:47.278Z"
 }
