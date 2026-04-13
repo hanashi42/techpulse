@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f354e71fe5064075",
+      "title": "World Liberty investor Justin Sun claims Trump crypto venture 'secretly' installed tool to freeze user holdings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaVd4RmtKUXZhMGVza3N6SVJkRTZ5cmJ1YzlrbGRGcXNoenEtOUZIWDdRUGdlU3B3TE1rS3RnZ3ZremxUeE9wMnBQeUFLVzBvRTVCVmM0MkxtUzlPUTNXcmtTSnF3djdmRDVvOVZTaHhYOXcwVWpqc042WDRiN2ZUTzJaR1BOMTlieGsxS2FidlNKQTBxSk5qTkhsSkE5Z1dYdU55YURHdEMwSEhNYWJlU1dFMkozMmtCeFhsbEpjT3RDMEIxRkxtb0haU2xUUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crypto + sec"
+      ],
+      "firstSeen": "2026-04-13T22:07:22.123Z",
+      "pushedAt": "2026-04-13T22:07:22.123Z"
+    },
+    {
       "id": "fd9cffa395ee2cc0",
       "title": "Oil prices gives back much of their morning jump as US stocks climb on a still hopeful Wall Street - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjlJSnhfZk5sRWxBQ1hvWEdORi05MXVVZVdJV1hURGZnRWU2amxWR1I0eHktaWxBanJFLUtmdmtjOWtJOEhNa1FNSXN4SzdDMjZjSnloNDA5VU9YRElEa2ZuaG53ZlF2SnhaamJfb2RCZi1NTzFBdVVScG9xV3dFSzFNNU5zWENtS3dtRlJQMEloTEFnS1JJLVIzV3pYYmFKamp4d1VhSVE?oc=5",
@@ -181,19 +193,7 @@
       ],
       "firstSeen": "2026-04-12T23:59:09.177Z",
       "pushedAt": "2026-04-12T23:59:09.177Z"
-    },
-    {
-      "id": "86bd9c2eb8fd174d",
-      "title": "US Central Command says it will begin blockade of Iranian ports Monday - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDBuS25Ed1dnMVpaQi12SWtDTzZNam1jaG9GaEFyOUR2V0tyMjB5R3IwM185S3ZaNVpjeDQwdy11VUdodDVrZmR5d2xEZ3RWWUpYVXMzQmM1NW9CWXVTWUEyM0dfRXcyX3czLWYzbHRqOXg1WGtpaU01RzJ1TGZFc01EanhQUGstdWtNS0Y1LTRSaGRfbnlTZTVlYTZtNmVydEhsRQ?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-04-12T21:19:41.429Z",
-      "pushedAt": "2026-04-12T21:19:41.429Z"
     }
   ],
-  "updatedAt": "2026-04-13T19:40:49.038Z"
+  "updatedAt": "2026-04-13T22:07:22.320Z"
 }
