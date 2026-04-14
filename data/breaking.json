@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "6e17081433ac4717",
+      "title": "Magnitude 5.7 earthquake strikes Silver Springs, Nevada, USGS says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXdKbUFhWUtDcE5qUXVxOVA1Z2FNRHZFSE1MeUVoaDhDc3dlS3RyYTA4Q3ljRm8tN2ROMVFJdE1iS1lvcDNkcjFBQldtbWxac1I4SEQ3T1NVWEgzOVdTUVJfZEx1S2xSVXAxei0xMzdjdFA0NnBmay1aMFdwSTc0SXlCVHRad3lrV21VV1F2NmxoNEV1dFVfOVB3cmRkNVJnR3F3QzRKU2J4SDlubXFxc0FwX3Z4NUhPN3VtXw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-04-14T04:16:42.207Z",
+      "pushedAt": "2026-04-14T04:16:42.207Z"
+    },
+    {
+      "id": "4d557880df0a5ee0",
+      "title": "Oil prices fall as US-Iran dialogue hopes ease supply concerns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMk4yUEhmMDdEOWhfbzRpZG8yS2tzS1JLaWp3YmFHUXp6LUduSllGX1llZHpPUDNTWnFKOGtINHhuVFVpVXlrNGRtMmVqNmNUWjVkQXljTHJDd2l3MVJmLXh2QVc4SDdBd1NOS1ZTOTEyeVlMY205cU1uQU0wcDlHZWJ6MHZIUmllNFB1VmxEb1NscF9Gck1hNmVaVkRZYlhmN0lQcE5CQlpwOXM?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-04-14T04:16:42.379Z",
+      "pushedAt": "2026-04-14T04:16:42.379Z"
+    },
+    {
+      "id": "f51868db9f429a1c",
+      "title": "Iran war has some US water utilities facing a fluoride shortage - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblJ6Mm45V1lEdkRseWJwYzViV2lyRm5IcFRSZWdsaVlTZ0ZBRjNKRUF6X0hLQkFoSnBaMHFZMmJIRWNQQ3lfTWVaWjkwQWlPNFR2UDRnVjN1OWpRcDZpVldFMUgxT1NZNVBBdFI4ZTBuQ2NMYUs1eVVLT2w0UFYydnJOWm12dGFMRjNHMzVOMFdySHFyY3B3YTZUUmNULTc5UzJLNm9NNVUxdnhvdlE?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + water"
+      ],
+      "firstSeen": "2026-04-14T04:16:42.416Z",
+      "pushedAt": "2026-04-14T04:16:42.416Z"
+    },
+    {
       "id": "16654e91ac2acfde",
       "title": "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins",
       "url": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss",
@@ -218,5 +254,5 @@
       "pushedAt": "2026-04-13T05:29:24.635Z"
     }
   ],
-  "updatedAt": "2026-04-14T01:09:47.810Z"
+  "updatedAt": "2026-04-14T04:16:42.451Z"
 }
