@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fd9cffa395ee2cc0",
+      "title": "US stocks rally and return to where they were before the US-Iran war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjlJSnhfZk5sRWxBQ1hvWEdORi05MXVVZVdJV1hURGZnRWU2amxWR1I0eHktaWxBanJFLUtmdmtjOWtJOEhNa1FNSXN4SzdDMjZjSnloNDA5VU9YRElEa2ZuaG53ZlF2SnhaamJfb2RCZi1NTzFBdVVScG9xV3dFSzFNNU5zWENtS3dtRlJQMEloTEFnS1JJLVIzV3pYYmFKamp4d1VhSVE?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-04-14T20:43:36.892Z",
+      "pushedAt": "2026-04-14T20:43:36.892Z"
+    },
+    {
       "id": "0fbbdddcad6f2234",
       "title": "IMF cuts global growth forecast during Hormuz blockade",
       "url": "https://www.aljazeera.com/economy/2026/4/14/imf-cuts-global-growth-forecast-during-hormuz-blockade?traffic_source=rss",
@@ -182,5 +194,5 @@
       "pushedAt": "2026-04-13T22:07:22.123Z"
     }
   ],
-  "updatedAt": "2026-04-14T19:56:10.493Z"
+  "updatedAt": "2026-04-14T20:43:36.965Z"
 }
