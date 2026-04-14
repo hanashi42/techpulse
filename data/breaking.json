@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1910ea0de5c58151",
+      "title": "US-sanctioned Chinese tanker breaks Hormuz blockade - TRT World",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CWXhYWWM0czBxME5uZFI5Ui11OUdhazM1c0pITGVIUGVCQjJZeUU3MUlQS2MxQndDUFJBSUY4SVRoWUFDaXVPeWRHUHUtTlR0OFZBbmZwd0_SAV5BVV95cUxNa1NJZFdTd1AxZmRyWWo4eDBqb1BGbDJxc01YQTF4bmtKbDNQTnpBMGRDVDkwUDJkcHpzUHE4alJSa0V1M0syVW9qZkxFVUQxTkltME8yc3p1cnJHanVn?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + hormuz"
+      ],
+      "firstSeen": "2026-04-14T10:49:10.498Z",
+      "pushedAt": "2026-04-14T10:49:10.498Z"
+    },
+    {
       "id": "6e17081433ac4717",
       "title": "Magnitude 5.7 earthquake strikes Silver Springs, Nevada, USGS says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXdKbUFhWUtDcE5qUXVxOVA1Z2FNRHZFSE1MeUVoaDhDc3dlS3RyYTA4Q3ljRm8tN2ROMVFJdE1iS1lvcDNkcjFBQldtbWxac1I4SEQ3T1NVWEgzOVdTUVJfZEx1S2xSVXAxei0xMzdjdFA0NnBmay1aMFdwSTc0SXlCVHRad3lrV21VV1F2NmxoNEV1dFVfOVB3cmRkNVJnR3F3QzRKU2J4SDlubXFxc0FwX3Z4NUhPN3VtXw?oc=5",
@@ -191,68 +203,7 @@
       ],
       "firstSeen": "2026-04-13T10:56:48.990Z",
       "pushedAt": "2026-04-13T10:56:48.990Z"
-    },
-    {
-      "id": "4930e3c3cef62211",
-      "title": "Weather tracker: Super Typhoon Sinlaku threatens Mariana Islands",
-      "url": "https://www.theguardian.com/environment/2026/apr/13/weather-tracker-super-typhoon-sinlaku-threatens-mariana-islands",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "super typhoon"
-      ],
-      "firstSeen": "2026-04-13T09:17:08.580Z",
-      "pushedAt": "2026-04-13T09:17:08.580Z"
-    },
-    {
-      "id": "5279e3d66e902374",
-      "title": "Trump threatens 50% tariffs on China as report suggests plans for arms shipment to Iran",
-      "url": "https://www.cnbc.com/2026/04/13/trump-threatens-50percent-tariffs-on-china-as-report-suggests-plans-for-arms-shipment-to-iran.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-13T09:17:08.838Z",
-      "pushedAt": "2026-04-13T09:17:08.838Z"
-    },
-    {
-      "id": "943d5ec8bc0ecc51",
-      "title": "Taiwan Plans Drills to Break Potential Chinese Energy Blockade - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVhrYWFjYVJoUmVzXzEwcU5mVXlGclVPcGpNQnF0UmF1OWFKN0VSeUs3Q1lscHZYNjJiVHVMQlpON1ktRzJJZVN3bFI5dlRtdDJTa2lZQXFxcU55SW1ULURDemRqME4wSjkwblRURlVjU1piUlRIdlYxV1BtOFRJOEtSQXpWT3FJNjVnWll2WGxqRU01c2x6OGlrQWdfdVNHaGNKV3JsU1Z6bXA4TjdUeEpXQQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + taiwan"
-      ],
-      "firstSeen": "2026-04-13T09:17:09.082Z",
-      "pushedAt": "2026-04-13T09:17:09.082Z"
-    },
-    {
-      "id": "c8d4b918692fdcc0",
-      "title": "From panic to pricing in: Are markets past 'peak fear and sell-off' despite oil price surge?",
-      "url": "https://www.cnbc.com/2026/04/13/markets-trump-strait-of-hormuz-blockade-gold-stocks-dollar.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-04-13T05:29:24.522Z",
-      "pushedAt": "2026-04-13T05:29:24.522Z"
-    },
-    {
-      "id": "2809eac6101fe9db",
-      "title": "Aiming at China, Malaysia Puts New Restrictions on Electric Cars - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTRQcHg1OTFxbDZxSjFmb3VSaXIwcExKcW9PaW5MSkFKSlVwMGVpbGg2YVptN1VZSFd1QmFFVHh6d21GTUVQd2QyMDBlaDJoRDJvYTYzSDlVYjVxemhzUGlwRDQ1SVNxZ3BfNFFycHVYcE1xLVZ4M2IxTFJiMmEyeDBiTEUzdw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-04-13T05:29:24.635Z",
-      "pushedAt": "2026-04-13T05:29:24.635Z"
     }
   ],
-  "updatedAt": "2026-04-14T04:16:42.451Z"
+  "updatedAt": "2026-04-14T10:49:10.682Z"
 }
