@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1bbbda589d8ce50d",
+      "title": "US producer inflation rises below expectations in March, but war fires up energy prices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXpGc0QwNXl6SVNoQUxScXZPVVh6cUVoZTRxTTc5SWs4NGczWlBvdEV0RWk3MWNGdmxjWUE0SDI5a1hXMnBtaVBIb2VyRmdpYkVWUktXblN3ZTBLeXM3anZoNnJEQm9hYzJmb1VTM0JtRkZlUFJlU1Qza1BhRzNORW0weXlmZFIyaE1TMzNMZjNyaGYyMFZteWhfWVVQMGw2UW5JUi1Kcw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + rise"
+      ],
+      "firstSeen": "2026-04-14T16:47:24.652Z",
+      "pushedAt": "2026-04-14T16:47:24.652Z"
+    },
+    {
       "id": "2215ab2faae03ba4",
       "title": "US blockade of Iran ports irresponsible and dangerous, China says",
       "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
@@ -194,5 +206,5 @@
       "pushedAt": "2026-04-13T17:17:39.884Z"
     }
   ],
-  "updatedAt": "2026-04-14T15:46:01.779Z"
+  "updatedAt": "2026-04-14T16:47:24.917Z"
 }
