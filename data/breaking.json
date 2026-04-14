@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0fbbdddcad6f2234",
+      "title": "IMF cuts global growth forecast during Hormuz blockade",
+      "url": "https://www.aljazeera.com/economy/2026/4/14/imf-cuts-global-growth-forecast-during-hormuz-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + hormuz"
+      ],
+      "firstSeen": "2026-04-14T19:56:10.296Z",
+      "pushedAt": "2026-04-14T19:56:10.296Z"
+    },
+    {
       "id": "1bbbda589d8ce50d",
       "title": "US producer inflation rises below expectations in March, but war fires up energy prices - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXpGc0QwNXl6SVNoQUxScXZPVVh6cUVoZTRxTTc5SWs4NGczWlBvdEV0RWk3MWNGdmxjWUE0SDI5a1hXMnBtaVBIb2VyRmdpYkVWUktXblN3ZTBLeXM3anZoNnJEQm9hYzJmb1VTM0JtRkZlUFJlU1Qza1BhRzNORW0weXlmZFIyaE1TMzNMZjNyaGYyMFZteWhfWVVQMGw2UW5JUi1Kcw?oc=5",
@@ -168,43 +180,7 @@
       ],
       "firstSeen": "2026-04-13T22:07:22.123Z",
       "pushedAt": "2026-04-13T22:07:22.123Z"
-    },
-    {
-      "id": "fd9cffa395ee2cc0",
-      "title": "Oil prices gives back much of their morning jump as US stocks climb on a still hopeful Wall Street - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjlJSnhfZk5sRWxBQ1hvWEdORi05MXVVZVdJV1hURGZnRWU2amxWR1I0eHktaWxBanJFLUtmdmtjOWtJOEhNa1FNSXN4SzdDMjZjSnloNDA5VU9YRElEa2ZuaG53ZlF2SnhaamJfb2RCZi1NTzFBdVVScG9xV3dFSzFNNU5zWENtS3dtRlJQMEloTEFnS1JJLVIzV3pYYmFKamp4d1VhSVE?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-04-13T19:40:48.962Z",
-      "pushedAt": "2026-04-13T19:40:48.962Z"
-    },
-    {
-      "id": "a485f08d43d9d888",
-      "title": "Oracle pops 11%, leading bounce back rally in software stocks",
-      "url": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-04-13T18:17:47.106Z",
-      "pushedAt": "2026-04-13T18:17:47.106Z"
-    },
-    {
-      "id": "14ed3d037b366bc1",
-      "title": "NATO allies refuse to join Trump's Iranian port blockade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVUt5eDRaWkRBTTAtbDVmZUFWVUVhcmR3WFVIRWZuemxyMzhYWVU2dVNvaXBhWjBMQTBPeFQzYjFJOElnZ2FvWldGMW9WcjhUZlBwODFBS1llajMyZHRvNENjSl8wYXRLVTA3ZFVNSk9rOUZDOHBlVjFtVGI0ek9vaGU5ZWo0Rl93NE9wUl9BeFVxM0Fxa0ROeHh0ZTZ0bk1YTkdpag?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-04-13T17:17:39.884Z",
-      "pushedAt": "2026-04-13T17:17:39.884Z"
     }
   ],
-  "updatedAt": "2026-04-14T16:47:24.917Z"
+  "updatedAt": "2026-04-14T19:56:10.493Z"
 }
