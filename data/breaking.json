@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3fc0905771a64b1a",
+      "title": "Trump says US military has blockaded Iranian ports to pressure Tehran - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2dJQWY4QmxJblNkbFQxSFlCT0hwM2FCRFZqZTdSRUdhYjg5ZC1xdnNyQ0hueHZGbTVsajJFU1RZY2ZtNklYc0J0VUlVSnlTTzZOdi14eVBfTGdIZmFEaHptQVptTkdzSmNrck84RUZraFBDel9aUmxNeDI1OEg0a3NKNW1pbHJiVnI0TnA2TWtJbWo1bVpOeHE1Q1JxYXJPV09fSFp5ZnN2VXN1aVprdVMxemFMTzJRNnc?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-04-14T23:55:25.672Z",
+      "pushedAt": "2026-04-14T23:55:25.672Z"
+    },
+    {
+      "id": "377921daa912a4ca",
+      "title": "U.S. Hormuz blockade hits India just as Russian oil purchase waiver expires, deepening energy worries",
+      "url": "https://www.cnbc.com/2026/04/14/us-hormuz-blockade-hits-india-just-as-russian-oil-purchase-waiver-expires-deepening-energy-worries.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-04-14T23:55:25.803Z",
+      "pushedAt": "2026-04-14T23:55:25.803Z"
+    },
+    {
       "id": "1f54ec8a6690c9d7",
       "title": "Bessent says core inflation is going down, Fed will need to cut rates - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNWxKdmstdlM0X25GVjNBektibzZ5REpqVU9xZ1ZxaEZxalBpZHJsMWFoeWZrOHNwQVNsWVB2ckRSQzBQUXdjelJzZGprY0ZIZllQS2J4QTFNV1ltOS00dmZMUDFoVC1jdHVWRHhUdmpsX21EeHU0aEZ1d2pBSDdFWjB0UjVQYU1fd3J5cnNPUHVBVmhnZlBFcTZNRDliU19aQmtkR3VZMEt4Y0RYd1VXemQtaENQMkI2ME1wbDBZMmlTSkE0SnA3ZzhEYWVNSWxzS3o1X1VsRl9kRTdFc2s3NDY5UDN3QVRzbnhnNzZubTY5VTA?oc=5",
@@ -170,5 +194,5 @@
       "pushedAt": "2026-04-14T01:09:47.649Z"
     }
   ],
-  "updatedAt": "2026-04-14T23:07:25.694Z"
+  "updatedAt": "2026-04-14T23:55:25.841Z"
 }
