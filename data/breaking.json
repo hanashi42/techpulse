@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "53a60ddbfe148715",
+      "title": "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
+      "url": "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + oil",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-04-14T11:44:31.399Z",
+      "pushedAt": "2026-04-14T11:44:31.399Z"
+    },
+    {
+      "id": "4930e3c3cef62211",
+      "title": "Weather tracker: Super Typhoon Sinlaku threatens Mariana Islands",
+      "url": "https://www.theguardian.com/environment/2026/apr/13/weather-tracker-super-typhoon-sinlaku-threatens-mariana-islands",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "super typhoon"
+      ],
+      "firstSeen": "2026-04-14T11:44:31.507Z",
+      "pushedAt": "2026-04-14T11:44:31.507Z"
+    },
+    {
       "id": "1910ea0de5c58151",
       "title": "US-sanctioned Chinese tanker breaks Hormuz blockade - TRT World",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CWXhYWWM0czBxME5uZFI5Ui11OUdhazM1c0pITGVIUGVCQjJZeUU3MUlQS2MxQndDUFJBSUY4SVRoWUFDaXVPeWRHUHUtTlR0OFZBbmZwd0_SAV5BVV95cUxNa1NJZFdTd1AxZmRyWWo4eDBqb1BGbDJxc01YQTF4bmtKbDNQTnpBMGRDVDkwUDJkcHpzUHE4alJSa0V1M0syVW9qZkxFVUQxTkltME8yc3p1cnJHanVn?oc=5",
@@ -179,31 +204,7 @@
       ],
       "firstSeen": "2026-04-13T11:59:10.772Z",
       "pushedAt": "2026-04-13T11:59:10.772Z"
-    },
-    {
-      "id": "466d01a507fb0f89",
-      "title": "World Bank chief sounds alarm about looming jobs crisis even after war ends - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUHZXbW9CTnlGQ0JrT2NRc2VpY0tCX1lVLWJPVGVBRGJidnBiT2xtaVQ4aWZhRUVQd1FDN2RDeFdjbGVDQVU1UEdhVU5JUG42Ny1Tek9IcUY4TldpR2s3eUdPVEstUnZtLVBSSldjU0RqUGlUS0o0MFl5bGIzVnNoRlRzTFZxSk5VQVdYLTZORXVRTjNvLS15V2xNRnNyYno2c1lfaVcyLW5CRVBOQzVSUVd1NDRLV181a0xSZEFCT1drM1BBZ0R2OFBJdkVUSk0?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "war ends"
-      ],
-      "firstSeen": "2026-04-13T10:56:48.933Z",
-      "pushedAt": "2026-04-13T10:56:48.933Z"
-    },
-    {
-      "id": "db4fb69dd40b685d",
-      "title": "Ghanaian footballer killed after armed attackers open fire at team bus",
-      "url": "https://www.bbc.com/news/articles/czx97pkyy9po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-13T10:56:48.990Z",
-      "pushedAt": "2026-04-13T10:56:48.990Z"
     }
   ],
-  "updatedAt": "2026-04-14T10:49:10.682Z"
+  "updatedAt": "2026-04-14T11:44:31.607Z"
 }
