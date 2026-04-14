@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2215ab2faae03ba4",
+      "title": "US blockade of Iran ports irresponsible and dangerous, China says",
+      "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-04-14T15:46:01.671Z",
+      "pushedAt": "2026-04-14T15:46:01.671Z"
+    },
+    {
       "id": "8a284b50e273d542",
       "title": "How many ships have passed the Strait of Hormuz and how many were attacked?",
       "url": "https://www.aljazeera.com/news/2026/4/14/how-many-ships-have-passed-the-strait-of-hormuz-and-how-many-were-attacked?traffic_source=rss",
@@ -180,43 +192,7 @@
       ],
       "firstSeen": "2026-04-13T17:17:39.884Z",
       "pushedAt": "2026-04-13T17:17:39.884Z"
-    },
-    {
-      "id": "6604e57ccacca544",
-      "title": "Starmer says UK will not support US blockade of Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/2026/4/13/starmer-says-uk-will-not-support-us-blockade-of-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-04-13T14:58:10.216Z",
-      "pushedAt": "2026-04-13T14:58:10.216Z"
-    },
-    {
-      "id": "1e0fe5d2374a52a8",
-      "title": "Physical oil in Europe hits record high near $150 a barrel as Hormuz crisis worsens - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3dzcVNuSUx3RDE5NGJyZUhvV2dhMmZaMHFrenExLVlaR1lWYmNxb1BrNlp1RHZhRUQ5dTBzME5pUWp0OEw5eUJSOURGZWM1MU1nNHBhcXZNTzhPVWk3emJCLTdYdlFwVDZFSzBIN0VHSHozeHhaa1R5S3FPZEEwOTVqWVQ5VjlTUnJUQ0k1alhROG0zWkJCUlNObjFQbGdsczFhYU90T2RpZ0kzdEpfd21uT0IxM1hVWEpJZV9XaUtGaFNa?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "record high + oil"
-      ],
-      "firstSeen": "2026-04-13T13:25:19.216Z",
-      "pushedAt": "2026-04-13T13:25:19.216Z"
-    },
-    {
-      "id": "49e7513ae29c4535",
-      "title": "Irish prime minister announces fuel tax cuts to stop protests over soaring pump prices - AP News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaS1nWGpQT1RqVC1KaklaY21ad0RKX2p4N2RpRGNVcF9iVnVGTmpDTDNNVWdtaGllazBKQkl4cjF0cURodUpvQnI5am12bE51ZDhqTjFjVXV1Q2ljVjVSaG9EOXlOaTVISVpvRklYT1ByZWRlMy0yeGFCZld4SUdSUnlsajhNSUVyRWNoYVFyRWl5aTlXMGRLS002WVl1aUxzcDVndHVPMnVXLV9oeFBDMlNB?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-04-13T13:25:19.529Z",
-      "pushedAt": "2026-04-13T13:25:19.529Z"
     }
   ],
-  "updatedAt": "2026-04-14T12:45:51.157Z"
+  "updatedAt": "2026-04-14T15:46:01.779Z"
 }
