@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8a284b50e273d542",
+      "title": "How many ships have passed the Strait of Hormuz and how many were attacked?",
+      "url": "https://www.aljazeera.com/news/2026/4/14/how-many-ships-have-passed-the-strait-of-hormuz-and-how-many-were-attacked?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + attacked"
+      ],
+      "firstSeen": "2026-04-14T12:45:50.926Z",
+      "pushedAt": "2026-04-14T12:45:50.926Z"
+    },
+    {
+      "id": "463ba131a0482120",
+      "title": "Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus",
+      "url": "https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-14T12:45:51.039Z",
+      "pushedAt": "2026-04-14T12:45:51.039Z"
+    },
+    {
       "id": "53a60ddbfe148715",
       "title": "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
       "url": "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions?traffic_source=rss",
@@ -192,19 +216,7 @@
       ],
       "firstSeen": "2026-04-13T13:25:19.529Z",
       "pushedAt": "2026-04-13T13:25:19.529Z"
-    },
-    {
-      "id": "8f6ff3592be8a9ec",
-      "title": "European markets edge lower and travel stocks plunge as Iran peace hopes fade",
-      "url": "https://www.cnbc.com/2026/04/13/european-markets-stoxx-600-ftse-dax-iran-latest-hungary-election.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock"
-      ],
-      "firstSeen": "2026-04-13T11:59:10.772Z",
-      "pushedAt": "2026-04-13T11:59:10.772Z"
     }
   ],
-  "updatedAt": "2026-04-14T11:44:31.607Z"
+  "updatedAt": "2026-04-14T12:45:51.157Z"
 }
