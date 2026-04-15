@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "281d5f6bad9cc8fd",
+      "title": "Goldman Sachs files for its first bitcoin ETF product - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtCaUZlaFNON25LX2dOUjYxTF9FRkhGS3M1cjVDMDZiWHk5aXVWMXUtVlhEUmsxSS0yMlFaUU8tYVRmajhPM3ZPbTFrTklBTG95bzJNdVFoVXRTRU1maG5XTWVNd0Q2c3lkV1R4SGNVRnVJQWhXS2l3WFVWVWtHOFNqREpIZl9xbW1CYm54SUZ5aFByaGROekJZTG13MlFuSkk2dUQ2ZWU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "bitcoin + etf"
+      ],
+      "firstSeen": "2026-04-15T01:20:36.064Z",
+      "pushedAt": "2026-04-15T01:20:36.064Z"
+    },
+    {
       "id": "3fc0905771a64b1a",
       "title": "Trump says US military has blockaded Iranian ports to pressure Tehran - AP News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2dJQWY4QmxJblNkbFQxSFlCT0hwM2FCRFZqZTdSRUdhYjg5ZC1xdnNyQ0hueHZGbTVsajJFU1RZY2ZtNklYc0J0VUlVSnlTTzZOdi14eVBfTGdIZmFEaHptQVptTkdzSmNrck84RUZraFBDel9aUmxNeDI1OEg0a3NKNW1pbHJiVnI0TnA2TWtJbWo1bVpOeHE1Q1JxYXJPV09fSFp5ZnN2VXN1aVprdVMxemFMTzJRNnc?oc=5",
@@ -180,19 +192,7 @@
       ],
       "firstSeen": "2026-04-14T04:16:42.416Z",
       "pushedAt": "2026-04-14T04:16:42.416Z"
-    },
-    {
-      "id": "16654e91ac2acfde",
-      "title": "Iran war live: Trump says Tehran wants deal as US blockade in Hormuz begins",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/14/iran-war-live-trump-claims-tehran-wants-a-deal-amid-us-blockade-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + hormuz"
-      ],
-      "firstSeen": "2026-04-14T01:09:47.649Z",
-      "pushedAt": "2026-04-14T01:09:47.649Z"
     }
   ],
-  "updatedAt": "2026-04-14T23:55:25.841Z"
+  "updatedAt": "2026-04-15T01:20:36.253Z"
 }
