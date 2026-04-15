@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "47d873dac51cb402",
+      "title": "Dodging Bombs and Drones, This Postman Still Delivers",
+      "url": "https://www.nytimes.com/2026/04/15/world/europe/ukraine-russia-war-kharkiv-nova-poshta.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-04-15T10:46:25.263Z",
+      "pushedAt": "2026-04-15T10:46:25.263Z"
+    },
+    {
       "id": "012d51d376b81aff",
       "title": "Taxation as a Driver of Energy Transition: How China Rewrote Its Vulnerability to Oil Shocks - Wolters Kluwer",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdWlzQ0tKeVkzX0o3emZZNW5FMTVscDhfcFBaUkVmRnRBaU9RLTVVd3U1VDZfN296TjN0dGdVbXZucVlhTlNRUmxMamZHcVFQbjR3RkVPQmNxNXRRWDdDLVRuRWpiQmo3bDhacldCU3RWbmR3ZDRkcUVoanl1MzJwc3Zlc1VNOFgtU2dqWjhEa011a3IxVUc2Y05KOTdERy1lLVRSV1l4LTVxVTlQU3VBZUtGcXZnV1RuOWd3R2RHOXZJTHhEaW9RR2R5bzhLd1o4RUh4em9wQTgwa1ZJcEVjR1dWa2NKaWd2empiRQ?oc=5",
@@ -206,5 +218,5 @@
       "pushedAt": "2026-04-14T10:49:10.498Z"
     }
   ],
-  "updatedAt": "2026-04-15T08:04:03.864Z"
+  "updatedAt": "2026-04-15T10:46:25.338Z"
 }
