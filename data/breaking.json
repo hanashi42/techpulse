@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "69cfc0cd2abfded2",
+      "title": "Wall Street rallies to the edge of its all-time high as oil prices ease - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkhsVkRscUJPQ1dRUzdfSmtGaFNVVjFuUi1rRzJTdHlBZzdFZ2FUcXhNYUFxWGRzYUFkcVVDcEJWWnlTbjE4N2tfWkhLUXZBREVIZ3E3akRpVFEtN0tKckF3Q3d5ZHV5emZJcTN5SjBfUjFIRzVVU1NRaDFYMVFibjU4UFJrWGxkQ1VzYndpV1VtNDNCaDVPUG53cTc2T0VFMlZoUlhwYjA?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "all-time high + oil"
+      ],
+      "firstSeen": "2026-04-15T06:12:37.623Z",
+      "pushedAt": "2026-04-15T06:12:37.623Z"
+    },
+    {
       "id": "516959831472c649",
       "title": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran",
       "url": "https://www.cnbc.com/2026/04/15/us-strait-of-hormuz-blockade-navy-iran-seaborne-trade-oil-trump.html",
@@ -182,5 +194,5 @@
       "pushedAt": "2026-04-14T10:49:10.498Z"
     }
   ],
-  "updatedAt": "2026-04-15T04:19:18.666Z"
+  "updatedAt": "2026-04-15T06:12:37.777Z"
 }
