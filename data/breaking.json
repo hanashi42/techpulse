@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4091c9a00fceae53",
+      "title": "US targets Iran's oil transportation infrastructure with sanctions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkVLU2x6LWQ5V3NfVmpCN0lVYmhqWjNJMUxKZ1l1YWNUTy15bnRIcVdXM1hKUVdiUDl2RFVXeU81MnJHREdlWnRPS3Z2YTQxOTdlQ2VyYUtuT2l2Y1lfcWVjTWNXTGFFa3g4SkIzRmdRS0xzallnOXVSMjhWMEx0N2tsbEx3TFRHWUJWNlRISlJVU1RvckR0eUJUVGVTUnJkX0U5MUpwemhRQVhGYmpKUlhjeWFTVGs?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-04-15T20:33:53.330Z",
+      "pushedAt": "2026-04-15T20:33:53.330Z"
+    },
+    {
+      "id": "2a447d0ac6b15cc0",
+      "title": "Could the US oil blockade snuff out the Cuban cigar?",
+      "url": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-04-15T20:33:53.473Z",
+      "pushedAt": "2026-04-15T20:33:53.473Z"
+    },
+    {
       "id": "685db602a9dec548",
       "title": "S&P 500 hits first intraday record high since US-Iran war - Reuters",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR2NRdUlXMXp1NDdUYm9Ga0VkSlVjSVVhclU3Q0psVUE4ZDM4M3Y0Y0Zfdlc3OHdyT3NMZ1ZkUEtLaUtaMHZXZFJuc1k0V2VOV0NZSS1jSGdNelZCWHNMTVAxWXRTMnN3bVBreUFWeFFNdFVRcHZnTFBYVlJ6QVd0M2dJRHpfZkpycE0zWndocWNKOVpMTWNWY1hXWTJuMWM?oc=5",
@@ -191,19 +215,7 @@
       ],
       "firstSeen": "2026-04-14T20:43:36.892Z",
       "pushedAt": "2026-04-14T20:43:36.892Z"
-    },
-    {
-      "id": "0fbbdddcad6f2234",
-      "title": "IMF cuts global growth forecast during Hormuz blockade",
-      "url": "https://www.aljazeera.com/economy/2026/4/14/imf-cuts-global-growth-forecast-during-hormuz-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + hormuz"
-      ],
-      "firstSeen": "2026-04-14T19:56:10.296Z",
-      "pushedAt": "2026-04-14T19:56:10.296Z"
     }
   ],
-  "updatedAt": "2026-04-15T18:47:41.119Z"
+  "updatedAt": "2026-04-15T20:33:53.529Z"
 }
