@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "39e6c425de8bbbef",
+      "title": "EU warns Meta WhatsApp AI fee breaches antitrust rules, orders rollback - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTnRxNUhUNDF6QU9uOXgweGpxTE12MHB1Yy1DSWVYcW1US2JqZXlGelVuUVBHLUFJRlptSHdCb1lpWXZER1Vpc3FoSngtSGdNdG9UcTM3enVBbE9WeHBVVUtjQ090eWcwVTFkWVloVkstdWZmek80R3RDaEhGY0lBUm9lQTBGdlBCQ29HcmdEeTRGT2MxNEJfam41SlY3cGJEa21aSGJtbHEweXpXbEdGN3l3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "antitrust + meta"
+      ],
+      "firstSeen": "2026-04-15T15:37:35.336Z",
+      "pushedAt": "2026-04-15T15:37:35.336Z"
+    },
+    {
       "id": "47d873dac51cb402",
       "title": "Dodging Bombs and Drones, This Postman Still Delivers",
       "url": "https://www.nytimes.com/2026/04/15/world/europe/ukraine-russia-war-kharkiv-nova-poshta.html",
@@ -155,68 +167,7 @@
       ],
       "firstSeen": "2026-04-14T15:46:01.671Z",
       "pushedAt": "2026-04-14T15:46:01.671Z"
-    },
-    {
-      "id": "8a284b50e273d542",
-      "title": "How many ships have passed the Strait of Hormuz and how many were attacked?",
-      "url": "https://www.aljazeera.com/news/2026/4/14/how-many-ships-have-passed-the-strait-of-hormuz-and-how-many-were-attacked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + attacked"
-      ],
-      "firstSeen": "2026-04-14T12:45:50.926Z",
-      "pushedAt": "2026-04-14T12:45:50.926Z"
-    },
-    {
-      "id": "463ba131a0482120",
-      "title": "Ghanaian winger Dominic Frimpong killed at age of 20 in attack on team bus",
-      "url": "https://www.theguardian.com/football/2026/apr/13/dominic-frimpong-killed-armed-robbers-team-bus-ghana",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-14T12:45:51.039Z",
-      "pushedAt": "2026-04-14T12:45:51.039Z"
-    },
-    {
-      "id": "53a60ddbfe148715",
-      "title": "Global oil demand to plunge amid disruptions caused by war on Iran: IEA",
-      "url": "https://www.aljazeera.com/news/2026/4/14/global-oil-demand-to-plunge-amid-middle-east-war-disruptions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + oil",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-04-14T11:44:31.399Z",
-      "pushedAt": "2026-04-14T11:44:31.399Z"
-    },
-    {
-      "id": "4930e3c3cef62211",
-      "title": "Weather tracker: Super Typhoon Sinlaku threatens Mariana Islands",
-      "url": "https://www.theguardian.com/environment/2026/apr/13/weather-tracker-super-typhoon-sinlaku-threatens-mariana-islands",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "super typhoon"
-      ],
-      "firstSeen": "2026-04-14T11:44:31.507Z",
-      "pushedAt": "2026-04-14T11:44:31.507Z"
-    },
-    {
-      "id": "1910ea0de5c58151",
-      "title": "US-sanctioned Chinese tanker breaks Hormuz blockade - TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CWXhYWWM0czBxME5uZFI5Ui11OUdhazM1c0pITGVIUGVCQjJZeUU3MUlQS2MxQndDUFJBSUY4SVRoWUFDaXVPeWRHUHUtTlR0OFZBbmZwd0_SAV5BVV95cUxNa1NJZFdTd1AxZmRyWWo4eDBqb1BGbDJxc01YQTF4bmtKbDNQTnpBMGRDVDkwUDJkcHpzUHE4alJSa0V1M0syVW9qZkxFVUQxTkltME8yc3p1cnJHanVn?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + hormuz"
-      ],
-      "firstSeen": "2026-04-14T10:49:10.498Z",
-      "pushedAt": "2026-04-14T10:49:10.498Z"
     }
   ],
-  "updatedAt": "2026-04-15T10:46:25.338Z"
+  "updatedAt": "2026-04-15T15:37:35.501Z"
 }
