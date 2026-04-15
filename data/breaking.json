@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ec5f3313c94966f8",
+      "title": "Israel bombs homes in southern Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-04-15T23:42:19.547Z",
+      "pushedAt": "2026-04-15T23:42:19.547Z"
+    },
+    {
       "id": "4091c9a00fceae53",
       "title": "US targets Iran's oil transportation infrastructure with sanctions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkVLU2x6LWQ5V3NfVmpCN0lVYmhqWjNJMUxKZ1l1YWNUTy15bnRIcVdXM1hKUVdiUDl2RFVXeU81MnJHREdlWnRPS3Z2YTQxOTdlQ2VyYUtuT2l2Y1lfcWVjTWNXTGFFa3g4SkIzRmdRS0xzallnOXVSMjhWMEx0N2tsbEx3TFRHWUJWNlRISlJVU1RvckR0eUJUVGVTUnJkX0U5MUpwemhRQVhGYmpKUlhjeWFTVGs?oc=5",
@@ -191,31 +203,7 @@
       ],
       "firstSeen": "2026-04-14T23:55:25.803Z",
       "pushedAt": "2026-04-14T23:55:25.803Z"
-    },
-    {
-      "id": "1f54ec8a6690c9d7",
-      "title": "Bessent says core inflation is going down, Fed will need to cut rates - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNWxKdmstdlM0X25GVjNBektibzZ5REpqVU9xZ1ZxaEZxalBpZHJsMWFoeWZrOHNwQVNsWVB2ckRSQzBQUXdjelJzZGprY0ZIZllQS2J4QTFNV1ltOS00dmZMUDFoVC1jdHVWRHhUdmpsX21EeHU0aEZ1d2pBSDdFWjB0UjVQYU1fd3J5cnNPUHVBVmhnZlBFcTZNRDliU19aQmtkR3VZMEt4Y0RYd1VXemQtaENQMkI2ME1wbDBZMmlTSkE0SnA3ZzhEYWVNSWxzS3o1X1VsRl9kRTdFc2s3NDY5UDN3QVRzbnhnNzZubTY5VTA?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-04-14T23:07:25.570Z",
-      "pushedAt": "2026-04-14T23:07:25.570Z"
-    },
-    {
-      "id": "fd9cffa395ee2cc0",
-      "title": "US stocks rally and return to where they were before the US-Iran war - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjlJSnhfZk5sRWxBQ1hvWEdORi05MXVVZVdJV1hURGZnRWU2amxWR1I0eHktaWxBanJFLUtmdmtjOWtJOEhNa1FNSXN4SzdDMjZjSnloNDA5VU9YRElEa2ZuaG53ZlF2SnhaamJfb2RCZi1NTzFBdVVScG9xV3dFSzFNNU5zWENtS3dtRlJQMEloTEFnS1JJLVIzV3pYYmFKamp4d1VhSVE?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-04-14T20:43:36.892Z",
-      "pushedAt": "2026-04-14T20:43:36.892Z"
     }
   ],
-  "updatedAt": "2026-04-15T20:33:53.529Z"
+  "updatedAt": "2026-04-15T23:42:19.831Z"
 }
