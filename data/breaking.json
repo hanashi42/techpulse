@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "516959831472c649",
+      "title": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran",
+      "url": "https://www.cnbc.com/2026/04/15/us-strait-of-hormuz-blockade-navy-iran-seaborne-trade-oil-trump.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + hormuz"
+      ],
+      "firstSeen": "2026-04-15T04:19:18.424Z",
+      "pushedAt": "2026-04-15T04:19:18.424Z"
+    },
+    {
+      "id": "0ff60ce8849b0ae7",
+      "title": "CNBC Daily Open: S&P 500 nears all-time high",
+      "url": "https://www.cnbc.com/2026/04/15/markets-bet-on-us-iran-deal-despite-hormuz-strait-blockade.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "all-time high + s&p"
+      ],
+      "firstSeen": "2026-04-15T04:19:18.606Z",
+      "pushedAt": "2026-04-15T04:19:18.606Z"
+    },
+    {
       "id": "281d5f6bad9cc8fd",
       "title": "Goldman Sachs files for its first bitcoin ETF product - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtCaUZlaFNON25LX2dOUjYxTF9FRkhGS3M1cjVDMDZiWHk5aXVWMXUtVlhEUmsxSS0yMlFaUU8tYVRmajhPM3ZPbTFrTklBTG95bzJNdVFoVXRTRU1maG5XTWVNd0Q2c3lkV1R4SGNVRnVJQWhXS2l3WFVWVWtHOFNqREpIZl9xbW1CYm54SUZ5aFByaGROekJZTG13MlFuSkk2dUQ2ZWU?oc=5",
@@ -156,43 +180,7 @@
       ],
       "firstSeen": "2026-04-14T10:49:10.498Z",
       "pushedAt": "2026-04-14T10:49:10.498Z"
-    },
-    {
-      "id": "6e17081433ac4717",
-      "title": "Magnitude 5.7 earthquake strikes Silver Springs, Nevada, USGS says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeXdKbUFhWUtDcE5qUXVxOVA1Z2FNRHZFSE1MeUVoaDhDc3dlS3RyYTA4Q3ljRm8tN2ROMVFJdE1iS1lvcDNkcjFBQldtbWxac1I4SEQ3T1NVWEgzOVdTUVJfZEx1S2xSVXAxei0xMzdjdFA0NnBmay1aMFdwSTc0SXlCVHRad3lrV21VV1F2NmxoNEV1dFVfOVB3cmRkNVJnR3F3QzRKU2J4SDlubXFxc0FwX3Z4NUhPN3VtXw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-04-14T04:16:42.207Z",
-      "pushedAt": "2026-04-14T04:16:42.207Z"
-    },
-    {
-      "id": "4d557880df0a5ee0",
-      "title": "Oil prices fall as US-Iran dialogue hopes ease supply concerns - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMk4yUEhmMDdEOWhfbzRpZG8yS2tzS1JLaWp3YmFHUXp6LUduSllGX1llZHpPUDNTWnFKOGtINHhuVFVpVXlrNGRtMmVqNmNUWjVkQXljTHJDd2l3MVJmLXh2QVc4SDdBd1NOS1ZTOTEyeVlMY205cU1uQU0wcDlHZWJ6MHZIUmllNFB1VmxEb1NscF9Gck1hNmVaVkRZYlhmN0lQcE5CQlpwOXM?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-04-14T04:16:42.379Z",
-      "pushedAt": "2026-04-14T04:16:42.379Z"
-    },
-    {
-      "id": "f51868db9f429a1c",
-      "title": "Iran war has some US water utilities facing a fluoride shortage - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblJ6Mm45V1lEdkRseWJwYzViV2lyRm5IcFRSZWdsaVlTZ0ZBRjNKRUF6X0hLQkFoSnBaMHFZMmJIRWNQQ3lfTWVaWjkwQWlPNFR2UDRnVjN1OWpRcDZpVldFMUgxT1NZNVBBdFI4ZTBuQ2NMYUs1eVVLT2w0UFYydnJOWm12dGFMRjNHMzVOMFdySHFyY3B3YTZUUmNULTc5UzJLNm9NNVUxdnhvdlE?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + water"
-      ],
-      "firstSeen": "2026-04-14T04:16:42.416Z",
-      "pushedAt": "2026-04-14T04:16:42.416Z"
     }
   ],
-  "updatedAt": "2026-04-15T01:20:36.253Z"
+  "updatedAt": "2026-04-15T04:19:18.666Z"
 }
