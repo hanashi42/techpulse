@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "685db602a9dec548",
+      "title": "S&P 500 hits first intraday record high since US-Iran war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR2NRdUlXMXp1NDdUYm9Ga0VkSlVjSVVhclU3Q0psVUE4ZDM4M3Y0Y0Zfdlc3OHdyT3NMZ1ZkUEtLaUtaMHZXZFJuc1k0V2VOV0NZSS1jSGdNelZCWHNMTVAxWXRTMnN3bVBreUFWeFFNdFVRcHZnTFBYVlJ6QVd0M2dJRHpfZkpycE0zWndocWNKOVpMTWNWY1hXWTJuMWM?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "record high + s&p"
+      ],
+      "firstSeen": "2026-04-15T18:47:40.791Z",
+      "pushedAt": "2026-04-15T18:47:40.791Z"
+    },
+    {
+      "id": "6ace3153581e5aed",
+      "title": "World Bank president: Prepare for months of disruption, even after Hormuz Strait reopens",
+      "url": "https://www.cnbc.com/2026/04/15/world-bank-ajay-banga-iran-war-hormuz-strait.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption"
+      ],
+      "firstSeen": "2026-04-15T18:47:40.979Z",
+      "pushedAt": "2026-04-15T18:47:40.979Z"
+    },
+    {
       "id": "ddc757baa531c8e7",
       "title": "Iran warns US naval blockade threatens ceasefire",
       "url": "https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire?traffic_source=rss",
@@ -179,19 +203,7 @@
       ],
       "firstSeen": "2026-04-14T19:56:10.296Z",
       "pushedAt": "2026-04-14T19:56:10.296Z"
-    },
-    {
-      "id": "1bbbda589d8ce50d",
-      "title": "US producer inflation rises below expectations in March, but war fires up energy prices - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXpGc0QwNXl6SVNoQUxScXZPVVh6cUVoZTRxTTc5SWs4NGczWlBvdEV0RWk3MWNGdmxjWUE0SDI5a1hXMnBtaVBIb2VyRmdpYkVWUktXblN3ZTBLeXM3anZoNnJEQm9hYzJmb1VTM0JtRkZlUFJlU1Qza1BhRzNORW0weXlmZFIyaE1TMzNMZjNyaGYyMFZteWhfWVVQMGw2UW5JUi1Kcw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-04-14T16:47:24.652Z",
-      "pushedAt": "2026-04-14T16:47:24.652Z"
     }
   ],
-  "updatedAt": "2026-04-15T16:38:54.897Z"
+  "updatedAt": "2026-04-15T18:47:41.119Z"
 }
