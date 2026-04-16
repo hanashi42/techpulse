@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "255b1d3a449a4971",
+      "title": "Nigerian airlines threaten to halt flights over soaring jet fuel prices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0Vacks0cGZCOGp6QXB0X0xVTUNqSkIyYjVUWW1iRkRPTlJmX2dHa045OE5MS2dPdjc5eGlNUGhpaEZrc09abG1CTnNGdGh0WnV4a3JVc0RicXNZS09CblBxeFNNQ2g4eWtkVVVJNVZWSXlZRmxHNk1INjI1Vm9Pai13OWRIcWV5elNmUVptQmV4NnM3SGNjaXVUMnNoM0VjUnA0Wm53V0Zmd2dETWpjR1hXaHYzeWFl?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-04-16T12:49:03.705Z",
+      "pushedAt": "2026-04-16T12:49:03.705Z"
+    },
+    {
+      "id": "47d873dac51cb402",
+      "title": "Dodging Bombs and Drones, This Postman in Ukraine Still Delivers",
+      "url": "https://www.nytimes.com/2026/04/15/world/europe/ukraine-russia-war-kharkiv-nova-poshta.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-04-16T12:49:03.921Z",
+      "pushedAt": "2026-04-16T12:49:03.921Z"
+    },
+    {
+      "id": "2731f9d39f3e4a8c",
+      "title": "New York Fed President Williams worries war will slow growth, aggravate inflation",
+      "url": "https://www.cnbc.com/2026/04/16/new-york-fed-president-williams-worries-war-will-slow-growth-aggravate-inflation.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + slow"
+      ],
+      "firstSeen": "2026-04-16T12:49:04.046Z",
+      "pushedAt": "2026-04-16T12:49:04.046Z"
+    },
+    {
       "id": "1fabff4346a5146e",
       "title": "Ships Sail From Iranian Ports Despite US Blockade Threat - Bernama",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYSjJXVGxLUFVvVWVOaDZxbVZ6UUpfZ1hjdDhka0JpYS0wUG8zMnJRU3BoOHF0b0lmMlQwNlBza19WNUZXcmhBYTJiZFVDUHJSZnFqUFcyeGhjUDZPN09mUUZyLUMzdXhVZV9PcUlPOA?oc=5",
@@ -182,5 +218,5 @@
       "pushedAt": "2026-04-15T15:37:35.336Z"
     }
   ],
-  "updatedAt": "2026-04-16T11:44:10.032Z"
+  "updatedAt": "2026-04-16T12:49:04.103Z"
 }
