@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8bf277b4dc605811",
+      "title": "Hegseth says US to keep Iran port blockade in Hormuz, ready for new attacks",
+      "url": "https://www.aljazeera.com/news/2026/4/16/hegseth-says-us-blockade-to-continue-ready-for-new-attacks-on-iran-energy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-04-16T16:01:28.084Z",
+      "pushedAt": "2026-04-16T16:01:28.084Z"
+    },
+    {
       "id": "126e09e9edc726e7",
       "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
       "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
@@ -216,19 +228,7 @@
       ],
       "firstSeen": "2026-04-15T16:38:54.854Z",
       "pushedAt": "2026-04-15T16:38:54.854Z"
-    },
-    {
-      "id": "39e6c425de8bbbef",
-      "title": "EU warns Meta WhatsApp AI fee breaches antitrust rules, orders rollback - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTnRxNUhUNDF6QU9uOXgweGpxTE12MHB1Yy1DSWVYcW1US2JqZXlGelVuUVBHLUFJRlptSHdCb1lpWXZER1Vpc3FoSngtSGdNdG9UcTM3enVBbE9WeHBVVUtjQ090eWcwVTFkWVloVkstdWZmek80R3RDaEhGY0lBUm9lQTBGdlBCQ29HcmdEeTRGT2MxNEJfam41SlY3cGJEa21aSGJtbHEweXpXbEdGN3l3?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "antitrust + meta"
-      ],
-      "firstSeen": "2026-04-15T15:37:35.336Z",
-      "pushedAt": "2026-04-15T15:37:35.336Z"
     }
   ],
-  "updatedAt": "2026-04-16T14:26:39.636Z"
+  "updatedAt": "2026-04-16T16:01:28.240Z"
 }
