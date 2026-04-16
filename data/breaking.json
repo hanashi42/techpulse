@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "99e517b4fb581edb",
+      "title": "Bessent Says Chinese Banks Warned About Secondary Sanctions Risk - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMmk0N1NPQ21MaF9WQ2hscWFzOUxiTERIMkU0RmlCd1phSEdhM204SXZ3ZURNaVd3RE0yZlI5SWgtRkM5cV9OTkdxWGhCbHg4UENiQnZ0SkFLWi1WNmcyQ1YwRlRpeEtONFhldUFUM2stVnZNZlFILWlQMHluRWRfSU1jRDdEWGdlX1l4Tk53ZWwyYUVEeTZqVGh6Vk1RVHpjLTRRR2ZmbzZienYtMWxlaUNELTZuUQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-04-16T01:11:49.846Z",
+      "pushedAt": "2026-04-16T01:11:49.846Z"
+    },
+    {
       "id": "ec5f3313c94966f8",
       "title": "Israel bombs homes in southern Lebanon",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
@@ -179,31 +191,7 @@
       ],
       "firstSeen": "2026-04-15T01:20:36.064Z",
       "pushedAt": "2026-04-15T01:20:36.064Z"
-    },
-    {
-      "id": "3fc0905771a64b1a",
-      "title": "Trump says US military has blockaded Iranian ports to pressure Tehran - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2dJQWY4QmxJblNkbFQxSFlCT0hwM2FCRFZqZTdSRUdhYjg5ZC1xdnNyQ0hueHZGbTVsajJFU1RZY2ZtNklYc0J0VUlVSnlTTzZOdi14eVBfTGdIZmFEaHptQVptTkdzSmNrck84RUZraFBDel9aUmxNeDI1OEg0a3NKNW1pbHJiVnI0TnA2TWtJbWo1bVpOeHE1Q1JxYXJPV09fSFp5ZnN2VXN1aVprdVMxemFMTzJRNnc?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-04-14T23:55:25.672Z",
-      "pushedAt": "2026-04-14T23:55:25.672Z"
-    },
-    {
-      "id": "377921daa912a4ca",
-      "title": "U.S. Hormuz blockade hits India just as Russian oil purchase waiver expires, deepening energy worries",
-      "url": "https://www.cnbc.com/2026/04/14/us-hormuz-blockade-hits-india-just-as-russian-oil-purchase-waiver-expires-deepening-energy-worries.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-04-14T23:55:25.803Z",
-      "pushedAt": "2026-04-14T23:55:25.803Z"
     }
   ],
-  "updatedAt": "2026-04-15T23:42:19.831Z"
+  "updatedAt": "2026-04-16T01:11:50.095Z"
 }
