@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "25f70a4993cf4660",
+      "title": "Oil prices fall as hopes for US-Iran deal outweigh supply disruption concerns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcWl6QXV4SmRTZGpyU3ViX3dueFAwck5HNDJ4bU4tWjR6WV9ab1pwaFk2ZGFKWGtCWGhybjlrWWFyOVZSZVl1WFFreU1XeDFKY2h2Ymp2ekd5X1RFOEplNjhBRkxVSU8wajktZVFrbUFNdHoxOGpyZmc4WjZHNmMwSWhkbXVTMHdCaU9FaUxwbTFvc2t2b0Zad0RLd3lNZmk2ZVlnU0cyWWIxQmFDSFd1RWtjZFNCRUVnZ3h6dG1Jbw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-04-16T04:23:39.447Z",
+      "pushedAt": "2026-04-16T04:23:39.447Z"
+    },
+    {
+      "id": "b29d834440e623d3",
+      "title": "Developing | China records 5% GDP growth in first quarter, on track for annual target - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU0R3c3F2T0tDeENEZk12S05tcHNJQjZ3MEdTaWFqTS1YdkVsUklYanFNMVRCUlZaRjRqQVc5TlRhdHpaOU91VU12OUdxaHRRZnZmaDYyUGQ3dXNyME54WmJZeVhFMUVCbjRYb0d4dkxCdVhXRlM0bktRVldyUS04UF9kTnhUQUVrcFptS3BIQWZCV1FXbkVFcjhiUEJqSmpRQllGV0xjZ1VKcExGdFBQQ0x2RnFsUVhnYUstOXJxTldqVlnSAcMBQVVfeXFMTXZHMGw0TVRzd1diaW1lb0t1Zzd5YWR5Znh4VVFzUkRiSk9pTG5xQXdCa01oSUpFWmQzNUsyZVFCQkZ3R1pFd0pKc3l2NzU3OFdiajg1LXIwZlpQcWhHRVNoX1o0d2dLOGpaZmdaTWJ6MmFBLWVtazJQaXhwTy1NQnB1MmhIVnRvUUdBX2EtdU9kSlB1MnBHbTFoUGtFUlN1Z0QyM2JUQ2Z5dmdNdGFxQWpNY0dMSlRQeGc4VVdwV29acGxV?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "gdp + growth"
+      ],
+      "firstSeen": "2026-04-16T04:23:39.566Z",
+      "pushedAt": "2026-04-16T04:23:39.566Z"
+    },
+    {
+      "id": "6568d6cff3bfef41",
+      "title": "Iran used Chinese satellite to target US bases before attack that took out Air Force planes - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2ZYdVRGeE4zekhTRlVGQl9yOVp2QkRzSlBlZWZXbFNvWEFib1YyblFfMlQ4R0JjNHBoNThVRXNhUE9jOUF3LXN3ZVpDQVV5QkRaLUZBTVdZRldGY0ZCUENuR2RGdUhzV3ZBdkhPWTVGejNzcXgwZDE2OTNheGQ0cEFmNE1PeTQ3RlJsU2hVUW85a2pGdlI2OE1jT0pYYkdZWnBhSmxXaVZ0ZGxEOEk0dW1XRFM?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + base"
+      ],
+      "firstSeen": "2026-04-16T04:23:39.665Z",
+      "pushedAt": "2026-04-16T04:23:39.665Z"
+    },
+    {
       "id": "99e517b4fb581edb",
       "title": "Bessent Says Chinese Banks Warned About Secondary Sanctions Risk - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMmk0N1NPQ21MaF9WQ2hscWFzOUxiTERIMkU0RmlCd1phSEdhM204SXZ3ZURNaVd3RE0yZlI5SWgtRkM5cV9OTkdxWGhCbHg4UENiQnZ0SkFLWi1WNmcyQ1YwRlRpeEtONFhldUFUM2stVnZNZlFILWlQMHluRWRfSU1jRDdEWGdlX1l4Tk53ZWwyYUVEeTZqVGh6Vk1RVHpjLTRRR2ZmbzZienYtMWxlaUNELTZuUQ?oc=5",
@@ -155,43 +192,7 @@
       ],
       "firstSeen": "2026-04-15T06:12:37.623Z",
       "pushedAt": "2026-04-15T06:12:37.623Z"
-    },
-    {
-      "id": "516959831472c649",
-      "title": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran",
-      "url": "https://www.cnbc.com/2026/04/15/us-strait-of-hormuz-blockade-navy-iran-seaborne-trade-oil-trump.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + hormuz"
-      ],
-      "firstSeen": "2026-04-15T04:19:18.424Z",
-      "pushedAt": "2026-04-15T04:19:18.424Z"
-    },
-    {
-      "id": "0ff60ce8849b0ae7",
-      "title": "CNBC Daily Open: S&P 500 nears all-time high",
-      "url": "https://www.cnbc.com/2026/04/15/markets-bet-on-us-iran-deal-despite-hormuz-strait-blockade.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "all-time high + s&p"
-      ],
-      "firstSeen": "2026-04-15T04:19:18.606Z",
-      "pushedAt": "2026-04-15T04:19:18.606Z"
-    },
-    {
-      "id": "281d5f6bad9cc8fd",
-      "title": "Goldman Sachs files for its first bitcoin ETF product - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVEtCaUZlaFNON25LX2dOUjYxTF9FRkhGS3M1cjVDMDZiWHk5aXVWMXUtVlhEUmsxSS0yMlFaUU8tYVRmajhPM3ZPbTFrTklBTG95bzJNdVFoVXRTRU1maG5XTWVNd0Q2c3lkV1R4SGNVRnVJQWhXS2l3WFVWVWtHOFNqREpIZl9xbW1CYm54SUZ5aFByaGROekJZTG13MlFuSkk2dUQ2ZWU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bitcoin + etf"
-      ],
-      "firstSeen": "2026-04-15T01:20:36.064Z",
-      "pushedAt": "2026-04-15T01:20:36.064Z"
     }
   ],
-  "updatedAt": "2026-04-16T01:11:50.095Z"
+  "updatedAt": "2026-04-16T04:23:39.698Z"
 }
