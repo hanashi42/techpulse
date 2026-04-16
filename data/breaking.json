@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1fabff4346a5146e",
+      "title": "Ships Sail From Iranian Ports Despite US Blockade Threat - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYSjJXVGxLUFVvVWVOaDZxbVZ6UUpfZ1hjdDhka0JpYS0wUG8zMnJRU3BoOHF0b0lmMlQwNlBza19WNUZXcmhBYTJiZFVDUHJSZnFqUFcyeGhjUDZPN09mUUZyLUMzdXhVZV9PcUlPOA?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-04-16T11:44:09.863Z",
+      "pushedAt": "2026-04-16T11:44:09.863Z"
+    },
+    {
       "id": "8b5c9bc7afdb92b7",
       "title": "From dropping bombs to pressuring banks: US pivots to economic warfare on Iran - AP News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmhBR3VORVJXOGk3aVphLWJWMjE0RDNQdXFtS2xQTHdZcWxzUzN3YUtjdFZLYVlpYnM1aHI0Y056cjdLZ2pEZ2ZIa2dNSng5bEF5ZXUxejdCcUNNRnpZY2dVNVNVdnJ1X3ZMa3pVQnM4eVFVX3RaMkF2dktNa0tmQ08wdENJTjlTemRRT3BvNFNNeHBUczVpUVBHc2NhQQ?oc=5",
@@ -168,31 +180,7 @@
       ],
       "firstSeen": "2026-04-15T15:37:35.336Z",
       "pushedAt": "2026-04-15T15:37:35.336Z"
-    },
-    {
-      "id": "47d873dac51cb402",
-      "title": "Dodging Bombs and Drones, This Postman Still Delivers",
-      "url": "https://www.nytimes.com/2026/04/15/world/europe/ukraine-russia-war-kharkiv-nova-poshta.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-04-15T10:46:25.263Z",
-      "pushedAt": "2026-04-15T10:46:25.263Z"
-    },
-    {
-      "id": "012d51d376b81aff",
-      "title": "Taxation as a Driver of Energy Transition: How China Rewrote Its Vulnerability to Oil Shocks - Wolters Kluwer",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdWlzQ0tKeVkzX0o3emZZNW5FMTVscDhfcFBaUkVmRnRBaU9RLTVVd3U1VDZfN296TjN0dGdVbXZucVlhTlNRUmxMamZHcVFQbjR3RkVPQmNxNXRRWDdDLVRuRWpiQmo3bDhacldCU3RWbmR3ZDRkcUVoanl1MzJwc3Zlc1VNOFgtU2dqWjhEa011a3IxVUc2Y05KOTdERy1lLVRSV1l4LTVxVTlQU3VBZUtGcXZnV1RuOWd3R2RHOXZJTHhEaW9RR2R5bzhLd1o4RUh4em9wQTgwa1ZJcEVjR1dWa2NKaWd2empiRQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-04-15T08:04:03.624Z",
-      "pushedAt": "2026-04-15T08:04:03.624Z"
     }
   ],
-  "updatedAt": "2026-04-16T06:15:55.463Z"
+  "updatedAt": "2026-04-16T11:44:10.032Z"
 }
