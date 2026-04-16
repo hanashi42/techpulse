@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "00a7eee985069bdb",
+      "title": "Wall Street hits a record as S&P 500 continues its 2-week rally on hopes for an end to the Iran war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYW5pMzJlRll6UEFDdXAtVzFaa3FSVlRWa05DWXdyUjhVUnVBVU1xRFd5NkVSVzBWTl9iRnl3cFNSRUxNQmd1U25tY09JWEdrQ3BMMjJvR3hEdDJhM1Z4QmJ6NTBvaHp6by0yTjg0V0lyTzhHeHJ4MjM4czZtR0g3VldubEFCVm8wQUE1aTFsbVVqOEFqVElR?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + record"
+      ],
+      "firstSeen": "2026-04-16T20:33:56.886Z",
+      "pushedAt": "2026-04-16T20:33:56.886Z"
+    },
+    {
       "id": "4f2e7c8e6008b944",
       "title": "Brent oil price near $100 again with U.S.-Iran talks uncertain and Hormuz still blocked",
       "url": "https://www.cnbc.com/2026/04/16/iran-war-oil-price-strait-hormuz.html",
@@ -156,31 +168,7 @@
       ],
       "firstSeen": "2026-04-15T23:42:19.547Z",
       "pushedAt": "2026-04-15T23:42:19.547Z"
-    },
-    {
-      "id": "4091c9a00fceae53",
-      "title": "US targets Iran's oil transportation infrastructure with sanctions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkVLU2x6LWQ5V3NfVmpCN0lVYmhqWjNJMUxKZ1l1YWNUTy15bnRIcVdXM1hKUVdiUDl2RFVXeU81MnJHREdlWnRPS3Z2YTQxOTdlQ2VyYUtuT2l2Y1lfcWVjTWNXTGFFa3g4SkIzRmdRS0xzallnOXVSMjhWMEx0N2tsbEx3TFRHWUJWNlRISlJVU1RvckR0eUJUVGVTUnJkX0U5MUpwemhRQVhGYmpKUlhjeWFTVGs?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-04-15T20:33:53.330Z",
-      "pushedAt": "2026-04-15T20:33:53.330Z"
-    },
-    {
-      "id": "2a447d0ac6b15cc0",
-      "title": "Could the US oil blockade snuff out the Cuban cigar?",
-      "url": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-04-15T20:33:53.473Z",
-      "pushedAt": "2026-04-15T20:33:53.473Z"
     }
   ],
-  "updatedAt": "2026-04-16T19:47:35.272Z"
+  "updatedAt": "2026-04-16T20:33:57.076Z"
 }
