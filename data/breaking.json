@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8b5c9bc7afdb92b7",
+      "title": "From dropping bombs to pressuring banks: US pivots to economic warfare on Iran - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmhBR3VORVJXOGk3aVphLWJWMjE0RDNQdXFtS2xQTHdZcWxzUzN3YUtjdFZLYVlpYnM1aHI0Y056cjdLZ2pEZ2ZIa2dNSng5bEF5ZXUxejdCcUNNRnpZY2dVNVNVdnJ1X3ZMa3pVQnM4eVFVX3RaMkF2dktNa0tmQ08wdENJTjlTemRRT3BvNFNNeHBUczVpUVBHc2NhQQ?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-04-16T06:15:55.309Z",
+      "pushedAt": "2026-04-16T06:15:55.309Z"
+    },
+    {
       "id": "25f70a4993cf4660",
       "title": "Oil prices fall as hopes for US-Iran deal outweigh supply disruption concerns - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcWl6QXV4SmRTZGpyU3ViX3dueFAwck5HNDJ4bU4tWjR6WV9ab1pwaFk2ZGFKWGtCWGhybjlrWWFyOVZSZVl1WFFreU1XeDFKY2h2Ymp2ekd5X1RFOEplNjhBRkxVSU8wajktZVFrbUFNdHoxOGpyZmc4WjZHNmMwSWhkbXVTMHdCaU9FaUxwbTFvc2t2b0Zad0RLd3lNZmk2ZVlnU0cyWWIxQmFDSFd1RWtjZFNCRUVnZ3h6dG1Jbw?oc=5",
@@ -180,19 +192,7 @@
       ],
       "firstSeen": "2026-04-15T08:04:03.624Z",
       "pushedAt": "2026-04-15T08:04:03.624Z"
-    },
-    {
-      "id": "69cfc0cd2abfded2",
-      "title": "Wall Street rallies to the edge of its all-time high as oil prices ease - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkhsVkRscUJPQ1dRUzdfSmtGaFNVVjFuUi1rRzJTdHlBZzdFZ2FUcXhNYUFxWGRzYUFkcVVDcEJWWnlTbjE4N2tfWkhLUXZBREVIZ3E3akRpVFEtN0tKckF3Q3d5ZHV5emZJcTN5SjBfUjFIRzVVU1NRaDFYMVFibjU4UFJrWGxkQ1VzYndpV1VtNDNCaDVPUG53cTc2T0VFMlZoUlhwYjA?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "all-time high + oil"
-      ],
-      "firstSeen": "2026-04-15T06:12:37.623Z",
-      "pushedAt": "2026-04-15T06:12:37.623Z"
     }
   ],
-  "updatedAt": "2026-04-16T04:23:39.698Z"
+  "updatedAt": "2026-04-16T06:15:55.463Z"
 }
