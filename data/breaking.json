@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4f2e7c8e6008b944",
+      "title": "Brent oil price near $100 again with U.S.-Iran talks uncertain and Hormuz still blocked",
+      "url": "https://www.cnbc.com/2026/04/16/iran-war-oil-price-strait-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + blocked"
+      ],
+      "firstSeen": "2026-04-16T19:47:34.982Z",
+      "pushedAt": "2026-04-16T19:47:34.982Z"
+    },
+    {
       "id": "8bf277b4dc605811",
       "title": "Hegseth says US to keep Iran port blockade in Hormuz, ready for new attacks",
       "url": "https://www.aljazeera.com/news/2026/4/16/hegseth-says-us-blockade-to-continue-ready-for-new-attacks-on-iran-energy?traffic_source=rss",
@@ -168,67 +180,7 @@
       ],
       "firstSeen": "2026-04-15T20:33:53.473Z",
       "pushedAt": "2026-04-15T20:33:53.473Z"
-    },
-    {
-      "id": "685db602a9dec548",
-      "title": "S&P 500 hits first intraday record high since US-Iran war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR2NRdUlXMXp1NDdUYm9Ga0VkSlVjSVVhclU3Q0psVUE4ZDM4M3Y0Y0Zfdlc3OHdyT3NMZ1ZkUEtLaUtaMHZXZFJuc1k0V2VOV0NZSS1jSGdNelZCWHNMTVAxWXRTMnN3bVBreUFWeFFNdFVRcHZnTFBYVlJ6QVd0M2dJRHpfZkpycE0zWndocWNKOVpMTWNWY1hXWTJuMWM?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "record high + s&p"
-      ],
-      "firstSeen": "2026-04-15T18:47:40.791Z",
-      "pushedAt": "2026-04-15T18:47:40.791Z"
-    },
-    {
-      "id": "6ace3153581e5aed",
-      "title": "World Bank president: Prepare for months of disruption, even after Hormuz Strait reopens",
-      "url": "https://www.cnbc.com/2026/04/15/world-bank-ajay-banga-iran-war-hormuz-strait.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption"
-      ],
-      "firstSeen": "2026-04-15T18:47:40.979Z",
-      "pushedAt": "2026-04-15T18:47:40.979Z"
-    },
-    {
-      "id": "ddc757baa531c8e7",
-      "title": "Iran warns US naval blockade threatens ceasefire",
-      "url": "https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval"
-      ],
-      "firstSeen": "2026-04-15T16:38:54.418Z",
-      "pushedAt": "2026-04-15T16:38:54.418Z"
-    },
-    {
-      "id": "fcbb5267ecdfdcb7",
-      "title": "Super Typhoon Sinlaku Slams Saipan, Causing Widespread Damage",
-      "url": "https://www.nytimes.com/2026/04/15/world/asia/typhoon-sinlaku-saipan-damage.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "super typhoon"
-      ],
-      "firstSeen": "2026-04-15T16:38:54.741Z",
-      "pushedAt": "2026-04-15T16:38:54.741Z"
-    },
-    {
-      "id": "f50a8f82df83f457",
-      "title": "US blockade of Strait of Hormuz ratchets up tensions with China ahead of Trump visit to Beijing - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkJmVVltRnhUNElkNHhjVl96ZlgxNHpWZkdnWHVJai1LNEhYM2EtUkNYanJCTWtUdkR1dmJvQzY4T0VSeUJCeURYQWlwNWh6LTBQVTM2U0Vvc2RjTEx1ekZBQS1kdVpKN3hoMXdkbk0zZnV5bVM0ajlROFVpUFBENnZKcnU4SC1GM2ZmbnlDcVhwdWgtS2Z5SkxfYXBtNTc5ak9KYUdwMTI1cmJoZThTYi1hRVBRZkR0ZDd2bEhiRDFWYUpsUXkyYk13?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait"
-      ],
-      "firstSeen": "2026-04-15T16:38:54.854Z",
-      "pushedAt": "2026-04-15T16:38:54.854Z"
     }
   ],
-  "updatedAt": "2026-04-16T16:01:28.240Z"
+  "updatedAt": "2026-04-16T19:47:35.272Z"
 }
