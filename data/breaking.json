@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "20fe4578c5647449",
+      "title": "Oil prices plunge as Iran says Strait 'open'",
+      "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + oil",
+        "oil price + plunge"
+      ],
+      "firstSeen": "2026-04-17T15:14:05.337Z",
+      "pushedAt": "2026-04-17T15:14:05.337Z"
+    },
+    {
       "id": "64bfecd883abe208",
       "title": "Countries to discuss Hormuz mission for when conflict ends - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ1l5MUlwWXB0VjNPMDJGSmFMc2hPY1pzUm1nNl9wc1BpT1lyRURaeTVTdDU0TUVMOEhDQzJucVlVQjJPMEZXZHlnVUplYXhMczdIQTd0TmJmYmZXR0xON2RTRVA0T3AxNW1rWXJiQTVzU1Q4RVB3SUpZVUQ1ak9PbGJsRHdBUkwzUDBGTTM3a2Z5T0FVVlhMVlVqSm1LOGVCMVE?oc=5",
@@ -71,116 +84,7 @@
       ],
       "firstSeen": "2026-04-16T16:01:28.084Z",
       "pushedAt": "2026-04-16T16:01:28.084Z"
-    },
-    {
-      "id": "126e09e9edc726e7",
-      "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
-      "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + shares"
-      ],
-      "firstSeen": "2026-04-16T14:26:39.526Z",
-      "pushedAt": "2026-04-16T14:26:39.526Z"
-    },
-    {
-      "id": "255b1d3a449a4971",
-      "title": "Nigerian airlines threaten to halt flights over soaring jet fuel prices - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN0Vacks0cGZCOGp6QXB0X0xVTUNqSkIyYjVUWW1iRkRPTlJmX2dHa045OE5MS2dPdjc5eGlNUGhpaEZrc09abG1CTnNGdGh0WnV4a3JVc0RicXNZS09CblBxeFNNQ2g4eWtkVVVJNVZWSXlZRmxHNk1INjI1Vm9Pai13OWRIcWV5elNmUVptQmV4NnM3SGNjaXVUMnNoM0VjUnA0Wm53V0Zmd2dETWpjR1hXaHYzeWFl?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-04-16T12:49:03.705Z",
-      "pushedAt": "2026-04-16T12:49:03.705Z"
-    },
-    {
-      "id": "47d873dac51cb402",
-      "title": "Dodging Bombs and Drones, This Postman in Ukraine Still Delivers",
-      "url": "https://www.nytimes.com/2026/04/15/world/europe/ukraine-russia-war-kharkiv-nova-poshta.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-04-16T12:49:03.921Z",
-      "pushedAt": "2026-04-16T12:49:03.921Z"
-    },
-    {
-      "id": "2731f9d39f3e4a8c",
-      "title": "New York Fed President Williams worries war will slow growth, aggravate inflation",
-      "url": "https://www.cnbc.com/2026/04/16/new-york-fed-president-williams-worries-war-will-slow-growth-aggravate-inflation.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + slow"
-      ],
-      "firstSeen": "2026-04-16T12:49:04.046Z",
-      "pushedAt": "2026-04-16T12:49:04.046Z"
-    },
-    {
-      "id": "1fabff4346a5146e",
-      "title": "Ships Sail From Iranian Ports Despite US Blockade Threat - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYSjJXVGxLUFVvVWVOaDZxbVZ6UUpfZ1hjdDhka0JpYS0wUG8zMnJRU3BoOHF0b0lmMlQwNlBza19WNUZXcmhBYTJiZFVDUHJSZnFqUFcyeGhjUDZPN09mUUZyLUMzdXhVZV9PcUlPOA?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-04-16T11:44:09.863Z",
-      "pushedAt": "2026-04-16T11:44:09.863Z"
-    },
-    {
-      "id": "8b5c9bc7afdb92b7",
-      "title": "From dropping bombs to pressuring banks: US pivots to economic warfare on Iran - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmhBR3VORVJXOGk3aVphLWJWMjE0RDNQdXFtS2xQTHdZcWxzUzN3YUtjdFZLYVlpYnM1aHI0Y056cjdLZ2pEZ2ZIa2dNSng5bEF5ZXUxejdCcUNNRnpZY2dVNVNVdnJ1X3ZMa3pVQnM4eVFVX3RaMkF2dktNa0tmQ08wdENJTjlTemRRT3BvNFNNeHBUczVpUVBHc2NhQQ?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-04-16T06:15:55.309Z",
-      "pushedAt": "2026-04-16T06:15:55.309Z"
-    },
-    {
-      "id": "25f70a4993cf4660",
-      "title": "Oil prices fall as hopes for US-Iran deal outweigh supply disruption concerns - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcWl6QXV4SmRTZGpyU3ViX3dueFAwck5HNDJ4bU4tWjR6WV9ab1pwaFk2ZGFKWGtCWGhybjlrWWFyOVZSZVl1WFFreU1XeDFKY2h2Ymp2ekd5X1RFOEplNjhBRkxVSU8wajktZVFrbUFNdHoxOGpyZmc4WjZHNmMwSWhkbXVTMHdCaU9FaUxwbTFvc2t2b0Zad0RLd3lNZmk2ZVlnU0cyWWIxQmFDSFd1RWtjZFNCRUVnZ3h6dG1Jbw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-04-16T04:23:39.447Z",
-      "pushedAt": "2026-04-16T04:23:39.447Z"
-    },
-    {
-      "id": "b29d834440e623d3",
-      "title": "Developing | China records 5% GDP growth in first quarter, on track for annual target - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU0R3c3F2T0tDeENEZk12S05tcHNJQjZ3MEdTaWFqTS1YdkVsUklYanFNMVRCUlZaRjRqQVc5TlRhdHpaOU91VU12OUdxaHRRZnZmaDYyUGQ3dXNyME54WmJZeVhFMUVCbjRYb0d4dkxCdVhXRlM0bktRVldyUS04UF9kTnhUQUVrcFptS3BIQWZCV1FXbkVFcjhiUEJqSmpRQllGV0xjZ1VKcExGdFBQQ0x2RnFsUVhnYUstOXJxTldqVlnSAcMBQVVfeXFMTXZHMGw0TVRzd1diaW1lb0t1Zzd5YWR5Znh4VVFzUkRiSk9pTG5xQXdCa01oSUpFWmQzNUsyZVFCQkZ3R1pFd0pKc3l2NzU3OFdiajg1LXIwZlpQcWhHRVNoX1o0d2dLOGpaZmdaTWJ6MmFBLWVtazJQaXhwTy1NQnB1MmhIVnRvUUdBX2EtdU9kSlB1MnBHbTFoUGtFUlN1Z0QyM2JUQ2Z5dmdNdGFxQWpNY0dMSlRQeGc4VVdwV29acGxV?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "gdp + growth"
-      ],
-      "firstSeen": "2026-04-16T04:23:39.566Z",
-      "pushedAt": "2026-04-16T04:23:39.566Z"
-    },
-    {
-      "id": "6568d6cff3bfef41",
-      "title": "Iran used Chinese satellite to target US bases before attack that took out Air Force planes - New York Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2ZYdVRGeE4zekhTRlVGQl9yOVp2QkRzSlBlZWZXbFNvWEFib1YyblFfMlQ4R0JjNHBoNThVRXNhUE9jOUF3LXN3ZVpDQVV5QkRaLUZBTVdZRldGY0ZCUENuR2RGdUhzV3ZBdkhPWTVGejNzcXgwZDE2OTNheGQ0cEFmNE1PeTQ3RlJsU2hVUW85a2pGdlI2OE1jT0pYYkdZWnBhSmxXaVZ0ZGxEOEk0dW1XRFM?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + base"
-      ],
-      "firstSeen": "2026-04-16T04:23:39.665Z",
-      "pushedAt": "2026-04-16T04:23:39.665Z"
     }
   ],
-  "updatedAt": "2026-04-17T03:37:28.253Z"
+  "updatedAt": "2026-04-17T15:14:05.445Z"
 }
