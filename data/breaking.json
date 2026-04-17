@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "cd3bfd8ec9f2ab79",
+      "title": "Reopened Strait of Hormuz, oil price drop may recast Fed's rate-cut options - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkgyRGcxLVlpUFRuOExKY3lyUjFKaUFUbnRWdWVWNGpzbkc0Y1RqcGVGVTkzLW5yZllTVDVqU1hzbHAxemtBalZIUVoxTzFBbmdxdFdYS0VDWm53U2ctMUdNSUcwUVBFNVNDd2hMNVhBemRBbGgxbHNBMmY2QnRObmtNYnFKSzRjeGxMRzl5MUo4NUlhLUhVRDdFWEtwZUxRTGVPYkdzWHFoS2s2QWdGTEpmZVgxR09ESDFLVXdxbFJ5V3FkbkZHdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate",
+        "oil price + drop"
+      ],
+      "firstSeen": "2026-04-17T21:25:08.390Z",
+      "pushedAt": "2026-04-17T21:25:08.390Z"
+    },
+    {
       "id": "b4eea452613da7a2",
       "title": "Exclusive: Meta targets May 20 for first wave of layoffs; additional cuts later in 2026 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkRwbFNPRlk1YVhQTE1velhMT004YWV6WXlUZ2FrTlJVMHVCSkFiU3poMFhKZmEyNGwzRVdBdXFLWEJIWnhKQnBUUDB2RzVCTm5JZEVqN2liYXM3WllTYTlGaU5EWVo5ci1NV2JZUUlQdjBreWYxMEhtNURBMWpRRUYwdDlHNHBKb1dqX0E5R2V5ZTlpZUhvcG5yMGItbXZBVUw1VFk0ckNmM0E?oc=5",
@@ -98,5 +111,5 @@
       "pushedAt": "2026-04-17T03:37:28.156Z"
     }
   ],
-  "updatedAt": "2026-04-17T20:40:32.090Z"
+  "updatedAt": "2026-04-17T21:25:08.554Z"
 }
