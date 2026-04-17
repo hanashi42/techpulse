@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "250eefea2186dba5",
+      "title": "Iran rejects Trump claim on deal to surrender nuclear material stockpiles",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender"
+      ],
+      "firstSeen": "2026-04-17T22:04:03.669Z",
+      "pushedAt": "2026-04-17T22:04:03.669Z"
+    },
+    {
       "id": "cd3bfd8ec9f2ab79",
       "title": "Reopened Strait of Hormuz, oil price drop may recast Fed's rate-cut options - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkgyRGcxLVlpUFRuOExKY3lyUjFKaUFUbnRWdWVWNGpzbkc0Y1RqcGVGVTkzLW5yZllTVDVqU1hzbHAxemtBalZIUVoxTzFBbmdxdFdYS0VDWm53U2ctMUdNSUcwUVBFNVNDd2hMNVhBemRBbGgxbHNBMmY2QnRObmtNYnFKSzRjeGxMRzl5MUo4NUlhLUhVRDdFWEtwZUxRTGVPYkdzWHFoS2s2QWdGTEpmZVgxR09ESDFLVXdxbFJ5V3FkbkZHdw?oc=5",
@@ -111,5 +123,5 @@
       "pushedAt": "2026-04-17T03:37:28.156Z"
     }
   ],
-  "updatedAt": "2026-04-17T21:25:08.554Z"
+  "updatedAt": "2026-04-17T22:04:03.759Z"
 }
