@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b4eea452613da7a2",
+      "title": "Exclusive: Meta targets May 20 for first wave of layoffs; additional cuts later in 2026 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkRwbFNPRlk1YVhQTE1velhMT004YWV6WXlUZ2FrTlJVMHVCSkFiU3poMFhKZmEyNGwzRVdBdXFLWEJIWnhKQnBUUDB2RzVCTm5JZEVqN2liYXM3WllTYTlGaU5EWVo5ci1NV2JZUUlQdjBreWYxMEhtNURBMWpRRUYwdDlHNHBKb1dqX0E5R2V5ZTlpZUhvcG5yMGItbXZBVUw1VFk0ckNmM0E?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + meta"
+      ],
+      "firstSeen": "2026-04-17T20:40:31.910Z",
+      "pushedAt": "2026-04-17T20:40:31.910Z"
+    },
+    {
       "id": "bb4c0fbef0513bb1",
       "title": "Iran reopens Strait of Hormuz, but Trump says blockade on Iranian ships and ports will stay in force - AP News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUo3RjZlZ3BGZF9TbEU1TWc1dEdkLVhKRkZmM1F3VzVjTERRS3BPUXE5SFZMOGczLVBZYWpqLTZUcGlyV1JxZ2ktZ2hscm1pQ09TWVNzT05EUU1yNWpoTjR3eko3WjdDSm9fZmhkNnd2Mms4TmU1ZFhEbC0tbkQ5SExIT2lFbWtIYlhQQjFvZlpaMmZpTDhjUHlfX0ZSTEtKLS1CMGVNbUM0TlRLYnUwY0IzcjdlX1RvbmJ4SWJ4cw?oc=5",
@@ -84,31 +96,7 @@
       ],
       "firstSeen": "2026-04-17T03:37:28.156Z",
       "pushedAt": "2026-04-17T03:37:28.156Z"
-    },
-    {
-      "id": "00a7eee985069bdb",
-      "title": "Wall Street hits a record as S&P 500 continues its 2-week rally on hopes for an end to the Iran war - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYW5pMzJlRll6UEFDdXAtVzFaa3FSVlRWa05DWXdyUjhVUnVBVU1xRFd5NkVSVzBWTl9iRnl3cFNSRUxNQmd1U25tY09JWEdrQ3BMMjJvR3hEdDJhM1Z4QmJ6NTBvaHp6by0yTjg0V0lyTzhHeHJ4MjM4czZtR0g3VldubEFCVm8wQUE1aTFsbVVqOEFqVElR?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + record"
-      ],
-      "firstSeen": "2026-04-16T20:33:56.886Z",
-      "pushedAt": "2026-04-16T20:33:56.886Z"
-    },
-    {
-      "id": "4f2e7c8e6008b944",
-      "title": "Brent oil price near $100 again with U.S.-Iran talks uncertain and Hormuz still blocked",
-      "url": "https://www.cnbc.com/2026/04/16/iran-war-oil-price-strait-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + blocked"
-      ],
-      "firstSeen": "2026-04-16T19:47:34.982Z",
-      "pushedAt": "2026-04-16T19:47:34.982Z"
     }
   ],
-  "updatedAt": "2026-04-17T17:06:47.772Z"
+  "updatedAt": "2026-04-17T20:40:32.090Z"
 }
