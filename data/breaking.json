@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "64bfecd883abe208",
+      "title": "Countries to discuss Hormuz mission for when conflict ends - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ1l5MUlwWXB0VjNPMDJGSmFMc2hPY1pzUm1nNl9wc1BpT1lyRURaeTVTdDU0TUVMOEhDQzJucVlVQjJPMEZXZHlnVUplYXhMczdIQTd0TmJmYmZXR0xON2RTRVA0T3AxNW1rWXJiQTVzU1Q4RVB3SUpZVUQ1ak9PbGJsRHdBUkwzUDBGTTM3a2Z5T0FVVlhMVlVqSm1LOGVCMVE?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "conflict ends"
+      ],
+      "firstSeen": "2026-04-17T03:37:27.624Z",
+      "pushedAt": "2026-04-17T03:37:27.624Z"
+    },
+    {
+      "id": "692241252e969d22",
+      "title": "Trump's oil blockade is bringing Cuba to its knees",
+      "url": "https://news.sky.com/story/trumps-oil-blockade-is-bringing-cuba-to-its-knees-13532550",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-04-17T03:37:27.912Z",
+      "pushedAt": "2026-04-17T03:37:27.912Z"
+    },
+    {
+      "id": "5c31930895713996",
+      "title": "CNBC Daily Open: A fragile peace, but a firm market rally",
+      "url": "https://www.cnbc.com/2026/04/17/cnbc-daily-market-rally-oil-iran-war.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + market"
+      ],
+      "firstSeen": "2026-04-17T03:37:28.156Z",
+      "pushedAt": "2026-04-17T03:37:28.156Z"
+    },
+    {
       "id": "00a7eee985069bdb",
       "title": "Wall Street hits a record as S&P 500 continues its 2-week rally on hopes for an end to the Iran war - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYW5pMzJlRll6UEFDdXAtVzFaa3FSVlRWa05DWXdyUjhVUnVBVU1xRFd5NkVSVzBWTl9iRnl3cFNSRUxNQmd1U25tY09JWEdrQ3BMMjJvR3hEdDJhM1Z4QmJ6NTBvaHp6by0yTjg0V0lyTzhHeHJ4MjM4czZtR0g3VldubEFCVm8wQUE1aTFsbVVqOEFqVElR?oc=5",
@@ -144,31 +180,7 @@
       ],
       "firstSeen": "2026-04-16T04:23:39.665Z",
       "pushedAt": "2026-04-16T04:23:39.665Z"
-    },
-    {
-      "id": "99e517b4fb581edb",
-      "title": "Bessent Says Chinese Banks Warned About Secondary Sanctions Risk - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMmk0N1NPQ21MaF9WQ2hscWFzOUxiTERIMkU0RmlCd1phSEdhM204SXZ3ZURNaVd3RE0yZlI5SWgtRkM5cV9OTkdxWGhCbHg4UENiQnZ0SkFLWi1WNmcyQ1YwRlRpeEtONFhldUFUM2stVnZNZlFILWlQMHluRWRfSU1jRDdEWGdlX1l4Tk53ZWwyYUVEeTZqVGh6Vk1RVHpjLTRRR2ZmbzZienYtMWxlaUNELTZuUQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-04-16T01:11:49.846Z",
-      "pushedAt": "2026-04-16T01:11:49.846Z"
-    },
-    {
-      "id": "ec5f3313c94966f8",
-      "title": "Israel bombs homes in southern Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-04-15T23:42:19.547Z",
-      "pushedAt": "2026-04-15T23:42:19.547Z"
     }
   ],
-  "updatedAt": "2026-04-16T20:33:57.076Z"
+  "updatedAt": "2026-04-17T03:37:28.253Z"
 }
