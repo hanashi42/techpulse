@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bb4c0fbef0513bb1",
+      "title": "Iran reopens Strait of Hormuz, but Trump says blockade on Iranian ships and ports will stay in force - AP News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUo3RjZlZ3BGZF9TbEU1TWc1dEdkLVhKRkZmM1F3VzVjTERRS3BPUXE5SFZMOGczLVBZYWpqLTZUcGlyV1JxZ2ktZ2hscm1pQ09TWVNzT05EUU1yNWpoTjR3eko3WjdDSm9fZmhkNnd2Mms4TmU1ZFhEbC0tbkQ5SExIT2lFbWtIYlhQQjFvZlpaMmZpTDhjUHlfX0ZSTEtKLS1CMGVNbUM0TlRLYnUwY0IzcjdlX1RvbmJ4SWJ4cw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-04-17T17:06:47.444Z",
+      "pushedAt": "2026-04-17T17:06:47.444Z"
+    },
+    {
       "id": "126e09e9edc726e7",
       "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
       "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
@@ -98,5 +110,5 @@
       "pushedAt": "2026-04-16T19:47:34.982Z"
     }
   ],
-  "updatedAt": "2026-04-17T16:13:45.908Z"
+  "updatedAt": "2026-04-17T17:06:47.772Z"
 }
