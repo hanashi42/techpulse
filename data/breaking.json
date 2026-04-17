@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "126e09e9edc726e7",
+      "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
+      "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + shares"
+      ],
+      "firstSeen": "2026-04-17T16:13:45.510Z",
+      "pushedAt": "2026-04-17T16:13:45.510Z"
+    },
+    {
+      "id": "55c86cb7f7feb6a8",
+      "title": "U.S. Tariff Policy Aims to Curb Reliance on China As Soybean and Sorghum Risks Grow - RFD-TV",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzE4T0JoOHNaRVFHcXB3bVg4d20wOVpBS0RYYjJ3TUNfZ2JGLVlMeGt0cGxlNFNPcUNnT2hCOXhhX080eHl6LXNabE5iWlVyODF5RkdCaE1uZFBSTGpKTVUzcHh5bXdKMU1UUnhOdGhEbUtxRzlBalF6X3JxeFQ3Q0hwR1VteWRIM1kyOWpldGlKS1Y0Nl9vSEJVbDg4LTNwajZyWllBUQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-04-17T16:13:45.713Z",
+      "pushedAt": "2026-04-17T16:13:45.713Z"
+    },
+    {
       "id": "20fe4578c5647449",
       "title": "Oil prices plunge as Iran says Strait 'open'",
       "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
@@ -72,19 +96,7 @@
       ],
       "firstSeen": "2026-04-16T19:47:34.982Z",
       "pushedAt": "2026-04-16T19:47:34.982Z"
-    },
-    {
-      "id": "8bf277b4dc605811",
-      "title": "Hegseth says US to keep Iran port blockade in Hormuz, ready for new attacks",
-      "url": "https://www.aljazeera.com/news/2026/4/16/hegseth-says-us-blockade-to-continue-ready-for-new-attacks-on-iran-energy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-04-16T16:01:28.084Z",
-      "pushedAt": "2026-04-16T16:01:28.084Z"
     }
   ],
-  "updatedAt": "2026-04-17T15:14:05.445Z"
+  "updatedAt": "2026-04-17T16:13:45.908Z"
 }
