@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a3240f93d25f6fdc",
+      "title": "China Clean Tech Exports Jump Amid Global Energy Disruption - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckRsTXluYV9jb2ZqX2JPdnFwaUNkUHZXNkE2QVdJSGl2OGs1T1JjQWx2N2ozUWtneWFQWm16ZXNZWmxyRnUybkl4RWRXMHpfTERUcXZ3MG1EODY0dkxpS21nNVRrRWRWS0NDN29ET0Y4RXJURE84STQxOHM2ZVpWZEVqeF8zWkV1aURRVXdoLXRoa1U4UmRHWGNUS0tWdzQyN0x2VkRvSDVOYU9aMldj?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + global"
+      ],
+      "firstSeen": "2026-04-18T06:40:21.768Z",
+      "pushedAt": "2026-04-18T06:40:21.768Z"
+    },
+    {
       "id": "28d6023f6606b043",
       "title": "US renews sanctions waiver for countries to buy Russian oil - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkpBSFVfcGM2Uk9FbVBxTGQwSTQ5SExOeXVtRGM2Y1lOa2kxdVpYLTNXdkJ6WHJ0OGtmWVkyN2hna0hJanExVzFNTDRUa2hRZWJjOUU1SlhXQW5RQUd5S3lrS0dyd2p2eTBvRk1aMkFrQkVQSnpqVlY4ZnU2MnhDWi1xRzZjdUYybVk5dlFCWHVuVjh1YXN5ZVVEMzcydjN4b1lpTXBCYw?oc=5",
@@ -97,43 +109,7 @@
       ],
       "firstSeen": "2026-04-17T15:14:05.337Z",
       "pushedAt": "2026-04-17T15:14:05.337Z"
-    },
-    {
-      "id": "64bfecd883abe208",
-      "title": "Countries to discuss Hormuz mission for when conflict ends - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ1l5MUlwWXB0VjNPMDJGSmFMc2hPY1pzUm1nNl9wc1BpT1lyRURaeTVTdDU0TUVMOEhDQzJucVlVQjJPMEZXZHlnVUplYXhMczdIQTd0TmJmYmZXR0xON2RTRVA0T3AxNW1rWXJiQTVzU1Q4RVB3SUpZVUQ1ak9PbGJsRHdBUkwzUDBGTTM3a2Z5T0FVVlhMVlVqSm1LOGVCMVE?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "conflict ends"
-      ],
-      "firstSeen": "2026-04-17T03:37:27.624Z",
-      "pushedAt": "2026-04-17T03:37:27.624Z"
-    },
-    {
-      "id": "692241252e969d22",
-      "title": "Trump's oil blockade is bringing Cuba to its knees",
-      "url": "https://news.sky.com/story/trumps-oil-blockade-is-bringing-cuba-to-its-knees-13532550",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-04-17T03:37:27.912Z",
-      "pushedAt": "2026-04-17T03:37:27.912Z"
-    },
-    {
-      "id": "5c31930895713996",
-      "title": "CNBC Daily Open: A fragile peace, but a firm market rally",
-      "url": "https://www.cnbc.com/2026/04/17/cnbc-daily-market-rally-oil-iran-war.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + market"
-      ],
-      "firstSeen": "2026-04-17T03:37:28.156Z",
-      "pushedAt": "2026-04-17T03:37:28.156Z"
     }
   ],
-  "updatedAt": "2026-04-18T03:24:02.327Z"
+  "updatedAt": "2026-04-18T06:40:21.932Z"
 }
