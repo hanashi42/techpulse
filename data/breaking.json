@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "aa4125679735e653",
+      "title": "Two Indian-flagged ships attacked while crossing Strait of Hormuz, government confirms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOODhmdWlGZjBFM3BhZXJMWExEb3ZzdnIwUzlqay1tVENHSm5LM0xGRWx3SnI3c3BZbjNCb3NfSHNaNWhER0tQckF5YWlWdWprU1FGQUQxVnJrcEdMeVowNm5zcDlRQ0tYLUp0ODBpV3ZjSS1RWnM1T3VUWHFQQlB3cEpLUkM3RGdWdjdTdTBwb0lmak1hQmhINHV3aDhiWm5wZkUxWlpRREtPTEN4bXItUXZCRUVUa2p6T3A5RlEzNTJydHRFNW00?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + attacked"
+      ],
+      "firstSeen": "2026-04-18T22:19:53.995Z",
+      "pushedAt": "2026-04-18T22:19:53.995Z"
+    },
+    {
+      "id": "bb4c0fbef0513bb1",
+      "title": "Iran reopens Strait of Hormuz, but threatens to close it again as the US maintains its blockade - AP News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUo3RjZlZ3BGZF9TbEU1TWc1dEdkLVhKRkZmM1F3VzVjTERRS3BPUXE5SFZMOGczLVBZYWpqLTZUcGlyV1JxZ2ktZ2hscm1pQ09TWVNzT05EUU1yNWpoTjR3eko3WjdDSm9fZmhkNnd2Mms4TmU1ZFhEbC0tbkQ5SExIT2lFbWtIYlhQQjFvZlpaMmZpTDhjUHlfX0ZSTEtKLS1CMGVNbUM0TlRLYnUwY0IzcjdlX1RvbmJ4SWJ4cw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait",
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-04-18T22:19:54.228Z",
+      "pushedAt": "2026-04-18T22:19:54.228Z"
+    },
+    {
       "id": "63221980cc6d2159",
       "title": "A mass shooting in Ukraine's capital leaves 6 dead before police shot and killed the gunman - AP News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeHNGcTZqN0tDTTNXQ0FyUnpSZzlqSVAtOUVlXzQ1UGF0ZnZXYlVOOG03VlhpYVdQTTRvRFFNUzkwejlkXy1MUTBxd1Ffd3lsLTZZbFQ0ZV80amZOeDFNRExSNWtYV2dVVmVNSFl1c0ZyRmoxYUNxMEIyTHp6Wnk3bTc2dVRZYTI4VDVlRXd1bGtMQlc4SWl5SUg1NWFqTXc?oc=5",
@@ -83,19 +108,7 @@
       ],
       "firstSeen": "2026-04-18T03:24:02.219Z",
       "pushedAt": "2026-04-18T03:24:02.219Z"
-    },
-    {
-      "id": "250eefea2186dba5",
-      "title": "Iran rejects Trump claim on deal to surrender nuclear material stockpiles",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender"
-      ],
-      "firstSeen": "2026-04-17T22:04:03.669Z",
-      "pushedAt": "2026-04-17T22:04:03.669Z"
     }
   ],
-  "updatedAt": "2026-04-18T21:54:29.350Z"
+  "updatedAt": "2026-04-18T22:19:54.440Z"
 }
