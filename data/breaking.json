@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6a86d5dc7819068c",
+      "title": "At least five killed in Kyiv as gunman opens fire and takes hostages",
+      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hostage + killed"
+      ],
+      "firstSeen": "2026-04-18T16:20:17.358Z",
+      "pushedAt": "2026-04-18T16:20:17.358Z"
+    },
+    {
       "id": "2ca303c33c76080e",
       "title": "French soldier serving with UNIFIL killed in Lebanon attack",
       "url": "https://www.aljazeera.com/news/2026/4/18/french-soldier-serving-with-unifil-killed-in-lebanon-attack?traffic_source=rss",
@@ -96,31 +108,7 @@
       ],
       "firstSeen": "2026-04-17T17:06:47.444Z",
       "pushedAt": "2026-04-17T17:06:47.444Z"
-    },
-    {
-      "id": "126e09e9edc726e7",
-      "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
-      "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + shares"
-      ],
-      "firstSeen": "2026-04-17T16:13:45.510Z",
-      "pushedAt": "2026-04-17T16:13:45.510Z"
-    },
-    {
-      "id": "55c86cb7f7feb6a8",
-      "title": "U.S. Tariff Policy Aims to Curb Reliance on China As Soybean and Sorghum Risks Grow - RFD-TV",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYzE4T0JoOHNaRVFHcXB3bVg4d20wOVpBS0RYYjJ3TUNfZ2JGLVlMeGt0cGxlNFNPcUNnT2hCOXhhX080eHl6LXNabE5iWlVyODF5RkdCaE1uZFBSTGpKTVUzcHh5bXdKMU1UUnhOdGhEbUtxRzlBalF6X3JxeFQ3Q0hwR1VteWRIM1kyOWpldGlKS1Y0Nl9vSEJVbDg4LTNwajZyWllBUQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-17T16:13:45.713Z",
-      "pushedAt": "2026-04-17T16:13:45.713Z"
     }
   ],
-  "updatedAt": "2026-04-18T15:43:35.009Z"
+  "updatedAt": "2026-04-18T16:20:17.554Z"
 }
