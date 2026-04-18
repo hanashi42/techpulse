@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "28d6023f6606b043",
+      "title": "US renews sanctions waiver for countries to buy Russian oil - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkpBSFVfcGM2Uk9FbVBxTGQwSTQ5SExOeXVtRGM2Y1lOa2kxdVpYLTNXdkJ6WHJ0OGtmWVkyN2hna0hJanExVzFNTDRUa2hRZWJjOUU1SlhXQW5RQUd5S3lrS0dyd2p2eTBvRk1aMkFrQkVQSnpqVlY4ZnU2MnhDWi1xRzZjdUYybVk5dlFCWHVuVjh1YXN5ZVVEMzcydjN4b1lpTXBCYw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-04-18T03:24:02.219Z",
+      "pushedAt": "2026-04-18T03:24:02.219Z"
+    },
+    {
       "id": "250eefea2186dba5",
       "title": "Iran rejects Trump claim on deal to surrender nuclear material stockpiles",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss",
@@ -123,5 +135,5 @@
       "pushedAt": "2026-04-17T03:37:28.156Z"
     }
   ],
-  "updatedAt": "2026-04-17T22:04:03.759Z"
+  "updatedAt": "2026-04-18T03:24:02.327Z"
 }
