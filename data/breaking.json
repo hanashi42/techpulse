@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "63221980cc6d2159",
+      "title": "A mass shooting in Ukraine's capital leaves 6 dead before police shot and killed the gunman - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeHNGcTZqN0tDTTNXQ0FyUnpSZzlqSVAtOUVlXzQ1UGF0ZnZXYlVOOG03VlhpYVdQTTRvRFFNUzkwejlkXy1MUTBxd1Ffd3lsLTZZbFQ0ZV80amZOeDFNRExSNWtYV2dVVmVNSFl1c0ZyRmoxYUNxMEIyTHp6Wnk3bTc2dVRZYTI4VDVlRXd1bGtMQlc4SWl5SUg1NWFqTXc?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "mass shooting"
+      ],
+      "firstSeen": "2026-04-18T21:54:29.268Z",
+      "pushedAt": "2026-04-18T21:54:29.268Z"
+    },
+    {
       "id": "126e09e9edc726e7",
       "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
       "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
@@ -83,44 +95,7 @@
       ],
       "firstSeen": "2026-04-17T22:04:03.669Z",
       "pushedAt": "2026-04-17T22:04:03.669Z"
-    },
-    {
-      "id": "cd3bfd8ec9f2ab79",
-      "title": "Reopened Strait of Hormuz, oil price drop may recast Fed's rate-cut options - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkgyRGcxLVlpUFRuOExKY3lyUjFKaUFUbnRWdWVWNGpzbkc0Y1RqcGVGVTkzLW5yZllTVDVqU1hzbHAxemtBalZIUVoxTzFBbmdxdFdYS0VDWm53U2ctMUdNSUcwUVBFNVNDd2hMNVhBemRBbGgxbHNBMmY2QnRObmtNYnFKSzRjeGxMRzl5MUo4NUlhLUhVRDdFWEtwZUxRTGVPYkdzWHFoS2s2QWdGTEpmZVgxR09ESDFLVXdxbFJ5V3FkbkZHdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate",
-        "oil price + drop"
-      ],
-      "firstSeen": "2026-04-17T21:25:08.390Z",
-      "pushedAt": "2026-04-17T21:25:08.390Z"
-    },
-    {
-      "id": "b4eea452613da7a2",
-      "title": "Exclusive: Meta targets May 20 for first wave of layoffs; additional cuts later in 2026 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkRwbFNPRlk1YVhQTE1velhMT004YWV6WXlUZ2FrTlJVMHVCSkFiU3poMFhKZmEyNGwzRVdBdXFLWEJIWnhKQnBUUDB2RzVCTm5JZEVqN2liYXM3WllTYTlGaU5EWVo5ci1NV2JZUUlQdjBreWYxMEhtNURBMWpRRUYwdDlHNHBKb1dqX0E5R2V5ZTlpZUhvcG5yMGItbXZBVUw1VFk0ckNmM0E?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-04-17T20:40:31.910Z",
-      "pushedAt": "2026-04-17T20:40:31.910Z"
-    },
-    {
-      "id": "bb4c0fbef0513bb1",
-      "title": "Iran reopens Strait of Hormuz, but Trump says blockade on Iranian ships and ports will stay in force - AP News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUo3RjZlZ3BGZF9TbEU1TWc1dEdkLVhKRkZmM1F3VzVjTERRS3BPUXE5SFZMOGczLVBZYWpqLTZUcGlyV1JxZ2ktZ2hscm1pQ09TWVNzT05EUU1yNWpoTjR3eko3WjdDSm9fZmhkNnd2Mms4TmU1ZFhEbC0tbkQ5SExIT2lFbWtIYlhQQjFvZlpaMmZpTDhjUHlfX0ZSTEtKLS1CMGVNbUM0TlRLYnUwY0IzcjdlX1RvbmJ4SWJ4cw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-04-17T17:06:47.444Z",
-      "pushedAt": "2026-04-17T17:06:47.444Z"
     }
   ],
-  "updatedAt": "2026-04-18T17:00:33.707Z"
+  "updatedAt": "2026-04-18T21:54:29.350Z"
 }
