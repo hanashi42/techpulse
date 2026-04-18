@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "126e09e9edc726e7",
+      "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
+      "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + shares"
+      ],
+      "firstSeen": "2026-04-18T17:00:33.440Z",
+      "pushedAt": "2026-04-18T17:00:33.440Z"
+    },
+    {
       "id": "6a86d5dc7819068c",
       "title": "At least five killed in Kyiv as gunman opens fire and takes hostages",
       "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
@@ -110,5 +122,5 @@
       "pushedAt": "2026-04-17T17:06:47.444Z"
     }
   ],
-  "updatedAt": "2026-04-18T16:20:17.554Z"
+  "updatedAt": "2026-04-18T17:00:33.707Z"
 }
