@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b86be7e402df1a9a",
+      "title": "Zelensky condemns US extension of Russian sanctions waiver",
+      "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-04-19T10:32:00.084Z",
+      "pushedAt": "2026-04-19T10:32:00.084Z"
+    },
+    {
       "id": "2c7c2f4f89e511d5",
       "title": "US sanctions 3 people, 2 firms over allegedly recruiting Colombian mercenaries in Sudan war - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzFzOE9iQmFkdWF5ZENhak9KWkNObzZWZnNmQXFQSmRxZm1KRy1zTVhPVU9WMEVTdGdXU0tJRi1mZHY1NXZVRFRXLXBXa0FhS1J6X2pidVJOX0VQTXJuSDRJT2FTYXpBVkNUVlZzN3U0TGtTeC1SdGUyNjJjb3I5S2dINE1OZmx2R0pLUEJMbmdNR21xcmtv?oc=5",
@@ -108,19 +120,7 @@
       ],
       "firstSeen": "2026-04-18T15:43:34.741Z",
       "pushedAt": "2026-04-18T15:43:34.741Z"
-    },
-    {
-      "id": "8e0d82c11d8d9fa8",
-      "title": "Weekly roundup: Tariff refunds open, Ford fights Chinese EVs, Southern union breakthrough impacts dealers - CBT News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRVlLNlhxYkpxVFRxbE5HbkRUX3RBMWpEQ2txR3lITW52Ulg5cHJ4cGdvR1JCeFN2U3lqUFRkaVRaZl8zZ2stQ05QQ1I2S3Mta3hYZlVkM1lhQmlxLVJMWWZQcmdGcGJoY0tuY1BfTlJ2V0liMTBWUWVyMW85UTA1NWZUNXdJV2toV3Qza1ZtSVluZzNuVVR6dmFNMFAtdjYwSTNLM3h5dVY3YzBTVFg2VFByYkVpMmd1YXRXblNKYVd5SnY2UFE?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-04-18T09:10:02.751Z",
-      "pushedAt": "2026-04-18T09:10:02.751Z"
     }
   ],
-  "updatedAt": "2026-04-19T07:00:10.013Z"
+  "updatedAt": "2026-04-19T10:32:00.294Z"
 }
