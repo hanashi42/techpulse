@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "126e09e9edc726e7",
+      "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
+      "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + shares"
+      ],
+      "firstSeen": "2026-04-19T20:56:38.816Z",
+      "pushedAt": "2026-04-19T20:56:38.816Z"
+    },
+    {
       "id": "859247827069a1ef",
       "title": "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade",
       "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss",
@@ -134,5 +146,5 @@
       "pushedAt": "2026-04-18T21:54:29.268Z"
     }
   ],
-  "updatedAt": "2026-04-19T20:19:25.813Z"
+  "updatedAt": "2026-04-19T20:56:39.061Z"
 }
