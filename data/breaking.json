@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "859247827069a1ef",
+      "title": "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade",
+      "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + hormuz"
+      ],
+      "firstSeen": "2026-04-19T20:19:25.645Z",
+      "pushedAt": "2026-04-19T20:19:25.645Z"
+    },
+    {
       "id": "7ccddc4ae6d808f8",
       "title": "French soldier killed and 3 others wounded in an attack on peacekeepers in Lebanon, Macron says - AP News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWl9XRGwzTm96b1N4RkFOekl1UUNteF9HeWo0RHNQcUhGU0t4OFh1YWlFQi1mb2E5aUJocWdKdVVUMWZFS3FSek1IRGhHSUFqWTdpSUlLR2lvd0hKckRwaHEtU1JubkZMMWk1Rmw1OW9jOTY4WmliNDlMSW9oNVRJcXhKVkQwUUdVM3hMdm9IaDl6cXRLLVBWanl3?oc=5",
@@ -120,19 +132,7 @@
       ],
       "firstSeen": "2026-04-18T21:54:29.268Z",
       "pushedAt": "2026-04-18T21:54:29.268Z"
-    },
-    {
-      "id": "126e09e9edc726e7",
-      "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
-      "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + shares"
-      ],
-      "firstSeen": "2026-04-18T17:00:33.440Z",
-      "pushedAt": "2026-04-18T17:00:33.440Z"
     }
   ],
-  "updatedAt": "2026-04-19T17:00:19.315Z"
+  "updatedAt": "2026-04-19T20:19:25.813Z"
 }
