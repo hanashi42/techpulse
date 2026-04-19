@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2c7c2f4f89e511d5",
+      "title": "US sanctions 3 people, 2 firms over allegedly recruiting Colombian mercenaries in Sudan war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzFzOE9iQmFkdWF5ZENhak9KWkNObzZWZnNmQXFQSmRxZm1KRy1zTVhPVU9WMEVTdGdXU0tJRi1mZHY1NXZVRFRXLXBXa0FhS1J6X2pidVJOX0VQTXJuSDRJT2FTYXpBVkNUVlZzN3U0TGtTeC1SdGUyNjJjb3I5S2dINE1OZmx2R0pLUEJMbmdNR21xcmtv?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-04-19T07:00:09.874Z",
+      "pushedAt": "2026-04-19T07:00:09.874Z"
+    },
+    {
       "id": "bb0eafd0ba15068d",
       "title": "Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats",
       "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
@@ -108,31 +120,7 @@
       ],
       "firstSeen": "2026-04-18T09:10:02.751Z",
       "pushedAt": "2026-04-18T09:10:02.751Z"
-    },
-    {
-      "id": "a3240f93d25f6fdc",
-      "title": "China Clean Tech Exports Jump Amid Global Energy Disruption - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckRsTXluYV9jb2ZqX2JPdnFwaUNkUHZXNkE2QVdJSGl2OGs1T1JjQWx2N2ozUWtneWFQWm16ZXNZWmxyRnUybkl4RWRXMHpfTERUcXZ3MG1EODY0dkxpS21nNVRrRWRWS0NDN29ET0Y4RXJURE84STQxOHM2ZVpWZEVqeF8zWkV1aURRVXdoLXRoa1U4UmRHWGNUS0tWdzQyN0x2VkRvSDVOYU9aMldj?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + global"
-      ],
-      "firstSeen": "2026-04-18T06:40:21.768Z",
-      "pushedAt": "2026-04-18T06:40:21.768Z"
-    },
-    {
-      "id": "28d6023f6606b043",
-      "title": "US renews sanctions waiver for countries to buy Russian oil - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkpBSFVfcGM2Uk9FbVBxTGQwSTQ5SExOeXVtRGM2Y1lOa2kxdVpYLTNXdkJ6WHJ0OGtmWVkyN2hna0hJanExVzFNTDRUa2hRZWJjOUU1SlhXQW5RQUd5S3lrS0dyd2p2eTBvRk1aMkFrQkVQSnpqVlY4ZnU2MnhDWi1xRzZjdUYybVk5dlFCWHVuVjh1YXN5ZVVEMzcydjN4b1lpTXBCYw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-04-18T03:24:02.219Z",
-      "pushedAt": "2026-04-18T03:24:02.219Z"
     }
   ],
-  "updatedAt": "2026-04-19T03:19:10.302Z"
+  "updatedAt": "2026-04-19T07:00:10.013Z"
 }
