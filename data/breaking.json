@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5dca68aa82f4cf3d",
+      "title": "Businesses can claim refunds for Trump tariffs ruled unconstitutional starting Monday - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMl9JVFI5R0tlOTN2dldUVXdTRjlQTmU5ZE9OTzRJV016WTE0OEZZTm1nWndpVmxOalpNRWp0R0k0dmRHWUNtT2ZLWk1zOXVsS01PWld6NUtNWUxvNzlQbXZkd0Q1WU11dDNVNGpld0F2bkpHUFpJNFVJcnU3QXZjcm1GQm5fQy1YTGNoX2xnRnE?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-04-19T23:48:56.036Z",
+      "pushedAt": "2026-04-19T23:48:56.036Z"
+    },
+    {
       "id": "126e09e9edc726e7",
       "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
       "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
@@ -107,44 +119,7 @@
       ],
       "firstSeen": "2026-04-19T03:19:10.201Z",
       "pushedAt": "2026-04-19T03:19:10.201Z"
-    },
-    {
-      "id": "aa4125679735e653",
-      "title": "Two Indian-flagged ships attacked while crossing Strait of Hormuz, government confirms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOODhmdWlGZjBFM3BhZXJMWExEb3ZzdnIwUzlqay1tVENHSm5LM0xGRWx3SnI3c3BZbjNCb3NfSHNaNWhER0tQckF5YWlWdWprU1FGQUQxVnJrcEdMeVowNm5zcDlRQ0tYLUp0ODBpV3ZjSS1RWnM1T3VUWHFQQlB3cEpLUkM3RGdWdjdTdTBwb0lmak1hQmhINHV3aDhiWm5wZkUxWlpRREtPTEN4bXItUXZCRUVUa2p6T3A5RlEzNTJydHRFNW00?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + attacked"
-      ],
-      "firstSeen": "2026-04-18T22:19:53.995Z",
-      "pushedAt": "2026-04-18T22:19:53.995Z"
-    },
-    {
-      "id": "bb4c0fbef0513bb1",
-      "title": "Iran reopens Strait of Hormuz, but threatens to close it again as the US maintains its blockade - AP News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUo3RjZlZ3BGZF9TbEU1TWc1dEdkLVhKRkZmM1F3VzVjTERRS3BPUXE5SFZMOGczLVBZYWpqLTZUcGlyV1JxZ2ktZ2hscm1pQ09TWVNzT05EUU1yNWpoTjR3eko3WjdDSm9fZmhkNnd2Mms4TmU1ZFhEbC0tbkQ5SExIT2lFbWtIYlhQQjFvZlpaMmZpTDhjUHlfX0ZSTEtKLS1CMGVNbUM0TlRLYnUwY0IzcjdlX1RvbmJ4SWJ4cw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait",
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-04-18T22:19:54.228Z",
-      "pushedAt": "2026-04-18T22:19:54.228Z"
-    },
-    {
-      "id": "63221980cc6d2159",
-      "title": "A mass shooting in Ukraine's capital leaves 6 dead before police shot and killed the gunman - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeHNGcTZqN0tDTTNXQ0FyUnpSZzlqSVAtOUVlXzQ1UGF0ZnZXYlVOOG03VlhpYVdQTTRvRFFNUzkwejlkXy1MUTBxd1Ffd3lsLTZZbFQ0ZV80amZOeDFNRExSNWtYV2dVVmVNSFl1c0ZyRmoxYUNxMEIyTHp6Wnk3bTc2dVRZYTI4VDVlRXd1bGtMQlc4SWl5SUg1NWFqTXc?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "mass shooting"
-      ],
-      "firstSeen": "2026-04-18T21:54:29.268Z",
-      "pushedAt": "2026-04-18T21:54:29.268Z"
     }
   ],
-  "updatedAt": "2026-04-19T20:56:39.061Z"
+  "updatedAt": "2026-04-19T23:48:56.288Z"
 }
