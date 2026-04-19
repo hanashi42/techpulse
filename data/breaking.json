@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "bb0eafd0ba15068d",
+      "title": "Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats",
+      "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-04-19T03:19:10.006Z",
+      "pushedAt": "2026-04-19T03:19:10.006Z"
+    },
+    {
+      "id": "bfad8c9d211c1be1",
+      "title": "US Tariffs Redirect Chinese Battery Oversupply Into Europe, Driving 17% Price Compression - Crux Investor",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUt6QWo5cTBmRjAzNzdXTEZMU3I0ZU5EemJRakVBeEIwVUg5RXB5MDZNM2V6YWhkZGNBN1I4TmpoVS1XdlBhUnFHdjVRaVVuUmpzeE9peUF6T1VsSDdablpNVzZwbEM5MFFZMGFHU2JXa1hRUmx6Vm5nUllVTHg1MVNkbzR2V1k4a2xzWGQ2OUE5LXhTZUxJV2hzajBveDBPRWRudm9FQnBPY0oxOWVvellzLU5WR09acnpMdDBQaw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + europe"
+      ],
+      "firstSeen": "2026-04-19T03:19:10.201Z",
+      "pushedAt": "2026-04-19T03:19:10.201Z"
+    },
+    {
       "id": "aa4125679735e653",
       "title": "Two Indian-flagged ships attacked while crossing Strait of Hormuz, government confirms - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOODhmdWlGZjBFM3BhZXJMWExEb3ZzdnIwUzlqay1tVENHSm5LM0xGRWx3SnI3c3BZbjNCb3NfSHNaNWhER0tQckF5YWlWdWprU1FGQUQxVnJrcEdMeVowNm5zcDlRQ0tYLUp0ODBpV3ZjSS1RWnM1T3VUWHFQQlB3cEpLUkM3RGdWdjdTdTBwb0lmak1hQmhINHV3aDhiWm5wZkUxWlpRREtPTEN4bXItUXZCRUVUa2p6T3A5RlEzNTJydHRFNW00?oc=5",
@@ -110,5 +134,5 @@
       "pushedAt": "2026-04-18T03:24:02.219Z"
     }
   ],
-  "updatedAt": "2026-04-18T22:19:54.440Z"
+  "updatedAt": "2026-04-19T03:19:10.302Z"
 }
