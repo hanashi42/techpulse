@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7ccddc4ae6d808f8",
+      "title": "French soldier killed and 3 others wounded in an attack on peacekeepers in Lebanon, Macron says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWl9XRGwzTm96b1N4RkFOekl1UUNteF9HeWo0RHNQcUhGU0t4OFh1YWlFQi1mb2E5aUJocWdKdVVUMWZFS3FSek1IRGhHSUFqWTdpSUlLR2lvd0hKckRwaHEtU1JubkZMMWk1Rmw1OW9jOTY4WmliNDlMSW9oNVRJcXhKVkQwUUdVM3hMdm9IaDl6cXRLLVBWanl3?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-19T17:00:18.893Z",
+      "pushedAt": "2026-04-19T17:00:18.893Z"
+    },
+    {
+      "id": "6a86d5dc7819068c",
+      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hostage + killed"
+      ],
+      "firstSeen": "2026-04-19T17:00:19.108Z",
+      "pushedAt": "2026-04-19T17:00:19.108Z"
+    },
+    {
       "id": "bb7a0298004f813f",
       "title": "Software stock dogs have joined market rally. There's a classic investing lesson in the rebound",
       "url": "https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html",
@@ -110,5 +134,5 @@
       "pushedAt": "2026-04-18T17:00:33.440Z"
     }
   ],
-  "updatedAt": "2026-04-19T16:20:34.507Z"
+  "updatedAt": "2026-04-19T17:00:19.315Z"
 }
