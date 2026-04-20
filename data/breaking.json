@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "294afe6bd085bf55",
+      "title": "Iranian-Flagged Ship Seized by U.S. Forces Was Under Sanctions",
+      "url": "https://www.nytimes.com/2026/04/20/world/middleeast/touska-iran-ship-sanctions.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-04-20T19:43:43.423Z",
+      "pushedAt": "2026-04-20T19:43:43.423Z"
+    },
+    {
       "id": "5362dd2cbbd85857",
       "title": "EU to widen Iran sanctions to those who block Hormuz - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFZrME44SkJ1SUdWVlpMTF9kWHRUVGJJQnB4VElWUDhBbXRNVDB4cVk1aVlJblR6VjNHYXlxNi1VRTBHS0dod0NCWEx0a0Z0Y1Raa1NRc1dIeVgzemEtZlFXbGdxU1ZsOHdJdHJGXzVNMkR4VjJtZUhFbm5mcDRtYndZRWJPUS1nX1YwWXdla09Ra1JRN0Faa2ltRGdJUm9ZVmc?oc=5",
@@ -195,5 +207,5 @@
       "pushedAt": "2026-04-19T20:19:25.645Z"
     }
   ],
-  "updatedAt": "2026-04-20T17:43:39.084Z"
+  "updatedAt": "2026-04-20T19:43:43.764Z"
 }
