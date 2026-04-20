@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5362dd2cbbd85857",
+      "title": "EU to widen Iran sanctions to those who block Hormuz - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFZrME44SkJ1SUdWVlpMTF9kWHRUVGJJQnB4VElWUDhBbXRNVDB4cVk1aVlJblR6VjNHYXlxNi1VRTBHS0dod0NCWEx0a0Z0Y1Raa1NRc1dIeVgzemEtZlFXbGdxU1ZsOHdJdHJGXzVNMkR4VjJtZUhFbm5mcDRtYndZRWJPUS1nX1YwWXdla09Ra1JRN0Faa2ltRGdJUm9ZVmc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-04-20T17:43:38.902Z",
+      "pushedAt": "2026-04-20T17:43:38.902Z"
+    },
+    {
       "id": "3f18cca878e2f557",
       "title": "Trump tariff refunds begin but consumers likely to miss out",
       "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
@@ -181,43 +193,7 @@
       ],
       "firstSeen": "2026-04-19T20:19:25.645Z",
       "pushedAt": "2026-04-19T20:19:25.645Z"
-    },
-    {
-      "id": "7ccddc4ae6d808f8",
-      "title": "French soldier killed and 3 others wounded in an attack on peacekeepers in Lebanon, Macron says - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWl9XRGwzTm96b1N4RkFOekl1UUNteF9HeWo0RHNQcUhGU0t4OFh1YWlFQi1mb2E5aUJocWdKdVVUMWZFS3FSek1IRGhHSUFqWTdpSUlLR2lvd0hKckRwaHEtU1JubkZMMWk1Rmw1OW9jOTY4WmliNDlMSW9oNVRJcXhKVkQwUUdVM3hMdm9IaDl6cXRLLVBWanl3?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-19T17:00:18.893Z",
-      "pushedAt": "2026-04-19T17:00:18.893Z"
-    },
-    {
-      "id": "6a86d5dc7819068c",
-      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hostage + killed"
-      ],
-      "firstSeen": "2026-04-19T17:00:19.108Z",
-      "pushedAt": "2026-04-19T17:00:19.108Z"
-    },
-    {
-      "id": "bb7a0298004f813f",
-      "title": "Software stock dogs have joined market rally. There's a classic investing lesson in the rebound",
-      "url": "https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-04-19T16:20:34.428Z",
-      "pushedAt": "2026-04-19T16:20:34.428Z"
     }
   ],
-  "updatedAt": "2026-04-20T15:50:05.682Z"
+  "updatedAt": "2026-04-20T17:43:39.084Z"
 }
