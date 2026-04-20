@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3f18cca878e2f557",
+      "title": "Trump tariff refunds begin but consumers likely to miss out",
+      "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-04-20T15:50:05.379Z",
+      "pushedAt": "2026-04-20T15:50:05.379Z"
+    },
+    {
       "id": "b86be7e402df1a9a",
       "title": "Zelensky condemns US extension of Russian sanctions waiver",
       "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
@@ -207,5 +219,5 @@
       "pushedAt": "2026-04-19T16:20:34.428Z"
     }
   ],
-  "updatedAt": "2026-04-20T12:50:19.403Z"
+  "updatedAt": "2026-04-20T15:50:05.682Z"
 }
