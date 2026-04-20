@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "01a821765fb9aa7b",
+      "title": "During Earth Week, Governor Newsom announces California surpasses $1 billion in clean truck and bus incentives, as Trump surrenders clean transportation future to China - California State Portal | CA.gov",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNVpDOEstdTd4Z2ZHRjBrZXN0TXl1QlBXbWNYdUNzYTMwRHd4MFhxVDZuak1STlVoRm9Zb1VqV0ItUjZFajBMQmtRVm9vbEZXd3h3WkRiQlZLRldkZ3V3VVJoWWZ2c3VSQ3VCNEduSkVfQ0pjOHg3ZC1rSkh6b3dqNnpZbXVLckhsd25YNDkwMnZLOFZaM2lucXNaT3Y5QXBpRjRUQU9WaVduV0IwOF8wa0Zta19rc3RFVmRCSkhGempQNXBUMVJjTnRjWDVQOFdhcXo0WFFWZ1JmUHR0R1dBanhfUG0zVHdySnczaVlfRkJzc0QyMmZaNVlsUExhZ0NXZm5iTXRCdlZJTnpkVEFqR3R5MGdpeEg5OU5Oa1ljb3VxcEQ0ek5z?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender"
+      ],
+      "firstSeen": "2026-04-20T22:40:26.388Z",
+      "pushedAt": "2026-04-20T22:40:26.388Z"
+    },
+    {
       "id": "294afe6bd085bf55",
       "title": "Iranian-Flagged Ship Seized by U.S. Forces Was Under Sanctions",
       "url": "https://www.nytimes.com/2026/04/20/world/middleeast/touska-iran-ship-sanctions.html",
@@ -181,31 +193,7 @@
       ],
       "firstSeen": "2026-04-19T23:48:56.036Z",
       "pushedAt": "2026-04-19T23:48:56.036Z"
-    },
-    {
-      "id": "126e09e9edc726e7",
-      "title": "World's biggest chocolate maker issues profit warning as cocoa prices collapse; shares plunge 17%",
-      "url": "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + shares"
-      ],
-      "firstSeen": "2026-04-19T20:56:38.816Z",
-      "pushedAt": "2026-04-19T20:56:38.816Z"
-    },
-    {
-      "id": "859247827069a1ef",
-      "title": "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade",
-      "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + hormuz"
-      ],
-      "firstSeen": "2026-04-19T20:19:25.645Z",
-      "pushedAt": "2026-04-19T20:19:25.645Z"
     }
   ],
-  "updatedAt": "2026-04-20T19:43:43.764Z"
+  "updatedAt": "2026-04-20T22:40:26.515Z"
 }
