@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b86be7e402df1a9a",
+      "title": "Zelensky condemns US extension of Russian sanctions waiver",
+      "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-04-20T12:50:19.328Z",
+      "pushedAt": "2026-04-20T12:50:19.328Z"
+    },
+    {
       "id": "c7cc30ba39a1ee73",
       "title": "Apple withholds data in India antitrust case, watchdog sets final hearing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONGY5WnNXcDNfUlQ5MU4wRmdlLTlJSnFnTkVsanZwNFllWERVV1V5SlNJUkF1MENIcTFfUHlHZ3BENVN6ckhzWUNEeTM0OC1kUFNpUUpsblhmVjE4aTNXLWZZWHdHbE1LaWZhN1hVTkRkd0gzYk5tM2ZQZEJEX09zZk1lcVF2ejFzLV84WHVhbVM2RHJ0cThOdm9fRzdpUFJGeWtpMDhjN0Q5MUdlTHpDSG9ib0NmOFViUmVFeGRyQkZ6aEFrdWxfRERZemo1WmF3TGVLVk5NR2lLWktJb2c?oc=5",
@@ -195,5 +207,5 @@
       "pushedAt": "2026-04-19T16:20:34.428Z"
     }
   ],
-  "updatedAt": "2026-04-20T11:44:53.021Z"
+  "updatedAt": "2026-04-20T12:50:19.403Z"
 }
