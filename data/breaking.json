@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "06dd6d1829421940",
+      "title": "Oil price plunge on US-Iran peace hopes to give rupee, bonds some breather - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTJBVkliU0pZd2ZSNXRCblBuTV91RFJEQThJbTBBUVptaEwxZVYwaDFtamo0aUpfWktaZWhVUm5MTFZyaUM0VkprN1ZRTVQyLWxDYUZqVEE5MGw2dGJDTllCWUNLb0RKdnhuTERZUXFnb1JDSVJvWmpHUE9Va1JfVTdodGpnSHlHV1lkSFRZNHYtR2pGYVRfT1dzYXFRN2F5SUhSMkFMMUV1N3BtSGNRTER4ZUhjdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + oil",
+        "oil price + plunge"
+      ],
+      "firstSeen": "2026-04-20T04:28:31.559Z",
+      "pushedAt": "2026-04-20T04:28:31.559Z"
+    },
+    {
       "id": "c0e6a6267d547993",
       "title": "Oil claws back losses as Strait of Hormuz is closed again - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeXY1dzhzQXNyUkx3eHhjTVEtUmNCYTRYSEI1R3RRdFdHaFJCck1QUDNIeWZ4VUhBZzFBSWVjN3hYdWFGc1Q0cG5MYjlsMHdyTnJPZmtNV2RwOHJEck85a1ZYLTJnNDYxdGFCZmVBNzhOejVYUUJPLWdRTVpwV1BPWUZxMERXZXVqMWNCdVdCTUYtOHhWYVp5bzh4Q3lBV3RmRTFlWg?oc=5",
@@ -131,31 +144,7 @@
       ],
       "firstSeen": "2026-04-19T07:00:09.874Z",
       "pushedAt": "2026-04-19T07:00:09.874Z"
-    },
-    {
-      "id": "bb0eafd0ba15068d",
-      "title": "Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats",
-      "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-04-19T03:19:10.006Z",
-      "pushedAt": "2026-04-19T03:19:10.006Z"
-    },
-    {
-      "id": "bfad8c9d211c1be1",
-      "title": "US Tariffs Redirect Chinese Battery Oversupply Into Europe, Driving 17% Price Compression - Crux Investor",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUt6QWo5cTBmRjAzNzdXTEZMU3I0ZU5EemJRakVBeEIwVUg5RXB5MDZNM2V6YWhkZGNBN1I4TmpoVS1XdlBhUnFHdjVRaVVuUmpzeE9peUF6T1VsSDdablpNVzZwbEM5MFFZMGFHU2JXa1hRUmx6Vm5nUllVTHg1MVNkbzR2V1k4a2xzWGQ2OUE5LXhTZUxJV2hzajBveDBPRWRudm9FQnBPY0oxOWVvellzLU5WR09acnpMdDBQaw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + europe"
-      ],
-      "firstSeen": "2026-04-19T03:19:10.201Z",
-      "pushedAt": "2026-04-19T03:19:10.201Z"
     }
   ],
-  "updatedAt": "2026-04-20T01:11:42.833Z"
+  "updatedAt": "2026-04-20T04:28:31.786Z"
 }
