@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8c0441ccadbb77bc",
+      "title": "Iran War Live Updates: Oil Prices Rise as Iran Vows Retaliation for Cargo Ship Attack",
+      "url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-04-20T08:34:09.846Z",
+      "pushedAt": "2026-04-20T08:34:09.846Z"
+    },
+    {
       "id": "06dd6d1829421940",
       "title": "Oil price plunge on US-Iran peace hopes to give rupee, bonds some breather - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTJBVkliU0pZd2ZSNXRCblBuTV91RFJEQThJbTBBUVptaEwxZVYwaDFtamo0aUpfWktaZWhVUm5MTFZyaUM0VkprN1ZRTVQyLWxDYUZqVEE5MGw2dGJDTllCWUNLb0RKdnhuTERZUXFnb1JDSVJvWmpHUE9Va1JfVTdodGpnSHlHV1lkSFRZNHYtR2pGYVRfT1dzYXFRN2F5SUhSMkFMMUV1N3BtSGNRTER4ZUhjdw?oc=5",
@@ -132,19 +144,7 @@
       ],
       "firstSeen": "2026-04-19T10:32:00.084Z",
       "pushedAt": "2026-04-19T10:32:00.084Z"
-    },
-    {
-      "id": "2c7c2f4f89e511d5",
-      "title": "US sanctions 3 people, 2 firms over allegedly recruiting Colombian mercenaries in Sudan war - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzFzOE9iQmFkdWF5ZENhak9KWkNObzZWZnNmQXFQSmRxZm1KRy1zTVhPVU9WMEVTdGdXU0tJRi1mZHY1NXZVRFRXLXBXa0FhS1J6X2pidVJOX0VQTXJuSDRJT2FTYXpBVkNUVlZzN3U0TGtTeC1SdGUyNjJjb3I5S2dINE1OZmx2R0pLUEJMbmdNR21xcmtv?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-04-19T07:00:09.874Z",
-      "pushedAt": "2026-04-19T07:00:09.874Z"
     }
   ],
-  "updatedAt": "2026-04-20T04:28:31.786Z"
+  "updatedAt": "2026-04-20T08:34:10.070Z"
 }
