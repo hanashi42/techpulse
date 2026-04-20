@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "7351d74a4cb2c62d",
+      "title": "Major 7.5-magnitude quake hits off Japan, triggers tsunami warnings - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUhrZE8yWnRQNzhsZG1na2tQTVlQYmlOcFR2elRyVEw3UDdpTktrbDJ1bUNsWm40dEYybDVzTWlrb2xnckg0ME5yalFQRDdYVE5QUVg1TWJmSkFmeVg3QmZ4Wk8xbDN0WElGOXgtU2hJemdRSVkxaklnb0w2SHRFbVdqVGlONVh3bW8yWFd1Uk11STZwczIySmU3dksxczNORUlUVDh5cUkzUThiQUkydTlzNVNqbTV3NmliRQ?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "tsunami warning"
+      ],
+      "firstSeen": "2026-04-20T10:18:44.770Z",
+      "pushedAt": "2026-04-20T10:18:44.770Z"
+    },
+    {
+      "id": "24be82f31dee290b",
+      "title": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued",
+      "url": "https://www.aljazeera.com/news/2026/4/20/powerful-7-4-earthquake-strikes-northern-japan-tsunami-warning-issued?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "tsunami warning",
+        "magnitude 7"
+      ],
+      "firstSeen": "2026-04-20T10:18:45.013Z",
+      "pushedAt": "2026-04-20T10:18:45.013Z"
+    },
+    {
       "id": "8c0441ccadbb77bc",
       "title": "Iran War Live Updates: Oil Prices Rise as Iran Vows Retaliation for Cargo Ship Attack",
       "url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
@@ -146,5 +171,5 @@
       "pushedAt": "2026-04-19T10:32:00.084Z"
     }
   ],
-  "updatedAt": "2026-04-20T08:34:10.070Z"
+  "updatedAt": "2026-04-20T10:18:45.253Z"
 }
