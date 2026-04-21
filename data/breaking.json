@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bb55db241248c0f2",
+      "title": "US Directs 28 Vessels To Turn Around Under Iran Port Blockade - CENTCOM - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6RDdlMTMtc1NYWGhweks2alQ4X29NMkxYcE1pd21nbXFHcE1tdmZUMlU0dGxzb0gyMFRqQktxN2FzWTNNMUp1ZVJZUWJzNkVzZ2tBdEc3MXQwNGdrb3JMTFFRY1Q0NEhwbXN1VlBR?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-04-21T17:39:47.392Z",
+      "pushedAt": "2026-04-21T17:39:47.392Z"
+    },
+    {
       "id": "b90e18b774e616f9",
       "title": "State of emergency declared in New Zealand after flash flooding",
       "url": "https://news.sky.com/story/state-of-emergency-declared-in-new-zealand-after-flash-flooding-hits-wellington-13534029",
@@ -132,19 +144,7 @@
       ],
       "firstSeen": "2026-04-20T17:43:38.902Z",
       "pushedAt": "2026-04-20T17:43:38.902Z"
-    },
-    {
-      "id": "3f18cca878e2f557",
-      "title": "Trump tariff refunds begin but consumers likely to miss out",
-      "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-04-20T15:50:05.379Z",
-      "pushedAt": "2026-04-20T15:50:05.379Z"
     }
   ],
-  "updatedAt": "2026-04-21T14:19:54.676Z"
+  "updatedAt": "2026-04-21T17:39:47.579Z"
 }
