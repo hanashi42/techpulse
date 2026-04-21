@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "9536245f697f2241",
+      "title": "With tariffs stalled, Trump's China policy drifts - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXlVcm1fYUVaWTdvQmRYby1jQi1iRmFTZmtSdTJKYklrRXBBTmo2WlBIQzRwQ3Qwd3ZHZDBZVHhTLVNCQ3BOdHR0N1NkaDNKaFJ3SUlBV1BTUUZqaUdleGprRTJBazg3TnlYeUxpaFZzb3RVZ3pXVDI4Zk9yRGtNdTNTaDBreHBIdFpOdm1aRklpSE1SbXJn?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-04-21T07:16:08.288Z",
+      "pushedAt": "2026-04-21T07:16:08.288Z"
+    },
+    {
+      "id": "8d427da7b54efac7",
+      "title": "US Stocks Close Lower As Oil Prices Surge On Renewed West Asia Tensions - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50NkVldXlMTDc0Rkc1RGw4VzYzejRRdUFuU2VvWUR4WVdsRVJHT1gwdnphQ0k5NXZGbDVUX2VJRUR1U3FzeE1xcXVpTVBrM1ZZVm1lVmVQM0ZiNlp2YTRYbnNacw?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-04-21T07:16:08.533Z",
+      "pushedAt": "2026-04-21T07:16:08.533Z"
+    },
+    {
       "id": "694ab6cb79e8ce67",
       "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
       "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
@@ -144,20 +169,7 @@
       ],
       "firstSeen": "2026-04-20T08:34:09.846Z",
       "pushedAt": "2026-04-20T08:34:09.846Z"
-    },
-    {
-      "id": "06dd6d1829421940",
-      "title": "Oil price plunge on US-Iran peace hopes to give rupee, bonds some breather - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTJBVkliU0pZd2ZSNXRCblBuTV91RFJEQThJbTBBUVptaEwxZVYwaDFtamo0aUpfWktaZWhVUm5MTFZyaUM0VkprN1ZRTVQyLWxDYUZqVEE5MGw2dGJDTllCWUNLb0RKdnhuTERZUXFnb1JDSVJvWmpHUE9Va1JfVTdodGpnSHlHV1lkSFRZNHYtR2pGYVRfT1dzYXFRN2F5SUhSMkFMMUV1N3BtSGNRTER4ZUhjdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + oil",
-        "oil price + plunge"
-      ],
-      "firstSeen": "2026-04-20T04:28:31.559Z",
-      "pushedAt": "2026-04-20T04:28:31.559Z"
     }
   ],
-  "updatedAt": "2026-04-21T03:37:19.961Z"
+  "updatedAt": "2026-04-21T07:16:08.696Z"
 }
