@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "57ce64457b447d72",
+      "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
+      "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-04-21T21:25:03.469Z",
+      "pushedAt": "2026-04-21T21:25:03.469Z"
+    },
+    {
       "id": "5dca68aa82f4cf3d",
       "title": "Businesses begin claiming refunds for Trump tariffs struck down by US Supreme Court - AP News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMl9JVFI5R0tlOTN2dldUVXdTRjlQTmU5ZE9OTzRJV016WTE0OEZZTm1nWndpVmxOalpNRWp0R0k0dmRHWUNtT2ZLWk1zOXVsS01PWld6NUtNWUxvNzlQbXZkd0Q1WU11dDNVNGpld0F2bkpHUFpJNFVJcnU3QXZjcm1GQm5fQy1YTGNoX2xnRnE?oc=5",
@@ -156,19 +168,7 @@
       ],
       "firstSeen": "2026-04-20T22:40:26.388Z",
       "pushedAt": "2026-04-20T22:40:26.388Z"
-    },
-    {
-      "id": "294afe6bd085bf55",
-      "title": "Iranian-Flagged Ship Seized by U.S. Forces Was Under Sanctions",
-      "url": "https://www.nytimes.com/2026/04/20/world/middleeast/touska-iran-ship-sanctions.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-04-20T19:43:43.423Z",
-      "pushedAt": "2026-04-20T19:43:43.423Z"
     }
   ],
-  "updatedAt": "2026-04-21T18:42:46.387Z"
+  "updatedAt": "2026-04-21T21:25:03.661Z"
 }
