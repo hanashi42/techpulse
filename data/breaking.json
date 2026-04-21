@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b90e18b774e616f9",
+      "title": "State of emergency declared in New Zealand after flash flooding",
+      "url": "https://news.sky.com/story/state-of-emergency-declared-in-new-zealand-after-flash-flooding-hits-wellington-13534029",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "state of emergency declared"
+      ],
+      "firstSeen": "2026-04-21T14:19:54.440Z",
+      "pushedAt": "2026-04-21T14:19:54.440Z"
+    },
+    {
       "id": "55337a1c27465b42",
       "title": "Exclusive: US trade rep tells Mexican companies Trump tariffs here to stay, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb042a1JwRU1Udk9hSkc2czJzbzJIU0ZIUURwRnh1S2lOcEFJSDN5LWo5OUo2YURyZDNkVVBRZzk5Y0Vtd0oxbmhreDFRVzBCZVVhaGNKbjIwcVRheGg1VTB0UzVKU1Z3amZMTXpreElBaWxsVkNFT1AyZE5aZi1nbWxSR085bXZ1eVl1Z01hTUh0MEMySFJXVHdBVGpfRERwMUhPS21YZzBVQklmaHczeXpXRGJvX2F1SnFwRmV3Q1Bxak1jblNWUHR5ZmhlOXJUWmRNNQ?oc=5",
@@ -132,19 +144,7 @@
       ],
       "firstSeen": "2026-04-20T15:50:05.379Z",
       "pushedAt": "2026-04-20T15:50:05.379Z"
-    },
-    {
-      "id": "b86be7e402df1a9a",
-      "title": "Zelensky condemns US extension of Russian sanctions waiver",
-      "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-04-20T12:50:19.328Z",
-      "pushedAt": "2026-04-20T12:50:19.328Z"
     }
   ],
-  "updatedAt": "2026-04-21T12:43:39.638Z"
+  "updatedAt": "2026-04-21T14:19:54.676Z"
 }
