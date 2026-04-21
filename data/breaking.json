@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "5dca68aa82f4cf3d",
+      "title": "Businesses begin claiming refunds for Trump tariffs struck down by US Supreme Court - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMl9JVFI5R0tlOTN2dldUVXdTRjlQTmU5ZE9OTzRJV016WTE0OEZZTm1nWndpVmxOalpNRWp0R0k0dmRHWUNtT2ZLWk1zOXVsS01PWld6NUtNWUxvNzlQbXZkd0Q1WU11dDNVNGpld0F2bkpHUFpJNFVJcnU3QXZjcm1GQm5fQy1YTGNoX2xnRnE?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-04-21T18:42:45.793Z",
+      "pushedAt": "2026-04-21T18:42:45.793Z"
+    },
+    {
+      "id": "f6638e231884fc70",
+      "title": "Teotihuacán Pyramids Shooting: Gunman Carried Notes on U.S. Mass Shootings",
+      "url": "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "mass shooting"
+      ],
+      "firstSeen": "2026-04-21T18:42:46.088Z",
+      "pushedAt": "2026-04-21T18:42:46.088Z"
+    },
+    {
+      "id": "82654bb4732d0775",
+      "title": "What Have U.S. Officials Learned from Section 301 Tariffs on China? - National Taxpayers Union",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMHlwNHRsWER2VGsyU29zdmxLeWpzaHpLS3oxUjBDanJQajNXZVp1TlVjSzJITm55a1pfR044eWxrbTZmTFJyT1Z2d050aEI0NEVvcDQ4T0ctbmZVRnZoTmJzSm40R1JPRTB2ajRRWlFPamRhSERPMGw2NXFDX0Nqa1J5ajh5SzNLZGU5bG8xdTlxdVpPaXRfdGVRTVpzWEpKY294dFNKUQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-04-21T18:42:46.309Z",
+      "pushedAt": "2026-04-21T18:42:46.309Z"
+    },
+    {
       "id": "bb55db241248c0f2",
       "title": "US Directs 28 Vessels To Turn Around Under Iran Port Blockade - CENTCOM - Bernama",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6RDdlMTMtc1NYWGhweks2alQ4X29NMkxYcE1pd21nbXFHcE1tdmZUMlU0dGxzb0gyMFRqQktxN2FzWTNNMUp1ZVJZUWJzNkVzZ2tBdEc3MXQwNGdrb3JMTFFRY1Q0NEhwbXN1VlBR?oc=5",
@@ -132,19 +168,7 @@
       ],
       "firstSeen": "2026-04-20T19:43:43.423Z",
       "pushedAt": "2026-04-20T19:43:43.423Z"
-    },
-    {
-      "id": "5362dd2cbbd85857",
-      "title": "EU to widen Iran sanctions to those who block Hormuz - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTFZrME44SkJ1SUdWVlpMTF9kWHRUVGJJQnB4VElWUDhBbXRNVDB4cVk1aVlJblR6VjNHYXlxNi1VRTBHS0dod0NCWEx0a0Z0Y1Raa1NRc1dIeVgzemEtZlFXbGdxU1ZsOHdJdHJGXzVNMkR4VjJtZUhFbm5mcDRtYndZRWJPUS1nX1YwWXdla09Ra1JRN0Faa2ltRGdJUm9ZVmc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-04-20T17:43:38.902Z",
-      "pushedAt": "2026-04-20T17:43:38.902Z"
     }
   ],
-  "updatedAt": "2026-04-21T17:39:47.579Z"
+  "updatedAt": "2026-04-21T18:42:46.387Z"
 }
