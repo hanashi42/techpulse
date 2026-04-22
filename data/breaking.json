@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3516ceb48b226c33",
+      "title": "Brent oil rises above $100 after Iran seizes container ships, U.S. maintains naval blockade",
+      "url": "https://www.cnbc.com/2026/04/22/oil-price-wti-brent-iran-ceasefire-extension-clouds-outlook.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + naval"
+      ],
+      "firstSeen": "2026-04-22T16:43:30.737Z",
+      "pushedAt": "2026-04-22T16:43:30.737Z"
+    },
+    {
       "id": "26b38761d52d5044",
       "title": "Fed rate cut pushed back to late 2026 on war-related inflation risks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWszZ19GeFVWZWFiNVNHV1RNcTFvRmtubmhJTjRwZnNrWkh1c0NxSTZIY1NILTVqVVVrb0NzMkN6VXAtN2VldjRGczI2MDFNTlFtQzlqa1dSZlNkNXpYZV9pbTJBbjhtNFZiS2tSci1wS3F6dlpCZV9ueTBEWjlIUjJGNF9FeENleldEdlI0LXB4MHRNSlB6bkNZQTJwb1p6b08yV3ZtUVNCWVczd1VqbXpzRjFoalU?oc=5",
@@ -171,5 +183,5 @@
       "pushedAt": "2026-04-21T17:39:47.392Z"
     }
   ],
-  "updatedAt": "2026-04-22T15:46:06.917Z"
+  "updatedAt": "2026-04-22T16:43:30.975Z"
 }
