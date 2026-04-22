@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4ae25aff738e886b",
+      "title": "CNBC Daily Open: Trump looks to mitigate tariff, geopolitical blowback",
+      "url": "https://www.cnbc.com/2026/04/22/trump-tariffs-iran-ceasefire-us-futures-asia-markets.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-04-22T04:20:41.117Z",
+      "pushedAt": "2026-04-22T04:20:41.117Z"
+    },
+    {
       "id": "7b6612fec7f99c8b",
       "title": "US oil prices rise as US-Iran peace talks remain uncertain - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR09ZSmd3djlFaW5uX3VvR2hWbWIyeC1jYkZ6UHIzV3VOMmJ2VWdmM0hnd0R1cjNqcTg1OWNBN1BjNWhUck1oVmwwMW5MOW85bWFDOWU0UkFZR2JhN0Q5RE83N0ltRzR1ZEZqdXpxZWozT0FSUHVFYnV1aWRLYVVodVp1d1dIaWJIVVdxMVpOeXByZUtUb0ZYc01sczBjdndtZE0yMTlid0poek0?oc=5",
@@ -156,19 +168,7 @@
       ],
       "firstSeen": "2026-04-21T07:16:08.533Z",
       "pushedAt": "2026-04-21T07:16:08.533Z"
-    },
-    {
-      "id": "694ab6cb79e8ce67",
-      "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
-      "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + hormuz"
-      ],
-      "firstSeen": "2026-04-21T03:37:19.730Z",
-      "pushedAt": "2026-04-21T03:37:19.730Z"
     }
   ],
-  "updatedAt": "2026-04-22T01:18:38.337Z"
+  "updatedAt": "2026-04-22T04:20:41.197Z"
 }
