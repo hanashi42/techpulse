@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "26b38761d52d5044",
+      "title": "Fed rate cut pushed back to late 2026 on war-related inflation risks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWszZ19GeFVWZWFiNVNHV1RNcTFvRmtubmhJTjRwZnNrWkh1c0NxSTZIY1NILTVqVVVrb0NzMkN6VXAtN2VldjRGczI2MDFNTlFtQzlqa1dSZlNkNXpYZV9pbTJBbjhtNFZiS2tSci1wS3F6dlpCZV9ueTBEWjlIUjJGNF9FeENleldEdlI0LXB4MHRNSlB6bkNZQTJwb1p6b08yV3ZtUVNCWVczd1VqbXpzRjFoalU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate cut + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-04-22T15:46:06.634Z",
+      "pushedAt": "2026-04-22T15:46:06.634Z"
+    },
+    {
       "id": "a6c377025fdc448d",
       "title": "EU envoys poised to adopt 20th package of Russia sanctions, diplomats say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVNabXE1OV9WRnViWTdVM3duWUgxZzV6M0F2Vm5rRjYzYm4zWEZISnJUbUF5QzIzSTBDM3hTQ2RXanZsdHEwSkpSTHBBUWJFamZXdC1uQUt3VGFTOUwtNDZIWjdSRGc5NXRiVTYxb1AzTUE3Nno1aF8zYlNkai0wUWs0M1FfN0E1R3BFOGtoX0ZLT29DNHM3ZGdNZ1gxZUowUXJOb2xFeUxoRzMy?oc=5",
@@ -156,55 +169,7 @@
       ],
       "firstSeen": "2026-04-21T17:39:47.392Z",
       "pushedAt": "2026-04-21T17:39:47.392Z"
-    },
-    {
-      "id": "b90e18b774e616f9",
-      "title": "State of emergency declared in New Zealand after flash flooding",
-      "url": "https://news.sky.com/story/state-of-emergency-declared-in-new-zealand-after-flash-flooding-hits-wellington-13534029",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "state of emergency declared"
-      ],
-      "firstSeen": "2026-04-21T14:19:54.440Z",
-      "pushedAt": "2026-04-21T14:19:54.440Z"
-    },
-    {
-      "id": "55337a1c27465b42",
-      "title": "Exclusive: US trade rep tells Mexican companies Trump tariffs here to stay, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb042a1JwRU1Udk9hSkc2czJzbzJIU0ZIUURwRnh1S2lOcEFJSDN5LWo5OUo2YURyZDNkVVBRZzk5Y0Vtd0oxbmhreDFRVzBCZVVhaGNKbjIwcVRheGg1VTB0UzVKU1Z3amZMTXpreElBaWxsVkNFT1AyZE5aZi1nbWxSR085bXZ1eVl1Z01hTUh0MEMySFJXVHdBVGpfRERwMUhPS21YZzBVQklmaHczeXpXRGJvX2F1SnFwRmV3Q1Bxak1jblNWUHR5ZmhlOXJUWmRNNQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-04-21T12:43:39.148Z",
-      "pushedAt": "2026-04-21T12:43:39.148Z"
-    },
-    {
-      "id": "c93a856863abfa9c",
-      "title": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
-      "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "tsunami warning"
-      ],
-      "firstSeen": "2026-04-21T12:43:39.391Z",
-      "pushedAt": "2026-04-21T12:43:39.391Z"
-    },
-    {
-      "id": "34a670d9741fcda4",
-      "title": "Tsunami Warnings Downgraded in Japan After Strong Offshore Earthquake",
-      "url": "https://www.nytimes.com/2026/04/20/world/asia/tsunami-warning-japan-earthquake.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "tsunami warning"
-      ],
-      "firstSeen": "2026-04-21T12:43:39.562Z",
-      "pushedAt": "2026-04-21T12:43:39.562Z"
     }
   ],
-  "updatedAt": "2026-04-22T11:46:11.883Z"
+  "updatedAt": "2026-04-22T15:46:06.917Z"
 }
