@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "aeeb44a7b7063f02",
+      "title": "How the Iran war oil and gas supply shock compares with past disruptions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUFLYV9DV3E3WmpuNUh0cmtkTTZxTzRHTmUtdkFRSTM1MDBranJKbENTYnlBTnNJZjhxV0RTaWd2SVRBMktTUHNZZ2k2VXlGRzBKWUNiNXdaWFBKQ3VGZVZnb3BqYVJERnprVGtCWEsxcW5nQXI2OWxZVFBSTkFBQmRDNDVZVmZuTjVlYTNNNG9WSzA3NVZyTXJJY0F2YzNjQzJkQ0Jwb0dKeHoybTNXR1k1X2VYb3M?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-04-22T08:05:27.286Z",
+      "pushedAt": "2026-04-22T08:05:27.286Z"
+    },
+    {
       "id": "db740d9e218ac2f6",
       "title": "UK inflation jumps to 3.3% in March as fuel prices surge amid Iran war",
       "url": "https://www.cnbc.com/2026/04/22/uk-inflation-jumps-to-3point3percent-in-march-as-fuel-prices-surge.html",
@@ -168,32 +180,7 @@
       ],
       "firstSeen": "2026-04-21T11:35:04.320Z",
       "pushedAt": "2026-04-21T11:35:04.320Z"
-    },
-    {
-      "id": "9536245f697f2241",
-      "title": "With tariffs stalled, Trump's China policy drifts - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXlVcm1fYUVaWTdvQmRYby1jQi1iRmFTZmtSdTJKYklrRXBBTmo2WlBIQzRwQ3Qwd3ZHZDBZVHhTLVNCQ3BOdHR0N1NkaDNKaFJ3SUlBV1BTUUZqaUdleGprRTJBazg3TnlYeUxpaFZzb3RVZ3pXVDI4Zk9yRGtNdTNTaDBreHBIdFpOdm1aRklpSE1SbXJn?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-21T07:16:08.288Z",
-      "pushedAt": "2026-04-21T07:16:08.288Z"
-    },
-    {
-      "id": "8d427da7b54efac7",
-      "title": "US Stocks Close Lower As Oil Prices Surge On Renewed West Asia Tensions - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50NkVldXlMTDc0Rkc1RGw4VzYzejRRdUFuU2VvWUR4WVdsRVJHT1gwdnphQ0k5NXZGbDVUX2VJRUR1U3FzeE1xcXVpTVBrM1ZZVm1lVmVQM0ZiNlp2YTRYbnNacw?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-04-21T07:16:08.533Z",
-      "pushedAt": "2026-04-21T07:16:08.533Z"
     }
   ],
-  "updatedAt": "2026-04-22T06:13:57.358Z"
+  "updatedAt": "2026-04-22T08:05:27.407Z"
 }
