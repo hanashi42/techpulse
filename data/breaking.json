@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "db740d9e218ac2f6",
+      "title": "UK inflation jumps to 3.3% in March as fuel prices surge amid Iran war",
+      "url": "https://www.cnbc.com/2026/04/22/uk-inflation-jumps-to-3point3percent-in-march-as-fuel-prices-surge.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + inflation",
+        "inflation + surge"
+      ],
+      "firstSeen": "2026-04-22T06:13:56.942Z",
+      "pushedAt": "2026-04-22T06:13:56.942Z"
+    },
+    {
+      "id": "499ebbb7c737521f",
+      "title": "European stocks set to open lower as Trump refuses to lift Strait of Hormuz blockade",
+      "url": "https://www.cnbc.com/2026/04/22/european-markets-stoxx-600-ftse-dax-iran-latest-news-oil-price.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait"
+      ],
+      "firstSeen": "2026-04-22T06:13:57.224Z",
+      "pushedAt": "2026-04-22T06:13:57.224Z"
+    },
+    {
       "id": "4ae25aff738e886b",
       "title": "CNBC Daily Open: Trump looks to mitigate tariff, geopolitical blowback",
       "url": "https://www.cnbc.com/2026/04/22/trump-tariffs-iran-ceasefire-us-futures-asia-markets.html",
@@ -170,5 +195,5 @@
       "pushedAt": "2026-04-21T07:16:08.533Z"
     }
   ],
-  "updatedAt": "2026-04-22T04:20:41.197Z"
+  "updatedAt": "2026-04-22T06:13:57.358Z"
 }
