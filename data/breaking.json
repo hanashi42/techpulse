@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ab751fca81fab772",
+      "title": "Trump media company replaces ex-congressman Nunes as CEO after stock plunge that wiped out billions - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3p5TThXVFU2TERyVHVDVjAyd0pzalBxdzJZNnNQaEVyMWZLM0J6VHoxTDhHNDluZ3FDQ2d6UDZQQV96bmI2djZvRGN5NmdSOTg3Zmc5aG5jWm5UaUdFd0FXYjZlbUFjRkl1T2piZHBTa3lQdlYyMHo4WF9RZ3VRazhZcDhHVmNHRk5pajhucERCSDV0T1RjMmIwakNuRXhFdDRN?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock"
+      ],
+      "firstSeen": "2026-04-22T21:32:34.687Z",
+      "pushedAt": "2026-04-22T21:32:34.687Z"
+    },
+    {
       "id": "c8701bd2200342ff",
       "title": "US breach of commitments, blockade of ports main obstacles to 'genuine negotiation', Iranian president says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWE5MNnkxT0JuN3hkTWRUbU41cEFKT0YwdUhIT3lLZXB5ZDVxUmdsb3NmWXEzcVY3NTJENVg0cm1Wclh4VGFQZk5OWmp2TnNkNFZrTHFwQzhaaEgydkVSOFlpWHdveVY3WWh4eFRVUXk3WWF3aDFpVEFCdU5qcmExNGZkQklkbndtc3NZWXROaEhFUHhWQmdoajVOcjRBVTVVd3E5UjJxc3ota3RVUWxfSXktRVA2VHRjcDZtckdVaWQydmNLZGpyLXQxejVIdw?oc=5",
@@ -157,19 +169,7 @@
       ],
       "firstSeen": "2026-04-22T01:18:38.238Z",
       "pushedAt": "2026-04-22T01:18:38.238Z"
-    },
-    {
-      "id": "57ce64457b447d72",
-      "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-      "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-04-21T21:25:03.469Z",
-      "pushedAt": "2026-04-21T21:25:03.469Z"
     }
   ],
-  "updatedAt": "2026-04-22T20:38:57.018Z"
+  "updatedAt": "2026-04-22T21:32:34.914Z"
 }
