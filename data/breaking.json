@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7b6612fec7f99c8b",
+      "title": "US oil prices rise as US-Iran peace talks remain uncertain - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR09ZSmd3djlFaW5uX3VvR2hWbWIyeC1jYkZ6UHIzV3VOMmJ2VWdmM0hnd0R1cjNqcTg1OWNBN1BjNWhUck1oVmwwMW5MOW85bWFDOWU0UkFZR2JhN0Q5RE83N0ltRzR1ZEZqdXpxZWozT0FSUHVFYnV1aWRLYVVodVp1d1dIaWJIVVdxMVpOeXByZUtUb0ZYc01sczBjdndtZE0yMTlid0poek0?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-04-22T01:18:38.238Z",
+      "pushedAt": "2026-04-22T01:18:38.238Z"
+    },
+    {
       "id": "57ce64457b447d72",
       "title": "US issues more Iran sanctions on eve of possible talks in Pakistan",
       "url": "https://www.aljazeera.com/news/2026/4/21/us-issues-more-iran-sanctions-on-eve-of-possible-talks-in-pakistan?traffic_source=rss",
@@ -156,19 +168,7 @@
       ],
       "firstSeen": "2026-04-21T03:37:19.730Z",
       "pushedAt": "2026-04-21T03:37:19.730Z"
-    },
-    {
-      "id": "01a821765fb9aa7b",
-      "title": "During Earth Week, Governor Newsom announces California surpasses $1 billion in clean truck and bus incentives, as Trump surrenders clean transportation future to China - California State Portal | CA.gov",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNVpDOEstdTd4Z2ZHRjBrZXN0TXl1QlBXbWNYdUNzYTMwRHd4MFhxVDZuak1STlVoRm9Zb1VqV0ItUjZFajBMQmtRVm9vbEZXd3h3WkRiQlZLRldkZ3V3VVJoWWZ2c3VSQ3VCNEduSkVfQ0pjOHg3ZC1rSkh6b3dqNnpZbXVLckhsd25YNDkwMnZLOFZaM2lucXNaT3Y5QXBpRjRUQU9WaVduV0IwOF8wa0Zta19rc3RFVmRCSkhGempQNXBUMVJjTnRjWDVQOFdhcXo0WFFWZ1JmUHR0R1dBanhfUG0zVHdySnczaVlfRkJzc0QyMmZaNVlsUExhZ0NXZm5iTXRCdlZJTnpkVEFqR3R5MGdpeEg5OU5Oa1ljb3VxcEQ0ek5z?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender"
-      ],
-      "firstSeen": "2026-04-20T22:40:26.388Z",
-      "pushedAt": "2026-04-20T22:40:26.388Z"
     }
   ],
-  "updatedAt": "2026-04-21T21:25:03.661Z"
+  "updatedAt": "2026-04-22T01:18:38.337Z"
 }
