@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a6c377025fdc448d",
+      "title": "EU envoys poised to adopt 20th package of Russia sanctions, diplomats say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVNabXE1OV9WRnViWTdVM3duWUgxZzV6M0F2Vm5rRjYzYm4zWEZISnJUbUF5QzIzSTBDM3hTQ2RXanZsdHEwSkpSTHBBUWJFamZXdC1uQUt3VGFTOUwtNDZIWjdSRGc5NXRiVTYxb1AzTUE3Nno1aF8zYlNkai0wUWs0M1FfN0E1R3BFOGtoX0ZLT29DNHM3ZGdNZ1gxZUowUXJOb2xFeUxoRzMy?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-04-22T11:46:11.601Z",
+      "pushedAt": "2026-04-22T11:46:11.601Z"
+    },
+    {
       "id": "178f313acd3181e0",
       "title": "A Year After Terrorist Attack, a Kashmir Town Longs for Tourists",
       "url": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
@@ -192,19 +204,7 @@
       ],
       "firstSeen": "2026-04-21T12:43:39.562Z",
       "pushedAt": "2026-04-21T12:43:39.562Z"
-    },
-    {
-      "id": "09067532e688e487",
-      "title": "Strait of Hormuz: How a threat became a playbook",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/4/21/strait-of-hormuz-how-a-threat-became-a-playbook?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-04-21T11:35:04.320Z",
-      "pushedAt": "2026-04-21T11:35:04.320Z"
     }
   ],
-  "updatedAt": "2026-04-22T09:46:16.152Z"
+  "updatedAt": "2026-04-22T11:46:11.883Z"
 }
