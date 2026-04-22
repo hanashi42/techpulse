@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6fec37fb075d299c",
+      "title": "Widow died in Ghana crash after losing up to £1m in romance frauds, inquest hears",
+      "url": "https://news.sky.com/story/widow-died-in-ghana-crash-after-losing-up-to-1631m-in-romance-frauds-inquest-hears-13535074",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crash + dow"
+      ],
+      "firstSeen": "2026-04-22T18:43:34.152Z",
+      "pushedAt": "2026-04-22T18:43:34.152Z"
+    },
+    {
       "id": "3516ceb48b226c33",
       "title": "Brent oil rises above $100 after Iran seizes container ships, U.S. maintains naval blockade",
       "url": "https://www.cnbc.com/2026/04/22/oil-price-wti-brent-iran-ceasefire-extension-clouds-outlook.html",
@@ -133,55 +145,7 @@
       ],
       "firstSeen": "2026-04-21T21:25:03.469Z",
       "pushedAt": "2026-04-21T21:25:03.469Z"
-    },
-    {
-      "id": "5dca68aa82f4cf3d",
-      "title": "Businesses begin claiming refunds for Trump tariffs struck down by US Supreme Court - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMl9JVFI5R0tlOTN2dldUVXdTRjlQTmU5ZE9OTzRJV016WTE0OEZZTm1nWndpVmxOalpNRWp0R0k0dmRHWUNtT2ZLWk1zOXVsS01PWld6NUtNWUxvNzlQbXZkd0Q1WU11dDNVNGpld0F2bkpHUFpJNFVJcnU3QXZjcm1GQm5fQy1YTGNoX2xnRnE?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-04-21T18:42:45.793Z",
-      "pushedAt": "2026-04-21T18:42:45.793Z"
-    },
-    {
-      "id": "f6638e231884fc70",
-      "title": "Teotihuacán Pyramids Shooting: Gunman Carried Notes on U.S. Mass Shootings",
-      "url": "https://www.nytimes.com/2026/04/21/world/americas/mexico-shooting-tourists-teotihuacan-pyramids.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "mass shooting"
-      ],
-      "firstSeen": "2026-04-21T18:42:46.088Z",
-      "pushedAt": "2026-04-21T18:42:46.088Z"
-    },
-    {
-      "id": "82654bb4732d0775",
-      "title": "What Have U.S. Officials Learned from Section 301 Tariffs on China? - National Taxpayers Union",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMHlwNHRsWER2VGsyU29zdmxLeWpzaHpLS3oxUjBDanJQajNXZVp1TlVjSzJITm55a1pfR044eWxrbTZmTFJyT1Z2d050aEI0NEVvcDQ4T0ctbmZVRnZoTmJzSm40R1JPRTB2ajRRWlFPamRhSERPMGw2NXFDX0Nqa1J5ajh5SzNLZGU5bG8xdTlxdVpPaXRfdGVRTVpzWEpKY294dFNKUQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-21T18:42:46.309Z",
-      "pushedAt": "2026-04-21T18:42:46.309Z"
-    },
-    {
-      "id": "bb55db241248c0f2",
-      "title": "US Directs 28 Vessels To Turn Around Under Iran Port Blockade - CENTCOM - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6RDdlMTMtc1NYWGhweks2alQ4X29NMkxYcE1pd21nbXFHcE1tdmZUMlU0dGxzb0gyMFRqQktxN2FzWTNNMUp1ZVJZUWJzNkVzZ2tBdEc3MXQwNGdrb3JMTFFRY1Q0NEhwbXN1VlBR?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-04-21T17:39:47.392Z",
-      "pushedAt": "2026-04-21T17:39:47.392Z"
     }
   ],
-  "updatedAt": "2026-04-22T16:43:30.975Z"
+  "updatedAt": "2026-04-22T18:43:34.224Z"
 }
