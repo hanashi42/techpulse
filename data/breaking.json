@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "178f313acd3181e0",
+      "title": "A Year After Terrorist Attack, a Kashmir Town Longs for Tourists",
+      "url": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terrorist attack"
+      ],
+      "firstSeen": "2026-04-22T09:46:15.670Z",
+      "pushedAt": "2026-04-22T09:46:15.670Z"
+    },
+    {
+      "id": "25d8fe8ebc8d187a",
+      "title": "Two ships attacked in Strait of Hormuz, UK says, after U.S. extends Iran ceasefire",
+      "url": "https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + attacked"
+      ],
+      "firstSeen": "2026-04-22T09:46:15.938Z",
+      "pushedAt": "2026-04-22T09:46:15.938Z"
+    },
+    {
       "id": "aeeb44a7b7063f02",
       "title": "How the Iran war oil and gas supply shock compares with past disruptions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUFLYV9DV3E3WmpuNUh0cmtkTTZxTzRHTmUtdkFRSTM1MDBranJKbENTYnlBTnNJZjhxV0RTaWd2SVRBMktTUHNZZ2k2VXlGRzBKWUNiNXdaWFBKQ3VGZVZnb3BqYVJERnprVGtCWEsxcW5nQXI2OWxZVFBSTkFBQmRDNDVZVmZuTjVlYTNNNG9WSzA3NVZyTXJJY0F2YzNjQzJkQ0Jwb0dKeHoybTNXR1k1X2VYb3M?oc=5",
@@ -182,5 +206,5 @@
       "pushedAt": "2026-04-21T11:35:04.320Z"
     }
   ],
-  "updatedAt": "2026-04-22T08:05:27.407Z"
+  "updatedAt": "2026-04-22T09:46:16.152Z"
 }
