@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6fec37fb075d299c",
+      "title": "Widow died in Ghana crash after losing up to £1m in romance frauds, inquest hears",
+      "url": "https://news.sky.com/story/widow-died-in-ghana-crash-after-losing-up-to-1631m-in-romance-frauds-inquest-hears-13535074",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crash + dow"
+      ],
+      "firstSeen": "2026-04-23T21:27:39.120Z",
+      "pushedAt": "2026-04-23T21:27:39.120Z"
+    },
+    {
       "id": "6cb0194925da7343",
       "title": "Iran fast-boat swarms add to Hormuz threats for shipping - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUlMWGtuQjJnNndadUZGNlQwdlRWM2xyTUEtZUJoc202VzktYTR4QUpMWGVFNm5ZcTdnNHczcmNJNFNHdnNJQXJvQ3hYN0tLZ0ticDNhdWY0dmVINHFtNUg5NTkxUzJUdlhaeEZ3Z1o4azY0YWV1eTNrcV8tSWlOR2NDd09MOTRxUnQwYS1PTFRPODFYT0YycGxpcjZHVl9ieTQwSGNVRQ?oc=5",
@@ -181,5 +193,5 @@
       "pushedAt": "2026-04-22T21:32:34.687Z"
     }
   ],
-  "updatedAt": "2026-04-23T20:40:55.228Z"
+  "updatedAt": "2026-04-23T21:27:39.221Z"
 }
