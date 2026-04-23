@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "2f4470e76be83e7e",
+      "title": "Russian billionaires boost wealth by 11% over a year despite war and sanctions, Forbes says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWld3LVRBRVozQ0VUd2xrbTVYcGp2enlNQl9MSlN1czRTemNBOVJ0RFVuR2VTa3hQLWdhZWNMLWdxTGtFbTZlbEsta2h5Q3EyQmZYNjJ2ZmFWekkyeTcwRmVyVTJkbG5XRm1BQk5SbXhxZ2N5c1NHTnE0aXFCcXd1MEdtQkd6SUlGaWFrcHpOSFhoZHFfT0p6dm9ERElLejRPNC1yQlB2LUU1V3ZIZUxINWZ1LUhTTmZDM2Z6THFxUU0?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-04-23T10:23:12.391Z",
+      "pushedAt": "2026-04-23T10:23:12.391Z"
+    },
+    {
+      "id": "a4c772d218fd40d4",
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-04-23T10:23:12.622Z",
+      "pushedAt": "2026-04-23T10:23:12.622Z"
+    },
+    {
       "id": "1de09558c612bed0",
       "title": "Gold falls on oil-driven inflation fears; US-Iran developments in focus - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUhzZnR5V2FWcF8tblZRUTZPSktlVDB1RmwtTElEWGdiMHg5VnE2QVJiSUdFb1lLLXk4TV9iVGNsbmppcjBYZzIyVWRXTlB2aGNkdTVwN2RSRFl3NS1pWVVyVk9SdzlXVFRGaGRXWWtmUnBIb0tiRWg4ZTFNWG5EWHYtN184cTgza1BfdU9pS3MwWGRCRmtsLWJ3aTczWndpRURQeXdrZUFsWUVhcGc?oc=5",
@@ -132,31 +156,7 @@
       ],
       "firstSeen": "2026-04-22T11:46:11.601Z",
       "pushedAt": "2026-04-22T11:46:11.601Z"
-    },
-    {
-      "id": "178f313acd3181e0",
-      "title": "A Year After Terrorist Attack, a Kashmir Town Longs for Tourists",
-      "url": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "terrorist attack"
-      ],
-      "firstSeen": "2026-04-22T09:46:15.670Z",
-      "pushedAt": "2026-04-22T09:46:15.670Z"
-    },
-    {
-      "id": "25d8fe8ebc8d187a",
-      "title": "Two ships attacked in Strait of Hormuz, UK says, after U.S. extends Iran ceasefire",
-      "url": "https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + attacked"
-      ],
-      "firstSeen": "2026-04-22T09:46:15.938Z",
-      "pushedAt": "2026-04-22T09:46:15.938Z"
     }
   ],
-  "updatedAt": "2026-04-23T09:00:51.071Z"
+  "updatedAt": "2026-04-23T10:23:12.812Z"
 }
