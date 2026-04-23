@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1de09558c612bed0",
+      "title": "Gold falls on oil-driven inflation fears; US-Iran developments in focus - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUhzZnR5V2FWcF8tblZRUTZPSktlVDB1RmwtTElEWGdiMHg5VnE2QVJiSUdFb1lLLXk4TV9iVGNsbmppcjBYZzIyVWRXTlB2aGNkdTVwN2RSRFl3NS1pWVVyVk9SdzlXVFRGaGRXWWtmUnBIb0tiRWg4ZTFNWG5EWHYtN184cTgza1BfdU9pS3MwWGRCRmtsLWJ3aTczWndpRURQeXdrZUFsWUVhcGc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + fall"
+      ],
+      "firstSeen": "2026-04-23T09:00:50.824Z",
+      "pushedAt": "2026-04-23T09:00:50.824Z"
+    },
+    {
       "id": "2147bd2c4bce4ea3",
       "title": "Sellers in China trade hub seek tariff reprieve from Trump visit - The Mountaineer",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYjIxMkw1ak9PSktROTlzYWNfaG04S1JPa2p6bmYyWjgzbkNTeXNiTFBLWktSa1FGRXZGWVRZcHcwU0tLbzJQWjJuWUEzVjRndlFvMWliTWdPU0E1T29OcGc4Z193SmVOYU80MGRTdHhwX25uMEFGZjFPUjRZSk0zRGl6ZWtteUk0am1tNnRrdzdkalhXb1hfeVgteTR1QTBJdjh6X1c3SDFiNUQzM2FTTnZPTWx1bU9qLWliZkdPd3dMa0xSZmdBbEluZlVmRURfc1NxaWcwVTItUVM4VUtxbzc0RXN3dHI3WVBkaHVyaXY?oc=5",
@@ -144,44 +156,7 @@
       ],
       "firstSeen": "2026-04-22T09:46:15.938Z",
       "pushedAt": "2026-04-22T09:46:15.938Z"
-    },
-    {
-      "id": "aeeb44a7b7063f02",
-      "title": "How the Iran war oil and gas supply shock compares with past disruptions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUUFLYV9DV3E3WmpuNUh0cmtkTTZxTzRHTmUtdkFRSTM1MDBranJKbENTYnlBTnNJZjhxV0RTaWd2SVRBMktTUHNZZ2k2VXlGRzBKWUNiNXdaWFBKQ3VGZVZnb3BqYVJERnprVGtCWEsxcW5nQXI2OWxZVFBSTkFBQmRDNDVZVmZuTjVlYTNNNG9WSzA3NVZyTXJJY0F2YzNjQzJkQ0Jwb0dKeHoybTNXR1k1X2VYb3M?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-04-22T08:05:27.286Z",
-      "pushedAt": "2026-04-22T08:05:27.286Z"
-    },
-    {
-      "id": "db740d9e218ac2f6",
-      "title": "UK inflation jumps to 3.3% in March as fuel prices surge amid Iran war",
-      "url": "https://www.cnbc.com/2026/04/22/uk-inflation-jumps-to-3point3percent-in-march-as-fuel-prices-surge.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + inflation",
-        "inflation + surge"
-      ],
-      "firstSeen": "2026-04-22T06:13:56.942Z",
-      "pushedAt": "2026-04-22T06:13:56.942Z"
-    },
-    {
-      "id": "499ebbb7c737521f",
-      "title": "European stocks set to open lower as Trump refuses to lift Strait of Hormuz blockade",
-      "url": "https://www.cnbc.com/2026/04/22/european-markets-stoxx-600-ftse-dax-iran-latest-news-oil-price.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait"
-      ],
-      "firstSeen": "2026-04-22T06:13:57.224Z",
-      "pushedAt": "2026-04-22T06:13:57.224Z"
     }
   ],
-  "updatedAt": "2026-04-23T05:11:00.977Z"
+  "updatedAt": "2026-04-23T09:00:51.071Z"
 }
