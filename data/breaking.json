@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "553127c3cce939f8",
+      "title": "Meta lines up layoffs while Microsoft offers buyouts",
+      "url": "https://www.aljazeera.com/economy/2026/4/23/meta-lines-up-layoffs-while-microsoft-offers-buyouts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + meta"
+      ],
+      "firstSeen": "2026-04-23T23:00:56.767Z",
+      "pushedAt": "2026-04-23T23:00:56.767Z"
+    },
+    {
       "id": "6fec37fb075d299c",
       "title": "Widow died in Ghana crash after losing up to £1m in romance frauds, inquest hears",
       "url": "https://news.sky.com/story/widow-died-in-ghana-crash-after-losing-up-to-1631m-in-romance-frauds-inquest-hears-13535074",
@@ -167,31 +179,7 @@
       ],
       "firstSeen": "2026-04-23T02:10:22.986Z",
       "pushedAt": "2026-04-23T02:10:22.986Z"
-    },
-    {
-      "id": "e030c37beee6e420",
-      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VOUo3cF80cll0SXNxZkZTN0x2b3hwcDhyaXR0eEhUNDdQV0VMTG1nTWcxQ3B1Wm1RbVhRUkVMMVJsdXgyUElzTXFhMlhfM3JzYjFlQ3pxQnd0QQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-22T22:23:56.896Z",
-      "pushedAt": "2026-04-22T22:23:56.896Z"
-    },
-    {
-      "id": "ab751fca81fab772",
-      "title": "Trump media company replaces ex-congressman Nunes as CEO after stock plunge that wiped out billions - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3p5TThXVFU2TERyVHVDVjAyd0pzalBxdzJZNnNQaEVyMWZLM0J6VHoxTDhHNDluZ3FDQ2d6UDZQQV96bmI2djZvRGN5NmdSOTg3Zmc5aG5jWm5UaUdFd0FXYjZlbUFjRkl1T2piZHBTa3lQdlYyMHo4WF9RZ3VRazhZcDhHVmNHRk5pajhucERCSDV0T1RjMmIwakNuRXhFdDRN?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock"
-      ],
-      "firstSeen": "2026-04-22T21:32:34.687Z",
-      "pushedAt": "2026-04-22T21:32:34.687Z"
     }
   ],
-  "updatedAt": "2026-04-23T21:27:39.221Z"
+  "updatedAt": "2026-04-23T23:00:57.027Z"
 }
