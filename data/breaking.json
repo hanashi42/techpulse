@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2147bd2c4bce4ea3",
+      "title": "Sellers in China trade hub seek tariff reprieve from Trump visit - The Mountaineer",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYjIxMkw1ak9PSktROTlzYWNfaG04S1JPa2p6bmYyWjgzbkNTeXNiTFBLWktSa1FGRXZGWVRZcHcwU0tLbzJQWjJuWUEzVjRndlFvMWliTWdPU0E1T29OcGc4Z193SmVOYU80MGRTdHhwX25uMEFGZjFPUjRZSk0zRGl6ZWtteUk0am1tNnRrdzdkalhXb1hfeVgteTR1QTBJdjh6X1c3SDFiNUQzM2FTTnZPTWx1bU9qLWliZkdPd3dMa0xSZmdBbEluZlVmRURfc1NxaWcwVTItUVM4VUtxbzc0RXN3dHI3WVBkaHVyaXY?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-04-23T05:11:00.632Z",
+      "pushedAt": "2026-04-23T05:11:00.632Z"
+    },
+    {
       "id": "04f61fb68e3b6e2c",
       "title": "Japan, South Korea stocks hit record highs as Iran ceasefire extension lifts sentiment",
       "url": "https://www.cnbc.com/2026/04/23/asia-markets-today-nikkei-kospi-hangseng-sensex-asx-iran-trump.html",
@@ -169,19 +181,7 @@
       ],
       "firstSeen": "2026-04-22T06:13:57.224Z",
       "pushedAt": "2026-04-22T06:13:57.224Z"
-    },
-    {
-      "id": "4ae25aff738e886b",
-      "title": "CNBC Daily Open: Trump looks to mitigate tariff, geopolitical blowback",
-      "url": "https://www.cnbc.com/2026/04/22/trump-tariffs-iran-ceasefire-us-futures-asia-markets.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-04-22T04:20:41.117Z",
-      "pushedAt": "2026-04-22T04:20:41.117Z"
     }
   ],
-  "updatedAt": "2026-04-23T02:10:23.091Z"
+  "updatedAt": "2026-04-23T05:11:00.977Z"
 }
