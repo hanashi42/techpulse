@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "6c7b8bb4caa01017",
+      "title": "EU formally approves Ukraine loan and 20th sanctions package against Russia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWVqNUVmbC1IdV9WckEyR1cwaTd3QklYX0UtRGI0ajdKNjc2Z3ducDN5bERMWElZay04U0NqcWotazFvZzVyTmVOZWZDa19MbWdENVIwelBOS0xnWW42b081QmpOcW05Y3U0Z2lTNWtWcFhxRlJkeFVILTRlM3ZUYkgtMUlKNXlNdDRHejBNczVTQm1jNWg3ZzlrWlZjTlU5c2pSQ3hwRmtJS2pYR3l0TUVJT2FnYmQ4MEhrMw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-04-23T14:22:37.165Z",
+      "pushedAt": "2026-04-23T14:22:37.165Z"
+    },
+    {
+      "id": "68770eed24b7212b",
+      "title": "Iran takes seized ships to port, countries check on seafarers' safety - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkJBdTd0eUFHcnUyMDJxcnptcDR1bVkyVnJTMS1rQ0dwQmF1WThReGdCV0V2Y2xjQlV1bGRRRFpxenZWeG1fRXBMb05GbndVVTVkZlBXaHdGRU1UWE1STkFoMVFubG94aWhHSENpQWRHM29zcDNVVFNCUDFYVkphUTZmV0tXY3pHTWZRbHRTUjRHN0lrRUpGd0xtZ3k1Sm9fNTFwWWFDRVMwcDdZTkdMT0RLMDE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "seize + port"
+      ],
+      "firstSeen": "2026-04-23T14:22:37.276Z",
+      "pushedAt": "2026-04-23T14:22:37.276Z"
+    },
+    {
+      "id": "182fed46f27a0110",
+      "title": "Iran War Live Updates: Trump Threatens Iranian Boats He Says Are Mining the Strait of Hormuz",
+      "url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-04-23T14:22:37.315Z",
+      "pushedAt": "2026-04-23T14:22:37.315Z"
+    },
+    {
       "id": "86d229b52d5fdc74",
       "title": "US drivers turn to EV rentals as gasoline prices surge - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzdsRXhsTzU0QzRxZFQxY1NaUEJVc3ZaRUpmbU5jNzdHQjE0cHhPcm0wNmNvZmJHQ1NmUDhjdTB3LUtUd3RYTTAtejJ4bnJpM1ZxWC1INVR0RzQ5SUxDM0QtMWt3bHRGQ2tQVU9GVlBWWmsxcXZQNHY2clExaTdoRENoT3Fib193UjRIWTAyX2U4dHdlcEZGYjVwa1d2RnU4V21uMDVvOUZWeE5ZM3dNNWJ0ajg?oc=5",
@@ -170,5 +206,5 @@
       "pushedAt": "2026-04-22T15:46:06.634Z"
     }
   ],
-  "updatedAt": "2026-04-23T12:42:41.877Z"
+  "updatedAt": "2026-04-23T14:22:37.336Z"
 }
