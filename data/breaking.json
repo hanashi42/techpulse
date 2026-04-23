@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "04f61fb68e3b6e2c",
+      "title": "Japan, South Korea stocks hit record highs as Iran ceasefire extension lifts sentiment",
+      "url": "https://www.cnbc.com/2026/04/23/asia-markets-today-nikkei-kospi-hangseng-sensex-asx-iran-trump.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "record high + stock"
+      ],
+      "firstSeen": "2026-04-23T02:10:22.986Z",
+      "pushedAt": "2026-04-23T02:10:22.986Z"
+    },
+    {
       "id": "e030c37beee6e420",
       "title": "China weathered Trump's tariffs - but the Iran war is taking a toll - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VOUo3cF80cll0SXNxZkZTN0x2b3hwcDhyaXR0eEhUNDdQV0VMTG1nTWcxQ3B1Wm1RbVhRUkVMMVJsdXgyUElzTXFhMlhfM3JzYjFlQ3pxQnd0QQ?oc=5",
@@ -169,19 +181,7 @@
       ],
       "firstSeen": "2026-04-22T04:20:41.117Z",
       "pushedAt": "2026-04-22T04:20:41.117Z"
-    },
-    {
-      "id": "7b6612fec7f99c8b",
-      "title": "US oil prices rise as US-Iran peace talks remain uncertain - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR09ZSmd3djlFaW5uX3VvR2hWbWIyeC1jYkZ6UHIzV3VOMmJ2VWdmM0hnd0R1cjNqcTg1OWNBN1BjNWhUck1oVmwwMW5MOW85bWFDOWU0UkFZR2JhN0Q5RE83N0ltRzR1ZEZqdXpxZWozT0FSUHVFYnV1aWRLYVVodVp1d1dIaWJIVVdxMVpOeXByZUtUb0ZYc01sczBjdndtZE0yMTlid0poek0?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-04-22T01:18:38.238Z",
-      "pushedAt": "2026-04-22T01:18:38.238Z"
     }
   ],
-  "updatedAt": "2026-04-22T22:23:57.005Z"
+  "updatedAt": "2026-04-23T02:10:23.091Z"
 }
