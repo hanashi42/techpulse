@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "86d229b52d5fdc74",
+      "title": "US drivers turn to EV rentals as gasoline prices surge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzdsRXhsTzU0QzRxZFQxY1NaUEJVc3ZaRUpmbU5jNzdHQjE0cHhPcm0wNmNvZmJHQ1NmUDhjdTB3LUtUd3RYTTAtejJ4bnJpM1ZxWC1INVR0RzQ5SUxDM0QtMWt3bHRGQ2tQVU9GVlBWWmsxcXZQNHY2clExaTdoRENoT3Fib193UjRIWTAyX2U4dHdlcEZGYjVwa1d2RnU4V21uMDVvOUZWeE5ZM3dNNWJ0ajg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-04-23T12:42:41.711Z",
+      "pushedAt": "2026-04-23T12:42:41.711Z"
+    },
+    {
       "id": "178f313acd3181e0",
       "title": "A Year After Terrorist Attack, a Kashmir Town Longs for Tourists",
       "url": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
@@ -156,19 +168,7 @@
       ],
       "firstSeen": "2026-04-22T15:46:06.634Z",
       "pushedAt": "2026-04-22T15:46:06.634Z"
-    },
-    {
-      "id": "a6c377025fdc448d",
-      "title": "EU envoys poised to adopt 20th package of Russia sanctions, diplomats say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeVNabXE1OV9WRnViWTdVM3duWUgxZzV6M0F2Vm5rRjYzYm4zWEZISnJUbUF5QzIzSTBDM3hTQ2RXanZsdHEwSkpSTHBBUWJFamZXdC1uQUt3VGFTOUwtNDZIWjdSRGc5NXRiVTYxb1AzTUE3Nno1aF8zYlNkai0wUWs0M1FfN0E1R3BFOGtoX0ZLT29DNHM3ZGdNZ1gxZUowUXJOb2xFeUxoRzMy?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-04-22T11:46:11.601Z",
-      "pushedAt": "2026-04-22T11:46:11.601Z"
     }
   ],
-  "updatedAt": "2026-04-23T11:34:51.334Z"
+  "updatedAt": "2026-04-23T12:42:41.877Z"
 }
