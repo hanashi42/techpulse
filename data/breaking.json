@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "178f313acd3181e0",
+      "title": "A Year After Terrorist Attack, a Kashmir Town Longs for Tourists",
+      "url": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terrorist attack"
+      ],
+      "firstSeen": "2026-04-23T11:34:51.192Z",
+      "pushedAt": "2026-04-23T11:34:51.192Z"
+    },
+    {
       "id": "2f4470e76be83e7e",
       "title": "Russian billionaires boost wealth by 11% over a year despite war and sanctions, Forbes says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWld3LVRBRVozQ0VUd2xrbTVYcGp2enlNQl9MSlN1czRTemNBOVJ0RFVuR2VTa3hQLWdhZWNMLWdxTGtFbTZlbEsta2h5Q3EyQmZYNjJ2ZmFWekkyeTcwRmVyVTJkbG5XRm1BQk5SbXhxZ2N5c1NHTnE0aXFCcXd1MEdtQkd6SUlGaWFrcHpOSFhoZHFfT0p6dm9ERElLejRPNC1yQlB2LUU1V3ZIZUxINWZ1LUhTTmZDM2Z6THFxUU0?oc=5",
@@ -158,5 +170,5 @@
       "pushedAt": "2026-04-22T11:46:11.601Z"
     }
   ],
-  "updatedAt": "2026-04-23T10:23:12.812Z"
+  "updatedAt": "2026-04-23T11:34:51.334Z"
 }
