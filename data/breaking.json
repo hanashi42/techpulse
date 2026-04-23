@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "b0631d32add5a609",
+      "title": "Software stocks plunge on ServiceNow, IBM results as AI fears escalate",
+      "url": "https://www.cnbc.com/2026/04/23/software-stocks-plunge-on-servicenow-ibm-results-ai-fears-escalate.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock"
+      ],
+      "firstSeen": "2026-04-23T17:44:26.307Z",
+      "pushedAt": "2026-04-23T17:44:26.307Z"
+    },
+    {
+      "id": "6ed5d51b104d651b",
+      "title": "Indonesia Will Not Impose Tariffs In Malacca Strait, Says Foreign Minister - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZjJ4OTlkOVZQeVRtejZmSnZ0RDVRbXZlaGRHb0c2UEo3clJ6T29PWTJfTVp5cHJYM1drb0psN2xxTm94dmtJaTdoV2Ffa18yS3FQc1J1S0FOZw?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + impose"
+      ],
+      "firstSeen": "2026-04-23T17:44:26.480Z",
+      "pushedAt": "2026-04-23T17:44:26.480Z"
+    },
+    {
       "id": "6c7b8bb4caa01017",
       "title": "EU formally approves Ukraine loan and 20th sanctions package against Russia - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWVqNUVmbC1IdV9WckEyR1cwaTd3QklYX0UtRGI0ajdKNjc2Z3ducDN5bERMWElZay04U0NqcWotazFvZzVyTmVOZWZDa19MbWdENVIwelBOS0xnWW42b081QmpOcW05Y3U0Z2lTNWtWcFhxRlJkeFVILTRlM3ZUYkgtMUlKNXlNdDRHejBNczVTQm1jNWg3ZzlrWlZjTlU5c2pSQ3hwRmtJS2pYR3l0TUVJT2FnYmQ4MEhrMw?oc=5",
@@ -179,32 +203,7 @@
       ],
       "firstSeen": "2026-04-22T18:43:34.152Z",
       "pushedAt": "2026-04-22T18:43:34.152Z"
-    },
-    {
-      "id": "3516ceb48b226c33",
-      "title": "Brent oil rises above $100 after Iran seizes container ships, U.S. maintains naval blockade",
-      "url": "https://www.cnbc.com/2026/04/22/oil-price-wti-brent-iran-ceasefire-extension-clouds-outlook.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval"
-      ],
-      "firstSeen": "2026-04-22T16:43:30.737Z",
-      "pushedAt": "2026-04-22T16:43:30.737Z"
-    },
-    {
-      "id": "26b38761d52d5044",
-      "title": "Fed rate cut pushed back to late 2026 on war-related inflation risks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWszZ19GeFVWZWFiNVNHV1RNcTFvRmtubmhJTjRwZnNrWkh1c0NxSTZIY1NILTVqVVVrb0NzMkN6VXAtN2VldjRGczI2MDFNTlFtQzlqa1dSZlNkNXpYZV9pbTJBbjhtNFZiS2tSci1wS3F6dlpCZV9ueTBEWjlIUjJGNF9FeENleldEdlI0LXB4MHRNSlB6bkNZQTJwb1p6b08yV3ZtUVNCWVczd1VqbXpzRjFoalU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate cut + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-04-22T15:46:06.634Z",
-      "pushedAt": "2026-04-22T15:46:06.634Z"
     }
   ],
-  "updatedAt": "2026-04-23T14:22:37.336Z"
+  "updatedAt": "2026-04-23T17:44:26.592Z"
 }
