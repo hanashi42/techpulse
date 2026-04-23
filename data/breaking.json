@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6cb0194925da7343",
+      "title": "Iran fast-boat swarms add to Hormuz threats for shipping - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUlMWGtuQjJnNndadUZGNlQwdlRWM2xyTUEtZUJoc202VzktYTR4QUpMWGVFNm5ZcTdnNHczcmNJNFNHdnNJQXJvQ3hYN0tLZ0ticDNhdWY0dmVINHFtNUg5NTkxUzJUdlhaeEZ3Z1o4azY0YWV1eTNrcV8tSWlOR2NDd09MOTRxUnQwYS1PTFRPODFYT0YycGxpcjZHVl9ieTQwSGNVRQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-04-23T20:40:54.959Z",
+      "pushedAt": "2026-04-23T20:40:54.959Z"
+    },
+    {
       "id": "b0631d32add5a609",
       "title": "Software stocks plunge on ServiceNow, IBM results as AI fears escalate",
       "url": "https://www.cnbc.com/2026/04/23/software-stocks-plunge-on-servicenow-ibm-results-ai-fears-escalate.html",
@@ -167,43 +179,7 @@
       ],
       "firstSeen": "2026-04-22T21:32:34.687Z",
       "pushedAt": "2026-04-22T21:32:34.687Z"
-    },
-    {
-      "id": "c8701bd2200342ff",
-      "title": "US breach of commitments, blockade of ports main obstacles to 'genuine negotiation', Iranian president says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWE5MNnkxT0JuN3hkTWRUbU41cEFKT0YwdUhIT3lLZXB5ZDVxUmdsb3NmWXEzcVY3NTJENVg0cm1Wclh4VGFQZk5OWmp2TnNkNFZrTHFwQzhaaEgydkVSOFlpWHdveVY3WWh4eFRVUXk3WWF3aDFpVEFCdU5qcmExNGZkQklkbndtc3NZWXROaEhFUHhWQmdoajVOcjRBVTVVd3E5UjJxc3ota3RVUWxfSXktRVA2VHRjcDZtckdVaWQydmNLZGpyLXQxejVIdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-04-22T20:38:56.914Z",
-      "pushedAt": "2026-04-22T20:38:56.914Z"
-    },
-    {
-      "id": "28403b463d3ab806",
-      "title": "At least four killed in Israeli attacks on Lebanon, journalists wounded",
-      "url": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-22T19:50:30.666Z",
-      "pushedAt": "2026-04-22T19:50:30.666Z"
-    },
-    {
-      "id": "6fec37fb075d299c",
-      "title": "Widow died in Ghana crash after losing up to £1m in romance frauds, inquest hears",
-      "url": "https://news.sky.com/story/widow-died-in-ghana-crash-after-losing-up-to-1631m-in-romance-frauds-inquest-hears-13535074",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crash + dow"
-      ],
-      "firstSeen": "2026-04-22T18:43:34.152Z",
-      "pushedAt": "2026-04-22T18:43:34.152Z"
     }
   ],
-  "updatedAt": "2026-04-23T17:44:26.592Z"
+  "updatedAt": "2026-04-23T20:40:55.228Z"
 }
