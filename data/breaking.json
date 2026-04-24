@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "21ca34d951d8f49d",
+      "title": "Americans blame Trump for gas price surge in midterm election year, Reuters/Ipsos poll finds - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1BNRldoRzQ1eFI5dkU3ZnVnNkx5WmpTQVNkNy00MDJOellyeTJfd3JkS08yNHhsdDFuYTVVSlh4Ni1KYW1HVXZvYWRFcXpZSEtiYzlQM3pGckZ4R1pEX3lHUEd4MXhIMXZXQ0U5ZG4zOHcxUVdSTEtOVTY2VlpXeHZ0QXplM1dacWlNSjA4WHZyTHdVd1VGVVVNSlB4c1lGa1JtWlZCUzNob2FaZFh5UllIRVJLZHlVVUFPbTNuSQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-04-24T12:02:47.276Z",
+      "pushedAt": "2026-04-24T12:02:47.276Z"
+    },
+    {
       "id": "d3fac2c7eceba6c8",
       "title": "Ukrainian married couple aged 75 killed in Russian attack on Odesa",
       "url": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship?traffic_source=rss",
@@ -155,55 +167,7 @@
       ],
       "firstSeen": "2026-04-23T12:42:41.711Z",
       "pushedAt": "2026-04-23T12:42:41.711Z"
-    },
-    {
-      "id": "178f313acd3181e0",
-      "title": "A Year After Terrorist Attack, a Kashmir Town Longs for Tourists",
-      "url": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "terrorist attack"
-      ],
-      "firstSeen": "2026-04-23T11:34:51.192Z",
-      "pushedAt": "2026-04-23T11:34:51.192Z"
-    },
-    {
-      "id": "2f4470e76be83e7e",
-      "title": "Russian billionaires boost wealth by 11% over a year despite war and sanctions, Forbes says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWld3LVRBRVozQ0VUd2xrbTVYcGp2enlNQl9MSlN1czRTemNBOVJ0RFVuR2VTa3hQLWdhZWNMLWdxTGtFbTZlbEsta2h5Q3EyQmZYNjJ2ZmFWekkyeTcwRmVyVTJkbG5XRm1BQk5SbXhxZ2N5c1NHTnE0aXFCcXd1MEdtQkd6SUlGaWFrcHpOSFhoZHFfT0p6dm9ERElLejRPNC1yQlB2LUU1V3ZIZUxINWZ1LUhTTmZDM2Z6THFxUU0?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-04-23T10:23:12.391Z",
-      "pushedAt": "2026-04-23T10:23:12.391Z"
-    },
-    {
-      "id": "a4c772d218fd40d4",
-      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
-      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + price"
-      ],
-      "firstSeen": "2026-04-23T10:23:12.622Z",
-      "pushedAt": "2026-04-23T10:23:12.622Z"
-    },
-    {
-      "id": "1de09558c612bed0",
-      "title": "Gold falls on oil-driven inflation fears; US-Iran developments in focus - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUhzZnR5V2FWcF8tblZRUTZPSktlVDB1RmwtTElEWGdiMHg5VnE2QVJiSUdFb1lLLXk4TV9iVGNsbmppcjBYZzIyVWRXTlB2aGNkdTVwN2RSRFl3NS1pWVVyVk9SdzlXVFRGaGRXWWtmUnBIb0tiRWg4ZTFNWG5EWHYtN184cTgza1BfdU9pS3MwWGRCRmtsLWJ3aTczWndpRURQeXdrZUFsWUVhcGc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + fall"
-      ],
-      "firstSeen": "2026-04-23T09:00:50.824Z",
-      "pushedAt": "2026-04-23T09:00:50.824Z"
     }
   ],
-  "updatedAt": "2026-04-24T08:26:22.830Z"
+  "updatedAt": "2026-04-24T12:02:47.361Z"
 }
