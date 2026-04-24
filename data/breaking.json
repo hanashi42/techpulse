@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8524097ca60d5cb1",
+      "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Y2QlpOSmdJS3I4ZVJ3VC1zc0NYMkpKU2RLUEZ2anVqS0l4WFNqXzQzdmhMVV9wZ1JjRDM4S3VULUxabjRqa1k4YjFFaUd5Q1lTbEx5am1adTR0YjZGdGhBUmUxLVdyUGxjMXp4UmJFQUYzNWtCdGdpc29DRzZQT1pIX2t2bVNfcG50aW9RbWhxb0NSSXk2dDB3V09fd04xLWRV?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-04-24T19:40:21.261Z",
+      "pushedAt": "2026-04-24T19:40:21.261Z"
+    },
+    {
       "id": "fbcfc2e647225255",
       "title": "US consumer sentiment slumps to record low in April; inflation expectations rise - Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaVRoN1VGQ2Y5SDlHTUUxTnBtR3VVY0loMlJZQVh5ck15N2x5LWxVNkstWkw5eGNFTjJlOGZmUDZaSnAzb1dxanZDWW9XVDdTWnhiczNzTjBqNFhCbm13OGl5M2JYYl9md1Z4VUhjbXVsNnBoUTNQb0R0dVNqYkcwazJaNVBXMi1DU08ycy1qSkt3RlQ4a1lYR2RYczBOdw?oc=5",
@@ -145,5 +157,5 @@
       "pushedAt": "2026-04-23T20:40:54.959Z"
     }
   ],
-  "updatedAt": "2026-04-24T17:58:35.920Z"
+  "updatedAt": "2026-04-24T19:40:21.546Z"
 }
