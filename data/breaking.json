@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "49a4b406a82b41e5",
+      "title": "Justice Department readopts firing squads in US federal executions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUtsTTlTM2ZPTEVMOGNSZ1hUVVNmUmd4d1RrOUR4SzhDSFpaaVk2WFFXQXRySDN3enBJaDc0eUNJUllidGNQM2FTR19sRDBpbjBjZ2o3VWFxdEhEcWE0VFFJNGJVVnNpejI0aUtWVnhKWUFmR3NiMkpsa1RIZFBRek1XeFQxUEk2NmVNS2VEdXotR3hPYmhmbTdwOHFzaDNCSHpNRjIwRFpnblla?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + cut"
+      ],
+      "firstSeen": "2026-04-24T16:10:34.217Z",
+      "pushedAt": "2026-04-24T16:10:34.217Z"
+    },
+    {
+      "id": "e388ecdf80bb907d",
+      "title": "Russia says new EU sanctions will hurt developing countries - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT3B0ZTEtSE1tLXY1ZDNaMkZ4RnJfZFVVMUpSbjZRMVA0S191ZFpYY21fQ0xBRUYwUnJUVmN6N3prZ29rS2NXU1huNDdOMXNPQ1BIbHJZSE5qVzVmNHQyX2dCM0tCQzFEYkNQQlFrVjdkWmhyT0tkN2J6d25sZWxYUGZpbEpCVW5FOHFMMGZ0X3RFbnYtRFR2dTNxNVgta0hueHUyczRkM2tBZXJKeUJSNHNxNG4zMFRfb2hmdUlCbVZzZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-04-24T16:10:34.488Z",
+      "pushedAt": "2026-04-24T16:10:34.488Z"
+    },
+    {
       "id": "2f834a249a9edd05",
       "title": "US chipmakers hit record highs as Intel turbocharges AI rally - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1ZvUTlfazZUeXAwZ3IwOHdrU2xlM2NxTVNUR0RKWWFVckZJRlk0dWxxWFg0YnNZNU5xQURHenZ0bHYwM1J2TFRTTk1ZVzZUbVpJdzVuaG5KNk15bENkZTZPY0htR1VGVGdGdzRQUGM2bVVIVnRsTGxhd3hra1J6NlN1QlVCM3o5eWlTdERLc2U1d0lETGtYMF9wMTIxRVdvUzNXUU53?oc=5",
@@ -133,5 +157,5 @@
       "pushedAt": "2026-04-23T17:44:26.480Z"
     }
   ],
-  "updatedAt": "2026-04-24T15:07:48.794Z"
+  "updatedAt": "2026-04-24T16:10:34.751Z"
 }
