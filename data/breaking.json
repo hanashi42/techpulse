@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "168fd60b2f1f3fac",
+      "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
+      "url": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "record high + stock"
+      ],
+      "firstSeen": "2026-04-24T06:23:12.281Z",
+      "pushedAt": "2026-04-24T06:23:12.281Z"
+    },
+    {
       "id": "456391602c0843ec",
       "title": "27 Journalists Killed In Israeli Attacks In Lebanon, Press Union Says - Bernama",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZYTJPTk5hOFRvSUJNM05iRnJWbXpiZjI3bXVjbEdKVlBOdzVHRFhjWEFwWUsxWV9WWlY4cngyT1FoS3N1bkFDQkJFQ1ZqZ1REc2RMUDhJenVfcTljOGV6V1QwVlBXeEVzdWJOd0VR?oc=5",
@@ -179,31 +191,7 @@
       ],
       "firstSeen": "2026-04-23T09:00:50.824Z",
       "pushedAt": "2026-04-23T09:00:50.824Z"
-    },
-    {
-      "id": "2147bd2c4bce4ea3",
-      "title": "Sellers in China trade hub seek tariff reprieve from Trump visit - The Mountaineer",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYjIxMkw1ak9PSktROTlzYWNfaG04S1JPa2p6bmYyWjgzbkNTeXNiTFBLWktSa1FGRXZGWVRZcHcwU0tLbzJQWjJuWUEzVjRndlFvMWliTWdPU0E1T29OcGc4Z193SmVOYU80MGRTdHhwX25uMEFGZjFPUjRZSk0zRGl6ZWtteUk0am1tNnRrdzdkalhXb1hfeVgteTR1QTBJdjh6X1c3SDFiNUQzM2FTTnZPTWx1bU9qLWliZkdPd3dMa0xSZmdBbEluZlVmRURfc1NxaWcwVTItUVM4VUtxbzc0RXN3dHI3WVBkaHVyaXY?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-23T05:11:00.632Z",
-      "pushedAt": "2026-04-23T05:11:00.632Z"
-    },
-    {
-      "id": "04f61fb68e3b6e2c",
-      "title": "Japan, South Korea stocks hit record highs as Iran ceasefire extension lifts sentiment",
-      "url": "https://www.cnbc.com/2026/04/23/asia-markets-today-nikkei-kospi-hangseng-sensex-asx-iran-trump.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "record high + stock"
-      ],
-      "firstSeen": "2026-04-23T02:10:22.986Z",
-      "pushedAt": "2026-04-23T02:10:22.986Z"
     }
   ],
-  "updatedAt": "2026-04-24T01:14:28.650Z"
+  "updatedAt": "2026-04-24T06:23:12.391Z"
 }
