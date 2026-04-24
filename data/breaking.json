@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d3fac2c7eceba6c8",
+      "title": "Ukrainian married couple aged 75 killed in Russian attack on Odesa",
+      "url": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-24T08:26:22.651Z",
+      "pushedAt": "2026-04-24T08:26:22.651Z"
+    },
+    {
       "id": "168fd60b2f1f3fac",
       "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
       "url": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
@@ -193,5 +205,5 @@
       "pushedAt": "2026-04-23T09:00:50.824Z"
     }
   ],
-  "updatedAt": "2026-04-24T06:23:12.391Z"
+  "updatedAt": "2026-04-24T08:26:22.830Z"
 }
