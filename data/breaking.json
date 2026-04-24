@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fbcfc2e647225255",
+      "title": "US consumer sentiment slumps to record low in April; inflation expectations rise - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaVRoN1VGQ2Y5SDlHTUUxTnBtR3VVY0loMlJZQVh5ck15N2x5LWxVNkstWkw5eGNFTjJlOGZmUDZaSnAzb1dxanZDWW9XVDdTWnhiczNzTjBqNFhCbm13OGl5M2JYYl9md1Z4VUhjbXVsNnBoUTNQb0R0dVNqYkcwazJaNVBXMi1DU08ycy1qSkt3RlQ4a1lYR2RYczBOdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + record"
+      ],
+      "firstSeen": "2026-04-24T17:58:35.791Z",
+      "pushedAt": "2026-04-24T17:58:35.791Z"
+    },
+    {
       "id": "49a4b406a82b41e5",
       "title": "Justice Department readopts firing squads in US federal executions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUtsTTlTM2ZPTEVMOGNSZ1hUVVNmUmd4d1RrOUR4SzhDSFpaaVk2WFFXQXRySDN3enBJaDc0eUNJUllidGNQM2FTR19sRDBpbjBjZ2o3VWFxdEhEcWE0VFFJNGJVVnNpejI0aUtWVnhKWUFmR3NiMkpsa1RIZFBRek1XeFQxUEk2NmVNS2VEdXotR3hPYmhmbTdwOHFzaDNCSHpNRjIwRFpnblla?oc=5",
@@ -131,31 +143,7 @@
       ],
       "firstSeen": "2026-04-23T20:40:54.959Z",
       "pushedAt": "2026-04-23T20:40:54.959Z"
-    },
-    {
-      "id": "b0631d32add5a609",
-      "title": "Software stocks plunge on ServiceNow, IBM results as AI fears escalate",
-      "url": "https://www.cnbc.com/2026/04/23/software-stocks-plunge-on-servicenow-ibm-results-ai-fears-escalate.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock"
-      ],
-      "firstSeen": "2026-04-23T17:44:26.307Z",
-      "pushedAt": "2026-04-23T17:44:26.307Z"
-    },
-    {
-      "id": "6ed5d51b104d651b",
-      "title": "Indonesia Will Not Impose Tariffs In Malacca Strait, Says Foreign Minister - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZjJ4OTlkOVZQeVRtejZmSnZ0RDVRbXZlaGRHb0c2UEo3clJ6T29PWTJfTVp5cHJYM1drb0psN2xxTm94dmtJaTdoV2Ffa18yS3FQc1J1S0FOZw?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + impose"
-      ],
-      "firstSeen": "2026-04-23T17:44:26.480Z",
-      "pushedAt": "2026-04-23T17:44:26.480Z"
     }
   ],
-  "updatedAt": "2026-04-24T16:10:34.751Z"
+  "updatedAt": "2026-04-24T17:58:35.920Z"
 }
