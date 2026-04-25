@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6b2b1e75ad584ec1",
+      "title": "Israel says it will attack Hezbollah 'forcefully' as four killed in strikes on southern Lebanon - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHFYOUgyaGRzV0Z3eWVYQkNoR3Zfd1NxdjJyR000bDhDYk12dUs4RnNRSThKbHF0d2I4STM2NXNyNU5SRTZncGNlcmxDblZrOVV5WUt1VmIxZG5TdTV2YUR2N3RvZ2pYeWxIUW5rUndJd1EzTXJvRE54bHMxNTVkanUwZWFZdHRqanhhalVpZ1NWRi03UDhCLVRseHlQRF9rTVExa2lfN2U4d3MwVEEtMi1HMm4?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-25T23:36:48.689Z",
+      "pushedAt": "2026-04-25T23:36:48.689Z"
+    },
+    {
       "id": "bd3edba8d73bc863",
       "title": "Macron reaffirms efforts to reopen Strait of Hormuz, as TotalEnergies warns of energy shortages - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSEZXMGhsMm9keUhncFl2bTh2R3dxLTBaZjF5b3dTbVhzcDdHRDVTclJVUHJrbGRpYWZObnljUmM4SWcwcjhMUy0tNVVMM2h3enpqRUhtVU03Y0MzV3FaU1BSVTNPLUpQYk9ZQkg3T3hRSlFHdlRjNVE2QXc2c3VVU25VNEZ5Rks4T1lZSGNfLThrWWRDekRhQTBMTktDSkY5aGE0TGtDREVGV2Z6TUNUcUItc05MTFBLM096aFI5Ym52UQ?oc=5",
@@ -47,55 +59,7 @@
       ],
       "firstSeen": "2026-04-25T08:35:13.368Z",
       "pushedAt": "2026-04-25T08:35:13.368Z"
-    },
-    {
-      "id": "8524097ca60d5cb1",
-      "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Y2QlpOSmdJS3I4ZVJ3VC1zc0NYMkpKU2RLUEZ2anVqS0l4WFNqXzQzdmhMVV9wZ1JjRDM4S3VULUxabjRqa1k4YjFFaUd5Q1lTbEx5am1adTR0YjZGdGhBUmUxLVdyUGxjMXp4UmJFQUYzNWtCdGdpc29DRzZQT1pIX2t2bVNfcG50aW9RbWhxb0NSSXk2dDB3V09fd04xLWRV?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-04-24T19:40:21.261Z",
-      "pushedAt": "2026-04-24T19:40:21.261Z"
-    },
-    {
-      "id": "fbcfc2e647225255",
-      "title": "US consumer sentiment slumps to record low in April; inflation expectations rise - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaVRoN1VGQ2Y5SDlHTUUxTnBtR3VVY0loMlJZQVh5ck15N2x5LWxVNkstWkw5eGNFTjJlOGZmUDZaSnAzb1dxanZDWW9XVDdTWnhiczNzTjBqNFhCbm13OGl5M2JYYl9md1Z4VUhjbXVsNnBoUTNQb0R0dVNqYkcwazJaNVBXMi1DU08ycy1qSkt3RlQ4a1lYR2RYczBOdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + record"
-      ],
-      "firstSeen": "2026-04-24T17:58:35.791Z",
-      "pushedAt": "2026-04-24T17:58:35.791Z"
-    },
-    {
-      "id": "49a4b406a82b41e5",
-      "title": "Justice Department readopts firing squads in US federal executions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUtsTTlTM2ZPTEVMOGNSZ1hUVVNmUmd4d1RrOUR4SzhDSFpaaVk2WFFXQXRySDN3enBJaDc0eUNJUllidGNQM2FTR19sRDBpbjBjZ2o3VWFxdEhEcWE0VFFJNGJVVnNpejI0aUtWVnhKWUFmR3NiMkpsa1RIZFBRek1XeFQxUEk2NmVNS2VEdXotR3hPYmhmbTdwOHFzaDNCSHpNRjIwRFpnblla?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + cut"
-      ],
-      "firstSeen": "2026-04-24T16:10:34.217Z",
-      "pushedAt": "2026-04-24T16:10:34.217Z"
-    },
-    {
-      "id": "e388ecdf80bb907d",
-      "title": "Russia says new EU sanctions will hurt developing countries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT3B0ZTEtSE1tLXY1ZDNaMkZ4RnJfZFVVMUpSbjZRMVA0S191ZFpYY21fQ0xBRUYwUnJUVmN6N3prZ29rS2NXU1huNDdOMXNPQ1BIbHJZSE5qVzVmNHQyX2dCM0tCQzFEYkNQQlFrVjdkWmhyT0tkN2J6d25sZWxYUGZpbEpCVW5FOHFMMGZ0X3RFbnYtRFR2dTNxNVgta0hueHUyczRkM2tBZXJKeUJSNHNxNG4zMFRfb2hmdUlCbVZzZw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-04-24T16:10:34.488Z",
-      "pushedAt": "2026-04-24T16:10:34.488Z"
     }
   ],
-  "updatedAt": "2026-04-25T15:52:56.206Z"
+  "updatedAt": "2026-04-25T23:36:49.044Z"
 }
