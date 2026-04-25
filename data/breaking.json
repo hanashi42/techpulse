@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3f6eb4abd9ba423c",
+      "title": "Seven killed in Ukraine after major Russia drone attack, as RAF deploys Typhoon jets",
+      "url": "https://news.sky.com/story/seven-killed-in-ukraine-after-major-russia-drone-attack-as-raf-deploys-typhoon-jets-over-romania-13536173",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-25T10:11:53.717Z",
+      "pushedAt": "2026-04-25T10:11:53.717Z"
+    },
+    {
       "id": "ee219ea017b6459f",
       "title": "US Sanctions China Refinery, Iran Shadow Fleet Ahead of Talks - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3pnNG8wZDRxcWZqUmtFNEd4bUttc1lYdzVKY05wUmxuYks1LThvY3g3aVp4VVQ2dlRUZmt3bTRpcHFnZ29pR216a1Z0bF9ReXNWOXdDUjJraElMRkppX2dfNEU2czdaOXlxS3hhU0p6aG1pTkoxUVZaNDNWOTVEMS10czh4dkFBNTI5ckExWDJmVEpzYUhHT3RMTnNDdGo5QU9Sd0FTR2ZEb3BlS3E3aQ?oc=5",
@@ -85,5 +97,5 @@
       "pushedAt": "2026-04-24T12:02:47.276Z"
     }
   ],
-  "updatedAt": "2026-04-25T08:35:13.624Z"
+  "updatedAt": "2026-04-25T10:11:53.959Z"
 }
