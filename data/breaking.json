@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ee219ea017b6459f",
+      "title": "US Sanctions China Refinery, Iran Shadow Fleet Ahead of Talks - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3pnNG8wZDRxcWZqUmtFNEd4bUttc1lYdzVKY05wUmxuYks1LThvY3g3aVp4VVQ2dlRUZmt3bTRpcHFnZ29pR216a1Z0bF9ReXNWOXdDUjJraElMRkppX2dfNEU2czdaOXlxS3hhU0p6aG1pTkoxUVZaNDNWOTVEMS10czh4dkFBNTI5ckExWDJmVEpzYUhHT3RMTnNDdGo5QU9Sd0FTR2ZEb3BlS3E3aQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-04-25T08:35:13.368Z",
+      "pushedAt": "2026-04-25T08:35:13.368Z"
+    },
+    {
       "id": "8524097ca60d5cb1",
       "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Y2QlpOSmdJS3I4ZVJ3VC1zc0NYMkpKU2RLUEZ2anVqS0l4WFNqXzQzdmhMVV9wZ1JjRDM4S3VULUxabjRqa1k4YjFFaUd5Q1lTbEx5am1adTR0YjZGdGhBUmUxLVdyUGxjMXp4UmJFQUYzNWtCdGdpc29DRzZQT1pIX2t2bVNfcG50aW9RbWhxb0NSSXk2dDB3V09fd04xLWRV?oc=5",
@@ -71,91 +83,7 @@
       ],
       "firstSeen": "2026-04-24T12:02:47.276Z",
       "pushedAt": "2026-04-24T12:02:47.276Z"
-    },
-    {
-      "id": "d3fac2c7eceba6c8",
-      "title": "Ukrainian married couple aged 75 killed in Russian attack on Odesa",
-      "url": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-24T08:26:22.651Z",
-      "pushedAt": "2026-04-24T08:26:22.651Z"
-    },
-    {
-      "id": "168fd60b2f1f3fac",
-      "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
-      "url": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "record high + stock"
-      ],
-      "firstSeen": "2026-04-24T06:23:12.281Z",
-      "pushedAt": "2026-04-24T06:23:12.281Z"
-    },
-    {
-      "id": "456391602c0843ec",
-      "title": "27 Journalists Killed In Israeli Attacks In Lebanon, Press Union Says - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZYTJPTk5hOFRvSUJNM05iRnJWbXpiZjI3bXVjbEdKVlBOdzVHRFhjWEFwWUsxWV9WWlY4cngyT1FoS3N1bkFDQkJFQ1ZqZ1REc2RMUDhJenVfcTljOGV6V1QwVlBXeEVzdWJOd0VR?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-24T01:14:28.427Z",
-      "pushedAt": "2026-04-24T01:14:28.427Z"
-    },
-    {
-      "id": "f1e25b0976d0cc35",
-      "title": "Japan core inflation accelerates after five months as Iran war pushes energy prices higher",
-      "url": "https://www.cnbc.com/2026/04/24/japan-cpi-march-inflation-iran-war-boj-rate.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + accelerat"
-      ],
-      "firstSeen": "2026-04-23T23:51:56.464Z",
-      "pushedAt": "2026-04-23T23:51:56.464Z"
-    },
-    {
-      "id": "553127c3cce939f8",
-      "title": "Meta lines up layoffs while Microsoft offers buyouts",
-      "url": "https://www.aljazeera.com/economy/2026/4/23/meta-lines-up-layoffs-while-microsoft-offers-buyouts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-04-23T23:00:56.767Z",
-      "pushedAt": "2026-04-23T23:00:56.767Z"
-    },
-    {
-      "id": "6fec37fb075d299c",
-      "title": "Widow died in Ghana crash after losing up to £1m in romance frauds, inquest hears",
-      "url": "https://news.sky.com/story/widow-died-in-ghana-crash-after-losing-up-to-1631m-in-romance-frauds-inquest-hears-13535074",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crash + dow"
-      ],
-      "firstSeen": "2026-04-23T21:27:39.120Z",
-      "pushedAt": "2026-04-23T21:27:39.120Z"
-    },
-    {
-      "id": "6cb0194925da7343",
-      "title": "Iran fast-boat swarms add to Hormuz threats for shipping - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUlMWGtuQjJnNndadUZGNlQwdlRWM2xyTUEtZUJoc202VzktYTR4QUpMWGVFNm5ZcTdnNHczcmNJNFNHdnNJQXJvQ3hYN0tLZ0ticDNhdWY0dmVINHFtNUg5NTkxUzJUdlhaeEZ3Z1o4azY0YWV1eTNrcV8tSWlOR2NDd09MOTRxUnQwYS1PTFRPODFYT0YycGxpcjZHVl9ieTQwSGNVRQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-04-23T20:40:54.959Z",
-      "pushedAt": "2026-04-23T20:40:54.959Z"
     }
   ],
-  "updatedAt": "2026-04-24T19:40:21.546Z"
+  "updatedAt": "2026-04-25T08:35:13.624Z"
 }
