@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3b473de0924d05e1",
+      "title": "Police in Northern Ireland declare security alert after reports of a car bomb explosion - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlRoa2xDTVRWMnZkQVZBdk9sV1BRSXZYNWFkYUpiOWVuYnVfWTlGel96QlE4OEltUVJQdWpRQmtJVk9uSUZUZE1fYU1rSUlZd2tXQ3FpRkpsM25FWlIwbmV1azQtNmFnT3BwNGo5eEpXX2lNNVkzRGNKN0dLNUNoanJaQzJRVVZYdE1xam9IWjhmVHJfbjhKeTY4RVA?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + bomb"
+      ],
+      "firstSeen": "2026-04-26T11:52:23.459Z",
+      "pushedAt": "2026-04-26T11:52:23.459Z"
+    },
+    {
       "id": "e603150a11477fb3",
       "title": "DeepSeek delays V4 model release, shifts to Chinese chips amid US restrictions - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1EybVBrV1h3Z05pWFBRUzVWQVBjXzZrQk5DWjNjTmtjbUVEMTlHbmp5akZJR0xpbWFrb3cwU0E3ZlhTemtuVGpTMUR2QU9DNVB1WXVRWWNYT0tsZVRoVjAwVnA0QXJxbS1vc05vOXFxcEg3N1ZFX0dXUWdGRGFnUm9oNUpxS2ltaVdjdG9ZMWRFNUEzbU5LLUwweXl2WnlkNlBQMzJUbTA?oc=5",
@@ -83,31 +95,7 @@
       ],
       "firstSeen": "2026-04-25T13:43:40.416Z",
       "pushedAt": "2026-04-25T13:43:40.416Z"
-    },
-    {
-      "id": "3f6eb4abd9ba423c",
-      "title": "Seven killed in Ukraine after major Russia drone attack, as RAF deploys Typhoon jets",
-      "url": "https://news.sky.com/story/seven-killed-in-ukraine-after-major-russia-drone-attack-as-raf-deploys-typhoon-jets-over-romania-13536173",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-25T10:11:53.717Z",
-      "pushedAt": "2026-04-25T10:11:53.717Z"
-    },
-    {
-      "id": "ee219ea017b6459f",
-      "title": "US Sanctions China Refinery, Iran Shadow Fleet Ahead of Talks - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3pnNG8wZDRxcWZqUmtFNEd4bUttc1lYdzVKY05wUmxuYks1LThvY3g3aVp4VVQ2dlRUZmt3bTRpcHFnZ29pR216a1Z0bF9ReXNWOXdDUjJraElMRkppX2dfNEU2czdaOXlxS3hhU0p6aG1pTkoxUVZaNDNWOTVEMS10czh4dkFBNTI5ckExWDJmVEpzYUhHT3RMTnNDdGo5QU9Sd0FTR2ZEb3BlS3E3aQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-04-25T08:35:13.368Z",
-      "pushedAt": "2026-04-25T08:35:13.368Z"
     }
   ],
-  "updatedAt": "2026-04-26T07:27:09.976Z"
+  "updatedAt": "2026-04-26T11:52:23.645Z"
 }
