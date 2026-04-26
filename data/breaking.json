@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e603150a11477fb3",
+      "title": "DeepSeek delays V4 model release, shifts to Chinese chips amid US restrictions - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1EybVBrV1h3Z05pWFBRUzVWQVBjXzZrQk5DWjNjTmtjbUVEMTlHbmp5akZJR0xpbWFrb3cwU0E3ZlhTemtuVGpTMUR2QU9DNVB1WXVRWWNYT0tsZVRoVjAwVnA0QXJxbS1vc05vOXFxcEg3N1ZFX0dXUWdGRGFnUm9oNUpxS2ltaVdjdG9ZMWRFNUEzbU5LLUwweXl2WnlkNlBQMzJUbTA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + chip"
+      ],
+      "firstSeen": "2026-04-26T07:27:09.569Z",
+      "pushedAt": "2026-04-26T07:27:09.569Z"
+    },
+    {
       "id": "ff75f47fbe8beb6c",
       "title": "U.S. imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil - CNBC",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82N3VXSVhmM1AyQW83ck90WDE3MUVXSGljX2ZEUUVJQ1g4V3hhYnZJWVpPbUdKd2F1SHFhQUZYekFHaXBSdnY5WEs1bmtMdHFWXy15bjdKVXJ4V3U0QlBuUWdYZ0p4azR4ampGWE9sd3I4QdIBd0FVX3lxTE9kWnpIRzU5MWo1cVFvV2pMUy02YzlDTmM5M0N2Tkp5UUFnellKLTdOSXJxMjJDT2JJTkVqQ1MxbGUwdDRiZHBER0hHRnlOUEVaMTk4UVFNY20wcWRKVzFRZWlhSUQ4M1hxZmg0V0IySDdxekpZdWE0?oc=5",
@@ -97,5 +109,5 @@
       "pushedAt": "2026-04-25T08:35:13.368Z"
     }
   ],
-  "updatedAt": "2026-04-26T03:52:07.832Z"
+  "updatedAt": "2026-04-26T07:27:09.976Z"
 }
