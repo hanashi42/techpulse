@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ff75f47fbe8beb6c",
+      "title": "U.S. imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82N3VXSVhmM1AyQW83ck90WDE3MUVXSGljX2ZEUUVJQ1g4V3hhYnZJWVpPbUdKd2F1SHFhQUZYekFHaXBSdnY5WEs1bmtMdHFWXy15bjdKVXJ4V3U0QlBuUWdYZ0p4azR4ampGWE9sd3I4QdIBd0FVX3lxTE9kWnpIRzU5MWo1cVFvV2pMUy02YzlDTmM5M0N2Tkp5UUFnellKLTdOSXJxMjJDT2JJTkVqQ1MxbGUwdDRiZHBER0hHRnlOUEVaMTk4UVFNY20wcWRKVzFRZWlhSUQ4M1hxZmg0V0IySDdxekpZdWE0?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-04-26T03:52:07.590Z",
+      "pushedAt": "2026-04-26T03:52:07.590Z"
+    },
+    {
       "id": "47ee50637949d2d9",
       "title": "China condemns EU's inclusion of Chinese entities in sanctions package against Russia - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw4TzhDc2pscGczTnNLUy1TNHFha3B2a3YzREhINlJlN2pzTkJDMlliZVVydEoyU2VLd0tyOFBfWEVFNUMyTUh4YWxRbWV4NlZKZVl0UktNNjVIMENONzJwRXB6aWhDWndMUzVITlVCaFo5SXhZOXcxUDJWN1NBUEM2NDFxOVhkVGxsdVFOcjVaUWg0dkFDeG5XTjdLY05NZF9GcFJua1duT1BTNl9tQ011Y3BWZkpkZDFaVjBEaXEwRXNR?oc=5",
@@ -85,5 +97,5 @@
       "pushedAt": "2026-04-25T08:35:13.368Z"
     }
   ],
-  "updatedAt": "2026-04-26T00:06:58.344Z"
+  "updatedAt": "2026-04-26T03:52:07.832Z"
 }
