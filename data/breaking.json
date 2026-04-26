@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "47ee50637949d2d9",
+      "title": "China condemns EU's inclusion of Chinese entities in sanctions package against Russia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRGw4TzhDc2pscGczTnNLUy1TNHFha3B2a3YzREhINlJlN2pzTkJDMlliZVVydEoyU2VLd0tyOFBfWEVFNUMyTUh4YWxRbWV4NlZKZVl0UktNNjVIMENONzJwRXB6aWhDWndMUzVITlVCaFo5SXhZOXcxUDJWN1NBUEM2NDFxOVhkVGxsdVFOcjVaUWg0dkFDeG5XTjdLY05NZF9GcFJua1duT1BTNl9tQ011Y3BWZkpkZDFaVjBEaXEwRXNR?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-04-26T00:06:58.228Z",
+      "pushedAt": "2026-04-26T00:06:58.228Z"
+    },
+    {
+      "id": "b2c624d8b53b51a5",
+      "title": "US to allow firing squads, gas and electrocution for federal executions",
+      "url": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + cut"
+      ],
+      "firstSeen": "2026-04-26T00:06:58.301Z",
+      "pushedAt": "2026-04-26T00:06:58.301Z"
+    },
+    {
       "id": "6b2b1e75ad584ec1",
       "title": "Israel says it will attack Hezbollah 'forcefully' as four killed in strikes on southern Lebanon - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHFYOUgyaGRzV0Z3eWVYQkNoR3Zfd1NxdjJyR000bDhDYk12dUs4RnNRSThKbHF0d2I4STM2NXNyNU5SRTZncGNlcmxDblZrOVV5WUt1VmIxZG5TdTV2YUR2N3RvZ2pYeWxIUW5rUndJd1EzTXJvRE54bHMxNTVkanUwZWFZdHRqanhhalVpZ1NWRi03UDhCLVRseHlQRF9rTVExa2lfN2U4d3MwVEEtMi1HMm4?oc=5",
@@ -61,5 +85,5 @@
       "pushedAt": "2026-04-25T08:35:13.368Z"
     }
   ],
-  "updatedAt": "2026-04-25T23:36:49.044Z"
+  "updatedAt": "2026-04-26T00:06:58.344Z"
 }
