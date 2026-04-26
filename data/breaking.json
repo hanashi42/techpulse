@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "977a96dd112b5494",
+      "title": "Mali defence minister killed after coordinated attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/mali-defence-minister-killed-after-coordinated-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-26T14:32:01.352Z",
+      "pushedAt": "2026-04-26T14:32:01.352Z"
+    },
+    {
       "id": "3f6eb4abd9ba423c",
       "title": "Ten killed in Ukraine after major Russia drone attack, as RAF deploys Typhoon jets",
       "url": "https://news.sky.com/story/seven-killed-in-ukraine-after-major-russia-drone-attack-as-raf-deploys-typhoon-jets-over-romania-13536173",
@@ -107,19 +119,7 @@
       ],
       "firstSeen": "2026-04-25T15:52:55.926Z",
       "pushedAt": "2026-04-25T15:52:55.926Z"
-    },
-    {
-      "id": "86630a64e34b4b73",
-      "title": "Mali insurgents hit military bases in 'complex attacks', airport shut - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGU1Z0dYUzREbUVfZ3RBV0JxblphYW1zQ01wdGhmN3pubXd3RnAtZkI1d0o4RXdXeU41WlNzLWFESmxUeHZ2SW1SOFByMEZHU2FCU2tSaWtpXzhvNzI2T2ZicUlHWEJ6a2tlMUluU0FYNzE4LXlZVkdNWktvV0ZjVGtsRS05dDB3bTN0bTdkMnBqS0pFSDZsWWxIMjdmaE9yNkh6cFZKd1d4ek5KYjZNdmx1OXVvUmZfclM4ZHpaYXpqQWc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-04-25T13:43:40.416Z",
-      "pushedAt": "2026-04-25T13:43:40.416Z"
     }
   ],
-  "updatedAt": "2026-04-26T12:33:29.607Z"
+  "updatedAt": "2026-04-26T14:32:01.473Z"
 }
