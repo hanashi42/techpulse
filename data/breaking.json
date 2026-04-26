@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3f6eb4abd9ba423c",
+      "title": "Ten killed in Ukraine after major Russia drone attack, as RAF deploys Typhoon jets",
+      "url": "https://news.sky.com/story/seven-killed-in-ukraine-after-major-russia-drone-attack-as-raf-deploys-typhoon-jets-over-romania-13536173",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-26T12:33:29.132Z",
+      "pushedAt": "2026-04-26T12:33:29.132Z"
+    },
+    {
+      "id": "dcb4526d02824959",
+      "title": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-04-26T12:33:29.399Z",
+      "pushedAt": "2026-04-26T12:33:29.399Z"
+    },
+    {
       "id": "3b473de0924d05e1",
       "title": "Police in Northern Ireland declare security alert after reports of a car bomb explosion - AP News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlRoa2xDTVRWMnZkQVZBdk9sV1BRSXZYNWFkYUpiOWVuYnVfWTlGel96QlE4OEltUVJQdWpRQmtJVk9uSUZUZE1fYU1rSUlZd2tXQ3FpRkpsM25FWlIwbmV1azQtNmFnT3BwNGo5eEpXX2lNNVkzRGNKN0dLNUNoanJaQzJRVVZYdE1xam9IWjhmVHJfbjhKeTY4RVA?oc=5",
@@ -97,5 +121,5 @@
       "pushedAt": "2026-04-25T13:43:40.416Z"
     }
   ],
-  "updatedAt": "2026-04-26T11:52:23.645Z"
+  "updatedAt": "2026-04-26T12:33:29.607Z"
 }
