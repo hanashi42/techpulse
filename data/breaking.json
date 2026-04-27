@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f6de752ae2d5003f",
+      "title": "Russian superyacht crosses blockaded Strait of Hormuz - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzkxR1Y4QU9kTHUtSFpnSkxFLWc3Zk5VRzVuUWpzQkpMbDA2TGlMSWQ4VWpPcjdIdmduUGxvYld0LWRTdXVqLWN0bmZLVWhwemhlMENxb1RxcVc2TUJRYzl1ZnVvSThBdlhPcjFJNGpOT2NlWTQxUmxsaF9EeDJGYldzSFJ1UWVUY040YUlKdExEdjJFN0ozTGFkSlU1V1JPSmdsYnJKZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait"
+      ],
+      "firstSeen": "2026-04-27T14:59:04.011Z",
+      "pushedAt": "2026-04-27T14:59:04.011Z"
+    },
+    {
       "id": "bdce164f0596aeba",
       "title": "Global consumer companies face pricing stress test from oil shock - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjNaOUNtbU9aRm40dDllbmhCQTlWblBNNkEtR1M2WHp0czZsMDNaVEJOVE5tRFlQSkRzM2ZyYkRRWFFFRmJ5Z1RkUDZHSEdXcXhoWnBJZURYXzliRHl2dmEwR05uUHNYMHl0aGVrSHNmN256eEwwbFhwMnl6NDR0cWtNaEdDeTN3N18yVEZRX3pJSTZtVVh1ejI3aXNoOUJoWlktVF9QN0k2RXFuX3Y1QVhR?oc=5",
@@ -83,55 +95,7 @@
       ],
       "firstSeen": "2026-04-27T01:18:01.156Z",
       "pushedAt": "2026-04-27T01:18:01.156Z"
-    },
-    {
-      "id": "977a96dd112b5494",
-      "title": "Mali defence minister killed after coordinated attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/mali-defence-minister-killed-after-coordinated-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-26T14:32:01.352Z",
-      "pushedAt": "2026-04-26T14:32:01.352Z"
-    },
-    {
-      "id": "3f6eb4abd9ba423c",
-      "title": "Ten killed in Ukraine after major Russia drone attack, as RAF deploys Typhoon jets",
-      "url": "https://news.sky.com/story/seven-killed-in-ukraine-after-major-russia-drone-attack-as-raf-deploys-typhoon-jets-over-romania-13536173",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-26T12:33:29.132Z",
-      "pushedAt": "2026-04-26T12:33:29.132Z"
-    },
-    {
-      "id": "dcb4526d02824959",
-      "title": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-04-26T12:33:29.399Z",
-      "pushedAt": "2026-04-26T12:33:29.399Z"
-    },
-    {
-      "id": "3b473de0924d05e1",
-      "title": "Police in Northern Ireland declare security alert after reports of a car bomb explosion - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlRoa2xDTVRWMnZkQVZBdk9sV1BRSXZYNWFkYUpiOWVuYnVfWTlGel96QlE4OEltUVJQdWpRQmtJVk9uSUZUZE1fYU1rSUlZd2tXQ3FpRkpsM25FWlIwbmV1azQtNmFnT3BwNGo5eEpXX2lNNVkzRGNKN0dLNUNoanJaQzJRVVZYdE1xam9IWjhmVHJfbjhKeTY4RVA?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + bomb"
-      ],
-      "firstSeen": "2026-04-26T11:52:23.459Z",
-      "pushedAt": "2026-04-26T11:52:23.459Z"
     }
   ],
-  "updatedAt": "2026-04-27T11:23:18.684Z"
+  "updatedAt": "2026-04-27T14:59:04.341Z"
 }
