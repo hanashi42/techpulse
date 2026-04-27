@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "23a1edc8bcbe03ab",
+      "title": "Taiwan says China sanctions on European arms makers will not hit weapons sourcing - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeE1IeC1PWFFqbC1jcU0yaldSdWNmYzZDYXN0ZUZ3YVZxZlplN2xXSXhkWE1SUmNSU0tvWnZFWm5rejZ5bkhOc0FVMjlOcms0WEpiOW1sSV9PY0dSZ1VHZkxNc3J3MU5DTmg0c1MzOFBxRTFWcEdTUG11U2w0cjlmSzRNaUcyV0NPcDVjYTB2b0VHZ3NLQUloQ1FvN0xsUGlqak1JNEhwX041ekpaZlRR?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-04-27T09:32:52.923Z",
+      "pushedAt": "2026-04-27T09:32:52.923Z"
+    },
+    {
       "id": "cbfc9d1161613eb3",
       "title": "Magnitude 6.1 earthquake strikes Hokkaido, Japan, GFZ says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTJPYWUwb0N2NDg4RHBBamVMTTRJUUY1emw0U0ZnWHIzR1U2ZzF6T21XZUhRUGU4d0xmTWJ2ZmMtcHRwTTJVdE9wVjM5RUZRM0JJSmZFcGNacTk0Umg2VklHZ2JWaVFIeDg1Wmh1NmpEdkllZ0pBeDh2V2ZtTTRIZFc1RExGdVVRTWxtX3JTbmoxNUxoQTZkRXpMOVp2bU9MZnBzZVQ5bFd3U0hNNlRIVnJ3?oc=5",
@@ -107,19 +119,7 @@
       ],
       "firstSeen": "2026-04-26T11:52:23.459Z",
       "pushedAt": "2026-04-26T11:52:23.459Z"
-    },
-    {
-      "id": "e603150a11477fb3",
-      "title": "DeepSeek delays V4 model release, shifts to Chinese chips amid US restrictions - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1EybVBrV1h3Z05pWFBRUzVWQVBjXzZrQk5DWjNjTmtjbUVEMTlHbmp5akZJR0xpbWFrb3cwU0E3ZlhTemtuVGpTMUR2QU9DNVB1WXVRWWNYT0tsZVRoVjAwVnA0QXJxbS1vc05vOXFxcEg3N1ZFX0dXUWdGRGFnUm9oNUpxS2ltaVdjdG9ZMWRFNUEzbU5LLUwweXl2WnlkNlBQMzJUbTA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + chip"
-      ],
-      "firstSeen": "2026-04-26T07:27:09.569Z",
-      "pushedAt": "2026-04-26T07:27:09.569Z"
     }
   ],
-  "updatedAt": "2026-04-27T04:42:28.034Z"
+  "updatedAt": "2026-04-27T09:32:53.201Z"
 }
