@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2dec6902dacdb0ce",
+      "title": "Man charged with attempted assassination of Trump",
+      "url": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "assassination of"
+      ],
+      "firstSeen": "2026-04-27T18:57:38.657Z",
+      "pushedAt": "2026-04-27T18:57:38.657Z"
+    },
+    {
       "id": "243466be82525ae3",
       "title": "Four killed, 70 wounded in mortar, rocket attacks by Pakistan, Afghan Taliban says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1lkcEFUX0lYMHI5UE1iQm5FR3VmOW5Pel8wUEMxUlhIMGNETnZWNHhpcW1zNDNhdUowTFcyX3FNYkJmQThkOWx6elowbXQySWhlaGlYMzBMVjl3ZXdmbVdoQ0d4VkR0WXdELUgyd21LQmRfS2tuYVhuUTJ3OUhBNzhxX3RqUmxINDNyRG5YTmktN1FMMFdnMG1PTktzY2dVOVgtNlJWdFFEa2dzUnRFRkp1dG1qcWU5VXdPbXY4VHFOMVdOanNEeTExZw?oc=5",
@@ -157,5 +169,5 @@
       "pushedAt": "2026-04-27T01:18:01.156Z"
     }
   ],
-  "updatedAt": "2026-04-27T17:46:30.593Z"
+  "updatedAt": "2026-04-27T18:57:38.917Z"
 }
