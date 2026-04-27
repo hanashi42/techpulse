@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "243466be82525ae3",
+      "title": "Four killed, 70 wounded in mortar, rocket attacks by Pakistan, Afghan Taliban says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1lkcEFUX0lYMHI5UE1iQm5FR3VmOW5Pel8wUEMxUlhIMGNETnZWNHhpcW1zNDNhdUowTFcyX3FNYkJmQThkOWx6elowbXQySWhlaGlYMzBMVjl3ZXdmbVdoQ0d4VkR0WXdELUgyd21LQmRfS2tuYVhuUTJ3OUhBNzhxX3RqUmxINDNyRG5YTmktN1FMMFdnMG1PTktzY2dVOVgtNlJWdFFEa2dzUnRFRkp1dG1qcWU5VXdPbXY4VHFOMVdOanNEeTExZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-27T17:46:30.321Z",
+      "pushedAt": "2026-04-27T17:46:30.321Z"
+    },
+    {
+      "id": "ad2541ea9093533a",
+      "title": "Gordon Chang: US should expand sanctions on China-linked networks to hit Iran oil revenue - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmthell2S1ZGZGhycTIzbGgyZGY4VTRSMGVsMzVHdUk5N3ZLa2pVajVOamZLWVF1OWdsUGExXzhBZHBEZDhJcnJ4YS16em4wOGdVM29xQldpeDdMcl82UVhRZm5kb25LS0xjZHBpQUhuUm1qakY1alBaLUpNbUFzNk50aGtlR1dGNjZRQlVtOFhhLWMtOFpOdVRPYmJncC12clF2QXR6RGtRTnI2LVVxOWZDOVlCRzjSAbwBQVVfeXFMTlF3UHprNEZFZDdDVFQ3NGQ4Qm9XbmZlTDNFc2FsODBYZFhYSjc5QW15ZFZFdlRtZUhZQWJUcGV1RnVmV1c2WWVzdjhKVUNkYU4tRVpVRGpkYUczQUFXTjB0TEdWWmQtMF96R09NSzFqa1IwN1NSNHZYcDQ5NTgzODZFcTY2aFhXQ2ZaTld3WGR3eUo0OHhNbjdYcWRxRlV1ZjMxVFJIenp0blNONVB5ZVNNaXhWTjNOclE5UFQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-04-27T17:46:30.487Z",
+      "pushedAt": "2026-04-27T17:46:30.487Z"
+    },
+    {
       "id": "7c6f522c8dcef4b4",
       "title": "Iran oil tankers turned back by US blockade, Hormuz traffic sparse - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVNYUGpiS2s3d0JQSGc2RTFWb0NFdlFTX1pVaE1Qbi1ySE5UTmJzQ1g0b0hMM2gzWGgxa0tBRko2cUd3bGNQNFNMbi1hbWI3REJXNy1UZ0EtQmpaMk1IaUVDbjV2TjNKNFV2Y1VlYW9sXzd2OGlJSVROZERMS3JCRDdpSnRoUDRyVVVSc3haWHQ4VDc2NDZXQXNjbjkyUk5UNlNCRzBVQmFFNGduSGVyZ3dnMDM4cUFqMGZLaDIxdlVvaHNSblY1bnN2Yw?oc=5",
@@ -133,5 +157,5 @@
       "pushedAt": "2026-04-27T01:18:01.156Z"
     }
   ],
-  "updatedAt": "2026-04-27T16:25:25.662Z"
+  "updatedAt": "2026-04-27T17:46:30.593Z"
 }
