@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bdce164f0596aeba",
+      "title": "Global consumer companies face pricing stress test from oil shock - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjNaOUNtbU9aRm40dDllbmhCQTlWblBNNkEtR1M2WHp0czZsMDNaVEJOVE5tRFlQSkRzM2ZyYkRRWFFFRmJ5Z1RkUDZHSEdXcXhoWnBJZURYXzliRHl2dmEwR05uUHNYMHl0aGVrSHNmN256eEwwbFhwMnl6NDR0cWtNaEdDeTN3N18yVEZRX3pJSTZtVVh1ejI3aXNoOUJoWlktVF9QN0k2RXFuX3Y1QVhR?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-04-27T11:23:18.564Z",
+      "pushedAt": "2026-04-27T11:23:18.564Z"
+    },
+    {
       "id": "23a1edc8bcbe03ab",
       "title": "Taiwan says China sanctions on European arms makers will not hit weapons sourcing - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeE1IeC1PWFFqbC1jcU0yaldSdWNmYzZDYXN0ZUZ3YVZxZlplN2xXSXhkWE1SUmNSU0tvWnZFWm5rejZ5bkhOc0FVMjlOcms0WEpiOW1sSV9PY0dSZ1VHZkxNc3J3MU5DTmg0c1MzOFBxRTFWcEdTUG11U2w0cjlmSzRNaUcyV0NPcDVjYTB2b0VHZ3NLQUloQ1FvN0xsUGlqak1JNEhwX041ekpaZlRR?oc=5",
@@ -121,5 +133,5 @@
       "pushedAt": "2026-04-26T11:52:23.459Z"
     }
   ],
-  "updatedAt": "2026-04-27T09:32:53.201Z"
+  "updatedAt": "2026-04-27T11:23:18.684Z"
 }
