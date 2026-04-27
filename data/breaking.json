@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "7c6f522c8dcef4b4",
+      "title": "Iran oil tankers turned back by US blockade, Hormuz traffic sparse - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZVNYUGpiS2s3d0JQSGc2RTFWb0NFdlFTX1pVaE1Qbi1ySE5UTmJzQ1g0b0hMM2gzWGgxa0tBRko2cUd3bGNQNFNMbi1hbWI3REJXNy1UZ0EtQmpaMk1IaUVDbjV2TjNKNFV2Y1VlYW9sXzd2OGlJSVROZERMS3JCRDdpSnRoUDRyVVVSc3haWHQ4VDc2NDZXQXNjbjkyUk5UNlNCRzBVQmFFNGduSGVyZ3dnMDM4cUFqMGZLaDIxdlVvaHNSblY1bnN2Yw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-04-27T16:25:25.173Z",
+      "pushedAt": "2026-04-27T16:25:25.173Z"
+    },
+    {
+      "id": "ad8a16bacc2b534d",
+      "title": "Mali in turmoil after insurgents seize towns and kill defence minister",
+      "url": "https://www.theguardian.com/world/2026/apr/27/mali-attacks-insurgents-seize-towns-kill-defence-minister",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-04-27T16:25:25.409Z",
+      "pushedAt": "2026-04-27T16:25:25.409Z"
+    },
+    {
+      "id": "03817ac82565aab7",
+      "title": "Mali Terror Attack: Defense Minister Killed by Al Qaeda-Linked JNIM",
+      "url": "https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terror attack"
+      ],
+      "firstSeen": "2026-04-27T16:25:25.593Z",
+      "pushedAt": "2026-04-27T16:25:25.593Z"
+    },
+    {
       "id": "f6de752ae2d5003f",
       "title": "Russian superyacht crosses blockaded Strait of Hormuz - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzkxR1Y4QU9kTHUtSFpnSkxFLWc3Zk5VRzVuUWpzQkpMbDA2TGlMSWQ4VWpPcjdIdmduUGxvYld0LWRTdXVqLWN0bmZLVWhwemhlMENxb1RxcVc2TUJRYzl1ZnVvSThBdlhPcjFJNGpOT2NlWTQxUmxsaF9EeDJGYldzSFJ1UWVUY040YUlKdExEdjJFN0ozTGFkSlU1V1JPSmdsYnJKZw?oc=5",
@@ -97,5 +133,5 @@
       "pushedAt": "2026-04-27T01:18:01.156Z"
     }
   ],
-  "updatedAt": "2026-04-27T14:59:04.341Z"
+  "updatedAt": "2026-04-27T16:25:25.662Z"
 }
