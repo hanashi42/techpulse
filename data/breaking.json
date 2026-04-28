@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "55d3a546055117c2",
+      "title": "Man charged with attempted assassination of Trump in White House correspondents' dinner shooting - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHhLR0JSS09VVHdSd3lfdkhFdWx1WW8xVTJ5YldBU2VvbDc1ZXc1Nkd4VXRkSHl6ZmxmVkNFUEhFQnNuUmtUUVNsS2pwc01mVDZ1VGhmMjdmTnZBdFU0RENzbVRyOUtwOXRRVGl5Q3phZ28tdWhFX1RhelVQVEt0cnNEZE5PbUt5X1R0Rzk2M2U5VW52TFdQQ0Zib2h1RndPLTFqNVVBaw?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "assassination of"
+      ],
+      "firstSeen": "2026-04-28T20:50:08.035Z",
+      "pushedAt": "2026-04-28T20:50:08.035Z"
+    },
+    {
+      "id": "70c95c7d66039276",
+      "title": "China Doubles Down on Anti-Foreign Sanctions Efforts to Protect Its Supply Chains' Security | Publications | Insights - Faegre Drinker",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN3Yyb1NjOEl4WmxGTmsxYmpuZ0dXMEFKQ3FCWTF1a1J4MmZaQi1zNS15Z0hnQ1R5NHl5YXpCclA0TFhaOHlBZ3FESGhLZ3ZnQXRSZl9BOHZLTUQ3dE1keDJ2VTNBbENVcGlDS3BPTVdqWmI4Mi02Y0poN1FqS0hXSUgwRDFFRFVfdWlrQjd2cGdmcDcxX0NRTDA4VGhleFIwaUF2SmsxWmdvWUl0UWNON2pIQjZtZnJoOGNQYVJ5U0VHZGsweVJVNmp6Tkd3cFVBZFQtUlVmdENsbkYzT1ZSa3BSYkVUWmc?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-04-28T20:50:08.174Z",
+      "pushedAt": "2026-04-28T20:50:08.174Z"
+    },
+    {
       "id": "2a8a0755f56c1fac",
       "title": "Trump approval dips to record low amid Iran war, inflation woes: Poll",
       "url": "https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll?traffic_source=rss",
@@ -169,5 +193,5 @@
       "pushedAt": "2026-04-28T08:40:34.679Z"
     }
   ],
-  "updatedAt": "2026-04-28T19:40:19.567Z"
+  "updatedAt": "2026-04-28T20:50:08.220Z"
 }
