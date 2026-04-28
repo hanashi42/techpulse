@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "9724edb848454a8f",
+      "title": "IS claims responsibility for Nigeria attack that killed 29 people",
+      "url": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-28T08:40:34.679Z",
+      "pushedAt": "2026-04-28T08:40:34.679Z"
+    },
+    {
       "id": "2dec6902dacdb0ce",
       "title": "Man charged with attempted assassination of Trump",
       "url": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged?traffic_source=rss",
@@ -107,67 +119,7 @@
       ],
       "firstSeen": "2026-04-27T09:32:52.923Z",
       "pushedAt": "2026-04-27T09:32:52.923Z"
-    },
-    {
-      "id": "cbfc9d1161613eb3",
-      "title": "Magnitude 6.1 earthquake strikes Hokkaido, Japan, GFZ says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTJPYWUwb0N2NDg4RHBBamVMTTRJUUY1emw0U0ZnWHIzR1U2ZzF6T21XZUhRUGU4d0xmTWJ2ZmMtcHRwTTJVdE9wVjM5RUZRM0JJSmZFcGNacTk0Umg2VklHZ2JWaVFIeDg1Wmh1NmpEdkllZ0pBeDh2V2ZtTTRIZFc1RExGdVVRTWxtX3JTbmoxNUxoQTZkRXpMOVp2bU9MZnBzZVQ5bFd3U0hNNlRIVnJ3?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-04-27T04:42:27.823Z",
-      "pushedAt": "2026-04-27T04:42:27.823Z"
-    },
-    {
-      "id": "b2c624d8b53b51a5",
-      "title": "US to allow firing squads, gas and electrocution for federal executions",
-      "url": "https://www.bbc.com/news/articles/cg73l2d079ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + cut"
-      ],
-      "firstSeen": "2026-04-27T04:42:27.891Z",
-      "pushedAt": "2026-04-27T04:42:27.891Z"
-    },
-    {
-      "id": "c14ee09f035b4bba",
-      "title": "Oil prices rise amid stalled US-Iran peace talks",
-      "url": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-04-27T04:42:27.922Z",
-      "pushedAt": "2026-04-27T04:42:27.922Z"
-    },
-    {
-      "id": "1fac663d3d386cc7",
-      "title": "China industrial profits jump 15.8% in March, fueled by AI and chip boom despite oil shock risks",
-      "url": "https://www.cnbc.com/2026/04/27/china-industrial-profits-march-iran-war-oil-shock.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-04-27T04:42:27.974Z",
-      "pushedAt": "2026-04-27T04:42:27.974Z"
-    },
-    {
-      "id": "a8e6e7f84530de6a",
-      "title": "Japan, South Korea stocks hit record high as investors shrug off stalled U.S.-Iran negotiations",
-      "url": "https://www.cnbc.com/2026/04/27/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "record high + stock"
-      ],
-      "firstSeen": "2026-04-27T01:18:01.156Z",
-      "pushedAt": "2026-04-27T01:18:01.156Z"
     }
   ],
-  "updatedAt": "2026-04-27T18:57:38.917Z"
+  "updatedAt": "2026-04-28T08:40:34.938Z"
 }
