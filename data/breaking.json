@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "7fdc68621731ffec",
+      "title": "World Bank forecasts 24% surge in energy prices in 2026 due to Middle East war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXNvVUdYQjRDZHMtNnBWX2RFTXIxTTkyd0REVjNtQTROSzBVOTJ6TUpfMU8yZXJZM2VuRlRkbUswd1NzSjI3aGRrUkRyMWtWX0NUNS1yZkVyTnp0ZUJLd1BtREJBdVczZHUtekNtX2JTVEI2Um5FdUVodDdFa2V6YVFXZU1FSVBkV2pnUHZVaVVmdlBLZTlqR29Rd05Fa3A4MGdxSnQzalhWREtSMnk5UlFuXzBHOXdMLWxGVQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-04-28T17:59:13.011Z",
+      "pushedAt": "2026-04-28T17:59:13.011Z"
+    },
+    {
+      "id": "08c39763e1ac6145",
+      "title": "Mali military leader makes first appearance since attacks, office says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS2dhajFQN2hyQWRBZDQycnNDUFNWOEctWHdRSlg4X1I2TWJYZDFHdU5Bb0ZhbXFCUG92ZkN5ZldmTUxUMFJqLU82TGlMdXM4WFl3eG1jUDNTV3FUeTllRnpyNGJWTlFyQlltT0IwcDU3UTRiOFRFRXM2Q1A0M3A1MW95MFlEa1BQNTV0UjYyUlh2QjNnNHNzZGcwWFZxSWZqN1prWVY4SmVHT3VtV0pSYTlMWi14N3lZYXlN?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-04-28T17:59:13.126Z",
+      "pushedAt": "2026-04-28T17:59:13.126Z"
+    },
+    {
+      "id": "0c4dd6448202797c",
+      "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUwwbkhOQXFtOVZOTFVReWo2bzNMWnhieUlSQllyaE5EUmtqVU5FX0N5QkVfaXBYY2wtRVNCMGgxTGdaR3IwOEZ3RFRqSTBmZ1NVTkppTWh6QkxtWVdEb0hxcTM4QWxZYzRwZjJiRnlWYnhvby1iRjhOZ1VfOXRydHRBVlRuQ1pUMVpYdjdld2g2ZS02S1hn?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "war ends"
+      ],
+      "firstSeen": "2026-04-28T17:59:13.217Z",
+      "pushedAt": "2026-04-28T17:59:13.217Z"
+    },
+    {
+      "id": "ed134fb3379dc7af",
+      "title": "Fresh oil shock as UAE exits Saudi-controlled cartels",
+      "url": "https://news.sky.com/story/uae-exits-saudi-controlled-opec-cartels-in-fresh-oil-market-shock-13537642",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-04-28T17:59:13.285Z",
+      "pushedAt": "2026-04-28T17:59:13.285Z"
+    },
+    {
+      "id": "03817ac82565aab7",
+      "title": "Mali Terror Attack: Defense Minister Killed by Al Qaeda-Linked JNIM",
+      "url": "https://www.nytimes.com/2026/04/27/world/africa/mali-defense-minster-killed.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terror attack"
+      ],
+      "firstSeen": "2026-04-28T17:59:13.320Z",
+      "pushedAt": "2026-04-28T17:59:13.320Z"
+    },
+    {
+      "id": "84269e7b2159ce33",
+      "title": "The U.S. Sanctions Chinese Refinery Linked to Iran - The Institute for Energy Research",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmtDdkl0SHdmd2lnZlNVWk55dUJ2NU92ekdzSEZMaGVKYkFKVFc5OWFIMXFnTzFrQkgwb1ptNlI2ZHR1MTBIb0pRSEZlQ1ZOa3Zrd2FJZUt5b1B4ZDUzR0JLM0tZeTM3VlZ2eU1tbDNPQ0lhSmtHX0ROSEEtb1pkM2xjZFFDWU96SjR4NzRENk1teHdwS3JZZDctYmY1dWR4NmxacA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-04-28T17:59:13.364Z",
+      "pushedAt": "2026-04-28T17:59:13.364Z"
+    },
+    {
       "id": "8dac1879364f6394",
       "title": "Rubber Market Lower Over Expections Of Supply Increase, Concerns Over China's Zero-Tariff Policy - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Oc09HYkxIbTN4aFVYTlZHWElCZkkya2dnUl9NMHlzUXFsdE1yYmloTGtpR1l3ek0wVGI3NlVrMkRXT01RWnZyUmxPWTZzWmpIeWhhSGg2aFJNemhxZnN4M0ZB?oc=5",
@@ -95,31 +167,7 @@
       ],
       "firstSeen": "2026-04-27T18:57:38.657Z",
       "pushedAt": "2026-04-27T18:57:38.657Z"
-    },
-    {
-      "id": "243466be82525ae3",
-      "title": "Four killed, 70 wounded in mortar, rocket attacks by Pakistan, Afghan Taliban says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1lkcEFUX0lYMHI5UE1iQm5FR3VmOW5Pel8wUEMxUlhIMGNETnZWNHhpcW1zNDNhdUowTFcyX3FNYkJmQThkOWx6elowbXQySWhlaGlYMzBMVjl3ZXdmbVdoQ0d4VkR0WXdELUgyd21LQmRfS2tuYVhuUTJ3OUhBNzhxX3RqUmxINDNyRG5YTmktN1FMMFdnMG1PTktzY2dVOVgtNlJWdFFEa2dzUnRFRkp1dG1qcWU5VXdPbXY4VHFOMVdOanNEeTExZw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-27T17:46:30.321Z",
-      "pushedAt": "2026-04-27T17:46:30.321Z"
-    },
-    {
-      "id": "ad2541ea9093533a",
-      "title": "Gordon Chang: US should expand sanctions on China-linked networks to hit Iran oil revenue - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmthell2S1ZGZGhycTIzbGgyZGY4VTRSMGVsMzVHdUk5N3ZLa2pVajVOamZLWVF1OWdsUGExXzhBZHBEZDhJcnJ4YS16em4wOGdVM29xQldpeDdMcl82UVhRZm5kb25LS0xjZHBpQUhuUm1qakY1alBaLUpNbUFzNk50aGtlR1dGNjZRQlVtOFhhLWMtOFpOdVRPYmJncC12clF2QXR6RGtRTnI2LVVxOWZDOVlCRzjSAbwBQVVfeXFMTlF3UHprNEZFZDdDVFQ3NGQ4Qm9XbmZlTDNFc2FsODBYZFhYSjc5QW15ZFZFdlRtZUhZQWJUcGV1RnVmV1c2WWVzdjhKVUNkYU4tRVpVRGpkYUczQUFXTjB0TEdWWmQtMF96R09NSzFqa1IwN1NSNHZYcDQ5NTgzODZFcTY2aFhXQ2ZaTld3WGR3eUo0OHhNbjdYcWRxRlV1ZjMxVFJIenp0blNONVB5ZVNNaXhWTjNOclE5UFQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-04-27T17:46:30.487Z",
-      "pushedAt": "2026-04-27T17:46:30.487Z"
     }
   ],
-  "updatedAt": "2026-04-28T16:26:10.094Z"
+  "updatedAt": "2026-04-28T17:59:13.398Z"
 }
