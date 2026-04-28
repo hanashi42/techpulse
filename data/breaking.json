@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2a8a0755f56c1fac",
+      "title": "Trump approval dips to record low amid Iran war, inflation woes: Poll",
+      "url": "https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + record"
+      ],
+      "firstSeen": "2026-04-28T19:40:19.408Z",
+      "pushedAt": "2026-04-28T19:40:19.408Z"
+    },
+    {
       "id": "7fdc68621731ffec",
       "title": "World Bank forecasts 24% surge in energy prices in 2026 due to Middle East war - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXNvVUdYQjRDZHMtNnBWX2RFTXIxTTkyd0REVjNtQTROSzBVOTJ6TUpfMU8yZXJZM2VuRlRkbUswd1NzSjI3aGRrUkRyMWtWX0NUNS1yZkVyTnp0ZUJLd1BtREJBdVczZHUtekNtX2JTVEI2Um5FdUVodDdFa2V6YVFXZU1FSVBkV2pnUHZVaVVmdlBLZTlqR29Rd05Fa3A4MGdxSnQzalhWREtSMnk5UlFuXzBHOXdMLWxGVQ?oc=5",
@@ -155,19 +167,7 @@
       ],
       "firstSeen": "2026-04-28T08:40:34.679Z",
       "pushedAt": "2026-04-28T08:40:34.679Z"
-    },
-    {
-      "id": "2dec6902dacdb0ce",
-      "title": "Man charged with attempted assassination of Trump",
-      "url": "https://www.aljazeera.com/news/2026/4/27/white-house-correspondents-dinner-shooting-suspect-charged?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "assassination of"
-      ],
-      "firstSeen": "2026-04-27T18:57:38.657Z",
-      "pushedAt": "2026-04-27T18:57:38.657Z"
     }
   ],
-  "updatedAt": "2026-04-28T17:59:13.398Z"
+  "updatedAt": "2026-04-28T19:40:19.567Z"
 }
