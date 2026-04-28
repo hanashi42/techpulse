@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "c64c616c59d60d1a",
+      "title": "How the US-Israeli war is collapsing the sanctions regime on Iran",
+      "url": "https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-04-28T12:13:07.692Z",
+      "pushedAt": "2026-04-28T12:13:07.692Z"
+    },
+    {
+      "id": "bdd61bde6eae7dbb",
+      "title": "Police seize suspected £4m drugs haul at port",
+      "url": "https://news.sky.com/story/police-seize-suspected-1634m-drugs-haul-at-northern-ireland-port-13537515",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "seize + port"
+      ],
+      "firstSeen": "2026-04-28T12:13:07.949Z",
+      "pushedAt": "2026-04-28T12:13:07.949Z"
+    },
+    {
+      "id": "b23688c8893eeda2",
+      "title": "GM raises 2026 guidance amid $500 million tariff refund, topping Wall Street's earnings expectations",
+      "url": "https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + raise"
+      ],
+      "firstSeen": "2026-04-28T12:13:08.149Z",
+      "pushedAt": "2026-04-28T12:13:08.149Z"
+    },
+    {
       "id": "36e19d4eb95cef7a",
       "title": "US stocks inch to more records as oil prices rise ahead of a blockbuster week for Wall Street - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnExbEQ1S3lEd3ZpbWhqcFdNQjRCZEVkQjljV1NKcV8xTThXR2pWNXFsWENkTHpCR1VLZHVRWUdEd2JRZ0FtcERnd0JrenQyOGFLNmRzN3U2cWRNdktmV3VQcmNsY2gyR2FtamVwbloySWlhUTJaNndzWUZZVEM0V2pkWjlMT1Y0dXpGUGI0U3ZPSU0?oc=5",
@@ -119,19 +155,7 @@
       ],
       "firstSeen": "2026-04-27T14:59:04.011Z",
       "pushedAt": "2026-04-27T14:59:04.011Z"
-    },
-    {
-      "id": "bdce164f0596aeba",
-      "title": "Global consumer companies face pricing stress test from oil shock - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjNaOUNtbU9aRm40dDllbmhCQTlWblBNNkEtR1M2WHp0czZsMDNaVEJOVE5tRFlQSkRzM2ZyYkRRWFFFRmJ5Z1RkUDZHSEdXcXhoWnBJZURYXzliRHl2dmEwR05uUHNYMHl0aGVrSHNmN256eEwwbFhwMnl6NDR0cWtNaEdDeTN3N18yVEZRX3pJSTZtVVh1ejI3aXNoOUJoWlktVF9QN0k2RXFuX3Y1QVhR?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-04-27T11:23:18.564Z",
-      "pushedAt": "2026-04-27T11:23:18.564Z"
     }
   ],
-  "updatedAt": "2026-04-28T10:34:21.796Z"
+  "updatedAt": "2026-04-28T12:13:08.227Z"
 }
