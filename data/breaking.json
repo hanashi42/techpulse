@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ed134fb3379dc7af",
+      "title": "Fresh oil shock as UAE exits Saudi-controlled cartels",
+      "url": "https://news.sky.com/story/uae-exits-saudi-controlled-opec-cartels-in-fresh-oil-market-shock-13537642",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-04-29T20:13:09.297Z",
+      "pushedAt": "2026-04-29T20:13:09.297Z"
+    },
+    {
       "id": "4be7e8825f663359",
       "title": "Fed holds rates steady but with highest level of dissent since 1992",
       "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
@@ -145,19 +157,7 @@
       ],
       "firstSeen": "2026-04-28T20:50:08.174Z",
       "pushedAt": "2026-04-28T20:50:08.174Z"
-    },
-    {
-      "id": "2a8a0755f56c1fac",
-      "title": "Trump approval dips to record low amid Iran war, inflation woes: Poll",
-      "url": "https://www.aljazeera.com/news/2026/4/28/trump-approval-dips-to-record-low-amid-iran-war-inflation-woes-poll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + record"
-      ],
-      "firstSeen": "2026-04-28T19:40:19.408Z",
-      "pushedAt": "2026-04-28T19:40:19.408Z"
     }
   ],
-  "updatedAt": "2026-04-29T19:01:02.167Z"
+  "updatedAt": "2026-04-29T20:13:09.546Z"
 }
