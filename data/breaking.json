@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "97e5c172bd429d7f",
+      "title": "At least three killed, more than 10 injured in Russian attacks on Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/4/29/at-least-three-killed-more-than-10-injured-in-russian-attacks-on-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-04-29T12:22:49.462Z",
+      "pushedAt": "2026-04-29T12:22:49.462Z"
+    },
+    {
       "id": "7c44e36bb2ef6c3b",
       "title": "Stocks rally on earnings optimism as Fed meeting looms - Reuters",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9od0NpclZ4VU9xb3Q5Qm9fNFk3ejI5a3ZrWmlTMmpqb0lWT0g3ZExrdmh6MnlfZTRabkVXS1hENXlEakN6QVJFaE1COWk1N0xfdTV1d2EyUS1uTjlsUnV3SVdoTU00RWtidE1NRDFBOVhaY2JQVEJyQkRfZw?oc=5",
@@ -181,67 +193,7 @@
       ],
       "firstSeen": "2026-04-28T16:26:09.978Z",
       "pushedAt": "2026-04-28T16:26:09.978Z"
-    },
-    {
-      "id": "c64c616c59d60d1a",
-      "title": "How the US-Israeli war is collapsing the sanctions regime on Iran",
-      "url": "https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-04-28T12:13:07.692Z",
-      "pushedAt": "2026-04-28T12:13:07.692Z"
-    },
-    {
-      "id": "bdd61bde6eae7dbb",
-      "title": "Police seize suspected £4m drugs haul at port",
-      "url": "https://news.sky.com/story/police-seize-suspected-1634m-drugs-haul-at-northern-ireland-port-13537515",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "seize + port"
-      ],
-      "firstSeen": "2026-04-28T12:13:07.949Z",
-      "pushedAt": "2026-04-28T12:13:07.949Z"
-    },
-    {
-      "id": "b23688c8893eeda2",
-      "title": "GM raises 2026 guidance amid $500 million tariff refund, topping Wall Street's earnings expectations",
-      "url": "https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + raise"
-      ],
-      "firstSeen": "2026-04-28T12:13:08.149Z",
-      "pushedAt": "2026-04-28T12:13:08.149Z"
-    },
-    {
-      "id": "36e19d4eb95cef7a",
-      "title": "US stocks inch to more records as oil prices rise ahead of a blockbuster week for Wall Street - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnExbEQ1S3lEd3ZpbWhqcFdNQjRCZEVkQjljV1NKcV8xTThXR2pWNXFsWENkTHpCR1VLZHVRWUdEd2JRZ0FtcERnd0JrenQyOGFLNmRzN3U2cWRNdktmV3VQcmNsY2gyR2FtamVwbloySWlhUTJaNndzWUZZVEM0V2pkWjlMT1Y0dXpGUGI0U3ZPSU0?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + record"
-      ],
-      "firstSeen": "2026-04-28T10:34:21.550Z",
-      "pushedAt": "2026-04-28T10:34:21.550Z"
-    },
-    {
-      "id": "d2bc607d144c6b07",
-      "title": "China says it has made progress with EU in EV tariff dispute - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONGx6WXFCeFRDSWhQT2xHaVJKY1UxaktpX1R5TE85RzBIUE84LTdFT182R0c5SFd1OUdvUk1YRWVBSm9BdEV5eGpOTTk4UWJtSkJKMzRrY05YOG13aWpWVXduY3FoN210eVY4MmNpQWU2MnJxVEFQZ1JneWJrazFjb3NUWlZrSXd6SktBZU5mb2R0N1Yyd2FlaXA2U0d1MFJLQ0VmWkJEc3RobUMwd3VtZXhsNkNwTG82VHU4TGNyNmt1VERGT3pCTWNPeGNwakE1dUE?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-28T10:34:21.704Z",
-      "pushedAt": "2026-04-28T10:34:21.704Z"
     }
   ],
-  "updatedAt": "2026-04-29T09:21:48.532Z"
+  "updatedAt": "2026-04-29T12:22:49.708Z"
 }
