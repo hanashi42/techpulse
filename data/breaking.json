@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "91699a2ff849b039",
+      "title": "Laos Unveils Measures To Tackle Fuel Price Surge - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tR2hiOWx0OGFtUWhhM0ZNYjM1NFJjSzJ6Mm1wVDFyZ0tzcjgxSU5SRUNRU2ZPRzNzU2YzTXQ2RjNuVTV5V3VhNUVJMHpoWGhkX2xvYTV2dVRaZndsR2F5Sm9NQmU5aEYtVWJ6VGpCeVZoUW5NMFE?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-04-29T21:17:58.132Z",
+      "pushedAt": "2026-04-29T21:17:58.132Z"
+    },
+    {
       "id": "ed134fb3379dc7af",
       "title": "Fresh oil shock as UAE exits Saudi-controlled cartels",
       "url": "https://news.sky.com/story/uae-exits-saudi-controlled-opec-cartels-in-fresh-oil-market-shock-13537642",
@@ -133,31 +145,7 @@
       ],
       "firstSeen": "2026-04-28T21:45:09.528Z",
       "pushedAt": "2026-04-28T21:45:09.528Z"
-    },
-    {
-      "id": "55d3a546055117c2",
-      "title": "Man charged with attempted assassination of Trump in White House correspondents' dinner shooting - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHhLR0JSS09VVHdSd3lfdkhFdWx1WW8xVTJ5YldBU2VvbDc1ZXc1Nkd4VXRkSHl6ZmxmVkNFUEhFQnNuUmtUUVNsS2pwc01mVDZ1VGhmMjdmTnZBdFU0RENzbVRyOUtwOXRRVGl5Q3phZ28tdWhFX1RhelVQVEt0cnNEZE5PbUt5X1R0Rzk2M2U5VW52TFdQQ0Zib2h1RndPLTFqNVVBaw?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "assassination of"
-      ],
-      "firstSeen": "2026-04-28T20:50:08.035Z",
-      "pushedAt": "2026-04-28T20:50:08.035Z"
-    },
-    {
-      "id": "70c95c7d66039276",
-      "title": "China Doubles Down on Anti-Foreign Sanctions Efforts to Protect Its Supply Chains' Security | Publications | Insights - Faegre Drinker",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN3Yyb1NjOEl4WmxGTmsxYmpuZ0dXMEFKQ3FCWTF1a1J4MmZaQi1zNS15Z0hnQ1R5NHl5YXpCclA0TFhaOHlBZ3FESGhLZ3ZnQXRSZl9BOHZLTUQ3dE1keDJ2VTNBbENVcGlDS3BPTVdqWmI4Mi02Y0poN1FqS0hXSUgwRDFFRFVfdWlrQjd2cGdmcDcxX0NRTDA4VGhleFIwaUF2SmsxWmdvWUl0UWNON2pIQjZtZnJoOGNQYVJ5U0VHZGsweVJVNmp6Tkd3cFVBZFQtUlVmdENsbkYzT1ZSa3BSYkVUWmc?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-04-28T20:50:08.174Z",
-      "pushedAt": "2026-04-28T20:50:08.174Z"
     }
   ],
-  "updatedAt": "2026-04-29T20:13:09.546Z"
+  "updatedAt": "2026-04-29T21:17:58.352Z"
 }
