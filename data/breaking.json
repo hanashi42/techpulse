@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b6a980208f8aba53",
+      "title": "Microsoft calls for $190 billion in 2026 capital spending on soaring memory prices",
+      "url": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-04-29T23:09:55.973Z",
+      "pushedAt": "2026-04-29T23:09:55.973Z"
+    },
+    {
       "id": "91699a2ff849b039",
       "title": "Laos Unveils Measures To Tackle Fuel Price Surge - Bernama",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tR2hiOWx0OGFtUWhhM0ZNYjM1NFJjSzJ6Mm1wVDFyZ0tzcjgxSU5SRUNRU2ZPRzNzU2YzTXQ2RjNuVTV5V3VhNUVJMHpoWGhkX2xvYTV2dVRaZndsR2F5Sm9NQmU5aEYtVWJ6VGpCeVZoUW5NMFE?oc=5",
@@ -133,19 +145,7 @@
       ],
       "firstSeen": "2026-04-29T04:41:13.522Z",
       "pushedAt": "2026-04-29T04:41:13.522Z"
-    },
-    {
-      "id": "99ec0e6451db1298",
-      "title": "US imposes sanctions on 35 individuals, entities for aiding Iran's sanctions evasions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVk3REZRcV85OXdkbXhkUUtocGdLSld3OWN6VVEzYTFPRlJEdV9IczlLSjA0VEVvSmNCOGlWQVh3T0o5cmpRSzdvN3Y3RnFuVXg4ai0zODJuTUhIVWhyeExzSzQ3T1Z6enBPV0MtT3FBODNUQ1hEV2tNSksyZ3Y3LWNxSGltc184c3FUejZhQXd6MVVKSno3RVZUSUdEd2FUNmMwbG1qNFk3aVNHN19PbUlGbktxbnRLeDBFQkFwSHRiY2VmN2NFNA?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-04-28T21:45:09.528Z",
-      "pushedAt": "2026-04-28T21:45:09.528Z"
     }
   ],
-  "updatedAt": "2026-04-29T21:17:58.352Z"
+  "updatedAt": "2026-04-29T23:09:56.235Z"
 }
