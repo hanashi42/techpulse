@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7c44e36bb2ef6c3b",
+      "title": "Stocks rally on earnings optimism as Fed meeting looms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9od0NpclZ4VU9xb3Q5Qm9fNFk3ejI5a3ZrWmlTMmpqb0lWT0g3ZExrdmh6MnlfZTRabkVXS1hENXlEakN6QVJFaE1COWk1N0xfdTV1d2EyUS1uTjlsUnV3SVdoTU00RWtidE1NRDFBOVhaY2JQVEJyQkRfZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-04-29T09:21:48.448Z",
+      "pushedAt": "2026-04-29T09:21:48.448Z"
+    },
+    {
       "id": "2da1adfc7ee3e19b",
       "title": "Fired prosecutor Maurene Comey's lawsuit belongs in federal court, judge rules - AP News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGR2SUNtcmRFZHdCTlhZV1FNUXpVVE8tT2dSRUVEbG5UU3ZhYkI4ZW4zemwxeHNOVkwyN1dOMjRDOUluR1NTeTZwVkNTYllGcTdxMHlwLTloOVZ6NWdHLW9BTzZ2a1AyUzRfYjdRVS1PTXEyWFlMYmRveHdmSW9STHZ3dFZvU1JHWmRSS2ZiZWhqbEdZLTRhZzFFVkNWV0E?oc=5",
@@ -229,19 +241,7 @@
       ],
       "firstSeen": "2026-04-28T10:34:21.704Z",
       "pushedAt": "2026-04-28T10:34:21.704Z"
-    },
-    {
-      "id": "9724edb848454a8f",
-      "title": "IS claims responsibility for Nigeria attack that killed 29 people",
-      "url": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-28T08:40:34.679Z",
-      "pushedAt": "2026-04-28T08:40:34.679Z"
     }
   ],
-  "updatedAt": "2026-04-29T07:08:20.388Z"
+  "updatedAt": "2026-04-29T09:21:48.532Z"
 }
