@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "cb38cf2fd2f379ae",
+      "title": "Families of Canadian mass shooting victims sue OpenAI, CEO Altman in US court - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2Zzc3RXcGk5Q1ZBLUdRNVhKN0VkY3g1Q0thQTgyUWdZc0NRWkpTUUdnUmJGcU94a2VzZmJJLVQ2R0l2d1cweEhEeGNXV1VDWVlKT1JUcmVYUHYzT2FuUWt2TjVrWjhVbXliNGFMVHFZR1pXUmY5aW05WVNGZWJyR0hoc1JrS09HYlZnRVFzNjQtODJWajUxdnhaMi1fNGREX2hoLXBIaHgzSzJoQXpzTjZ3?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "mass shooting"
+      ],
+      "firstSeen": "2026-04-29T17:50:24.029Z",
+      "pushedAt": "2026-04-29T17:50:24.029Z"
+    },
+    {
+      "id": "74453f0fa8ee9cd1",
+      "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+      "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender"
+      ],
+      "firstSeen": "2026-04-29T17:50:24.303Z",
+      "pushedAt": "2026-04-29T17:50:24.303Z"
+    },
+    {
       "id": "66fb74703a5b6584",
       "title": "How US and Iran are playing a crypto cat-and-mouse game over sanctions",
       "url": "https://www.aljazeera.com/news/2026/4/29/how-us-and-iran-are-playing-a-crypto-cat-and-mouse-game-over-sanctions?traffic_source=rss",
@@ -193,19 +217,7 @@
       ],
       "firstSeen": "2026-04-28T17:59:13.364Z",
       "pushedAt": "2026-04-28T17:59:13.364Z"
-    },
-    {
-      "id": "8dac1879364f6394",
-      "title": "Rubber Market Lower Over Expections Of Supply Increase, Concerns Over China's Zero-Tariff Policy - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Oc09HYkxIbTN4aFVYTlZHWElCZkkya2dnUl9NMHlzUXFsdE1yYmloTGtpR1l3ek0wVGI3NlVrMkRXT01RWnZyUmxPWTZzWmpIeWhhSGg2aFJNemhxZnN4M0ZB?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-28T16:26:09.978Z",
-      "pushedAt": "2026-04-28T16:26:09.978Z"
     }
   ],
-  "updatedAt": "2026-04-29T14:34:04.442Z"
+  "updatedAt": "2026-04-29T17:50:24.809Z"
 }
