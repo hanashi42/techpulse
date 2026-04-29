@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "2da1adfc7ee3e19b",
+      "title": "Fired prosecutor Maurene Comey's lawsuit belongs in federal court, judge rules - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGR2SUNtcmRFZHdCTlhZV1FNUXpVVE8tT2dSRUVEbG5UU3ZhYkI4ZW4zemwxeHNOVkwyN1dOMjRDOUluR1NTeTZwVkNTYllGcTdxMHlwLTloOVZ6NWdHLW9BTzZ2a1AyUzRfYjdRVS1PTXEyWFlMYmRveHdmSW9STHZ3dFZvU1JHWmRSS2ZiZWhqbEdZLTRhZzFFVkNWV0E?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + cut"
+      ],
+      "firstSeen": "2026-04-29T07:08:20.198Z",
+      "pushedAt": "2026-04-29T07:08:20.198Z"
+    },
+    {
+      "id": "cbf1195202879bb4",
+      "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
+      "url": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate",
+        "interest rate + decision"
+      ],
+      "firstSeen": "2026-04-29T07:08:20.335Z",
+      "pushedAt": "2026-04-29T07:08:20.335Z"
+    },
+    {
       "id": "e71989684b881bac",
       "title": "Oil rises on reports US will extend Iran blockade, prolonging Mideast supply disruptions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
@@ -218,5 +243,5 @@
       "pushedAt": "2026-04-28T08:40:34.679Z"
     }
   ],
-  "updatedAt": "2026-04-29T04:41:13.713Z"
+  "updatedAt": "2026-04-29T07:08:20.388Z"
 }
