@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "e71989684b881bac",
+      "title": "Oil rises on reports US will extend Iran blockade, prolonging Mideast supply disruptions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-04-29T04:41:13.522Z",
+      "pushedAt": "2026-04-29T04:41:13.522Z"
+    },
+    {
       "id": "99ec0e6451db1298",
       "title": "US imposes sanctions on 35 individuals, entities for aiding Iran's sanctions evasions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcVk3REZRcV85OXdkbXhkUUtocGdLSld3OWN6VVEzYTFPRlJEdV9IczlLSjA0VEVvSmNCOGlWQVh3T0o5cmpRSzdvN3Y3RnFuVXg4ai0zODJuTUhIVWhyeExzSzQ3T1Z6enBPV0MtT3FBODNUQ1hEV2tNSksyZ3Y3LWNxSGltc184c3FUejZhQXd6MVVKSno3RVZUSUdEd2FUNmMwbG1qNFk3aVNHN19PbUlGbktxbnRLeDBFQkFwSHRiY2VmN2NFNA?oc=5",
@@ -205,5 +218,5 @@
       "pushedAt": "2026-04-28T08:40:34.679Z"
     }
   ],
-  "updatedAt": "2026-04-28T21:45:09.769Z"
+  "updatedAt": "2026-04-29T04:41:13.713Z"
 }
