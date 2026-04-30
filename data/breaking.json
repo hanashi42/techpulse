@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "c5d3ef50c758490a",
+      "title": "Samsung chip profit jumps almost 50-fold; supply shortage to worsen in 2027 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFluM3ZHQmZkcEFwN2tIUGtzSXA0Nnh4UkJEQU9ac0w0eTQwTVBCc1p3TTczUkV4SXY1STB4SkFWZFRzSHJfNmx5NG00TGhCZE8yWW5lTkpLN0FWOGpsczhoc25UWjlsNEU3YXh6WHlhNjRjZ2c4QkFjMVdyd2JaOG50OFJNYjZ2Z2ZCUHdyV0RSNm1hZmZIbkp0SmFXQ0tDaDJlZ08zZHBLTFZ6M2JLa0M3cXdXSDNtLUw1SF9HYldBbm9CcFE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + chip"
+      ],
+      "firstSeen": "2026-04-30T06:23:39.164Z",
+      "pushedAt": "2026-04-30T06:23:39.164Z"
+    },
+    {
+      "id": "d8a204655111e066",
+      "title": "RAF troops shot down more than 100 Iranian drones and missiles fired at Middle East base",
+      "url": "https://news.sky.com/story/inside-the-base-where-raf-aces-are-shooting-down-iranian-drones-13538059",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shot down + drone"
+      ],
+      "firstSeen": "2026-04-30T06:23:39.401Z",
+      "pushedAt": "2026-04-30T06:23:39.401Z"
+    },
+    {
+      "id": "b3ff8798b8bec3a0",
+      "title": "Volkswagen posts 14% drop in first-quarter profit on tariff pressure, China competition",
+      "url": "https://www.cnbc.com/2026/04/30/volkswagen-q1-earnings-autos.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-04-30T06:23:39.433Z",
+      "pushedAt": "2026-04-30T06:23:39.433Z"
+    },
+    {
+      "id": "e1c3307ac40f3aa3",
+      "title": "European markets set for lower open as oil prices surge; ECB and BOE decisions ahead",
+      "url": "https://www.cnbc.com/2026/04/30/european-markets-stoxx-600-ftse-dax-ecb-boe-decisions-iran-news.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-04-30T06:23:39.446Z",
+      "pushedAt": "2026-04-30T06:23:39.446Z"
+    },
+    {
       "id": "8524097ca60d5cb1",
       "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Y2QlpOSmdJS3I4ZVJ3VC1zc0NYMkpKU2RLUEZ2anVqS0l4WFNqXzQzdmhMVV9wZ1JjRDM4S3VULUxabjRqa1k4YjFFaUd5Q1lTbEx5am1adTR0YjZGdGhBUmUxLVdyUGxjMXp4UmJFQUYzNWtCdGdpc29DRzZQT1pIX2t2bVNfcG50aW9RbWhxb0NSSXk2dDB3V09fd04xLWRV?oc=5",
@@ -144,20 +193,7 @@
       ],
       "firstSeen": "2026-04-29T07:08:20.335Z",
       "pushedAt": "2026-04-29T07:08:20.335Z"
-    },
-    {
-      "id": "e71989684b881bac",
-      "title": "Oil rises on reports US will extend Iran blockade, prolonging Mideast supply disruptions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-04-29T04:41:13.522Z",
-      "pushedAt": "2026-04-29T04:41:13.522Z"
     }
   ],
-  "updatedAt": "2026-04-30T00:05:17.960Z"
+  "updatedAt": "2026-04-30T06:23:39.465Z"
 }
