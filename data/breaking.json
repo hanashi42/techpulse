@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "db4d10ad34d39ecb",
+      "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
+      "url": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + oil",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-04-30T08:37:28.001Z",
+      "pushedAt": "2026-04-30T08:37:28.001Z"
+    },
+    {
       "id": "c5d3ef50c758490a",
       "title": "Samsung chip profit jumps almost 50-fold; supply shortage to worsen in 2027 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFluM3ZHQmZkcEFwN2tIUGtzSXA0Nnh4UkJEQU9ac0w0eTQwTVBCc1p3TTczUkV4SXY1STB4SkFWZFRzSHJfNmx5NG00TGhCZE8yWW5lTkpLN0FWOGpsczhoc25UWjlsNEU3YXh6WHlhNjRjZ2c4QkFjMVdyd2JaOG50OFJNYjZ2Z2ZCUHdyV0RSNm1hZmZIbkp0SmFXQ0tDaDJlZ08zZHBLTFZ6M2JLa0M3cXdXSDNtLUw1SF9HYldBbm9CcFE?oc=5",
@@ -168,32 +181,7 @@
       ],
       "firstSeen": "2026-04-29T09:21:48.448Z",
       "pushedAt": "2026-04-29T09:21:48.448Z"
-    },
-    {
-      "id": "2da1adfc7ee3e19b",
-      "title": "Fired prosecutor Maurene Comey's lawsuit belongs in federal court, judge rules - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGR2SUNtcmRFZHdCTlhZV1FNUXpVVE8tT2dSRUVEbG5UU3ZhYkI4ZW4zemwxeHNOVkwyN1dOMjRDOUluR1NTeTZwVkNTYllGcTdxMHlwLTloOVZ6NWdHLW9BTzZ2a1AyUzRfYjdRVS1PTXEyWFlMYmRveHdmSW9STHZ3dFZvU1JHWmRSS2ZiZWhqbEdZLTRhZzFFVkNWV0E?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + cut"
-      ],
-      "firstSeen": "2026-04-29T07:08:20.198Z",
-      "pushedAt": "2026-04-29T07:08:20.198Z"
-    },
-    {
-      "id": "cbf1195202879bb4",
-      "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
-      "url": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate",
-        "interest rate + decision"
-      ],
-      "firstSeen": "2026-04-29T07:08:20.335Z",
-      "pushedAt": "2026-04-29T07:08:20.335Z"
     }
   ],
-  "updatedAt": "2026-04-30T06:23:39.465Z"
+  "updatedAt": "2026-04-30T08:37:28.249Z"
 }
