@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bb65374dab8eee67",
+      "title": "Apple says India antitrust body overstepping judicial authority as spat intensifies - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOVd6YnJBT1YwMXFDelZFTnZEZ0thN2Fvb01iTkd2UXBDeExubF9veXg0RWlDRnpSdTJVVEtGLXR2YnJhMkk4c2hteDlrZVRiTGNRQ2JiS19kR2tnbDdYZUVBVVFmelNVNmtsNGFMaVZVZG5aT1NmQlZKUEFuV3dDUmpJWUs3UmswZ0NtMWdqdmotcmZmYUF6aTJiRi1OTkRDVTlGNnZQX216NWFjODNTWXF3WkRDNDNXdUd1dXktNjFTOUowNUVGckVEbHZGcVNFR0dFZHFxelY5QTJSUU9HWTh3QWVmV3NNdXRNcg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "antitrust + apple"
+      ],
+      "firstSeen": "2026-04-30T19:42:11.954Z",
+      "pushedAt": "2026-04-30T19:42:11.954Z"
+    },
+    {
       "id": "ec0be17efae8529d",
       "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
       "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
@@ -205,19 +217,7 @@
       ],
       "firstSeen": "2026-04-29T20:13:09.297Z",
       "pushedAt": "2026-04-29T20:13:09.297Z"
-    },
-    {
-      "id": "4be7e8825f663359",
-      "title": "Fed holds rates steady but with highest level of dissent since 1992",
-      "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-04-29T19:01:02.030Z",
-      "pushedAt": "2026-04-29T19:01:02.030Z"
     }
   ],
-  "updatedAt": "2026-04-30T18:02:05.039Z"
+  "updatedAt": "2026-04-30T19:42:12.204Z"
 }
