@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8524097ca60d5cb1",
+      "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Y2QlpOSmdJS3I4ZVJ3VC1zc0NYMkpKU2RLUEZ2anVqS0l4WFNqXzQzdmhMVV9wZ1JjRDM4S3VULUxabjRqa1k4YjFFaUd5Q1lTbEx5am1adTR0YjZGdGhBUmUxLVdyUGxjMXp4UmJFQUYzNWtCdGdpc29DRzZQT1pIX2t2bVNfcG50aW9RbWhxb0NSSXk2dDB3V09fd04xLWRV?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-04-30T00:05:17.677Z",
+      "pushedAt": "2026-04-30T00:05:17.677Z"
+    },
+    {
       "id": "b6a980208f8aba53",
       "title": "Microsoft calls for $190 billion in 2026 capital spending on soaring memory prices",
       "url": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
@@ -147,5 +159,5 @@
       "pushedAt": "2026-04-29T04:41:13.522Z"
     }
   ],
-  "updatedAt": "2026-04-29T23:09:56.235Z"
+  "updatedAt": "2026-04-30T00:05:17.960Z"
 }
