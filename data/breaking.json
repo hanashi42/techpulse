@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c2e6f065982ef87b",
+      "title": "Meta CEO Zuckerberg blames layoffs on capital spending, won't rule out more job cuts - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0VMdWRDTV9zanF6TC1venRyaHQtZk1hUTR3U0E2YjFRN3dfbWFzNmRtcGFsR0xKUjRtT05RWVVDTUQ0aTJMallnemltMzhKTTlySkxzRDRIUHVFb2h6ZEhTOEZTcWRUMm05bkhvN2FtS3VFN1p1M2ZOcExqeVFRSWt1MUp1MG1sS3pzLTFOUUlRYnI1Wno2cDZHYU54T2VBUW1FemVHNl9TNkFSTjRUZFdIYlBGajFLYktuRzhzT2s3cUVDOXpB?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + meta"
+      ],
+      "firstSeen": "2026-04-30T23:28:53.276Z",
+      "pushedAt": "2026-04-30T23:28:53.276Z"
+    },
+    {
       "id": "ce7fca8b3513ce14",
       "title": "Big central banks say rate hikes are getting closer - Reuters",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXVUWXVYOU1hdHN3dE93SFpuUGpGcE9CQVV5SDVBYV9UX1RHSzdfWFFGdmRHeU92ZjZNYXVzVnFJTFo4WmdUMElzRXAtMzlvWUpmZFdZcmR5VG1VdmFRVncxN0JfLWlzMXR5eUhncXYzVEFjTl84Y3M0RFNlaFdnNm5BdEpKczNsbFczZ3AxeG1mV2s?oc=5",
@@ -193,19 +205,7 @@
       ],
       "firstSeen": "2026-04-30T00:05:17.677Z",
       "pushedAt": "2026-04-30T00:05:17.677Z"
-    },
-    {
-      "id": "b6a980208f8aba53",
-      "title": "Microsoft calls for $190 billion in 2026 capital spending on soaring memory prices",
-      "url": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-04-29T23:09:55.973Z",
-      "pushedAt": "2026-04-29T23:09:55.973Z"
     }
   ],
-  "updatedAt": "2026-04-30T21:39:43.291Z"
+  "updatedAt": "2026-04-30T23:28:53.413Z"
 }
