@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5e73de08fa359f99",
+      "title": "Indian Rupee Hits Record Low Against US Dollar - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGhnT18yYlVRUjRkdlRHZU4xU1FoVElQN3owdFJVNUNxbmlWZXVScVd4TUxSLWljVGdQZFFTWHVPZld6WEVDTUZ3c29XWEhEN0tWWFhvQ014UQ?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "dollar + record"
+      ],
+      "firstSeen": "2026-04-30T11:57:21.987Z",
+      "pushedAt": "2026-04-30T11:57:21.987Z"
+    },
+    {
       "id": "4489802a319b8e9e",
       "title": "Brent crude surges to $123 a barrel on Iran war worries, while world stocks retreat - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFVuY2E0OENNeFBzazNMcWFHNk1sRi0teVZSMVNvNmJGVUdxd0VLczB4VXpqeFJ6enlZVWhWSlhWRFJJZG1raVpCaG9oMk5GVnhGTG9mR1RGSl9ZMngxRDVZa253RV9SSXRrV2dJTnZMaWJPYnp2Vkt0WkFybW5fUTB5emZBbFlkbmJ4WkxSekFfRHM?oc=5",
@@ -195,5 +207,5 @@
       "pushedAt": "2026-04-29T12:22:49.462Z"
     }
   ],
-  "updatedAt": "2026-04-30T10:27:41.939Z"
+  "updatedAt": "2026-04-30T11:57:22.116Z"
 }
