@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bf4e620c9cc51515",
+      "title": "Bank of England faces the 'most difficult combination,' says governor Bailey as energy prices soar",
+      "url": "https://www.cnbc.com/2026/04/30/energy-price-very-uncertain-bank-of-england-andrew-bailey-boe.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-04-30T15:27:10.874Z",
+      "pushedAt": "2026-04-30T15:27:10.874Z"
+    },
+    {
       "id": "b78ffb8579fb22c4",
       "title": "Soaring fuel prices in Pakistan threaten economic and political crises",
       "url": "https://www.aljazeera.com/economy/2026/4/30/soaring-fuel-prices-in-pakistan-threaten-economic-and-political-crises?traffic_source=rss",
@@ -217,19 +229,7 @@
       ],
       "firstSeen": "2026-04-29T17:50:24.303Z",
       "pushedAt": "2026-04-29T17:50:24.303Z"
-    },
-    {
-      "id": "66fb74703a5b6584",
-      "title": "How US and Iran are playing a crypto cat-and-mouse game over sanctions",
-      "url": "https://www.aljazeera.com/news/2026/4/29/how-us-and-iran-are-playing-a-crypto-cat-and-mouse-game-over-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-04-29T14:34:04.144Z",
-      "pushedAt": "2026-04-29T14:34:04.144Z"
     }
   ],
-  "updatedAt": "2026-04-30T13:28:48.128Z"
+  "updatedAt": "2026-04-30T15:27:11.053Z"
 }
