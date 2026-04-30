@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "b78ffb8579fb22c4",
+      "title": "Soaring fuel prices in Pakistan threaten economic and political crises",
+      "url": "https://www.aljazeera.com/economy/2026/4/30/soaring-fuel-prices-in-pakistan-threaten-economic-and-political-crises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-04-30T13:28:47.795Z",
+      "pushedAt": "2026-04-30T13:28:47.795Z"
+    },
+    {
+      "id": "533ba19d7ca4518c",
+      "title": "Israel Intercepts Aid Flotilla Heading to Breach Naval Blockade of Gaza",
+      "url": "https://www.nytimes.com/2026/04/30/world/middleeast/israel-gaza-aid-flotilla.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + naval"
+      ],
+      "firstSeen": "2026-04-30T13:28:47.967Z",
+      "pushedAt": "2026-04-30T13:28:47.967Z"
+    },
+    {
+      "id": "2e2476e4cd474e24",
+      "title": "Trump said his blockade would cause Iran's oil industry to 'explode' this week. Why that won't happen",
+      "url": "https://www.cnbc.com/2026/04/30/trump-blockade-iran-oil-strait-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-04-30T13:28:48.084Z",
+      "pushedAt": "2026-04-30T13:28:48.084Z"
+    },
+    {
       "id": "5e73de08fa359f99",
       "title": "Indian Rupee Hits Record Low Against US Dollar - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGhnT18yYlVRUjRkdlRHZU4xU1FoVElQN3owdFJVNUNxbmlWZXVScVd4TUxSLWljVGdQZFFTWHVPZld6WEVDTUZ3c29XWEhEN0tWWFhvQ014UQ?oc=5",
@@ -193,19 +229,7 @@
       ],
       "firstSeen": "2026-04-29T14:34:04.144Z",
       "pushedAt": "2026-04-29T14:34:04.144Z"
-    },
-    {
-      "id": "97e5c172bd429d7f",
-      "title": "At least three killed, more than 10 injured in Russian attacks on Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/4/29/at-least-three-killed-more-than-10-injured-in-russian-attacks-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-04-29T12:22:49.462Z",
-      "pushedAt": "2026-04-29T12:22:49.462Z"
     }
   ],
-  "updatedAt": "2026-04-30T11:57:22.116Z"
+  "updatedAt": "2026-04-30T13:28:48.128Z"
 }
