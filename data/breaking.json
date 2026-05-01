@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0ff187427e51ba74",
+      "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - Scripps News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONmZtak5NVF9JNjJVRUY5bDZyNHlyREVLLWJBQnZtaWxPX1JkNzVHakU2WV9pbUItb2R3d3hPUjBlRk5YN0ZRVU1WMlVoMmY0dG1xODZLU0pDYWF4QnRFWWVoQi1UbXhKZmpGQ1pwbVhPMHp3VXBpcGY4dnBOQ2hfOHNfNU9GbVJvVm5VMmY2YlZFWHMwWW1mSWRjTHRoRy0tdWhfamJMYnFjc19NSXBSSHN4QjRDLUlsUnhTQXhNYmJObkk4ZVE1SzZmdFhoOF9D?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-01T12:08:46.971Z",
+      "pushedAt": "2026-05-01T12:08:46.971Z"
+    },
+    {
       "id": "8228c2106849a261",
       "title": "Oil prices rise again with little sign of war on Iran ending",
       "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss",
@@ -155,19 +167,7 @@
       ],
       "firstSeen": "2026-04-30T13:28:48.084Z",
       "pushedAt": "2026-04-30T13:28:48.084Z"
-    },
-    {
-      "id": "5e73de08fa359f99",
-      "title": "Indian Rupee Hits Record Low Against US Dollar - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWGhnT18yYlVRUjRkdlRHZU4xU1FoVElQN3owdFJVNUNxbmlWZXVScVd4TUxSLWljVGdQZFFTWHVPZld6WEVDTUZ3c29XWEhEN0tWWFhvQ014UQ?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "dollar + record"
-      ],
-      "firstSeen": "2026-04-30T11:57:21.987Z",
-      "pushedAt": "2026-04-30T11:57:21.987Z"
     }
   ],
-  "updatedAt": "2026-05-01T11:19:34.398Z"
+  "updatedAt": "2026-05-01T12:08:47.214Z"
 }
