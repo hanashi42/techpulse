@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "4489802a319b8e9e",
+      "title": "US stocks rally to the finish of their best month since 2020, even as oil prices whipsaw - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFVuY2E0OENNeFBzazNMcWFHNk1sRi0teVZSMVNvNmJGVUdxd0VLczB4VXpqeFJ6enlZVWhWSlhWRFJJZG1raVpCaG9oMk5GVnhGTG9mR1RGSl9ZMngxRDVZa253RV9SSXRrV2dJTnZMaWJPYnp2Vkt0WkFybW5fUTB5emZBbFlkbmJ4WkxSekFfRHM?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-05-01T14:42:03.832Z",
+      "pushedAt": "2026-05-01T14:42:03.832Z"
+    },
+    {
+      "id": "c489857b9c0d38b8",
+      "title": "Woman killed, children injured as Israel attacks Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-01T14:42:03.923Z",
+      "pushedAt": "2026-05-01T14:42:03.923Z"
+    },
+    {
+      "id": "a2ded438e138dcfd",
+      "title": "China has now dropped tariffs on imports from every African country except 1 - InformNNY.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2lzdk9URFFBVzc3U0Vaejd2UnowVWlySHZvbFZ3SUJGRngxdFZkcnE2eGVRNENjRVgxT3NVWnFabFdjYU1qTnZKTS12bkZjSW5tZkUxM3hZZlZaclVTNzNzU25IV0pJd0oxdGQwWl9OMC1WaEtaajRHU0hUYnZuQTZJS1dLOFRVZXdRUU9Da2VCY3RwVFdkVm9fLXBCMlBXSWczdm5EeTBtNG1uR0RkQVhiTWlPTGNrTE92Z9IBwgFBVV95cUxQVEVjdFlvRmRwdUVmaEtka3M5NnVDcVZ0dFNzX1pJM0pLMGpTMzRERWtmNzhUeUcwd2dSSHJMZWlkUDM3dktSNVRSUmVkN0RFUTQxbDFiQWdLNVhzN1dtQUpvazRGR2U4N05sNWdsZjg5U0I0Wl85S0VkdlhMamZFQ29NQXdBS0R4dTVxckxERWZRNTBxN2tlaDVoeG1mcTFGdDVuT0lZbTNxelBpSE5vY2NZdzhyS05pUThCWDVvaWtkdw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-01T14:42:03.966Z",
+      "pushedAt": "2026-05-01T14:42:03.966Z"
+    },
+    {
       "id": "9384936a86499fad",
       "title": "US Key Inflation Gauge Hits Highest Level In Nearly Three Years In March - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FdHdqUWltWjhja1Vlb00yWlM3QXhiUkxORDJZWUh6YVdRNEhyUUQ1Z2toUjdESFFGWDlvdHlVYWhfXzBvczgtT1dCNFFyejZjWVpjeGYyYW9rTGwzaGdqYnl4Yw?oc=5",
@@ -145,5 +181,5 @@
       "pushedAt": "2026-04-30T15:27:10.874Z"
     }
   ],
-  "updatedAt": "2026-05-01T13:50:54.048Z"
+  "updatedAt": "2026-05-01T14:42:03.982Z"
 }
