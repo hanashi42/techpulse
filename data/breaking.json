@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "id": "24c9f06cf38591ae",
+      "title": "Bitcoin surged in April, but weak buyer demand makes the rally vulnerable",
+      "url": "https://www.cnbc.com/2026/05/01/bitcoin-surged-in-april-but-weak-buyer-demand-makes-rally-vulnerable.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + bitcoin",
+        "rally + bitcoin",
+        "bitcoin + surge"
+      ],
+      "firstSeen": "2026-05-01T16:34:38.622Z",
+      "pushedAt": "2026-05-01T16:34:38.622Z"
+    },
+    {
+      "id": "bf4e620c9cc51515",
+      "title": "Bank of England faces the 'most difficult combination,' says governor Bailey as energy prices soar",
+      "url": "https://www.cnbc.com/2026/04/30/energy-price-very-uncertain-bank-of-england-andrew-bailey-boe.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-05-01T16:34:38.918Z",
+      "pushedAt": "2026-05-01T16:34:38.918Z"
+    },
+    {
       "id": "ce3abd15c0d264a5",
       "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
       "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html",
@@ -181,5 +207,5 @@
       "pushedAt": "2026-04-30T18:02:04.822Z"
     }
   ],
-  "updatedAt": "2026-05-01T15:38:28.619Z"
+  "updatedAt": "2026-05-01T16:34:39.157Z"
 }
