@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8228c2106849a261",
+      "title": "Oil prices rise again with little sign of war on Iran ending",
+      "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-05-01T11:19:34.294Z",
+      "pushedAt": "2026-05-01T11:19:34.294Z"
+    },
+    {
       "id": "d8a204655111e066",
       "title": "RAF troops shot down more than 100 Iranian drones and missiles fired at Middle East base",
       "url": "https://news.sky.com/story/inside-the-base-where-raf-aces-are-shooting-down-iranian-drones-13538059",
@@ -155,31 +167,7 @@
       ],
       "firstSeen": "2026-04-30T11:57:21.987Z",
       "pushedAt": "2026-04-30T11:57:21.987Z"
-    },
-    {
-      "id": "4489802a319b8e9e",
-      "title": "Brent crude surges to $123 a barrel on Iran war worries, while world stocks retreat - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFVuY2E0OENNeFBzazNMcWFHNk1sRi0teVZSMVNvNmJGVUdxd0VLczB4VXpqeFJ6enlZVWhWSlhWRFJJZG1raVpCaG9oMk5GVnhGTG9mR1RGSl9ZMngxRDVZa253RV9SSXRrV2dJTnZMaWJPYnp2Vkt0WkFybW5fUTB5emZBbFlkbmJ4WkxSekFfRHM?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + crude"
-      ],
-      "firstSeen": "2026-04-30T10:27:41.818Z",
-      "pushedAt": "2026-04-30T10:27:41.818Z"
-    },
-    {
-      "id": "772853ba3c7e6aae",
-      "title": "Pakistan opens up road trade routes into Iran amid Hormuz blockade",
-      "url": "https://www.aljazeera.com/news/2026/4/30/pakistan-opens-up-road-trade-routes-into-iran-amid-hormuz-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + hormuz"
-      ],
-      "firstSeen": "2026-04-30T10:27:41.885Z",
-      "pushedAt": "2026-04-30T10:27:41.885Z"
     }
   ],
-  "updatedAt": "2026-05-01T10:07:51.910Z"
+  "updatedAt": "2026-05-01T11:19:34.398Z"
 }
