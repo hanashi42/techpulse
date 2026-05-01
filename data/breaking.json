@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6bb1d125064c3973",
+      "title": "Explosion of bombs left over from strikes kill 14 Iranian Revolutionary Guard members, reports say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWFPbWdBdl9HSExRZDZaSHFUaDJLVF9jU0NBVzFjTW5nT05RSlBXemU5SmtSUURxQ2w4a2dNWG04N1BXQ1NycnJHMjQwZm1Zd21KYTE0aEtyRFhKQjlyc2NMeWVuOHRBQW5yd1BMcWJVRTZTdGdiamZXejVGMDJmR1paaXpjMy1tSzVHR2NzemNNN2RYS2ItNHRiWnV4bXlmdVRB?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-05-01T18:41:50.513Z",
+      "pushedAt": "2026-05-01T18:41:50.513Z"
+    },
+    {
+      "id": "267519d219bac8de",
+      "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
+      "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + europe"
+      ],
+      "firstSeen": "2026-05-01T18:41:50.800Z",
+      "pushedAt": "2026-05-01T18:41:50.800Z"
+    },
+    {
       "id": "0b829f311382446b",
       "title": "Trump says he will raise tariffs on EU autos to 25% - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVE1WMTl1SUo5X1BUQkFPOHd1b2ZfVDR3YzMybjJoRTBPYU5mTVNaM1ZVdkdFaXIwQUt5Q3dyaFRjVDBKX3NiOTgxNTNLNDdWVVBCaTRscDVpR3E3NW5wZEdPR05uNzlacGF3NkFBYlpjX0lwdGlXVDc0ZXdMa3I5X3RKeC0yZkI3eUQzQWpqLTdpWEZFTUtxR1cwb1RkT0JXYjdIaGhTYlNXdHE0MjhJ?oc=5",
@@ -217,19 +241,7 @@
       ],
       "firstSeen": "2026-04-30T19:42:11.954Z",
       "pushedAt": "2026-04-30T19:42:11.954Z"
-    },
-    {
-      "id": "ec0be17efae8529d",
-      "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
-      "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-04-30T18:02:04.822Z",
-      "pushedAt": "2026-04-30T18:02:04.822Z"
     }
   ],
-  "updatedAt": "2026-05-01T17:34:31.326Z"
+  "updatedAt": "2026-05-01T18:41:51.078Z"
 }
