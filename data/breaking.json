@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ce3abd15c0d264a5",
+      "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
+      "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 25%"
+      ],
+      "firstSeen": "2026-05-01T15:38:28.353Z",
+      "pushedAt": "2026-05-01T15:38:28.353Z"
+    },
+    {
       "id": "4489802a319b8e9e",
       "title": "US stocks rally to the finish of their best month since 2020, even as oil prices whipsaw - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFVuY2E0OENNeFBzazNMcWFHNk1sRi0teVZSMVNvNmJGVUdxd0VLczB4VXpqeFJ6enlZVWhWSlhWRFJJZG1raVpCaG9oMk5GVnhGTG9mR1RGSl9ZMngxRDVZa253RV9SSXRrV2dJTnZMaWJPYnp2Vkt0WkFybW5fUTB5emZBbFlkbmJ4WkxSekFfRHM?oc=5",
@@ -167,19 +179,7 @@
       ],
       "firstSeen": "2026-04-30T18:02:04.822Z",
       "pushedAt": "2026-04-30T18:02:04.822Z"
-    },
-    {
-      "id": "bf4e620c9cc51515",
-      "title": "Bank of England faces the 'most difficult combination,' says governor Bailey as energy prices soar",
-      "url": "https://www.cnbc.com/2026/04/30/energy-price-very-uncertain-bank-of-england-andrew-bailey-boe.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-04-30T15:27:10.874Z",
-      "pushedAt": "2026-04-30T15:27:10.874Z"
     }
   ],
-  "updatedAt": "2026-05-01T14:42:03.982Z"
+  "updatedAt": "2026-05-01T15:38:28.619Z"
 }
