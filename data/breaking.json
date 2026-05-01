@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "ed4b7609d77c5a0e",
+      "title": "Fed should ditch rate-cut lean because of oil shock, policymakers say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNktfZTR3cElZWm5BdVlVTHN4WHBISHdHMV9RaEdINFJ4b0FfWllFay1mbXBzN1ZBVTZKeEpPQzF4aVJBa2VPcm5iTTVBeVpfam4xV2FFdEVaRzhkUC1jQlBNZkFVQk9wX1ZpUkprYnJKVlY2Zm94bEQyYXhLc1VtYkZIRzRlSGFfTjFaOGdOdG1fM2h4dll2ekpZOWVfUG1ZaGxvNEhJWUVtTmU0ZFJKbFE5RlpZcDIzcUhmeWhB?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-05-01T19:50:09.632Z",
+      "pushedAt": "2026-05-01T19:50:09.632Z"
+    },
+    {
+      "id": "e1a8160e1d2d8772",
+      "title": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2YyeDBPSk56bFJtclFGczJsVk1lR293OHpCN0VkNHZFbDgtSW1mZlVzdXZWaElUVXgwSjFVV3FoQ0NKZGROWUxmNDBrbXp1SmJLalp6RkhGOEpjMjRnNjVDVmdTUF9nOXlSeEhRZGJvbDRMVFJLbnJWUEN2YmktSmtiMnVVQXhjRWh3VlNnSHRnQQ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-01T19:50:10.124Z",
+      "pushedAt": "2026-05-01T19:50:10.124Z"
+    },
+    {
+      "id": "c8b3529daac10902",
+      "title": "EU hits back at 'unacceptable' Donald Trump over plans to increase tariffs",
+      "url": "https://news.sky.com/story/eu-hits-back-at-8216unacceptable8217-donald-trump-over-plans-to-increase-tariffs-13539002",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-01T19:50:10.431Z",
+      "pushedAt": "2026-05-01T19:50:10.431Z"
+    },
+    {
       "id": "6bb1d125064c3973",
       "title": "Explosion of bombs left over from strikes kill 14 Iranian Revolutionary Guard members, reports say - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWFPbWdBdl9HSExRZDZaSHFUaDJLVF9jU0NBVzFjTW5nT05RSlBXemU5SmtSUURxQ2w4a2dNWG04N1BXQ1NycnJHMjQwZm1Zd21KYTE0aEtyRFhKQjlyc2NMeWVuOHRBQW5yd1BMcWJVRTZTdGdiamZXejVGMDJmR1paaXpjMy1tSzVHR2NzemNNN2RYS2ItNHRiWnV4bXlmdVRB?oc=5",
@@ -229,19 +265,7 @@
       ],
       "firstSeen": "2026-04-30T21:39:43.035Z",
       "pushedAt": "2026-04-30T21:39:43.035Z"
-    },
-    {
-      "id": "bb65374dab8eee67",
-      "title": "Apple says India antitrust body overstepping judicial authority as spat intensifies - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOVd6YnJBT1YwMXFDelZFTnZEZ0thN2Fvb01iTkd2UXBDeExubF9veXg0RWlDRnpSdTJVVEtGLXR2YnJhMkk4c2hteDlrZVRiTGNRQ2JiS19kR2tnbDdYZUVBVVFmelNVNmtsNGFMaVZVZG5aT1NmQlZKUEFuV3dDUmpJWUs3UmswZ0NtMWdqdmotcmZmYUF6aTJiRi1OTkRDVTlGNnZQX216NWFjODNTWXF3WkRDNDNXdUd1dXktNjFTOUowNUVGckVEbHZGcVNFR0dFZHFxelY5QTJSUU9HWTh3QWVmV3NNdXRNcg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "antitrust + apple"
-      ],
-      "firstSeen": "2026-04-30T19:42:11.954Z",
-      "pushedAt": "2026-04-30T19:42:11.954Z"
     }
   ],
-  "updatedAt": "2026-05-01T18:41:51.078Z"
+  "updatedAt": "2026-05-01T19:50:10.554Z"
 }
