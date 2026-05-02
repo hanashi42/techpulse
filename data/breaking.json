@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "id": "bf4e620c9cc51515",
+      "title": "Bank of England faces the 'most difficult combination,' says governor Bailey as energy prices soar",
+      "url": "https://www.cnbc.com/2026/04/30/energy-price-very-uncertain-bank-of-england-andrew-bailey-boe.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-05-02T17:50:05.808Z",
+      "pushedAt": "2026-05-02T17:50:05.808Z"
+    },
+    {
+      "id": "24c9f06cf38591ae",
+      "title": "Bitcoin surged in April, but weak buyer demand makes the rally vulnerable",
+      "url": "https://www.cnbc.com/2026/05/01/bitcoin-surged-in-april-but-weak-buyer-demand-makes-rally-vulnerable.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + bitcoin",
+        "rally + bitcoin",
+        "bitcoin + surge"
+      ],
+      "firstSeen": "2026-05-02T17:50:06.046Z",
+      "pushedAt": "2026-05-02T17:50:06.046Z"
+    },
+    {
       "id": "1c5de74aade5e07e",
       "title": "Israeli air strikes on Lebanon kill 41 people in 24-hours",
       "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
@@ -191,31 +217,7 @@
       ],
       "firstSeen": "2026-05-01T18:41:50.800Z",
       "pushedAt": "2026-05-01T18:41:50.800Z"
-    },
-    {
-      "id": "0b829f311382446b",
-      "title": "Trump says he will raise tariffs on EU autos to 25% - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVE1WMTl1SUo5X1BUQkFPOHd1b2ZfVDR3YzMybjJoRTBPYU5mTVNaM1ZVdkdFaXIwQUt5Q3dyaFRjVDBKX3NiOTgxNTNLNDdWVVBCaTRscDVpR3E3NW5wZEdPR05uNzlacGF3NkFBYlpjX0lwdGlXVDc0ZXdMa3I5X3RKeC0yZkI3eUQzQWpqLTdpWEZFTUtxR1cwb1RkT0JXYjdIaGhTYlNXdHE0MjhJ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 25%"
-      ],
-      "firstSeen": "2026-05-01T17:34:31.148Z",
-      "pushedAt": "2026-05-01T17:34:31.148Z"
-    },
-    {
-      "id": "91c4e2189db6b61d",
-      "title": "Trump says he's raising EU auto tariffs to 25% without clarifying how",
-      "url": "https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 25%"
-      ],
-      "firstSeen": "2026-05-01T17:34:31.261Z",
-      "pushedAt": "2026-05-01T17:34:31.261Z"
     }
   ],
-  "updatedAt": "2026-05-02T17:01:12.375Z"
+  "updatedAt": "2026-05-02T17:50:06.328Z"
 }
