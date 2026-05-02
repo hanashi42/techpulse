@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "027bbc6e04959e5b",
+      "title": "Mali probes soldiers suspected of involvement in military base attacks",
+      "url": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-05-02T13:40:59.941Z",
+      "pushedAt": "2026-05-02T13:40:59.941Z"
+    },
+    {
+      "id": "b95318efdffd210a",
+      "title": "China's Commerce Ministry blocks US sanctions against five refineries - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjdUbjJfT01COFk3V1Vsdk9fNE9nZGs3OUI3YWFYMXExU3BJZG90M19oVVExYUVQRk9KU3RhVHlBaGpqeHplYnpaLV9OZjNXSUlFOGVKZXpxNmsyZ3U2UXc0LXZvSGZ5V3dlY3dQVzctcGdpVFItcGpFcGlTQkE4R3BaOUstRDEzQ1IyZmlpMGVURHc4MXFUMGZyeGxuZ0JjUHVBZElQT19qZVRIeV96bE16ZnpPeFdzakg4Sw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-02T13:41:00.097Z",
+      "pushedAt": "2026-05-02T13:41:00.097Z"
+    },
+    {
       "id": "ca116e639b41c0f0",
       "title": "Trump auto tariff hike could cost Germany nearly $18 billion in output, institute says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblo0X0ZIM3dMRnVOUlo4UFZJQnFybUpiSWRid29tT3Z0bFZiWDRVMlhJSFdhdmowdFlYWW42eE9XcDVOX0EtdHdPSzZwM3g2MjhmOXNVVTJKdmxud1I0QU80empzMFRkXzBFQ0R5UTdEX1F5YXFvZ1hpR0RqWm1BaHd3NnlDVXUzdGtVVDlCLWNhTHdoUXRDUGFwZ0JteURFcTh4Y3RpYTV6WS1yb08tM3BoWHFULWhtMUVscWhMWDlSWWs?oc=5",
@@ -193,67 +217,7 @@
       ],
       "firstSeen": "2026-05-01T13:50:53.769Z",
       "pushedAt": "2026-05-01T13:50:53.769Z"
-    },
-    {
-      "id": "0ff187427e51ba74",
-      "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - Scripps News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONmZtak5NVF9JNjJVRUY5bDZyNHlyREVLLWJBQnZtaWxPX1JkNzVHakU2WV9pbUItb2R3d3hPUjBlRk5YN0ZRVU1WMlVoMmY0dG1xODZLU0pDYWF4QnRFWWVoQi1UbXhKZmpGQ1pwbVhPMHp3VXBpcGY4dnBOQ2hfOHNfNU9GbVJvVm5VMmY2YlZFWHMwWW1mSWRjTHRoRy0tdWhfamJMYnFjc19NSXBSSHN4QjRDLUlsUnhTQXhNYmJObkk4ZVE1SzZmdFhoOF9D?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-05-01T12:08:46.971Z",
-      "pushedAt": "2026-05-01T12:08:46.971Z"
-    },
-    {
-      "id": "8228c2106849a261",
-      "title": "Oil prices rise again with little sign of war on Iran ending",
-      "url": "https://www.aljazeera.com/news/2026/5/1/oil-prices-rise-again-with-little-sign-of-war-on-iran-ending?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-05-01T11:19:34.294Z",
-      "pushedAt": "2026-05-01T11:19:34.294Z"
-    },
-    {
-      "id": "d8a204655111e066",
-      "title": "RAF troops shot down more than 100 Iranian drones and missiles fired at Middle East base",
-      "url": "https://news.sky.com/story/inside-the-base-where-raf-aces-are-shooting-down-iranian-drones-13538059",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + drone"
-      ],
-      "firstSeen": "2026-05-01T10:07:51.791Z",
-      "pushedAt": "2026-05-01T10:07:51.791Z"
-    },
-    {
-      "id": "14f135f7a73d4499",
-      "title": "Engine trouble ahead? How the Strait of Hormuz standoff threatens luxury auto giants",
-      "url": "https://www.cnbc.com/2026/05/01/strait-of-hormuz-base-oils-luxury-autos.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-05-01T10:07:51.860Z",
-      "pushedAt": "2026-05-01T10:07:51.860Z"
-    },
-    {
-      "id": "76dcff661cdfd7e4",
-      "title": "Hegseth recasts Bitcoin as national security asset amid Russia, China expansion - dlnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWnZ4cl9yZHNGUHJwUktPWXVaSmFTdFdxWnBQbEE2ZVRwSWVUVTBJV0pSNEVrMWFuckRRVGY4VXpxSFk2YWxOWERaVm9YWmpXZDhBcnMwZXdXUkNzbE9HSzVmUk03WFdQVHdfeTk0OFJXNVczeWFkRG4yZF9fX1dGNXJSbHBfdWl5Z3JSS0V1d2t2WUhsdllIWWFneHl0c01xRTVUeTdyUUFza3l6VlBURUZfNzhwWWVRZVFj?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bitcoin + sec"
-      ],
-      "firstSeen": "2026-05-01T10:07:51.895Z",
-      "pushedAt": "2026-05-01T10:07:51.895Z"
     }
   ],
-  "updatedAt": "2026-05-02T09:46:10.425Z"
+  "updatedAt": "2026-05-02T13:41:00.269Z"
 }
