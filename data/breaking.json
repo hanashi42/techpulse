@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "64ea806208c01fb1",
+      "title": "Trump says US Navy acting 'like pirates' to carry out naval blockade of Iranian ports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVc1ZkgxV3lpblVzQXlQU0oxM2xSbG15WmdYd0NscGg2Yy1xZVA2VFJ3RTJnTXpWQnhjRWdLQnBlSDlYTnBnS0NieGg4bXhYUEVFZGFkaHhfVlhEZ3ptNVk3dEZneTV5MmR0Y1A5dlpIczlxMGJtY3l3a1JRY1RPZGxPSWdfZFlBUVRnc0pPOE12WnN5X2I5MXpBYW5TWUkzWkNnRWJfelMzVGdYcmJkWWRuTnFlMk1UblNpSXFYcw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + naval"
+      ],
+      "firstSeen": "2026-05-02T03:40:26.602Z",
+      "pushedAt": "2026-05-02T03:40:26.602Z"
+    },
+    {
       "id": "ed4b7609d77c5a0e",
       "title": "Fed should ditch rate-cut lean because of oil shock, policymakers say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNktfZTR3cElZWm5BdVlVTHN4WHBISHdHMV9RaEdINFJ4b0FfWllFay1mbXBzN1ZBVTZKeEpPQzF4aVJBa2VPcm5iTTVBeVpfam4xV2FFdEVaRzhkUC1jQlBNZkFVQk9wX1ZpUkprYnJKVlY2Zm94bEQyYXhLc1VtYkZIRzRlSGFfTjFaOGdOdG1fM2h4dll2ekpZOWVfUG1ZaGxvNEhJWUVtTmU0ZFJKbFE5RlpZcDIzcUhmeWhB?oc=5",
@@ -241,31 +253,7 @@
       ],
       "firstSeen": "2026-05-01T08:33:01.528Z",
       "pushedAt": "2026-05-01T08:33:01.528Z"
-    },
-    {
-      "id": "c2e6f065982ef87b",
-      "title": "Meta CEO Zuckerberg blames layoffs on capital spending, won't rule out more job cuts - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0VMdWRDTV9zanF6TC1venRyaHQtZk1hUTR3U0E2YjFRN3dfbWFzNmRtcGFsR0xKUjRtT05RWVVDTUQ0aTJMallnemltMzhKTTlySkxzRDRIUHVFb2h6ZEhTOEZTcWRUMm05bkhvN2FtS3VFN1p1M2ZOcExqeVFRSWt1MUp1MG1sS3pzLTFOUUlRYnI1Wno2cDZHYU54T2VBUW1FemVHNl9TNkFSTjRUZFdIYlBGajFLYktuRzhzT2s3cUVDOXpB?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-04-30T23:28:53.276Z",
-      "pushedAt": "2026-04-30T23:28:53.276Z"
-    },
-    {
-      "id": "ce7fca8b3513ce14",
-      "title": "Big central banks say rate hikes are getting closer - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXVUWXVYOU1hdHN3dE93SFpuUGpGcE9CQVV5SDVBYV9UX1RHSzdfWFFGdmRHeU92ZjZNYXVzVnFJTFo4WmdUMElzRXAtMzlvWUpmZFdZcmR5VG1VdmFRVncxN0JfLWlzMXR5eUhncXYzVEFjTl84Y3M0RFNlaFdnNm5BdEpKczNsbFczZ3AxeG1mV2s?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + central bank"
-      ],
-      "firstSeen": "2026-04-30T21:39:43.035Z",
-      "pushedAt": "2026-04-30T21:39:43.035Z"
     }
   ],
-  "updatedAt": "2026-05-01T19:50:10.554Z"
+  "updatedAt": "2026-05-02T03:40:26.927Z"
 }
