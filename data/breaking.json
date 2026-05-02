@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f8001f6a9960c54a",
+      "title": "China Uses Blocking Law for First Time to Counter U.S. Sanctions on Chinese Teapot Refineries Before Trump Visit - Geopolitechs",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Sd3VzdjNqMzZmVTRobVo2TnJ6SlRUanBQQUFvZjFyMUxYT1Y5TzhNZXExWnd4ZlNIYjVCVFprOVJqLUxMajZ5dzAyR3d4bDBTYThVb1RmUXhiV3llT2EyVWlia3g5X2ZlT2pXZHhHNExuZw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-02T16:04:04.360Z",
+      "pushedAt": "2026-05-02T16:04:04.360Z"
+    },
+    {
       "id": "32384265b85908bc",
       "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
       "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
@@ -205,55 +217,7 @@
       ],
       "firstSeen": "2026-05-01T16:34:38.918Z",
       "pushedAt": "2026-05-01T16:34:38.918Z"
-    },
-    {
-      "id": "ce3abd15c0d264a5",
-      "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
-      "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 25%"
-      ],
-      "firstSeen": "2026-05-01T15:38:28.353Z",
-      "pushedAt": "2026-05-01T15:38:28.353Z"
-    },
-    {
-      "id": "4489802a319b8e9e",
-      "title": "US stocks rally to the finish of their best month since 2020, even as oil prices whipsaw - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFVuY2E0OENNeFBzazNMcWFHNk1sRi0teVZSMVNvNmJGVUdxd0VLczB4VXpqeFJ6enlZVWhWSlhWRFJJZG1raVpCaG9oMk5GVnhGTG9mR1RGSl9ZMngxRDVZa253RV9SSXRrV2dJTnZMaWJPYnp2Vkt0WkFybW5fUTB5emZBbFlkbmJ4WkxSekFfRHM?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-05-01T14:42:03.832Z",
-      "pushedAt": "2026-05-01T14:42:03.832Z"
-    },
-    {
-      "id": "c489857b9c0d38b8",
-      "title": "Woman killed, children injured as Israel attacks Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/5/1/woman-killed-children-injured-as-israel-attacks-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-01T14:42:03.923Z",
-      "pushedAt": "2026-05-01T14:42:03.923Z"
-    },
-    {
-      "id": "a2ded438e138dcfd",
-      "title": "China has now dropped tariffs on imports from every African country except 1 - InformNNY.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2lzdk9URFFBVzc3U0Vaejd2UnowVWlySHZvbFZ3SUJGRngxdFZkcnE2eGVRNENjRVgxT3NVWnFabFdjYU1qTnZKTS12bkZjSW5tZkUxM3hZZlZaclVTNzNzU25IV0pJd0oxdGQwWl9OMC1WaEtaajRHU0hUYnZuQTZJS1dLOFRVZXdRUU9Da2VCY3RwVFdkVm9fLXBCMlBXSWczdm5EeTBtNG1uR0RkQVhiTWlPTGNrTE92Z9IBwgFBVV95cUxQVEVjdFlvRmRwdUVmaEtka3M5NnVDcVZ0dFNzX1pJM0pLMGpTMzRERWtmNzhUeUcwd2dSSHJMZWlkUDM3dktSNVRSUmVkN0RFUTQxbDFiQWdLNVhzN1dtQUpvazRGR2U4N05sNWdsZjg5U0I0Wl85S0VkdlhMamZFQ29NQXdBS0R4dTVxckxERWZRNTBxN2tlaDVoeG1mcTFGdDVuT0lZbTNxelBpSE5vY2NZdzhyS05pUThCWDVvaWtkdw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-05-01T14:42:03.966Z",
-      "pushedAt": "2026-05-01T14:42:03.966Z"
     }
   ],
-  "updatedAt": "2026-05-02T14:31:57.140Z"
+  "updatedAt": "2026-05-02T16:04:04.710Z"
 }
