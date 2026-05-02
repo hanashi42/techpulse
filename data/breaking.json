@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "32384265b85908bc",
+      "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-05-02T14:31:56.826Z",
+      "pushedAt": "2026-05-02T14:31:56.826Z"
+    },
+    {
+      "id": "d8a204655111e066",
+      "title": "RAF troops shot down more than 100 Iranian drones and missiles fired at Middle East base",
+      "url": "https://news.sky.com/story/inside-the-base-where-raf-aces-are-shooting-down-iranian-drones-13538059",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shot down + drone"
+      ],
+      "firstSeen": "2026-05-02T14:31:56.975Z",
+      "pushedAt": "2026-05-02T14:31:56.975Z"
+    },
+    {
+      "id": "14f135f7a73d4499",
+      "title": "Engine trouble ahead? How the Strait of Hormuz standoff threatens luxury auto giants",
+      "url": "https://www.cnbc.com/2026/05/01/strait-of-hormuz-base-oils-luxury-autos.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-05-02T14:31:57.068Z",
+      "pushedAt": "2026-05-02T14:31:57.068Z"
+    },
+    {
+      "id": "53b4246347cc82c4",
+      "title": "Oil prices fall after Iran sends updated peace proposal to mediators in Pakistan",
+      "url": "https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-05-02T14:31:57.099Z",
+      "pushedAt": "2026-05-02T14:31:57.099Z"
+    },
+    {
       "id": "027bbc6e04959e5b",
       "title": "Mali probes soldiers suspected of involvement in military base attacks",
       "url": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks?traffic_source=rss",
@@ -205,19 +253,7 @@
       ],
       "firstSeen": "2026-05-01T14:42:03.966Z",
       "pushedAt": "2026-05-01T14:42:03.966Z"
-    },
-    {
-      "id": "9384936a86499fad",
-      "title": "US Key Inflation Gauge Hits Highest Level In Nearly Three Years In March - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FdHdqUWltWjhja1Vlb00yWlM3QXhiUkxORDJZWUh6YVdRNEhyUUQ1Z2toUjdESFFGWDlvdHlVYWhfXzBvczgtT1dCNFFyejZjWVpjeGYyYW9rTGwzaGdqYnl4Yw?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + highest"
-      ],
-      "firstSeen": "2026-05-01T13:50:53.769Z",
-      "pushedAt": "2026-05-01T13:50:53.769Z"
     }
   ],
-  "updatedAt": "2026-05-02T13:41:00.269Z"
+  "updatedAt": "2026-05-02T14:31:57.140Z"
 }
