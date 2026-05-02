@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ca116e639b41c0f0",
+      "title": "Trump auto tariff hike could cost Germany nearly $18 billion in output, institute says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblo0X0ZIM3dMRnVOUlo4UFZJQnFybUpiSWRid29tT3Z0bFZiWDRVMlhJSFdhdmowdFlYWW42eE9XcDVOX0EtdHdPSzZwM3g2MjhmOXNVVTJKdmxud1I0QU80empzMFRkXzBFQ0R5UTdEX1F5YXFvZ1hpR0RqWm1BaHd3NnlDVXUzdGtVVDlCLWNhTHdoUXRDUGFwZ0JteURFcTh4Y3RpYTV6WS1yb08tM3BoWHFULWhtMUVscWhMWDlSWWs?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-02T09:46:10.112Z",
+      "pushedAt": "2026-05-02T09:46:10.112Z"
+    },
+    {
       "id": "64ea806208c01fb1",
       "title": "Trump says US Navy acting 'like pirates' to carry out naval blockade of Iranian ports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVc1ZkgxV3lpblVzQXlQU0oxM2xSbG15WmdYd0NscGg2Yy1xZVA2VFJ3RTJnTXpWQnhjRWdLQnBlSDlYTnBnS0NieGg4bXhYUEVFZGFkaHhfVlhEZ3ptNVk3dEZneTV5MmR0Y1A5dlpIczlxMGJtY3l3a1JRY1RPZGxPSWdfZFlBUVRnc0pPOE12WnN5X2I5MXpBYW5TWUkzWkNnRWJfelMzVGdYcmJkWWRuTnFlMk1UblNpSXFYcw?oc=5",
@@ -241,19 +253,7 @@
       ],
       "firstSeen": "2026-05-01T10:07:51.895Z",
       "pushedAt": "2026-05-01T10:07:51.895Z"
-    },
-    {
-      "id": "0a069ef024cd114b",
-      "title": "The US will suffer more from oil shock than China, Russia, or EU - Responsible Statecraft",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SYVBlc2VVdm5KcFNSSnBqQURsXzZVVFpFVHJOMTdjRkNSV0RpT2xYby00ZlJzczJFR3BQUVAtTTJBLTBmelRrVmN2VTNGTzdYVkV3OHctaExmT3YzcmpJbElBaUlXaUpkeUxv?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-05-01T08:33:01.528Z",
-      "pushedAt": "2026-05-01T08:33:01.528Z"
     }
   ],
-  "updatedAt": "2026-05-02T03:40:26.927Z"
+  "updatedAt": "2026-05-02T09:46:10.425Z"
 }
