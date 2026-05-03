@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c397f7f5620bd273",
+      "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
+      "url": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-05-03T22:22:46.289Z",
+      "pushedAt": "2026-05-03T22:22:46.289Z"
+    },
+    {
       "id": "bdfafeaf301906fb",
       "title": "Ship is attacked near Strait of Hormuz as Iran reviews US response to latest proposal - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3ZoeWEzNVd5SmdhMXlxQmFJc2hhTmxlN3NTOG1JaEVTOXAzeFh3MmtBemhvMGRLbXFUVFczX0R3TDkyNmhOWm1KSzZ2RlRNMVN0dmJ6VzFtUGtTVTYtR3J1d0VlSEItd3Y3QTJ5OG5EUVpoSTBhSUlLS1pTYWxhcHZOZDgtWnpVcTl2TkxTcU9xMGhscGlXODNaSHZLSm9tNEZZ?oc=5",
@@ -134,5 +146,5 @@
       "pushedAt": "2026-05-03T04:50:53.278Z"
     }
   ],
-  "updatedAt": "2026-05-03T20:58:52.263Z"
+  "updatedAt": "2026-05-03T22:22:46.365Z"
 }
