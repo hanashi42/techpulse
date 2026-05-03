@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e1a8160e1d2d8772",
+      "title": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2YyeDBPSk56bFJtclFGczJsVk1lR293OHpCN0VkNHZFbDgtSW1mZlVzdXZWaElUVXgwSjFVV3FoQ0NKZGROWUxmNDBrbXp1SmJLalp6RkhGOEpjMjRnNjVDVmdTUF9nOXlSeEhRZGJvbDRMVFJLbnJWUEN2YmktSmtiMnVVQXhjRWh3VlNnSHRnQQ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-03T15:23:27.035Z",
+      "pushedAt": "2026-05-03T15:23:27.035Z"
+    },
+    {
       "id": "7c838c8a93bc4ad8",
       "title": "OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE",
       "url": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
@@ -134,79 +146,7 @@
       ],
       "firstSeen": "2026-05-02T16:04:04.360Z",
       "pushedAt": "2026-05-02T16:04:04.360Z"
-    },
-    {
-      "id": "32384265b85908bc",
-      "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
-      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-02T14:31:56.826Z",
-      "pushedAt": "2026-05-02T14:31:56.826Z"
-    },
-    {
-      "id": "d8a204655111e066",
-      "title": "RAF troops shot down more than 100 Iranian drones and missiles fired at Middle East base",
-      "url": "https://news.sky.com/story/inside-the-base-where-raf-aces-are-shooting-down-iranian-drones-13538059",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + drone"
-      ],
-      "firstSeen": "2026-05-02T14:31:56.975Z",
-      "pushedAt": "2026-05-02T14:31:56.975Z"
-    },
-    {
-      "id": "14f135f7a73d4499",
-      "title": "Engine trouble ahead? How the Strait of Hormuz standoff threatens luxury auto giants",
-      "url": "https://www.cnbc.com/2026/05/01/strait-of-hormuz-base-oils-luxury-autos.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-05-02T14:31:57.068Z",
-      "pushedAt": "2026-05-02T14:31:57.068Z"
-    },
-    {
-      "id": "53b4246347cc82c4",
-      "title": "Oil prices fall after Iran sends updated peace proposal to mediators in Pakistan",
-      "url": "https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-05-02T14:31:57.099Z",
-      "pushedAt": "2026-05-02T14:31:57.099Z"
-    },
-    {
-      "id": "027bbc6e04959e5b",
-      "title": "Mali probes soldiers suspected of involvement in military base attacks",
-      "url": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-05-02T13:40:59.941Z",
-      "pushedAt": "2026-05-02T13:40:59.941Z"
-    },
-    {
-      "id": "b95318efdffd210a",
-      "title": "China's Commerce Ministry blocks US sanctions against five refineries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjdUbjJfT01COFk3V1Vsdk9fNE9nZGs3OUI3YWFYMXExU3BJZG90M19oVVExYUVQRk9KU3RhVHlBaGpqeHplYnpaLV9OZjNXSUlFOGVKZXpxNmsyZ3U2UXc0LXZvSGZ5V3dlY3dQVzctcGdpVFItcGpFcGlTQkE4R3BaOUstRDEzQ1IyZmlpMGVURHc4MXFUMGZyeGxuZ0JjUHVBZElQT19qZVRIeV96bE16ZnpPeFdzakg4Sw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-02T13:41:00.097Z",
-      "pushedAt": "2026-05-02T13:41:00.097Z"
     }
   ],
-  "updatedAt": "2026-05-03T12:07:34.479Z"
+  "updatedAt": "2026-05-03T15:23:27.301Z"
 }
