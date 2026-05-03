@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "5f47bfade41a8358",
+      "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
+      "url": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + naval",
+        "hormuz + naval"
+      ],
+      "firstSeen": "2026-05-03T10:53:09.446Z",
+      "pushedAt": "2026-05-03T10:53:09.446Z"
+    },
+    {
       "id": "c8b3529daac10902",
       "title": "EU hits back at 'unacceptable' Donald Trump over plans to increase tariffs",
       "url": "https://news.sky.com/story/eu-hits-back-at-8216unacceptable8217-donald-trump-over-plans-to-increase-tariffs-13539002",
@@ -169,19 +182,7 @@
       ],
       "firstSeen": "2026-05-02T13:41:00.097Z",
       "pushedAt": "2026-05-02T13:41:00.097Z"
-    },
-    {
-      "id": "ca116e639b41c0f0",
-      "title": "Trump auto tariff hike could cost Germany nearly $18 billion in output, institute says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblo0X0ZIM3dMRnVOUlo4UFZJQnFybUpiSWRid29tT3Z0bFZiWDRVMlhJSFdhdmowdFlYWW42eE9XcDVOX0EtdHdPSzZwM3g2MjhmOXNVVTJKdmxud1I0QU80empzMFRkXzBFQ0R5UTdEX1F5YXFvZ1hpR0RqWm1BaHd3NnlDVXUzdGtVVDlCLWNhTHdoUXRDUGFwZ0JteURFcTh4Y3RpYTV6WS1yb08tM3BoWHFULWhtMUVscWhMWDlSWWs?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-02T09:46:10.112Z",
-      "pushedAt": "2026-05-02T09:46:10.112Z"
     }
   ],
-  "updatedAt": "2026-05-03T07:10:34.361Z"
+  "updatedAt": "2026-05-03T10:53:09.618Z"
 }
