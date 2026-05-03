@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bf4e620c9cc51515",
+      "title": "Bank of England faces the 'most difficult combination,' says governor Bailey as energy prices soar",
+      "url": "https://www.cnbc.com/2026/04/30/energy-price-very-uncertain-bank-of-england-andrew-bailey-boe.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-05-03T18:37:26.754Z",
+      "pushedAt": "2026-05-03T18:37:26.754Z"
+    },
+    {
       "id": "ce3abd15c0d264a5",
       "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
       "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html",
@@ -108,19 +120,7 @@
       ],
       "firstSeen": "2026-05-03T04:50:53.278Z",
       "pushedAt": "2026-05-03T04:50:53.278Z"
-    },
-    {
-      "id": "91c4e2189db6b61d",
-      "title": "Trump says he's raising EU auto tariffs to 25%",
-      "url": "https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 25%"
-      ],
-      "firstSeen": "2026-05-02T18:36:33.173Z",
-      "pushedAt": "2026-05-02T18:36:33.173Z"
     }
   ],
-  "updatedAt": "2026-05-03T17:51:23.620Z"
+  "updatedAt": "2026-05-03T18:37:26.996Z"
 }
