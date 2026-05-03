@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bdfafeaf301906fb",
+      "title": "Ship is attacked near Strait of Hormuz as Iran reviews US response to latest proposal - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3ZoeWEzNVd5SmdhMXlxQmFJc2hhTmxlN3NTOG1JaEVTOXAzeFh3MmtBemhvMGRLbXFUVFczX0R3TDkyNmhOWm1KSzZ2RlRNMVN0dmJ6VzFtUGtTVTYtR3J1d0VlSEItd3Y3QTJ5OG5EUVpoSTBhSUlLS1pTYWxhcHZOZDgtWnpVcTl2TkxTcU9xMGhscGlXODNaSHZLSm9tNEZZ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + attacked"
+      ],
+      "firstSeen": "2026-05-03T20:58:52.120Z",
+      "pushedAt": "2026-05-03T20:58:52.120Z"
+    },
+    {
       "id": "bf4e620c9cc51515",
       "title": "Bank of England faces the 'most difficult combination,' says governor Bailey as energy prices soar",
       "url": "https://www.cnbc.com/2026/04/30/energy-price-very-uncertain-bank-of-england-andrew-bailey-boe.html",
@@ -122,5 +134,5 @@
       "pushedAt": "2026-05-03T04:50:53.278Z"
     }
   ],
-  "updatedAt": "2026-05-03T18:37:26.996Z"
+  "updatedAt": "2026-05-03T20:58:52.263Z"
 }
