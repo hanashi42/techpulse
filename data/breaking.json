@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f4b8cad0dc55982c",
+      "title": "Ukraine is hitting oil facilities deep inside Russia. Soaring fuel prices could blunt the impact - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTEyV245VWx4aVJNMjlOWFJvSkFBTVpSa3lZRkRrNUtQZ3MxZXdOenZ2UWxGbzQtWFlOekZRa3Vxa2pJbW9lWmUyOUV2dXFJQllNT1hjMHpGcWVsMTVnd3RENzBhOHVoWnNJNEFKTEdJOGFnSkV5dDZpSENZM0xxcnl5X1NIQlRrdXRCSVFxWGtDTTlSTlJNMzd0QmRpb0VnUkdBOGE3NC0tMHJ1?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + oil"
+      ],
+      "firstSeen": "2026-05-03T17:01:33.382Z",
+      "pushedAt": "2026-05-03T17:01:33.382Z"
+    },
+    {
       "id": "14f135f7a73d4499",
       "title": "Engine trouble ahead? How the Strait of Hormuz standoff threatens luxury auto giants",
       "url": "https://www.cnbc.com/2026/05/01/strait-of-hormuz-base-oils-luxury-autos.html",
@@ -122,43 +134,7 @@
       ],
       "firstSeen": "2026-05-02T17:50:06.046Z",
       "pushedAt": "2026-05-02T17:50:06.046Z"
-    },
-    {
-      "id": "1c5de74aade5e07e",
-      "title": "Israeli air strikes on Lebanon kill 41 people in 24-hours",
-      "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "air strikes on"
-      ],
-      "firstSeen": "2026-05-02T17:01:12.174Z",
-      "pushedAt": "2026-05-02T17:01:12.174Z"
-    },
-    {
-      "id": "ce3abd15c0d264a5",
-      "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
-      "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 25%"
-      ],
-      "firstSeen": "2026-05-02T17:01:12.271Z",
-      "pushedAt": "2026-05-02T17:01:12.271Z"
-    },
-    {
-      "id": "f8001f6a9960c54a",
-      "title": "China Uses Blocking Law for First Time to Counter U.S. Sanctions on Chinese Teapot Refineries Before Trump Visit - Geopolitechs",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Sd3VzdjNqMzZmVTRobVo2TnJ6SlRUanBQQUFvZjFyMUxYT1Y5TzhNZXExWnd4ZlNIYjVCVFprOVJqLUxMajZ5dzAyR3d4bDBTYThVb1RmUXhiV3llT2EyVWlia3g5X2ZlT2pXZHhHNExuZw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-02T16:04:04.360Z",
-      "pushedAt": "2026-05-02T16:04:04.360Z"
     }
   ],
-  "updatedAt": "2026-05-03T16:03:50.973Z"
+  "updatedAt": "2026-05-03T17:01:33.538Z"
 }
