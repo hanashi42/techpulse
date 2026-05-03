@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "14f135f7a73d4499",
+      "title": "Engine trouble ahead? How the Strait of Hormuz standoff threatens luxury auto giants",
+      "url": "https://www.cnbc.com/2026/05/01/strait-of-hormuz-base-oils-luxury-autos.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-05-03T16:03:50.752Z",
+      "pushedAt": "2026-05-03T16:03:50.752Z"
+    },
+    {
       "id": "e1a8160e1d2d8772",
       "title": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - AP News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2YyeDBPSk56bFJtclFGczJsVk1lR293OHpCN0VkNHZFbDgtSW1mZlVzdXZWaElUVXgwSjFVV3FoQ0NKZGROWUxmNDBrbXp1SmJLalp6RkhGOEpjMjRnNjVDVmdTUF9nOXlSeEhRZGJvbDRMVFJLbnJWUEN2YmktSmtiMnVVQXhjRWh3VlNnSHRnQQ?oc=5",
@@ -148,5 +160,5 @@
       "pushedAt": "2026-05-02T16:04:04.360Z"
     }
   ],
-  "updatedAt": "2026-05-03T15:23:27.301Z"
+  "updatedAt": "2026-05-03T16:03:50.973Z"
 }
