@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7c838c8a93bc4ad8",
+      "title": "OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE",
+      "url": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "opec + output"
+      ],
+      "firstSeen": "2026-05-03T12:07:34.124Z",
+      "pushedAt": "2026-05-03T12:07:34.124Z"
+    },
+    {
       "id": "a53f8b26860c3350",
       "title": "OPEC+ set to agree third oil output quota hike since Hormuz closure, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDd4Y0FGSVFkY1NjbFBmd0V5Q01udExuM2l6MjhFWXBzOWJBZU04dnExbzJ6S001ckRnRThWd2dKODNuUnhKRVViWXdEdEFNZlJPbEJYOUlEYWxPSkVIRzgyeXlsMzNCTjNSME5GNEFfcUVNMlk2a2J1SzJ6MHk0dXNvdE1SeDJVSm5MblRZcWVueHV1UTFIR2lnSjdTb01MMlBmclhteFk3ZDN0SHc0TjVlNmVJYkpnWHNnYTF5VGNZRnpwclE?oc=5",
@@ -196,5 +208,5 @@
       "pushedAt": "2026-05-02T13:41:00.097Z"
     }
   ],
-  "updatedAt": "2026-05-03T11:31:58.628Z"
+  "updatedAt": "2026-05-03T12:07:34.479Z"
 }
