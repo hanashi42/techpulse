@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ec09c4f4b1347ee5",
+      "title": "Beijing hits back at US sanctions on Chinese firms - chinadailyasia.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11R2YxdDN6R2JzWmp1V2VOdlF0N09DZ1NWU2dmOVJnSkdveUx5SGtnNXBaeENxWDlpTlJiUFRKdjFwVjgwWVZjZk5JV2RZMFdmeTYxVkhyaXY?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-03T04:50:53.278Z",
+      "pushedAt": "2026-05-03T04:50:53.278Z"
+    },
+    {
       "id": "91c4e2189db6b61d",
       "title": "Trump says he's raising EU auto tariffs to 25%",
       "url": "https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html",
@@ -157,79 +169,7 @@
       ],
       "firstSeen": "2026-05-02T09:46:10.112Z",
       "pushedAt": "2026-05-02T09:46:10.112Z"
-    },
-    {
-      "id": "64ea806208c01fb1",
-      "title": "Trump says US Navy acting 'like pirates' to carry out naval blockade of Iranian ports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVc1ZkgxV3lpblVzQXlQU0oxM2xSbG15WmdYd0NscGg2Yy1xZVA2VFJ3RTJnTXpWQnhjRWdLQnBlSDlYTnBnS0NieGg4bXhYUEVFZGFkaHhfVlhEZ3ptNVk3dEZneTV5MmR0Y1A5dlpIczlxMGJtY3l3a1JRY1RPZGxPSWdfZFlBUVRnc0pPOE12WnN5X2I5MXpBYW5TWUkzWkNnRWJfelMzVGdYcmJkWWRuTnFlMk1UblNpSXFYcw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval"
-      ],
-      "firstSeen": "2026-05-02T03:40:26.602Z",
-      "pushedAt": "2026-05-02T03:40:26.602Z"
-    },
-    {
-      "id": "ed4b7609d77c5a0e",
-      "title": "Fed should ditch rate-cut lean because of oil shock, policymakers say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNktfZTR3cElZWm5BdVlVTHN4WHBISHdHMV9RaEdINFJ4b0FfWllFay1mbXBzN1ZBVTZKeEpPQzF4aVJBa2VPcm5iTTVBeVpfam4xV2FFdEVaRzhkUC1jQlBNZkFVQk9wX1ZpUkprYnJKVlY2Zm94bEQyYXhLc1VtYkZIRzRlSGFfTjFaOGdOdG1fM2h4dll2ekpZOWVfUG1ZaGxvNEhJWUVtTmU0ZFJKbFE5RlpZcDIzcUhmeWhB?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-05-01T19:50:09.632Z",
-      "pushedAt": "2026-05-01T19:50:09.632Z"
-    },
-    {
-      "id": "e1a8160e1d2d8772",
-      "title": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2YyeDBPSk56bFJtclFGczJsVk1lR293OHpCN0VkNHZFbDgtSW1mZlVzdXZWaElUVXgwSjFVV3FoQ0NKZGROWUxmNDBrbXp1SmJLalp6RkhGOEpjMjRnNjVDVmdTUF9nOXlSeEhRZGJvbDRMVFJLbnJWUEN2YmktSmtiMnVVQXhjRWh3VlNnSHRnQQ?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-01T19:50:10.124Z",
-      "pushedAt": "2026-05-01T19:50:10.124Z"
-    },
-    {
-      "id": "c8b3529daac10902",
-      "title": "EU hits back at 'unacceptable' Donald Trump over plans to increase tariffs",
-      "url": "https://news.sky.com/story/eu-hits-back-at-8216unacceptable8217-donald-trump-over-plans-to-increase-tariffs-13539002",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-01T19:50:10.431Z",
-      "pushedAt": "2026-05-01T19:50:10.431Z"
-    },
-    {
-      "id": "6bb1d125064c3973",
-      "title": "Explosion of bombs left over from strikes kill 14 Iranian Revolutionary Guard members, reports say - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLWFPbWdBdl9HSExRZDZaSHFUaDJLVF9jU0NBVzFjTW5nT05RSlBXemU5SmtSUURxQ2w4a2dNWG04N1BXQ1NycnJHMjQwZm1Zd21KYTE0aEtyRFhKQjlyc2NMeWVuOHRBQW5yd1BMcWJVRTZTdGdiamZXejVGMDJmR1paaXpjMy1tSzVHR2NzemNNN2RYS2ItNHRiWnV4bXlmdVRB?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-05-01T18:41:50.513Z",
-      "pushedAt": "2026-05-01T18:41:50.513Z"
-    },
-    {
-      "id": "267519d219bac8de",
-      "title": "Trump announces 25 percent tariffs on European Union cars, trucks",
-      "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + europe"
-      ],
-      "firstSeen": "2026-05-01T18:41:50.800Z",
-      "pushedAt": "2026-05-01T18:41:50.800Z"
     }
   ],
-  "updatedAt": "2026-05-02T18:36:33.404Z"
+  "updatedAt": "2026-05-03T04:50:53.548Z"
 }
