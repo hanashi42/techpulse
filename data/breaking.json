@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ce3abd15c0d264a5",
+      "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
+      "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 25%"
+      ],
+      "firstSeen": "2026-05-03T17:51:23.268Z",
+      "pushedAt": "2026-05-03T17:51:23.268Z"
+    },
+    {
       "id": "f4b8cad0dc55982c",
       "title": "Ukraine is hitting oil facilities deep inside Russia. Soaring fuel prices could blunt the impact - AP News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTEyV245VWx4aVJNMjlOWFJvSkFBTVpSa3lZRkRrNUtQZ3MxZXdOenZ2UWxGbzQtWFlOekZRa3Vxa2pJbW9lWmUyOUV2dXFJQllNT1hjMHpGcWVsMTVnd3RENzBhOHVoWnNJNEFKTEdJOGFnSkV5dDZpSENZM0xxcnl5X1NIQlRrdXRCSVFxWGtDTTlSTlJNMzd0QmRpb0VnUkdBOGE3NC0tMHJ1?oc=5",
@@ -108,33 +120,7 @@
       ],
       "firstSeen": "2026-05-02T18:36:33.173Z",
       "pushedAt": "2026-05-02T18:36:33.173Z"
-    },
-    {
-      "id": "bf4e620c9cc51515",
-      "title": "Bank of England faces the 'most difficult combination,' says governor Bailey as energy prices soar",
-      "url": "https://www.cnbc.com/2026/04/30/energy-price-very-uncertain-bank-of-england-andrew-bailey-boe.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-05-02T17:50:05.808Z",
-      "pushedAt": "2026-05-02T17:50:05.808Z"
-    },
-    {
-      "id": "24c9f06cf38591ae",
-      "title": "Bitcoin surged in April, but weak buyer demand makes the rally vulnerable",
-      "url": "https://www.cnbc.com/2026/05/01/bitcoin-surged-in-april-but-weak-buyer-demand-makes-rally-vulnerable.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + bitcoin",
-        "rally + bitcoin",
-        "bitcoin + surge"
-      ],
-      "firstSeen": "2026-05-02T17:50:06.046Z",
-      "pushedAt": "2026-05-02T17:50:06.046Z"
     }
   ],
-  "updatedAt": "2026-05-03T17:01:33.538Z"
+  "updatedAt": "2026-05-03T17:51:23.620Z"
 }
