@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c8b3529daac10902",
+      "title": "EU hits back at 'unacceptable' Donald Trump over plans to increase tariffs",
+      "url": "https://news.sky.com/story/eu-hits-back-at-8216unacceptable8217-donald-trump-over-plans-to-increase-tariffs-13539002",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-03T07:10:34.085Z",
+      "pushedAt": "2026-05-03T07:10:34.085Z"
+    },
+    {
       "id": "ec09c4f4b1347ee5",
       "title": "Beijing hits back at US sanctions on Chinese firms - chinadailyasia.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11R2YxdDN6R2JzWmp1V2VOdlF0N09DZ1NWU2dmOVJnSkdveUx5SGtnNXBaeENxWDlpTlJiUFRKdjFwVjgwWVZjZk5JV2RZMFdmeTYxVkhyaXY?oc=5",
@@ -171,5 +183,5 @@
       "pushedAt": "2026-05-02T09:46:10.112Z"
     }
   ],
-  "updatedAt": "2026-05-03T04:50:53.548Z"
+  "updatedAt": "2026-05-03T07:10:34.361Z"
 }
