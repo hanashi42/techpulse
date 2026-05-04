@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b1744b29eefb046a",
+      "title": "Chevron CEO says shortages in oil supply will begin appearing - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGhsbDlaaVBUVGo0VzMwNHdMYldMTmx5d1RnRjlLaXZia1hiekJTalpDNjBnd1htTDhtN1lHWG92UDliSlVsMzctd3Z2RFliZjhHRi1tNkxyNnA1RDlvVmN4elpSc1FYaUotVVlOOG44QUt2UWNHNEkzMVpfMjNNV2VYN1dKYTJXY2t2Q256RWVZaXhrcEdwVTR0OUkzbVBhZXd5WFhudm5aV3pRalAyVU1CMWI?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + oil"
+      ],
+      "firstSeen": "2026-05-04T22:38:53.386Z",
+      "pushedAt": "2026-05-04T22:38:53.386Z"
+    },
+    {
       "id": "b7e3adf90ea3425a",
       "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
       "url": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss",
@@ -131,19 +143,7 @@
       ],
       "firstSeen": "2026-05-04T02:50:09.152Z",
       "pushedAt": "2026-05-04T02:50:09.152Z"
-    },
-    {
-      "id": "c397f7f5620bd273",
-      "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
-      "url": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-05-03T22:22:46.289Z",
-      "pushedAt": "2026-05-03T22:22:46.289Z"
     }
   ],
-  "updatedAt": "2026-05-04T21:43:17.332Z"
+  "updatedAt": "2026-05-04T22:38:53.546Z"
 }
