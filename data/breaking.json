@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b7e3adf90ea3425a",
+      "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
+      "url": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-05-04T21:43:17.252Z",
+      "pushedAt": "2026-05-04T21:43:17.252Z"
+    },
+    {
       "id": "7c838c8a93bc4ad8",
       "title": "OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE",
       "url": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
@@ -131,79 +143,7 @@
       ],
       "firstSeen": "2026-05-03T22:22:46.289Z",
       "pushedAt": "2026-05-03T22:22:46.289Z"
-    },
-    {
-      "id": "bdfafeaf301906fb",
-      "title": "Ship is attacked near Strait of Hormuz as Iran reviews US response to latest proposal - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3ZoeWEzNVd5SmdhMXlxQmFJc2hhTmxlN3NTOG1JaEVTOXAzeFh3MmtBemhvMGRLbXFUVFczX0R3TDkyNmhOWm1KSzZ2RlRNMVN0dmJ6VzFtUGtTVTYtR3J1d0VlSEItd3Y3QTJ5OG5EUVpoSTBhSUlLS1pTYWxhcHZOZDgtWnpVcTl2TkxTcU9xMGhscGlXODNaSHZLSm9tNEZZ?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + attacked"
-      ],
-      "firstSeen": "2026-05-03T20:58:52.120Z",
-      "pushedAt": "2026-05-03T20:58:52.120Z"
-    },
-    {
-      "id": "bf4e620c9cc51515",
-      "title": "Bank of England faces the 'most difficult combination,' says governor Bailey as energy prices soar",
-      "url": "https://www.cnbc.com/2026/04/30/energy-price-very-uncertain-bank-of-england-andrew-bailey-boe.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-05-03T18:37:26.754Z",
-      "pushedAt": "2026-05-03T18:37:26.754Z"
-    },
-    {
-      "id": "ce3abd15c0d264a5",
-      "title": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
-      "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 25%"
-      ],
-      "firstSeen": "2026-05-03T17:51:23.268Z",
-      "pushedAt": "2026-05-03T17:51:23.268Z"
-    },
-    {
-      "id": "f4b8cad0dc55982c",
-      "title": "Ukraine is hitting oil facilities deep inside Russia. Soaring fuel prices could blunt the impact - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTEyV245VWx4aVJNMjlOWFJvSkFBTVpSa3lZRkRrNUtQZ3MxZXdOenZ2UWxGbzQtWFlOekZRa3Vxa2pJbW9lWmUyOUV2dXFJQllNT1hjMHpGcWVsMTVnd3RENzBhOHVoWnNJNEFKTEdJOGFnSkV5dDZpSENZM0xxcnl5X1NIQlRrdXRCSVFxWGtDTTlSTlJNMzd0QmRpb0VnUkdBOGE3NC0tMHJ1?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-05-03T17:01:33.382Z",
-      "pushedAt": "2026-05-03T17:01:33.382Z"
-    },
-    {
-      "id": "14f135f7a73d4499",
-      "title": "Engine trouble ahead? How the Strait of Hormuz standoff threatens luxury auto giants",
-      "url": "https://www.cnbc.com/2026/05/01/strait-of-hormuz-base-oils-luxury-autos.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-05-03T16:03:50.752Z",
-      "pushedAt": "2026-05-03T16:03:50.752Z"
-    },
-    {
-      "id": "e1a8160e1d2d8772",
-      "title": "Trump says he'll place 25% tariff on autos from the EU, accusing it of not complying with trade deal - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2YyeDBPSk56bFJtclFGczJsVk1lR293OHpCN0VkNHZFbDgtSW1mZlVzdXZWaElUVXgwSjFVV3FoQ0NKZGROWUxmNDBrbXp1SmJLalp6RkhGOEpjMjRnNjVDVmdTUF9nOXlSeEhRZGJvbDRMVFJLbnJWUEN2YmktSmtiMnVVQXhjRWh3VlNnSHRnQQ?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-03T15:23:27.035Z",
-      "pushedAt": "2026-05-03T15:23:27.035Z"
     }
   ],
-  "updatedAt": "2026-05-04T14:26:56.725Z"
+  "updatedAt": "2026-05-04T21:43:17.332Z"
 }
