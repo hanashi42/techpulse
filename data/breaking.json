@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "40af02113cb54ccb",
+      "title": "Gold falls as dollar firms, Middle East uncertainty fuels inflation fears - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZV9RZUw2TkhabGxXQVlGdUNxNkQ4UHVKaUZqSmNFSUFtRXZyYmdZcE1mMmhoQV9ZWHZDRGxfMFdKYTRLeUhZdWxZOTV4SUJFelNBY2prTmw1eVhub3JvZWdFelcxRFY2amJJZnVQVUlNamJkQWwwVThyRnpYalJISlFPVzI0Ym4tZDhmd1k4bFo1NnhDUDVhSFlfQnRWLVRwU2h3U1FkNDBGQzJaYjZpQg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + fall"
+      ],
+      "firstSeen": "2026-05-04T12:08:14.311Z",
+      "pushedAt": "2026-05-04T12:08:14.311Z"
+    },
+    {
       "id": "c8b3529daac10902",
       "title": "EU hits back at 'unacceptable' Donald Trump over plans to increase tariffs",
       "url": "https://news.sky.com/story/eu-hits-back-at-8216unacceptable8217-donald-trump-over-plans-to-increase-tariffs-13539002",
@@ -167,44 +179,7 @@
       ],
       "firstSeen": "2026-05-03T15:23:27.035Z",
       "pushedAt": "2026-05-03T15:23:27.035Z"
-    },
-    {
-      "id": "7c838c8a93bc4ad8",
-      "title": "OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE",
-      "url": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + output"
-      ],
-      "firstSeen": "2026-05-03T12:07:34.124Z",
-      "pushedAt": "2026-05-03T12:07:34.124Z"
-    },
-    {
-      "id": "a53f8b26860c3350",
-      "title": "OPEC+ set to agree third oil output quota hike since Hormuz closure, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDd4Y0FGSVFkY1NjbFBmd0V5Q01udExuM2l6MjhFWXBzOWJBZU04dnExbzJ6S001ckRnRThWd2dKODNuUnhKRVViWXdEdEFNZlJPbEJYOUlEYWxPSkVIRzgyeXlsMzNCTjNSME5GNEFfcUVNMlk2a2J1SzJ6MHk0dXNvdE1SeDJVSm5MblRZcWVueHV1UTFIR2lnSjdTb01MMlBmclhteFk3ZDN0SHc0TjVlNmVJYkpnWHNnYTF5VGNZRnpwclE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + output"
-      ],
-      "firstSeen": "2026-05-03T11:31:58.566Z",
-      "pushedAt": "2026-05-03T11:31:58.566Z"
-    },
-    {
-      "id": "5f47bfade41a8358",
-      "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
-      "url": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval",
-        "hormuz + naval"
-      ],
-      "firstSeen": "2026-05-03T10:53:09.446Z",
-      "pushedAt": "2026-05-03T10:53:09.446Z"
     }
   ],
-  "updatedAt": "2026-05-04T10:23:00.663Z"
+  "updatedAt": "2026-05-04T12:08:14.621Z"
 }
