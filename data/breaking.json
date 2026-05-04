@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "48808450f44d0faf",
+      "title": "South Korean stocks hit fresh record, building on historic monthly rally in April",
+      "url": "https://www.cnbc.com/2026/05/04/asia-markets-live-updates-today-hang-seng-kospi-asx-oil-us-iran-trump-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-05-04T02:50:08.870Z",
+      "pushedAt": "2026-05-04T02:50:08.870Z"
+    },
+    {
+      "id": "901d0dc631219434",
+      "title": "Oil prices fall in choppy trade as Trump plans to 'free' ships stranded due to Mideast conflict",
+      "url": "https://www.cnbc.com/2026/05/04/oil-prices-today-wti-brent-trump-iran-us-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-05-04T02:50:09.152Z",
+      "pushedAt": "2026-05-04T02:50:09.152Z"
+    },
+    {
       "id": "c397f7f5620bd273",
       "title": "U.S. crude oil exports surge to record as tankers flock to Gulf Coast during Iran war",
       "url": "https://www.cnbc.com/2026/05/03/us-crude-oil-exports-surge-to-record-as-tankers-flock-to-gulf-coast.html",
@@ -146,5 +170,5 @@
       "pushedAt": "2026-05-03T04:50:53.278Z"
     }
   ],
-  "updatedAt": "2026-05-03T22:22:46.365Z"
+  "updatedAt": "2026-05-04T02:50:09.358Z"
 }
