@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "c8b3529daac10902",
+      "title": "EU hits back at 'unacceptable' Donald Trump over plans to increase tariffs",
+      "url": "https://news.sky.com/story/eu-hits-back-at-8216unacceptable8217-donald-trump-over-plans-to-increase-tariffs-13539002",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-04T10:23:00.252Z",
+      "pushedAt": "2026-05-04T10:23:00.252Z"
+    },
+    {
+      "id": "39e64bd07b37547a",
+      "title": "Beijing tells China firms to ignore US sanctions on refiners - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzVwc09MbjNDY25UY3ljcVo4NHZ6RTlaTEJpNWNDcjN1NWVsY005dG45bkVWS2ozTmtwX1I5ZlBBaVVRWEF1VjFubDFPUDgybldmbFA3TUNyODBpSXF1R0lLUkJrdVRNVmpfdkpPNDVfODNqLUxsWlhaNTdlYno1bmNyMGZlNGZ6U0drNkNGLTlEdG04VW1xd0ZMQnYzMXprVGxNbVB6ZWdRTmZhc2c?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-04T10:23:00.357Z",
+      "pushedAt": "2026-05-04T10:23:00.357Z"
+    },
+    {
       "id": "8a081954add9b3a4",
       "title": "Iran war live: Iranian military warns US of attacks over Hormuz mission",
       "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
@@ -182,5 +206,5 @@
       "pushedAt": "2026-05-03T10:53:09.446Z"
     }
   ],
-  "updatedAt": "2026-05-04T08:09:23.504Z"
+  "updatedAt": "2026-05-04T10:23:00.663Z"
 }
