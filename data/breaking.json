@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "8a081954add9b3a4",
+      "title": "Iran war live: Iranian military warns US of attacks over Hormuz mission",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-05-04T08:09:22.918Z",
+      "pushedAt": "2026-05-04T08:09:22.918Z"
+    },
+    {
+      "id": "5befc48c636a9baf",
+      "title": "European markets open mostly positive as Trump threatens new auto tariffs",
+      "url": "https://www.cnbc.com/2026/05/04/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-04T08:09:23.185Z",
+      "pushedAt": "2026-05-04T08:09:23.185Z"
+    },
+    {
+      "id": "f5cc9d118784bb1b",
+      "title": "China has a welcome mat for Trump: it just rewrote the rules on U.S. sanctions - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWJ2R1pqWHE1Um9BNzhDQXR4UlBsX3IwUTBfREQ4TnpqOUZzbUZzS3AzR1NNWDRfT1QzVWp6X2t1cXo4TFY2X1ZKQnR2SU5fY3FMYUttNmwzbHh5UFYyR3h6ZUN4Rk16b0Iydmg1TFBJYTBjWVJFVVRwcW5rMzcxYk1Gc2FUWU43RlYyN2hFRzVaUVdj?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-04T08:09:23.417Z",
+      "pushedAt": "2026-05-04T08:09:23.417Z"
+    },
+    {
       "id": "48808450f44d0faf",
       "title": "South Korean stocks hit fresh record, building on historic monthly rally in April",
       "url": "https://www.cnbc.com/2026/05/04/asia-markets-live-updates-today-hang-seng-kospi-asx-oil-us-iran-trump-hormuz.html",
@@ -144,31 +180,7 @@
       ],
       "firstSeen": "2026-05-03T10:53:09.446Z",
       "pushedAt": "2026-05-03T10:53:09.446Z"
-    },
-    {
-      "id": "c8b3529daac10902",
-      "title": "EU hits back at 'unacceptable' Donald Trump over plans to increase tariffs",
-      "url": "https://news.sky.com/story/eu-hits-back-at-8216unacceptable8217-donald-trump-over-plans-to-increase-tariffs-13539002",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-03T07:10:34.085Z",
-      "pushedAt": "2026-05-03T07:10:34.085Z"
-    },
-    {
-      "id": "ec09c4f4b1347ee5",
-      "title": "Beijing hits back at US sanctions on Chinese firms - chinadailyasia.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11R2YxdDN6R2JzWmp1V2VOdlF0N09DZ1NWU2dmOVJnSkdveUx5SGtnNXBaeENxWDlpTlJiUFRKdjFwVjgwWVZjZk5JV2RZMFdmeTYxVkhyaXY?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-03T04:50:53.278Z",
-      "pushedAt": "2026-05-03T04:50:53.278Z"
     }
   ],
-  "updatedAt": "2026-05-04T02:50:09.358Z"
+  "updatedAt": "2026-05-04T08:09:23.504Z"
 }
