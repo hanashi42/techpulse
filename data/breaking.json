@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7c838c8a93bc4ad8",
+      "title": "OPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE",
+      "url": "https://www.cnbc.com/2026/05/03/opec-announces-188000-barrels-per-day-output-increase-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "opec + output"
+      ],
+      "firstSeen": "2026-05-04T14:26:56.412Z",
+      "pushedAt": "2026-05-04T14:26:56.412Z"
+    },
+    {
+      "id": "6eef7153528967a6",
+      "title": "New Cuba Sanctions, OFAC Targets Iranian Shadow Banking and Chinese Oil Terminal - Holland & Knight",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2NWQ2lKd2NWU3pBOEdBRjQ5MzRFc1RidUwyejlYQlowYVVnSDgtQVc3eHo5ZTJVaEdrbWgwUDRRZHhjRXB5V1A5aE9TQlFtWHl5ZUpxdjQ5djJxNnVtQ0pBbl9fc05qR0poR0k0QnhqMDVxc3BRTjhaWV92LUJfZzY3NFVRNnM3QWJuanVwcEI0djRicTVHZnFleUZaQTJPSm1TeE1aRldydlJMV2c?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-04T14:26:56.561Z",
+      "pushedAt": "2026-05-04T14:26:56.561Z"
+    },
+    {
       "id": "40af02113cb54ccb",
       "title": "Gold falls as dollar firms, Middle East uncertainty fuels inflation fears - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZV9RZUw2TkhabGxXQVlGdUNxNkQ4UHVKaUZqSmNFSUFtRXZyYmdZcE1mMmhoQV9ZWHZDRGxfMFdKYTRLeUhZdWxZOTV4SUJFelNBY2prTmw1eVhub3JvZWdFelcxRFY2amJJZnVQVUlNamJkQWwwVThyRnpYalJISlFPVzI0Ym4tZDhmd1k4bFo1NnhDUDVhSFlfQnRWLVRwU2h3U1FkNDBGQzJaYjZpQg?oc=5",
@@ -181,5 +205,5 @@
       "pushedAt": "2026-05-03T15:23:27.035Z"
     }
   ],
-  "updatedAt": "2026-05-04T12:08:14.621Z"
+  "updatedAt": "2026-05-04T14:26:56.725Z"
 }
