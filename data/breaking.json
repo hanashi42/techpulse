@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "68d135c1e09be602",
+      "title": "Wall Street rallies to records after oil prices ease and corporate profits keep topping expectations - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEd0NzBZZEVzZGZscGJ5R01lMnlkMEJqa05vRWYzdlV2LVJNQ3IteHZxbmlHekMyZDRlZjdNN0pBd0gzbk9SREYyUE1HdldEQlBpbnZkVW8zWi00dGtpUnoxR09mQ2ZzVWtjYU5kZzB1YVlXVVNSMzRTam1hRFFhYnFCeXJVNE1ja3BlSGM2LUpoY1k?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + record"
+      ],
+      "firstSeen": "2026-05-05T21:12:07.384Z",
+      "pushedAt": "2026-05-05T21:12:07.384Z"
+    },
+    {
+      "id": "0c8b3c96935d58a4",
+      "title": "US plans to hike tariffs on EU cars to 25% will hit luxury market the most",
+      "url": "https://www.aljazeera.com/economy/2026/5/5/us-plans-to-hike-tariffs-on-eu-cars-to-25-will-hit-luxury-market-the-most?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 25%"
+      ],
+      "firstSeen": "2026-05-05T21:12:07.494Z",
+      "pushedAt": "2026-05-05T21:12:07.494Z"
+    },
+    {
+      "id": "34928e25004ffdff",
+      "title": "After Beijing openly defies US sanctions, Trump says China has 'been very respectful' - WBFF",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcUFKdzdzMjlsYmExZFBSMFR0WFE5aEFZVEEtVWNZMnRaOXhFUzZ2MVNFcWdqMk16YWViUnJXQk5hNzZiTllmdkNQSGY2WFlRWEJ1ZmEyWTJTSDdLUXB0T05taUxySE5WSnRZdi1Pc3pPOVZtdFI5WXh6bktBZ0ZXZkcxUzFMMFNheVRqckVFeTdrY2lyYi1fUTVpYjdWMTM3V3VoU3NaYldpQ3d5VW42MnVCZE1OYV85SE1LWUxxN0tya2xoWmxuZ1BsV0RxblNzdUFBSHlNek10QlltQzVXZjUwZ1VMRFJmZFlEeHZydG12OVVkZGlKSQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-05T21:12:07.595Z",
+      "pushedAt": "2026-05-05T21:12:07.595Z"
+    },
+    {
       "id": "5d733a00447a276f",
       "title": "'A DEAL IS A DEAL' VON DER LEYEN URGES TRUMP TO HONOUR 15 PCT EU TARIFFS - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SMElQbWF6SlhDVm5fdUd4Tm5uc2Y3X2ZkMU5ncmQ4Z0Zja3A2RWI3c0RUTW9Ga1JWUG1sUmpMWTVSYWFSVC12QThmcDVYYnRDRThoaQ?oc=5",
@@ -242,5 +278,5 @@
       "pushedAt": "2026-05-04T21:43:17.252Z"
     }
   ],
-  "updatedAt": "2026-05-05T20:07:01.029Z"
+  "updatedAt": "2026-05-05T21:12:07.668Z"
 }
