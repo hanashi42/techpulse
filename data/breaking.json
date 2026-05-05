@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "22b84d7b2c62dbcd",
+      "title": "China Steps Up U.S. Sanctions Fight, Defying Blacklisting Over Iranian Oil - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTU4dzV1VHFYVzdkcGwzMlBXQVNnZy0yY2tOZXdWUkZMbGl0aGh4a0lwRG4waW1wdlVhVzhRUTJFSUU0X1FCc0hrR1hPRmpybTdVMTlyYjgwZ2Nza25tTzdWSmtSaGNONU8zS3YxdUV5TTNUZUtGUFVGdU1peHZ4LTMwLS1Uc29Ma01adzhISVZVMjZwQ0JrREFKRmNWZjdUMnBmbFBaTUJad1VzZnZCcUd6NA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-05T17:54:12.836Z",
+      "pushedAt": "2026-05-05T17:54:12.836Z"
+    },
+    {
       "id": "fac8e963f3778e5c",
       "title": "Central banks risk a recession by raising rates to tackle Iran oil shock, strategist warns",
       "url": "https://www.cnbc.com/2026/05/05/oil-price-shock-iran-interest-rates-recession-borrowing-war-central-banks-bank-england-ecb.html",
@@ -182,5 +194,5 @@
       "pushedAt": "2026-05-04T21:43:17.252Z"
     }
   ],
-  "updatedAt": "2026-05-05T16:19:26.846Z"
+  "updatedAt": "2026-05-05T17:54:13.070Z"
 }
