@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "191019749fa1e109",
+      "title": "Australia's central bank set to cool its heels after rapid-fire rate hikes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSkZCMS1PdnJxNlItSnlaM24wUm9pTjhDMnFmQVF2RlRVTmo4OG5FZGYySnZKSDBualVOY00td3ZTNUg5eDBObTBLUmZTTmc3ak5hbVdfcmpWVnRnTEd4dUppbnNkY2VGeHlzRUxROGpYV3E0NG9uYXY1YWdJNlJndHlBOWxVSUEwXzZvTkZLRHE1LWZCWlJnUFVsRk5JV1dDLXRGUFBLU2w2cGMzTWlyMDJCVTZlZHZVMkE5a0l6X1Fyb2hlSXJNYnR6ZEU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + central bank"
+      ],
+      "firstSeen": "2026-05-05T10:21:14.135Z",
+      "pushedAt": "2026-05-05T10:21:14.135Z"
+    },
+    {
       "id": "18fd71ce5f83dd27",
       "title": "Nine workers killed in Colombia coal mine explosion",
       "url": "https://www.aljazeera.com/news/2026/5/5/nine-workers-killed-in-colombia-coal-mine-explosion?traffic_source=rss",
@@ -170,5 +182,5 @@
       "pushedAt": "2026-05-04T10:23:00.357Z"
     }
   ],
-  "updatedAt": "2026-05-05T08:34:31.334Z"
+  "updatedAt": "2026-05-05T10:21:14.388Z"
 }
