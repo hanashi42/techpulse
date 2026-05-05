@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "18fd71ce5f83dd27",
+      "title": "Nine workers killed in Colombia coal mine explosion",
+      "url": "https://www.aljazeera.com/news/2026/5/5/nine-workers-killed-in-colombia-coal-mine-explosion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-05-05T08:34:31.058Z",
+      "pushedAt": "2026-05-05T08:34:31.058Z"
+    },
+    {
       "id": "74e952e4bd9c7f6d",
       "title": "Exclusive: US prepared for visa sanctions on China over migrants issue, official says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFNjUE1xMXJrZ3AxVGU2UW94Wm9Cb3BtTUNiN3JDZWhycHNBcWJBWHFRM1J6TU5kWW5WWTRMRHRLN3NUZlRqcTVXSTdWTE1pY1E3UlE0N3loc3Z3UzFnUktxRTAxbmhnTU4tU1VXV013YW9TbzJDblFkekJ4Sm1Lb01UXzhWM0xsdHJvMjI1Q2dmZl83MUdfR29FZFpsS1YxWTBBc0R2ZTYtemJoazZ4cg?oc=5",
@@ -156,43 +168,7 @@
       ],
       "firstSeen": "2026-05-04T10:23:00.357Z",
       "pushedAt": "2026-05-04T10:23:00.357Z"
-    },
-    {
-      "id": "8a081954add9b3a4",
-      "title": "Iran war live: Iranian military warns US of attacks over Hormuz mission",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-05-04T08:09:22.918Z",
-      "pushedAt": "2026-05-04T08:09:22.918Z"
-    },
-    {
-      "id": "5befc48c636a9baf",
-      "title": "European markets open mostly positive as Trump threatens new auto tariffs",
-      "url": "https://www.cnbc.com/2026/05/04/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-04T08:09:23.185Z",
-      "pushedAt": "2026-05-04T08:09:23.185Z"
-    },
-    {
-      "id": "f5cc9d118784bb1b",
-      "title": "China has a welcome mat for Trump: it just rewrote the rules on U.S. sanctions - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWJ2R1pqWHE1Um9BNzhDQXR4UlBsX3IwUTBfREQ4TnpqOUZzbUZzS3AzR1NNWDRfT1QzVWp6X2t1cXo4TFY2X1ZKQnR2SU5fY3FMYUttNmwzbHh5UFYyR3h6ZUN4Rk16b0Iydmg1TFBJYTBjWVJFVVRwcW5rMzcxYk1Gc2FUWU43RlYyN2hFRzVaUVdj?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-04T08:09:23.417Z",
-      "pushedAt": "2026-05-04T08:09:23.417Z"
     }
   ],
-  "updatedAt": "2026-05-05T06:31:54.770Z"
+  "updatedAt": "2026-05-05T08:34:31.334Z"
 }
