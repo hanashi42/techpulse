@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "74e952e4bd9c7f6d",
+      "title": "Exclusive: US prepared for visa sanctions on China over migrants issue, official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFNjUE1xMXJrZ3AxVGU2UW94Wm9Cb3BtTUNiN3JDZWhycHNBcWJBWHFRM1J6TU5kWW5WWTRMRHRLN3NUZlRqcTVXSTdWTE1pY1E3UlE0N3loc3Z3UzFnUktxRTAxbmhnTU4tU1VXV013YW9TbzJDblFkekJ4Sm1Lb01UXzhWM0xsdHJvMjI1Q2dmZl83MUdfR29FZFpsS1YxWTBBc0R2ZTYtemJoazZ4cg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-05T06:31:54.496Z",
+      "pushedAt": "2026-05-05T06:31:54.496Z"
+    },
+    {
+      "id": "ad64e5b45baddd59",
+      "title": "UKMTO Warns Of Ongoing Critical Security Threat In Strait Of Hormuz - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GNWRYbzFDajBvSW1PeUFlRjk1Q2hSYmRtVFZMTlJiaHhhVnhpQ2V3Skw5bF9BSVdWUDBSelRFSklIdzJzd1dUM01hZlhjRjNXanVfYXJpYzBZWHUtSUUzVHFjcVBuemhMZFZFZ0ZPLXZCMHczMEdJ?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-05-05T06:31:54.654Z",
+      "pushedAt": "2026-05-05T06:31:54.654Z"
+    },
+    {
       "id": "add5c52b78bc0def",
       "title": "An explosion at a fireworks plant in China has killed at least 21 people",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss",
@@ -170,5 +194,5 @@
       "pushedAt": "2026-05-04T08:09:23.417Z"
     }
   ],
-  "updatedAt": "2026-05-05T04:25:36.035Z"
+  "updatedAt": "2026-05-05T06:31:54.770Z"
 }
