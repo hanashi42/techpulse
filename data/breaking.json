@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "1eb4513d2b267fb1",
+      "title": "Romanian government collapses after no-confidence vote - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGwyVXZaeGF4V1JQR1BhREFEZzNadzJnbWdtR1hTOWlmdDl0Z0phMDgzMjlCVmJaYnB5Y2RRY2piaDBYZkdubWhGWHhmRy04VlZuOG9QZ1RiTkk4M25pbm5EbUVsMEVteU82RGtXWGNzQ1pLRmJVSmd1RDEwVW5sUlh2cHNTNUQ0RlVIUmhlWHNSVWtJekJMZEltRUFqY0ZoYTJFa1NDbzcySjRDbVlqX3dac010a2M?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "collapses + government"
+      ],
+      "firstSeen": "2026-05-05T12:53:12.528Z",
+      "pushedAt": "2026-05-05T12:53:12.528Z"
+    },
+    {
+      "id": "c58ce0f92109900d",
+      "title": "Can central banks curb inflation as energy costs rise?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/5/can-central-banks-curb-inflation-as-energy-costs-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + rise"
+      ],
+      "firstSeen": "2026-05-05T12:53:12.607Z",
+      "pushedAt": "2026-05-05T12:53:12.607Z"
+    },
+    {
+      "id": "0bbf01ee685dc460",
+      "title": "China's rare defiance of U.S. sanctions sparks showdown over banks - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObTBvUFlWaDJ0UmhGbjV4WU9fYmh6dV9Hc2Vxd0luWHYzNWRfdHpjZWc4OFB1MmpwMTNuTDc2THQ3Z3Vhd2dxQ0N2MUhHLW1hU1hhMXZkeXpHWnltTGZZOFlQdGw1Q2NRa096Q2VINW5Sa0lzSVVYR0NCSFFBTHlJZE9BT2xJMXVacVZB?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-05T12:53:12.654Z",
+      "pushedAt": "2026-05-05T12:53:12.654Z"
+    },
+    {
       "id": "191019749fa1e109",
       "title": "Australia's central bank set to cool its heels after rapid-fire rate hikes - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSkZCMS1PdnJxNlItSnlaM24wUm9pTjhDMnFmQVF2RlRVTmo4OG5FZGYySnZKSDBualVOY00td3ZTNUg5eDBObTBLUmZTTmc3ak5hbVdfcmpWVnRnTEd4dUppbnNkY2VGeHlzRUxROGpYV3E0NG9uYXY1YWdJNlJndHlBOWxVSUEwXzZvTkZLRHE1LWZCWlJnUFVsRk5JV1dDLXRGUFBLU2w2cGMzTWlyMDJCVTZlZHZVMkE5a0l6X1Fyb2hlSXJNYnR6ZEU?oc=5",
@@ -144,43 +180,7 @@
       ],
       "firstSeen": "2026-05-04T14:26:56.561Z",
       "pushedAt": "2026-05-04T14:26:56.561Z"
-    },
-    {
-      "id": "40af02113cb54ccb",
-      "title": "Gold falls as dollar firms, Middle East uncertainty fuels inflation fears - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZV9RZUw2TkhabGxXQVlGdUNxNkQ4UHVKaUZqSmNFSUFtRXZyYmdZcE1mMmhoQV9ZWHZDRGxfMFdKYTRLeUhZdWxZOTV4SUJFelNBY2prTmw1eVhub3JvZWdFelcxRFY2amJJZnVQVUlNamJkQWwwVThyRnpYalJISlFPVzI0Ym4tZDhmd1k4bFo1NnhDUDVhSFlfQnRWLVRwU2h3U1FkNDBGQzJaYjZpQg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + fall"
-      ],
-      "firstSeen": "2026-05-04T12:08:14.311Z",
-      "pushedAt": "2026-05-04T12:08:14.311Z"
-    },
-    {
-      "id": "c8b3529daac10902",
-      "title": "EU hits back at 'unacceptable' Donald Trump over plans to increase tariffs",
-      "url": "https://news.sky.com/story/eu-hits-back-at-8216unacceptable8217-donald-trump-over-plans-to-increase-tariffs-13539002",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-04T10:23:00.252Z",
-      "pushedAt": "2026-05-04T10:23:00.252Z"
-    },
-    {
-      "id": "39e64bd07b37547a",
-      "title": "Beijing tells China firms to ignore US sanctions on refiners - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzVwc09MbjNDY25UY3ljcVo4NHZ6RTlaTEJpNWNDcjN1NWVsY005dG45bkVWS2ozTmtwX1I5ZlBBaVVRWEF1VjFubDFPUDgybldmbFA3TUNyODBpSXF1R0lLUkJrdVRNVmpfdkpPNDVfODNqLUxsWlhaNTdlYno1bmNyMGZlNGZ6U0drNkNGLTlEdG04VW1xd0ZMQnYzMXprVGxNbVB6ZWdRTmZhc2c?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-04T10:23:00.357Z",
-      "pushedAt": "2026-05-04T10:23:00.357Z"
     }
   ],
-  "updatedAt": "2026-05-05T10:21:14.388Z"
+  "updatedAt": "2026-05-05T12:53:12.672Z"
 }
