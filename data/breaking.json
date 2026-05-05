@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5d733a00447a276f",
+      "title": "'A DEAL IS A DEAL' VON DER LEYEN URGES TRUMP TO HONOUR 15 PCT EU TARIFFS - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SMElQbWF6SlhDVm5fdUd4Tm5uc2Y3X2ZkMU5ncmQ4Z0Zja3A2RWI3c0RUTW9Ga1JWUG1sUmpMWTVSYWFSVC12QThmcDVYYnRDRThoaQ?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-05T20:07:00.768Z",
+      "pushedAt": "2026-05-05T20:07:00.768Z"
+    },
+    {
       "id": "6c2e9ae25ad73527",
       "title": "Trump says Iran \"should wave the white flag of surrender\" - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRROEttUk9SVUV2b3pBY0NPMEhqU0RQZVE1OFNfTm1kNHFib2NVTmcxcUdlLXF4dzFZcFB0UVNacGdpcHRJR3hOS3Qya3dSemVobGMtLU84OVA1YU5xajB3UDZIY21SSFhhM1ZDUXUwNXAwNkhHODVHbzVFbmh2VzdtOEo5MU5hYlRJQkRKNTBNbGtlb2NnM3FGamkzd21SR1EyTg?oc=5",
@@ -230,5 +242,5 @@
       "pushedAt": "2026-05-04T21:43:17.252Z"
     }
   ],
-  "updatedAt": "2026-05-05T18:59:03.181Z"
+  "updatedAt": "2026-05-05T20:07:01.029Z"
 }
