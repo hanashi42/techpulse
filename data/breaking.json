@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "add5c52b78bc0def",
+      "title": "An explosion at a fireworks plant in China has killed at least 21 people",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-05-05T04:25:35.727Z",
+      "pushedAt": "2026-05-05T04:25:35.727Z"
+    },
+    {
+      "id": "5efbd9300162523c",
+      "title": "Oil prices surge as violence flares in Strait of Hormuz",
+      "url": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-05-05T04:25:35.930Z",
+      "pushedAt": "2026-05-05T04:25:35.930Z"
+    },
+    {
+      "id": "492e19f35cb4229f",
+      "title": "China Makes AI-powered Robots Core of National Strategy - IFR International Federation of Robotics",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGQ3TDVtc1hnTHZqWElEcUZoM3F3aF9ndEs0eXlYQ05MaFRwS2RwWkk5bGxqcmEyY1FRNUYycWIzVFVZU0lKNVZEODdsYWZ0cExCemJDS29sV05HS0JsSWpkVXlUSjdaNEFOMlM5WVdpSVByRGw4dDhwODJpbm42c29TdGU1bWZKb1ExbkNlbzE4ZktCYVlydEJNNA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-05-05T04:25:36.011Z",
+      "pushedAt": "2026-05-05T04:25:36.011Z"
+    },
+    {
       "id": "ee7f75b85a0f0386",
       "title": "China invokes anti-sanctions law to counter US blacklisting of refiners - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2I5Y2J3ZEtuSWJUN1lUMnpTMm5SV2NKZWlzd0YxLVBmUHN3bFBzTEk2cGtyQmtEYnByaEd6aUZZZFVDX3JTN2FGbTBaN1ZndmpkbHFfSWstLUNRaEZlcllRaVB6QjZhZDJ3T2pKYUtSWGhuTDhzNi1FV19fTXUwREZrRWt3TTFLN0N4WlNmY1BwRUdfbHN3ZWhxRGxMSHp5NFA2c3o3dXBVLUhWcGxrc0xKSnFfSVMx?oc=5",
@@ -131,31 +168,7 @@
       ],
       "firstSeen": "2026-05-04T08:09:23.417Z",
       "pushedAt": "2026-05-04T08:09:23.417Z"
-    },
-    {
-      "id": "48808450f44d0faf",
-      "title": "South Korean stocks hit fresh record, building on historic monthly rally in April",
-      "url": "https://www.cnbc.com/2026/05/04/asia-markets-live-updates-today-hang-seng-kospi-asx-oil-us-iran-trump-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-05-04T02:50:08.870Z",
-      "pushedAt": "2026-05-04T02:50:08.870Z"
-    },
-    {
-      "id": "901d0dc631219434",
-      "title": "Oil prices fall in choppy trade as Trump plans to 'free' ships stranded due to Mideast conflict",
-      "url": "https://www.cnbc.com/2026/05/04/oil-prices-today-wti-brent-trump-iran-us-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-05-04T02:50:09.152Z",
-      "pushedAt": "2026-05-04T02:50:09.152Z"
     }
   ],
-  "updatedAt": "2026-05-05T01:10:55.458Z"
+  "updatedAt": "2026-05-05T04:25:36.035Z"
 }
