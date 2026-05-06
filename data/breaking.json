@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "91b71c307f375ffc",
+      "title": "Oil supply shock to worsen as inventories fall further even if conflict ends - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajEzZERrVnZsdVJkNHRpUTN2cEM2YUpZN1R6VENfVDJyT24tSmpieWhXd093VklWQ09OWW81dDdrZk1wenRTcDNVbU4yeURkelVEVW54dmNMVXNQQmNlZFJ3UXVZcEZwY2w3SEhmX0tjdE53UWYySTZOM3BNMmdhS3pFajkxZF9jRUpaWWRPd3daak5yd0lXNkdJanFjWjNzQjlZcDhFVTdXS1ZMNDBnSUhWWG03QzA4MXpSaXpiQQ?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "conflict ends"
+      ],
+      "firstSeen": "2026-05-06T22:32:48.640Z",
+      "pushedAt": "2026-05-06T22:32:48.640Z"
+    },
+    {
+      "id": "c1c918bceecbc124",
+      "title": "Ringgit Continues Upward Momentum Ahead Of BNM's OPR Announcement - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoOGtkWFVsTVExTUdZSkZKMUZ3SnFnYjhIZTV2cS1iRW55dEQzSkgwZVRKaTlCUnVyU3ljcWMwOHZjbWo5WW5NVlAxWlZsc0ZSUHJVaA?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "bnm + opr"
+      ],
+      "firstSeen": "2026-05-06T22:32:48.844Z",
+      "pushedAt": "2026-05-06T22:32:48.844Z"
+    },
+    {
       "id": "ddf60a70b0999afb",
       "title": "Google offers changes to spam policy to avert EU antitrust fine - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnh4WTdvOFM5NG9YSFAyc1B1M3FXTWxMRFJ4QzdqZ01QbmVSN21RZ0FCMVUzQnZNS0ZVdnFGRVZyVlc2aGw5QWl2WnZQUzBYM3NReXppWjdzSGVSMThuRlh6eURBQ2dGel9xSk9JREFpYmxVVE5iSkx6VUJuaWJuazJQNUQxN3BrMnRhWXlDTm1CU3VoUXVWY241Rl8yV0VnS055a0ZmeDREMFFXc01DZzhnNEE2Sk92cXVybnA2aWZILTZBbDc4aVdEaw?oc=5",
@@ -85,5 +109,5 @@
       "pushedAt": "2026-05-06T07:57:46.195Z"
     }
   ],
-  "updatedAt": "2026-05-06T21:45:49.022Z"
+  "updatedAt": "2026-05-06T22:32:49.025Z"
 }
