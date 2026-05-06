@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7138d06c26ea5ce3",
+      "title": "CNBC's UK Exchange newsletter: It's not the 1970s, but the oil shock is still biting hard",
+      "url": "https://www.cnbc.com/2026/05/06/uk-energy-prices-1970s-oil-shock-consumers-businesses.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-05-06T07:57:46.195Z",
+      "pushedAt": "2026-05-06T07:57:46.195Z"
+    },
+    {
       "id": "68d135c1e09be602",
       "title": "Wall Street rallies to records after oil prices ease and corporate profits keep topping expectations - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEd0NzBZZEVzZGZscGJ5R01lMnlkMEJqa05vRWYzdlV2LVJNQ3IteHZxbmlHekMyZDRlZjdNN0pBd0gzbk9SREYyUE1HdldEQlBpbnZkVW8zWi00dGtpUnoxR09mQ2ZzVWtjYU5kZzB1YVlXVVNSMzRTam1hRFFhYnFCeXJVNE1ja3BlSGM2LUpoY1k?oc=5",
@@ -179,104 +191,7 @@
       ],
       "firstSeen": "2026-05-05T08:34:31.058Z",
       "pushedAt": "2026-05-05T08:34:31.058Z"
-    },
-    {
-      "id": "74e952e4bd9c7f6d",
-      "title": "Exclusive: US prepared for visa sanctions on China over migrants issue, official says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFNjUE1xMXJrZ3AxVGU2UW94Wm9Cb3BtTUNiN3JDZWhycHNBcWJBWHFRM1J6TU5kWW5WWTRMRHRLN3NUZlRqcTVXSTdWTE1pY1E3UlE0N3loc3Z3UzFnUktxRTAxbmhnTU4tU1VXV013YW9TbzJDblFkekJ4Sm1Lb01UXzhWM0xsdHJvMjI1Q2dmZl83MUdfR29FZFpsS1YxWTBBc0R2ZTYtemJoazZ4cg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-05T06:31:54.496Z",
-      "pushedAt": "2026-05-05T06:31:54.496Z"
-    },
-    {
-      "id": "ad64e5b45baddd59",
-      "title": "UKMTO Warns Of Ongoing Critical Security Threat In Strait Of Hormuz - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GNWRYbzFDajBvSW1PeUFlRjk1Q2hSYmRtVFZMTlJiaHhhVnhpQ2V3Skw5bF9BSVdWUDBSelRFSklIdzJzd1dUM01hZlhjRjNXanVfYXJpYzBZWHUtSUUzVHFjcVBuemhMZFZFZ0ZPLXZCMHczMEdJ?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-05-05T06:31:54.654Z",
-      "pushedAt": "2026-05-05T06:31:54.654Z"
-    },
-    {
-      "id": "add5c52b78bc0def",
-      "title": "An explosion at a fireworks plant in China has killed at least 21 people",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/an-explosion-at-a-fireworks-plant-in-china-has-killed-at-least-21-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + killed"
-      ],
-      "firstSeen": "2026-05-05T04:25:35.727Z",
-      "pushedAt": "2026-05-05T04:25:35.727Z"
-    },
-    {
-      "id": "5efbd9300162523c",
-      "title": "Oil prices surge as violence flares in Strait of Hormuz",
-      "url": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-05-05T04:25:35.930Z",
-      "pushedAt": "2026-05-05T04:25:35.930Z"
-    },
-    {
-      "id": "492e19f35cb4229f",
-      "title": "China Makes AI-powered Robots Core of National Strategy - IFR International Federation of Robotics",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGQ3TDVtc1hnTHZqWElEcUZoM3F3aF9ndEs0eXlYQ05MaFRwS2RwWkk5bGxqcmEyY1FRNUYycWIzVFVZU0lKNVZEODdsYWZ0cExCemJDS29sV05HS0JsSWpkVXlUSjdaNEFOMlM5WVdpSVByRGw4dDhwODJpbm42c29TdGU1bWZKb1ExbkNlbzE4ZktCYVlydEJNNA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-05-05T04:25:36.011Z",
-      "pushedAt": "2026-05-05T04:25:36.011Z"
-    },
-    {
-      "id": "ee7f75b85a0f0386",
-      "title": "China invokes anti-sanctions law to counter US blacklisting of refiners - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2I5Y2J3ZEtuSWJUN1lUMnpTMm5SV2NKZWlzd0YxLVBmUHN3bFBzTEk2cGtyQmtEYnByaEd6aUZZZFVDX3JTN2FGbTBaN1ZndmpkbHFfSWstLUNRaEZlcllRaVB6QjZhZDJ3T2pKYUtSWGhuTDhzNi1FV19fTXUwREZrRWt3TTFLN0N4WlNmY1BwRUdfbHN3ZWhxRGxMSHp5NFA2c3o3dXBVLUhWcGxrc0xKSnFfSVMx?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-05T01:10:55.153Z",
-      "pushedAt": "2026-05-05T01:10:55.153Z"
-    },
-    {
-      "id": "b1744b29eefb046a",
-      "title": "Chevron CEO says shortages in oil supply will begin appearing - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGhsbDlaaVBUVGo0VzMwNHdMYldMTmx5d1RnRjlLaXZia1hiekJTalpDNjBnd1htTDhtN1lHWG92UDliSlVsMzctd3Z2RFliZjhHRi1tNkxyNnA1RDlvVmN4elpSc1FYaUotVVlOOG44QUt2UWNHNEkzMVpfMjNNV2VYN1dKYTJXY2t2Q256RWVZaXhrcEdwVTR0OUkzbVBhZXd5WFhudm5aV3pRalAyVU1CMWI?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + oil"
-      ],
-      "firstSeen": "2026-05-04T22:38:53.386Z",
-      "pushedAt": "2026-05-04T22:38:53.386Z"
-    },
-    {
-      "id": "b7e3adf90ea3425a",
-      "title": "Hormuz tensions push ceasefire to the brink as Trump threatens Iran",
-      "url": "https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-05-04T21:43:17.252Z",
-      "pushedAt": "2026-05-04T21:43:17.252Z"
     }
   ],
-  "updatedAt": "2026-05-05T21:12:07.668Z"
+  "updatedAt": "2026-05-06T07:57:46.301Z"
 }
