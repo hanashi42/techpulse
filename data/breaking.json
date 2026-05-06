@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ddf60a70b0999afb",
+      "title": "Google offers changes to spam policy to avert EU antitrust fine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYnh4WTdvOFM5NG9YSFAyc1B1M3FXTWxMRFJ4QzdqZ01QbmVSN21RZ0FCMVUzQnZNS0ZVdnFGRVZyVlc2aGw5QWl2WnZQUzBYM3NReXppWjdzSGVSMThuRlh6eURBQ2dGel9xSk9JREFpYmxVVE5iSkx6VUJuaWJuazJQNUQxN3BrMnRhWXlDTm1CU3VoUXVWY241Rl8yV0VnS055a0ZmeDREMFFXc01DZzhnNEE2Sk92cXVybnA2aWZILTZBbDc4aVdEaw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "antitrust + google"
+      ],
+      "firstSeen": "2026-05-06T21:45:48.766Z",
+      "pushedAt": "2026-05-06T21:45:48.766Z"
+    },
+    {
+      "id": "ddf97272307a99b6",
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + drop"
+      ],
+      "firstSeen": "2026-05-06T21:45:48.975Z",
+      "pushedAt": "2026-05-06T21:45:48.975Z"
+    },
+    {
       "id": "ee7f75b85a0f0386",
       "title": "China invokes anti-sanctions law to counter US blacklisting of refiners - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2I5Y2J3ZEtuSWJUN1lUMnpTMm5SV2NKZWlzd0YxLVBmUHN3bFBzTEk2cGtyQmtEYnByaEd6aUZZZFVDX3JTN2FGbTBaN1ZndmpkbHFfSWstLUNRaEZlcllRaVB6QjZhZDJ3T2pKYUtSWGhuTDhzNi1FV19fTXUwREZrRWt3TTFLN0N4WlNmY1BwRUdfbHN3ZWhxRGxMSHp5NFA2c3o3dXBVLUhWcGxrc0xKSnFfSVMx?oc=5",
@@ -59,43 +83,7 @@
       ],
       "firstSeen": "2026-05-06T07:57:46.195Z",
       "pushedAt": "2026-05-06T07:57:46.195Z"
-    },
-    {
-      "id": "68d135c1e09be602",
-      "title": "Wall Street rallies to records after oil prices ease and corporate profits keep topping expectations - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEd0NzBZZEVzZGZscGJ5R01lMnlkMEJqa05vRWYzdlV2LVJNQ3IteHZxbmlHekMyZDRlZjdNN0pBd0gzbk9SREYyUE1HdldEQlBpbnZkVW8zWi00dGtpUnoxR09mQ2ZzVWtjYU5kZzB1YVlXVVNSMzRTam1hRFFhYnFCeXJVNE1ja3BlSGM2LUpoY1k?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + record"
-      ],
-      "firstSeen": "2026-05-05T21:12:07.384Z",
-      "pushedAt": "2026-05-05T21:12:07.384Z"
-    },
-    {
-      "id": "0c8b3c96935d58a4",
-      "title": "US plans to hike tariffs on EU cars to 25% will hit luxury market the most",
-      "url": "https://www.aljazeera.com/economy/2026/5/5/us-plans-to-hike-tariffs-on-eu-cars-to-25-will-hit-luxury-market-the-most?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 25%"
-      ],
-      "firstSeen": "2026-05-05T21:12:07.494Z",
-      "pushedAt": "2026-05-05T21:12:07.494Z"
-    },
-    {
-      "id": "34928e25004ffdff",
-      "title": "After Beijing openly defies US sanctions, Trump says China has 'been very respectful' - WBFF",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcUFKdzdzMjlsYmExZFBSMFR0WFE5aEFZVEEtVWNZMnRaOXhFUzZ2MVNFcWdqMk16YWViUnJXQk5hNzZiTllmdkNQSGY2WFlRWEJ1ZmEyWTJTSDdLUXB0T05taUxySE5WSnRZdi1Pc3pPOVZtdFI5WXh6bktBZ0ZXZkcxUzFMMFNheVRqckVFeTdrY2lyYi1fUTVpYjdWMTM3V3VoU3NaYldpQ3d5VW42MnVCZE1OYV85SE1LWUxxN0tya2xoWmxuZ1BsV0RxblNzdUFBSHlNek10QlltQzVXZjUwZ1VMRFJmZFlEeHZydG12OVVkZGlKSQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-05T21:12:07.595Z",
-      "pushedAt": "2026-05-05T21:12:07.595Z"
     }
   ],
-  "updatedAt": "2026-05-06T20:46:28.083Z"
+  "updatedAt": "2026-05-06T21:45:49.022Z"
 }
