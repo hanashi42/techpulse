@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "910ac1774631ac63",
+      "title": "Romania's pro-Europe government collapses after PM loses no-confidence vote",
+      "url": "https://news.sky.com/story/romanias-pro-europe-government-falls-after-pm-loses-no-confidence-vote-13540432",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "collapses + government"
+      ],
+      "firstSeen": "2026-05-06T16:15:54.976Z",
+      "pushedAt": "2026-05-06T16:15:54.976Z"
+    },
+    {
       "id": "0239f15a0a475433",
       "title": "CMA CGM vessel attacked in Strait of Hormuz as shipping halted by US-Iran war - Reuters",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2IwVlNkTldxSHk5VmRFYWtaVTdIOEJLeWU5RTJka1prZTBMbllzQWwyMVdwRU90eHhLeVNUZkdIZWZ6ZHdacnM5VUVMMzNLall0M2swb0RMWFAxZ2RGaWYxR3ZGTmdxSFhNODdWUzlXNlc4bTRNSWVCS0VCWk5hNDEydjhCeDEyMEVBWVZKcnB1UUpRa2pTMW5vVWo?oc=5",
@@ -157,5 +169,5 @@
       "pushedAt": "2026-05-05T16:19:26.797Z"
     }
   ],
-  "updatedAt": "2026-05-06T14:38:08.010Z"
+  "updatedAt": "2026-05-06T16:15:55.258Z"
 }
