@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d71691f6d9430390",
+      "title": "US stock futures rally on Middle East peace hopes, AI optimism - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3V5RlZkMXFBanpJNkJ0YVlKRkxYamlXOF9kbjl4RDJtZjctOTd2cHZucnI4ckdCbXZ3LUhCQjdnckU4SVZwVU9jeE54Zzk0dy03RGlBMFFLZVRreHdBemhuOFpnY2dIWVVCdTZva3JFWHViN2dlclF1TnYwSWZSMlp4RjFWZHZKa1cxanM2SG5xVHZzN0VxNG5sQUF0UENxbERpdGpKbXFzakVn?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-05-06T12:04:26.071Z",
+      "pushedAt": "2026-05-06T12:04:26.071Z"
+    },
+    {
       "id": "7138d06c26ea5ce3",
       "title": "CNBC's UK Exchange newsletter: It's not the 1970s, but the oil shock is still biting hard",
       "url": "https://www.cnbc.com/2026/05/06/uk-energy-prices-1970s-oil-shock-consumers-businesses.html",
@@ -167,31 +179,7 @@
       ],
       "firstSeen": "2026-05-05T12:53:12.654Z",
       "pushedAt": "2026-05-05T12:53:12.654Z"
-    },
-    {
-      "id": "191019749fa1e109",
-      "title": "Australia's central bank set to cool its heels after rapid-fire rate hikes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSkZCMS1PdnJxNlItSnlaM24wUm9pTjhDMnFmQVF2RlRVTmo4OG5FZGYySnZKSDBualVOY00td3ZTNUg5eDBObTBLUmZTTmc3ak5hbVdfcmpWVnRnTEd4dUppbnNkY2VGeHlzRUxROGpYV3E0NG9uYXY1YWdJNlJndHlBOWxVSUEwXzZvTkZLRHE1LWZCWlJnUFVsRk5JV1dDLXRGUFBLU2w2cGMzTWlyMDJCVTZlZHZVMkE5a0l6X1Fyb2hlSXJNYnR6ZEU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + central bank"
-      ],
-      "firstSeen": "2026-05-05T10:21:14.135Z",
-      "pushedAt": "2026-05-05T10:21:14.135Z"
-    },
-    {
-      "id": "18fd71ce5f83dd27",
-      "title": "Nine workers killed in Colombia coal mine explosion",
-      "url": "https://www.aljazeera.com/news/2026/5/5/nine-workers-killed-in-colombia-coal-mine-explosion?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + killed"
-      ],
-      "firstSeen": "2026-05-05T08:34:31.058Z",
-      "pushedAt": "2026-05-05T08:34:31.058Z"
     }
   ],
-  "updatedAt": "2026-05-06T07:57:46.301Z"
+  "updatedAt": "2026-05-06T12:04:26.224Z"
 }
