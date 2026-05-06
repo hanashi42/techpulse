@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0239f15a0a475433",
+      "title": "CMA CGM vessel attacked in Strait of Hormuz as shipping halted by US-Iran war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2IwVlNkTldxSHk5VmRFYWtaVTdIOEJLeWU5RTJka1prZTBMbllzQWwyMVdwRU90eHhLeVNUZkdIZWZ6ZHdacnM5VUVMMzNLall0M2swb0RMWFAxZ2RGaWYxR3ZGTmdxSFhNODdWUzlXNlc4bTRNSWVCS0VCWk5hNDEydjhCeDEyMEVBWVZKcnB1UUpRa2pTMW5vVWo?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + attacked"
+      ],
+      "firstSeen": "2026-05-06T14:38:07.737Z",
+      "pushedAt": "2026-05-06T14:38:07.737Z"
+    },
+    {
       "id": "d71691f6d9430390",
       "title": "US stock futures rally on Middle East peace hopes, AI optimism - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3V5RlZkMXFBanpJNkJ0YVlKRkxYamlXOF9kbjl4RDJtZjctOTd2cHZucnI4ckdCbXZ3LUhCQjdnckU4SVZwVU9jeE54Zzk0dy03RGlBMFFLZVRreHdBemhuOFpnY2dIWVVCdTZva3JFWHViN2dlclF1TnYwSWZSMlp4RjFWZHZKa1cxanM2SG5xVHZzN0VxNG5sQUF0UENxbERpdGpKbXFzakVn?oc=5",
@@ -143,43 +155,7 @@
       ],
       "firstSeen": "2026-05-05T16:19:26.797Z",
       "pushedAt": "2026-05-05T16:19:26.797Z"
-    },
-    {
-      "id": "1eb4513d2b267fb1",
-      "title": "Romanian government collapses after no-confidence vote - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGwyVXZaeGF4V1JQR1BhREFEZzNadzJnbWdtR1hTOWlmdDl0Z0phMDgzMjlCVmJaYnB5Y2RRY2piaDBYZkdubWhGWHhmRy04VlZuOG9QZ1RiTkk4M25pbm5EbUVsMEVteU82RGtXWGNzQ1pLRmJVSmd1RDEwVW5sUlh2cHNTNUQ0RlVIUmhlWHNSVWtJekJMZEltRUFqY0ZoYTJFa1NDbzcySjRDbVlqX3dac010a2M?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "collapses + government"
-      ],
-      "firstSeen": "2026-05-05T12:53:12.528Z",
-      "pushedAt": "2026-05-05T12:53:12.528Z"
-    },
-    {
-      "id": "c58ce0f92109900d",
-      "title": "Can central banks curb inflation as energy costs rise?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/5/can-central-banks-curb-inflation-as-energy-costs-rise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-05-05T12:53:12.607Z",
-      "pushedAt": "2026-05-05T12:53:12.607Z"
-    },
-    {
-      "id": "0bbf01ee685dc460",
-      "title": "China's rare defiance of U.S. sanctions sparks showdown over banks - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObTBvUFlWaDJ0UmhGbjV4WU9fYmh6dV9Hc2Vxd0luWHYzNWRfdHpjZWc4OFB1MmpwMTNuTDc2THQ3Z3Vhd2dxQ0N2MUhHLW1hU1hhMXZkeXpHWnltTGZZOFlQdGw1Q2NRa096Q2VINW5Sa0lzSVVYR0NCSFFBTHlJZE9BT2xJMXVacVZB?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-05T12:53:12.654Z",
-      "pushedAt": "2026-05-05T12:53:12.654Z"
     }
   ],
-  "updatedAt": "2026-05-06T12:04:26.224Z"
+  "updatedAt": "2026-05-06T14:38:08.010Z"
 }
