@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "38b5a1480e595fec",
+      "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
+      "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "pandemic + outbreak"
+      ],
+      "firstSeen": "2026-05-07T17:18:17.000Z",
+      "pushedAt": "2026-05-07T17:18:17.000Z"
+    },
+    {
       "id": "35ccf1f3b9f7583c",
       "title": "S&P 500, Nasdaq at record highs as oil pullback brings relief - Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0VpN3E3Y3hiR0ZEN21hWnBDM1RZcW5zNERIXzdvVi1TZ28xcExUWnFab284bmJfQlhtRFlFYXBKLWZ1RG9yRkJqS3ZESXlWNV9zc1g3aUYtQUxHM0p4SEpsM0ZzTXhsZDZWOEp0d0owNVVyUlkxTWdaekhlbVltUmJwR0F4QXdidVBLZnFKOE43aGtMVnpaQUhmYndIZw?oc=5",
@@ -167,19 +179,7 @@
       ],
       "firstSeen": "2026-05-06T20:46:27.668Z",
       "pushedAt": "2026-05-06T20:46:27.668Z"
-    },
-    {
-      "id": "910ac1774631ac63",
-      "title": "Romania's pro-Europe government collapses after PM loses no-confidence vote",
-      "url": "https://news.sky.com/story/romanias-pro-europe-government-falls-after-pm-loses-no-confidence-vote-13540432",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "collapses + government"
-      ],
-      "firstSeen": "2026-05-06T16:15:54.976Z",
-      "pushedAt": "2026-05-06T16:15:54.976Z"
     }
   ],
-  "updatedAt": "2026-05-07T15:32:29.552Z"
+  "updatedAt": "2026-05-07T17:18:17.602Z"
 }
