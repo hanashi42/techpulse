@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "35ccf1f3b9f7583c",
+      "title": "S&P 500, Nasdaq at record highs as oil pullback brings relief - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0VpN3E3Y3hiR0ZEN21hWnBDM1RZcW5zNERIXzdvVi1TZ28xcExUWnFab284bmJfQlhtRFlFYXBKLWZ1RG9yRkJqS3ZESXlWNV9zc1g3aUYtQUxHM0p4SEpsM0ZzTXhsZDZWOEp0d0owNVVyUlkxTWdaekhlbVltUmJwR0F4QXdidVBLZnFKOE43aGtMVnpaQUhmYndIZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "record high + oil"
+      ],
+      "firstSeen": "2026-05-07T15:32:29.334Z",
+      "pushedAt": "2026-05-07T15:32:29.334Z"
+    },
+    {
+      "id": "8fac3018e7348508",
+      "title": "Mapping the Market: S&P 500 may be gearing up for even more aggressive rally phase - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40eG1GemE3ZHVyQkQyTkFJYWpORTJaMlgzM2JiTmhmWU04UDFPdXVja3hGY2p6cnlidzNPaHZfVU42UFF2TndlZkV3TDhXZWUwZ0FvRmRmZU9oWVlhN1d4aGFRZW1rdEtjSUNXOFFaMUNBT1M3dlJVZmZSeEk?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + market"
+      ],
+      "firstSeen": "2026-05-07T15:32:29.436Z",
+      "pushedAt": "2026-05-07T15:32:29.436Z"
+    },
+    {
       "id": "0baf752a7100be82",
       "title": "Brazil's Lula visits Trump in Washington seeking to avert new US trade tariffs - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXBvVEJFaDhqbmJiQzZ3R1BiN1RVTXVNTVFhSUdKRTBxOGp1blk1U3R0SHphTzdrNzZpYnliOHNXa2RHSmMyQkZoMnE3bzR2eTdRaGc4dENRR0w2ZW5yS2xwR0ZIOFdKUFZTWGpRdjg5Vm5PNzBfZHdBdGx3MWtvQ29DRjZlaFVDWnUzRU9XbUVnc2NoMlhpenVFT0o1cmtENnF0WF9YR1IxX0RDMFktaFh4TjJuaGdNQnlHXzZpbw?oc=5",
@@ -155,19 +179,7 @@
       ],
       "firstSeen": "2026-05-06T16:15:54.976Z",
       "pushedAt": "2026-05-06T16:15:54.976Z"
-    },
-    {
-      "id": "0239f15a0a475433",
-      "title": "CMA CGM vessel attacked in Strait of Hormuz as shipping halted by US-Iran war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2IwVlNkTldxSHk5VmRFYWtaVTdIOEJLeWU5RTJka1prZTBMbllzQWwyMVdwRU90eHhLeVNUZkdIZWZ6ZHdacnM5VUVMMzNLall0M2swb0RMWFAxZ2RGaWYxR3ZGTmdxSFhNODdWUzlXNlc4bTRNSWVCS0VCWk5hNDEydjhCeDEyMEVBWVZKcnB1UUpRa2pTMW5vVWo?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + attacked"
-      ],
-      "firstSeen": "2026-05-06T14:38:07.737Z",
-      "pushedAt": "2026-05-06T14:38:07.737Z"
     }
   ],
-  "updatedAt": "2026-05-07T13:09:01.668Z"
+  "updatedAt": "2026-05-07T15:32:29.552Z"
 }
