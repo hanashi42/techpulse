@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b4bb8c46e251a1fa",
+      "title": "US sanctions Iraqi minister accused of aiding Iran oil sales",
+      "url": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-07T19:02:00.680Z",
+      "pushedAt": "2026-05-07T19:02:00.680Z"
+    },
+    {
       "id": "38b5a1480e595fec",
       "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
       "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
@@ -181,5 +193,5 @@
       "pushedAt": "2026-05-06T20:46:27.668Z"
     }
   ],
-  "updatedAt": "2026-05-07T17:18:17.602Z"
+  "updatedAt": "2026-05-07T19:02:00.832Z"
 }
