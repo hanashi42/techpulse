@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0baf752a7100be82",
+      "title": "Brazil's Lula visits Trump in Washington seeking to avert new US trade tariffs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXBvVEJFaDhqbmJiQzZ3R1BiN1RVTXVNTVFhSUdKRTBxOGp1blk1U3R0SHphTzdrNzZpYnliOHNXa2RHSmMyQkZoMnE3bzR2eTdRaGc4dENRR0w2ZW5yS2xwR0ZIOFdKUFZTWGpRdjg5Vm5PNzBfZHdBdGx3MWtvQ29DRjZlaFVDWnUzRU9XbUVnc2NoMlhpenVFT0o1cmtENnF0WF9YR1IxX0RDMFktaFh4TjJuaGdNQnlHXzZpbw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-07T13:09:01.556Z",
+      "pushedAt": "2026-05-07T13:09:01.556Z"
+    },
+    {
       "id": "fc2e63d476e96700",
       "title": "Iran releases video said to show US drone shot down over Hormuz",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz?traffic_source=rss",
@@ -155,19 +167,7 @@
       ],
       "firstSeen": "2026-05-06T14:38:07.737Z",
       "pushedAt": "2026-05-06T14:38:07.737Z"
-    },
-    {
-      "id": "d71691f6d9430390",
-      "title": "US stock futures rally on Middle East peace hopes, AI optimism - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3V5RlZkMXFBanpJNkJ0YVlKRkxYamlXOF9kbjl4RDJtZjctOTd2cHZucnI4ckdCbXZ3LUhCQjdnckU4SVZwVU9jeE54Zzk0dy03RGlBMFFLZVRreHdBemhuOFpnY2dIWVVCdTZva3JFWHViN2dlclF1TnYwSWZSMlp4RjFWZHZKa1cxanM2SG5xVHZzN0VxNG5sQUF0UENxbERpdGpKbXFzakVn?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-05-06T12:04:26.071Z",
-      "pushedAt": "2026-05-06T12:04:26.071Z"
     }
   ],
-  "updatedAt": "2026-05-07T11:20:18.630Z"
+  "updatedAt": "2026-05-07T13:09:01.668Z"
 }
