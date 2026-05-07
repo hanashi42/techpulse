@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "77b694a5df41b66a",
+      "title": "BMW holds firm on 2026 outlook despite tariff threats and China weakness - Car Dealership Guy News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaE9Gbmppd3dBUjBhOTNVVDlWLUNXazJfa2NacGpvSTY4dzZyRHp0T2xvTmdIVThrMVVZUzJGOGVXRzNIazFHZGlrVzRza3ozaE1GcmswekxtUTVjdUVTYjRPQlpCUWdPQzlUTGdoNG5qdmpHdk84Mnp6Q0NaaFA5RGdwSWN3TS1KN0w4ZVdCSklzODhwM1BSaE5zVWRCOWd1QVZ0V2ZWSlA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-07T09:16:59.602Z",
+      "pushedAt": "2026-05-07T09:16:59.602Z"
+    },
+    {
       "id": "e65f9f51df156692",
       "title": "SoftBank shares surge over 16% as Japan tech-fueled rally lifts Nikkei 225 to record highs",
       "url": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
@@ -119,19 +131,7 @@
       ],
       "firstSeen": "2026-05-06T12:04:26.071Z",
       "pushedAt": "2026-05-06T12:04:26.071Z"
-    },
-    {
-      "id": "7138d06c26ea5ce3",
-      "title": "CNBC's UK Exchange newsletter: It's not the 1970s, but the oil shock is still biting hard",
-      "url": "https://www.cnbc.com/2026/05/06/uk-energy-prices-1970s-oil-shock-consumers-businesses.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-05-06T07:57:46.195Z",
-      "pushedAt": "2026-05-06T07:57:46.195Z"
     }
   ],
-  "updatedAt": "2026-05-07T04:02:50.503Z"
+  "updatedAt": "2026-05-07T09:16:59.841Z"
 }
