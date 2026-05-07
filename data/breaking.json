@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e65f9f51df156692",
+      "title": "SoftBank shares surge over 16% as Japan tech-fueled rally lifts Nikkei 225 to record highs",
+      "url": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + record"
+      ],
+      "firstSeen": "2026-05-07T04:02:50.060Z",
+      "pushedAt": "2026-05-07T04:02:50.060Z"
+    },
+    {
+      "id": "b1d4d89fc636c811",
+      "title": "China Tests a Rare Tool in Its Sanctions Arsenal - Foreign Policy",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWtmckhlR25SVmpMOTBpODNtRTE3X2R0RnFySGMxRzctLTVzY2pNMkVGWGlSZnFPZjlOZFNnLUpqWWdJOHJhVmljbHV4Z29lNEdoaDBoN29ZRlROcTZNeEVVdEJjTWFQS3ZOT3pfQ1V5cU1aM1lqOWZGb25ScE5MV0dmMGo1SDJ5LVlMT0xXTXlkdw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-07T04:02:50.308Z",
+      "pushedAt": "2026-05-07T04:02:50.308Z"
+    },
+    {
       "id": "91b71c307f375ffc",
       "title": "Oil supply shock to worsen as inventories fall further even if conflict ends - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajEzZERrVnZsdVJkNHRpUTN2cEM2YUpZN1R6VENfVDJyT24tSmpieWhXd093VklWQ09OWW81dDdrZk1wenRTcDNVbU4yeURkelVEVW54dmNMVXNQQmNlZFJ3UXVZcEZwY2w3SEhmX0tjdE53UWYySTZOM3BNMmdhS3pFajkxZF9jRUpaWWRPd3daak5yd0lXNkdJanFjWjNzQjlZcDhFVTdXS1ZMNDBnSUhWWG03QzA4MXpSaXpiQQ?oc=5",
@@ -109,5 +133,5 @@
       "pushedAt": "2026-05-06T07:57:46.195Z"
     }
   ],
-  "updatedAt": "2026-05-06T22:32:49.025Z"
+  "updatedAt": "2026-05-07T04:02:50.503Z"
 }
