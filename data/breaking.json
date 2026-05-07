@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "af2caac63629a619",
+      "title": "Iran's state broadcaster says US military naval units came under missile fire after US attack on Iranian oil tanker - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnplWTR4X2ZCYk1JNWVNTEkzbXM3WWlEX1BVWW1oREU4UjRCQXp0bU0zSzNZUF91SkZzeWFnQ2RTR0xVck1xTGlwX2JpX0JpVm9QOXVOWTRZdzRUMVZLTTlRUGFCaHBYaHZidUFNWVowc2VacjF6eUwwWTFBeF9tRXJidVQzQ1N3RFdqR2RIejhOcVpxXzNlQ0JOeGdoVkhEZERBMUN1aTRmWkdaN09sSkVKR1M5MGNXZUM0X0Y4TQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-05-07T21:16:47.828Z",
+      "pushedAt": "2026-05-07T21:16:47.828Z"
+    },
+    {
+      "id": "47861278ae5b4990",
+      "title": "US stocks fall from their records as oil prices yo-yo - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3Jxb2cyaDN1S0dxdk1LcFNoLXNaWGp6SXV3R0pHNk5yXzJwVVR1RVJRNE5Jd2RSZGRUVXZ6ZE5pZnNoVW0xcHR3OC01RVZhY0pqamsxVE1tSVBVMEZlclZGeE9MRWx3U0JsQ1haWWZ1U00tZ3E3X0tQaDc1eXMxQ011dGQzMGFPX3JEcHhrRjlJVGZVZzFfQmZpYw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + record"
+      ],
+      "firstSeen": "2026-05-07T21:16:47.954Z",
+      "pushedAt": "2026-05-07T21:16:47.954Z"
+    },
+    {
+      "id": "112d49b9bfae9a9c",
+      "title": "Trump sets July 4 deadline for EU tariff hike decision",
+      "url": "https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-07T21:16:48.038Z",
+      "pushedAt": "2026-05-07T21:16:48.038Z"
+    },
+    {
       "id": "948d9ff4d5a9b64b",
       "title": "RUBBER MARKET CLOSES MIXED AS POSITIVE DEVELOPMENTS CAPPED BY WEAKER OIL, STRONGER RINGGIT - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQS1p0RUZfRmxScXlkcFM4LTRwd3FBUjJ4SmdoTGExQzI1M1JScFpCdUFKdzBlMzQ1a1c4VUV4dUpEb29ua1VLQzNFU0FHbVFIRkdmbQ?oc=5",
@@ -192,19 +228,7 @@
       ],
       "firstSeen": "2026-05-06T21:45:48.975Z",
       "pushedAt": "2026-05-06T21:45:48.975Z"
-    },
-    {
-      "id": "ee7f75b85a0f0386",
-      "title": "China invokes anti-sanctions law to counter US blacklisting of refiners - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2I5Y2J3ZEtuSWJUN1lUMnpTMm5SV2NKZWlzd0YxLVBmUHN3bFBzTEk2cGtyQmtEYnByaEd6aUZZZFVDX3JTN2FGbTBaN1ZndmpkbHFfSWstLUNRaEZlcllRaVB6QjZhZDJ3T2pKYUtSWGhuTDhzNi1FV19fTXUwREZrRWt3TTFLN0N4WlNmY1BwRUdfbHN3ZWhxRGxMSHp5NFA2c3o3dXBVLUhWcGxrc0xKSnFfSVMx?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-06T20:46:27.668Z",
-      "pushedAt": "2026-05-06T20:46:27.668Z"
     }
   ],
-  "updatedAt": "2026-05-07T20:19:50.169Z"
+  "updatedAt": "2026-05-07T21:16:48.087Z"
 }
