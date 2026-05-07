@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "948d9ff4d5a9b64b",
+      "title": "RUBBER MARKET CLOSES MIXED AS POSITIVE DEVELOPMENTS CAPPED BY WEAKER OIL, STRONGER RINGGIT - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQS1p0RUZfRmxScXlkcFM4LTRwd3FBUjJ4SmdoTGExQzI1M1JScFpCdUFKdzBlMzQ1a1c4VUV4dUpEb29ua1VLQzNFU0FHbVFIRkdmbQ?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "ringgit + weak",
+        "ringgit + weak"
+      ],
+      "firstSeen": "2026-05-07T20:19:50.079Z",
+      "pushedAt": "2026-05-07T20:19:50.079Z"
+    },
+    {
       "id": "b4bb8c46e251a1fa",
       "title": "US sanctions Iraqi minister accused of aiding Iran oil sales",
       "url": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales?traffic_source=rss",
@@ -193,5 +206,5 @@
       "pushedAt": "2026-05-06T20:46:27.668Z"
     }
   ],
-  "updatedAt": "2026-05-07T19:02:00.832Z"
+  "updatedAt": "2026-05-07T20:19:50.169Z"
 }
