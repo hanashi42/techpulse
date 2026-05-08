@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7b8e06dd5da8d6ab",
+      "title": "U.S. says it struck two Iran-flagged oil tankers trying to skirt blockade",
+      "url": "https://www.cnbc.com/2026/05/08/iran-war-oil-trump-blockade-ceasefire.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-05-08T14:50:32.300Z",
+      "pushedAt": "2026-05-08T14:50:32.300Z"
+    },
+    {
       "id": "f5781d2f4dbdadf0",
       "title": "US hybrid-car sales soar, along with gas prices - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVZZMktMNlZBR1BvRWJvMmQ5S0I4cmJLcW1WclF3cERWNzFUXzJOeUlYN3FUeVc3dFJiZzVQM05sNzc3akR4ZmQ2N0pCV2xMWXNTSXh1dDZxREFpazlPLUZJWWRFb2RYUS1ZR1o5ekV0c2FzSE5PZUdac3lwUkUtUEprTjJtTHAyOV9VZHp4czdVZy1nODlLdVRhOFhLb01aRVBLeUxxMjcwN3c4anVhS253?oc=5",
@@ -180,19 +192,7 @@
       ],
       "firstSeen": "2026-05-07T15:32:29.436Z",
       "pushedAt": "2026-05-07T15:32:29.436Z"
-    },
-    {
-      "id": "0baf752a7100be82",
-      "title": "Brazil's Lula visits Trump in Washington seeking to avert new US trade tariffs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUXBvVEJFaDhqbmJiQzZ3R1BiN1RVTXVNTVFhSUdKRTBxOGp1blk1U3R0SHphTzdrNzZpYnliOHNXa2RHSmMyQkZoMnE3bzR2eTdRaGc4dENRR0w2ZW5yS2xwR0ZIOFdKUFZTWGpRdjg5Vm5PNzBfZHdBdGx3MWtvQ29DRjZlaFVDWnUzRU9XbUVnc2NoMlhpenVFT0o1cmtENnF0WF9YR1IxX0RDMFktaFh4TjJuaGdNQnlHXzZpbw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-07T13:09:01.556Z",
-      "pushedAt": "2026-05-07T13:09:01.556Z"
     }
   ],
-  "updatedAt": "2026-05-08T12:59:07.756Z"
+  "updatedAt": "2026-05-08T14:50:32.604Z"
 }
