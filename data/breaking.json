@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "85a40590a080da04",
+      "title": "Federal court rules against new global tariffs Trump imposed after loss at the Supreme Court - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmd5MWJTVlVUaXhVUlBrcUlYNVFRQVBfZERtYURjdWZ5bEhBc1MyUzRTNm1HU0lGNnNIOWJUaVBWQzR0UVMtZ01oZ1RBLUFjeG0xeE96YkUyZklHS1NOY28yZjI4WU1IUnR3X3VUcnZsb3hzUk5pdlM4bnVwX1pqeUdtVlFyeTdIbU5QYWdhOVlYdlNxS2dZ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-08T18:55:37.457Z",
+      "pushedAt": "2026-05-08T18:55:37.457Z"
+    },
+    {
+      "id": "1062a511622224d1",
+      "title": "More than a dozen reported killed in Israeli attacks on south Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-08T18:55:37.743Z",
+      "pushedAt": "2026-05-08T18:55:37.743Z"
+    },
+    {
+      "id": "75f6eb040c16a871",
+      "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+      "url": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate",
+        "interest rate + cut"
+      ],
+      "firstSeen": "2026-05-08T18:55:37.989Z",
+      "pushedAt": "2026-05-08T18:55:37.989Z"
+    },
+    {
       "id": "b5ad203eb0802f6a",
       "title": "S&P 500, Nasdaq hit record highs on tech rally, strong jobs data - Reuters",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGVILXcwU3hObHYzalJvRDNUTDVJS0pXNnR6QjVtNXhtTTNSclRlejJYRjRiX2pJcmlOMGVBdzZvOUdzNWg1aV9GQVdWdzBOUUVEX3NaaGhTcHlyNEJEcFlVOHJGWnJWVlZNZHNnMC0wQ0ZPZmRxMTZYdGF4T1MwcDdLcUM4Q0xyNzJJRHVyUlJUT0lKM21leFU5dVc?oc=5",
@@ -183,5 +220,5 @@
       "pushedAt": "2026-05-07T19:02:00.680Z"
     }
   ],
-  "updatedAt": "2026-05-08T17:40:07.445Z"
+  "updatedAt": "2026-05-08T18:55:38.082Z"
 }
