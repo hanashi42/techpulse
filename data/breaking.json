@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3aebbac0f227dcb9",
+      "title": "US imposes sanctions on 10 individuals, companies for aiding Iran's weapons sector - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjcxaGc1MXBjOWVtZV9IVkVtNXgwQ1lka0R0cFRDdWxhRzQ4OE5ZaHYtOHg0N0I1ODNJbnBxamNuMVNoU2dSbFhHdk44ZUdlNlY3X3RGbFRJR2JPQkxuWlBWLUhTWThjTExTbmVVSXEtUUtlbEJlemhtU3R3RjNKb1pEV2M2SF9Yb285M3cwRXIzZlNXQ1d1S0NJazRxbUJjdkRMM3VpaTF0QmlpYnBXMEJSXzBuM3dtSk5pMVJB?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-05-08T23:08:08.577Z",
+      "pushedAt": "2026-05-08T23:08:08.577Z"
+    },
+    {
       "id": "85a40590a080da04",
       "title": "Federal court rules against new global tariffs Trump imposed after loss at the Supreme Court - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmd5MWJTVlVUaXhVUlBrcUlYNVFRQVBfZERtYURjdWZ5bEhBc1MyUzRTNm1HU0lGNnNIOWJUaVBWQzR0UVMtZ01oZ1RBLUFjeG0xeE96YkUyZklHS1NOY28yZjI4WU1IUnR3X3VUcnZsb3hzUk5pdlM4bnVwX1pqeUdtVlFyeTdIbU5QYWdhOVlYdlNxS2dZ?oc=5",
@@ -145,80 +157,7 @@
       ],
       "firstSeen": "2026-05-08T03:48:30.312Z",
       "pushedAt": "2026-05-08T03:48:30.312Z"
-    },
-    {
-      "id": "8e6f0b59b1465888",
-      "title": "US military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUkt3M3BQa3VLVHFKQTh3MEhnVHFhZ241MHo2cm8wdnd4S25vdzI5RXRIY3JHVEl4TkliUHgzNkdoZllvSGNUQkxWb093anEyQnZlM25EQzlQSDZuTW5GVzBob29YdktSWWxBUjBSY2l6TlA2dUM3Vk1UT05iZ3daclJ2amNRU0gzNVJfS3FSdXMxWXc?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-05-07T22:17:23.608Z",
-      "pushedAt": "2026-05-07T22:17:23.608Z"
-    },
-    {
-      "id": "af2caac63629a619",
-      "title": "Iran's state broadcaster says US military naval units came under missile fire after US attack on Iranian oil tanker - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnplWTR4X2ZCYk1JNWVNTEkzbXM3WWlEX1BVWW1oREU4UjRCQXp0bU0zSzNZUF91SkZzeWFnQ2RTR0xVck1xTGlwX2JpX0JpVm9QOXVOWTRZdzRUMVZLTTlRUGFCaHBYaHZidUFNWVowc2VacjF6eUwwWTFBeF9tRXJidVQzQ1N3RFdqR2RIejhOcVpxXzNlQ0JOeGdoVkhEZERBMUN1aTRmWkdaN09sSkVKR1M5MGNXZUM0X0Y4TQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-05-07T21:16:47.828Z",
-      "pushedAt": "2026-05-07T21:16:47.828Z"
-    },
-    {
-      "id": "47861278ae5b4990",
-      "title": "US stocks fall from their records as oil prices yo-yo - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3Jxb2cyaDN1S0dxdk1LcFNoLXNaWGp6SXV3R0pHNk5yXzJwVVR1RVJRNE5Jd2RSZGRUVXZ6ZE5pZnNoVW0xcHR3OC01RVZhY0pqamsxVE1tSVBVMEZlclZGeE9MRWx3U0JsQ1haWWZ1U00tZ3E3X0tQaDc1eXMxQ011dGQzMGFPX3JEcHhrRjlJVGZVZzFfQmZpYw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + record"
-      ],
-      "firstSeen": "2026-05-07T21:16:47.954Z",
-      "pushedAt": "2026-05-07T21:16:47.954Z"
-    },
-    {
-      "id": "112d49b9bfae9a9c",
-      "title": "Trump sets July 4 deadline for EU tariff hike decision",
-      "url": "https://www.aljazeera.com/economy/2026/5/7/trump-sets-july-4-deadline-for-eu-tariff-hike-decision?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-07T21:16:48.038Z",
-      "pushedAt": "2026-05-07T21:16:48.038Z"
-    },
-    {
-      "id": "948d9ff4d5a9b64b",
-      "title": "RUBBER MARKET CLOSES MIXED AS POSITIVE DEVELOPMENTS CAPPED BY WEAKER OIL, STRONGER RINGGIT - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQS1p0RUZfRmxScXlkcFM4LTRwd3FBUjJ4SmdoTGExQzI1M1JScFpCdUFKdzBlMzQ1a1c4VUV4dUpEb29ua1VLQzNFU0FHbVFIRkdmbQ?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "ringgit + weak",
-        "ringgit + weak"
-      ],
-      "firstSeen": "2026-05-07T20:19:50.079Z",
-      "pushedAt": "2026-05-07T20:19:50.079Z"
-    },
-    {
-      "id": "b4bb8c46e251a1fa",
-      "title": "US sanctions Iraqi minister accused of aiding Iran oil sales",
-      "url": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-05-07T19:02:00.680Z",
-      "pushedAt": "2026-05-07T19:02:00.680Z"
     }
   ],
-  "updatedAt": "2026-05-08T18:55:38.082Z"
+  "updatedAt": "2026-05-08T23:08:08.682Z"
 }
