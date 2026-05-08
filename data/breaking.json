@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "48fe4716113d91a4",
+      "title": "Oil prices jump on renewed US-Iran hostilities - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1ZZWVlWYlVTaXhlS2ZkTnQ0UUhrNGpVbTRVeHhMRGpkNmRSMTdySFdQWTZBT3VIa1d4VXRqZ3hXZklsX0V1MkxOSmN3LW9GUnV6UFFySXE5YnhXTmpiM3FQUTFlQ2ZmNkFvVG95ckZnX29oZVlRdnNxaElDWG1YeTlzczR1UkhxR1RXcWhqdzdQdDQx?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-05-08T03:48:30.078Z",
+      "pushedAt": "2026-05-08T03:48:30.078Z"
+    },
+    {
+      "id": "3721669cf4b96ba2",
+      "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+      "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-08T03:48:30.273Z",
+      "pushedAt": "2026-05-08T03:48:30.273Z"
+    },
+    {
+      "id": "c151f47478e321e4",
+      "title": "Oil resumes rally as U.S.-Iran fire exchange rattles fragile Hormuz ceasefire",
+      "url": "https://www.cnbc.com/2026/05/08/oil-prices-today-wti-brent-us-iran-fire-war-hormuz-ceasefire.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + oil"
+      ],
+      "firstSeen": "2026-05-08T03:48:30.312Z",
+      "pushedAt": "2026-05-08T03:48:30.312Z"
+    },
+    {
       "id": "8e6f0b59b1465888",
       "title": "US military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUkt3M3BQa3VLVHFKQTh3MEhnVHFhZ241MHo2cm8wdnd4S25vdzI5RXRIY3JHVEl4TkliUHgzNkdoZllvSGNUQkxWb093anEyQnZlM25EQzlQSDZuTW5GVzBob29YdktSWWxBUjBSY2l6TlA2dUM3Vk1UT05iZ3daclJ2amNRU0gzNVJfS3FSdXMxWXc?oc=5",
@@ -192,31 +228,7 @@
       ],
       "firstSeen": "2026-05-07T04:02:50.308Z",
       "pushedAt": "2026-05-07T04:02:50.308Z"
-    },
-    {
-      "id": "91b71c307f375ffc",
-      "title": "Oil supply shock to worsen as inventories fall further even if conflict ends - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajEzZERrVnZsdVJkNHRpUTN2cEM2YUpZN1R6VENfVDJyT24tSmpieWhXd093VklWQ09OWW81dDdrZk1wenRTcDNVbU4yeURkelVEVW54dmNMVXNQQmNlZFJ3UXVZcEZwY2w3SEhmX0tjdE53UWYySTZOM3BNMmdhS3pFajkxZF9jRUpaWWRPd3daak5yd0lXNkdJanFjWjNzQjlZcDhFVTdXS1ZMNDBnSUhWWG03QzA4MXpSaXpiQQ?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "conflict ends"
-      ],
-      "firstSeen": "2026-05-06T22:32:48.640Z",
-      "pushedAt": "2026-05-06T22:32:48.640Z"
-    },
-    {
-      "id": "c1c918bceecbc124",
-      "title": "Ringgit Continues Upward Momentum Ahead Of BNM's OPR Announcement - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoOGtkWFVsTVExTUdZSkZKMUZ3SnFnYjhIZTV2cS1iRW55dEQzSkgwZVRKaTlCUnVyU3ljcWMwOHZjbWo5WW5NVlAxWlZsc0ZSUHJVaA?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bnm + opr"
-      ],
-      "firstSeen": "2026-05-06T22:32:48.844Z",
-      "pushedAt": "2026-05-06T22:32:48.844Z"
     }
   ],
-  "updatedAt": "2026-05-07T22:17:23.735Z"
+  "updatedAt": "2026-05-08T03:48:30.338Z"
 }
