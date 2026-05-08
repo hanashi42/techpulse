@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "669b44b2f3255082",
+      "title": "Sony forecasts lower gaming business sales amid memory price surge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNci1nMExHdVNzTTdGZHAxZ0dlT2tqaENONDRUaWlod1Bldnhrc1ZSZ1VmTzdkemZJMmVLSHZBRHR2MjNvZGhOREdaU0Z6SnhlUzFXeW0taW5vM3B0VllibDQ5N3U2c2hEVW9QczhWMlN3LWd4VFFXMmhVRzV4c2lzTDZtZzBuZXJxTXdfZnRLWURTa3BhTHhyaGE3SmhwMGlfekhYcU95eVJnVVk?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-05-08T07:09:36.393Z",
+      "pushedAt": "2026-05-08T07:09:36.393Z"
+    },
+    {
+      "id": "b8c0ba4f859a60d3",
+      "title": "European stocks poised to open lower with Trump's EU tariff threats, UK election in focus",
+      "url": "https://www.cnbc.com/2026/05/08/trump-eu-tariffs-uk-election-starmer-reform-uk-labour-stock-market.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + europe"
+      ],
+      "firstSeen": "2026-05-08T07:09:36.488Z",
+      "pushedAt": "2026-05-08T07:09:36.488Z"
+    },
+    {
       "id": "48fe4716113d91a4",
       "title": "Oil prices jump on renewed US-Iran hostilities - Reuters",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1ZZWVlWYlVTaXhlS2ZkTnQ0UUhrNGpVbTRVeHhMRGpkNmRSMTdySFdQWTZBT3VIa1d4VXRqZ3hXZklsX0V1MkxOSmN3LW9GUnV6UFFySXE5YnhXTmpiM3FQUTFlQ2ZmNkFvVG95ckZnX29oZVlRdnNxaElDWG1YeTlzczR1UkhxR1RXcWhqdzdQdDQx?oc=5",
@@ -204,31 +228,7 @@
       ],
       "firstSeen": "2026-05-07T09:16:59.602Z",
       "pushedAt": "2026-05-07T09:16:59.602Z"
-    },
-    {
-      "id": "e65f9f51df156692",
-      "title": "SoftBank shares surge over 16% as Japan tech-fueled rally lifts Nikkei 225 to record highs",
-      "url": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + record"
-      ],
-      "firstSeen": "2026-05-07T04:02:50.060Z",
-      "pushedAt": "2026-05-07T04:02:50.060Z"
-    },
-    {
-      "id": "b1d4d89fc636c811",
-      "title": "China Tests a Rare Tool in Its Sanctions Arsenal - Foreign Policy",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWtmckhlR25SVmpMOTBpODNtRTE3X2R0RnFySGMxRzctLTVzY2pNMkVGWGlSZnFPZjlOZFNnLUpqWWdJOHJhVmljbHV4Z29lNEdoaDBoN29ZRlROcTZNeEVVdEJjTWFQS3ZOT3pfQ1V5cU1aM1lqOWZGb25ScE5MV0dmMGo1SDJ5LVlMT0xXTXlkdw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-07T04:02:50.308Z",
-      "pushedAt": "2026-05-07T04:02:50.308Z"
     }
   ],
-  "updatedAt": "2026-05-08T03:48:30.338Z"
+  "updatedAt": "2026-05-08T07:09:36.587Z"
 }
