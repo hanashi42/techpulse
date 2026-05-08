@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "b5ad203eb0802f6a",
+      "title": "S&P 500, Nasdaq hit record highs on tech rally, strong jobs data - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGVILXcwU3hObHYzalJvRDNUTDVJS0pXNnR6QjVtNXhtTTNSclRlejJYRjRiX2pJcmlOMGVBdzZvOUdzNWg1aV9GQVdWdzBOUUVEX3NaaGhTcHlyNEJEcFlVOHJGWnJWVlZNZHNnMC0wQ0ZPZmRxMTZYdGF4T1MwcDdLcUM4Q0xyNzJJRHVyUlJUT0lKM21leFU5dVc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + record",
+        "record high + s&p"
+      ],
+      "firstSeen": "2026-05-08T17:40:07.158Z",
+      "pushedAt": "2026-05-08T17:40:07.158Z"
+    },
+    {
       "id": "96d445fdc5a0b370",
       "title": "Canadian high school where deadly mass shooting occurred to be torn down",
       "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
@@ -168,19 +181,7 @@
       ],
       "firstSeen": "2026-05-07T19:02:00.680Z",
       "pushedAt": "2026-05-07T19:02:00.680Z"
-    },
-    {
-      "id": "38b5a1480e595fec",
-      "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
-      "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "pandemic + outbreak"
-      ],
-      "firstSeen": "2026-05-07T17:18:17.000Z",
-      "pushedAt": "2026-05-07T17:18:17.000Z"
     }
   ],
-  "updatedAt": "2026-05-08T16:04:21.863Z"
+  "updatedAt": "2026-05-08T17:40:07.445Z"
 }
