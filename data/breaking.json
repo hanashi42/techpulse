@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f5781d2f4dbdadf0",
+      "title": "US hybrid-car sales soar, along with gas prices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVZZMktMNlZBR1BvRWJvMmQ5S0I4cmJLcW1WclF3cERWNzFUXzJOeUlYN3FUeVc3dFJiZzVQM05sNzc3akR4ZmQ2N0pCV2xMWXNTSXh1dDZxREFpazlPLUZJWWRFb2RYUS1ZR1o5ekV0c2FzSE5PZUdac3lwUkUtUEprTjJtTHAyOV9VZHp4czdVZy1nODlLdVRhOFhLb01aRVBLeUxxMjcwN3c4anVhS253?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-05-08T12:59:07.513Z",
+      "pushedAt": "2026-05-08T12:59:07.513Z"
+    },
+    {
       "id": "669b44b2f3255082",
       "title": "Sony forecasts lower gaming business sales amid memory price surge - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNci1nMExHdVNzTTdGZHAxZ0dlT2tqaENONDRUaWlod1Bldnhrc1ZSZ1VmTzdkemZJMmVLSHZBRHR2MjNvZGhOREdaU0Z6SnhlUzFXeW0taW5vM3B0VllibDQ5N3U2c2hEVW9QczhWMlN3LWd4VFFXMmhVRzV4c2lzTDZtZzBuZXJxTXdfZnRLWURTa3BhTHhyaGE3SmhwMGlfekhYcU95eVJnVVk?oc=5",
@@ -180,55 +192,7 @@
       ],
       "firstSeen": "2026-05-07T13:09:01.556Z",
       "pushedAt": "2026-05-07T13:09:01.556Z"
-    },
-    {
-      "id": "fc2e63d476e96700",
-      "title": "Iran releases video said to show US drone shot down over Hormuz",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/iran-releases-video-said-to-show-us-drone-shot-down-over-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + drone"
-      ],
-      "firstSeen": "2026-05-07T11:20:18.108Z",
-      "pushedAt": "2026-05-07T11:20:18.108Z"
-    },
-    {
-      "id": "45f9fced82bf5410",
-      "title": "Gold and silver's historic rally could resume 'as fog of war lifts', market watchers say",
-      "url": "https://www.cnbc.com/2026/05/07/gold-silver-rally-resume-once-war-lifts-markets.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + market"
-      ],
-      "firstSeen": "2026-05-07T11:20:18.338Z",
-      "pushedAt": "2026-05-07T11:20:18.338Z"
-    },
-    {
-      "id": "48faf22be568482e",
-      "title": "China orders firms to ignore US Iran sanctions, daring US to enforce crackdown - foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3BqZmRaZEVoVWZ2YnhKS3RPTWV4N0ZGQndsVUNOODdDRUsyRDB5U3M0dVZrVWZqckpWb0Fmcm5COUp5dHExTUp0cFdnMmxQTmNMeUJxRG1WbEU3WUhSTXJFR0pOZEROOHRJd3VDNUk2OHc4RElMS0tuLUpZN05WdGpCUHdSeDRqamRqRHQ4UE5OLU42VEh3eDQ3Smd0Y0hadEd4NHRMRdIBrAFBVV95cUxPWVFIVnZ6TDRacExsRHo1dVBidHliWnpaUDNYLVNmTGZudTN5RThQY1hUWHR1WnVJN0d2eHNyOU9VOVhHYktEZ0tIdHRCWDRVbjF1TVZFdWpZQVY4c1JZWWN6QzJyRU9feVpLUGRXS1llM1Fremt3SWVOY25jMEt4QV9VVzJycGNyRE5HOXptR1pQYUFmY3ZuZTBnUjNNTmRWS1J4MzVUdmVCTDN5?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-07T11:20:18.563Z",
-      "pushedAt": "2026-05-07T11:20:18.563Z"
-    },
-    {
-      "id": "77b694a5df41b66a",
-      "title": "BMW holds firm on 2026 outlook despite tariff threats and China weakness - Car Dealership Guy News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaE9Gbmppd3dBUjBhOTNVVDlWLUNXazJfa2NacGpvSTY4dzZyRHp0T2xvTmdIVThrMVVZUzJGOGVXRzNIazFHZGlrVzRza3ozaE1GcmswekxtUTVjdUVTYjRPQlpCUWdPQzlUTGdoNG5qdmpHdk84Mnp6Q0NaaFA5RGdwSWN3TS1KN0w4ZVdCSklzODhwM1BSaE5zVWRCOWd1QVZ0V2ZWSlA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-07T09:16:59.602Z",
-      "pushedAt": "2026-05-07T09:16:59.602Z"
     }
   ],
-  "updatedAt": "2026-05-08T07:09:36.587Z"
+  "updatedAt": "2026-05-08T12:59:07.756Z"
 }
