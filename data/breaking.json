@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e74b828656357d40",
+      "title": "European states to send planes to evacuate citizens from hantavirus-hit cruise ship - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1ZNUnJYSkpRM29CTFFRNzJrejhzQlBhTzlUWWFzUFZ4cUQ5dFlBQ05WSWlxNzJJRlM4YUR4Q0dqZnpWNXZQY3JWaTBJSG1BeUk3c21nanJZTktGWU50S0M4aWJlaE1XdXA3SGlxNDlkMk8xVF9nLWhiT2NjYjhiOVVZeEduR2xCSGRuMVhacmxSSlpkbWRWUDQ3a0Fhc0tBOWNxTlIxVElkY1pqbmFBamFLNlZ2Zm91a1NUMUd5TzV4emNiSnNRUw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "evacuate + citizens"
+      ],
+      "firstSeen": "2026-05-09T13:47:44.552Z",
+      "pushedAt": "2026-05-09T13:47:44.552Z"
+    },
+    {
       "id": "d112a317f3443680",
       "title": "US military kills two people in new eastern Pacific Ocean attack",
       "url": "https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss",
@@ -145,19 +157,7 @@
       ],
       "firstSeen": "2026-05-08T14:50:32.300Z",
       "pushedAt": "2026-05-08T14:50:32.300Z"
-    },
-    {
-      "id": "f5781d2f4dbdadf0",
-      "title": "US hybrid-car sales soar, along with gas prices - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVZZMktMNlZBR1BvRWJvMmQ5S0I4cmJLcW1WclF3cERWNzFUXzJOeUlYN3FUeVc3dFJiZzVQM05sNzc3akR4ZmQ2N0pCV2xMWXNTSXh1dDZxREFpazlPLUZJWWRFb2RYUS1ZR1o5ekV0c2FzSE5PZUdac3lwUkUtUEprTjJtTHAyOV9VZHp4czdVZy1nODlLdVRhOFhLb01aRVBLeUxxMjcwN3c4anVhS253?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-05-08T12:59:07.513Z",
-      "pushedAt": "2026-05-08T12:59:07.513Z"
     }
   ],
-  "updatedAt": "2026-05-09T11:27:56.486Z"
+  "updatedAt": "2026-05-09T13:47:44.698Z"
 }
