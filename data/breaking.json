@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7ce581e2ce29819c",
+      "title": "At least 69 killed in militia attack in Congo, AFP reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkJDVE9PTWZLTDVLN05vVXlPQ09naEgwUUszbUFEamxKWGtrdzRsYm5VdmdVaW80TGVPQzEyTXdVZVBCd3JGdm15SGRBcUtTLVdqX3BnVC1xTjloMGJuQmJScmtWTndDNGdRTzB4SEh4UkVDdVlvQjBQdnRuRkpsN0JKU1pQaFB5TXc0bmQzOHJ4akRjYkJLTU1wby12Zw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-09T23:09:06.579Z",
+      "pushedAt": "2026-05-09T23:09:06.579Z"
+    },
+    {
       "id": "96d445fdc5a0b370",
       "title": "Canadian high school where deadly mass shooting occurred to be torn down",
       "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
@@ -131,19 +143,7 @@
       ],
       "firstSeen": "2026-05-09T00:07:23.501Z",
       "pushedAt": "2026-05-09T00:07:23.502Z"
-    },
-    {
-      "id": "3aebbac0f227dcb9",
-      "title": "US imposes sanctions on 10 individuals, companies for aiding Iran's weapons sector - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjcxaGc1MXBjOWVtZV9IVkVtNXgwQ1lka0R0cFRDdWxhRzQ4OE5ZaHYtOHg0N0I1ODNJbnBxamNuMVNoU2dSbFhHdk44ZUdlNlY3X3RGbFRJR2JPQkxuWlBWLUhTWThjTExTbmVVSXEtUUtlbEJlemhtU3R3RjNKb1pEV2M2SF9Yb285M3cwRXIzZlNXQ1d1S0NJazRxbUJjdkRMM3VpaTF0QmlpYnBXMEJSXzBuM3dtSk5pMVJB?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-08T23:08:08.577Z",
-      "pushedAt": "2026-05-08T23:08:08.577Z"
     }
   ],
-  "updatedAt": "2026-05-09T22:23:19.525Z"
+  "updatedAt": "2026-05-09T23:09:06.815Z"
 }
