@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ade3f92b5ca1cadb",
+      "title": "Iran war costs Toyota £3bn as prices of materials soar and sales fall",
+      "url": "https://www.theguardian.com/business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-05-09T14:38:21.942Z",
+      "pushedAt": "2026-05-09T14:38:21.942Z"
+    },
+    {
       "id": "e74b828656357d40",
       "title": "European states to send planes to evacuate citizens from hantavirus-hit cruise ship - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1ZNUnJYSkpRM29CTFFRNzJrejhzQlBhTzlUWWFzUFZ4cUQ5dFlBQ05WSWlxNzJJRlM4YUR4Q0dqZnpWNXZQY3JWaTBJSG1BeUk3c21nanJZTktGWU50S0M4aWJlaE1XdXA3SGlxNDlkMk8xVF9nLWhiT2NjYjhiOVVZeEduR2xCSGRuMVhacmxSSlpkbWRWUDQ3a0Fhc0tBOWNxTlIxVElkY1pqbmFBamFLNlZ2Zm91a1NUMUd5TzV4emNiSnNRUw?oc=5",
@@ -159,5 +171,5 @@
       "pushedAt": "2026-05-08T14:50:32.300Z"
     }
   ],
-  "updatedAt": "2026-05-09T13:47:44.698Z"
+  "updatedAt": "2026-05-09T14:38:22.214Z"
 }
