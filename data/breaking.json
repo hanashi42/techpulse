@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d112a317f3443680",
+      "title": "US military kills two people in new eastern Pacific Ocean attack",
+      "url": "https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-05-09T11:27:56.244Z",
+      "pushedAt": "2026-05-09T11:27:56.245Z"
+    },
+    {
       "id": "429c1b34d7f73a9d",
       "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
       "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
@@ -147,5 +159,5 @@
       "pushedAt": "2026-05-08T12:59:07.513Z"
     }
   ],
-  "updatedAt": "2026-05-09T09:41:21.393Z"
+  "updatedAt": "2026-05-09T11:27:56.486Z"
 }
