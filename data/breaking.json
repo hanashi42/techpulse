@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1b285776390eb44f",
+      "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
+      "url": "https://www.cnbc.com/2026/05/08/congress-crypto-bill-vote-senate-banking-committee.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crypto + ban"
+      ],
+      "firstSeen": "2026-05-09T00:07:23.501Z",
+      "pushedAt": "2026-05-09T00:07:23.502Z"
+    },
+    {
       "id": "3aebbac0f227dcb9",
       "title": "US imposes sanctions on 10 individuals, companies for aiding Iran's weapons sector - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjcxaGc1MXBjOWVtZV9IVkVtNXgwQ1lka0R0cFRDdWxhRzQ4OE5ZaHYtOHg0N0I1ODNJbnBxamNuMVNoU2dSbFhHdk44ZUdlNlY3X3RGbFRJR2JPQkxuWlBWLUhTWThjTExTbmVVSXEtUUtlbEJlemhtU3R3RjNKb1pEV2M2SF9Yb285M3cwRXIzZlNXQ1d1S0NJazRxbUJjdkRMM3VpaTF0QmlpYnBXMEJSXzBuM3dtSk5pMVJB?oc=5",
@@ -159,5 +171,5 @@
       "pushedAt": "2026-05-08T03:48:30.312Z"
     }
   ],
-  "updatedAt": "2026-05-08T23:08:08.682Z"
+  "updatedAt": "2026-05-09T00:07:23.598Z"
 }
