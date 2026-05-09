@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "96d445fdc5a0b370",
+      "title": "Canadian high school where deadly mass shooting occurred to be torn down",
+      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "mass shooting"
+      ],
+      "firstSeen": "2026-05-09T22:23:19.404Z",
+      "pushedAt": "2026-05-09T22:23:19.404Z"
+    },
+    {
+      "id": "3337b108d966d179",
+      "title": "Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes",
+      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + blocked"
+      ],
+      "firstSeen": "2026-05-09T22:23:19.474Z",
+      "pushedAt": "2026-05-09T22:23:19.474Z"
+    },
+    {
+      "id": "7b8e06dd5da8d6ab",
+      "title": "U.S. says it struck two Iran-flagged oil tankers trying to skirt blockade",
+      "url": "https://www.cnbc.com/2026/05/08/iran-war-oil-trump-blockade-ceasefire.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-05-09T22:23:19.507Z",
+      "pushedAt": "2026-05-09T22:23:19.507Z"
+    },
+    {
       "id": "983228a92009dd81",
       "title": "Three police officers killed in car bomb attack in northwest Pakistan",
       "url": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss",
@@ -109,5 +145,5 @@
       "pushedAt": "2026-05-08T23:08:08.577Z"
     }
   ],
-  "updatedAt": "2026-05-09T21:36:14.141Z"
+  "updatedAt": "2026-05-09T22:23:19.525Z"
 }
