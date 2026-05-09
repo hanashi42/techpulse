@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "429c1b34d7f73a9d",
+      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+      "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-05-09T09:41:20.983Z",
+      "pushedAt": "2026-05-09T09:41:20.983Z"
+    },
+    {
+      "id": "3721669cf4b96ba2",
+      "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+      "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-09T09:41:21.213Z",
+      "pushedAt": "2026-05-09T09:41:21.213Z"
+    },
+    {
       "id": "a78cbf22d6c6f19b",
       "title": "US sanctions 9 mainland China and Hong Kong entities over alleged Iran military links - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2Y4dm5TdnlXb1dfenFhbm8xd281ajFSZlkwWWRBb2ZYc052cmRLQ0pJbHpVYlV5d1Y4ejZmM19idll6SFhWb2FhQ2hXSXBtQVpwMVlBQnYtS2pISm83dDcyMF8wMkx0T2VsU21UTEtFTjgxTnE0RDE0VThTZGZwaXh5N3ZDeEFBSHBUZjJWLWJhV1B1NjVfQ0pEOVM3U0ZYaU51WGcyVHNpNkpCSnZRZmxOOV9EZnMwTkpvQ3FBai00dGJYcnZJVllwQVV1WTRWaWoxUzI2NlZ5Y1k?oc=5",
@@ -123,5 +147,5 @@
       "pushedAt": "2026-05-08T12:59:07.513Z"
     }
   ],
-  "updatedAt": "2026-05-09T08:07:07.591Z"
+  "updatedAt": "2026-05-09T09:41:21.393Z"
 }
