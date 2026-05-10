@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3721669cf4b96ba2",
+      "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+      "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-10T10:49:19.578Z",
+      "pushedAt": "2026-05-10T10:49:19.578Z"
+    },
+    {
+      "id": "08ac0e029efd201b",
+      "title": "U.S. sanctions companies and individuals in the Middle East and China for helping Iran",
+      "url": "https://www.cnbc.com/2026/05/09/us-sanctions-entities-in-the-middle-east-and-china-for-helping-iran.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-05-10T10:49:19.642Z",
+      "pushedAt": "2026-05-10T10:49:19.642Z"
+    },
+    {
       "id": "c23efe28e7ef65c0",
       "title": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
       "url": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html",
@@ -157,5 +181,5 @@
       "pushedAt": "2026-05-09T11:27:56.245Z"
     }
   ],
-  "updatedAt": "2026-05-10T09:50:30.651Z"
+  "updatedAt": "2026-05-10T10:49:19.676Z"
 }
