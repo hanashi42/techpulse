@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "70aed83e71098eff",
+      "title": "8 children killed in Louisiana mass shooting remembered at funeral - AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcloxUlNUVERoNHRpV0ZiQ0tVbS1IR2sxc2xDRjRQbk0xakdteG42Z2duSEl4Y0NRRmIxd2NmVDRuXzU2WG5Hb0tOR0tDWXVRX3Q3bWZpdGozcGFXRElKaXlHUk4xLWlHUlNodjNpZ25BcGhkQjNUWElQblRlQVI0emM3WXdha0VZdG9vQWFFTDMxbkEtZmxCUk9zRWRIV2NieGNvZTBPUkJlTzVTSWQyVA?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "mass shooting"
+      ],
+      "firstSeen": "2026-05-10T03:33:31.721Z",
+      "pushedAt": "2026-05-10T03:33:31.721Z"
+    },
+    {
+      "id": "9ae7d9dc30859305",
+      "title": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-05-10T03:33:31.961Z",
+      "pushedAt": "2026-05-10T03:33:31.961Z"
+    },
+    {
       "id": "7ce581e2ce29819c",
       "title": "At least 69 killed in militia attack in Congo, AFP reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkJDVE9PTWZLTDVLN05vVXlPQ09naEgwUUszbUFEamxKWGtrdzRsYm5VdmdVaW80TGVPQzEyTXdVZVBCd3JGdm15SGRBcUtTLVdqX3BnVC1xTjloMGJuQmJScmtWTndDNGdRTzB4SEh4UkVDdVlvQjBQdnRuRkpsN0JKU1pQaFB5TXc0bmQzOHJ4akRjYkJLTU1wby12Zw?oc=5",
@@ -131,19 +155,7 @@
       ],
       "firstSeen": "2026-05-09T08:07:07.419Z",
       "pushedAt": "2026-05-09T08:07:07.419Z"
-    },
-    {
-      "id": "1b285776390eb44f",
-      "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
-      "url": "https://www.cnbc.com/2026/05/08/congress-crypto-bill-vote-senate-banking-committee.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crypto + ban"
-      ],
-      "firstSeen": "2026-05-09T00:07:23.501Z",
-      "pushedAt": "2026-05-09T00:07:23.502Z"
     }
   ],
-  "updatedAt": "2026-05-09T23:09:06.815Z"
+  "updatedAt": "2026-05-10T03:33:32.149Z"
 }
