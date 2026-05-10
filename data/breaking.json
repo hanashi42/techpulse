@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "cc9157f84776bc63",
+      "title": "Can central banks curb inflation as energy costs rise?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-central-banks-curb-inflation-as-energy-costs-rise?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + rise"
+      ],
+      "firstSeen": "2026-05-10T12:36:03.402Z",
+      "pushedAt": "2026-05-10T12:36:03.402Z"
+    },
+    {
+      "id": "4fdea8508af8ff7d",
+      "title": "SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle",
+      "url": "https://www.cnbc.com/2026/05/10/sec-prediction-markets-etfs-trading-launch-delay.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "bitcoin + etf"
+      ],
+      "firstSeen": "2026-05-10T12:36:03.540Z",
+      "pushedAt": "2026-05-10T12:36:03.540Z"
+    },
+    {
       "id": "3721669cf4b96ba2",
       "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
       "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
@@ -167,19 +191,7 @@
       ],
       "firstSeen": "2026-05-09T13:47:44.552Z",
       "pushedAt": "2026-05-09T13:47:44.552Z"
-    },
-    {
-      "id": "d112a317f3443680",
-      "title": "US military kills two people in new eastern Pacific Ocean attack",
-      "url": "https://www.aljazeera.com/news/2026/5/9/us-military-kills-two-people-in-new-eastern-pacific-ocean-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-05-09T11:27:56.244Z",
-      "pushedAt": "2026-05-09T11:27:56.245Z"
     }
   ],
-  "updatedAt": "2026-05-10T10:49:19.676Z"
+  "updatedAt": "2026-05-10T12:36:03.638Z"
 }
