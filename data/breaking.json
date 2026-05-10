@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0810d7d0ddf0b35f",
+      "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
+      "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-10T19:44:07.149Z",
+      "pushedAt": "2026-05-10T19:44:07.149Z"
+    },
+    {
       "id": "ade3f92b5ca1cadb",
       "title": "Iran war costs Toyota £3bn as prices of materials soar and sales fall",
       "url": "https://www.theguardian.com/business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall",
@@ -193,5 +205,5 @@
       "pushedAt": "2026-05-09T21:36:14.003Z"
     }
   ],
-  "updatedAt": "2026-05-10T16:59:20.108Z"
+  "updatedAt": "2026-05-10T19:44:07.392Z"
 }
