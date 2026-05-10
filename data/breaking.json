@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6c77a1421ea2f5d9",
+      "title": "Oregon Democrats found a way to improve roads. Now their gas tax goes before voters as prices soar - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmpoeW13dnc0OWUwMHA3cXhnOHhOUHAzNElLMUhjSGFma183eUxVblRNLW5DcjdRNXBZVFZ3VDdHUkNCaG5iTUY1cEN2ZGNiOEpza3U0RHBUZnB3WXhZTGlqQV9YdzA4cGZHdXdwRmdWZlZjMWh1bXp0Y2ZFWDl4ZmtHNjE3ZUlMQ1ZYS3FxRjdJbDdfZmphMDYyeHA5a3ZhSXhEZ21NOXA?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-05-10T21:10:49.380Z",
+      "pushedAt": "2026-05-10T21:10:49.380Z"
+    },
+    {
       "id": "0810d7d0ddf0b35f",
       "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
       "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
@@ -205,5 +217,5 @@
       "pushedAt": "2026-05-09T21:36:14.003Z"
     }
   ],
-  "updatedAt": "2026-05-10T19:44:07.392Z"
+  "updatedAt": "2026-05-10T21:10:49.684Z"
 }
