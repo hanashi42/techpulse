@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ade3f92b5ca1cadb",
+      "title": "Iran war costs Toyota £3bn as prices of materials soar and sales fall",
+      "url": "https://www.theguardian.com/business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-05-10T16:59:19.313Z",
+      "pushedAt": "2026-05-10T16:59:19.313Z"
+    },
+    {
       "id": "fc5678bf67ce02f8",
       "title": "Countries airlift nationals evacuated from from virus-hit cruise ship",
       "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
@@ -181,5 +193,5 @@
       "pushedAt": "2026-05-09T21:36:14.003Z"
     }
   ],
-  "updatedAt": "2026-05-10T16:00:42.100Z"
+  "updatedAt": "2026-05-10T16:59:20.108Z"
 }
