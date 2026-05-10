@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c23efe28e7ef65c0",
+      "title": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
+      "url": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + mass"
+      ],
+      "firstSeen": "2026-05-10T09:50:30.398Z",
+      "pushedAt": "2026-05-10T09:50:30.398Z"
+    },
+    {
       "id": "1b285776390eb44f",
       "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
       "url": "https://www.cnbc.com/2026/05/08/congress-crypto-bill-vote-senate-banking-committee.html",
@@ -143,43 +155,7 @@
       ],
       "firstSeen": "2026-05-09T11:27:56.244Z",
       "pushedAt": "2026-05-09T11:27:56.245Z"
-    },
-    {
-      "id": "429c1b34d7f73a9d",
-      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-      "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-05-09T09:41:20.983Z",
-      "pushedAt": "2026-05-09T09:41:20.983Z"
-    },
-    {
-      "id": "3721669cf4b96ba2",
-      "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
-      "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-09T09:41:21.213Z",
-      "pushedAt": "2026-05-09T09:41:21.213Z"
-    },
-    {
-      "id": "a78cbf22d6c6f19b",
-      "title": "US sanctions 9 mainland China and Hong Kong entities over alleged Iran military links - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ2Y4dm5TdnlXb1dfenFhbm8xd281ajFSZlkwWWRBb2ZYc052cmRLQ0pJbHpVYlV5d1Y4ejZmM19idll6SFhWb2FhQ2hXSXBtQVpwMVlBQnYtS2pISm83dDcyMF8wMkx0T2VsU21UTEtFTjgxTnE0RDE0VThTZGZwaXh5N3ZDeEFBSHBUZjJWLWJhV1B1NjVfQ0pEOVM3U0ZYaU51WGcyVHNpNkpCSnZRZmxOOV9EZnMwTkpvQ3FBai00dGJYcnZJVllwQVV1WTRWaWoxUzI2NlZ5Y1k?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-09T08:07:07.419Z",
-      "pushedAt": "2026-05-09T08:07:07.419Z"
     }
   ],
-  "updatedAt": "2026-05-10T06:23:47.792Z"
+  "updatedAt": "2026-05-10T09:50:30.651Z"
 }
