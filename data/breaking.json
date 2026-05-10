@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fc5678bf67ce02f8",
+      "title": "Countries airlift nationals evacuated from from virus-hit cruise ship",
+      "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "evacuate + nationals"
+      ],
+      "firstSeen": "2026-05-10T16:00:41.984Z",
+      "pushedAt": "2026-05-10T16:00:41.984Z"
+    },
+    {
       "id": "cc9157f84776bc63",
       "title": "Can central banks curb inflation as energy costs rise?",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-central-banks-curb-inflation-as-energy-costs-rise?traffic_source=rss",
@@ -167,31 +179,7 @@
       ],
       "firstSeen": "2026-05-09T21:36:14.003Z",
       "pushedAt": "2026-05-09T21:36:14.003Z"
-    },
-    {
-      "id": "ade3f92b5ca1cadb",
-      "title": "Iran war costs Toyota £3bn as prices of materials soar and sales fall",
-      "url": "https://www.theguardian.com/business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-05-09T14:38:21.942Z",
-      "pushedAt": "2026-05-09T14:38:21.942Z"
-    },
-    {
-      "id": "e74b828656357d40",
-      "title": "European states to send planes to evacuate citizens from hantavirus-hit cruise ship - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1ZNUnJYSkpRM29CTFFRNzJrejhzQlBhTzlUWWFzUFZ4cUQ5dFlBQ05WSWlxNzJJRlM4YUR4Q0dqZnpWNXZQY3JWaTBJSG1BeUk3c21nanJZTktGWU50S0M4aWJlaE1XdXA3SGlxNDlkMk8xVF9nLWhiT2NjYjhiOVVZeEduR2xCSGRuMVhacmxSSlpkbWRWUDQ3a0Fhc0tBOWNxTlIxVElkY1pqbmFBamFLNlZ2Zm91a1NUMUd5TzV4emNiSnNRUw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "evacuate + citizens"
-      ],
-      "firstSeen": "2026-05-09T13:47:44.552Z",
-      "pushedAt": "2026-05-09T13:47:44.552Z"
     }
   ],
-  "updatedAt": "2026-05-10T12:36:03.638Z"
+  "updatedAt": "2026-05-10T16:00:42.100Z"
 }
