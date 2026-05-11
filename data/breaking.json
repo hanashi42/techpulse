@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "69cc9ee5c44562e8",
+      "title": "Exclusive: India declines Russian LNG under sanctions, talks continue on permitted cargoes, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGh4dmdOU0F5MUxPRjg4SkJDYkNjaUtMYzRQR29qVHRzRDlRajNMYUpVNFBfdE9wZExkcVpxMzlReUszV29LSzBHbFJwRm1USXQ2ZXc3bmJ6d1g5TFRXa3F0VTFmUnBfSDVhVW9PMGNPWm5ZWk9pcUNUZlhjcGtYNURsNE9jTlJQRW94ME84TmpPUEYtSGxqVXVOdmNwSkV3NHhqbU9DMEVRcm9LN0JTTm5LekZ5ZFZneTlRQWFRM3ZvS281Wmc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-05-11T18:23:56.831Z",
+      "pushedAt": "2026-05-11T18:23:56.831Z"
+    },
+    {
       "id": "867f061da285c015",
       "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
       "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
@@ -119,19 +131,7 @@
       ],
       "firstSeen": "2026-05-10T19:44:07.149Z",
       "pushedAt": "2026-05-10T19:44:07.149Z"
-    },
-    {
-      "id": "ade3f92b5ca1cadb",
-      "title": "Iran war costs Toyota £3bn as prices of materials soar and sales fall",
-      "url": "https://www.theguardian.com/business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-05-10T16:59:19.313Z",
-      "pushedAt": "2026-05-10T16:59:19.313Z"
     }
   ],
-  "updatedAt": "2026-05-11T16:43:10.777Z"
+  "updatedAt": "2026-05-11T18:23:57.069Z"
 }
