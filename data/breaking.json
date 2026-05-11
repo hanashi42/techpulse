@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "acdd57de02c3be65",
+      "title": "Family of Florida mass shooting victim sues OpenAI in US court - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYklVTzNFUUxyTTdLYzh4ZmgwWHRSRUtnN0x1c2tqdS00M00wSC1hbDNxRm5YeENXNFEzY1I4YlVrQVNlWlhEVGJSVjR1ZGtRZzE0YTBpeG8zYXExS0NnQkN6MWxoNTJrcm5aUWU1WGF5N2QyQjhrV0c5UGFCQ2VqaVM5aGM3cDBZQlQwQVlrdFBTeFp1TDBidnBHYjg5NVd1bkItbFdyRHBrTWpKcUE?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "mass shooting"
+      ],
+      "firstSeen": "2026-05-11T20:09:13.231Z",
+      "pushedAt": "2026-05-11T20:09:13.231Z"
+    },
+    {
+      "id": "cafc13997da246f1",
+      "title": "UK sanctions network accused of planning attacks for Iran",
+      "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-05-11T20:09:13.466Z",
+      "pushedAt": "2026-05-11T20:09:13.466Z"
+    },
+    {
+      "id": "ade3f92b5ca1cadb",
+      "title": "Iran war costs Toyota £3bn as prices of materials soar and sales fall",
+      "url": "https://www.theguardian.com/business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-05-11T20:09:13.513Z",
+      "pushedAt": "2026-05-11T20:09:13.513Z"
+    },
+    {
       "id": "69cc9ee5c44562e8",
       "title": "Exclusive: India declines Russian LNG under sanctions, talks continue on permitted cargoes, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGh4dmdOU0F5MUxPRjg4SkJDYkNjaUtMYzRQR29qVHRzRDlRajNMYUpVNFBfdE9wZExkcVpxMzlReUszV29LSzBHbFJwRm1USXQ2ZXc3bmJ6d1g5TFRXa3F0VTFmUnBfSDVhVW9PMGNPWm5ZWk9pcUNUZlhjcGtYNURsNE9jTlJQRW94ME84TmpPUEYtSGxqVXVOdmNwSkV3NHhqbU9DMEVRcm9LN0JTTm5LekZ5ZFZneTlRQWFRM3ZvS281Wmc?oc=5",
@@ -119,19 +155,7 @@
       ],
       "firstSeen": "2026-05-10T21:10:49.380Z",
       "pushedAt": "2026-05-10T21:10:49.380Z"
-    },
-    {
-      "id": "0810d7d0ddf0b35f",
-      "title": "Medics among 51 killed in Israeli attacks on Lebanon in past 24 hours",
-      "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-10T19:44:07.149Z",
-      "pushedAt": "2026-05-10T19:44:07.149Z"
     }
   ],
-  "updatedAt": "2026-05-11T18:23:57.069Z"
+  "updatedAt": "2026-05-11T20:09:13.543Z"
 }
