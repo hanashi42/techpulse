@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "aeb0235a1777b992",
+      "title": "Iran proposal calls for end of war and lifting of sanctions, news agency reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTJqTlhwQTJLdmNFa05JNklPa2VCNjdmYnNNZ1RNUmtvYkI2ZS1JcWZyQ1BiczVGZjJVd1J0Z0Z4ZEMwYU9Ud1o0N1pySjFyNmxjR3FOSG5fYlRrZ0ZZYlZ0UWpSNllEbVFKM1NlenJWMUs4emlNV0NVMU5aZ3VVZEpmLTI3TXh2dkJSdjFfd1NHdy0wYkJPS2JZMDJWUnBCeWdpQ3dIQktpY1hpYWpFS3psY2tjV3ZDdFNoU0x3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-05-11T01:29:28.135Z",
+      "pushedAt": "2026-05-11T01:29:28.135Z"
+    },
+    {
+      "id": "f42381600b8ff181",
+      "title": "South Korea's Kospi hits fresh record as Asia markets trade mixed amid oil surge, Iran risks",
+      "url": "https://www.cnbc.com/2026/05/11/asia-markets-today-live-updates-nikkei-kospi-hang-seng-sensex-csi-300-iran-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-05-11T01:29:28.411Z",
+      "pushedAt": "2026-05-11T01:29:28.411Z"
+    },
+    {
       "id": "6c77a1421ea2f5d9",
       "title": "Oregon Democrats found a way to improve roads. Now their gas tax goes before voters as prices soar - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmpoeW13dnc0OWUwMHA3cXhnOHhOUHAzNElLMUhjSGFma183eUxVblRNLW5DcjdRNXBZVFZ3VDdHUkNCaG5iTUY1cEN2ZGNiOEpza3U0RHBUZnB3WXhZTGlqQV9YdzA4cGZHdXdwRmdWZlZjMWh1bXp0Y2ZFWDl4ZmtHNjE3ZUlMQ1ZYS3FxRjdJbDdfZmphMDYyeHA5a3ZhSXhEZ21NOXA?oc=5",
@@ -155,67 +179,7 @@
       ],
       "firstSeen": "2026-05-10T03:33:31.961Z",
       "pushedAt": "2026-05-10T03:33:31.961Z"
-    },
-    {
-      "id": "7ce581e2ce29819c",
-      "title": "At least 69 killed in militia attack in Congo, AFP reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkJDVE9PTWZLTDVLN05vVXlPQ09naEgwUUszbUFEamxKWGtrdzRsYm5VdmdVaW80TGVPQzEyTXdVZVBCd3JGdm15SGRBcUtTLVdqX3BnVC1xTjloMGJuQmJScmtWTndDNGdRTzB4SEh4UkVDdVlvQjBQdnRuRkpsN0JKU1pQaFB5TXc0bmQzOHJ4akRjYkJLTU1wby12Zw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-09T23:09:06.579Z",
-      "pushedAt": "2026-05-09T23:09:06.579Z"
-    },
-    {
-      "id": "96d445fdc5a0b370",
-      "title": "Canadian high school where deadly mass shooting occurred to be torn down",
-      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "mass shooting"
-      ],
-      "firstSeen": "2026-05-09T22:23:19.404Z",
-      "pushedAt": "2026-05-09T22:23:19.404Z"
-    },
-    {
-      "id": "3337b108d966d179",
-      "title": "Strait of Hormuz Remains Effectively Blocked After Naval Skirmishes",
-      "url": "https://www.nytimes.com/2026/05/09/world/middleeast/strait-hormuz-ships-blockade-us-iran.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + blocked"
-      ],
-      "firstSeen": "2026-05-09T22:23:19.474Z",
-      "pushedAt": "2026-05-09T22:23:19.474Z"
-    },
-    {
-      "id": "7b8e06dd5da8d6ab",
-      "title": "U.S. says it struck two Iran-flagged oil tankers trying to skirt blockade",
-      "url": "https://www.cnbc.com/2026/05/08/iran-war-oil-trump-blockade-ceasefire.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-05-09T22:23:19.507Z",
-      "pushedAt": "2026-05-09T22:23:19.507Z"
-    },
-    {
-      "id": "983228a92009dd81",
-      "title": "Three police officers killed in car bomb attack in northwest Pakistan",
-      "url": "https://www.aljazeera.com/news/2026/5/9/three-police-officers-killed-in-car-bomb-attack-in-northwest-pakistan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-09T21:36:14.003Z",
-      "pushedAt": "2026-05-09T21:36:14.003Z"
     }
   ],
-  "updatedAt": "2026-05-10T21:10:49.684Z"
+  "updatedAt": "2026-05-11T01:29:28.452Z"
 }
