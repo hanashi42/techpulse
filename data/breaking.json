@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d4cbf8a17f764b2f",
+      "title": "Trump and Xi are set to meet. Where do US-China tariffs stand? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxbjMxdzRiSC1SMEdXVzdzcmhCcC1PN2JNc1VpenBISWZKd2FtYjAyZWZLVThHSnpRdzRiZWc4aG5wTE96X1FVX3NGQUhtYU1OakhXM0hLODd1dw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-11T08:42:47.652Z",
+      "pushedAt": "2026-05-11T08:42:47.652Z"
+    },
+    {
       "id": "682277b9c6212442",
       "title": "Dollar strengthens as Trump says Iran peace offer 'unacceptable' - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTZ6NW1CNXZSaHpYd2tlQUtjRlFuYmZOc3hkVzlGMVRKVlFXMUwtNG40VC1jSURSVTd2cEVCV2ZXMHNHTGM0YU11OFBfMEtaQXBIN3dyQVhVc1Rmdng4SDAwYU1GUlZWZVRIYzc5S1ROQUJLcmpraHpVU1V1TnpLNm9kVXAtM1ZKUk9aQzQ5OEdPNnZRV0U4ZGlONFMtUmdVcXA0M2xpU2FYQThteFJvLUV4bUU?oc=5",
@@ -167,31 +179,7 @@
       ],
       "firstSeen": "2026-05-10T09:50:30.398Z",
       "pushedAt": "2026-05-10T09:50:30.398Z"
-    },
-    {
-      "id": "1b285776390eb44f",
-      "title": "Major crypto bill slated for May 14 Senate Banking Committee vote",
-      "url": "https://www.cnbc.com/2026/05/08/congress-crypto-bill-vote-senate-banking-committee.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crypto + ban"
-      ],
-      "firstSeen": "2026-05-10T06:23:47.396Z",
-      "pushedAt": "2026-05-10T06:23:47.396Z"
-    },
-    {
-      "id": "2060fb81410e7bdd",
-      "title": "US sanctions target Iran-linked procurement networks across China, UAE, Belarus - Kurdistan24",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbUlnUWxSVkVFQkdTUmFmOWNjMVlxRVg0TW9tN1dESzZYcVB5Qy1XUWs4djNBQm5YZTl4Y1RtMWhWWUoyOUVyVGZuT2pESk9RUF9Vbm15Q1N0SXVmUWdQS1dsVzJnaDZKNDdTV08yRWE4TWQ0MkFlWUNMZzlrc1g4cUl1d3ZuVU0xbUpDX3RVR1JsRUVudkFLX3BsbjJRS1AtNlFYYzJaT1pjT2R0eHVGbjVmWEZTeU1rVjJLb2tn?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-10T06:23:47.622Z",
-      "pushedAt": "2026-05-10T06:23:47.622Z"
     }
   ],
-  "updatedAt": "2026-05-11T05:32:18.458Z"
+  "updatedAt": "2026-05-11T08:42:47.989Z"
 }
