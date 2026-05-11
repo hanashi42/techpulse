@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f09212c2a5ece170",
+      "title": "US issues new sanctions over Iran's oil shipments to China - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRSdkI1TWxrTWJCT1VHQjdsVjNmM05xVDRDMGM4eDRnbC1xd3Bqb3RoS1JnQU51NERCWVRoVWRlVmppV2Nvdk1iSWM0cmhpQnpEY18yQk5rbmxXSE82X3RuczRfUGdoQzBSSTY4bkNIcnctSS1FSDFGSzJuQ1ptSlM0SENqM0NFeVRuUjBHTGtJWHZRbWFRTzdiYnBwRmlVVTJ2Vw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-11T21:39:00.164Z",
+      "pushedAt": "2026-05-11T21:39:00.164Z"
+    },
+    {
+      "id": "05d093e7d8d94e10",
+      "title": "Trump says he will suspend petrol tax amid soaring US fuel prices",
+      "url": "https://www.aljazeera.com/economy/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-05-11T21:39:00.381Z",
+      "pushedAt": "2026-05-11T21:39:00.381Z"
+    },
+    {
       "id": "acdd57de02c3be65",
       "title": "Family of Florida mass shooting victim sues OpenAI in US court - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYklVTzNFUUxyTTdLYzh4ZmgwWHRSRUtnN0x1c2tqdS00M00wSC1hbDNxRm5YeENXNFEzY1I4YlVrQVNlWlhEVGJSVjR1ZGtRZzE0YTBpeG8zYXExS0NnQkN6MWxoNTJrcm5aUWU1WGF5N2QyQjhrV0c5UGFCQ2VqaVM5aGM3cDBZQlQwQVlrdFBTeFp1TDBidnBHYjg5NVd1bkItbFdyRHBrTWpKcUE?oc=5",
@@ -143,19 +167,7 @@
       ],
       "firstSeen": "2026-05-11T01:29:28.411Z",
       "pushedAt": "2026-05-11T01:29:28.411Z"
-    },
-    {
-      "id": "6c77a1421ea2f5d9",
-      "title": "Oregon Democrats found a way to improve roads. Now their gas tax goes before voters as prices soar - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmpoeW13dnc0OWUwMHA3cXhnOHhOUHAzNElLMUhjSGFma183eUxVblRNLW5DcjdRNXBZVFZ3VDdHUkNCaG5iTUY1cEN2ZGNiOEpza3U0RHBUZnB3WXhZTGlqQV9YdzA4cGZHdXdwRmdWZlZjMWh1bXp0Y2ZFWDl4ZmtHNjE3ZUlMQ1ZYS3FxRjdJbDdfZmphMDYyeHA5a3ZhSXhEZ21NOXA?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-05-10T21:10:49.380Z",
-      "pushedAt": "2026-05-10T21:10:49.380Z"
     }
   ],
-  "updatedAt": "2026-05-11T20:09:13.543Z"
+  "updatedAt": "2026-05-11T21:39:00.587Z"
 }
