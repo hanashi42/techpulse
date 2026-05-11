@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "867f061da285c015",
+      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "air strikes on"
+      ],
+      "firstSeen": "2026-05-11T16:43:10.569Z",
+      "pushedAt": "2026-05-11T16:43:10.569Z"
+    },
+    {
       "id": "93772f8193ded89b",
       "title": "Hormuz closure extends well beyond oil to threaten Chinese EVs - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWJIdEtOdm1kVmQxMG51YXBoTTZKQ3FSSVgxbkI2ZGxjMDdSQlNKMm90MmtieVRCVzYtRnU0VXlIbWY4RF9NVzR0dHl2SUNSUjlza1lpMDgtQlBQUjNIM0dwVlZMX2k3NUdLREZ3NjR4NEdzdXgxdFpLUHd3VTFyQlBNdUtxVGhBbjRmdWlhMHVmMy1hbVZZb2FLUzAwWmo3R2dEWlJsZmpHUQ?oc=5",
@@ -119,43 +131,7 @@
       ],
       "firstSeen": "2026-05-10T16:59:19.313Z",
       "pushedAt": "2026-05-10T16:59:19.313Z"
-    },
-    {
-      "id": "fc5678bf67ce02f8",
-      "title": "Countries airlift nationals evacuated from from virus-hit cruise ship",
-      "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "evacuate + nationals"
-      ],
-      "firstSeen": "2026-05-10T16:00:41.984Z",
-      "pushedAt": "2026-05-10T16:00:41.984Z"
-    },
-    {
-      "id": "cc9157f84776bc63",
-      "title": "Can central banks curb inflation as energy costs rise?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/10/can-central-banks-curb-inflation-as-energy-costs-rise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-05-10T12:36:03.402Z",
-      "pushedAt": "2026-05-10T12:36:03.402Z"
-    },
-    {
-      "id": "4fdea8508af8ff7d",
-      "title": "SEC delay on prediction markets ETFs echoes a long-fought bitcoin fund battle",
-      "url": "https://www.cnbc.com/2026/05/10/sec-prediction-markets-etfs-trading-launch-delay.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bitcoin + etf"
-      ],
-      "firstSeen": "2026-05-10T12:36:03.540Z",
-      "pushedAt": "2026-05-10T12:36:03.540Z"
     }
   ],
-  "updatedAt": "2026-05-11T11:46:34.420Z"
+  "updatedAt": "2026-05-11T16:43:10.777Z"
 }
