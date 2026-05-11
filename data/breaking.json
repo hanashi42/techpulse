@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "682277b9c6212442",
+      "title": "Dollar strengthens as Trump says Iran peace offer 'unacceptable' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTZ6NW1CNXZSaHpYd2tlQUtjRlFuYmZOc3hkVzlGMVRKVlFXMUwtNG40VC1jSURSVTd2cEVCV2ZXMHNHTGM0YU11OFBfMEtaQXBIN3dyQVhVc1Rmdng4SDAwYU1GUlZWZVRIYzc5S1ROQUJLcmpraHpVU1V1TnpLNm9kVXAtM1ZKUk9aQzQ5OEdPNnZRV0U4ZGlONFMtUmdVcXA0M2xpU2FYQThteFJvLUV4bUU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "dollar + strengthen"
+      ],
+      "firstSeen": "2026-05-11T05:32:17.975Z",
+      "pushedAt": "2026-05-11T05:32:17.975Z"
+    },
+    {
+      "id": "96d445fdc5a0b370",
+      "title": "Canadian high school where deadly mass shooting occurred to be torn down",
+      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "mass shooting"
+      ],
+      "firstSeen": "2026-05-11T05:32:18.207Z",
+      "pushedAt": "2026-05-11T05:32:18.207Z"
+    },
+    {
+      "id": "6e3d1d77201c916a",
+      "title": "15 Policemen Killed In Gun-And-Bomb Attack In Northwestern Pakistan - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40WUVUVkR6dnZzNTVvM1k5Mzg0QzZMaFpoLW9pZXQ4Q0JXa3hBbGJmRzlQUDRyOTFzZldaWkZfcU9udFZLRzQ5eUc5T0kyM1o4d29XcEJ6RVJHUUlB?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-11T05:32:18.397Z",
+      "pushedAt": "2026-05-11T05:32:18.397Z"
+    },
+    {
       "id": "aeb0235a1777b992",
       "title": "Iran proposal calls for end of war and lifting of sanctions, news agency reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTJqTlhwQTJLdmNFa05JNklPa2VCNjdmYnNNZ1RNUmtvYkI2ZS1JcWZyQ1BiczVGZjJVd1J0Z0Z4ZEMwYU9Ud1o0N1pySjFyNmxjR3FOSG5fYlRrZ0ZZYlZ0UWpSNllEbVFKM1NlenJWMUs4emlNV0NVMU5aZ3VVZEpmLTI3TXh2dkJSdjFfd1NHdy0wYkJPS2JZMDJWUnBCeWdpQ3dIQktpY1hpYWpFS3psY2tjV3ZDdFNoU0x3?oc=5",
@@ -155,31 +191,7 @@
       ],
       "firstSeen": "2026-05-10T06:23:47.622Z",
       "pushedAt": "2026-05-10T06:23:47.622Z"
-    },
-    {
-      "id": "70aed83e71098eff",
-      "title": "8 children killed in Louisiana mass shooting remembered at funeral - AP News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcloxUlNUVERoNHRpV0ZiQ0tVbS1IR2sxc2xDRjRQbk0xakdteG42Z2duSEl4Y0NRRmIxd2NmVDRuXzU2WG5Hb0tOR0tDWXVRX3Q3bWZpdGozcGFXRElKaXlHUk4xLWlHUlNodjNpZ25BcGhkQjNUWElQblRlQVI0emM3WXdha0VZdG9vQWFFTDMxbkEtZmxCUk9zRWRIV2NieGNvZTBPUkJlTzVTSWQyVA?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "mass shooting"
-      ],
-      "firstSeen": "2026-05-10T03:33:31.721Z",
-      "pushedAt": "2026-05-10T03:33:31.721Z"
-    },
-    {
-      "id": "9ae7d9dc30859305",
-      "title": "Iran war live: IRGC warns US against attacks on ships; Israel bombs Lebanon",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/10/iran-war-live-irgc-warns-us-against-attacks-on-ships-israel-bombs-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-05-10T03:33:31.961Z",
-      "pushedAt": "2026-05-10T03:33:31.961Z"
     }
   ],
-  "updatedAt": "2026-05-11T01:29:28.452Z"
+  "updatedAt": "2026-05-11T05:32:18.458Z"
 }
