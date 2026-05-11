@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "93772f8193ded89b",
+      "title": "Hormuz closure extends well beyond oil to threaten Chinese EVs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWJIdEtOdm1kVmQxMG51YXBoTTZKQ3FSSVgxbkI2ZGxjMDdSQlNKMm90MmtieVRCVzYtRnU0VXlIbWY4RF9NVzR0dHl2SUNSUjlza1lpMDgtQlBQUjNIM0dwVlZMX2k3NUdLREZ3NjR4NEdzdXgxdFpLUHd3VTFyQlBNdUtxVGhBbjRmdWlhMHVmMy1hbVZZb2FLUzAwWmo3R2dEWlJsZmpHUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-05-11T11:46:34.256Z",
+      "pushedAt": "2026-05-11T11:46:34.256Z"
+    },
+    {
       "id": "d4cbf8a17f764b2f",
       "title": "Trump and Xi are set to meet. Where do US-China tariffs stand? - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxbjMxdzRiSC1SMEdXVzdzcmhCcC1PN2JNc1VpenBISWZKd2FtYjAyZWZLVThHSnpRdzRiZWc4aG5wTE96X1FVX3NGQUhtYU1OakhXM0hLODd1dw?oc=5",
@@ -143,43 +155,7 @@
       ],
       "firstSeen": "2026-05-10T12:36:03.540Z",
       "pushedAt": "2026-05-10T12:36:03.540Z"
-    },
-    {
-      "id": "3721669cf4b96ba2",
-      "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
-      "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-10T10:49:19.578Z",
-      "pushedAt": "2026-05-10T10:49:19.578Z"
-    },
-    {
-      "id": "08ac0e029efd201b",
-      "title": "U.S. sanctions companies and individuals in the Middle East and China for helping Iran",
-      "url": "https://www.cnbc.com/2026/05/09/us-sanctions-entities-in-the-middle-east-and-china-for-helping-iran.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-10T10:49:19.642Z",
-      "pushedAt": "2026-05-10T10:49:19.642Z"
-    },
-    {
-      "id": "c23efe28e7ef65c0",
-      "title": "Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures",
-      "url": "https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + mass"
-      ],
-      "firstSeen": "2026-05-10T09:50:30.398Z",
-      "pushedAt": "2026-05-10T09:50:30.398Z"
     }
   ],
-  "updatedAt": "2026-05-11T08:42:47.989Z"
+  "updatedAt": "2026-05-11T11:46:34.420Z"
 }
