@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "aeb2add0e2ac612c",
+      "title": "Iran war oil shortage forces Japan snack giant to use black-and-white packaging",
+      "url": "https://www.theguardian.com/world/2026/may/12/calbee-japan-snack-giant-black-white-packaging-iran-war-oil-ink-shortage",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + oil"
+      ],
+      "firstSeen": "2026-05-12T07:32:38.936Z",
+      "pushedAt": "2026-05-12T07:32:38.936Z"
+    },
+    {
       "id": "3ccf89e281ab9a9e",
       "title": "Oil prices rise as fragile US-Iran talks sustain supply worries - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHhwaGkxMUwtRTJmcFhZU2puNzFud0M2WkJlNTFYeHRReFRFb0ZJMUdTLUhxTXBJMGxyOEc0MXJzX2pHWDdQMGZjNmhxc19yOVRWMHlPTXVzQS1VdmNsSTNraGlTMzZQanMzOGd3S2pVb2lGUElxUXNXQWd6MGpvMVh1SHFZYnh3TmJiSm1MSlU2eUxWWU05Zld4SmRfekh4WmNXOEVxUUJUUThqMnY2NVdn?oc=5",
@@ -119,43 +131,7 @@
       ],
       "firstSeen": "2026-05-11T08:42:47.652Z",
       "pushedAt": "2026-05-11T08:42:47.652Z"
-    },
-    {
-      "id": "682277b9c6212442",
-      "title": "Dollar strengthens as Trump says Iran peace offer 'unacceptable' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTZ6NW1CNXZSaHpYd2tlQUtjRlFuYmZOc3hkVzlGMVRKVlFXMUwtNG40VC1jSURSVTd2cEVCV2ZXMHNHTGM0YU11OFBfMEtaQXBIN3dyQVhVc1Rmdng4SDAwYU1GUlZWZVRIYzc5S1ROQUJLcmpraHpVU1V1TnpLNm9kVXAtM1ZKUk9aQzQ5OEdPNnZRV0U4ZGlONFMtUmdVcXA0M2xpU2FYQThteFJvLUV4bUU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "dollar + strengthen"
-      ],
-      "firstSeen": "2026-05-11T05:32:17.975Z",
-      "pushedAt": "2026-05-11T05:32:17.975Z"
-    },
-    {
-      "id": "96d445fdc5a0b370",
-      "title": "Canadian high school where deadly mass shooting occurred to be torn down",
-      "url": "https://www.theguardian.com/world/2026/may/08/tumbler-ridge-canada-school-shooting",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "mass shooting"
-      ],
-      "firstSeen": "2026-05-11T05:32:18.207Z",
-      "pushedAt": "2026-05-11T05:32:18.207Z"
-    },
-    {
-      "id": "6e3d1d77201c916a",
-      "title": "15 Policemen Killed In Gun-And-Bomb Attack In Northwestern Pakistan - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40WUVUVkR6dnZzNTVvM1k5Mzg0QzZMaFpoLW9pZXQ4Q0JXa3hBbGJmRzlQUDRyOTFzZldaWkZfcU9udFZLRzQ5eUc5T0kyM1o4d29XcEJ6RVJHUUlB?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-11T05:32:18.397Z",
-      "pushedAt": "2026-05-11T05:32:18.397Z"
     }
   ],
-  "updatedAt": "2026-05-12T04:49:19.727Z"
+  "updatedAt": "2026-05-12T07:32:39.636Z"
 }
