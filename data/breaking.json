@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "87501b14cce92d2d",
+      "title": "Can China counter US sanctions with its trade power?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-12T12:07:04.509Z",
+      "pushedAt": "2026-05-12T12:07:04.509Z"
+    },
+    {
+      "id": "2e5b58b9819b3484",
+      "title": "At least nine people killed in explosion at Pakistan market",
+      "url": "https://www.aljazeera.com/news/2026/5/12/at-least-nine-people-killed-in-explosion-at-pakistan-market?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-05-12T12:07:04.635Z",
+      "pushedAt": "2026-05-12T12:07:04.635Z"
+    },
+    {
       "id": "b8e253c23d1fcaee",
       "title": "Israel passes law setting up military tribunal for 7 October attackers",
       "url": "https://news.sky.com/story/israel-passes-law-setting-up-military-tribunal-which-can-sentence-7-october-attackers-to-death-13542969",
@@ -119,19 +143,7 @@
       ],
       "firstSeen": "2026-05-11T16:43:10.569Z",
       "pushedAt": "2026-05-11T16:43:10.569Z"
-    },
-    {
-      "id": "93772f8193ded89b",
-      "title": "Hormuz closure extends well beyond oil to threaten Chinese EVs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWJIdEtOdm1kVmQxMG51YXBoTTZKQ3FSSVgxbkI2ZGxjMDdSQlNKMm90MmtieVRCVzYtRnU0VXlIbWY4RF9NVzR0dHl2SUNSUjlza1lpMDgtQlBQUjNIM0dwVlZMX2k3NUdLREZ3NjR4NEdzdXgxdFpLUHd3VTFyQlBNdUtxVGhBbjRmdWlhMHVmMy1hbVZZb2FLUzAwWmo3R2dEWlJsZmpHUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-05-11T11:46:34.256Z",
-      "pushedAt": "2026-05-11T11:46:34.256Z"
     }
   ],
-  "updatedAt": "2026-05-12T10:07:22.110Z"
+  "updatedAt": "2026-05-12T12:07:04.709Z"
 }
