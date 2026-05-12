@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "ad661f5468f268bc",
+      "title": "US annual consumer inflation accelerates amid broad increase in prices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNHZyUDdUVWtwZ3pMU2QyV2NqUER6WS1xWkpNQW9FQ1hiWUdWdjVIYkJLeUxoOU1DemZBX3RfdGJZYkZTbTRLVUhJLTNVV2RPQm5RSDZoVWY1TVhzVVozTzFYaUc3SkNLcUYzOVFPWnZ5bFhhMk1hX1JpNkhvUVpfM1F4cWt3YjlLdkM2Q3F4cw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + accelerat"
+      ],
+      "firstSeen": "2026-05-12T16:57:18.188Z",
+      "pushedAt": "2026-05-12T16:57:18.188Z"
+    },
+    {
+      "id": "8d326a14924f2fda",
+      "title": "Wall St falls as hot inflation, Iran tensions weigh - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDRSdFhfX2dwTkYzSGtmMkZZSzY3enF2bjVVdEhkdm9DbnBIZVJ3V3ZhM1g1VzQwc1E1NGRxa2ZFMkphR01EYTJjLWhPcFFSZWhkT21Qa1VIckpYOUtoN1NudTdvMXVENUs5SzhlUkV0dkZRcElYcEdjLUR5ODJ6b3p1Rzc4Uk5RZU5RSElxLTlUWS1BazZHUEowUzd5TUFwVFJj?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + fall"
+      ],
+      "firstSeen": "2026-05-12T16:57:18.294Z",
+      "pushedAt": "2026-05-12T16:57:18.294Z"
+    },
+    {
+      "id": "7597c96717547ebf",
+      "title": "Qualcomm drops 13% as chip stocks pull back from record AI-driven rally",
+      "url": "https://www.cnbc.com/2026/05/12/qualcomm-chip-stocks-record-ai.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-05-12T16:57:18.394Z",
+      "pushedAt": "2026-05-12T16:57:18.394Z"
+    },
+    {
       "id": "87501b14cce92d2d",
       "title": "Can China counter US sanctions with its trade power?",
       "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/12/can-china-counter-us-sanctions-with-its-trade-power?traffic_source=rss",
@@ -131,19 +167,7 @@
       ],
       "firstSeen": "2026-05-11T18:23:56.831Z",
       "pushedAt": "2026-05-11T18:23:56.831Z"
-    },
-    {
-      "id": "867f061da285c015",
-      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
-      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "air strikes on"
-      ],
-      "firstSeen": "2026-05-11T16:43:10.569Z",
-      "pushedAt": "2026-05-11T16:43:10.569Z"
     }
   ],
-  "updatedAt": "2026-05-12T12:07:04.709Z"
+  "updatedAt": "2026-05-12T16:57:18.433Z"
 }
