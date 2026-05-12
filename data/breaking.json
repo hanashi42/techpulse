@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b8e253c23d1fcaee",
+      "title": "Israel passes law setting up military tribunal for 7 October attackers",
+      "url": "https://news.sky.com/story/israel-passes-law-setting-up-military-tribunal-which-can-sentence-7-october-attackers-to-death-13542969",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-05-12T10:07:21.907Z",
+      "pushedAt": "2026-05-12T10:07:21.907Z"
+    },
+    {
       "id": "aeb2add0e2ac612c",
       "title": "Iran war oil shortage forces Japan snack giant to use black-and-white packaging",
       "url": "https://www.theguardian.com/world/2026/may/12/calbee-japan-snack-giant-black-white-packaging-iran-war-oil-ink-shortage",
@@ -119,19 +131,7 @@
       ],
       "firstSeen": "2026-05-11T11:46:34.256Z",
       "pushedAt": "2026-05-11T11:46:34.256Z"
-    },
-    {
-      "id": "d4cbf8a17f764b2f",
-      "title": "Trump and Xi are set to meet. Where do US-China tariffs stand? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxbjMxdzRiSC1SMEdXVzdzcmhCcC1PN2JNc1VpenBISWZKd2FtYjAyZWZLVThHSnpRdzRiZWc4aG5wTE96X1FVX3NGQUhtYU1OakhXM0hLODd1dw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-05-11T08:42:47.652Z",
-      "pushedAt": "2026-05-11T08:42:47.652Z"
     }
   ],
-  "updatedAt": "2026-05-12T07:32:39.636Z"
+  "updatedAt": "2026-05-12T10:07:22.110Z"
 }
