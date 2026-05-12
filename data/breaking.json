@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3ccf89e281ab9a9e",
+      "title": "Oil prices rise as fragile US-Iran talks sustain supply worries - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHhwaGkxMUwtRTJmcFhZU2puNzFud0M2WkJlNTFYeHRReFRFb0ZJMUdTLUhxTXBJMGxyOEc0MXJzX2pHWDdQMGZjNmhxc19yOVRWMHlPTXVzQS1VdmNsSTNraGlTMzZQanMzOGd3S2pVb2lGUElxUXNXQWd6MGpvMVh1SHFZYnh3TmJiSm1MSlU2eUxWWU05Zld4SmRfekh4WmNXOEVxUUJUUThqMnY2NVdn?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-05-12T04:49:19.394Z",
+      "pushedAt": "2026-05-12T04:49:19.394Z"
+    },
+    {
       "id": "f09212c2a5ece170",
       "title": "US issues new sanctions over Iran's oil shipments to China - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRSdkI1TWxrTWJCT1VHQjdsVjNmM05xVDRDMGM4eDRnbC1xd3Bqb3RoS1JnQU51NERCWVRoVWRlVmppV2Nvdk1iSWM0cmhpQnpEY18yQk5rbmxXSE82X3RuczRfUGdoQzBSSTY4bkNIcnctSS1FSDFGSzJuQ1ptSlM0SENqM0NFeVRuUjBHTGtJWHZRbWFRTzdiYnBwRmlVVTJ2Vw?oc=5",
@@ -143,31 +155,7 @@
       ],
       "firstSeen": "2026-05-11T05:32:18.397Z",
       "pushedAt": "2026-05-11T05:32:18.397Z"
-    },
-    {
-      "id": "aeb0235a1777b992",
-      "title": "Iran proposal calls for end of war and lifting of sanctions, news agency reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTJqTlhwQTJLdmNFa05JNklPa2VCNjdmYnNNZ1RNUmtvYkI2ZS1JcWZyQ1BiczVGZjJVd1J0Z0Z4ZEMwYU9Ud1o0N1pySjFyNmxjR3FOSG5fYlRrZ0ZZYlZ0UWpSNllEbVFKM1NlenJWMUs4emlNV0NVMU5aZ3VVZEpmLTI3TXh2dkJSdjFfd1NHdy0wYkJPS2JZMDJWUnBCeWdpQ3dIQktpY1hpYWpFS3psY2tjV3ZDdFNoU0x3?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-05-11T01:29:28.135Z",
-      "pushedAt": "2026-05-11T01:29:28.135Z"
-    },
-    {
-      "id": "f42381600b8ff181",
-      "title": "South Korea's Kospi hits fresh record as Asia markets trade mixed amid oil surge, Iran risks",
-      "url": "https://www.cnbc.com/2026/05/11/asia-markets-today-live-updates-nikkei-kospi-hang-seng-sensex-csi-300-iran-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-05-11T01:29:28.411Z",
-      "pushedAt": "2026-05-11T01:29:28.411Z"
     }
   ],
-  "updatedAt": "2026-05-11T21:39:00.587Z"
+  "updatedAt": "2026-05-12T04:49:19.727Z"
 }
