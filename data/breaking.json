@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e27eb15e9e8d06ed",
+      "title": "Naphtha Shortage Puts Japan's Calbee Chips, Snacks In Monochrome Packaging - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kaGtZZ0FzUmJodWNlSkhOQ0FnVnFFQy1NcTlDbGtUcC1YbU4yVm5FQjYxTmNIY21IMHRHek0zV2pkSFluNGh4WUNXQ1JDVk1ncDF1SzRkVkhEWkhE?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + chip"
+      ],
+      "firstSeen": "2026-05-12T23:42:00.604Z",
+      "pushedAt": "2026-05-12T23:42:00.604Z"
+    },
+    {
+      "id": "37d7f235346cfae9",
+      "title": "US Says 65 Commercial Vessels Redirected Under Naval Blockade Of Iran - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xRXNuYVNOMG5yUkJPNVBUZ0tLa081Qld5aFRBeWxBRGNZVDZJMEV1dlBqaFZrcnUtSi1iYUhiUUNJbGN1eGlDY2VMSHZSZVJZeThmUG9aYnMxZWVx?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + naval"
+      ],
+      "firstSeen": "2026-05-12T23:42:00.882Z",
+      "pushedAt": "2026-05-12T23:42:00.882Z"
+    },
+    {
       "id": "43b3ef496fea9adf",
       "title": "The Iran war is hitting home as gasoline prices fuel inflation surge of 3.8% in the US - AP News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjJGbUNVQmFyVG43RjYzWFo1NGx0Z29XU29xSG5nVDVxMUxDY1VGdVA3ZGNUSDUwUU9CaUZ6UWFnYXFQZEItNElKLXI5dTdLVlp6eXVXbDRYcTF4MDl2cTluR2xKZkFldk4zZVFlLV9rWnRkTEpSYlJ2NzJtTEl3NEdjZ2cyOEMxbUpxMVNrOE1Bcm9F?oc=5",
@@ -134,5 +158,5 @@
       "pushedAt": "2026-05-12T04:49:19.394Z"
     }
   ],
-  "updatedAt": "2026-05-12T22:45:26.475Z"
+  "updatedAt": "2026-05-12T23:42:01.149Z"
 }
