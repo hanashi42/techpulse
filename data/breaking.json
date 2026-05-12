@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "43b3ef496fea9adf",
+      "title": "The Iran war is hitting home as gasoline prices fuel inflation surge of 3.8% in the US - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjJGbUNVQmFyVG43RjYzWFo1NGx0Z29XU29xSG5nVDVxMUxDY1VGdVA3ZGNUSDUwUU9CaUZ6UWFnYXFQZEItNElKLXI5dTdLVlp6eXVXbDRYcTF4MDl2cTluR2xKZkFldk4zZVFlLV9rWnRkTEpSYlJ2NzJtTEl3NEdjZ2cyOEMxbUpxMVNrOE1Bcm9F?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + inflation",
+        "inflation + surge"
+      ],
+      "firstSeen": "2026-05-12T22:45:26.237Z",
+      "pushedAt": "2026-05-12T22:45:26.237Z"
+    },
+    {
       "id": "d3daf6d96b81b4e7",
       "title": "US appeals court pauses ruling against Trump's 10% global tariff - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpnQi1qbHByVkZpa0FLYk42ZTEwWmdPVFVCbTdlYUVRRjZNTS1fZTZZTWVKOW9uLUU4dC1xcWRleFI3TWQ4M3Zya3BYdGdBQ2RPdHBCd2FxVVVlcGkzdm4tSFd1UHRtSlRrRHdTM3V5WW9jRl9pQnRKVFFKZEpkel9LRjMwckRsdWJMaVpyazBQVGRpNEVwYXVucGdOblhsSHM0YTJhSmw?oc=5",
@@ -121,5 +134,5 @@
       "pushedAt": "2026-05-12T04:49:19.394Z"
     }
   ],
-  "updatedAt": "2026-05-12T21:44:10.487Z"
+  "updatedAt": "2026-05-12T22:45:26.475Z"
 }
