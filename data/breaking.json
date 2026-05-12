@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "d3daf6d96b81b4e7",
+      "title": "US appeals court pauses ruling against Trump's 10% global tariff - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpnQi1qbHByVkZpa0FLYk42ZTEwWmdPVFVCbTdlYUVRRjZNTS1fZTZZTWVKOW9uLUU4dC1xcWRleFI3TWQ4M3Zya3BYdGdBQ2RPdHBCd2FxVVVlcGkzdm4tSFd1UHRtSlRrRHdTM3V5WW9jRl9pQnRKVFFKZEpkel9LRjMwckRsdWJMaVpyazBQVGRpNEVwYXVucGdOblhsSHM0YTJhSmw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-12T21:44:10.363Z",
+      "pushedAt": "2026-05-12T21:44:10.363Z"
+    },
+    {
+      "id": "24a3560fc1909142",
+      "title": "What are China's current tariffs on US energy and agriculture goods - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3BoaDZ4TnNGdlk3M3hkQjJIdGNGbTVkUjRMUVVrLVJsSndoUTBtYm4ya3ZZNXF3YktOS1QyeFFBTmYxMDVkRmZYNy1XNmljMW41aWgwdnFjMERhajJVM2ZrOWg2UWMyRGdVZU40bGxGYkQ2V0ctQUFqVDVNclY0OVVaR1pvbHlDdWdtNlMzTkdDSGN6bnBJSlNOQnJxSXFybDJCRGd6V1pFZDQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-12T21:44:10.455Z",
+      "pushedAt": "2026-05-12T21:44:10.455Z"
+    },
+    {
       "id": "ad661f5468f268bc",
       "title": "US annual consumer inflation accelerates amid broad increase in prices - Reuters",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNHZyUDdUVWtwZ3pMU2QyV2NqUER6WS1xWkpNQW9FQ1hiWUdWdjVIYkJLeUxoOU1DemZBX3RfdGJZYkZTbTRLVUhJLTNVV2RPQm5RSDZoVWY1TVhzVVozTzFYaUc3SkNLcUYzOVFPWnZ5bFhhMk1hX1JpNkhvUVpfM1F4cWt3YjlLdkM2Q3F4cw?oc=5",
@@ -95,79 +119,7 @@
       ],
       "firstSeen": "2026-05-12T04:49:19.394Z",
       "pushedAt": "2026-05-12T04:49:19.394Z"
-    },
-    {
-      "id": "f09212c2a5ece170",
-      "title": "US issues new sanctions over Iran's oil shipments to China - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRSdkI1TWxrTWJCT1VHQjdsVjNmM05xVDRDMGM4eDRnbC1xd3Bqb3RoS1JnQU51NERCWVRoVWRlVmppV2Nvdk1iSWM0cmhpQnpEY18yQk5rbmxXSE82X3RuczRfUGdoQzBSSTY4bkNIcnctSS1FSDFGSzJuQ1ptSlM0SENqM0NFeVRuUjBHTGtJWHZRbWFRTzdiYnBwRmlVVTJ2Vw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-05-11T21:39:00.164Z",
-      "pushedAt": "2026-05-11T21:39:00.164Z"
-    },
-    {
-      "id": "05d093e7d8d94e10",
-      "title": "Trump says he will suspend petrol tax amid soaring US fuel prices",
-      "url": "https://www.aljazeera.com/economy/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-05-11T21:39:00.381Z",
-      "pushedAt": "2026-05-11T21:39:00.381Z"
-    },
-    {
-      "id": "acdd57de02c3be65",
-      "title": "Family of Florida mass shooting victim sues OpenAI in US court - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYklVTzNFUUxyTTdLYzh4ZmgwWHRSRUtnN0x1c2tqdS00M00wSC1hbDNxRm5YeENXNFEzY1I4YlVrQVNlWlhEVGJSVjR1ZGtRZzE0YTBpeG8zYXExS0NnQkN6MWxoNTJrcm5aUWU1WGF5N2QyQjhrV0c5UGFCQ2VqaVM5aGM3cDBZQlQwQVlrdFBTeFp1TDBidnBHYjg5NVd1bkItbFdyRHBrTWpKcUE?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "mass shooting"
-      ],
-      "firstSeen": "2026-05-11T20:09:13.231Z",
-      "pushedAt": "2026-05-11T20:09:13.231Z"
-    },
-    {
-      "id": "cafc13997da246f1",
-      "title": "UK sanctions network accused of planning attacks for Iran",
-      "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-11T20:09:13.466Z",
-      "pushedAt": "2026-05-11T20:09:13.466Z"
-    },
-    {
-      "id": "ade3f92b5ca1cadb",
-      "title": "Iran war costs Toyota £3bn as prices of materials soar and sales fall",
-      "url": "https://www.theguardian.com/business/2026/may/08/iran-war-costs-toyota-3bn-prices-materials-soar-sales-fall",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-05-11T20:09:13.513Z",
-      "pushedAt": "2026-05-11T20:09:13.513Z"
-    },
-    {
-      "id": "69cc9ee5c44562e8",
-      "title": "Exclusive: India declines Russian LNG under sanctions, talks continue on permitted cargoes, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSGh4dmdOU0F5MUxPRjg4SkJDYkNjaUtMYzRQR29qVHRzRDlRajNMYUpVNFBfdE9wZExkcVpxMzlReUszV29LSzBHbFJwRm1USXQ2ZXc3bmJ6d1g5TFRXa3F0VTFmUnBfSDVhVW9PMGNPWm5ZWk9pcUNUZlhjcGtYNURsNE9jTlJQRW94ME84TmpPUEYtSGxqVXVOdmNwSkV3NHhqbU9DMEVRcm9LN0JTTm5LekZ5ZFZneTlRQWFRM3ZvS281Wmc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-05-11T18:23:56.831Z",
-      "pushedAt": "2026-05-11T18:23:56.831Z"
     }
   ],
-  "updatedAt": "2026-05-12T16:57:18.433Z"
+  "updatedAt": "2026-05-12T21:44:10.487Z"
 }
