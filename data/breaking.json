@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6a980aa99efdc71c",
+      "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+      "url": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-13T19:16:15.542Z",
+      "pushedAt": "2026-05-13T19:16:15.542Z"
+    },
+    {
       "id": "49a276e5a13bfc5c",
       "title": "Trump, Xi to weigh tariff cuts on $30 billion of imports in managed trade push - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZHBka0lybnhwRXkzY1pwOWpFSnN5Njd0RnFpNlg0ZlRYN1lqY3FFZ1dFOXJQUTBKczZITllGdU1TU01iMGNIWnNfYXVBeFVNZnVlaE02Wkd6T2lFTUo2VXBzeDBZVVAxNVZKUC1OZG9LUFVaQmMyR1dhaTMxYi1KZ0owc3JpNkhXYkUyY2xQaUcyNmI5YlU4U3FCVU9aNFk5SzJueFAwd3VNU0xOTmtXWHlNNTdxUW0wMGFtRnBaMmRTc0haakpTd25B?oc=5",
@@ -204,43 +216,7 @@
       ],
       "firstSeen": "2026-05-12T21:44:10.455Z",
       "pushedAt": "2026-05-12T21:44:10.455Z"
-    },
-    {
-      "id": "ad661f5468f268bc",
-      "title": "US annual consumer inflation accelerates amid broad increase in prices - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNHZyUDdUVWtwZ3pMU2QyV2NqUER6WS1xWkpNQW9FQ1hiWUdWdjVIYkJLeUxoOU1DemZBX3RfdGJZYkZTbTRLVUhJLTNVV2RPQm5RSDZoVWY1TVhzVVozTzFYaUc3SkNLcUYzOVFPWnZ5bFhhMk1hX1JpNkhvUVpfM1F4cWt3YjlLdkM2Q3F4cw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + accelerat"
-      ],
-      "firstSeen": "2026-05-12T16:57:18.188Z",
-      "pushedAt": "2026-05-12T16:57:18.188Z"
-    },
-    {
-      "id": "8d326a14924f2fda",
-      "title": "Wall St falls as hot inflation, Iran tensions weigh - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDRSdFhfX2dwTkYzSGtmMkZZSzY3enF2bjVVdEhkdm9DbnBIZVJ3V3ZhM1g1VzQwc1E1NGRxa2ZFMkphR01EYTJjLWhPcFFSZWhkT21Qa1VIckpYOUtoN1NudTdvMXVENUs5SzhlUkV0dkZRcElYcEdjLUR5ODJ6b3p1Rzc4Uk5RZU5RSElxLTlUWS1BazZHUEowUzd5TUFwVFJj?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + fall"
-      ],
-      "firstSeen": "2026-05-12T16:57:18.294Z",
-      "pushedAt": "2026-05-12T16:57:18.294Z"
-    },
-    {
-      "id": "7597c96717547ebf",
-      "title": "Qualcomm drops 13% as chip stocks pull back from record AI-driven rally",
-      "url": "https://www.cnbc.com/2026/05/12/qualcomm-chip-stocks-record-ai.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-05-12T16:57:18.394Z",
-      "pushedAt": "2026-05-12T16:57:18.394Z"
     }
   ],
-  "updatedAt": "2026-05-13T15:24:13.278Z"
+  "updatedAt": "2026-05-13T19:16:15.685Z"
 }
