@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "87e78e1890d45481",
+      "title": "Gold slips as firm US inflation data weighs on Fed rate-cut hopes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb0YxWTQtdnBNQWp3bDVEbG4xR25VVXotTFhGZ1FKZHZJcVR3enNNSl9PNWFDNWYxc19JanlyY05ldTZ5MVZ1U2dhdWdDZ2pmZXlpV1EzaFd1ZVVTYVZWbnN3Q1dUc1kxR0VMQTZfUFF1dFZUdHR0YjhnYTNyeG1pT0tDQ1Bmc0owRllobmVKc2doeVF1VkVjVmVLNXkzaUZfbWZzTTZjZTJPMVU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-05-13T05:04:55.914Z",
+      "pushedAt": "2026-05-13T05:04:55.914Z"
+    },
+    {
       "id": "cab83a54820d323b",
       "title": "Earthquake of magnitude 4.6 hits Tehran, no casualties reported - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWo2Vmp5bHlOVnI4dmprdDk5Rk03NTNuOTNabnptUjZIdkZUeVlES1ZIQzNZb3pTOFZ0N2tEOE5PSTdyYXdXOWg0QWJONG0wdG05OUpwWFhaUFR5NjdMajVMZmdNSzAweGNtY3g3YkpWOTlkZF9GRW82QmVTYVdzUTRKdEgzUTRyenAyeDhwR3VRcG1OcHNqbXhmcUVHTVBuMWFrbw?oc=5",
@@ -168,19 +180,7 @@
       ],
       "firstSeen": "2026-05-12T07:32:38.936Z",
       "pushedAt": "2026-05-12T07:32:38.936Z"
-    },
-    {
-      "id": "3ccf89e281ab9a9e",
-      "title": "Oil prices rise as fragile US-Iran talks sustain supply worries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeHhwaGkxMUwtRTJmcFhZU2puNzFud0M2WkJlNTFYeHRReFRFb0ZJMUdTLUhxTXBJMGxyOEc0MXJzX2pHWDdQMGZjNmhxc19yOVRWMHlPTXVzQS1VdmNsSTNraGlTMzZQanMzOGd3S2pVb2lGUElxUXNXQWd6MGpvMVh1SHFZYnh3TmJiSm1MSlU2eUxWWU05Zld4SmRfekh4WmNXOEVxUUJUUThqMnY2NVdn?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-05-12T04:49:19.394Z",
-      "pushedAt": "2026-05-12T04:49:19.394Z"
     }
   ],
-  "updatedAt": "2026-05-13T01:27:24.664Z"
+  "updatedAt": "2026-05-13T05:04:56.024Z"
 }
