@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "47311c648e98e522",
+      "title": "Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNC1Gdm14dUp6NWJBVXBHT1BpOFdOX0Fkclo4cE1BS1E3eWZ5UVJmLVA0QzZFLWFDT0RjbEhEN2VYOExfSllfUHNWbW1ZcUUtSGowTmZGSUQ0enJuNmRWNk1pcHdzS0RqRmdpeHN3SEd6NEdjMGRRUjBkbFR5UFB0YXF0TUtiNjVoQ0FfZjVRSzNEOXg4NTdBc0daUDNHdjNaWWkwdjVCWmwyYkxnNW50V1BZQ0RJcmhU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + oil"
+      ],
+      "firstSeen": "2026-05-13T10:39:02.030Z",
+      "pushedAt": "2026-05-13T10:39:02.030Z"
+    },
+    {
       "id": "6a5566d23bd8f80b",
       "title": "Indian gold, silver futures jump after India raises import tariffs - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjlzZ0VhZDRPclExSE1zV181WXVJUm0yRTl0S0xPUnc1eHd5TmJKWFhuRjF4Y1M2bDF0OExPd2lGXzVxQ1p6MmR3VlIxSTFTbFZvX01GZUk5OEJsY2xhTDZUZzNWYk9sdWpucEdoa2c3U003V2VOVFRwWXR4Ry0taTUxNUZ2VnpDMW1tX0xpX1FhZDdTRzFicWlqbF9SSjcyQkF6MlhuNmdOZUJmTmxyRXFWMA?oc=5",
@@ -180,19 +192,7 @@
       ],
       "firstSeen": "2026-05-12T12:07:04.635Z",
       "pushedAt": "2026-05-12T12:07:04.635Z"
-    },
-    {
-      "id": "b8e253c23d1fcaee",
-      "title": "Israel passes law setting up military tribunal for 7 October attackers",
-      "url": "https://news.sky.com/story/israel-passes-law-setting-up-military-tribunal-which-can-sentence-7-october-attackers-to-death-13542969",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-05-12T10:07:21.907Z",
-      "pushedAt": "2026-05-12T10:07:21.907Z"
     }
   ],
-  "updatedAt": "2026-05-13T08:06:46.564Z"
+  "updatedAt": "2026-05-13T10:39:02.261Z"
 }
