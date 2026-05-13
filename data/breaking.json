@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "cab83a54820d323b",
+      "title": "Earthquake of magnitude 4.6 hits Tehran, no casualties reported - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWo2Vmp5bHlOVnI4dmprdDk5Rk03NTNuOTNabnptUjZIdkZUeVlES1ZIQzNZb3pTOFZ0N2tEOE5PSTdyYXdXOWg0QWJONG0wdG05OUpwWFhaUFR5NjdMajVMZmdNSzAweGNtY3g3YkpWOTlkZF9GRW82QmVTYVdzUTRKdEgzUTRyenAyeDhwR3VRcG1OcHNqbXhmcUVHTVBuMWFrbw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-05-13T01:27:24.124Z",
+      "pushedAt": "2026-05-13T01:27:24.124Z"
+    },
+    {
+      "id": "d8b540f176064fd2",
+      "title": "For Chinese exporters, Iran worries eclipse tariff woes as Trump, Xi prepare to meet",
+      "url": "https://www.cnbc.com/2026/05/13/trump-xi-summit-china-iran-war-tariffs.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-13T01:27:24.409Z",
+      "pushedAt": "2026-05-13T01:27:24.409Z"
+    },
+    {
       "id": "e27eb15e9e8d06ed",
       "title": "Naphtha Shortage Puts Japan's Calbee Chips, Snacks In Monochrome Packaging - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kaGtZZ0FzUmJodWNlSkhOQ0FnVnFFQy1NcTlDbGtUcC1YbU4yVm5FQjYxTmNIY21IMHRHek0zV2pkSFluNGh4WUNXQ1JDVk1ncDF1SzRkVkhEWkhE?oc=5",
@@ -158,5 +182,5 @@
       "pushedAt": "2026-05-12T04:49:19.394Z"
     }
   ],
-  "updatedAt": "2026-05-12T23:42:01.149Z"
+  "updatedAt": "2026-05-13T01:27:24.664Z"
 }
