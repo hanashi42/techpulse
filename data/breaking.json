@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "49a276e5a13bfc5c",
+      "title": "Trump, Xi to weigh tariff cuts on $30 billion of imports in managed trade push - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZHBka0lybnhwRXkzY1pwOWpFSnN5Njd0RnFpNlg0ZlRYN1lqY3FFZ1dFOXJQUTBKczZITllGdU1TU01iMGNIWnNfYXVBeFVNZnVlaE02Wkd6T2lFTUo2VXBzeDBZVVAxNVZKUC1OZG9LUFVaQmMyR1dhaTMxYi1KZ0owc3JpNkhXYkUyY2xQaUcyNmI5YlU4U3FCVU9aNFk5SzJueFAwd3VNU0xOTmtXWHlNNTdxUW0wMGFtRnBaMmRTc0haakpTd25B?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-13T15:24:12.622Z",
+      "pushedAt": "2026-05-13T15:24:12.622Z"
+    },
+    {
+      "id": "e81c2b9f51e4890a",
+      "title": "Sizzling semiconductor trade at risk of cooling - and stalling US stocks rally - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDlEX0swclZvbE1tWTVxa3o1bV91dkhsaFVVVHVSeFI2d0s1a0hjcGdZdnVzZ2c2RnFkbFhVd0dtaTdpV3M2MS11R0Frd1hqZzBfampZMzdPWnJTVndCa0J3ZW5BZElYZy1UcVR2OWdDTURMQjZuOXRIT01odHMxdWt4VWcyWnBlMnNGZ3VjMXlyTUVILWtHWHIzLTVtS1JRd3lveEFzUnRNckZvSFdvVg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-05-13T15:24:12.936Z",
+      "pushedAt": "2026-05-13T15:24:12.936Z"
+    },
+    {
+      "id": "db831e06b257ec3d",
+      "title": "Five Malaysians Rescued After Vessel Sinks Off Greece - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vRGxIM3ZCZk12NmVSb2NQdzZTNVdITDR2c09IdVpwNHhnSUEyRWJmejZaV1V4cERNQWhpZllQdnNmWlZJcFFQREZwaHE1NFBjTms0dWtvSUpabG84?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sinks + vessel"
+      ],
+      "firstSeen": "2026-05-13T15:24:13.186Z",
+      "pushedAt": "2026-05-13T15:24:13.186Z"
+    },
+    {
       "id": "080af8576c7f893f",
       "title": "Israel steps up attacks on Gaza since Iran truce, as military says Hamas rearming - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3dnX0wtWFJNMHk3STdHX0hFaXJOYkFHVEhWamxaWnNwbUd6UVROd21xX3ZkZjB0VVlESDc4NlVuZUtiRXVFdnVXUlhwdE5HcTZGNG5VdnUzOF90UjlIR1MzeGhvU2d2c2pTOVpzZDc3WnpsX1luYTJjRGdRNVhHT1FjS2U4SDV0UjJoVWI2UkZnOE9LVFY0VFM0VEdkN3FyNTJSbHJVZ3FtQTJoblVPRmRWSDJsYk5kMlZ2Y0Z3MGV2LUx5eC1n?oc=5",
@@ -206,5 +242,5 @@
       "pushedAt": "2026-05-12T16:57:18.394Z"
     }
   ],
-  "updatedAt": "2026-05-13T12:29:49.796Z"
+  "updatedAt": "2026-05-13T15:24:13.278Z"
 }
