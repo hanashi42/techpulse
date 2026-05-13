@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6a5566d23bd8f80b",
+      "title": "Indian gold, silver futures jump after India raises import tariffs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjlzZ0VhZDRPclExSE1zV181WXVJUm0yRTl0S0xPUnc1eHd5TmJKWFhuRjF4Y1M2bDF0OExPd2lGXzVxQ1p6MmR3VlIxSTFTbFZvX01GZUk5OEJsY2xhTDZUZzNWYk9sdWpucEdoa2c3U003V2VOVFRwWXR4Ry0taTUxNUZ2VnpDMW1tX0xpX1FhZDdTRzFicWlqbF9SSjcyQkF6MlhuNmdOZUJmTmxyRXFWMA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + raise"
+      ],
+      "firstSeen": "2026-05-13T08:06:46.428Z",
+      "pushedAt": "2026-05-13T08:06:46.428Z"
+    },
+    {
+      "id": "a6d9591d4dab86fb",
+      "title": "European markets open higher, UK gilts rally as PM Starmer defies calls to quit",
+      "url": "https://www.cnbc.com/2026/05/13/european-markets-stoxx-600-ftse-dax-iran-news-uk-starmer-latest.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + market"
+      ],
+      "firstSeen": "2026-05-13T08:06:46.511Z",
+      "pushedAt": "2026-05-13T08:06:46.511Z"
+    },
+    {
       "id": "87e78e1890d45481",
       "title": "Gold slips as firm US inflation data weighs on Fed rate-cut hopes - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb0YxWTQtdnBNQWp3bDVEbG4xR25VVXotTFhGZ1FKZHZJcVR3enNNSl9PNWFDNWYxc19JanlyY05ldTZ5MVZ1U2dhdWdDZ2pmZXlpV1EzaFd1ZVVTYVZWbnN3Q1dUc1kxR0VMQTZfUFF1dFZUdHR0YjhnYTNyeG1pT0tDQ1Bmc0owRllobmVKc2doeVF1VkVjVmVLNXkzaUZfbWZzTTZjZTJPMVU?oc=5",
@@ -168,19 +192,7 @@
       ],
       "firstSeen": "2026-05-12T10:07:21.907Z",
       "pushedAt": "2026-05-12T10:07:21.907Z"
-    },
-    {
-      "id": "aeb2add0e2ac612c",
-      "title": "Iran war oil shortage forces Japan snack giant to use black-and-white packaging",
-      "url": "https://www.theguardian.com/world/2026/may/12/calbee-japan-snack-giant-black-white-packaging-iran-war-oil-ink-shortage",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + oil"
-      ],
-      "firstSeen": "2026-05-12T07:32:38.936Z",
-      "pushedAt": "2026-05-12T07:32:38.936Z"
     }
   ],
-  "updatedAt": "2026-05-13T05:04:56.024Z"
+  "updatedAt": "2026-05-13T08:06:46.564Z"
 }
