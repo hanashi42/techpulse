@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0ab060ad318bf6f0",
+      "title": "Watch Live: Trump meets with Chinese leader Xi in Beijing today as trade, tariffs and Taiwan loom over visit - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2xPZS1EbE9Da2lFWDdyYW5CbTVBcDNnWmpHTEFkZGtET0ZsS090Qy1nbnZHd3FkaTZ1ZnBVT0s1NUptU25fYU1wbmR0RzhOdnhDVE84NHZmOVdldWpXd0U1MnlsbTVDZXpCTGMyeXB0TFRNT08wbmN1Y251SW4xalQ1a3JtWHpHUC1tdTk0YlhFWEVGUXBDOW530gGfAUFVX3lxTE1yeDMyaC00SVB1RXBZOWJxWGhXemZSOElJOUF1aEM4czFvUERDV2VaaU1iTnlRZmlYMHNKcmdsNzNkdkJic3M5VjMyY0hzZ2FlRzR6WDZpU1A5S250WGk2TDQydmhxeEFnRDllS2FaVXh5Skh3Qnl2cldYZVRER25jWFVnbTFhc0xhcDhHeG5JbDV2dmJuY0NmblVDcWJHdw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-14T04:12:14.495Z",
+      "pushedAt": "2026-05-14T04:12:14.495Z"
+    },
+    {
       "id": "794755b2bd8b0f5b",
       "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
@@ -143,68 +155,7 @@
       ],
       "firstSeen": "2026-05-13T05:04:55.914Z",
       "pushedAt": "2026-05-13T05:04:55.914Z"
-    },
-    {
-      "id": "cab83a54820d323b",
-      "title": "Earthquake of magnitude 4.6 hits Tehran, no casualties reported - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWo2Vmp5bHlOVnI4dmprdDk5Rk03NTNuOTNabnptUjZIdkZUeVlES1ZIQzNZb3pTOFZ0N2tEOE5PSTdyYXdXOWg0QWJONG0wdG05OUpwWFhaUFR5NjdMajVMZmdNSzAweGNtY3g3YkpWOTlkZF9GRW82QmVTYVdzUTRKdEgzUTRyenAyeDhwR3VRcG1OcHNqbXhmcUVHTVBuMWFrbw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-05-13T01:27:24.124Z",
-      "pushedAt": "2026-05-13T01:27:24.124Z"
-    },
-    {
-      "id": "d8b540f176064fd2",
-      "title": "For Chinese exporters, Iran worries eclipse tariff woes as Trump, Xi prepare to meet",
-      "url": "https://www.cnbc.com/2026/05/13/trump-xi-summit-china-iran-war-tariffs.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-13T01:27:24.409Z",
-      "pushedAt": "2026-05-13T01:27:24.409Z"
-    },
-    {
-      "id": "e27eb15e9e8d06ed",
-      "title": "Naphtha Shortage Puts Japan's Calbee Chips, Snacks In Monochrome Packaging - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kaGtZZ0FzUmJodWNlSkhOQ0FnVnFFQy1NcTlDbGtUcC1YbU4yVm5FQjYxTmNIY21IMHRHek0zV2pkSFluNGh4WUNXQ1JDVk1ncDF1SzRkVkhEWkhE?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + chip"
-      ],
-      "firstSeen": "2026-05-12T23:42:00.604Z",
-      "pushedAt": "2026-05-12T23:42:00.604Z"
-    },
-    {
-      "id": "37d7f235346cfae9",
-      "title": "US Says 65 Commercial Vessels Redirected Under Naval Blockade Of Iran - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xRXNuYVNOMG5yUkJPNVBUZ0tLa081Qld5aFRBeWxBRGNZVDZJMEV1dlBqaFZrcnUtSi1iYUhiUUNJbGN1eGlDY2VMSHZSZVJZeThmUG9aYnMxZWVx?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval"
-      ],
-      "firstSeen": "2026-05-12T23:42:00.882Z",
-      "pushedAt": "2026-05-12T23:42:00.882Z"
-    },
-    {
-      "id": "43b3ef496fea9adf",
-      "title": "The Iran war is hitting home as gasoline prices fuel inflation surge of 3.8% in the US - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjJGbUNVQmFyVG43RjYzWFo1NGx0Z29XU29xSG5nVDVxMUxDY1VGdVA3ZGNUSDUwUU9CaUZ6UWFnYXFQZEItNElKLXI5dTdLVlp6eXVXbDRYcTF4MDl2cTluR2xKZkFldk4zZVFlLV9rWnRkTEpSYlJ2NzJtTEl3NEdjZ2cyOEMxbUpxMVNrOE1Bcm9F?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + inflation",
-        "inflation + surge"
-      ],
-      "firstSeen": "2026-05-12T22:45:26.237Z",
-      "pushedAt": "2026-05-12T22:45:26.237Z"
     }
   ],
-  "updatedAt": "2026-05-13T22:04:10.568Z"
+  "updatedAt": "2026-05-14T04:12:14.729Z"
 }
