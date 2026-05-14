@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "d91c5b76c604d201",
+      "title": "How China changed Rubio name to let him join Trump summit despite sanctions",
+      "url": "https://www.aljazeera.com/news/2026/5/14/how-china-changed-rubio-name-to-let-him-join-trump-summit-despite-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-14T09:41:35.897Z",
+      "pushedAt": "2026-05-14T09:41:35.897Z"
+    },
+    {
+      "id": "63ceb2ca6fa7b789",
+      "title": "Cuba says oil and diesel supplies have run dry under U.S. sanctions",
+      "url": "https://www.cnbc.com/2026/05/14/cuba-oil-diesel-fuel-us-sanctions-blockade.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-14T09:41:36.158Z",
+      "pushedAt": "2026-05-14T09:41:36.158Z"
+    },
+    {
+      "id": "a02116a02320ad30",
+      "title": "Goldman Sachs warns UK T-bills are no 'magic bullet' for UK fiscal woes as borrowing costs surge",
+      "url": "https://www.cnbc.com/2026/05/14/goldman-sachs-uk-debt-borrowing-gilts-yields-britain.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + gold"
+      ],
+      "firstSeen": "2026-05-14T09:41:36.348Z",
+      "pushedAt": "2026-05-14T09:41:36.348Z"
+    },
+    {
       "id": "803be41dbe47c721",
       "title": "Soaring inflation and plummeting economy test Iran's ability to withstand war and US blockade - AP News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZWxCcGttSWhmVlgyT1JvZkVJWi1WMDVXOWw3cXpDa3NjRVB6ckNHTUw2SFpaZE5PVXJtSkRNb0t6R0lWR1BHcXZPZThoM1lPektFOXNtSTJiR3FhSXJxSkstYWtmbUkyb21Qdk1hOGNBTlVyRThESkQtbHJxLVJ1bnlGcG5kQWZrUTViQkFZTnhhWW9Y?oc=5",
@@ -155,31 +191,7 @@
       ],
       "firstSeen": "2026-05-13T10:39:02.030Z",
       "pushedAt": "2026-05-13T10:39:02.030Z"
-    },
-    {
-      "id": "6a5566d23bd8f80b",
-      "title": "Indian gold, silver futures jump after India raises import tariffs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjlzZ0VhZDRPclExSE1zV181WXVJUm0yRTl0S0xPUnc1eHd5TmJKWFhuRjF4Y1M2bDF0OExPd2lGXzVxQ1p6MmR3VlIxSTFTbFZvX01GZUk5OEJsY2xhTDZUZzNWYk9sdWpucEdoa2c3U003V2VOVFRwWXR4Ry0taTUxNUZ2VnpDMW1tX0xpX1FhZDdTRzFicWlqbF9SSjcyQkF6MlhuNmdOZUJmTmxyRXFWMA?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + raise"
-      ],
-      "firstSeen": "2026-05-13T08:06:46.428Z",
-      "pushedAt": "2026-05-13T08:06:46.428Z"
-    },
-    {
-      "id": "a6d9591d4dab86fb",
-      "title": "European markets open higher, UK gilts rally as PM Starmer defies calls to quit",
-      "url": "https://www.cnbc.com/2026/05/13/european-markets-stoxx-600-ftse-dax-iran-news-uk-starmer-latest.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + market"
-      ],
-      "firstSeen": "2026-05-13T08:06:46.511Z",
-      "pushedAt": "2026-05-13T08:06:46.511Z"
     }
   ],
-  "updatedAt": "2026-05-14T07:19:49.408Z"
+  "updatedAt": "2026-05-14T09:41:36.425Z"
 }
