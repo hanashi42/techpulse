@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "31cdc7c0e446bdb0",
+      "title": "Ship is reported seized off the coast of the UAE and is heading toward Iran - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnJadUp3aVhpSTJORmhWczF0ZmYydURqbkE3WnlTcmlFd1g1bkdReVh2aUxVRUxLd1hnQmpLcmpwN2Y2NGJhbXdBa1RRUWpOcHdQYXJGMVZLeGIwby1WV09XT3RVbHlHODMyT1RmLXpQWjczbnYzTXBhcEo4bWxYMVpuQWhqeDNtVk5lcWlXdnd4MHZBZTV5aGp5d2RGcHpiZjlF?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "seize + port"
+      ],
+      "firstSeen": "2026-05-14T13:13:24.584Z",
+      "pushedAt": "2026-05-14T13:13:24.584Z"
+    },
+    {
+      "id": "1d625044f092da3a",
+      "title": "US and China seek to repair damage from tariff war that sent trade into a freefall - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVVjejZrTXBEdXRCVDUyWmFNdnNxTXVrMUZ0TnM2ZXlWTlFncnpLZTlQTS1hczV4SmJlTXoxM0VSdjd1NFhubGhmQ1gzWGdBUVlYU2VvbTJjQ3J1MWJxaDRmRWsxUVZaelVXV1BzcWRtc3huUU9MOVdYZWNhTFFOaTF3UHQxdVJOX0tmdmJWUF9IdjNt?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-14T13:13:24.803Z",
+      "pushedAt": "2026-05-14T13:13:24.803Z"
+    },
+    {
+      "id": "b9f97d1edd2afb78",
+      "title": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
+      "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-14T13:13:24.839Z",
+      "pushedAt": "2026-05-14T13:13:24.839Z"
+    },
+    {
       "id": "d91c5b76c604d201",
       "title": "How China changed Rubio name to let him join Trump summit despite sanctions",
       "url": "https://www.aljazeera.com/news/2026/5/14/how-china-changed-rubio-name-to-let-him-join-trump-summit-despite-sanctions?traffic_source=rss",
@@ -143,55 +179,7 @@
       ],
       "firstSeen": "2026-05-13T15:24:13.186Z",
       "pushedAt": "2026-05-13T15:24:13.186Z"
-    },
-    {
-      "id": "080af8576c7f893f",
-      "title": "Israel steps up attacks on Gaza since Iran truce, as military says Hamas rearming - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3dnX0wtWFJNMHk3STdHX0hFaXJOYkFHVEhWamxaWnNwbUd6UVROd21xX3ZkZjB0VVlESDc4NlVuZUtiRXVFdnVXUlhwdE5HcTZGNG5VdnUzOF90UjlIR1MzeGhvU2d2c2pTOVpzZDc3WnpsX1luYTJjRGdRNVhHT1FjS2U4SDV0UjJoVWI2UkZnOE9LVFY0VFM0VEdkN3FyNTJSbHJVZ3FtQTJoblVPRmRWSDJsYk5kMlZ2Y0Z3MGV2LUx5eC1n?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-05-13T12:29:49.527Z",
-      "pushedAt": "2026-05-13T12:29:49.527Z"
-    },
-    {
-      "id": "5ec461c0ea417836",
-      "title": "Russia launches air attack on Ukraine infrastructure, military intelligence says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcWJWLV9yS2EtVV9IZV9ERHhCTkNUZGttUmxTUXlPbDFINWE4Tlp6R19IamtqYzU2NDhOZWxxVnpkYmJVRXJxOHlVV3RVYlRHTVdaSnJMMGY1ZVd5R3p3Y25oNDNsR0RKR0p6T2czXzYtemp3NFQ0VlpYcS1OVkF2NkJoaXNEN3dnb0tFUFRMckRXMUtSNFgtejhhVnJIZjRha2RUTHI5VEZZR04xMFczT3RvV3BiVk1SNVQxeXVpanJNb0dUMTUtQ1hlemEyWjA?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-05-13T12:29:49.738Z",
-      "pushedAt": "2026-05-13T12:29:49.738Z"
-    },
-    {
-      "id": "b8e253c23d1fcaee",
-      "title": "Israel passes law setting up military tribunal for 7 October attackers",
-      "url": "https://news.sky.com/story/israel-passes-law-setting-up-military-tribunal-which-can-sentence-7-october-attackers-to-death-13542969",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-05-13T12:29:49.775Z",
-      "pushedAt": "2026-05-13T12:29:49.775Z"
-    },
-    {
-      "id": "47311c648e98e522",
-      "title": "Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNC1Gdm14dUp6NWJBVXBHT1BpOFdOX0Fkclo4cE1BS1E3eWZ5UVJmLVA0QzZFLWFDT0RjbEhEN2VYOExfSllfUHNWbW1ZcUUtSGowTmZGSUQ0enJuNmRWNk1pcHdzS0RqRmdpeHN3SEd6NEdjMGRRUjBkbFR5UFB0YXF0TUtiNjVoQ0FfZjVRSzNEOXg4NTdBc0daUDNHdjNaWWkwdjVCWmwyYkxnNW50V1BZQ0RJcmhU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + oil"
-      ],
-      "firstSeen": "2026-05-13T10:39:02.030Z",
-      "pushedAt": "2026-05-13T10:39:02.030Z"
     }
   ],
-  "updatedAt": "2026-05-14T09:41:36.425Z"
+  "updatedAt": "2026-05-14T13:13:24.863Z"
 }
