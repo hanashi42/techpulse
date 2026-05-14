@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "42027dd3cadbf3bf",
+      "title": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
+      "url": "https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-14T19:12:01.195Z",
+      "pushedAt": "2026-05-14T19:12:01.195Z"
+    },
+    {
       "id": "5445f14ae3c11469",
       "title": "US retail sales post third straight monthly gain; import prices surge - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0phdlQ4eEthdHBNek91YXJkMjRvZWxrd3Y0WHI0OW00UktjV0NqZndITjFBb2d2cnJBZHN5UVNUX1puUXNNVG9EYjE1V3FDVldmQ09randoSzNjQlJYei12LWc0ek43UzZwYm9hajBGc09pcWxMemU5NW10VGZMaW5MWVo5eXJoVWttY1BHSXJNNUpMU1UxeEttOXpWSUVCZW1ROFhqUzFuWGJ1NV8yTnFR?oc=5",
@@ -194,5 +206,5 @@
       "pushedAt": "2026-05-13T19:16:15.542Z"
     }
   ],
-  "updatedAt": "2026-05-14T17:20:35.971Z"
+  "updatedAt": "2026-05-14T19:12:01.490Z"
 }
