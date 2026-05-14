@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "5445f14ae3c11469",
+      "title": "US retail sales post third straight monthly gain; import prices surge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0phdlQ4eEthdHBNek91YXJkMjRvZWxrd3Y0WHI0OW00UktjV0NqZndITjFBb2d2cnJBZHN5UVNUX1puUXNNVG9EYjE1V3FDVldmQ09randoSzNjQlJYei12LWc0ek43UzZwYm9hajBGc09pcWxMemU5NW10VGZMaW5MWVo5eXJoVWttY1BHSXJNNUpMU1UxeEttOXpWSUVCZW1ROFhqUzFuWGJ1NV8yTnFR?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-05-14T17:20:35.466Z",
+      "pushedAt": "2026-05-14T17:20:35.466Z"
+    },
+    {
+      "id": "9f8057481ad0154a",
+      "title": "S&P 500, Nasdaq hit record highs as Nvidia rally powers tech gains - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSlFWTVQ4ZlpZcDd2ZXIyT3hTblVucFl6UTFSaTlaLU5uVTZKT1BiWERJM3FlWHF1T1NldVRqNUFpdW5jN1JOMDNYcHFxajNhdUIwdnQ3b3FFUmVCMWJNUzRWTGFQYlItVmJocTdKbVlrTXVrbUQ5S2RhcTB2cGxteEMxTFo4TG41UkZhemZQOWhOaDNfdEVTdGZkSV91QQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + record",
+        "record high + s&p"
+      ],
+      "firstSeen": "2026-05-14T17:20:35.784Z",
+      "pushedAt": "2026-05-14T17:20:35.784Z"
+    },
+    {
+      "id": "ffedf8dee6d2fc5d",
+      "title": "Crypto industry scores win as Clarity Act regulation bill clears Senate hurdle",
+      "url": "https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crypto + regulat"
+      ],
+      "firstSeen": "2026-05-14T17:20:35.887Z",
+      "pushedAt": "2026-05-14T17:20:35.887Z"
+    },
+    {
+      "id": "1eb11850c998a9d6",
+      "title": "Grains Tank on Lack of China Ag Purchases: Cattle Rally on Record Cash - AgWeb",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbzE3WWIweF9YaVFISEtUSHpLODBmM3NoVnA2WGJQeWk4d0FBUTBLVTVjRkdhdTFsVGtxZXJyRXBWVUNwRHh3enQyenhZRUlFaHYzTTRDa3hmRV8zNVpkRGhIeDJVenFPMEpVZFNfcnFJZ2NIMDkyZ0tSTkpDSkQ1eUFqYl9yOEJqVXg2cGlJaDh1Sk9jNWxVWWZuWlNkSU5NeWtDY0lobnNUZw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + record"
+      ],
+      "firstSeen": "2026-05-14T17:20:35.926Z",
+      "pushedAt": "2026-05-14T17:20:35.926Z"
+    },
+    {
       "id": "31cdc7c0e446bdb0",
       "title": "Ship is reported seized off the coast of the UAE and is heading toward Iran - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnJadUp3aVhpSTJORmhWczF0ZmYydURqbkE3WnlTcmlFd1g1bkdReVh2aUxVRUxLd1hnQmpLcmpwN2Y2NGJhbXdBa1RRUWpOcHdQYXJGMVZLeGIwby1WV09XT3RVbHlHODMyT1RmLXpQWjczbnYzTXBhcEo4bWxYMVpuQWhqeDNtVk5lcWlXdnd4MHZBZTV5aGp5d2RGcHpiZjlF?oc=5",
@@ -143,43 +192,7 @@
       ],
       "firstSeen": "2026-05-13T19:16:15.542Z",
       "pushedAt": "2026-05-13T19:16:15.542Z"
-    },
-    {
-      "id": "49a276e5a13bfc5c",
-      "title": "Trump, Xi to weigh tariff cuts on $30 billion of imports in managed trade push - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZHBka0lybnhwRXkzY1pwOWpFSnN5Njd0RnFpNlg0ZlRYN1lqY3FFZ1dFOXJQUTBKczZITllGdU1TU01iMGNIWnNfYXVBeFVNZnVlaE02Wkd6T2lFTUo2VXBzeDBZVVAxNVZKUC1OZG9LUFVaQmMyR1dhaTMxYi1KZ0owc3JpNkhXYkUyY2xQaUcyNmI5YlU4U3FCVU9aNFk5SzJueFAwd3VNU0xOTmtXWHlNNTdxUW0wMGFtRnBaMmRTc0haakpTd25B?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-13T15:24:12.622Z",
-      "pushedAt": "2026-05-13T15:24:12.622Z"
-    },
-    {
-      "id": "e81c2b9f51e4890a",
-      "title": "Sizzling semiconductor trade at risk of cooling - and stalling US stocks rally - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcDlEX0swclZvbE1tWTVxa3o1bV91dkhsaFVVVHVSeFI2d0s1a0hjcGdZdnVzZ2c2RnFkbFhVd0dtaTdpV3M2MS11R0Frd1hqZzBfampZMzdPWnJTVndCa0J3ZW5BZElYZy1UcVR2OWdDTURMQjZuOXRIT01odHMxdWt4VWcyWnBlMnNGZ3VjMXlyTUVILWtHWHIzLTVtS1JRd3lveEFzUnRNckZvSFdvVg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-05-13T15:24:12.936Z",
-      "pushedAt": "2026-05-13T15:24:12.936Z"
-    },
-    {
-      "id": "db831e06b257ec3d",
-      "title": "Five Malaysians Rescued After Vessel Sinks Off Greece - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vRGxIM3ZCZk12NmVSb2NQdzZTNVdITDR2c09IdVpwNHhnSUEyRWJmejZaV1V4cERNQWhpZllQdnNmWlZJcFFQREZwaHE1NFBjTms0dWtvSUpabG84?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sinks + vessel"
-      ],
-      "firstSeen": "2026-05-13T15:24:13.186Z",
-      "pushedAt": "2026-05-13T15:24:13.186Z"
     }
   ],
-  "updatedAt": "2026-05-14T13:13:24.863Z"
+  "updatedAt": "2026-05-14T17:20:35.971Z"
 }
