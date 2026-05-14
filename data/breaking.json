@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "803be41dbe47c721",
+      "title": "Soaring inflation and plummeting economy test Iran's ability to withstand war and US blockade - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZWxCcGttSWhmVlgyT1JvZkVJWi1WMDVXOWw3cXpDa3NjRVB6ckNHTUw2SFpaZE5PVXJtSkRNb0t6R0lWR1BHcXZPZThoM1lPektFOXNtSTJiR3FhSXJxSkstYWtmbUkyb21Qdk1hOGNBTlVyRThESkQtbHJxLVJ1bnlGcG5kQWZrUTViQkFZTnhhWW9Y?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + inflation"
+      ],
+      "firstSeen": "2026-05-14T07:19:49.115Z",
+      "pushedAt": "2026-05-14T07:19:49.115Z"
+    },
+    {
+      "id": "1721a8022fffaf60",
+      "title": "Kyiv building collapses after Russian strike, reportedly trapping residents",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/aje-onl-nf_clip-kyiv-building-collapses-after-strike-140526?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "collapses + building"
+      ],
+      "firstSeen": "2026-05-14T07:19:49.352Z",
+      "pushedAt": "2026-05-14T07:19:49.352Z"
+    },
+    {
+      "id": "d8b540f176064fd2",
+      "title": "For Chinese exporters, Iran worries eclipse tariff woes as Trump, Xi prepare to meet",
+      "url": "https://www.cnbc.com/2026/05/13/trump-xi-summit-china-iran-war-tariffs.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-14T07:19:49.387Z",
+      "pushedAt": "2026-05-14T07:19:49.388Z"
+    },
+    {
       "id": "0ab060ad318bf6f0",
       "title": "Watch Live: Trump meets with Chinese leader Xi in Beijing today as trade, tariffs and Taiwan loom over visit - CBS News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2xPZS1EbE9Da2lFWDdyYW5CbTVBcDNnWmpHTEFkZGtET0ZsS090Qy1nbnZHd3FkaTZ1ZnBVT0s1NUptU25fYU1wbmR0RzhOdnhDVE84NHZmOVdldWpXd0U1MnlsbTVDZXpCTGMyeXB0TFRNT08wbmN1Y251SW4xalQ1a3JtWHpHUC1tdTk0YlhFWEVGUXBDOW530gGfAUFVX3lxTE1yeDMyaC00SVB1RXBZOWJxWGhXemZSOElJOUF1aEM4czFvUERDV2VaaU1iTnlRZmlYMHNKcmdsNzNkdkJic3M5VjMyY0hzZ2FlRzR6WDZpU1A5S250WGk2TDQydmhxeEFnRDllS2FaVXh5Skh3Qnl2cldYZVRER25jWFVnbTFhc0xhcDhHeG5JbDV2dmJuY0NmblVDcWJHdw?oc=5",
@@ -143,19 +179,7 @@
       ],
       "firstSeen": "2026-05-13T08:06:46.511Z",
       "pushedAt": "2026-05-13T08:06:46.511Z"
-    },
-    {
-      "id": "87e78e1890d45481",
-      "title": "Gold slips as firm US inflation data weighs on Fed rate-cut hopes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb0YxWTQtdnBNQWp3bDVEbG4xR25VVXotTFhGZ1FKZHZJcVR3enNNSl9PNWFDNWYxc19JanlyY05ldTZ5MVZ1U2dhdWdDZ2pmZXlpV1EzaFd1ZVVTYVZWbnN3Q1dUc1kxR0VMQTZfUFF1dFZUdHR0YjhnYTNyeG1pT0tDQ1Bmc0owRllobmVKc2doeVF1VkVjVmVLNXkzaUZfbWZzTTZjZTJPMVU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-05-13T05:04:55.914Z",
-      "pushedAt": "2026-05-13T05:04:55.914Z"
     }
   ],
-  "updatedAt": "2026-05-14T04:12:14.729Z"
+  "updatedAt": "2026-05-14T07:19:49.408Z"
 }
