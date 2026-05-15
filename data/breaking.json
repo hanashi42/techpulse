@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "85234e05f2954a10",
+      "title": "Oil prices jump after Trump says China agreed to buy U.S. crude following Xi talks",
+      "url": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-05-15T05:08:20.715Z",
+      "pushedAt": "2026-05-15T05:08:20.715Z"
+    },
+    {
       "id": "6009cfdd33d947ad",
       "title": "Explosions heard as mining groups stage antigovernment protest in Bolivia",
       "url": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss",
@@ -180,19 +192,7 @@
       ],
       "firstSeen": "2026-05-14T07:19:49.387Z",
       "pushedAt": "2026-05-14T07:19:49.388Z"
-    },
-    {
-      "id": "0ab060ad318bf6f0",
-      "title": "Watch Live: Trump meets with Chinese leader Xi in Beijing today as trade, tariffs and Taiwan loom over visit - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2xPZS1EbE9Da2lFWDdyYW5CbTVBcDNnWmpHTEFkZGtET0ZsS090Qy1nbnZHd3FkaTZ1ZnBVT0s1NUptU25fYU1wbmR0RzhOdnhDVE84NHZmOVdldWpXd0U1MnlsbTVDZXpCTGMyeXB0TFRNT08wbmN1Y251SW4xalQ1a3JtWHpHUC1tdTk0YlhFWEVGUXBDOW530gGfAUFVX3lxTE1yeDMyaC00SVB1RXBZOWJxWGhXemZSOElJOUF1aEM4czFvUERDV2VaaU1iTnlRZmlYMHNKcmdsNzNkdkJic3M5VjMyY0hzZ2FlRzR6WDZpU1A5S250WGk2TDQydmhxeEFnRDllS2FaVXh5Skh3Qnl2cldYZVRER25jWFVnbTFhc0xhcDhHeG5JbDV2dmJuY0NmblVDcWJHdw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-14T04:12:14.495Z",
-      "pushedAt": "2026-05-14T04:12:14.495Z"
     }
   ],
-  "updatedAt": "2026-05-15T01:27:09.482Z"
+  "updatedAt": "2026-05-15T05:08:20.852Z"
 }
