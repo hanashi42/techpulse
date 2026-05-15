@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "532fa251a639da14",
+      "title": "Morning Bid: Yield surge spoils the equity party - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CRjVBLXVkX1ItMmt4WEFtTW5kdHdfdkZoZlVfeVhKdkZDVW5oSDhxTnkzUGFzNEVBcmxwc2Fsckx2VHNUb1drMUpMUGh5bU1zS19YNGhLQlVkUE43WGxnRUNCc2d6S3YxSXJ5LUpib1QxODZKTXFzVnMybU5oXzg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-05-15T08:13:58.036Z",
+      "pushedAt": "2026-05-15T08:13:58.036Z"
+    },
+    {
+      "id": "054123f67402d125",
+      "title": "European stocks fall as inflation fears return; Starmer faces leadership challenge",
+      "url": "https://www.cnbc.com/2026/05/15/european-stocks-set-to-fall-inflation-fears-return-starmer.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + fall"
+      ],
+      "firstSeen": "2026-05-15T08:13:58.174Z",
+      "pushedAt": "2026-05-15T08:13:58.174Z"
+    },
+    {
+      "id": "e0668055641f38c2",
+      "title": "UK Antitrust Authority Says Launched Investigation Into Microsoft - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZQnFPVGNkWlZucUwyMmtqTDBMX3p2a1BYN0RoOGhZdmNvczlKVXJUV09OUV96a1AzcGZvMG1QSzB3VEJJVnlGMlI0d0Q0TktYZ0twX2VDb2txdU5K?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "antitrust + microsoft"
+      ],
+      "firstSeen": "2026-05-15T08:13:58.275Z",
+      "pushedAt": "2026-05-15T08:13:58.275Z"
+    },
+    {
       "id": "85234e05f2954a10",
       "title": "Oil prices jump after Trump says China agreed to buy U.S. crude following Xi talks",
       "url": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
@@ -156,43 +192,7 @@
       ],
       "firstSeen": "2026-05-14T09:41:36.348Z",
       "pushedAt": "2026-05-14T09:41:36.348Z"
-    },
-    {
-      "id": "803be41dbe47c721",
-      "title": "Soaring inflation and plummeting economy test Iran's ability to withstand war and US blockade - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZWxCcGttSWhmVlgyT1JvZkVJWi1WMDVXOWw3cXpDa3NjRVB6ckNHTUw2SFpaZE5PVXJtSkRNb0t6R0lWR1BHcXZPZThoM1lPektFOXNtSTJiR3FhSXJxSkstYWtmbUkyb21Qdk1hOGNBTlVyRThESkQtbHJxLVJ1bnlGcG5kQWZrUTViQkFZTnhhWW9Y?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + inflation"
-      ],
-      "firstSeen": "2026-05-14T07:19:49.115Z",
-      "pushedAt": "2026-05-14T07:19:49.115Z"
-    },
-    {
-      "id": "1721a8022fffaf60",
-      "title": "Kyiv building collapses after Russian strike, reportedly trapping residents",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/aje-onl-nf_clip-kyiv-building-collapses-after-strike-140526?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "collapses + building"
-      ],
-      "firstSeen": "2026-05-14T07:19:49.352Z",
-      "pushedAt": "2026-05-14T07:19:49.352Z"
-    },
-    {
-      "id": "d8b540f176064fd2",
-      "title": "For Chinese exporters, Iran worries eclipse tariff woes as Trump, Xi prepare to meet",
-      "url": "https://www.cnbc.com/2026/05/13/trump-xi-summit-china-iran-war-tariffs.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-14T07:19:49.387Z",
-      "pushedAt": "2026-05-14T07:19:49.388Z"
     }
   ],
-  "updatedAt": "2026-05-15T05:08:20.852Z"
+  "updatedAt": "2026-05-15T08:13:58.316Z"
 }
