@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4c82728e9bec165a",
+      "title": "Magnitude 6.3 earthquake hits northern Japan, no tsunami warning issued - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOanhqM0loUDcxMDh6ODdRY1FHbVFUazJDcUU3LUtpaW9lV0hYVGZGN09GSkRrSDlYekg4b1ZrajVlbjg0clB3M0d1ZGNqNlRISmhGZVBhY25uRmFBU1RZYlRDQzJRNzlueUhUZVpjN2xCd3pMank3Mm0xU2UxZGx0ajBFRkZOR2Q1SmlrWVBfZkgySHh3VzNLdWNZbkdybUFPZFB4Uy1vYU9hSU9FZk80TjA4T3U1UW5EVnBHcGh6NW5aVkdn?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "tsunami warning"
+      ],
+      "firstSeen": "2026-05-15T14:39:12.137Z",
+      "pushedAt": "2026-05-15T14:39:12.137Z"
+    },
+    {
       "id": "db33af1415dd7d28",
       "title": "Trump says he will soon make decision about sanctions on Chinese companies buying Iranian oil - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BQUdQSGFXTkRmcDM3ZXBwdzRoZ1pVSUhHcDNESG9mMFlGYXdlMlZ5bEE4eUVvYjFRdmUwb29ya1VDMEN5T2w3NXpqVDUzb21naFBudHVHNUlpdm1MdFY1Wk5BWEM0UWk2OC1XeW1XdkRmUDhMX0lxbVBB0gF_QVVfeXFMTkJMT2FOZEtiMHBDVGYweTFSMWpuQkdReGJscFNBUEhxQktTWEJJYmp0SV9Ld092U09aR0lsY2tXLVlhbzFVb3lqZDA2YVQxWXB0dlJFdE51UVo0N19nSmgyYVBndzQtUGdFVlJxVzVBTmx1WW5yNUs5ZlI3M0dLbw?oc=5",
@@ -132,43 +144,7 @@
       ],
       "firstSeen": "2026-05-14T17:20:35.926Z",
       "pushedAt": "2026-05-14T17:20:35.926Z"
-    },
-    {
-      "id": "31cdc7c0e446bdb0",
-      "title": "Ship is reported seized off the coast of the UAE and is heading toward Iran - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnJadUp3aVhpSTJORmhWczF0ZmYydURqbkE3WnlTcmlFd1g1bkdReVh2aUxVRUxLd1hnQmpLcmpwN2Y2NGJhbXdBa1RRUWpOcHdQYXJGMVZLeGIwby1WV09XT3RVbHlHODMyT1RmLXpQWjczbnYzTXBhcEo4bWxYMVpuQWhqeDNtVk5lcWlXdnd4MHZBZTV5aGp5d2RGcHpiZjlF?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "seize + port"
-      ],
-      "firstSeen": "2026-05-14T13:13:24.584Z",
-      "pushedAt": "2026-05-14T13:13:24.584Z"
-    },
-    {
-      "id": "1d625044f092da3a",
-      "title": "US and China seek to repair damage from tariff war that sent trade into a freefall - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVVjejZrTXBEdXRCVDUyWmFNdnNxTXVrMUZ0TnM2ZXlWTlFncnpLZTlQTS1hczV4SmJlTXoxM0VSdjd1NFhubGhmQ1gzWGdBUVlYU2VvbTJjQ3J1MWJxaDRmRWsxUVZaelVXV1BzcWRtc3huUU9MOVdYZWNhTFFOaTF3UHQxdVJOX0tmdmJWUF9IdjNt?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-14T13:13:24.803Z",
-      "pushedAt": "2026-05-14T13:13:24.803Z"
-    },
-    {
-      "id": "b9f97d1edd2afb78",
-      "title": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
-      "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-14T13:13:24.839Z",
-      "pushedAt": "2026-05-14T13:13:24.839Z"
     }
   ],
-  "updatedAt": "2026-05-15T12:19:09.925Z"
+  "updatedAt": "2026-05-15T14:39:12.443Z"
 }
