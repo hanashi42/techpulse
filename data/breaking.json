@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6009cfdd33d947ad",
+      "title": "Explosions heard as mining groups stage antigovernment protest in Bolivia",
+      "url": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + government"
+      ],
+      "firstSeen": "2026-05-15T01:27:09.328Z",
+      "pushedAt": "2026-05-15T01:27:09.328Z"
+    },
+    {
       "id": "42027dd3cadbf3bf",
       "title": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes",
       "url": "https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html",
@@ -180,31 +192,7 @@
       ],
       "firstSeen": "2026-05-14T04:12:14.495Z",
       "pushedAt": "2026-05-14T04:12:14.495Z"
-    },
-    {
-      "id": "794755b2bd8b0f5b",
-      "title": "Funeral held for two Lebanese paramedics killed in Israeli attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/funeral-held-for-two-lebanese-paramedics-killed-in-israeli-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-13T22:04:10.467Z",
-      "pushedAt": "2026-05-13T22:04:10.467Z"
-    },
-    {
-      "id": "6a980aa99efdc71c",
-      "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
-      "url": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-05-13T19:16:15.542Z",
-      "pushedAt": "2026-05-13T19:16:15.542Z"
     }
   ],
-  "updatedAt": "2026-05-14T19:12:01.490Z"
+  "updatedAt": "2026-05-15T01:27:09.482Z"
 }
