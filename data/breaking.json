@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "5ae4d184ea052572",
+      "title": "Man killed in great white shark attack in western Australia",
+      "url": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-16T08:49:19.260Z",
+      "pushedAt": "2026-05-16T08:49:19.260Z"
+    },
+    {
+      "id": "edc88e0a9c9f8447",
+      "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
+      "url": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-05-16T08:49:19.490Z",
+      "pushedAt": "2026-05-16T08:49:19.490Z"
+    },
+    {
+      "id": "85234e05f2954a10",
+      "title": "Oil prices jump after Trump says he is losing patience with Iran",
+      "url": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-05-16T08:49:19.699Z",
+      "pushedAt": "2026-05-16T08:49:19.699Z"
+    },
+    {
       "id": "1732a92bc7fb8c20",
       "title": "Trump says senior IS leader killed by US and Nigerian forces",
       "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
@@ -95,43 +131,7 @@
       ],
       "firstSeen": "2026-05-15T12:19:09.597Z",
       "pushedAt": "2026-05-15T12:19:09.597Z"
-    },
-    {
-      "id": "532fa251a639da14",
-      "title": "Morning Bid: Yield surge spoils the equity party - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CRjVBLXVkX1ItMmt4WEFtTW5kdHdfdkZoZlVfeVhKdkZDVW5oSDhxTnkzUGFzNEVBcmxwc2Fsckx2VHNUb1drMUpMUGh5bU1zS19YNGhLQlVkUE43WGxnRUNCc2d6S3YxSXJ5LUpib1QxODZKTXFzVnMybU5oXzg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-05-15T08:13:58.036Z",
-      "pushedAt": "2026-05-15T08:13:58.036Z"
-    },
-    {
-      "id": "054123f67402d125",
-      "title": "European stocks fall as inflation fears return; Starmer faces leadership challenge",
-      "url": "https://www.cnbc.com/2026/05/15/european-stocks-set-to-fall-inflation-fears-return-starmer.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + fall"
-      ],
-      "firstSeen": "2026-05-15T08:13:58.174Z",
-      "pushedAt": "2026-05-15T08:13:58.174Z"
-    },
-    {
-      "id": "e0668055641f38c2",
-      "title": "UK Antitrust Authority Says Launched Investigation Into Microsoft - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZQnFPVGNkWlZucUwyMmtqTDBMX3p2a1BYN0RoOGhZdmNvczlKVXJUV09OUV96a1AzcGZvMG1QSzB3VEJJVnlGMlI0d0Q0TktYZ0twX2VDb2txdU5K?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "antitrust + microsoft"
-      ],
-      "firstSeen": "2026-05-15T08:13:58.275Z",
-      "pushedAt": "2026-05-15T08:13:58.275Z"
     }
   ],
-  "updatedAt": "2026-05-16T07:00:23.235Z"
+  "updatedAt": "2026-05-16T08:49:19.776Z"
 }
