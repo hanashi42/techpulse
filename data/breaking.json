@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "707c7f9995ea5b64",
+      "title": "China signals tariff cuts, advances in farm market access after Trump-Xi summit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWHFhaW1sdDJhWU1HUVBLOGN3ZU53NEtZYlRYVTI4WldQb0tHdV9YNW1PT0Q0S1RIUFZGRmRadE9wNEU4UGpQMWJuMEU3b1l0M2lvNFJjbm5ybl9vWDNLanItb0N1WnJmcTVKME5icUp1SnZ3X0R6UWxIXzZPRF9tdUN6QlVCcUJNWmRQbUI2QXdGSHVneFBIZ2FPWl9sWkRkSmVXUFRjZ0ZnN3BRelo1N2RESTlKXzdVNTlwWl9FVko?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-16T18:32:32.968Z",
+      "pushedAt": "2026-05-16T18:32:32.968Z"
+    },
+    {
       "id": "d2aa8f451c10751c",
       "title": "Trump says he will soon make a decision about sanctions on Chinese companies buying Iranian oil",
       "url": "https://www.cnbc.com/2026/05/15/trump-china-sanctions-iranian-oil.html",
@@ -133,5 +145,5 @@
       "pushedAt": "2026-05-15T21:36:55.544Z"
     }
   ],
-  "updatedAt": "2026-05-16T17:32:04.175Z"
+  "updatedAt": "2026-05-16T18:32:33.118Z"
 }
