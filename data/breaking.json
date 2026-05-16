@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "34ad565ebe68b567",
+      "title": "US Treasury allows sanctions waiver on Russian seaborne oil to lapse - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamZaWHV2NHRSdmpNelVfS0ZpUU9FdWZZQk9YekV1MTkzYzhTdFU1RmpQQ3U3b29wRnc2ZmVPMF9CRE8yOGtqQ04ySGR0ZHZXVjVBV2hSNnV1ZnhMUTlCNGcyN3Vwd2xlRGo0UGtCR2szWVNiRlgzVFRpb3J4OWVaZ3Bfb1BmSF83YWFnOVpHR3haZ2xvMktacWxEdDFCa0hfX21FdVFCdWY1ZkRUTVhZcGVlVXo?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-16T22:00:54.879Z",
+      "pushedAt": "2026-05-16T22:00:54.879Z"
+    },
+    {
       "id": "707c7f9995ea5b64",
       "title": "China signals tariff cuts, advances in farm market access after Trump-Xi summit - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWHFhaW1sdDJhWU1HUVBLOGN3ZU53NEtZYlRYVTI4WldQb0tHdV9YNW1PT0Q0S1RIUFZGRmRadE9wNEU4UGpQMWJuMEU3b1l0M2lvNFJjbm5ybl9vWDNLanItb0N1WnJmcTVKME5icUp1SnZ3X0R6UWxIXzZPRF9tdUN6QlVCcUJNWmRQbUI2QXdGSHVneFBIZ2FPWl9sWkRkSmVXUFRjZ0ZnN3BRelo1N2RESTlKXzdVNTlwWl9FVko?oc=5",
@@ -119,31 +131,7 @@
       ],
       "firstSeen": "2026-05-15T23:30:25.680Z",
       "pushedAt": "2026-05-15T23:30:25.680Z"
-    },
-    {
-      "id": "302e048662272d38",
-      "title": "Trump and Xi dialed down the trade war, but challenges lurk at their China summit - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOG1BR1hJeWxkbHZndVlGMUdoODROcXdYRnpJbEl3Z280LWtmLW00UGxmZ2o1ZmtHVFFGeWdBZEJuWjNjd1pjbkxNX21TcXQ3NnQ0bXpaVElGVWo3aXFGU1lNTWlRa2tGV1JTRkZRVGVIM3VsV203QXRYMGFiSjB0NVFGZjF2U2VPNFJJTmhJN2hWdnJXNlhUM015TQ?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "trade war + china"
-      ],
-      "firstSeen": "2026-05-15T21:36:55.315Z",
-      "pushedAt": "2026-05-15T21:36:55.315Z"
-    },
-    {
-      "id": "bd9c44575f323914",
-      "title": "Cuba hit by protests, blackouts amid oil shortage",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cuba-hit-by-protests-blackouts-amid-oil-shortage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + oil"
-      ],
-      "firstSeen": "2026-05-15T21:36:55.544Z",
-      "pushedAt": "2026-05-15T21:36:55.544Z"
     }
   ],
-  "updatedAt": "2026-05-16T18:32:33.118Z"
+  "updatedAt": "2026-05-16T22:00:55.030Z"
 }
