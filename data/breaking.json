@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "0d45e881afb3ea97",
+      "title": "Consumers sue Amazon for not refunding Trump tariff costs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnpNVXNzMjFDUzMxdVZDZENSSm9HQVhTQUhDOFl3eFRvZV82akpVZUYwYVlFTjE0SUVOc3lfb3hmWTJ1OXJSaGlKU2RueE0xaHg1clVwTkIwRTZsZnBPeS1BNWFxdVRnd21meFVlSjJENnB0YWJBX2RQRnJITjRFMEVvNFBJR19PYTdUcUtRUXFFTnNjYTl4ejl3Y0x2b2JSelNTOVBpY3lYTm5vbHYyXzVsX3E?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-16T04:38:54.085Z",
+      "pushedAt": "2026-05-16T04:38:54.085Z"
+    },
+    {
+      "id": "ee78d41f68fbf4a8",
+      "title": "Israel launches deadly air strikes on Gaza City apartment building",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "air strikes on"
+      ],
+      "firstSeen": "2026-05-16T04:38:54.213Z",
+      "pushedAt": "2026-05-16T04:38:54.213Z"
+    },
+    {
       "id": "4cdf223cc52ede94",
       "title": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHB3YU1ZM0pxbTBzYU5KM2VvTnJYcThXUVFnNXdCYjBOWUtlNFhPUjYxQVUweFp3SVlyRGNNMW9vUTlsR3BtLVk1TXhNNnRsZnhCYXZnNWhTQXJkZHRIZnJscHlpdG11UnFyblFlNWtSVzZlbmg3Nk9peWx0WmpKT0c4aEpUUjM0WlpmbEZ2TUg?oc=5",
@@ -107,19 +131,7 @@
       ],
       "firstSeen": "2026-05-15T05:08:20.715Z",
       "pushedAt": "2026-05-15T05:08:20.715Z"
-    },
-    {
-      "id": "6009cfdd33d947ad",
-      "title": "Explosions heard as mining groups stage antigovernment protest in Bolivia",
-      "url": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + government"
-      ],
-      "firstSeen": "2026-05-15T01:27:09.328Z",
-      "pushedAt": "2026-05-15T01:27:09.328Z"
     }
   ],
-  "updatedAt": "2026-05-15T23:30:25.788Z"
+  "updatedAt": "2026-05-16T04:38:54.256Z"
 }
