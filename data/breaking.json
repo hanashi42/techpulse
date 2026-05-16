@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2fe792d901c2bbf0",
+      "title": "Stock markets worldwide drop from records as worries about oil prices rattle the bond market - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa1BOUzJhU0pMVUs2bUVZTTY4SkEtbXhBZ0VUcWtrMEdSb1RZNjhncXk0b0ZMNnVUM3lZbm1yaVVvWGVic0g3QUlldEtQVnh6anFYdml4eWJ5VFJqenJ5cldxYkJZMTN3T0lwblZGWk1GZUFucmF2QWl1bDNPUGM0Rmo3TUNIUlNMZWVjTXdCUUxEb3NfWVlYaw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + record"
+      ],
+      "firstSeen": "2026-05-16T16:33:42.311Z",
+      "pushedAt": "2026-05-16T16:33:42.311Z"
+    },
+    {
       "id": "5ae4d184ea052572",
       "title": "Man killed in great white shark attack in western Australia",
       "url": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss",
@@ -107,31 +119,7 @@
       ],
       "firstSeen": "2026-05-15T21:36:55.544Z",
       "pushedAt": "2026-05-15T21:36:55.544Z"
-    },
-    {
-      "id": "4c82728e9bec165a",
-      "title": "Magnitude 6.3 earthquake hits northern Japan, no tsunami warning issued - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOanhqM0loUDcxMDh6ODdRY1FHbVFUazJDcUU3LUtpaW9lV0hYVGZGN09GSkRrSDlYekg4b1ZrajVlbjg0clB3M0d1ZGNqNlRISmhGZVBhY25uRmFBU1RZYlRDQzJRNzlueUhUZVpjN2xCd3pMank3Mm0xU2UxZGx0ajBFRkZOR2Q1SmlrWVBfZkgySHh3VzNLdWNZbkdybUFPZFB4Uy1vYU9hSU9FZk80TjA4T3U1UW5EVnBHcGh6NW5aVkdn?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "tsunami warning"
-      ],
-      "firstSeen": "2026-05-15T14:39:12.137Z",
-      "pushedAt": "2026-05-15T14:39:12.137Z"
-    },
-    {
-      "id": "db33af1415dd7d28",
-      "title": "Trump says he will soon make decision about sanctions on Chinese companies buying Iranian oil - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BQUdQSGFXTkRmcDM3ZXBwdzRoZ1pVSUhHcDNESG9mMFlGYXdlMlZ5bEE4eUVvYjFRdmUwb29ya1VDMEN5T2w3NXpqVDUzb21naFBudHVHNUlpdm1MdFY1Wk5BWEM0UWk2OC1XeW1XdkRmUDhMX0lxbVBB0gF_QVVfeXFMTkJMT2FOZEtiMHBDVGYweTFSMWpuQkdReGJscFNBUEhxQktTWEJJYmp0SV9Ld092U09aR0lsY2tXLVlhbzFVb3lqZDA2YVQxWXB0dlJFdE51UVo0N19nSmgyYVBndzQtUGdFVlJxVzVBTmx1WW5yNUs5ZlI3M0dLbw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-05-15T12:19:09.597Z",
-      "pushedAt": "2026-05-15T12:19:09.597Z"
     }
   ],
-  "updatedAt": "2026-05-16T08:49:19.776Z"
+  "updatedAt": "2026-05-16T16:33:42.552Z"
 }
