@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d2aa8f451c10751c",
+      "title": "Trump says he will soon make a decision about sanctions on Chinese companies buying Iranian oil",
+      "url": "https://www.cnbc.com/2026/05/15/trump-china-sanctions-iranian-oil.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-16T17:32:03.911Z",
+      "pushedAt": "2026-05-16T17:32:03.911Z"
+    },
+    {
       "id": "2fe792d901c2bbf0",
       "title": "Stock markets worldwide drop from records as worries about oil prices rattle the bond market - AP News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa1BOUzJhU0pMVUs2bUVZTTY4SkEtbXhBZ0VUcWtrMEdSb1RZNjhncXk0b0ZMNnVUM3lZbm1yaVVvWGVic0g3QUlldEtQVnh6anFYdml4eWJ5VFJqenJ5cldxYkJZMTN3T0lwblZGWk1GZUFucmF2QWl1bDNPUGM0Rmo3TUNIUlNMZWVjTXdCUUxEb3NfWVlYaw?oc=5",
@@ -121,5 +133,5 @@
       "pushedAt": "2026-05-15T21:36:55.544Z"
     }
   ],
-  "updatedAt": "2026-05-16T16:33:42.552Z"
+  "updatedAt": "2026-05-16T17:32:04.175Z"
 }
