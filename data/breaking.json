@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "67b75e32df20016e",
+      "title": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-05-17T07:41:44.717Z",
+      "pushedAt": "2026-05-17T07:41:44.717Z"
+    },
+    {
+      "id": "2f5a4a65d608302f",
+      "title": "Global oil stockpiles could hit record lows if Strait of Hormuz remains closed",
+      "url": "https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + closed",
+        "record low + stock"
+      ],
+      "firstSeen": "2026-05-17T07:41:44.845Z",
+      "pushedAt": "2026-05-17T07:41:44.845Z"
+    },
+    {
       "id": "34ad565ebe68b567",
       "title": "US Treasury allows sanctions waiver on Russian seaborne oil to lapse - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamZaWHV2NHRSdmpNelVfS0ZpUU9FdWZZQk9YekV1MTkzYzhTdFU1RmpQQ3U3b29wRnc2ZmVPMF9CRE8yOGtqQ04ySGR0ZHZXVjVBV2hSNnV1ZnhMUTlCNGcyN3Vwd2xlRGo0UGtCR2szWVNiRlgzVFRpb3J4OWVaZ3Bfb1BmSF83YWFnOVpHR3haZ2xvMktacWxEdDFCa0hfX21FdVFCdWY1ZkRUTVhZcGVlVXo?oc=5",
@@ -83,55 +108,7 @@
       ],
       "firstSeen": "2026-05-16T08:49:19.699Z",
       "pushedAt": "2026-05-16T08:49:19.699Z"
-    },
-    {
-      "id": "1732a92bc7fb8c20",
-      "title": "Trump says senior IS leader killed by US and Nigerian forces",
-      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "leader killed"
-      ],
-      "firstSeen": "2026-05-16T07:00:22.960Z",
-      "pushedAt": "2026-05-16T07:00:22.960Z"
-    },
-    {
-      "id": "0d45e881afb3ea97",
-      "title": "Consumers sue Amazon for not refunding Trump tariff costs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnpNVXNzMjFDUzMxdVZDZENSSm9HQVhTQUhDOFl3eFRvZV82akpVZUYwYVlFTjE0SUVOc3lfb3hmWTJ1OXJSaGlKU2RueE0xaHg1clVwTkIwRTZsZnBPeS1BNWFxdVRnd21meFVlSjJENnB0YWJBX2RQRnJITjRFMEVvNFBJR19PYTdUcUtRUXFFTnNjYTl4ejl3Y0x2b2JSelNTOVBpY3lYTm5vbHYyXzVsX3E?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-16T04:38:54.085Z",
-      "pushedAt": "2026-05-16T04:38:54.085Z"
-    },
-    {
-      "id": "ee78d41f68fbf4a8",
-      "title": "Israel launches deadly air strikes on Gaza City apartment building",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "air strikes on"
-      ],
-      "firstSeen": "2026-05-16T04:38:54.213Z",
-      "pushedAt": "2026-05-16T04:38:54.213Z"
-    },
-    {
-      "id": "4cdf223cc52ede94",
-      "title": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHB3YU1ZM0pxbTBzYU5KM2VvTnJYcThXUVFnNXdCYjBOWUtlNFhPUjYxQVUweFp3SVlyRGNNMW9vUTlsR3BtLVk1TXhNNnRsZnhCYXZnNWhTQXJkZHRIZnJscHlpdG11UnFyblFlNWtSVzZlbmg3Nk9peWx0WmpKT0c4aEpUUjM0WlpmbEZ2TUg?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-15T23:30:25.680Z",
-      "pushedAt": "2026-05-15T23:30:25.680Z"
     }
   ],
-  "updatedAt": "2026-05-16T22:00:55.030Z"
+  "updatedAt": "2026-05-17T07:41:44.945Z"
 }
