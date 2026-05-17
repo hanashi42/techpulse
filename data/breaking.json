@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "1732a92bc7fb8c20",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "leader killed"
+      ],
+      "firstSeen": "2026-05-17T09:22:47.199Z",
+      "pushedAt": "2026-05-17T09:22:47.199Z"
+    },
+    {
+      "id": "a362ef058b83bc55",
+      "title": "At least four killed in Ukrainian drone attacks on Russia",
+      "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-17T09:22:47.303Z",
+      "pushedAt": "2026-05-17T09:22:47.303Z"
+    },
+    {
+      "id": "51d9cdea0e6512ac",
+      "title": "China Indicates Tariffs Were Discussed at Trump Summit - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVp3d1V2OVdGMF9TbDJ2aVN6Zk5YUFBJUDlRZ2VpdklQZF9WVjh4SmJxcnRTQldqb0tfbmJ4QTkxM2FtUU9udzlwYXBUUEpZdGcyU2w3QjlqMEo4RWlhVzcwaFdycmh5dWlFdE1jcjI0Q0NiSzBVUGdJRGtzUkJZV0xvZFI4aGJ2eHlJ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-17T09:22:47.338Z",
+      "pushedAt": "2026-05-17T09:22:47.338Z"
+    },
+    {
       "id": "67b75e32df20016e",
       "title": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
       "url": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss",
@@ -72,43 +108,7 @@
       ],
       "firstSeen": "2026-05-16T16:33:42.311Z",
       "pushedAt": "2026-05-16T16:33:42.311Z"
-    },
-    {
-      "id": "5ae4d184ea052572",
-      "title": "Man killed in great white shark attack in western Australia",
-      "url": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-16T08:49:19.260Z",
-      "pushedAt": "2026-05-16T08:49:19.260Z"
-    },
-    {
-      "id": "edc88e0a9c9f8447",
-      "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
-      "url": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-05-16T08:49:19.490Z",
-      "pushedAt": "2026-05-16T08:49:19.490Z"
-    },
-    {
-      "id": "85234e05f2954a10",
-      "title": "Oil prices jump after Trump says he is losing patience with Iran",
-      "url": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-05-16T08:49:19.699Z",
-      "pushedAt": "2026-05-16T08:49:19.699Z"
     }
   ],
-  "updatedAt": "2026-05-17T07:41:44.945Z"
+  "updatedAt": "2026-05-17T09:22:47.355Z"
 }
