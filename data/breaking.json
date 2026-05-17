@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2f6fd628045e3f0b",
+      "title": "Ten killed in armed attack in Mexico's Puebla state - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ01ablVhV2ZRNTY3SlJ6MjdEU3l2djVzUVQ3NzBGZFl5NnAwS0lfMlFjcE1SS2ZNMlJNbFlWcThVd2lPalRjbV9YQ2ZVNG4tMkQ5MkI5MjRnTTFCWkpsWEQ0eEZZVVNpSWF3MUxqWjJ4dGJaMFo4MWZtcGNfelZpNmVFTFJJdXlrd2FmQkhrQ3JzUzhzZV9aZTlYZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-17T19:33:01.427Z",
+      "pushedAt": "2026-05-17T19:33:01.427Z"
+    },
+    {
       "id": "edc88e0a9c9f8447",
       "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
       "url": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
@@ -108,43 +120,7 @@
       ],
       "firstSeen": "2026-05-16T22:00:54.879Z",
       "pushedAt": "2026-05-16T22:00:54.879Z"
-    },
-    {
-      "id": "707c7f9995ea5b64",
-      "title": "China signals tariff cuts, advances in farm market access after Trump-Xi summit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWHFhaW1sdDJhWU1HUVBLOGN3ZU53NEtZYlRYVTI4WldQb0tHdV9YNW1PT0Q0S1RIUFZGRmRadE9wNEU4UGpQMWJuMEU3b1l0M2lvNFJjbm5ybl9vWDNLanItb0N1WnJmcTVKME5icUp1SnZ3X0R6UWxIXzZPRF9tdUN6QlVCcUJNWmRQbUI2QXdGSHVneFBIZ2FPWl9sWkRkSmVXUFRjZ0ZnN3BRelo1N2RESTlKXzdVNTlwWl9FVko?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-05-16T18:32:32.968Z",
-      "pushedAt": "2026-05-16T18:32:32.968Z"
-    },
-    {
-      "id": "d2aa8f451c10751c",
-      "title": "Trump says he will soon make a decision about sanctions on Chinese companies buying Iranian oil",
-      "url": "https://www.cnbc.com/2026/05/15/trump-china-sanctions-iranian-oil.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-05-16T17:32:03.911Z",
-      "pushedAt": "2026-05-16T17:32:03.911Z"
-    },
-    {
-      "id": "2fe792d901c2bbf0",
-      "title": "Stock markets worldwide drop from records as worries about oil prices rattle the bond market - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa1BOUzJhU0pMVUs2bUVZTTY4SkEtbXhBZ0VUcWtrMEdSb1RZNjhncXk0b0ZMNnVUM3lZbm1yaVVvWGVic0g3QUlldEtQVnh6anFYdml4eWJ5VFJqenJ5cldxYkJZMTN3T0lwblZGWk1GZUFucmF2QWl1bDNPUGM0Rmo3TUNIUlNMZWVjTXdCUUxEb3NfWVlYaw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + record"
-      ],
-      "firstSeen": "2026-05-16T16:33:42.311Z",
-      "pushedAt": "2026-05-16T16:33:42.311Z"
     }
   ],
-  "updatedAt": "2026-05-17T10:44:29.554Z"
+  "updatedAt": "2026-05-17T19:33:01.803Z"
 }
