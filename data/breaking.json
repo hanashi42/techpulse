@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "edc88e0a9c9f8447",
+      "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
+      "url": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-05-17T10:44:29.273Z",
+      "pushedAt": "2026-05-17T10:44:29.273Z"
+    },
+    {
+      "id": "85234e05f2954a10",
+      "title": "Oil prices jump after Trump says he is losing patience with Iran",
+      "url": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-05-17T10:44:29.413Z",
+      "pushedAt": "2026-05-17T10:44:29.413Z"
+    },
+    {
+      "id": "c87776129ee7c15e",
+      "title": "China says preliminary agreement reached with US to lower some tariffs - politico.eu",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTU9XdnJrY1VqamExWGpTOTNveVVRN0x5ZVdxSWZrZVlENDRlNDllN0Fsa3BDYThXZ1RmaDhfZ3ktQnRxekIwbXlQRThJbGpKcHh3bXRiYV9VbDZCOGsybDhaSk5tNzBSRGxQSkRVX3JLYXVRMjdJY2lVUHVjT2RudjY2eEV2bnd0Y3BmSjJGVk15V1FUd2kxT2ZFcTVpVEt5YjZmeXpVOUR0a1df?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-17T10:44:29.518Z",
+      "pushedAt": "2026-05-17T10:44:29.518Z"
+    },
+    {
       "id": "1732a92bc7fb8c20",
       "title": "Senior IS leader killed in joint operation, US and Nigeria say",
       "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
@@ -110,5 +146,5 @@
       "pushedAt": "2026-05-16T16:33:42.311Z"
     }
   ],
-  "updatedAt": "2026-05-17T09:22:47.355Z"
+  "updatedAt": "2026-05-17T10:44:29.554Z"
 }
