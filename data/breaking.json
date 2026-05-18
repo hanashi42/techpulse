@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4c50e1d3bcb15cba",
+      "title": "U.S. Treasury Secretary Bessent: will call on G7 to follow sanctions regime on Iran - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmQyb1VFMWl5dUZNaFkyS2dlTnVKcndqVVdLRGZKV3htS21pSGo4bE5aMFhhcXZxRTR5dVZuSzVOQWRHSGZVQ05QbUVScGpMZnBJcThRMjItbUJiMXBjOWhjdmNrQzJMZ0VWMWRReVNjdnkwaUpvXzZJSEJIcG1LQ1hGNDlmT3dpa1RaTHdKZi1jM1lqTzZ0M1ozQThZQ2RaaFktVjdGUUJ4akVKdHlwXzNPY3BuelhtaWlr?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-05-18T08:28:53.269Z",
+      "pushedAt": "2026-05-18T08:28:53.269Z"
+    },
+    {
+      "id": "c7cbdcf7d0907cce",
+      "title": "Treasury yields rise amid global bond rout as inflation fears grip investors",
+      "url": "https://www.cnbc.com/2026/05/18/treasury-yields-inflation-bond-rout-oil.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + rise"
+      ],
+      "firstSeen": "2026-05-18T08:28:53.516Z",
+      "pushedAt": "2026-05-18T08:28:53.516Z"
+    },
+    {
       "id": "27a3d7e518ff262e",
       "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
       "url": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
@@ -95,32 +119,7 @@
       ],
       "firstSeen": "2026-05-17T09:22:47.338Z",
       "pushedAt": "2026-05-17T09:22:47.338Z"
-    },
-    {
-      "id": "67b75e32df20016e",
-      "title": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-05-17T07:41:44.717Z",
-      "pushedAt": "2026-05-17T07:41:44.717Z"
-    },
-    {
-      "id": "2f5a4a65d608302f",
-      "title": "Global oil stockpiles could hit record lows if Strait of Hormuz remains closed",
-      "url": "https://www.cnbc.com/2026/05/16/oil-inventory-stockpile-iran-war-strait-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + closed",
-        "record low + stock"
-      ],
-      "firstSeen": "2026-05-17T07:41:44.845Z",
-      "pushedAt": "2026-05-17T07:41:44.845Z"
     }
   ],
-  "updatedAt": "2026-05-18T04:25:02.439Z"
+  "updatedAt": "2026-05-18T08:28:53.554Z"
 }
