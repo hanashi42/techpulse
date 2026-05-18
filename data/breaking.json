@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "5cca00358d54d480",
+      "title": "Video: US calls on G7 to impose US-led sanctions on Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-05-18T11:58:30.243Z",
+      "pushedAt": "2026-05-18T11:58:30.243Z"
+    },
+    {
+      "id": "47699a8edaed4b6e",
+      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + blocked"
+      ],
+      "firstSeen": "2026-05-18T11:58:30.524Z",
+      "pushedAt": "2026-05-18T11:58:30.524Z"
+    },
+    {
+      "id": "7003159eef79226b",
+      "title": "US Lets Waiver On Russian Oil Sanctions Lapse - bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82a1RRZU5UVmtBSDF2em8zWGVJa0hKelpQbDJKTHlwVXFKd0VCLUltdmtQT3JzRUpTNmh0UENMZWF1MDdqbEtGRVhYRm9hc21YNG5OSw?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-18T11:58:30.764Z",
+      "pushedAt": "2026-05-18T11:58:30.764Z"
+    },
+    {
       "id": "4c50e1d3bcb15cba",
       "title": "U.S. Treasury Secretary Bessent: will call on G7 to follow sanctions regime on Iran - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmQyb1VFMWl5dUZNaFkyS2dlTnVKcndqVVdLRGZKV3htS21pSGo4bE5aMFhhcXZxRTR5dVZuSzVOQWRHSGZVQ05QbUVScGpMZnBJcThRMjItbUJiMXBjOWhjdmNrQzJMZ0VWMWRReVNjdnkwaUpvXzZJSEJIcG1LQ1hGNDlmT3dpa1RaTHdKZi1jM1lqTzZ0M1ozQThZQ2RaaFktVjdGUUJ4akVKdHlwXzNPY3BuelhtaWlr?oc=5",
@@ -47,79 +83,7 @@
       ],
       "firstSeen": "2026-05-17T19:33:01.427Z",
       "pushedAt": "2026-05-17T19:33:01.427Z"
-    },
-    {
-      "id": "edc88e0a9c9f8447",
-      "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
-      "url": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-05-17T10:44:29.273Z",
-      "pushedAt": "2026-05-17T10:44:29.273Z"
-    },
-    {
-      "id": "85234e05f2954a10",
-      "title": "Oil prices jump after Trump says he is losing patience with Iran",
-      "url": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-05-17T10:44:29.413Z",
-      "pushedAt": "2026-05-17T10:44:29.413Z"
-    },
-    {
-      "id": "c87776129ee7c15e",
-      "title": "China says preliminary agreement reached with US to lower some tariffs - politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTU9XdnJrY1VqamExWGpTOTNveVVRN0x5ZVdxSWZrZVlENDRlNDllN0Fsa3BDYThXZ1RmaDhfZ3ktQnRxekIwbXlQRThJbGpKcHh3bXRiYV9VbDZCOGsybDhaSk5tNzBSRGxQSkRVX3JLYXVRMjdJY2lVUHVjT2RudjY2eEV2bnd0Y3BmSjJGVk15V1FUd2kxT2ZFcTVpVEt5YjZmeXpVOUR0a1df?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-05-17T10:44:29.518Z",
-      "pushedAt": "2026-05-17T10:44:29.518Z"
-    },
-    {
-      "id": "1732a92bc7fb8c20",
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "leader killed"
-      ],
-      "firstSeen": "2026-05-17T09:22:47.199Z",
-      "pushedAt": "2026-05-17T09:22:47.199Z"
-    },
-    {
-      "id": "a362ef058b83bc55",
-      "title": "At least four killed in Ukrainian drone attacks on Russia",
-      "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-17T09:22:47.303Z",
-      "pushedAt": "2026-05-17T09:22:47.303Z"
-    },
-    {
-      "id": "51d9cdea0e6512ac",
-      "title": "China Indicates Tariffs Were Discussed at Trump Summit - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVp3d1V2OVdGMF9TbDJ2aVN6Zk5YUFBJUDlRZ2VpdklQZF9WVjh4SmJxcnRTQldqb0tfbmJ4QTkxM2FtUU9udzlwYXBUUEpZdGcyU2w3QjlqMEo4RWlhVzcwaFdycmh5dWlFdE1jcjI0Q0NiSzBVUGdJRGtzUkJZV0xvZFI4aGJ2eHlJ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-17T09:22:47.338Z",
-      "pushedAt": "2026-05-17T09:22:47.338Z"
     }
   ],
-  "updatedAt": "2026-05-18T08:28:53.554Z"
+  "updatedAt": "2026-05-18T11:58:30.844Z"
 }
