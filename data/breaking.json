@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8c9992b925fd7a48",
+      "title": "Exclusive: Meta lays out plans for May 20 layoffs, restructuring, internal document says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU9uWEUtam15N0pKQzdxSGZBOGVhZG84V3BETV9USHJsSjhmSThFSE5Cd3FfeGMzeUZneWxyemRqNjF4Sjc4clRPeDdMUzBud19OYzBnWENaLVQwRnBiNUZTYUlNU01qd1NYdFNqZk5MZW1QTXRCdWwxLTdndTdyTm1lR2dCRmtrYl9ybEVacXV4dDRhQ1kwcUdqeXBxeEkwYVNKWjJlSkRMWVBscnhpQndJUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + meta"
+      ],
+      "firstSeen": "2026-05-18T20:44:58.148Z",
+      "pushedAt": "2026-05-18T20:44:58.148Z"
+    },
+    {
+      "id": "39c9badb0314f30f",
+      "title": "Thailand Restricts Palm Oil Exports Amid Rising Biodiesel Demand - bernama",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iMEVkLXRvdm0tVkdha3ViUW44XzVXLThMbGZHY1Y0WHZZTWFlZzdEbWlnWmNQa3E0dVc1SzJRLUhZdzZrMG1yUVVFUXphRXU1cXE3c0FwUTRsQWd5?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + export"
+      ],
+      "firstSeen": "2026-05-18T20:44:58.439Z",
+      "pushedAt": "2026-05-18T20:44:58.439Z"
+    },
+    {
       "id": "983fe8343f9e4a57",
       "title": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
       "url": "https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties",
@@ -132,19 +156,7 @@
       ],
       "firstSeen": "2026-05-18T04:25:01.845Z",
       "pushedAt": "2026-05-18T04:25:01.845Z"
-    },
-    {
-      "id": "2f6fd628045e3f0b",
-      "title": "Ten killed in armed attack in Mexico's Puebla state - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ01ablVhV2ZRNTY3SlJ6MjdEU3l2djVzUVQ3NzBGZFl5NnAwS0lfMlFjcE1SS2ZNMlJNbFlWcThVd2lPalRjbV9YQ2ZVNG4tMkQ5MkI5MjRnTTFCWkpsWEQ0eEZZVVNpSWF3MUxqWjJ4dGJaMFo4MWZtcGNfelZpNmVFTFJJdXlrd2FmQkhrQ3JzUzhzZV9aZTlYZw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-17T19:33:01.427Z",
-      "pushedAt": "2026-05-17T19:33:01.427Z"
     }
   ],
-  "updatedAt": "2026-05-18T17:38:19.906Z"
+  "updatedAt": "2026-05-18T20:44:58.682Z"
 }
