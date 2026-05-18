@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "983fe8343f9e4a57",
+      "title": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
+      "url": "https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender"
+      ],
+      "firstSeen": "2026-05-18T17:38:19.633Z",
+      "pushedAt": "2026-05-18T17:38:19.633Z"
+    },
+    {
+      "id": "a03b4e80200f4d63",
+      "title": "Ringgit Opens Marginally Lower As US Policy Repricing Lifts DXY - bernama",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZUV5dWpzYkk2eDBpYVlnSjQwSllVd3IxYVo1MWRPTlJiOWc0TWxTUlRwOVd2WG5jM3VmSW12UksyMEt0SUItYjZyajVmLUk2NTZmUWhHNi05bHhk?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "ringgit + low",
+        "ringgit + low"
+      ],
+      "firstSeen": "2026-05-18T17:38:19.815Z",
+      "pushedAt": "2026-05-18T17:38:19.815Z"
+    },
+    {
       "id": "c72511b396523b42",
       "title": "Swatch's Royal Pop launch triggers consumer frenzy as resale prices soar - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1FSYk42QXluMzRZMHdPTzI2RkRPN3ZGaEdBUFVORURodE5uMVVuVWtVN2NZbUlVc29TUWdfRTVNX2VGamZYV3Nfc0ZPUXdRNFpONEVBODNZbmp4OTJOaGZNQTkybnc0c2pDSk5UeWk3aVVsd2gzOEExU0I5Wld2emhSY2ZzRE5lcTIybjhyMnVLVHhESVAyRDA3Wm1FUk81X05qcms5eURBVFFDREtJaTdKMA?oc=5",
@@ -121,5 +146,5 @@
       "pushedAt": "2026-05-17T19:33:01.427Z"
     }
   ],
-  "updatedAt": "2026-05-18T15:25:54.901Z"
+  "updatedAt": "2026-05-18T17:38:19.906Z"
 }
