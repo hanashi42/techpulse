@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "c72511b396523b42",
+      "title": "Swatch's Royal Pop launch triggers consumer frenzy as resale prices soar - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1FSYk42QXluMzRZMHdPTzI2RkRPN3ZGaEdBUFVORURodE5uMVVuVWtVN2NZbUlVc29TUWdfRTVNX2VGamZYV3Nfc0ZPUXdRNFpONEVBODNZbmp4OTJOaGZNQTkybnc0c2pDSk5UeWk3aVVsd2gzOEExU0I5Wld2emhSY2ZzRE5lcTIybjhyMnVLVHhESVAyRDA3Wm1FUk81X05qcms5eURBVFFDREtJaTdKMA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-05-18T15:25:53.554Z",
+      "pushedAt": "2026-05-18T15:25:53.554Z"
+    },
+    {
+      "id": "f7a489f14d844242",
+      "title": "How India's cooking fuel shortage is driving up California's gas prices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2JPV2FLNlhPcFNBT2paTkJRNUQyRnJMTldzR0tlSUM4ZWljNGZRNkpjQjhXNGEwNHFUT1BJcUZRVFFWbUNkY2ZaVjVfQkhXRUFEY1ZnenIyNFJ2VnFpam5Sc1dBWGRjNTZhZHotaEVqYXkxNDlxTmR0Z1RFWmFaekxqa0F4NGRXTUp6c0U2T2UtU3ZzVDJCSUhSUnI1LTQ2MU9pTUU0TklaM29vdzFIem8zOEdYNC1BZ2s2U29R?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + gas"
+      ],
+      "firstSeen": "2026-05-18T15:25:54.538Z",
+      "pushedAt": "2026-05-18T15:25:54.538Z"
+    },
+    {
+      "id": "106a27a1dca3db55",
+      "title": "Indian worker among four killed as Ukraine launches largest drone attack on Moscow in over a year",
+      "url": "https://news.sky.com/story/four-killed-in-russia-as-ukraine-launches-largest-drone-attack-on-moscow-in-over-a-year-13544979",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-18T15:25:54.809Z",
+      "pushedAt": "2026-05-18T15:25:54.809Z"
+    },
+    {
       "id": "5cca00358d54d480",
       "title": "Video: US calls on G7 to impose US-led sanctions on Iran",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
@@ -85,5 +121,5 @@
       "pushedAt": "2026-05-17T19:33:01.427Z"
     }
   ],
-  "updatedAt": "2026-05-18T11:58:30.844Z"
+  "updatedAt": "2026-05-18T15:25:54.901Z"
 }
