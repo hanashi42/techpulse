@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "27a3d7e518ff262e",
+      "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
+      "url": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-18T04:25:01.845Z",
+      "pushedAt": "2026-05-18T04:25:01.845Z"
+    },
+    {
       "id": "2f6fd628045e3f0b",
       "title": "Ten killed in armed attack in Mexico's Puebla state - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ01ablVhV2ZRNTY3SlJ6MjdEU3l2djVzUVQ3NzBGZFl5NnAwS0lfMlFjcE1SS2ZNMlJNbFlWcThVd2lPalRjbV9YQ2ZVNG4tMkQ5MkI5MjRnTTFCWkpsWEQ0eEZZVVNpSWF3MUxqWjJ4dGJaMFo4MWZtcGNfelZpNmVFTFJJdXlrd2FmQkhrQ3JzUzhzZV9aZTlYZw?oc=5",
@@ -108,19 +120,7 @@
       ],
       "firstSeen": "2026-05-17T07:41:44.845Z",
       "pushedAt": "2026-05-17T07:41:44.845Z"
-    },
-    {
-      "id": "34ad565ebe68b567",
-      "title": "US Treasury allows sanctions waiver on Russian seaborne oil to lapse - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamZaWHV2NHRSdmpNelVfS0ZpUU9FdWZZQk9YekV1MTkzYzhTdFU1RmpQQ3U3b29wRnc2ZmVPMF9CRE8yOGtqQ04ySGR0ZHZXVjVBV2hSNnV1ZnhMUTlCNGcyN3Vwd2xlRGo0UGtCR2szWVNiRlgzVFRpb3J4OWVaZ3Bfb1BmSF83YWFnOVpHR3haZ2xvMktacWxEdDFCa0hfX21FdVFCdWY1ZkRUTVhZcGVlVXo?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-05-16T22:00:54.879Z",
-      "pushedAt": "2026-05-16T22:00:54.879Z"
     }
   ],
-  "updatedAt": "2026-05-17T19:33:01.803Z"
+  "updatedAt": "2026-05-18T04:25:02.439Z"
 }
