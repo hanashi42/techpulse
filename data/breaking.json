@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "332ae813f438d4fe",
+      "title": "US imposes fresh sanctions on Iranian exchange house, shadow fleet vessels - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjdKRVFXWDIyLW5QbzBMV0JPQlFXUEM1T2x2Y01BWUtMQjZZTS1VQTY1OHBWRVdtbDM1ck9kbjBCeUhNYmFfRGdfV1dhdEdra25CNlBjZmQwWDZESEJFU2w1dmRaWGRDZ1RGWEFUNFF6djl3MlBJWXc2aVVjVFYwYkNzNnlPRG9sVFhuRWJPRFc5OWVXWHFWRjRhMjNiSXY5aS1vTk5qTVdyTkJWX18yWEMwTk5OSDVSMC1JLTgySTc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-05-19T19:17:22.459Z",
+      "pushedAt": "2026-05-19T19:17:22.459Z"
+    },
+    {
+      "id": "47699a8edaed4b6e",
+      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + blocked"
+      ],
+      "firstSeen": "2026-05-19T19:17:22.600Z",
+      "pushedAt": "2026-05-19T19:17:22.600Z"
+    },
+    {
       "id": "2304fe3d64e13b0f",
       "title": "Ukrainian drone shot down by NATO jet over Estonia; Kyiv blames Moscow for steering it there - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVpRU1U1LWYwZXhlWWRjMFMyNERpSXNicjQ1VFE4bzJNdjJHZ2x1T0RlYzVQWWQ2RERQazRRVGl0NDFYZ3hDeHBtWFU5NUZjcjRGR3I4eXRYX1FqNldNUFl6RGhNMFpjVllOaXczY05xRTVKOGZlUlFrT0N1cUhreGh0VDQzRUtkWjZrdTU1c2JKMjhIYXFCRlozRTA1SWVQM0ZCc2o1djJIRVh6V2tPbFZWR2FpcWx5Wi1vaWxNQXNpQQ?oc=5",
@@ -120,32 +144,7 @@
       ],
       "firstSeen": "2026-05-18T20:44:58.439Z",
       "pushedAt": "2026-05-18T20:44:58.439Z"
-    },
-    {
-      "id": "983fe8343f9e4a57",
-      "title": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
-      "url": "https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender"
-      ],
-      "firstSeen": "2026-05-18T17:38:19.633Z",
-      "pushedAt": "2026-05-18T17:38:19.633Z"
-    },
-    {
-      "id": "a03b4e80200f4d63",
-      "title": "Ringgit Opens Marginally Lower As US Policy Repricing Lifts DXY - bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZUV5dWpzYkk2eDBpYVlnSjQwSllVd3IxYVo1MWRPTlJiOWc0TWxTUlRwOVd2WG5jM3VmSW12UksyMEt0SUItYjZyajVmLUk2NTZmUWhHNi05bHhk?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "ringgit + low",
-        "ringgit + low"
-      ],
-      "firstSeen": "2026-05-18T17:38:19.815Z",
-      "pushedAt": "2026-05-18T17:38:19.815Z"
     }
   ],
-  "updatedAt": "2026-05-19T17:14:56.023Z"
+  "updatedAt": "2026-05-19T19:17:22.700Z"
 }
