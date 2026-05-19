@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "07111341a2169ddc",
+      "title": "UK allows diesel and jet fuel imports from Russian crude via sanctions carve-out - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkxMQ0RvZ0ZCSllnSUc0Ri1UNjFaNlluTnRTR05VWnZhMEVBQ09TV3hySGRYaGhuN210ajlSbC1IR2tIVFJqN0J4M2M0Qkw1Vlk5eVhoRHAzNTUxQ3oySlctaVFneldQWVA3ZUlKM1JZU2h6STZ1NVZhTnpmWUVRbUgzaDZDVUZseENPOFJyWXZmaktkX1hDRHlGVUdGa1ZEbTVlaC1FX3hoTGR5WFJFb0pnX0RkRmM?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-05-19T20:52:27.131Z",
+      "pushedAt": "2026-05-19T20:52:27.131Z"
+    },
+    {
+      "id": "983fe8343f9e4a57",
+      "title": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
+      "url": "https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender"
+      ],
+      "firstSeen": "2026-05-19T20:52:27.408Z",
+      "pushedAt": "2026-05-19T20:52:27.408Z"
+    },
+    {
+      "id": "7efa8819389360de",
+      "title": "UK waters down Russian oil sanctions",
+      "url": "https://news.sky.com/story/uk-waters-down-russian-oil-sanctions-amid-jet-fuel-crisis-brought-on-by-strait-of-hormuz-closure-13546009",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-19T20:52:27.636Z",
+      "pushedAt": "2026-05-19T20:52:27.636Z"
+    },
+    {
       "id": "332ae813f438d4fe",
       "title": "US imposes fresh sanctions on Iranian exchange house, shadow fleet vessels - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjdKRVFXWDIyLW5QbzBMV0JPQlFXUEM1T2x2Y01BWUtMQjZZTS1VQTY1OHBWRVdtbDM1ck9kbjBCeUhNYmFfRGdfV1dhdEdra25CNlBjZmQwWDZESEJFU2w1dmRaWGRDZ1RGWEFUNFF6djl3MlBJWXc2aVVjVFYwYkNzNnlPRG9sVFhuRWJPRFc5OWVXWHFWRjRhMjNiSXY5aS1vTk5qTVdyTkJWX18yWEMwTk5OSDVSMC1JLTgySTc?oc=5",
@@ -120,31 +156,7 @@
       ],
       "firstSeen": "2026-05-19T01:34:59.950Z",
       "pushedAt": "2026-05-19T01:34:59.950Z"
-    },
-    {
-      "id": "8c9992b925fd7a48",
-      "title": "Exclusive: Meta lays out plans for May 20 layoffs, restructuring, internal document says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU9uWEUtam15N0pKQzdxSGZBOGVhZG84V3BETV9USHJsSjhmSThFSE5Cd3FfeGMzeUZneWxyemRqNjF4Sjc4clRPeDdMUzBud19OYzBnWENaLVQwRnBiNUZTYUlNU01qd1NYdFNqZk5MZW1QTXRCdWwxLTdndTdyTm1lR2dCRmtrYl9ybEVacXV4dDRhQ1kwcUdqeXBxeEkwYVNKWjJlSkRMWVBscnhpQndJUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-05-18T20:44:58.148Z",
-      "pushedAt": "2026-05-18T20:44:58.148Z"
-    },
-    {
-      "id": "39c9badb0314f30f",
-      "title": "Thailand Restricts Palm Oil Exports Amid Rising Biodiesel Demand - bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iMEVkLXRvdm0tVkdha3ViUW44XzVXLThMbGZHY1Y0WHZZTWFlZzdEbWlnWmNQa3E0dVc1SzJRLUhZdzZrMG1yUVVFUXphRXU1cXE3c0FwUTRsQWd5?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + export"
-      ],
-      "firstSeen": "2026-05-18T20:44:58.439Z",
-      "pushedAt": "2026-05-18T20:44:58.439Z"
     }
   ],
-  "updatedAt": "2026-05-19T19:17:22.700Z"
+  "updatedAt": "2026-05-19T20:52:27.728Z"
 }
