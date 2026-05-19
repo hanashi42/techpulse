@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "992aef34ca49a36b",
+      "title": "European markets: UK unemployment rises; Germany kicks off Uniper privatization",
+      "url": "https://www.cnbc.com/2026/05/19/european-markets-stoxx-uniper-ftse-dax-cac-iran-latest-g7-meeting.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "unemployment + rise"
+      ],
+      "firstSeen": "2026-05-19T08:47:25.885Z",
+      "pushedAt": "2026-05-19T08:47:25.885Z"
+    },
+    {
       "id": "823a0441901bbb3e",
       "title": "Oil prices fall as Trump postpones Iran strike, easing supply disruption fears",
       "url": "https://www.cnbc.com/2026/05/19/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude.html",
@@ -133,43 +145,7 @@
       ],
       "firstSeen": "2026-05-18T11:58:30.764Z",
       "pushedAt": "2026-05-18T11:58:30.764Z"
-    },
-    {
-      "id": "4c50e1d3bcb15cba",
-      "title": "U.S. Treasury Secretary Bessent: will call on G7 to follow sanctions regime on Iran - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmQyb1VFMWl5dUZNaFkyS2dlTnVKcndqVVdLRGZKV3htS21pSGo4bE5aMFhhcXZxRTR5dVZuSzVOQWRHSGZVQ05QbUVScGpMZnBJcThRMjItbUJiMXBjOWhjdmNrQzJMZ0VWMWRReVNjdnkwaUpvXzZJSEJIcG1LQ1hGNDlmT3dpa1RaTHdKZi1jM1lqTzZ0M1ozQThZQ2RaaFktVjdGUUJ4akVKdHlwXzNPY3BuelhtaWlr?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-18T08:28:53.269Z",
-      "pushedAt": "2026-05-18T08:28:53.269Z"
-    },
-    {
-      "id": "c7cbdcf7d0907cce",
-      "title": "Treasury yields rise amid global bond rout as inflation fears grip investors",
-      "url": "https://www.cnbc.com/2026/05/18/treasury-yields-inflation-bond-rout-oil.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-05-18T08:28:53.516Z",
-      "pushedAt": "2026-05-18T08:28:53.516Z"
-    },
-    {
-      "id": "27a3d7e518ff262e",
-      "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
-      "url": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-05-18T04:25:01.845Z",
-      "pushedAt": "2026-05-18T04:25:01.845Z"
     }
   ],
-  "updatedAt": "2026-05-19T01:35:00.033Z"
+  "updatedAt": "2026-05-19T08:47:26.043Z"
 }
