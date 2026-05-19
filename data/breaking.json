@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "823a0441901bbb3e",
+      "title": "Oil prices fall as Trump postpones Iran strike, easing supply disruption fears",
+      "url": "https://www.cnbc.com/2026/05/19/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-05-19T01:34:59.950Z",
+      "pushedAt": "2026-05-19T01:34:59.950Z"
+    },
+    {
       "id": "8c9992b925fd7a48",
       "title": "Exclusive: Meta lays out plans for May 20 layoffs, restructuring, internal document says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU9uWEUtam15N0pKQzdxSGZBOGVhZG84V3BETV9USHJsSjhmSThFSE5Cd3FfeGMzeUZneWxyemRqNjF4Sjc4clRPeDdMUzBud19OYzBnWENaLVQwRnBiNUZTYUlNU01qd1NYdFNqZk5MZW1QTXRCdWwxLTdndTdyTm1lR2dCRmtrYl9ybEVacXV4dDRhQ1kwcUdqeXBxeEkwYVNKWjJlSkRMWVBscnhpQndJUQ?oc=5",
@@ -158,5 +171,5 @@
       "pushedAt": "2026-05-18T04:25:01.845Z"
     }
   ],
-  "updatedAt": "2026-05-18T20:44:58.682Z"
+  "updatedAt": "2026-05-19T01:35:00.033Z"
 }
