@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2304fe3d64e13b0f",
+      "title": "Ukrainian drone shot down by NATO jet over Estonia; Kyiv blames Moscow for steering it there - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVpRU1U1LWYwZXhlWWRjMFMyNERpSXNicjQ1VFE4bzJNdjJHZ2x1T0RlYzVQWWQ2RERQazRRVGl0NDFYZ3hDeHBtWFU5NUZjcjRGR3I4eXRYX1FqNldNUFl6RGhNMFpjVllOaXczY05xRTVKOGZlUlFrT0N1cUhreGh0VDQzRUtkWjZrdTU1c2JKMjhIYXFCRlozRTA1SWVQM0ZCc2o1djJIRVh6V2tPbFZWR2FpcWx5Wi1vaWxNQXNpQQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shot down + jet"
+      ],
+      "firstSeen": "2026-05-19T17:14:55.780Z",
+      "pushedAt": "2026-05-19T17:14:55.780Z"
+    },
+    {
+      "id": "b829f945233b6b20",
+      "title": "U.S. Fed to avoid cutting rates this year; economists still say war-driven inflation is transitory: Reuters poll - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXRLSlB4YU9Fb3h0QkhNQUtJVlg4Q01vQWdZNUJSNlNHcnhWdE0xZFA0anUyQ1EtRmN6cW55bWpkM1dGTmpNVjRkSG5tekhKS1pURW5XcGdYaXJGemI3bzZyc0wyRGRjc0stLUJKTkFIM3c4eXlHS1l4TTVuemtQX1JKbTNRWHB4NzI0VW1WOUg2bk1pTWViRmkxWUZLazhvNk9BZHdQMEtrUmZJNHJpM0tPaFVEOGcwdk1PMzZzQ2s?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-05-19T17:14:55.915Z",
+      "pushedAt": "2026-05-19T17:14:55.915Z"
+    },
+    {
+      "id": "2b57131d287098dc",
+      "title": "At least 22 killed in Israeli attacks on Lebanon in 24 hours: Ministry",
+      "url": "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-19T17:14:55.949Z",
+      "pushedAt": "2026-05-19T17:14:55.949Z"
+    },
+    {
+      "id": "e93f22c46f1b2f86",
+      "title": "Defense department watchdog opens inquiry into US airstrikes on alleged drug boats",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/defense-department-inquiry-airstrikes-alleged-drug-boats",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "airstrikes on"
+      ],
+      "firstSeen": "2026-05-19T17:14:55.967Z",
+      "pushedAt": "2026-05-19T17:14:55.967Z"
+    },
+    {
+      "id": "d41baada8b213a75",
+      "title": "Prosthetics firm's stock plunges as it denies short-seller's Russia 'propaganda' allegations",
+      "url": "https://www.cnbc.com/2026/05/19/ottobock-grizzly-russia-ukraine-propaganda-prosthetics.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock"
+      ],
+      "firstSeen": "2026-05-19T17:14:55.984Z",
+      "pushedAt": "2026-05-19T17:14:55.984Z"
+    },
+    {
+      "id": "c30d3f5ebc2af82d",
+      "title": "KLCI Futures Close Lower - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUEgybmNhWHRWcXN6VGVpNk9yUmxrOXczdUFXYWN5YjZjdGVkcXowZHgxV1Zoa09uTGJLdkdSTXBJbWVXVWt1bTZuWEZEaGVGckFEZEZmT2lMZ09KLTNaN0dkMVR6RnlpYmNyX2VjdmpPT05TZXBMcHdHMkY0cWs?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "klci + low"
+      ],
+      "firstSeen": "2026-05-19T17:14:56.005Z",
+      "pushedAt": "2026-05-19T17:14:56.005Z"
+    },
+    {
       "id": "992aef34ca49a36b",
       "title": "European markets: UK unemployment rises; Germany kicks off Uniper privatization",
       "url": "https://www.cnbc.com/2026/05/19/european-markets-stoxx-uniper-ftse-dax-cac-iran-latest-g7-meeting.html",
@@ -73,79 +145,7 @@
       ],
       "firstSeen": "2026-05-18T17:38:19.815Z",
       "pushedAt": "2026-05-18T17:38:19.815Z"
-    },
-    {
-      "id": "c72511b396523b42",
-      "title": "Swatch's Royal Pop launch triggers consumer frenzy as resale prices soar - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1FSYk42QXluMzRZMHdPTzI2RkRPN3ZGaEdBUFVORURodE5uMVVuVWtVN2NZbUlVc29TUWdfRTVNX2VGamZYV3Nfc0ZPUXdRNFpONEVBODNZbmp4OTJOaGZNQTkybnc0c2pDSk5UeWk3aVVsd2gzOEExU0I5Wld2emhSY2ZzRE5lcTIybjhyMnVLVHhESVAyRDA3Wm1FUk81X05qcms5eURBVFFDREtJaTdKMA?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-05-18T15:25:53.554Z",
-      "pushedAt": "2026-05-18T15:25:53.554Z"
-    },
-    {
-      "id": "f7a489f14d844242",
-      "title": "How India's cooking fuel shortage is driving up California's gas prices - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2JPV2FLNlhPcFNBT2paTkJRNUQyRnJMTldzR0tlSUM4ZWljNGZRNkpjQjhXNGEwNHFUT1BJcUZRVFFWbUNkY2ZaVjVfQkhXRUFEY1ZnenIyNFJ2VnFpam5Sc1dBWGRjNTZhZHotaEVqYXkxNDlxTmR0Z1RFWmFaekxqa0F4NGRXTUp6c0U2T2UtU3ZzVDJCSUhSUnI1LTQ2MU9pTUU0TklaM29vdzFIem8zOEdYNC1BZ2s2U29R?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + gas"
-      ],
-      "firstSeen": "2026-05-18T15:25:54.538Z",
-      "pushedAt": "2026-05-18T15:25:54.538Z"
-    },
-    {
-      "id": "106a27a1dca3db55",
-      "title": "Indian worker among four killed as Ukraine launches largest drone attack on Moscow in over a year",
-      "url": "https://news.sky.com/story/four-killed-in-russia-as-ukraine-launches-largest-drone-attack-on-moscow-in-over-a-year-13544979",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-18T15:25:54.809Z",
-      "pushedAt": "2026-05-18T15:25:54.809Z"
-    },
-    {
-      "id": "5cca00358d54d480",
-      "title": "Video: US calls on G7 to impose US-led sanctions on Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-18T11:58:30.243Z",
-      "pushedAt": "2026-05-18T11:58:30.243Z"
-    },
-    {
-      "id": "47699a8edaed4b6e",
-      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
-      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + blocked"
-      ],
-      "firstSeen": "2026-05-18T11:58:30.524Z",
-      "pushedAt": "2026-05-18T11:58:30.524Z"
-    },
-    {
-      "id": "7003159eef79226b",
-      "title": "US Lets Waiver On Russian Oil Sanctions Lapse - bernama",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82a1RRZU5UVmtBSDF2em8zWGVJa0hKelpQbDJKTHlwVXFKd0VCLUltdmtQT3JzRUpTNmh0UENMZWF1MDdqbEtGRVhYRm9hc21YNG5OSw?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-05-18T11:58:30.764Z",
-      "pushedAt": "2026-05-18T11:58:30.764Z"
     }
   ],
-  "updatedAt": "2026-05-19T08:47:26.043Z"
+  "updatedAt": "2026-05-19T17:14:56.023Z"
 }
