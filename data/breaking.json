@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "57552c3d458d9046",
+      "title": "Euro stablecoin project adds 25 new banks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmhNNUhHMEpRbjJOMjNuQ1BqSFI3WDVBcU90UUJXRW1xMzhKSEhwLWdpUzBOOWtxQS10cDRZbUFxN2dXMWtPa19tU3l2aDhJVkM5SHo0YV9EMy1fQW8zYlBNekszSTM1ZU1RYlBCRDBHUHVGWU9iZHZTNDNnNlZyMk50NC1OaTZIR1RqX2t4NTlQVC0yRkM5SjRn?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "stablecoin + ban"
+      ],
+      "firstSeen": "2026-05-20T16:42:00.628Z",
+      "pushedAt": "2026-05-20T16:42:00.628Z"
+    },
+    {
+      "id": "630bfd5e5e91325c",
+      "title": "China Warns Against New U.S. Tariffs While Confirming Summit Deals - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR2gyRDBQNU9RUnRiVV9JOE5FTzZvd0doUDROV0VjZ0xmYmpoeV8tUnZOSF9tYzdmVkZPNDlBeHVKbEFMSnBwTHVUNWUxVmpBTTZKSWZISWk4S1BsY0FlTUhvUW1pYnlnUDRzX0J4U2d4Y2VpUThHcENCVk1FRlBWQg?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-20T16:42:00.722Z",
+      "pushedAt": "2026-05-20T16:42:00.722Z"
+    },
+    {
       "id": "0d39e143d42f231a",
       "title": "European stocks rise: UK inflation and elevated bond yields in focus",
       "url": "https://www.cnbc.com/2026/05/20/european-markets-stoxx-uk-inflation-ftse-dax-cac-iran-latest.html",
@@ -193,5 +217,5 @@
       "pushedAt": "2026-05-19T17:14:56.005Z"
     }
   ],
-  "updatedAt": "2026-05-20T11:15:13.448Z"
+  "updatedAt": "2026-05-20T16:42:00.819Z"
 }
