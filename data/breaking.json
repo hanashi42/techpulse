@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "afd110d6d09d66ff",
+      "title": "Exclusive: Meta CEO tells employees he does not expect more company-wide layoffs this year - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFFHWmVYem9MM0ZjSV8ycHpydWxsZG5HM2NCRnNvMlFiaGt0ZWdjam55WkV2NjJ4MnJqOEZiemQ4QWFGaXZfX0ZJcmJWVHkxSG1CRFZqYUZMNXdrM2s3OTJkYWlPYTBKbmdmWFg3REhSZGo2NFFsLVRkeUtxTTVhY1NKZnRuSGtxTjM3cTVvVzBHUm5JeXJ0RnM0SVI0S0RaQ1VRSlo3ZGR2YmhNVUhCWmh0Wk1PblFKUFRHd2lB?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + meta"
+      ],
+      "firstSeen": "2026-05-20T19:04:08.063Z",
+      "pushedAt": "2026-05-20T19:04:08.063Z"
+    },
+    {
+      "id": "7421335bc86b73d4",
+      "title": "Meta cuts 8,000 jobs in sweeping global layoffs",
+      "url": "https://www.aljazeera.com/economy/2026/5/20/meta-cuts-8000-jobs-in-sweeping-global-layoffs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + meta"
+      ],
+      "firstSeen": "2026-05-20T19:04:08.184Z",
+      "pushedAt": "2026-05-20T19:04:08.184Z"
+    },
+    {
+      "id": "6f50ef623bd6d428",
+      "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
+      "url": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-05-20T19:04:08.264Z",
+      "pushedAt": "2026-05-20T19:04:08.264Z"
+    },
+    {
+      "id": "37f0fe5d2f9c9eff",
+      "title": "Zuckerberg's Meta layoffs memo: 'Success isn't a given' in the AI era",
+      "url": "https://www.cnbc.com/2026/05/20/meta-layoffs-zuckerberg-says-success-isnt-a-given-in-memo.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + meta"
+      ],
+      "firstSeen": "2026-05-20T19:04:08.317Z",
+      "pushedAt": "2026-05-20T19:04:08.317Z"
+    },
+    {
       "id": "57552c3d458d9046",
       "title": "Euro stablecoin project adds 25 new banks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmhNNUhHMEpRbjJOMjNuQ1BqSFI3WDVBcU90UUJXRW1xMzhKSEhwLWdpUzBOOWtxQS10cDRZbUFxN2dXMWtPa19tU3l2aDhJVkM5SHo0YV9EMy1fQW8zYlBNekszSTM1ZU1RYlBCRDBHUHVGWU9iZHZTNDNnNlZyMk50NC1OaTZIR1RqX2t4NTlQVC0yRkM5SjRn?oc=5",
@@ -143,79 +192,7 @@
       ],
       "firstSeen": "2026-05-19T19:17:22.600Z",
       "pushedAt": "2026-05-19T19:17:22.600Z"
-    },
-    {
-      "id": "2304fe3d64e13b0f",
-      "title": "Ukrainian drone shot down by NATO jet over Estonia; Kyiv blames Moscow for steering it there - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVpRU1U1LWYwZXhlWWRjMFMyNERpSXNicjQ1VFE4bzJNdjJHZ2x1T0RlYzVQWWQ2RERQazRRVGl0NDFYZ3hDeHBtWFU5NUZjcjRGR3I4eXRYX1FqNldNUFl6RGhNMFpjVllOaXczY05xRTVKOGZlUlFrT0N1cUhreGh0VDQzRUtkWjZrdTU1c2JKMjhIYXFCRlozRTA1SWVQM0ZCc2o1djJIRVh6V2tPbFZWR2FpcWx5Wi1vaWxNQXNpQQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + jet"
-      ],
-      "firstSeen": "2026-05-19T17:14:55.780Z",
-      "pushedAt": "2026-05-19T17:14:55.780Z"
-    },
-    {
-      "id": "b829f945233b6b20",
-      "title": "U.S. Fed to avoid cutting rates this year; economists still say war-driven inflation is transitory: Reuters poll - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXRLSlB4YU9Fb3h0QkhNQUtJVlg4Q01vQWdZNUJSNlNHcnhWdE0xZFA0anUyQ1EtRmN6cW55bWpkM1dGTmpNVjRkSG5tekhKS1pURW5XcGdYaXJGemI3bzZyc0wyRGRjc0stLUJKTkFIM3c4eXlHS1l4TTVuemtQX1JKbTNRWHB4NzI0VW1WOUg2bk1pTWViRmkxWUZLazhvNk9BZHdQMEtrUmZJNHJpM0tPaFVEOGcwdk1PMzZzQ2s?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-05-19T17:14:55.915Z",
-      "pushedAt": "2026-05-19T17:14:55.915Z"
-    },
-    {
-      "id": "2b57131d287098dc",
-      "title": "At least 22 killed in Israeli attacks on Lebanon in 24 hours: Ministry",
-      "url": "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-19T17:14:55.949Z",
-      "pushedAt": "2026-05-19T17:14:55.949Z"
-    },
-    {
-      "id": "e93f22c46f1b2f86",
-      "title": "Defense department watchdog opens inquiry into US airstrikes on alleged drug boats",
-      "url": "https://www.theguardian.com/us-news/2026/may/19/defense-department-inquiry-airstrikes-alleged-drug-boats",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "airstrikes on"
-      ],
-      "firstSeen": "2026-05-19T17:14:55.967Z",
-      "pushedAt": "2026-05-19T17:14:55.967Z"
-    },
-    {
-      "id": "d41baada8b213a75",
-      "title": "Prosthetics firm's stock plunges as it denies short-seller's Russia 'propaganda' allegations",
-      "url": "https://www.cnbc.com/2026/05/19/ottobock-grizzly-russia-ukraine-propaganda-prosthetics.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock"
-      ],
-      "firstSeen": "2026-05-19T17:14:55.984Z",
-      "pushedAt": "2026-05-19T17:14:55.984Z"
-    },
-    {
-      "id": "c30d3f5ebc2af82d",
-      "title": "KLCI Futures Close Lower - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUEgybmNhWHRWcXN6VGVpNk9yUmxrOXczdUFXYWN5YjZjdGVkcXowZHgxV1Zoa09uTGJLdkdSTXBJbWVXVWt1bTZuWEZEaGVGckFEZEZmT2lMZ09KLTNaN0dkMVR6RnlpYmNyX2VjdmpPT05TZXBMcHdHMkY0cWs?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "klci + low"
-      ],
-      "firstSeen": "2026-05-19T17:14:56.005Z",
-      "pushedAt": "2026-05-19T17:14:56.005Z"
     }
   ],
-  "updatedAt": "2026-05-20T16:42:00.819Z"
+  "updatedAt": "2026-05-20T19:04:08.376Z"
 }
