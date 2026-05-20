@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "35bff41d2539f4b1",
+      "title": "As Putin-Xi meet, Iran war energy disruption puts long-stalled Russian gas pipeline back on agenda",
+      "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + gas"
+      ],
+      "firstSeen": "2026-05-20T04:37:54.937Z",
+      "pushedAt": "2026-05-20T04:37:54.937Z"
+    },
+    {
       "id": "07111341a2169ddc",
       "title": "UK allows diesel and jet fuel imports from Russian crude via sanctions carve-out - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkxMQ0RvZ0ZCSllnSUc0Ri1UNjFaNlluTnRTR05VWnZhMEVBQ09TV3hySGRYaGhuN210ajlSbC1IR2tIVFJqN0J4M2M0Qkw1Vlk5eVhoRHAzNTUxQ3oySlctaVFneldQWVA3ZUlKM1JZU2h6STZ1NVZhTnpmWUVRbUgzaDZDVUZseENPOFJyWXZmaktkX1hDRHlGVUdGa1ZEbTVlaC1FX3hoTGR5WFJFb0pnX0RkRmM?oc=5",
@@ -143,20 +155,7 @@
       ],
       "firstSeen": "2026-05-19T08:47:25.885Z",
       "pushedAt": "2026-05-19T08:47:25.885Z"
-    },
-    {
-      "id": "823a0441901bbb3e",
-      "title": "Oil prices fall as Trump postpones Iran strike, easing supply disruption fears",
-      "url": "https://www.cnbc.com/2026/05/19/oil-today-brent-wti-iran-trump-hormuz-iea-supply-crude.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-05-19T01:34:59.950Z",
-      "pushedAt": "2026-05-19T01:34:59.950Z"
     }
   ],
-  "updatedAt": "2026-05-19T20:52:27.728Z"
+  "updatedAt": "2026-05-20T04:37:55.111Z"
 }
