@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0d39e143d42f231a",
+      "title": "European stocks rise: UK inflation and elevated bond yields in focus",
+      "url": "https://www.cnbc.com/2026/05/20/european-markets-stoxx-uk-inflation-ftse-dax-cac-iran-latest.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + rise"
+      ],
+      "firstSeen": "2026-05-20T11:15:13.295Z",
+      "pushedAt": "2026-05-20T11:15:13.295Z"
+    },
+    {
       "id": "970b572a9ddc5c74",
       "title": "EU paves way to finalise US trade deal and avoid Trump tariff hike - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjBpMFVhdkRsVGNORWhMbllydm9kdU9XWHIxdllRdmU5eFU2NFAzYkVlLUFPZkRPbHRRVkRjQ05VZEV1WVlBZDZSWEUxNFJlZWE5N2FVWlJQdXpVeThJTUU2M3ZrbWdxb2xSOHA5QkM4Z2VtNVA2blRDRGhDRVI1ZS1wcFNBNVZ3bGoxUlZiYmJoX2RrZWgzWGZMel80TWVtZy1tTmpyTQ?oc=5",
@@ -179,19 +191,7 @@
       ],
       "firstSeen": "2026-05-19T17:14:56.005Z",
       "pushedAt": "2026-05-19T17:14:56.005Z"
-    },
-    {
-      "id": "992aef34ca49a36b",
-      "title": "European markets: UK unemployment rises; Germany kicks off Uniper privatization",
-      "url": "https://www.cnbc.com/2026/05/19/european-markets-stoxx-uniper-ftse-dax-cac-iran-latest-g7-meeting.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "unemployment + rise"
-      ],
-      "firstSeen": "2026-05-19T08:47:25.885Z",
-      "pushedAt": "2026-05-19T08:47:25.885Z"
     }
   ],
-  "updatedAt": "2026-05-20T08:03:01.470Z"
+  "updatedAt": "2026-05-20T11:15:13.448Z"
 }
