@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "970b572a9ddc5c74",
+      "title": "EU paves way to finalise US trade deal and avoid Trump tariff hike - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjBpMFVhdkRsVGNORWhMbllydm9kdU9XWHIxdllRdmU5eFU2NFAzYkVlLUFPZkRPbHRRVkRjQ05VZEV1WVlBZDZSWEUxNFJlZWE5N2FVWlJQdXpVeThJTUU2M3ZrbWdxb2xSOHA5QkM4Z2VtNVA2blRDRGhDRVI1ZS1wcFNBNVZ3bGoxUlZiYmJoX2RrZWgzWGZMel80TWVtZy1tTmpyTQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-05-20T08:03:01.178Z",
+      "pushedAt": "2026-05-20T08:03:01.178Z"
+    },
+    {
+      "id": "81246ab5b4c2f3cc",
+      "title": "UK inflation rate eases to 2.8% in April, but slowdown is expected to be short-lived",
+      "url": "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + slow"
+      ],
+      "firstSeen": "2026-05-20T08:03:01.312Z",
+      "pushedAt": "2026-05-20T08:03:01.312Z"
+    },
+    {
+      "id": "8cc006dbb514fc8f",
+      "title": "Stocks under pressure as correction fears grow and record rally defies geopolitical turmoil",
+      "url": "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-05-20T08:03:01.426Z",
+      "pushedAt": "2026-05-20T08:03:01.426Z"
+    },
+    {
       "id": "35bff41d2539f4b1",
       "title": "As Putin-Xi meet, Iran war energy disruption puts long-stalled Russian gas pipeline back on agenda",
       "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html",
@@ -157,5 +193,5 @@
       "pushedAt": "2026-05-19T08:47:25.885Z"
     }
   ],
-  "updatedAt": "2026-05-20T04:37:55.111Z"
+  "updatedAt": "2026-05-20T08:03:01.470Z"
 }
