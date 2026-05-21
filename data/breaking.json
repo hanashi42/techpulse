@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "3654752f03572ece",
+      "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
+      "url": "https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-21T23:38:06.189Z",
+      "pushedAt": "2026-05-21T23:38:06.189Z"
+    },
+    {
+      "id": "39e0bdc6f089d5c1",
+      "title": "At least 16 people killed in two attacks in northern Honduras",
+      "url": "https://www.aljazeera.com/news/2026/5/21/at-least-16-people-killed-in-two-attacks-in-northern-honduras?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-21T23:38:06.565Z",
+      "pushedAt": "2026-05-21T23:38:06.565Z"
+    },
+    {
       "id": "bc4b461bad034ef6",
       "title": "OPEC+ leaders expected to up July oil output target despite Hormuz disruption, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlE0OWlNWHpBWXdHbzR4a2lXYmNwQ2tneWJXS2djVW9fZFJQZE1UVXlzQ19WVndVU1AzWWZLSnN6ZEJFT2pRSVc3VWtXblJQeThJbEl3cXJGUmJtX0pvUk05aENTZzVWMDRsVUJLMEYzcERvWFh0X0poemxoalhpNnIyamMwd2JQR2hCaGdrRUJaZGVsMzZSekk2cW40aHVTZFVDeDM5X1daSjlTWFZGMkQ1RDMzb3hwamxxeGRZUk56a0E?oc=5",
@@ -74,56 +98,7 @@
       ],
       "firstSeen": "2026-05-21T05:55:59.557Z",
       "pushedAt": "2026-05-21T05:55:59.557Z"
-    },
-    {
-      "id": "afd110d6d09d66ff",
-      "title": "Exclusive: Meta CEO tells employees he does not expect more company-wide layoffs this year - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFFHWmVYem9MM0ZjSV8ycHpydWxsZG5HM2NCRnNvMlFiaGt0ZWdjam55WkV2NjJ4MnJqOEZiemQ4QWFGaXZfX0ZJcmJWVHkxSG1CRFZqYUZMNXdrM2s3OTJkYWlPYTBKbmdmWFg3REhSZGo2NFFsLVRkeUtxTTVhY1NKZnRuSGtxTjM3cTVvVzBHUm5JeXJ0RnM0SVI0S0RaQ1VRSlo3ZGR2YmhNVUhCWmh0Wk1PblFKUFRHd2lB?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-05-20T19:04:08.063Z",
-      "pushedAt": "2026-05-20T19:04:08.063Z"
-    },
-    {
-      "id": "7421335bc86b73d4",
-      "title": "Meta cuts 8,000 jobs in sweeping global layoffs",
-      "url": "https://www.aljazeera.com/economy/2026/5/20/meta-cuts-8000-jobs-in-sweeping-global-layoffs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-05-20T19:04:08.184Z",
-      "pushedAt": "2026-05-20T19:04:08.184Z"
-    },
-    {
-      "id": "6f50ef623bd6d428",
-      "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
-      "url": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-05-20T19:04:08.264Z",
-      "pushedAt": "2026-05-20T19:04:08.264Z"
-    },
-    {
-      "id": "37f0fe5d2f9c9eff",
-      "title": "Zuckerberg's Meta layoffs memo: 'Success isn't a given' in the AI era",
-      "url": "https://www.cnbc.com/2026/05/20/meta-layoffs-zuckerberg-says-success-isnt-a-given-in-memo.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-05-20T19:04:08.317Z",
-      "pushedAt": "2026-05-20T19:04:08.317Z"
     }
   ],
-  "updatedAt": "2026-05-21T17:46:44.719Z"
+  "updatedAt": "2026-05-21T23:38:06.615Z"
 }
