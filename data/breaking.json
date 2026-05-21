@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "9f3210aceb5970bc",
+      "title": "AI frenzy sees these European stocks gain over 100% this year in blockbuster rally",
+      "url": "https://www.cnbc.com/2026/05/21/ai-frenzy-european-stocks-rally-nokia-aixtron.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-05-21T05:55:59.405Z",
+      "pushedAt": "2026-05-21T05:55:59.405Z"
+    },
+    {
+      "id": "a8f0c255e50c6c0d",
+      "title": "European markets to open flat as oil prices fall below $100",
+      "url": "https://www.cnbc.com/2026/05/21/european-markets-stoxx-600-ftse-dax-cac-iran-news.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-05-21T05:55:59.557Z",
+      "pushedAt": "2026-05-21T05:55:59.557Z"
+    },
+    {
       "id": "afd110d6d09d66ff",
       "title": "Exclusive: Meta CEO tells employees he does not expect more company-wide layoffs this year - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFFHWmVYem9MM0ZjSV8ycHpydWxsZG5HM2NCRnNvMlFiaGt0ZWdjam55WkV2NjJ4MnJqOEZiemQ4QWFGaXZfX0ZJcmJWVHkxSG1CRFZqYUZMNXdrM2s3OTJkYWlPYTBKbmdmWFg3REhSZGo2NFFsLVRkeUtxTTVhY1NKZnRuSGtxTjM3cTVvVzBHUm5JeXJ0RnM0SVI0S0RaQ1VRSlo3ZGR2YmhNVUhCWmh0Wk1PblFKUFRHd2lB?oc=5",
@@ -120,79 +144,7 @@
       ],
       "firstSeen": "2026-05-20T08:03:01.426Z",
       "pushedAt": "2026-05-20T08:03:01.426Z"
-    },
-    {
-      "id": "35bff41d2539f4b1",
-      "title": "As Putin-Xi meet, Iran war energy disruption puts long-stalled Russian gas pipeline back on agenda",
-      "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + gas"
-      ],
-      "firstSeen": "2026-05-20T04:37:54.937Z",
-      "pushedAt": "2026-05-20T04:37:54.937Z"
-    },
-    {
-      "id": "07111341a2169ddc",
-      "title": "UK allows diesel and jet fuel imports from Russian crude via sanctions carve-out - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkxMQ0RvZ0ZCSllnSUc0Ri1UNjFaNlluTnRTR05VWnZhMEVBQ09TV3hySGRYaGhuN210ajlSbC1IR2tIVFJqN0J4M2M0Qkw1Vlk5eVhoRHAzNTUxQ3oySlctaVFneldQWVA3ZUlKM1JZU2h6STZ1NVZhTnpmWUVRbUgzaDZDVUZseENPOFJyWXZmaktkX1hDRHlGVUdGa1ZEbTVlaC1FX3hoTGR5WFJFb0pnX0RkRmM?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-05-19T20:52:27.131Z",
-      "pushedAt": "2026-05-19T20:52:27.131Z"
-    },
-    {
-      "id": "983fe8343f9e4a57",
-      "title": "Pressure on Mexico after two ex-officials surrender to US over alleged cartel ties",
-      "url": "https://www.theguardian.com/world/2026/may/18/mexico-officials-surrender-alleged-cartel-ties",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender"
-      ],
-      "firstSeen": "2026-05-19T20:52:27.408Z",
-      "pushedAt": "2026-05-19T20:52:27.408Z"
-    },
-    {
-      "id": "7efa8819389360de",
-      "title": "UK waters down Russian oil sanctions",
-      "url": "https://news.sky.com/story/uk-waters-down-russian-oil-sanctions-amid-jet-fuel-crisis-brought-on-by-strait-of-hormuz-closure-13546009",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-05-19T20:52:27.636Z",
-      "pushedAt": "2026-05-19T20:52:27.636Z"
-    },
-    {
-      "id": "332ae813f438d4fe",
-      "title": "US imposes fresh sanctions on Iranian exchange house, shadow fleet vessels - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjdKRVFXWDIyLW5QbzBMV0JPQlFXUEM1T2x2Y01BWUtMQjZZTS1VQTY1OHBWRVdtbDM1ck9kbjBCeUhNYmFfRGdfV1dhdEdra25CNlBjZmQwWDZESEJFU2w1dmRaWGRDZ1RGWEFUNFF6djl3MlBJWXc2aVVjVFYwYkNzNnlPRG9sVFhuRWJPRFc5OWVXWHFWRjRhMjNiSXY5aS1vTk5qTVdyTkJWX18yWEMwTk5OSDVSMC1JLTgySTc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-19T19:17:22.459Z",
-      "pushedAt": "2026-05-19T19:17:22.459Z"
-    },
-    {
-      "id": "47699a8edaed4b6e",
-      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
-      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + blocked"
-      ],
-      "firstSeen": "2026-05-19T19:17:22.600Z",
-      "pushedAt": "2026-05-19T19:17:22.600Z"
     }
   ],
-  "updatedAt": "2026-05-20T19:04:08.376Z"
+  "updatedAt": "2026-05-21T05:55:59.653Z"
 }
