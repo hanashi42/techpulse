@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "006d50b505a2329e",
+      "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
+      "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + hormuz"
+      ],
+      "firstSeen": "2026-05-21T15:49:10.090Z",
+      "pushedAt": "2026-05-21T15:49:10.090Z"
+    },
+    {
+      "id": "db6004d4877bf9fc",
+      "title": "Rare Earth Stocks Rally On Funding News, Fading China Fears - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmpPTU96VTFqSmducEU1c2pqTTJuU1BPcE1xYkVhaTBqTExNN29OTkl5ZTl3MzBsQjNVcXZCWkFONHFPM3d2SkczT2NhM0Jsc2U5TkMyOGYwM1lDaFMtRExzelZDT1RzSXc1MVMxeVVLVlRsWXk1UFNpVTktTUxWeUF1M2t4bHhXZTVwbk9UUG9YZw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-05-21T15:49:10.216Z",
+      "pushedAt": "2026-05-21T15:49:10.216Z"
+    },
+    {
       "id": "902f54d822482ce4",
       "title": "Ukraine ally Britain eases new sanctions on Russian oil as fuel prices surge over Iran war - AP News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFJ4MGxZa1VrY3lKT0l5VXpfZThZTXBSc2dibG5oeEtCNDJZZ2tSSnZBOWRWSnNtdkpIc2hENFE3NVB2S2hFczNMblBLR2gxQk1QOFAzeFR0S3Z1ZVhJQUFjZ2taT0U2WTJwc1g3cXZXUUFZc0QtbUFwODZRcHI3RHlZYk1BTk1rYzVxczFITzVUNkRP?oc=5",
@@ -109,19 +133,7 @@
       ],
       "firstSeen": "2026-05-20T16:42:00.722Z",
       "pushedAt": "2026-05-20T16:42:00.722Z"
-    },
-    {
-      "id": "0d39e143d42f231a",
-      "title": "European stocks rise: UK inflation and elevated bond yields in focus",
-      "url": "https://www.cnbc.com/2026/05/20/european-markets-stoxx-uk-inflation-ftse-dax-cac-iran-latest.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-05-20T11:15:13.295Z",
-      "pushedAt": "2026-05-20T11:15:13.295Z"
     }
   ],
-  "updatedAt": "2026-05-21T08:55:52.236Z"
+  "updatedAt": "2026-05-21T15:49:10.259Z"
 }
