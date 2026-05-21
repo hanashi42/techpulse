@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "bc4b461bad034ef6",
+      "title": "OPEC+ leaders expected to up July oil output target despite Hormuz disruption, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlE0OWlNWHpBWXdHbzR4a2lXYmNwQ2tneWJXS2djVW9fZFJQZE1UVXlzQ19WVndVU1AzWWZLSnN6ZEJFT2pRSVc3VWtXblJQeThJbEl3cXJGUmJtX0pvUk05aENTZzVWMDRsVUJLMEYzcERvWFh0X0poemxoalhpNnIyamMwd2JQR2hCaGdrRUJaZGVsMzZSekk2cW40aHVTZFVDeDM5X1daSjlTWFZGMkQ1RDMzb3hwamxxeGRZUk56a0E?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption",
+        "opec + output",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-05-21T17:46:44.426Z",
+      "pushedAt": "2026-05-21T17:46:44.426Z"
+    },
+    {
       "id": "006d50b505a2329e",
       "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
       "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade?traffic_source=rss",
@@ -109,31 +123,7 @@
       ],
       "firstSeen": "2026-05-20T19:04:08.317Z",
       "pushedAt": "2026-05-20T19:04:08.317Z"
-    },
-    {
-      "id": "57552c3d458d9046",
-      "title": "Euro stablecoin project adds 25 new banks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmhNNUhHMEpRbjJOMjNuQ1BqSFI3WDVBcU90UUJXRW1xMzhKSEhwLWdpUzBOOWtxQS10cDRZbUFxN2dXMWtPa19tU3l2aDhJVkM5SHo0YV9EMy1fQW8zYlBNekszSTM1ZU1RYlBCRDBHUHVGWU9iZHZTNDNnNlZyMk50NC1OaTZIR1RqX2t4NTlQVC0yRkM5SjRn?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "stablecoin + ban"
-      ],
-      "firstSeen": "2026-05-20T16:42:00.628Z",
-      "pushedAt": "2026-05-20T16:42:00.628Z"
-    },
-    {
-      "id": "630bfd5e5e91325c",
-      "title": "China Warns Against New U.S. Tariffs While Confirming Summit Deals - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR2gyRDBQNU9RUnRiVV9JOE5FTzZvd0doUDROV0VjZ0xmYmpoeV8tUnZOSF9tYzdmVkZPNDlBeHVKbEFMSnBwTHVUNWUxVmpBTTZKSWZISWk4S1BsY0FlTUhvUW1pYnlnUDRzX0J4U2d4Y2VpUThHcENCVk1FRlBWQg?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-20T16:42:00.722Z",
-      "pushedAt": "2026-05-20T16:42:00.722Z"
     }
   ],
-  "updatedAt": "2026-05-21T15:49:10.259Z"
+  "updatedAt": "2026-05-21T17:46:44.719Z"
 }
