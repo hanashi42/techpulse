@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "902f54d822482ce4",
+      "title": "Ukraine ally Britain eases new sanctions on Russian oil as fuel prices surge over Iran war - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFJ4MGxZa1VrY3lKT0l5VXpfZThZTXBSc2dibG5oeEtCNDJZZ2tSSnZBOWRWSnNtdkpIc2hENFE3NVB2S2hFczNMblBLR2gxQk1QOFAzeFR0S3Z1ZVhJQUFjZ2taT0U2WTJwc1g3cXZXUUFZc0QtbUFwODZRcHI3RHlZYk1BTk1rYzVxczFITzVUNkRP?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war",
+        "surge + oil"
+      ],
+      "firstSeen": "2026-05-21T08:55:52.174Z",
+      "pushedAt": "2026-05-21T08:55:52.174Z"
+    },
+    {
       "id": "9f3210aceb5970bc",
       "title": "AI frenzy sees these European stocks gain over 100% this year in blockbuster rally",
       "url": "https://www.cnbc.com/2026/05/21/ai-frenzy-european-stocks-rally-nokia-aixtron.html",
@@ -108,43 +121,7 @@
       ],
       "firstSeen": "2026-05-20T11:15:13.295Z",
       "pushedAt": "2026-05-20T11:15:13.295Z"
-    },
-    {
-      "id": "970b572a9ddc5c74",
-      "title": "EU paves way to finalise US trade deal and avoid Trump tariff hike - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjBpMFVhdkRsVGNORWhMbllydm9kdU9XWHIxdllRdmU5eFU2NFAzYkVlLUFPZkRPbHRRVkRjQ05VZEV1WVlBZDZSWEUxNFJlZWE5N2FVWlJQdXpVeThJTUU2M3ZrbWdxb2xSOHA5QkM4Z2VtNVA2blRDRGhDRVI1ZS1wcFNBNVZ3bGoxUlZiYmJoX2RrZWgzWGZMel80TWVtZy1tTmpyTQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-05-20T08:03:01.178Z",
-      "pushedAt": "2026-05-20T08:03:01.178Z"
-    },
-    {
-      "id": "81246ab5b4c2f3cc",
-      "title": "UK inflation rate eases to 2.8% in April, but slowdown is expected to be short-lived",
-      "url": "https://www.cnbc.com/2026/05/20/uk-april-inflation-cpi-energy-prices.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + slow"
-      ],
-      "firstSeen": "2026-05-20T08:03:01.312Z",
-      "pushedAt": "2026-05-20T08:03:01.312Z"
-    },
-    {
-      "id": "8cc006dbb514fc8f",
-      "title": "Stocks under pressure as correction fears grow and record rally defies geopolitical turmoil",
-      "url": "https://www.cnbc.com/2026/05/20/market-correction-equities-stocks-bonds-iran-inflation.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-05-20T08:03:01.426Z",
-      "pushedAt": "2026-05-20T08:03:01.426Z"
     }
   ],
-  "updatedAt": "2026-05-21T05:55:59.653Z"
+  "updatedAt": "2026-05-21T08:55:52.236Z"
 }
