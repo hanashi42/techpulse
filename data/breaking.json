@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "fd4f037052fc9742",
+      "title": "US oil prices rise as investors doubt breakthrough in US-Iran peace talks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjNVY1BRR2J6WE9vYVZuRXloT2JGWURBM0JlNHZQd0lMd1RGNTBXTWE0bGRvdkFFcVEwZXN5Z2VoNTBfNzRuUHVBWEsySDNiMzBWWlFIeWlSdmVZM3Q4R2FhRXd2RjBnSVhZVE4tbTBIdkJTNFRRdFBEWmc2cndrR1oxbUtBajdqeUpfVXJmMUVtOEZsQlgzdFpsYmFGMHpBb08xZGxGNlVRMkJxbkxSanVobENBZ093M0w4?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-05-22T01:33:16.897Z",
+      "pushedAt": "2026-05-22T01:33:16.897Z"
+    },
+    {
+      "id": "acce385c3627556e",
+      "title": "CNBC Daily Open: Dow at all-time high as Iran reviews peace deal",
+      "url": "https://www.cnbc.com/2026/05/22/oil-markets-ease-after-trump-gives-tehran-more-time.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "all-time high + dow"
+      ],
+      "firstSeen": "2026-05-22T01:33:16.951Z",
+      "pushedAt": "2026-05-22T01:33:16.951Z"
+    },
+    {
+      "id": "40f3e935d57ca142",
+      "title": "Oil resumes rally as Iran reportedly wants to keep enriched uranium within the country",
+      "url": "https://www.cnbc.com/2026/05/22/oil-prices-today-trump-iran-strait-of-hormuz-uranium-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + oil"
+      ],
+      "firstSeen": "2026-05-22T01:33:16.982Z",
+      "pushedAt": "2026-05-22T01:33:16.982Z"
+    },
+    {
       "id": "3654752f03572ece",
       "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
       "url": "https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss",
@@ -100,5 +136,5 @@
       "pushedAt": "2026-05-21T05:55:59.557Z"
     }
   ],
-  "updatedAt": "2026-05-21T23:38:06.615Z"
+  "updatedAt": "2026-05-22T01:33:17.047Z"
 }
