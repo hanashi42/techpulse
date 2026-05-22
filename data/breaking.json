@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3b16d5a9d217a8a0",
+      "title": "Russia says four killed, 35 children wounded in Ukrainian attack on Luhansk region - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHdwUXVTUDdqRGxxLTZRV3Z0UHN4U2poVm1iRU5iYmVSU2tET2Zud05ZOUxnaUZRSHJ0bUhPQjlOZWthYjRnZDRIMlJRUUl3Yng1eWlnZFA1VnphWWJlaXJMWnU1enI2WDJQSDhEMXBpOC1VTXBtVEhRcS1fZUpuc285RUg0a29UVWNTOTJ2YVdpMjZGOWgzN0cya1FFNDdzeFE3NG9MZW5ZMk1haFJDQTRqc0phekZ4RG1DemtLMTgzSWljVU9wQQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-22T11:27:58.635Z",
+      "pushedAt": "2026-05-22T11:27:58.635Z"
+    },
+    {
       "id": "6e2e504b15bcca85",
       "title": "Gold slips on stronger dollar, Fed rate-hike bets - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZzBGeldkbEhDOHRKLWZHamdKUW0xU1lxbnp1ZV9MRS13TkZTbWZsb0ExeHhqX1c2Z3JYTWtnb2sxZWlQeVBrdWFzZHhXLVAzT25MZTc4TV9vV24ycnJOSTN0Tm1QbFRuUzBYalduQ3dYVEdIVmp5LUdDdmtlRDNPZzdIZGZvZ3Iybm5WVGdCZEdQaXVUUEJtRGNJdGlULUlQbUdLSUQ1WHFaV2s?oc=5",
@@ -133,20 +145,7 @@
       ],
       "firstSeen": "2026-05-21T15:49:10.216Z",
       "pushedAt": "2026-05-21T15:49:10.216Z"
-    },
-    {
-      "id": "902f54d822482ce4",
-      "title": "Ukraine ally Britain eases new sanctions on Russian oil as fuel prices surge over Iran war - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFJ4MGxZa1VrY3lKT0l5VXpfZThZTXBSc2dibG5oeEtCNDJZZ2tSSnZBOWRWSnNtdkpIc2hENFE3NVB2S2hFczNMblBLR2gxQk1QOFAzeFR0S3Z1ZVhJQUFjZ2taT0U2WTJwc1g3cXZXUUFZc0QtbUFwODZRcHI3RHlZYk1BTk1rYzVxczFITzVUNkRP?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war",
-        "surge + oil"
-      ],
-      "firstSeen": "2026-05-21T08:55:52.174Z",
-      "pushedAt": "2026-05-21T08:55:52.174Z"
     }
   ],
-  "updatedAt": "2026-05-22T08:39:04.728Z"
+  "updatedAt": "2026-05-22T11:27:58.893Z"
 }
