@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "id": "49e7d66c5cfde510",
+      "title": "European Commission proposes Russia sanctions reprieve for dealings with Chinese chips firm - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckdIUUtxTW0tRTVRblZQeDJNWEExTDE1SWZCUUNNTFh5NVQtQTlxcmRpUV9FOEd4eUdQVnZKU2dkTkg0ZUhaSDFhc1pPQ3F5cURSLVNHcFFEWWdaR2NfMXNLVmhBanZteVd0d2R0a1kyZjR6cklrcnZPaFliOW5sY2dOcTFnTVJ6S190eDYweTVSNm05Ylo2dFJfbzlBQktEMzRqczlNYVNEOEhKVUpvdFF5eFZQTHg4WUpFUzBWTDNvdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-05-22T16:04:45.325Z",
+      "pushedAt": "2026-05-22T16:04:45.325Z"
+    },
+    {
+      "id": "339c14886e5eb855",
+      "title": "Watch: Trump swearing in Kevin Warsh as Fed chair as he seeks interest rate cuts",
+      "url": "https://www.cnbc.com/2026/05/22/trump-kevin-warsh-fed-chair-interest-rates.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate cut + fed",
+        "fed + rate",
+        "interest rate + cut"
+      ],
+      "firstSeen": "2026-05-22T16:04:45.604Z",
+      "pushedAt": "2026-05-22T16:04:45.604Z"
+    },
+    {
+      "id": "d7ff9473c7f89e66",
+      "title": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
+      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + record"
+      ],
+      "firstSeen": "2026-05-22T16:04:45.803Z",
+      "pushedAt": "2026-05-22T16:04:45.803Z"
+    },
+    {
       "id": "3b16d5a9d217a8a0",
       "title": "Russia says four killed, 35 children wounded in Ukrainian attack on Luhansk region - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHdwUXVTUDdqRGxxLTZRV3Z0UHN4U2poVm1iRU5iYmVSU2tET2Zud05ZOUxnaUZRSHJ0bUhPQjlOZWthYjRnZDRIMlJRUUl3Yng1eWlnZFA1VnphWWJlaXJMWnU1enI2WDJQSDhEMXBpOC1VTXBtVEhRcS1fZUpuc285RUg0a29UVWNTOTJ2YVdpMjZGOWgzN0cya1FFNDdzeFE3NG9MZW5ZMk1haFJDQTRqc0phekZ4RG1DemtLMTgzSWljVU9wQQ?oc=5",
@@ -121,31 +159,7 @@
       ],
       "firstSeen": "2026-05-21T17:46:44.426Z",
       "pushedAt": "2026-05-21T17:46:44.426Z"
-    },
-    {
-      "id": "006d50b505a2329e",
-      "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
-      "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + hormuz"
-      ],
-      "firstSeen": "2026-05-21T15:49:10.090Z",
-      "pushedAt": "2026-05-21T15:49:10.090Z"
-    },
-    {
-      "id": "db6004d4877bf9fc",
-      "title": "Rare Earth Stocks Rally On Funding News, Fading China Fears - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmpPTU96VTFqSmducEU1c2pqTTJuU1BPcE1xYkVhaTBqTExNN29OTkl5ZTl3MzBsQjNVcXZCWkFONHFPM3d2SkczT2NhM0Jsc2U5TkMyOGYwM1lDaFMtRExzelZDT1RzSXc1MVMxeVVLVlRsWXk1UFNpVTktTUxWeUF1M2t4bHhXZTVwbk9UUG9YZw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-05-21T15:49:10.216Z",
-      "pushedAt": "2026-05-21T15:49:10.216Z"
     }
   ],
-  "updatedAt": "2026-05-22T11:27:58.893Z"
+  "updatedAt": "2026-05-22T16:04:45.881Z"
 }
