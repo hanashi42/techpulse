@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0246b462b6cbb392",
+      "title": "Strait Of Hormuz Blockades Reshaping Trade Routes, Shipping Group Says - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95TFlveEtBbktQNlNWQUczdDRWa0NPWnFIb3hGNm5tTmhWRXRLLXpSY3laOXEyUUpqbkRqamhaeU5yMDhFdkJCRi15UU9iUjhidlF2Tw?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait"
+      ],
+      "firstSeen": "2026-05-22T05:44:16.321Z",
+      "pushedAt": "2026-05-22T05:44:16.321Z"
+    },
+    {
       "id": "fd4f037052fc9742",
       "title": "US oil prices rise as investors doubt breakthrough in US-Iran peace talks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjNVY1BRR2J6WE9vYVZuRXloT2JGWURBM0JlNHZQd0lMd1RGNTBXTWE0bGRvdkFFcVEwZXN5Z2VoNTBfNzRuUHVBWEsySDNiMzBWWlFIeWlSdmVZM3Q4R2FhRXd2RjBnSVhZVE4tbTBIdkJTNFRRdFBEWmc2cndrR1oxbUtBajdqeUpfVXJmMUVtOEZsQlgzdFpsYmFGMHpBb08xZGxGNlVRMkJxbkxSanVobENBZ093M0w4?oc=5",
@@ -136,5 +148,5 @@
       "pushedAt": "2026-05-21T05:55:59.557Z"
     }
   ],
-  "updatedAt": "2026-05-22T01:33:17.047Z"
+  "updatedAt": "2026-05-22T05:44:16.399Z"
 }
