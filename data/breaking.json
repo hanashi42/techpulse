@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6e2e504b15bcca85",
+      "title": "Gold slips on stronger dollar, Fed rate-hike bets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZzBGeldkbEhDOHRKLWZHamdKUW0xU1lxbnp1ZV9MRS13TkZTbWZsb0ExeHhqX1c2Z3JYTWtnb2sxZWlQeVBrdWFzZHhXLVAzT25MZTc4TV9vV24ycnJOSTN0Tm1QbFRuUzBYalduQ3dYVEdIVmp5LUdDdmtlRDNPZzdIZGZvZ3Iybm5WVGdCZEdQaXVUUEJtRGNJdGlULUlQbUdLSUQ1WHFaV2s?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-05-22T08:39:04.222Z",
+      "pushedAt": "2026-05-22T08:39:04.222Z"
+    },
+    {
+      "id": "79ce8932f118d38b",
+      "title": "Puig plunges after Estée Lauder tie-up talks terminated; European stocks open higher",
+      "url": "https://www.cnbc.com/2026/05/22/europe-markets-stocks-ftse-100-stoxx-defense-iran-economic-data.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock"
+      ],
+      "firstSeen": "2026-05-22T08:39:04.490Z",
+      "pushedAt": "2026-05-22T08:39:04.490Z"
+    },
+    {
       "id": "0246b462b6cbb392",
       "title": "Strait Of Hormuz Blockades Reshaping Trade Routes, Shipping Group Says - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95TFlveEtBbktQNlNWQUczdDRWa0NPWnFIb3hGNm5tTmhWRXRLLXpSY3laOXEyUUpqbkRqamhaeU5yMDhFdkJCRi15UU9iUjhidlF2Tw?oc=5",
@@ -122,31 +146,7 @@
       ],
       "firstSeen": "2026-05-21T08:55:52.174Z",
       "pushedAt": "2026-05-21T08:55:52.174Z"
-    },
-    {
-      "id": "9f3210aceb5970bc",
-      "title": "AI frenzy sees these European stocks gain over 100% this year in blockbuster rally",
-      "url": "https://www.cnbc.com/2026/05/21/ai-frenzy-european-stocks-rally-nokia-aixtron.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-05-21T05:55:59.405Z",
-      "pushedAt": "2026-05-21T05:55:59.405Z"
-    },
-    {
-      "id": "a8f0c255e50c6c0d",
-      "title": "European markets to open flat as oil prices fall below $100",
-      "url": "https://www.cnbc.com/2026/05/21/european-markets-stoxx-600-ftse-dax-cac-iran-news.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-05-21T05:55:59.557Z",
-      "pushedAt": "2026-05-21T05:55:59.557Z"
     }
   ],
-  "updatedAt": "2026-05-22T05:44:16.399Z"
+  "updatedAt": "2026-05-22T08:39:04.728Z"
 }
