@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c2fd75faa67d6999",
+      "title": "China Lifts HPAI Poultry Export Restrictions for 17 States - National Chicken Council",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHV0RF9FUWJZVEpRVDFSeThLQ1c5cFIxQUtXcFNRZU1QWWRYTUFMMklZUUtiTFg0bHoxeGNZNG8tM0ZQd1cyX1d6UHBMdHRhbHNidXVBMmtmQ0YtcFh0cEpsc0hwTGs3dEJmMzVGSXZ0SlhVdmVzR1FGckRSbEwzRy1YemZwdDZ5MGJ2V3hCMzI1QWxya0RVQl83WjVKQzQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + export"
+      ],
+      "firstSeen": "2026-05-22T20:59:57.857Z",
+      "pushedAt": "2026-05-22T20:59:57.857Z"
+    },
+    {
       "id": "49e7d66c5cfde510",
       "title": "European Commission proposes Russia sanctions reprieve for dealings with Chinese chips firm - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckdIUUtxTW0tRTVRblZQeDJNWEExTDE1SWZCUUNNTFh5NVQtQTlxcmRpUV9FOEd4eUdQVnZKU2dkTkg0ZUhaSDFhc1pPQ3F5cURSLVNHcFFEWWdaR2NfMXNLVmhBanZteVd0d2R0a1kyZjR6cklrcnZPaFliOW5sY2dOcTFnTVJ6S190eDYweTVSNm05Ylo2dFJfbzlBQktEMzRqczlNYVNEOEhKVUpvdFF5eFZQTHg4WUpFUzBWTDNvdw?oc=5",
@@ -145,21 +157,7 @@
       ],
       "firstSeen": "2026-05-21T23:38:06.565Z",
       "pushedAt": "2026-05-21T23:38:06.565Z"
-    },
-    {
-      "id": "bc4b461bad034ef6",
-      "title": "OPEC+ leaders expected to up July oil output target despite Hormuz disruption, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlE0OWlNWHpBWXdHbzR4a2lXYmNwQ2tneWJXS2djVW9fZFJQZE1UVXlzQ19WVndVU1AzWWZLSnN6ZEJFT2pRSVc3VWtXblJQeThJbEl3cXJGUmJtX0pvUk05aENTZzVWMDRsVUJLMEYzcERvWFh0X0poemxoalhpNnIyamMwd2JQR2hCaGdrRUJaZGVsMzZSekk2cW40aHVTZFVDeDM5X1daSjlTWFZGMkQ1RDMzb3hwamxxeGRZUk56a0E?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption",
-        "opec + output",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-05-21T17:46:44.426Z",
-      "pushedAt": "2026-05-21T17:46:44.426Z"
     }
   ],
-  "updatedAt": "2026-05-22T16:04:45.881Z"
+  "updatedAt": "2026-05-22T20:59:58.168Z"
 }
