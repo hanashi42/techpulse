@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ff74bada1e4a9a50",
+      "title": "Israeli forces attack central Gaza despite ceasefire agreement",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ceasefire agreement"
+      ],
+      "firstSeen": "2026-05-23T08:52:34.515Z",
+      "pushedAt": "2026-05-23T08:52:34.515Z"
+    },
+    {
+      "id": "bc5603d9cc5c0ff8",
+      "title": "STRAIT OF HORMUZ BLOCKADES RESHAPING TRADE ROUTES, SHIPPING GROUP SAYS - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VQ2toaWpsYzk4aVRObmFXNWhMVkNZUkNsUGs0cncweEpBSTNFMktyekxCcmNmQ3U2eGVzLWNLa2NtNnFCU213MllYVzhpcVlUVXFQSw?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait"
+      ],
+      "firstSeen": "2026-05-23T08:52:34.786Z",
+      "pushedAt": "2026-05-23T08:52:34.786Z"
+    },
+    {
       "id": "77b253adca7ecff2",
       "title": "90 killed and nine missing following 'gas explosion' at coal mine in China",
       "url": "https://news.sky.com/story/china-four-killed-and-90-trapped-following-coal-mine-accident-13547200",
@@ -85,31 +109,7 @@
       ],
       "firstSeen": "2026-05-22T11:27:58.635Z",
       "pushedAt": "2026-05-22T11:27:58.635Z"
-    },
-    {
-      "id": "6e2e504b15bcca85",
-      "title": "Gold slips on stronger dollar, Fed rate-hike bets - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZzBGeldkbEhDOHRKLWZHamdKUW0xU1lxbnp1ZV9MRS13TkZTbWZsb0ExeHhqX1c2Z3JYTWtnb2sxZWlQeVBrdWFzZHhXLVAzT25MZTc4TV9vV24ycnJOSTN0Tm1QbFRuUzBYalduQ3dYVEdIVmp5LUdDdmtlRDNPZzdIZGZvZ3Iybm5WVGdCZEdQaXVUUEJtRGNJdGlULUlQbUdLSUQ1WHFaV2s?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-05-22T08:39:04.222Z",
-      "pushedAt": "2026-05-22T08:39:04.222Z"
-    },
-    {
-      "id": "79ce8932f118d38b",
-      "title": "Puig plunges after Estée Lauder tie-up talks terminated; European stocks open higher",
-      "url": "https://www.cnbc.com/2026/05/22/europe-markets-stocks-ftse-100-stoxx-defense-iran-economic-data.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock"
-      ],
-      "firstSeen": "2026-05-22T08:39:04.490Z",
-      "pushedAt": "2026-05-22T08:39:04.490Z"
     }
   ],
-  "updatedAt": "2026-05-23T06:42:35.421Z"
+  "updatedAt": "2026-05-23T08:52:35.019Z"
 }
