@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7a6295802a495c04",
+      "title": "Rubio visits India to sell energy as Iran oil shock persists",
+      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-05-23T04:09:04.997Z",
+      "pushedAt": "2026-05-23T04:09:04.997Z"
+    },
+    {
       "id": "c2fd75faa67d6999",
       "title": "China Lifts HPAI Poultry Export Restrictions for 17 States - National Chicken Council",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHV0RF9FUWJZVEpRVDFSeThLQ1c5cFIxQUtXcFNRZU1QWWRYTUFMMklZUUtiTFg0bHoxeGNZNG8tM0ZQd1cyX1d6UHBMdHRhbHNidXVBMmtmQ0YtcFh0cEpsc0hwTGs3dEJmMzVGSXZ0SlhVdmVzR1FGckRSbEwzRy1YemZwdDZ5MGJ2V3hCMzI1QWxya0RVQl83WjVKQzQ?oc=5",
@@ -97,67 +109,7 @@
       ],
       "firstSeen": "2026-05-22T05:44:16.321Z",
       "pushedAt": "2026-05-22T05:44:16.321Z"
-    },
-    {
-      "id": "fd4f037052fc9742",
-      "title": "US oil prices rise as investors doubt breakthrough in US-Iran peace talks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjNVY1BRR2J6WE9vYVZuRXloT2JGWURBM0JlNHZQd0lMd1RGNTBXTWE0bGRvdkFFcVEwZXN5Z2VoNTBfNzRuUHVBWEsySDNiMzBWWlFIeWlSdmVZM3Q4R2FhRXd2RjBnSVhZVE4tbTBIdkJTNFRRdFBEWmc2cndrR1oxbUtBajdqeUpfVXJmMUVtOEZsQlgzdFpsYmFGMHpBb08xZGxGNlVRMkJxbkxSanVobENBZ093M0w4?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-05-22T01:33:16.897Z",
-      "pushedAt": "2026-05-22T01:33:16.897Z"
-    },
-    {
-      "id": "acce385c3627556e",
-      "title": "CNBC Daily Open: Dow at all-time high as Iran reviews peace deal",
-      "url": "https://www.cnbc.com/2026/05/22/oil-markets-ease-after-trump-gives-tehran-more-time.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "all-time high + dow"
-      ],
-      "firstSeen": "2026-05-22T01:33:16.951Z",
-      "pushedAt": "2026-05-22T01:33:16.951Z"
-    },
-    {
-      "id": "40f3e935d57ca142",
-      "title": "Oil resumes rally as Iran reportedly wants to keep enriched uranium within the country",
-      "url": "https://www.cnbc.com/2026/05/22/oil-prices-today-trump-iran-strait-of-hormuz-uranium-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + oil"
-      ],
-      "firstSeen": "2026-05-22T01:33:16.982Z",
-      "pushedAt": "2026-05-22T01:33:16.982Z"
-    },
-    {
-      "id": "3654752f03572ece",
-      "title": "Over 2,000 gather in San Diego to mourn three men killed in mosque attack",
-      "url": "https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-21T23:38:06.189Z",
-      "pushedAt": "2026-05-21T23:38:06.189Z"
-    },
-    {
-      "id": "39e0bdc6f089d5c1",
-      "title": "At least 16 people killed in two attacks in northern Honduras",
-      "url": "https://www.aljazeera.com/news/2026/5/21/at-least-16-people-killed-in-two-attacks-in-northern-honduras?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-21T23:38:06.565Z",
-      "pushedAt": "2026-05-21T23:38:06.565Z"
     }
   ],
-  "updatedAt": "2026-05-22T20:59:58.168Z"
+  "updatedAt": "2026-05-23T04:09:05.231Z"
 }
