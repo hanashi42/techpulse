@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ec709b3b51396e90",
+      "title": "IRAN CONDEMNS US SANCTIONS ON ENVOY TO LEBANON - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05cnBFOGV3WGVwYlRXUGNwek9jbG9BdnNnUmN4c0FjLUkxcC1KV2VFeFRPNUNGT3hGdElna01lbk9qeE8tOHdYQ2p6T2tHeS1oRERkag?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-05-23T10:17:49.209Z",
+      "pushedAt": "2026-05-23T10:17:49.209Z"
+    },
+    {
       "id": "ff74bada1e4a9a50",
       "title": "Israeli forces attack central Gaza despite ceasefire agreement",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
@@ -111,5 +123,5 @@
       "pushedAt": "2026-05-22T11:27:58.635Z"
     }
   ],
-  "updatedAt": "2026-05-23T08:52:35.019Z"
+  "updatedAt": "2026-05-23T10:17:49.320Z"
 }
