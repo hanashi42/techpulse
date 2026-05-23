@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "77b253adca7ecff2",
+      "title": "90 killed and nine missing following 'gas explosion' at coal mine in China",
+      "url": "https://news.sky.com/story/china-four-killed-and-90-trapped-following-coal-mine-accident-13547200",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-05-23T06:42:35.205Z",
+      "pushedAt": "2026-05-23T06:42:35.205Z"
+    },
+    {
       "id": "7a6295802a495c04",
       "title": "Rubio visits India to sell energy as Iran oil shock persists",
       "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
@@ -97,19 +109,7 @@
       ],
       "firstSeen": "2026-05-22T08:39:04.490Z",
       "pushedAt": "2026-05-22T08:39:04.490Z"
-    },
-    {
-      "id": "0246b462b6cbb392",
-      "title": "Strait Of Hormuz Blockades Reshaping Trade Routes, Shipping Group Says - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95TFlveEtBbktQNlNWQUczdDRWa0NPWnFIb3hGNm5tTmhWRXRLLXpSY3laOXEyUUpqbkRqamhaeU5yMDhFdkJCRi15UU9iUjhidlF2Tw?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait"
-      ],
-      "firstSeen": "2026-05-22T05:44:16.321Z",
-      "pushedAt": "2026-05-22T05:44:16.321Z"
     }
   ],
-  "updatedAt": "2026-05-23T04:09:05.231Z"
+  "updatedAt": "2026-05-23T06:42:35.421Z"
 }
