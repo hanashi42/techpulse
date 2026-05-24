@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ed111cc05effda3a",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-24T07:38:21.890Z",
+      "pushedAt": "2026-05-24T07:38:21.890Z"
+    },
+    {
       "id": "f503e2bfadc12372",
       "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
       "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
@@ -71,19 +83,7 @@
       ],
       "firstSeen": "2026-05-23T08:52:34.786Z",
       "pushedAt": "2026-05-23T08:52:34.786Z"
-    },
-    {
-      "id": "77b253adca7ecff2",
-      "title": "90 killed and nine missing following 'gas explosion' at coal mine in China",
-      "url": "https://news.sky.com/story/china-four-killed-and-90-trapped-following-coal-mine-accident-13547200",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + killed"
-      ],
-      "firstSeen": "2026-05-23T06:42:35.205Z",
-      "pushedAt": "2026-05-23T06:42:35.205Z"
     }
   ],
-  "updatedAt": "2026-05-24T04:35:24.427Z"
+  "updatedAt": "2026-05-24T07:38:22.010Z"
 }
