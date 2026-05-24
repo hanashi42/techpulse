@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "cf63fd2574987b8c",
+      "title": "9-story building under construction in the Philippines collapses, leaving 21 people missing - AP News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQXzl4TWFzREY2ajJJRm0xaXVhcENQMGR4WmFKa1NFQ01kd0VDelgzUHNyLV9iY0Z3THAwWFR1dUZzek9hTW1nSHF5NWNWOXg1aHFRZXZrNWJTd0pQd24wVTJjdUx0M0tfYnRBYlhPS0EyV3BhM3Q3Z21jdE9sQkhrS1FQblVxR0VXUC1sY3BpYk1rQnM4V1U1c19MSW5FZw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "collapses + building"
+      ],
+      "firstSeen": "2026-05-24T10:55:22.959Z",
+      "pushedAt": "2026-05-24T10:55:22.959Z"
+    },
+    {
       "id": "bb2c94e3b256717e",
       "title": "Powerful bomb explosion in Pakistan's Quetta kills 24, reports say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa2p2dFBGZGJLX3hVNUxOQUxCS0Y5MjdhTG1TMGRaakFXSHNJUXVWLVRTSmUwRWZ2SmlNNmNoVkVaNWUwaDd1b0s5S3V5MjJFTlk3d2pXamlfcC1nYUpYVHp6NGFnLUgwdTl4SEdjWkp1MjZ6QXh3YmJvd3VtbVJpOG56RXo4MUpGQ0RUMjI0Q2hoOEo5ZTF3dGhKOHN2d1RBSmlYSVZpV2pRbDZzMDZtU0xIaUVBQV9iZV9HenY5UXNBUV9M?oc=5",
@@ -83,19 +95,7 @@
       ],
       "firstSeen": "2026-05-23T17:17:12.200Z",
       "pushedAt": "2026-05-23T17:17:12.200Z"
-    },
-    {
-      "id": "ec709b3b51396e90",
-      "title": "IRAN CONDEMNS US SANCTIONS ON ENVOY TO LEBANON - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05cnBFOGV3WGVwYlRXUGNwek9jbG9BdnNnUmN4c0FjLUkxcC1KV2VFeFRPNUNGT3hGdElna01lbk9qeE8tOHdYQ2p6T2tHeS1oRERkag?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-05-23T10:17:49.209Z",
-      "pushedAt": "2026-05-23T10:17:49.209Z"
     }
   ],
-  "updatedAt": "2026-05-24T09:30:05.437Z"
+  "updatedAt": "2026-05-24T10:55:23.224Z"
 }
