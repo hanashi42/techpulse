@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f503e2bfadc12372",
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-05-24T04:35:24.274Z",
+      "pushedAt": "2026-05-24T04:35:24.274Z"
+    },
+    {
+      "id": "74f1800d809a7dc4",
+      "title": "Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change?",
+      "url": "https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-05-24T04:35:24.384Z",
+      "pushedAt": "2026-05-24T04:35:24.384Z"
+    },
+    {
       "id": "822265a3a40659b6",
       "title": "China Eliminates Tariffs on Africa to Outmaneuver Trump - WSJ",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82bzZZRUg1VllYVk1iWTd2SWdSZVR5T2ZmN0k2ZEdTeEtiLWZ1RFdSQ2E3bE9XR052bHluTDFmU0JlcVJkSnp4QTlxLXk2R0NrM3F1QkYzMUd5aDJ2QzBMOWN4bkpPMEZILU9NWGd0NA?oc=5",
@@ -59,31 +83,7 @@
       ],
       "firstSeen": "2026-05-23T06:42:35.205Z",
       "pushedAt": "2026-05-23T06:42:35.205Z"
-    },
-    {
-      "id": "7a6295802a495c04",
-      "title": "Rubio visits India to sell energy as Iran oil shock persists",
-      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-05-23T04:09:04.997Z",
-      "pushedAt": "2026-05-23T04:09:04.997Z"
-    },
-    {
-      "id": "c2fd75faa67d6999",
-      "title": "China Lifts HPAI Poultry Export Restrictions for 17 States - National Chicken Council",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHV0RF9FUWJZVEpRVDFSeThLQ1c5cFIxQUtXcFNRZU1QWWRYTUFMMklZUUtiTFg0bHoxeGNZNG8tM0ZQd1cyX1d6UHBMdHRhbHNidXVBMmtmQ0YtcFh0cEpsc0hwTGs3dEJmMzVGSXZ0SlhVdmVzR1FGckRSbEwzRy1YemZwdDZ5MGJ2V3hCMzI1QWxya0RVQl83WjVKQzQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + export"
-      ],
-      "firstSeen": "2026-05-22T20:59:57.857Z",
-      "pushedAt": "2026-05-22T20:59:57.857Z"
     }
   ],
-  "updatedAt": "2026-05-23T17:17:12.324Z"
+  "updatedAt": "2026-05-24T04:35:24.427Z"
 }
