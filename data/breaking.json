@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8d1f7974502a6566",
+      "title": "Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner'",
+      "url": "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-05-24T23:37:53.374Z",
+      "pushedAt": "2026-05-24T23:37:53.374Z"
+    },
+    {
       "id": "e9b1987ccf346984",
       "title": "Iran negotiations, Oreshnik missile strike and Enhanced Games - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRlh4bEpZZ01aemtMbkpOWE9fRnI4QjBKaWMwUEF4REFLSVBwZ1oxYURFYUduSVFsRnVjUTQtTHRYMFJtMElCZ2lpOVdBcmxXai1UQVVHSEw1YjBOUlNGdGtTOHp5a1JhM09DSmtfTDIwZmtKREVDSmlRQ19aQnBkcUJKcTV2bm9welJRVWliM3l1Z2lwYWtJcFFDV2pKQzBQSGZv?oc=5",
@@ -109,5 +121,5 @@
       "pushedAt": "2026-05-24T04:35:24.384Z"
     }
   ],
-  "updatedAt": "2026-05-24T18:46:05.595Z"
+  "updatedAt": "2026-05-24T23:37:53.565Z"
 }
