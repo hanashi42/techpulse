@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e9b1987ccf346984",
+      "title": "Iran negotiations, Oreshnik missile strike and Enhanced Games - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRlh4bEpZZ01aemtMbkpOWE9fRnI4QjBKaWMwUEF4REFLSVBwZ1oxYURFYUduSVFsRnVjUTQtTHRYMFJtMElCZ2lpOVdBcmxXai1UQVVHSEw1YjBOUlNGdGtTOHp5a1JhM09DSmtfTDIwZmtKREVDSmlRQ19aQnBkcUJKcTV2bm9welJRVWliM3l1Z2lwYWtJcFFDV2pKQzBQSGZv?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-05-24T18:46:05.450Z",
+      "pushedAt": "2026-05-24T18:46:05.450Z"
+    },
+    {
       "id": "1876e25c8889cc06",
       "title": "At Least 14 Killed in Bombing Attack That Derailed a Train in Pakistan",
       "url": "https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html",
@@ -95,19 +107,7 @@
       ],
       "firstSeen": "2026-05-24T04:35:24.384Z",
       "pushedAt": "2026-05-24T04:35:24.384Z"
-    },
-    {
-      "id": "822265a3a40659b6",
-      "title": "China Eliminates Tariffs on Africa to Outmaneuver Trump - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82bzZZRUg1VllYVk1iWTd2SWdSZVR5T2ZmN0k2ZEdTeEtiLWZ1RFdSQ2E3bE9XR052bHluTDFmU0JlcVJkSnp4QTlxLXk2R0NrM3F1QkYzMUd5aDJ2QzBMOWN4bkpPMEZILU9NWGd0NA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-05-23T17:17:12.200Z",
-      "pushedAt": "2026-05-23T17:17:12.200Z"
     }
   ],
-  "updatedAt": "2026-05-24T14:42:05.808Z"
+  "updatedAt": "2026-05-24T18:46:05.595Z"
 }
