@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "109c623d0788fd3e",
+      "title": "At least four dead and 17 missing after unfinished building collapses in the Philippines",
+      "url": "https://news.sky.com/story/philippines-rescuers-search-for-people-trapped-under-rubble-after-building-collapses-13547503",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "collapses + building"
+      ],
+      "firstSeen": "2026-05-25T16:10:27.699Z",
+      "pushedAt": "2026-05-25T16:10:27.699Z"
+    },
+    {
       "id": "ed111cc05effda3a",
       "title": "Man killed in shark attack off Australia's north-east coast",
       "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
@@ -84,19 +96,7 @@
       ],
       "firstSeen": "2026-05-24T18:46:05.450Z",
       "pushedAt": "2026-05-24T18:46:05.450Z"
-    },
-    {
-      "id": "1876e25c8889cc06",
-      "title": "At Least 14 Killed in Bombing Attack That Derailed a Train in Pakistan",
-      "url": "https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-24T14:42:05.724Z",
-      "pushedAt": "2026-05-24T14:42:05.724Z"
     }
   ],
-  "updatedAt": "2026-05-25T13:48:25.339Z"
+  "updatedAt": "2026-05-25T16:10:28.072Z"
 }
