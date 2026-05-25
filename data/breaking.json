@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "14582aef1d636eec",
+      "title": "China's Huawei reveals chip design breakthrough amid US sanctions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRS04bHUwcjl3V05GLUpvanRzUmRya0NNc1ZUcTR4S3RxSU50S0JTRzFUMnFZX2FRRFFYS2tROVU2TDNkSGJOa3VkZVhueFZZVWthSFlzdkJ4TDZhQ0xGQlp2WWFrbnluQ3g3VzU1dkY2X2kwSi10OGJRcnprbmQxcm9lVzNDa3pORW9sWGZxcXp0R3RPOGtBbklFVmZUQUFUZlJ5UXVkbkhubFdfV18yU0ZMNFg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-05-25T06:05:48.929Z",
+      "pushedAt": "2026-05-25T06:05:48.929Z"
+    },
+    {
+      "id": "38078e6f94ba3bd8",
+      "title": "Tokyo stocks hit record, oil and dollar ease on Middle East peace hopes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80REpkZUY0REpKR1N0dkFWY29kaGdsYVlCdnhDdTNGNTYyWTVZSF9NOGl0bE5iM0ZoY1BjNnY3S0NGLXFFTVg0RkkycW90SG1oX3JNTXVuZlVHN182UUlkX29mNndnRktCTEozdk5IaF9UVDVnb19wc1RNUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "dollar + record"
+      ],
+      "firstSeen": "2026-05-25T06:05:49.272Z",
+      "pushedAt": "2026-05-25T06:05:49.272Z"
+    },
+    {
       "id": "8d1f7974502a6566",
       "title": "Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner'",
       "url": "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html",
@@ -95,31 +119,7 @@
       ],
       "firstSeen": "2026-05-24T07:38:21.890Z",
       "pushedAt": "2026-05-24T07:38:21.890Z"
-    },
-    {
-      "id": "f503e2bfadc12372",
-      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-05-24T04:35:24.274Z",
-      "pushedAt": "2026-05-24T04:35:24.274Z"
-    },
-    {
-      "id": "74f1800d809a7dc4",
-      "title": "Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change?",
-      "url": "https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-05-24T04:35:24.384Z",
-      "pushedAt": "2026-05-24T04:35:24.384Z"
     }
   ],
-  "updatedAt": "2026-05-24T23:37:53.565Z"
+  "updatedAt": "2026-05-25T06:05:49.332Z"
 }
