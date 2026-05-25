@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e9b89412722167ee",
+      "title": "Iraqi Paramilitary Member Killed In Mortar Shell Explosion - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04U3BBa0g2WmQyb1otcmVBRjI2aUdFX3MwamdTV1lyUGlUZmpDT0pJaWEtZkFWSnVlT0ZTNHhIZG5nSVBFdVMxdFFqYjRoY2pkU0YtRQ?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-05-25T17:53:12.453Z",
+      "pushedAt": "2026-05-25T17:53:12.453Z"
+    },
+    {
       "id": "109c623d0788fd3e",
       "title": "At least four dead and 17 missing after unfinished building collapses in the Philippines",
       "url": "https://news.sky.com/story/philippines-rescuers-search-for-people-trapped-under-rubble-after-building-collapses-13547503",
@@ -98,5 +110,5 @@
       "pushedAt": "2026-05-24T18:46:05.450Z"
     }
   ],
-  "updatedAt": "2026-05-25T16:10:28.072Z"
+  "updatedAt": "2026-05-25T17:53:12.597Z"
 }
