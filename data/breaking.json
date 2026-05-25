@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0750dfe25d0d1acf",
+      "title": "CNBC's The China Connection newsletter: Tariffs eased. Trust didn't.",
+      "url": "https://www.cnbc.com/2026/05/25/cnbcs-the-china-connection-newsletter-tariffs-eased-trust-didnt.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-05-25T23:46:22.210Z",
+      "pushedAt": "2026-05-25T23:46:22.210Z"
+    },
+    {
       "id": "e9b89412722167ee",
       "title": "Iraqi Paramilitary Member Killed In Mortar Shell Explosion - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04U3BBa0g2WmQyb1otcmVBRjI2aUdFX3MwamdTV1lyUGlUZmpDT0pJaWEtZkFWSnVlT0ZTNHhIZG5nSVBFdVMxdFFqYjRoY2pkU0YtRQ?oc=5",
@@ -84,31 +96,7 @@
       ],
       "firstSeen": "2026-05-25T06:05:49.272Z",
       "pushedAt": "2026-05-25T06:05:49.272Z"
-    },
-    {
-      "id": "8d1f7974502a6566",
-      "title": "Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner'",
-      "url": "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-05-24T23:37:53.374Z",
-      "pushedAt": "2026-05-24T23:37:53.374Z"
-    },
-    {
-      "id": "e9b1987ccf346984",
-      "title": "Iran negotiations, Oreshnik missile strike and Enhanced Games - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRlh4bEpZZ01aemtMbkpOWE9fRnI4QjBKaWMwUEF4REFLSVBwZ1oxYURFYUduSVFsRnVjUTQtTHRYMFJtMElCZ2lpOVdBcmxXai1UQVVHSEw1YjBOUlNGdGtTOHp5a1JhM09DSmtfTDIwZmtKREVDSmlRQ19aQnBkcUJKcTV2bm9welJRVWliM3l1Z2lwYWtJcFFDV2pKQzBQSGZv?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-05-24T18:46:05.450Z",
-      "pushedAt": "2026-05-24T18:46:05.450Z"
     }
   ],
-  "updatedAt": "2026-05-25T17:53:12.597Z"
+  "updatedAt": "2026-05-25T23:46:22.280Z"
 }
