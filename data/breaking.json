@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "840519e303f0f128",
+      "title": "India turns to Latin American, African oil after Hormuz disruption - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlZ2cU1UN0pBUXEwZzdyaG5wTDFiVXdJRUJ4UDBOVHJRRU01b1pCTXV6cHoxM1FUbXgzc0VvRHpMLW9WMjkwY2w2UTAyQllONkVxeEZPWkxyeGVMUHZsaUhrVkRJX1NCaE9jd1pJUW9PRjBNM1lNbXhILUd4N1B3dy1YYWZ5SmpNa2VPXzNhRzlySjNQX1dFanB1NGoyZnVrc0JqRENfNWdoX2FEYndlUVY3NkU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-05-25T10:43:03.464Z",
+      "pushedAt": "2026-05-25T10:43:03.464Z"
+    },
+    {
+      "id": "74f1800d809a7dc4",
+      "title": "Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change?",
+      "url": "https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-05-25T10:43:03.630Z",
+      "pushedAt": "2026-05-25T10:43:03.630Z"
+    },
+    {
       "id": "14582aef1d636eec",
       "title": "China's Huawei reveals chip design breakthrough amid US sanctions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRS04bHUwcjl3V05GLUpvanRzUmRya0NNc1ZUcTR4S3RxSU50S0JTRzFUMnFZX2FRRFFYS2tROVU2TDNkSGJOa3VkZVhueFZZVWthSFlzdkJ4TDZhQ0xGQlp2WWFrbnluQ3g3VzU1dkY2X2kwSi10OGJRcnprbmQxcm9lVzNDa3pORW9sWGZxcXp0R3RPOGtBbklFVmZUQUFUZlJ5UXVkbkhubFdfV18yU0ZMNFg?oc=5",
@@ -71,55 +96,7 @@
       ],
       "firstSeen": "2026-05-24T10:55:22.959Z",
       "pushedAt": "2026-05-24T10:55:22.959Z"
-    },
-    {
-      "id": "bb2c94e3b256717e",
-      "title": "Powerful bomb explosion in Pakistan's Quetta kills 24, reports say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa2p2dFBGZGJLX3hVNUxOQUxCS0Y5MjdhTG1TMGRaakFXSHNJUXVWLVRTSmUwRWZ2SmlNNmNoVkVaNWUwaDd1b0s5S3V5MjJFTlk3d2pXamlfcC1nYUpYVHp6NGFnLUgwdTl4SEdjWkp1MjZ6QXh3YmJvd3VtbVJpOG56RXo4MUpGQ0RUMjI0Q2hoOEo5ZTF3dGhKOHN2d1RBSmlYSVZpV2pRbDZzMDZtU0xIaUVBQV9iZV9HenY5UXNBUV9M?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + bomb"
-      ],
-      "firstSeen": "2026-05-24T09:30:04.945Z",
-      "pushedAt": "2026-05-24T09:30:04.945Z"
-    },
-    {
-      "id": "0211efc0c264bdcd",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + killed"
-      ],
-      "firstSeen": "2026-05-24T09:30:05.272Z",
-      "pushedAt": "2026-05-24T09:30:05.272Z"
-    },
-    {
-      "id": "41a77bf3a955df5e",
-      "title": "At least four killed in Kyiv airstrikes as Zelenskyy claims hypersonic missile used during attacks",
-      "url": "https://news.sky.com/story/at-least-four-killed-in-kyiv-airstrikes-as-zelenskyy-claims-hypersonic-missile-used-during-attacks-13547478",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-24T09:30:05.333Z",
-      "pushedAt": "2026-05-24T09:30:05.333Z"
-    },
-    {
-      "id": "ed111cc05effda3a",
-      "title": "Man killed in shark attack off Australia's north-east coast",
-      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-24T07:38:21.890Z",
-      "pushedAt": "2026-05-24T07:38:21.890Z"
     }
   ],
-  "updatedAt": "2026-05-25T06:05:49.332Z"
+  "updatedAt": "2026-05-25T10:43:03.744Z"
 }
