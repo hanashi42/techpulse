@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "9918e9eb3ec16342",
+      "title": "UK targets Russian crypto networks in latest sanctions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM2hDVXJmTWVoQWVQazFLUElkOGd3VWRZaWVJZmdTR1RQVHk1dEZWRlJfbzFjYUlXcGdFRWlyTHQ1MnlpVHF1UFR6TXQ4MkhlcjJZWmtOLWkzSVVoUkozLXBOY1VQMnpQamdEU2VhNHZYTXdSN3c2Tmw1TE52UVYydnpFTkpVM2RmX01nZEtvM1hwVVlyM2staw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-05-26T14:26:36.366Z",
+      "pushedAt": "2026-05-26T14:26:36.366Z"
+    },
+    {
+      "id": "1ab54aea92dcf538",
+      "title": "Brent oil price jumps 3% after Iran vows to retaliate for U.S. strikes",
+      "url": "https://www.cnbc.com/2026/05/26/oil-prices-today-brent-wti-iran-trump-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-05-26T14:26:36.481Z",
+      "pushedAt": "2026-05-26T14:26:36.481Z"
+    },
+    {
       "id": "d5e6009bba19bb75",
       "title": "Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTkwYW9nZUowenF1ZHZyQjFQdVRaQldXblFzVE5rMG1aTDFCSW9mMXBfeDhOM1lFRFl5aXlKR2NVMXRTNFdCczBBQzliUmtEeUs5Qmticjk5ZEVIZmtpTUdoY2lSQnhkQWF3aG8yaUVJVklrR042d1Itc3RsajYtOXcwV3JHYk0zZDRIMlFpRmwwVkk?oc=5",
@@ -47,68 +71,7 @@
       ],
       "firstSeen": "2026-05-25T16:10:27.699Z",
       "pushedAt": "2026-05-25T16:10:27.699Z"
-    },
-    {
-      "id": "ed111cc05effda3a",
-      "title": "Man killed in shark attack off Australia's north-east coast",
-      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-25T13:48:25.280Z",
-      "pushedAt": "2026-05-25T13:48:25.280Z"
-    },
-    {
-      "id": "840519e303f0f128",
-      "title": "India turns to Latin American, African oil after Hormuz disruption - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlZ2cU1UN0pBUXEwZzdyaG5wTDFiVXdJRUJ4UDBOVHJRRU01b1pCTXV6cHoxM1FUbXgzc0VvRHpMLW9WMjkwY2w2UTAyQllONkVxeEZPWkxyeGVMUHZsaUhrVkRJX1NCaE9jd1pJUW9PRjBNM1lNbXhILUd4N1B3dy1YYWZ5SmpNa2VPXzNhRzlySjNQX1dFanB1NGoyZnVrc0JqRENfNWdoX2FEYndlUVY3NkU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-05-25T10:43:03.464Z",
-      "pushedAt": "2026-05-25T10:43:03.464Z"
-    },
-    {
-      "id": "74f1800d809a7dc4",
-      "title": "Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change?",
-      "url": "https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-05-25T10:43:03.630Z",
-      "pushedAt": "2026-05-25T10:43:03.630Z"
-    },
-    {
-      "id": "14582aef1d636eec",
-      "title": "China's Huawei reveals chip design breakthrough amid US sanctions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRS04bHUwcjl3V05GLUpvanRzUmRya0NNc1ZUcTR4S3RxSU50S0JTRzFUMnFZX2FRRFFYS2tROVU2TDNkSGJOa3VkZVhueFZZVWthSFlzdkJ4TDZhQ0xGQlp2WWFrbnluQ3g3VzU1dkY2X2kwSi10OGJRcnprbmQxcm9lVzNDa3pORW9sWGZxcXp0R3RPOGtBbklFVmZUQUFUZlJ5UXVkbkhubFdfV18yU0ZMNFg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-05-25T06:05:48.929Z",
-      "pushedAt": "2026-05-25T06:05:48.929Z"
-    },
-    {
-      "id": "38078e6f94ba3bd8",
-      "title": "Tokyo stocks hit record, oil and dollar ease on Middle East peace hopes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80REpkZUY0REpKR1N0dkFWY29kaGdsYVlCdnhDdTNGNTYyWTVZSF9NOGl0bE5iM0ZoY1BjNnY3S0NGLXFFTVg0RkkycW90SG1oX3JNTXVuZlVHN182UUlkX29mNndnRktCTEozdk5IaF9UVDVnb19wc1RNUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "dollar + record"
-      ],
-      "firstSeen": "2026-05-25T06:05:49.272Z",
-      "pushedAt": "2026-05-25T06:05:49.272Z"
     }
   ],
-  "updatedAt": "2026-05-26T01:31:02.987Z"
+  "updatedAt": "2026-05-26T14:26:36.583Z"
 }
