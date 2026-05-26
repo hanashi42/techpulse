@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "6bc63e89a93d90d4",
+      "title": "Remnants of Assad's chemical weapons program recovered, Syrian official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQUhWUUtIM29mMlVRT3dZSWR2dXNkYkJ1UHBwWGxFZ0tFVm1JeldvZ2JkR25XcTRJNEgyUFpLTVA3QzdVajVXR1NDMURGM1hHN0dDcHVZLU1fdVVQOGgxNmlUY0lQWC1DTmd2UEU1Q3RhNWZhck9CdjVtZlFPVEVnQUYtUUxoSG11TmxlaWM1dVQyd1JpcG1EWC1icU1PMGdfeU1wdF91WDVUUkxoTFBnMmRfSjNlbTFDV2xjWWhpZlNSVzQ?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "chemical weapons"
+      ],
+      "firstSeen": "2026-05-26T17:40:25.128Z",
+      "pushedAt": "2026-05-26T17:40:25.128Z"
+    },
+    {
+      "id": "5dd97a8437feafe9",
+      "title": "Iranian fishermen struggle to survive amid Hormuz blockade",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + hormuz"
+      ],
+      "firstSeen": "2026-05-26T17:40:25.338Z",
+      "pushedAt": "2026-05-26T17:40:25.338Z"
+    },
+    {
+      "id": "e8f812a5114350c6",
+      "title": "China Executes Man Who Assassinated Billionaire Boss After Row Over 3 Body Problem Netflix Series - IGN",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOW45Z294ZTFKRHE0eXlmLTR2RmlKUWtYNzBVZWo3OFd0RXBWRXJPV1l6ajJJdk1fc2paNEUyVnQ0QXZSWmdXdzRKQjhFUkxseE5jOVBlWk03dWxlaTJMNkVjQkwwLVppOUREUnpVRnpKTTVCQ0tlWVNSV1h3T3BGSGNoOFlmcXR2V3o0OGlZY1NBZXpja0hJNmZ6aGpYOFJydC1IM1ZTYUc3XzVXQlprQWpQS3R3UkliTXdLM3MyaXNpWnFPc0VCR3F5emMyTzNja0JKVkVZZlc?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "assassinated"
+      ],
+      "firstSeen": "2026-05-26T17:40:25.475Z",
+      "pushedAt": "2026-05-26T17:40:25.475Z"
+    },
+    {
       "id": "9918e9eb3ec16342",
       "title": "UK targets Russian crypto networks in latest sanctions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM2hDVXJmTWVoQWVQazFLUElkOGd3VWRZaWVJZmdTR1RQVHk1dEZWRlJfbzFjYUlXcGdFRWlyTHQ1MnlpVHF1UFR6TXQ4MkhlcjJZWmtOLWkzSVVoUkozLXBOY1VQMnpQamdEU2VhNHZYTXdSN3c2Tmw1TE52UVYydnpFTkpVM2RmX01nZEtvM1hwVVlyM2staw?oc=5",
@@ -59,19 +95,7 @@
       ],
       "firstSeen": "2026-05-25T17:53:12.453Z",
       "pushedAt": "2026-05-25T17:53:12.453Z"
-    },
-    {
-      "id": "109c623d0788fd3e",
-      "title": "At least four dead and 17 missing after unfinished building collapses in the Philippines",
-      "url": "https://news.sky.com/story/philippines-rescuers-search-for-people-trapped-under-rubble-after-building-collapses-13547503",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "collapses + building"
-      ],
-      "firstSeen": "2026-05-25T16:10:27.699Z",
-      "pushedAt": "2026-05-25T16:10:27.699Z"
     }
   ],
-  "updatedAt": "2026-05-26T14:26:36.583Z"
+  "updatedAt": "2026-05-26T17:40:26.061Z"
 }
