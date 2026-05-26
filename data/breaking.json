@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d5e6009bba19bb75",
+      "title": "Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTkwYW9nZUowenF1ZHZyQjFQdVRaQldXblFzVE5rMG1aTDFCSW9mMXBfeDhOM1lFRFl5aXlKR2NVMXRTNFdCczBBQzliUmtEeUs5Qmticjk5ZEVIZmtpTUdoY2lSQnhkQWF3aG8yaUVJVklrR042d1Itc3RsajYtOXcwV3JHYk0zZDRIMlFpRmwwVkk?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-05-26T01:31:02.648Z",
+      "pushedAt": "2026-05-26T01:31:02.648Z"
+    },
+    {
       "id": "0750dfe25d0d1acf",
       "title": "CNBC's The China Connection newsletter: Tariffs eased. Trust didn't.",
       "url": "https://www.cnbc.com/2026/05/25/cnbcs-the-china-connection-newsletter-tariffs-eased-trust-didnt.html",
@@ -98,5 +110,5 @@
       "pushedAt": "2026-05-25T06:05:49.272Z"
     }
   ],
-  "updatedAt": "2026-05-25T23:46:22.280Z"
+  "updatedAt": "2026-05-26T01:31:02.987Z"
 }
