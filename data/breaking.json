@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "822265a3a40659b6",
+      "title": "China Eliminates Tariffs on Africa to Outmaneuver Trump - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82bzZZRUg1VllYVk1iWTd2SWdSZVR5T2ZmN0k2ZEdTeEtiLWZ1RFdSQ2E3bE9XR052bHluTDFmU0JlcVJkSnp4QTlxLXk2R0NrM3F1QkYzMUd5aDJ2QzBMOWN4bkpPMEZILU9NWGd0NA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-26T22:39:33.318Z",
+      "pushedAt": "2026-05-26T22:39:33.318Z"
+    },
+    {
       "id": "1484b25564485202",
       "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
       "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
@@ -97,5 +109,5 @@
       "pushedAt": "2026-05-25T23:46:22.210Z"
     }
   ],
-  "updatedAt": "2026-05-26T21:15:29.288Z"
+  "updatedAt": "2026-05-26T22:39:33.446Z"
 }
