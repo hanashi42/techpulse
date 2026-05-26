@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1484b25564485202",
+      "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
+      "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + closed"
+      ],
+      "firstSeen": "2026-05-26T21:15:29.113Z",
+      "pushedAt": "2026-05-26T21:15:29.113Z"
+    },
+    {
       "id": "6bc63e89a93d90d4",
       "title": "Remnants of Assad's chemical weapons program recovered, Syrian official says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQUhWUUtIM29mMlVRT3dZSWR2dXNkYkJ1UHBwWGxFZ0tFVm1JeldvZ2JkR25XcTRJNEgyUFpLTVA3QzdVajVXR1NDMURGM1hHN0dDcHVZLU1fdVVQOGgxNmlUY0lQWC1DTmd2UEU1Q3RhNWZhck9CdjVtZlFPVEVnQUYtUUxoSG11TmxlaWM1dVQyd1JpcG1EWC1icU1PMGdfeU1wdF91WDVUUkxoTFBnMmRfSjNlbTFDV2xjWWhpZlNSVzQ?oc=5",
@@ -83,19 +95,7 @@
       ],
       "firstSeen": "2026-05-25T23:46:22.210Z",
       "pushedAt": "2026-05-25T23:46:22.210Z"
-    },
-    {
-      "id": "e9b89412722167ee",
-      "title": "Iraqi Paramilitary Member Killed In Mortar Shell Explosion - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04U3BBa0g2WmQyb1otcmVBRjI2aUdFX3MwamdTV1lyUGlUZmpDT0pJaWEtZkFWSnVlT0ZTNHhIZG5nSVBFdVMxdFFqYjRoY2pkU0YtRQ?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + killed"
-      ],
-      "firstSeen": "2026-05-25T17:53:12.453Z",
-      "pushedAt": "2026-05-25T17:53:12.453Z"
     }
   ],
-  "updatedAt": "2026-05-26T17:40:26.061Z"
+  "updatedAt": "2026-05-26T21:15:29.288Z"
 }
