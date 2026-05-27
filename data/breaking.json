@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "0168c7ad0224286c",
+      "title": "Iran state TV says draft deal with US would reopen Hormuz shipping, end naval blockade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHB3ZTljSEdNUGlta055MjFRSDNTZGg2WkZmWjdFOUZfRC1Xd2Q2V2FSWmRxd0xPSTBGel91Um5yN3BHRVhhTURxcUFZTHBJckZDU2hvenpkbWg3aGY3cjB1VERORDR6Z00zTEdEbzB4SlBhUG11UkpkcDRTT2lpZmZxNVoxaXNDbHJWUHdkT0Q3d2VqZHFraUY5alIwcGY2WWEtVV9lblgtMy1GOWRIVlU4eVpzU2s2dzVPZFltZC00UXM?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + naval",
+        "hormuz + naval"
+      ],
+      "firstSeen": "2026-05-27T16:52:48.331Z",
+      "pushedAt": "2026-05-27T16:52:48.331Z"
+    },
+    {
+      "id": "b225e936fa79f4b5",
+      "title": "Oil prices fall 4% after Rubio says U.S. will give Iran diplomacy 'every chance to succeed'",
+      "url": "https://www.cnbc.com/2026/05/27/oil-price-today-iran-war-strait-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-05-27T16:52:48.522Z",
+      "pushedAt": "2026-05-27T16:52:48.522Z"
+    },
+    {
       "id": "e134476fb9cc2172",
       "title": "Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth",
       "url": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html",
@@ -168,31 +193,7 @@
       ],
       "firstSeen": "2026-05-26T17:40:25.475Z",
       "pushedAt": "2026-05-26T17:40:25.475Z"
-    },
-    {
-      "id": "9918e9eb3ec16342",
-      "title": "UK targets Russian crypto networks in latest sanctions - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM2hDVXJmTWVoQWVQazFLUElkOGd3VWRZaWVJZmdTR1RQVHk1dEZWRlJfbzFjYUlXcGdFRWlyTHQ1MnlpVHF1UFR6TXQ4MkhlcjJZWmtOLWkzSVVoUkozLXBOY1VQMnpQamdEU2VhNHZYTXdSN3c2Tmw1TE52UVYydnpFTkpVM2RmX01nZEtvM1hwVVlyM2staw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-05-26T14:26:36.366Z",
-      "pushedAt": "2026-05-26T14:26:36.366Z"
-    },
-    {
-      "id": "1ab54aea92dcf538",
-      "title": "Brent oil price jumps 3% after Iran vows to retaliate for U.S. strikes",
-      "url": "https://www.cnbc.com/2026/05/26/oil-prices-today-brent-wti-iran-trump-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-05-26T14:26:36.481Z",
-      "pushedAt": "2026-05-26T14:26:36.481Z"
     }
   ],
-  "updatedAt": "2026-05-27T13:48:16.828Z"
+  "updatedAt": "2026-05-27T16:52:48.629Z"
 }
