@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "916bc5283192f289",
+      "title": "Ringgit Closes Lower Against US Dollar Amid Heightened West Asia Tensions - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nVENwRDlYZUZDM242d0FqWjJEZzgyOWp1emo4elpFNFd1b01kU09VSnpLZHBLRWMwT1hFd3lNeFJ6bE53SDVZLWI3bFJTQmNLZmFNVzREd25vNHc0?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "ringgit + low",
+        "ringgit + low"
+      ],
+      "firstSeen": "2026-05-27T06:04:23.788Z",
+      "pushedAt": "2026-05-27T06:04:23.788Z"
+    },
+    {
       "id": "a188021de668bb31",
       "title": "Multiple people killed and others missing after chemical explosion at US paper mill",
       "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
@@ -121,5 +134,5 @@
       "pushedAt": "2026-05-26T14:26:36.481Z"
     }
   ],
-  "updatedAt": "2026-05-27T01:52:32.203Z"
+  "updatedAt": "2026-05-27T06:04:23.884Z"
 }
