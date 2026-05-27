@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "9394d3c000f9ec5d",
+      "title": "Markets rally amid hopes of US-Iran deal",
+      "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + market"
+      ],
+      "firstSeen": "2026-05-27T22:48:33.089Z",
+      "pushedAt": "2026-05-27T22:48:33.089Z"
+    },
+    {
       "id": "84464e33b0c7153c",
       "title": "Trump appears to threaten Oman with bombing over Strait of Hormuz impasse",
       "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
@@ -169,31 +181,7 @@
       ],
       "firstSeen": "2026-05-27T01:52:32.121Z",
       "pushedAt": "2026-05-27T01:52:32.121Z"
-    },
-    {
-      "id": "822265a3a40659b6",
-      "title": "China Eliminates Tariffs on Africa to Outmaneuver Trump - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82bzZZRUg1VllYVk1iWTd2SWdSZVR5T2ZmN0k2ZEdTeEtiLWZ1RFdSQ2E3bE9XR052bHluTDFmU0JlcVJkSnp4QTlxLXk2R0NrM3F1QkYzMUd5aDJ2QzBMOWN4bkpPMEZILU9NWGd0NA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-05-26T22:39:33.318Z",
-      "pushedAt": "2026-05-26T22:39:33.318Z"
-    },
-    {
-      "id": "1484b25564485202",
-      "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
-      "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + closed"
-      ],
-      "firstSeen": "2026-05-26T21:15:29.113Z",
-      "pushedAt": "2026-05-26T21:15:29.113Z"
     }
   ],
-  "updatedAt": "2026-05-27T21:07:37.863Z"
+  "updatedAt": "2026-05-27T22:48:33.214Z"
 }
