@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e134476fb9cc2172",
+      "title": "Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth",
+      "url": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + global"
+      ],
+      "firstSeen": "2026-05-27T13:48:16.415Z",
+      "pushedAt": "2026-05-27T13:48:16.415Z"
+    },
+    {
+      "id": "30531a2a1d67d3b5",
+      "title": "Market correction risk looks elevated as stocks hit record highs, top Europe central banker warns",
+      "url": "https://www.cnbc.com/2026/05/27/ecb-vp-market-correction-risk-elevated-as-stocks-hit-record-highs.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "record high + stock"
+      ],
+      "firstSeen": "2026-05-27T13:48:16.634Z",
+      "pushedAt": "2026-05-27T13:48:16.634Z"
+    },
+    {
       "id": "1402f020a752070a",
       "title": "Oil prices drop as traders look for US-Iran talks progress - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdktTeHl4ZHpzZm0waURXVWVISGZtQzZhMDQxQzEwRkYxVnpzSV9HQzM5ZmVhSkxMSEg3SzdvV0xsMWNMSVBPVG5TbmhDMllLWVM0S2lISzhIZ2ZWU2dST2UwdEtETWZhcGF0VHM3RGxLcXllbG5GN0JtRkpubTRkRzNqbGxqN3pTRTc3ODdqdTFBdnB1WTBYM2MwOHp0VWdBRU16LQ?oc=5",
@@ -170,5 +194,5 @@
       "pushedAt": "2026-05-26T14:26:36.481Z"
     }
   ],
-  "updatedAt": "2026-05-27T10:14:02.602Z"
+  "updatedAt": "2026-05-27T13:48:16.828Z"
 }
