@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "a188021de668bb31",
+      "title": "Multiple people killed and others missing after chemical explosion at US paper mill",
+      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-05-27T01:52:31.692Z",
+      "pushedAt": "2026-05-27T01:52:31.692Z"
+    },
+    {
+      "id": "fd276f862253593d",
+      "title": "US to seek public comment on which Chinese goods qualify for lower tariffs - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOWJ0TkFsZHFNa2oydE9EazVaWVZHaUhEYlVyT2lxYlc5RXZlaVBPWWs0TG5lSm1wZV94bml0ZmxQQjF2SmVtYjZMb1QtaVhCVGxwQzI5SDFyaHoxdjdRZzAtazlwZmZnUGNRbHIwN3VDbEZBbEE4T05pQ1NiQmY5UWc0c25lcDBacmNzakNLY1VtOHdkUi14WXhTbmswd256clZsT2VjZ2pIUXowYU9Ma293ZzJjNlXSAbcBQVVfeXFMTXB5RVA2V1BZYzFrZ1ZXOHRnRmJVUEJZLVN0VmpfNnRvZFg1RmpkbXNFbEZFTU1GZ1pKdlNzSkh0WjNYbUxsd2Y2eWNDb0U1RTN2ZFNGMG5qSFoyRFAySXRtX2tBM1VRMF9UQlhiTnVnbzFITFMwYXlrb3lfRVp0V3hhTFZHUHdpOUxwVUdKbHM5Q0Nub2dWQUItZnNrdTFGYW5OMlNvUEhyUjJoN1VMdm5maEw5V0Jr?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-27T01:52:31.928Z",
+      "pushedAt": "2026-05-27T01:52:31.928Z"
+    },
+    {
+      "id": "b847dbd6fb633985",
+      "title": "Chinese Refiners Are Absorbing Much of the Hit From Hormuz Shutdown - The Maritime Executive",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkpNcHY1RHpadHk2SzFnaGNKWk5ELXh0VUZ1TlNwWEZaQ053clNqcnRxem1pb29IaW9YTk9teE1NSUUtNTdaamU0dXlTenJVblZfelpwOW0xYTVjblpGRHRLU09WOExBNVV0Q0I0bGFUUWJHUE5KRmNhNmxDOU0wU0dsR3ZjNExNRTdkWk01WG5MRHF5dVB5SE1wN1AxcjBya2dIVjhIamYwQQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + shutdown"
+      ],
+      "firstSeen": "2026-05-27T01:52:32.121Z",
+      "pushedAt": "2026-05-27T01:52:32.121Z"
+    },
+    {
       "id": "822265a3a40659b6",
       "title": "China Eliminates Tariffs on Africa to Outmaneuver Trump - WSJ",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82bzZZRUg1VllYVk1iWTd2SWdSZVR5T2ZmN0k2ZEdTeEtiLWZ1RFdSQ2E3bE9XR052bHluTDFmU0JlcVJkSnp4QTlxLXk2R0NrM3F1QkYzMUd5aDJ2QzBMOWN4bkpPMEZILU9NWGd0NA?oc=5",
@@ -83,31 +119,7 @@
       ],
       "firstSeen": "2026-05-26T14:26:36.481Z",
       "pushedAt": "2026-05-26T14:26:36.481Z"
-    },
-    {
-      "id": "d5e6009bba19bb75",
-      "title": "Global shares gain and oil prices fall after Trump says talks on ending the war are proceeding - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdTkwYW9nZUowenF1ZHZyQjFQdVRaQldXblFzVE5rMG1aTDFCSW9mMXBfeDhOM1lFRFl5aXlKR2NVMXRTNFdCczBBQzliUmtEeUs5Qmticjk5ZEVIZmtpTUdoY2lSQnhkQWF3aG8yaUVJVklrR042d1Itc3RsajYtOXcwV3JHYk0zZDRIMlFpRmwwVkk?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-05-26T01:31:02.648Z",
-      "pushedAt": "2026-05-26T01:31:02.648Z"
-    },
-    {
-      "id": "0750dfe25d0d1acf",
-      "title": "CNBC's The China Connection newsletter: Tariffs eased. Trust didn't.",
-      "url": "https://www.cnbc.com/2026/05/25/cnbcs-the-china-connection-newsletter-tariffs-eased-trust-didnt.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-25T23:46:22.210Z",
-      "pushedAt": "2026-05-25T23:46:22.210Z"
     }
   ],
-  "updatedAt": "2026-05-26T22:39:33.446Z"
+  "updatedAt": "2026-05-27T01:52:32.203Z"
 }
