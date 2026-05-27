@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "84464e33b0c7153c",
+      "title": "Trump appears to threaten Oman with bombing over Strait of Hormuz impasse",
+      "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-05-27T21:07:37.346Z",
+      "pushedAt": "2026-05-27T21:07:37.346Z"
+    },
+    {
+      "id": "a8b4b052cb9b5718",
+      "title": "Recession with Chinese Characteristics - American Enterprise Institute - AEI",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ELXRuZ0ktMTN2ZGxXMEhiVC1WV1hiYnMzbjFBbG91ZGFpa1duTHctdUM2OW1OYzhRd0FNZENuWVN6MzdiOVRMYmFyeGN0Zll1ZGtBcmRoaW5rbzFNMGlTeXdGVHZIbkJBN2VGdWxKZnNiaWt1c3ZxWg?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "recession + enter"
+      ],
+      "firstSeen": "2026-05-27T21:07:37.624Z",
+      "pushedAt": "2026-05-27T21:07:37.624Z"
+    },
+    {
       "id": "a4313798f3b85275",
       "title": "South Korea To Disclose Probe Results Of Vessel Attacked In Hormuz - Bernama",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qeVVEbjl2T1NLZndXTmUzNkdFVXlnSzd4MUF1c1lMUUFsTUEtNUEzTFNkVjdrV2EyNFhLd1MxTHhfV1hGeFFranh2S241ZXNJb1NacXIxcExvTkI3M0VDbzIwU0hFYlhQckxHbVhNTzc1dVBF?oc=5",
@@ -171,5 +195,5 @@
       "pushedAt": "2026-05-26T21:15:29.113Z"
     }
   ],
-  "updatedAt": "2026-05-27T19:09:34.927Z"
+  "updatedAt": "2026-05-27T21:07:37.863Z"
 }
