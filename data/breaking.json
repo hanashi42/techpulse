@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "a188021de668bb31",
+      "title": "One killed and nine missing after chemical explosion at US paper mill",
+      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-05-28T09:04:11.289Z",
+      "pushedAt": "2026-05-28T09:04:11.289Z"
+    },
+    {
+      "id": "5dee6637ff60a2f5",
+      "title": "CNBC Daily Open: Hostilities heat up, market rally cools",
+      "url": "https://www.cnbc.com/2026/05/28/cnbc-daily-open-hostilities-heat-up-market-rally-cool.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + market"
+      ],
+      "firstSeen": "2026-05-28T09:04:11.574Z",
+      "pushedAt": "2026-05-28T09:04:11.574Z"
+    },
+    {
+      "id": "95c74cf4a24aafac",
+      "title": "EU to broaden import quotas and tariffs against China, official tells FT - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV054NnVQTkY4Q0otUkRWUGFsWWN5VXpPT2pocHc1Sm5ydGNVZ2UwbmItbkd5cmtMb01OMG5UdXdXNHVadDh6WUtiSnNvMmNMVkl1ODZ2dnVqbGFRMk43d3VCV2d2RmhXT2dfbmMwY0pPTkRRTlE1T3UyZXV0WEw2eVNwU3k5ckNibzFoaHdlRnp0NVBPM2tjSllPeloyX0VZUGs1QUl5OEVCckFKSVE0MnNn?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-28T09:04:11.610Z",
+      "pushedAt": "2026-05-28T09:04:11.610Z"
+    },
+    {
       "id": "b08527b107246f64",
       "title": "Oil surges after Iran targets US airbase in retaliation - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHB5YkltTDFSMnhnMmJiMDllejdmMkU4bXFxVDhhWHd5RnpyT3dydGZZQkpMUTdTeUZqWDlnUXdHbGE4YjIxU0FjQ3c0TG40X2t5YVlRaFJqbm9kLW5GTVB0eUFZZmFKQ0swXzFNU2xRVlJEaTZsekI3SG1JYTlJYUVRSGMyTTdxYkdobTBZZER0bGpnUi1YVTBqX2ZYNmlVQWc?oc=5",
@@ -169,20 +205,7 @@
       ],
       "firstSeen": "2026-05-27T10:14:02.479Z",
       "pushedAt": "2026-05-27T10:14:02.479Z"
-    },
-    {
-      "id": "916bc5283192f289",
-      "title": "Ringgit Closes Lower Against US Dollar Amid Heightened West Asia Tensions - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nVENwRDlYZUZDM242d0FqWjJEZzgyOWp1emo4elpFNFd1b01kU09VSnpLZHBLRWMwT1hFd3lNeFJ6bE53SDVZLWI3bFJTQmNLZmFNVzREd25vNHc0?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "ringgit + low",
-        "ringgit + low"
-      ],
-      "firstSeen": "2026-05-27T06:04:23.788Z",
-      "pushedAt": "2026-05-27T06:04:23.788Z"
     }
   ],
-  "updatedAt": "2026-05-28T05:43:11.525Z"
+  "updatedAt": "2026-05-28T09:04:11.634Z"
 }
