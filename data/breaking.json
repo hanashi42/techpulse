@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "cd99f755a8303786",
+      "title": "US inflation surges to three-year high amid tensions with Iran",
+      "url": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + inflation",
+        "inflation + surge"
+      ],
+      "firstSeen": "2026-05-28T19:17:36.562Z",
+      "pushedAt": "2026-05-28T19:17:36.562Z"
+    },
+    {
+      "id": "a40590d5446770be",
+      "title": "U.S.-China Trade Talks Signal New Agricultural Commitments - American Farm Bureau Federation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVEwdFBhcGVUemkzOFVibGdyNUgwWTVCRTA5eFRoLUZ2NU5wVklDaEotUGdlN0ZqUDdURG5xLWVWR1FEZzBHaTl0OUpya2k1S3RMZzVvLTVlMTAtOGx6a0xGc3FiWEdZa0E0bm9INmRNX1R0aEJuWWJqQ0xwVFZRUXBzMUx3NkdZbXB2NHFVTGlhYjg?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + signal"
+      ],
+      "firstSeen": "2026-05-28T19:17:36.719Z",
+      "pushedAt": "2026-05-28T19:17:36.719Z"
+    },
+    {
       "id": "aef78a640d8e98b6",
       "title": "US first-quarter GDP growth revised lower to 1.6% pace - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNampWSjVDVG5tVFdiRnMtb08wbkotekFtRnBtYW1JR2JJS2lYLTM4V1VrWklsbFNvRDNpVHFURk1vQmVFdFBnMlY1LVZaNVZCczEyMmxxV1c5bzZiVEo1dmpVODJFbl9MZ1RxeTZJNUpUdWlMMDA1NHhQSGlUQ2pPR0V3QkFzeHpMempkY1RrRV85QkViN1B2eWVR?oc=5",
@@ -144,44 +169,7 @@
       ],
       "firstSeen": "2026-05-27T21:07:37.624Z",
       "pushedAt": "2026-05-27T21:07:37.624Z"
-    },
-    {
-      "id": "a4313798f3b85275",
-      "title": "South Korea To Disclose Probe Results Of Vessel Attacked In Hormuz - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qeVVEbjl2T1NLZndXTmUzNkdFVXlnSzd4MUF1c1lMUUFsTUEtNUEzTFNkVjdrV2EyNFhLd1MxTHhfV1hGeFFranh2S241ZXNJb1NacXIxcExvTkI3M0VDbzIwU0hFYlhQckxHbVhNTzc1dVBF?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + attacked"
-      ],
-      "firstSeen": "2026-05-27T19:09:34.635Z",
-      "pushedAt": "2026-05-27T19:09:34.635Z"
-    },
-    {
-      "id": "0168c7ad0224286c",
-      "title": "Iran state TV says draft deal with US would reopen Hormuz shipping, end naval blockade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHB3ZTljSEdNUGlta055MjFRSDNTZGg2WkZmWjdFOUZfRC1Xd2Q2V2FSWmRxd0xPSTBGel91Um5yN3BHRVhhTURxcUFZTHBJckZDU2hvenpkbWg3aGY3cjB1VERORDR6Z00zTEdEbzB4SlBhUG11UkpkcDRTT2lpZmZxNVoxaXNDbHJWUHdkT0Q3d2VqZHFraUY5alIwcGY2WWEtVV9lblgtMy1GOWRIVlU4eVpzU2s2dzVPZFltZC00UXM?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval",
-        "hormuz + naval"
-      ],
-      "firstSeen": "2026-05-27T16:52:48.331Z",
-      "pushedAt": "2026-05-27T16:52:48.331Z"
-    },
-    {
-      "id": "b225e936fa79f4b5",
-      "title": "Oil prices fall 4% after Rubio says U.S. will give Iran diplomacy 'every chance to succeed'",
-      "url": "https://www.cnbc.com/2026/05/27/oil-price-today-iran-war-strait-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-05-27T16:52:48.522Z",
-      "pushedAt": "2026-05-27T16:52:48.522Z"
     }
   ],
-  "updatedAt": "2026-05-28T16:40:29.884Z"
+  "updatedAt": "2026-05-28T19:17:36.806Z"
 }
