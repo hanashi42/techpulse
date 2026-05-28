@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b6382cd6bea9d068",
+      "title": "European defense stocks rally after Ukraine ratifies $105 billion EU loan deal; regional indices fall",
+      "url": "https://www.cnbc.com/2026/05/28/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-05-28T12:38:36.132Z",
+      "pushedAt": "2026-05-28T12:38:36.132Z"
+    },
+    {
       "id": "a188021de668bb31",
       "title": "One killed and nine missing after chemical explosion at US paper mill",
       "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
@@ -169,43 +181,7 @@
       ],
       "firstSeen": "2026-05-27T13:48:16.634Z",
       "pushedAt": "2026-05-27T13:48:16.634Z"
-    },
-    {
-      "id": "1402f020a752070a",
-      "title": "Oil prices drop as traders look for US-Iran talks progress - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdktTeHl4ZHpzZm0waURXVWVISGZtQzZhMDQxQzEwRkYxVnpzSV9HQzM5ZmVhSkxMSEg3SzdvV0xsMWNMSVBPVG5TbmhDMllLWVM0S2lISzhIZ2ZWU2dST2UwdEtETWZhcGF0VHM3RGxLcXllbG5GN0JtRkpubTRkRzNqbGxqN3pTRTc3ODdqdTFBdnB1WTBYM2MwOHp0VWdBRU16LQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + drop"
-      ],
-      "firstSeen": "2026-05-27T10:14:01.803Z",
-      "pushedAt": "2026-05-27T10:14:01.803Z"
-    },
-    {
-      "id": "534380c0e3201bfd",
-      "title": "Dulux maker's stock soars 17% after takeover bid from major rival; oil holds below $100",
-      "url": "https://www.cnbc.com/2026/05/27/european-markets-stoxx-600-ftse-dax-cac-iran-news.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-05-27T10:14:02.198Z",
-      "pushedAt": "2026-05-27T10:14:02.198Z"
-    },
-    {
-      "id": "b9604e5c9684391c",
-      "title": "China restricts travel for top AI talent - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yLWxPOUV2cHh3U29sOV9KV3lCa296NTRCLUFrc0ZGc3g4ZUtUN3ZTODZzeDR0MlAxcWk4RFlwOE5CT2M2UE9Wei1lYTlfZ3ZlYkNUYTBmLWVibktIbEJRS01hWkxQWG03SVZXUjkxNzZEdzgxRFpxVXlEclY?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-05-27T10:14:02.479Z",
-      "pushedAt": "2026-05-27T10:14:02.479Z"
     }
   ],
-  "updatedAt": "2026-05-28T09:04:11.634Z"
+  "updatedAt": "2026-05-28T12:38:36.269Z"
 }
