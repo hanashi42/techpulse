@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "aef78a640d8e98b6",
+      "title": "US first-quarter GDP growth revised lower to 1.6% pace - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNampWSjVDVG5tVFdiRnMtb08wbkotekFtRnBtYW1JR2JJS2lYLTM4V1VrWklsbFNvRDNpVHFURk1vQmVFdFBnMlY1LVZaNVZCczEyMmxxV1c5bzZiVEo1dmpVODJFbl9MZ1RxeTZJNUpUdWlMMDA1NHhQSGlUQ2pPR0V3QkFzeHpMempkY1RrRV85QkViN1B2eWVR?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "gdp + growth"
+      ],
+      "firstSeen": "2026-05-28T16:40:29.723Z",
+      "pushedAt": "2026-05-28T16:40:29.723Z"
+    },
+    {
+      "id": "a42de2f0119b00a7",
+      "title": "Grains Bounce with Oil, Talk of China Tariff Cuts: Cattle Try to Extend Gains - AgWeb",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3F1YlBLandsT3JlUTlqaG5Ebm1oU1BvUWVyTUVCTm9mTjEwZEZNckFiN3JMNjNPSHlHekxDTmItN2N3VjBaZUpLWTY2dTU4THpnbHpycjhnNHEwS29mNDI5ck9zZGpPcXpuTVVobVFBYU8wQ3ZXb1AyR3dSTFNJVi02UFhDcGJpNjFKN2pmRzAyaXlNaXJOOA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-05-28T16:40:29.836Z",
+      "pushedAt": "2026-05-28T16:40:29.836Z"
+    },
+    {
       "id": "b6382cd6bea9d068",
       "title": "European defense stocks rally after Ukraine ratifies $105 billion EU loan deal; regional indices fall",
       "url": "https://www.cnbc.com/2026/05/28/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news-.html",
@@ -157,31 +181,7 @@
       ],
       "firstSeen": "2026-05-27T16:52:48.522Z",
       "pushedAt": "2026-05-27T16:52:48.522Z"
-    },
-    {
-      "id": "e134476fb9cc2172",
-      "title": "Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth",
-      "url": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + global"
-      ],
-      "firstSeen": "2026-05-27T13:48:16.415Z",
-      "pushedAt": "2026-05-27T13:48:16.415Z"
-    },
-    {
-      "id": "30531a2a1d67d3b5",
-      "title": "Market correction risk looks elevated as stocks hit record highs, top Europe central banker warns",
-      "url": "https://www.cnbc.com/2026/05/27/ecb-vp-market-correction-risk-elevated-as-stocks-hit-record-highs.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "record high + stock"
-      ],
-      "firstSeen": "2026-05-27T13:48:16.634Z",
-      "pushedAt": "2026-05-27T13:48:16.634Z"
     }
   ],
-  "updatedAt": "2026-05-28T12:38:36.269Z"
+  "updatedAt": "2026-05-28T16:40:29.884Z"
 }
