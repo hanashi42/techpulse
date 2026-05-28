@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "00e4a113c511e09a",
+      "title": "US imposes fresh sanctions on Iran's military oil sales, Treasury says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGN5U0hILU5zdG9XalBqazFVZGtCQXZmTnY5SlZ3Y1g2d293c0tGaXM0QnpXUkRGNWxMclNJSl96YmFPYnNRd3V0aEhKSDd0eEtBcmlTX1B6VXNRZlNic0ZRMGF5dmtsU3RZdDczS1FTWFRCS2FnTEZfMkxZRnhENHVEMDh0N2VtYjl4WXhIUGV0RnVJNk80TGNBdm1xbTQzUG1pNmhySjcwVXAyNVYtSjVTaw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-05-28T21:21:49.308Z",
+      "pushedAt": "2026-05-28T21:21:49.308Z"
+    },
+    {
+      "id": "df5413ab61ee5cab",
+      "title": "US imposes sanctions on Iranian agency trying to control shipping in the Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzVSVFY2TFF5NkdUcmhYQzN3REgzdXoxVXV5eF9tZ1E1bXFNOTAxS2FMRFpqajQwZXZPYjlsLUMwZkJodExnTlFhT2JOdE1zZEdSNVZvdW0tVU9BV3BnQnhEa3NIZTRoSGE5cVhRWXRORUI2cms4elNUU2tfemVzc3BnUTF6X1RGQWtmaWM0ellXek9yNmh1ZGZJNEttR1U?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-05-28T21:21:49.423Z",
+      "pushedAt": "2026-05-28T21:21:49.423Z"
+    },
+    {
+      "id": "c5666f8345f2f612",
+      "title": "Man jailed for plotting terror attack at Taylor Swift concert",
+      "url": "https://news.sky.com/story/man-jailed-for-15-years-over-terror-plot-to-attack-taylor-swift-concert-13548646",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terror attack"
+      ],
+      "firstSeen": "2026-05-28T21:21:49.473Z",
+      "pushedAt": "2026-05-28T21:21:49.473Z"
+    },
+    {
       "id": "cd99f755a8303786",
       "title": "US inflation surges to three-year high amid tensions with Iran",
       "url": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
@@ -145,31 +181,7 @@
       ],
       "firstSeen": "2026-05-27T22:48:33.089Z",
       "pushedAt": "2026-05-27T22:48:33.089Z"
-    },
-    {
-      "id": "84464e33b0c7153c",
-      "title": "Trump appears to threaten Oman with bombing over Strait of Hormuz impasse",
-      "url": "https://www.aljazeera.com/news/2026/5/27/trump-appears-to-threaten-oman-with-bombing-over-strait-of-hormuz-impasse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-05-27T21:07:37.346Z",
-      "pushedAt": "2026-05-27T21:07:37.346Z"
-    },
-    {
-      "id": "a8b4b052cb9b5718",
-      "title": "Recession with Chinese Characteristics - American Enterprise Institute - AEI",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ELXRuZ0ktMTN2ZGxXMEhiVC1WV1hiYnMzbjFBbG91ZGFpa1duTHctdUM2OW1OYzhRd0FNZENuWVN6MzdiOVRMYmFyeGN0Zll1ZGtBcmRoaW5rbzFNMGlTeXdGVHZIbkJBN2VGdWxKZnNiaWt1c3ZxWg?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "recession + enter"
-      ],
-      "firstSeen": "2026-05-27T21:07:37.624Z",
-      "pushedAt": "2026-05-27T21:07:37.624Z"
     }
   ],
-  "updatedAt": "2026-05-28T19:17:36.806Z"
+  "updatedAt": "2026-05-28T21:21:49.500Z"
 }
