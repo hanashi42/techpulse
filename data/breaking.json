@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "541d23d40c866aa1",
+      "title": "Oil eyes weekly drop on Hormuz deal hopes; AI sends stocks to record highs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTVlS2Y4YzBmWGowUkNTSF94M21QQjZ1TzViNVJhaEgwZFBJa200R1hydjhQYWgzUXJlcENFSjlaZndHVms5eXd5VW5XT3ljUllpcVZ1emhFT1plNUhLVzNJOEg2Wi1zUVRkUzZCVENaVS1sQWhTN2V4cVZPXzZmY1VpcmpBeTFh?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "record high + oil"
+      ],
+      "firstSeen": "2026-05-29T06:32:03.035Z",
+      "pushedAt": "2026-05-29T06:32:03.035Z"
+    },
+    {
       "id": "00e4a113c511e09a",
       "title": "US imposes fresh sanctions on Iran's military oil sales, Treasury says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGN5U0hILU5zdG9XalBqazFVZGtCQXZmTnY5SlZ3Y1g2d293c0tGaXM0QnpXUkRGNWxMclNJSl96YmFPYnNRd3V0aEhKSDd0eEtBcmlTX1B6VXNRZlNic0ZRMGF5dmtsU3RZdDczS1FTWFRCS2FnTEZfMkxZRnhENHVEMDh0N2VtYjl4WXhIUGV0RnVJNk80TGNBdm1xbTQzUG1pNmhySjcwVXAyNVYtSjVTaw?oc=5",
@@ -132,56 +144,7 @@
       ],
       "firstSeen": "2026-05-28T09:04:11.610Z",
       "pushedAt": "2026-05-28T09:04:11.610Z"
-    },
-    {
-      "id": "b08527b107246f64",
-      "title": "Oil surges after Iran targets US airbase in retaliation - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHB5YkltTDFSMnhnMmJiMDllejdmMkU4bXFxVDhhWHd5RnpyT3dydGZZQkpMUTdTeUZqWDlnUXdHbGE4YjIxU0FjQ3c0TG40X2t5YVlRaFJqbm9kLW5GTVB0eUFZZmFKQ0swXzFNU2xRVlJEaTZsekI3SG1JYTlJYUVRSGMyTTdxYkdobTBZZER0bGpnUi1YVTBqX2ZYNmlVQWc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-05-28T05:43:11.109Z",
-      "pushedAt": "2026-05-28T05:43:11.109Z"
-    },
-    {
-      "id": "c14619abda00c378",
-      "title": "Ghana welcomes home citizens evacuated from South Africa",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/ghana-welcomes-home-citizens-evacuated-from-south-africa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "evacuate + citizens"
-      ],
-      "firstSeen": "2026-05-28T05:43:11.338Z",
-      "pushedAt": "2026-05-28T05:43:11.338Z"
-    },
-    {
-      "id": "41f7e5e3c838dcbb",
-      "title": "Oil jumps after fresh U.S. strikes in Iran revive Strait of Hormuz disruption fears",
-      "url": "https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-05-28T01:27:03.852Z",
-      "pushedAt": "2026-05-28T01:27:03.852Z"
-    },
-    {
-      "id": "9394d3c000f9ec5d",
-      "title": "Markets rally amid hopes of US-Iran deal",
-      "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + market"
-      ],
-      "firstSeen": "2026-05-27T22:48:33.089Z",
-      "pushedAt": "2026-05-27T22:48:33.089Z"
     }
   ],
-  "updatedAt": "2026-05-28T21:21:49.500Z"
+  "updatedAt": "2026-05-29T06:32:03.322Z"
 }
