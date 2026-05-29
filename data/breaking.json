@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "25cd30d4bd217608",
+      "title": "Top federal prosecutor in Chicago denies investigation into E. Jean Carroll, disputing media reports - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZndIc2NIcTU5bFAtRlVJWjR3QktMNE1aLXFHVW5nUGxGUEFRRnp1SUctZGNSOGM0dzJIa0ZLN3hZRGliZG82aXhiU3FDWFRaalVVcHJoaEloaTItRUx6QkpiZ0lMZUZjMlVxRnUtdE05dHpNWjh0cG95VWp6Z0V1YVJhR0lxT2NpSENQeEVPOGhHZzZYbmRzdXRuV0VEOVl1d1JqdQ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + cut"
+      ],
+      "firstSeen": "2026-05-29T19:32:18.311Z",
+      "pushedAt": "2026-05-29T19:32:18.311Z"
+    },
+    {
       "id": "6df88ab220c08d67",
       "title": "Canada enters surprise technical recession amid tariff uncertainty - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3FxR1BJTUFCRGMzcm1STDI5cW8xZURFaEk0Q0VLQTV6M1NXWHo4eVc0Yk9SRjg5Mng3VUEzTUp6ellwZGxaT00xR3BmUE8yRklucnJuVWZUTF9UM3pSaHQ4UGF1Y2dOMnMwY1VJN0JUVTZqWnA5YnBSTzVPY25DWXRRSlZqYzlxbmpOaGJHbGdlWUFVR1MzeXU3Y24tZWJnc0ZaNFNjUVIyUkIweU1VbV95eXhoX3dvUHJxdkl3?oc=5",
@@ -119,32 +131,7 @@
       ],
       "firstSeen": "2026-05-28T21:21:49.473Z",
       "pushedAt": "2026-05-28T21:21:49.473Z"
-    },
-    {
-      "id": "cd99f755a8303786",
-      "title": "US inflation surges to three-year high amid tensions with Iran",
-      "url": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + inflation",
-        "inflation + surge"
-      ],
-      "firstSeen": "2026-05-28T19:17:36.562Z",
-      "pushedAt": "2026-05-28T19:17:36.562Z"
-    },
-    {
-      "id": "a40590d5446770be",
-      "title": "U.S.-China Trade Talks Signal New Agricultural Commitments - American Farm Bureau Federation",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVEwdFBhcGVUemkzOFVibGdyNUgwWTVCRTA5eFRoLUZ2NU5wVklDaEotUGdlN0ZqUDdURG5xLWVWR1FEZzBHaTl0OUpya2k1S3RMZzVvLTVlMTAtOGx6a0xGc3FiWEdZa0E0bm9INmRNX1R0aEJuWWJqQ0xwVFZRUXBzMUx3NkdZbXB2NHFVTGlhYjg?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + signal"
-      ],
-      "firstSeen": "2026-05-28T19:17:36.719Z",
-      "pushedAt": "2026-05-28T19:17:36.719Z"
     }
   ],
-  "updatedAt": "2026-05-29T17:00:37.682Z"
+  "updatedAt": "2026-05-29T19:32:18.372Z"
 }
