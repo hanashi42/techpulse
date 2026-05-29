@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "9e826cb1eeadb8b0",
+      "title": "Israeli forces cross key Lebanon river in expanded ground offensive - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDlpYWVyelEtSWZoWmdtUC11UFhFc296VkRzdkxmT1o2X0pwdkhKQUdVQzkwaF9jWkNEajBGWnJlWjdiVjJxNlVJaEg1Q1VnWVRWQnZOc28zMTQzVTExSGt4VHhkNVNUN1dFSUJfRHlLVUZSZVJZQTR4WDNFanNZc0xnakR3MkV6djh4aWJseDduY2hqYU9aLWV3S2ZhOGl4Szh6VElwYnZNdVRMQmV0cmpqWkYwU1JBUVE?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ground offensive"
+      ],
+      "firstSeen": "2026-05-29T23:53:57.515Z",
+      "pushedAt": "2026-05-29T23:53:57.515Z"
+    },
+    {
       "id": "a2e8b5ae5716a989",
       "title": "More Fed policymakers eye possible rate hike as inflation risks rise - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHZGRC1lZE9FMWRpVnlkVVFaZWFLWkowZWZjaW8teHlXenZhdVJ3OWw3WW1pejA2YUhHNTRpTExYSGE1bDFKQ1JWdVo5YnNSeDEwMGFsanJreTc2SDR6MlFIRnl5UEMwV3VDXzNGcERrX3ZlRS16c2xscjlNeXZoM2pGM25oNjNCcGJiN2tFbjAydWdyOUZYal9fallKcUo3VWZjd1htTnI?oc=5",
@@ -111,5 +123,5 @@
       "pushedAt": "2026-05-29T06:32:03.035Z"
     }
   ],
-  "updatedAt": "2026-05-29T22:45:35.961Z"
+  "updatedAt": "2026-05-29T23:53:57.806Z"
 }
