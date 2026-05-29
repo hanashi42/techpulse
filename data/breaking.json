@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "6df88ab220c08d67",
+      "title": "Canada enters surprise technical recession amid tariff uncertainty - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3FxR1BJTUFCRGMzcm1STDI5cW8xZURFaEk0Q0VLQTV6M1NXWHo4eVc0Yk9SRjg5Mng3VUEzTUp6ellwZGxaT00xR3BmUE8yRklucnJuVWZUTF9UM3pSaHQ4UGF1Y2dOMnMwY1VJN0JUVTZqWnA5YnBSTzVPY25DWXRRSlZqYzlxbmpOaGJHbGdlWUFVR1MzeXU3Y24tZWJnc0ZaNFNjUVIyUkIweU1VbV95eXhoX3dvUHJxdkl3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "recession + enter"
+      ],
+      "firstSeen": "2026-05-29T17:00:37.292Z",
+      "pushedAt": "2026-05-29T17:00:37.292Z"
+    },
+    {
+      "id": "716a16459faf3048",
+      "title": "Oil prices fall after Trump says he will make final determination on Iran deal",
+      "url": "https://www.cnbc.com/2026/05/29/oil-price-iran-deal-war-ceasefire-trump.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-05-29T17:00:37.507Z",
+      "pushedAt": "2026-05-29T17:00:37.507Z"
+    },
+    {
+      "id": "606929d4b3d0f649",
+      "title": "China takes the next step in the trade war with the U.S. - KRWG Public Media",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEEwenpDaXV0ZmZ4RHFGTDhJVDdEMlpmMEk3RzN5REZVWFlYcVFvWVpzTUFsWXpYM293OE52emwwc0lIYlhFSjQ0T3ZPQXViOTFUbGdDYjhVR3BOWFR1ZG9DRnBoN1M0ZDJWWE9jSHhJVmxGT3VLT01CZDA4X3JEanpaTHlfdnpKMlZhamRvVWk2UEF4RkFYNHFGWlFpRjcyWEdrblpOMA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + china"
+      ],
+      "firstSeen": "2026-05-29T17:00:37.632Z",
+      "pushedAt": "2026-05-29T17:00:37.632Z"
+    },
+    {
       "id": "782da817a52c8e4b",
       "title": "Fed's Schmid warns against viewing oil shock as transitory - Reuters",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGtUZExfTVVUZVRXYVZPd3QzcEs4OVZFcDFvNm1BTGhMTWd3SEVPNTZnWVhJYU0zNGRxRzA2QnZ1cHFhRGxPbVJFcWxVR2d0WUdpcUdkOUhFNVVUb05qSGNCREYyRS1kRmVsQldDYjhCbnNVcy13bmVKc2NURDRteVl5X1lGQjl1NnpSZnJzQ3Q5MmNveE1BejJyN1hONDg3?oc=5",
@@ -108,31 +144,7 @@
       ],
       "firstSeen": "2026-05-28T19:17:36.719Z",
       "pushedAt": "2026-05-28T19:17:36.719Z"
-    },
-    {
-      "id": "aef78a640d8e98b6",
-      "title": "US first-quarter GDP growth revised lower to 1.6% pace - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNampWSjVDVG5tVFdiRnMtb08wbkotekFtRnBtYW1JR2JJS2lYLTM4V1VrWklsbFNvRDNpVHFURk1vQmVFdFBnMlY1LVZaNVZCczEyMmxxV1c5bzZiVEo1dmpVODJFbl9MZ1RxeTZJNUpUdWlMMDA1NHhQSGlUQ2pPR0V3QkFzeHpMempkY1RrRV85QkViN1B2eWVR?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "gdp + growth"
-      ],
-      "firstSeen": "2026-05-28T16:40:29.723Z",
-      "pushedAt": "2026-05-28T16:40:29.723Z"
-    },
-    {
-      "id": "a42de2f0119b00a7",
-      "title": "Grains Bounce with Oil, Talk of China Tariff Cuts: Cattle Try to Extend Gains - AgWeb",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX3F1YlBLandsT3JlUTlqaG5Ebm1oU1BvUWVyTUVCTm9mTjEwZEZNckFiN3JMNjNPSHlHekxDTmItN2N3VjBaZUpLWTY2dTU4THpnbHpycjhnNHEwS29mNDI5ck9zZGpPcXpuTVVobVFBYU8wQ3ZXb1AyR3dSTFNJVi02UFhDcGJpNjFKN2pmRzAyaXlNaXJOOA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-05-28T16:40:29.836Z",
-      "pushedAt": "2026-05-28T16:40:29.836Z"
     }
   ],
-  "updatedAt": "2026-05-29T13:42:45.581Z"
+  "updatedAt": "2026-05-29T17:00:37.682Z"
 }
