@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2aab003b50669c5c",
+      "title": "Chinese-made shoulder-fired missile reportedly shot down F-15 during Iran war - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHdzMzYjZOaHFZM08wb3ZPNWZkOU42cm5SSWFRUWUzMW8wazFoeXp6MWw4Sm9hWEVob1JzV0ozeFU4YjNCbDMwQjJBRGR5dnNVVUMtSmI2R2FpSjIxazdKVkNaYkVCZkRCdUE?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shot down + missile"
+      ],
+      "firstSeen": "2026-05-30T15:39:00.031Z",
+      "pushedAt": "2026-05-30T15:39:00.031Z"
+    },
+    {
       "id": "e42b949a64b1d52a",
       "title": "China Pledges to Retaliate If EU Imposes Trade Restrictions - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2tYQm1LV2ZURW9EWUwtZTZYRFBFZmpLZS1xMFNRbHVPTEsxQnVfdkxRZVA0M2tOcEZaMFZqZ1lNVnVudHFOaW1HLWlmRmpiOFNuNmR5YzdKcEMyQldIU0ZxbW1GZEdpX3NYMjBhajFiZzJ1N2NHWDhTekNIenBvWWtSVGFRN0EwMlZzWEQzR0ZTbkFsRlMyWllSSVBHdm9rZHkzcl9UVi1uczZtNXpB?oc=5",
@@ -97,31 +109,7 @@
       ],
       "firstSeen": "2026-05-29T17:00:37.632Z",
       "pushedAt": "2026-05-29T17:00:37.632Z"
-    },
-    {
-      "id": "782da817a52c8e4b",
-      "title": "Fed's Schmid warns against viewing oil shock as transitory - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGtUZExfTVVUZVRXYVZPd3QzcEs4OVZFcDFvNm1BTGhMTWd3SEVPNTZnWVhJYU0zNGRxRzA2QnZ1cHFhRGxPbVJFcWxVR2d0WUdpcUdkOUhFNVVUb05qSGNCREYyRS1kRmVsQldDYjhCbnNVcy13bmVKc2NURDRteVl5X1lGQjl1NnpSZnJzQ3Q5MmNveE1BejJyN1hONDg3?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-05-29T13:42:45.322Z",
-      "pushedAt": "2026-05-29T13:42:45.322Z"
-    },
-    {
-      "id": "4747975bb7881268",
-      "title": "The China surprise: How it has kept a lid on global oil prices - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wSGUtTGRmRERnbjB5QmRBdThpSnMtT2VpOUd3MVRaTmkxOWFXVTZzNFlFcGpGaHBIdldKYVdvTUVkQ0FSTkhDRGhUUm4yOTdZc3ZCRndDMnVzWUg1RmV5Nw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-05-29T13:42:45.545Z",
-      "pushedAt": "2026-05-29T13:42:45.545Z"
     }
   ],
-  "updatedAt": "2026-05-30T12:48:33.938Z"
+  "updatedAt": "2026-05-30T15:39:00.302Z"
 }
