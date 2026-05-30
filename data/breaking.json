@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0a0d624f3b64311c",
+      "title": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
+      "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-05-30T17:41:47.642Z",
+      "pushedAt": "2026-05-30T17:41:47.642Z"
+    },
+    {
       "id": "2aab003b50669c5c",
       "title": "Chinese-made shoulder-fired missile reportedly shot down F-15 during Iran war - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHdzMzYjZOaHFZM08wb3ZPNWZkOU42cm5SSWFRUWUzMW8wazFoeXp6MWw4Sm9hWEVob1JzV0ozeFU4YjNCbDMwQjJBRGR5dnNVVUMtSmI2R2FpSjIxazdKVkNaYkVCZkRCdUE?oc=5",
@@ -73,43 +85,7 @@
       ],
       "firstSeen": "2026-05-29T19:32:18.311Z",
       "pushedAt": "2026-05-29T19:32:18.311Z"
-    },
-    {
-      "id": "6df88ab220c08d67",
-      "title": "Canada enters surprise technical recession amid tariff uncertainty - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3FxR1BJTUFCRGMzcm1STDI5cW8xZURFaEk0Q0VLQTV6M1NXWHo4eVc0Yk9SRjg5Mng3VUEzTUp6ellwZGxaT00xR3BmUE8yRklucnJuVWZUTF9UM3pSaHQ4UGF1Y2dOMnMwY1VJN0JUVTZqWnA5YnBSTzVPY25DWXRRSlZqYzlxbmpOaGJHbGdlWUFVR1MzeXU3Y24tZWJnc0ZaNFNjUVIyUkIweU1VbV95eXhoX3dvUHJxdkl3?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "recession + enter"
-      ],
-      "firstSeen": "2026-05-29T17:00:37.292Z",
-      "pushedAt": "2026-05-29T17:00:37.292Z"
-    },
-    {
-      "id": "716a16459faf3048",
-      "title": "Oil prices fall after Trump says he will make final determination on Iran deal",
-      "url": "https://www.cnbc.com/2026/05/29/oil-price-iran-deal-war-ceasefire-trump.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-05-29T17:00:37.507Z",
-      "pushedAt": "2026-05-29T17:00:37.507Z"
-    },
-    {
-      "id": "606929d4b3d0f649",
-      "title": "China takes the next step in the trade war with the U.S. - KRWG Public Media",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEEwenpDaXV0ZmZ4RHFGTDhJVDdEMlpmMEk3RzN5REZVWFlYcVFvWVpzTUFsWXpYM293OE52emwwc0lIYlhFSjQ0T3ZPQXViOTFUbGdDYjhVR3BOWFR1ZG9DRnBoN1M0ZDJWWE9jSHhJVmxGT3VLT01CZDA4X3JEanpaTHlfdnpKMlZhamRvVWk2UEF4RkFYNHFGWlFpRjcyWEdrblpOMA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "trade war + china"
-      ],
-      "firstSeen": "2026-05-29T17:00:37.632Z",
-      "pushedAt": "2026-05-29T17:00:37.632Z"
     }
   ],
-  "updatedAt": "2026-05-30T15:39:00.302Z"
+  "updatedAt": "2026-05-30T17:41:47.789Z"
 }
