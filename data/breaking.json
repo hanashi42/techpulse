@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e42b949a64b1d52a",
+      "title": "China Pledges to Retaliate If EU Imposes Trade Restrictions - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2tYQm1LV2ZURW9EWUwtZTZYRFBFZmpLZS1xMFNRbHVPTEsxQnVfdkxRZVA0M2tOcEZaMFZqZ1lNVnVudHFOaW1HLWlmRmpiOFNuNmR5YzdKcEMyQldIU0ZxbW1GZEdpX3NYMjBhajFiZzJ1N2NHWDhTekNIenBvWWtSVGFRN0EwMlZzWEQzR0ZTbkFsRlMyWllSSVBHdm9rZHkzcl9UVi1uczZtNXpB?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-05-30T12:48:33.461Z",
+      "pushedAt": "2026-05-30T12:48:33.461Z"
+    },
+    {
       "id": "377dadb66d084599",
       "title": "International Agencies Warn Of Summer Fuel Shortages If Strait Of Hormuz Remains Closed - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rSHNSQkwxWktVT2xWMlM0enRtSU5fYktVZTNTRGNqYVFETFdnQXQ4OFhSZGlHOTBfejI4d1laNXlCazdkUTRzbk1yN1VwcTJKNHhpaG9qOXJxUGJn?oc=5",
@@ -109,19 +121,7 @@
       ],
       "firstSeen": "2026-05-29T13:42:45.545Z",
       "pushedAt": "2026-05-29T13:42:45.545Z"
-    },
-    {
-      "id": "a2c6a1f4eec3d403",
-      "title": "At least six feared dead after bridge collapses in northern India",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/at-least-six-feared-dead-after-bridge-collapses-in-northern-india?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "collapses + bridge"
-      ],
-      "firstSeen": "2026-05-29T10:31:28.583Z",
-      "pushedAt": "2026-05-29T10:31:28.583Z"
     }
   ],
-  "updatedAt": "2026-05-30T10:09:07.418Z"
+  "updatedAt": "2026-05-30T12:48:33.938Z"
 }
