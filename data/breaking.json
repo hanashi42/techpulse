@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2f6c2b4fe69eb852",
+      "title": "US military says it turned away blockade runner trying to reach Iranian port - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczdSbmVIRkxGZzQwRk8yYkEzSGhLYlNfTXFVZVN4ZHllWVprVVY5YXJRdGxkQ1VzRHN6RDZPeDI3X0pIbFZ4LUhjOF9TVlI0a1c4NGdrRTAtX19iYkFQVkdRa1NaNFR0ZGc2ZlZrM2t0a0Z5c3M2akd3UXpIUjdVODAxRGJ2R1owMlRMN3BHc0FiQWxIUm14R3ZIUDFLZEx4UlNkSlI4cDV5TzJMZXJCdnpfSWZUaVRxVndLMGFYeWljTHZIQ0E?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-05-30T21:39:56.900Z",
+      "pushedAt": "2026-05-30T21:39:56.900Z"
+    },
+    {
       "id": "0a0d624f3b64311c",
       "title": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
       "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
@@ -73,19 +85,7 @@
       ],
       "firstSeen": "2026-05-29T22:45:35.849Z",
       "pushedAt": "2026-05-29T22:45:35.849Z"
-    },
-    {
-      "id": "25cd30d4bd217608",
-      "title": "Top federal prosecutor in Chicago denies investigation into E. Jean Carroll, disputing media reports - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZndIc2NIcTU5bFAtRlVJWjR3QktMNE1aLXFHVW5nUGxGUEFRRnp1SUctZGNSOGM0dzJIa0ZLN3hZRGliZG82aXhiU3FDWFRaalVVcHJoaEloaTItRUx6QkpiZ0lMZUZjMlVxRnUtdE05dHpNWjh0cG95VWp6Z0V1YVJhR0lxT2NpSENQeEVPOGhHZzZYbmRzdXRuV0VEOVl1d1JqdQ?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + cut"
-      ],
-      "firstSeen": "2026-05-29T19:32:18.311Z",
-      "pushedAt": "2026-05-29T19:32:18.311Z"
     }
   ],
-  "updatedAt": "2026-05-30T17:41:47.789Z"
+  "updatedAt": "2026-05-30T21:39:57.049Z"
 }
