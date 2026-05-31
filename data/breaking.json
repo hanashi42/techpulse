@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "42383603d2e88f31",
+      "title": "Building collapses in New Delhi, some people rescued, more feared trapped",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/building-collapses-in-new-delhi-some-people-rescued-more-feared-trapped?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "collapses + building"
+      ],
+      "firstSeen": "2026-05-31T19:56:31.950Z",
+      "pushedAt": "2026-05-31T19:56:31.950Z"
+    },
+    {
       "id": "b770fca70af13eb4",
       "title": "Israel seizes castle in Lebanon as it expands ground offensive",
       "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
@@ -35,31 +47,7 @@
       ],
       "firstSeen": "2026-05-30T21:39:56.900Z",
       "pushedAt": "2026-05-30T21:39:56.900Z"
-    },
-    {
-      "id": "0a0d624f3b64311c",
-      "title": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
-      "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-05-30T17:41:47.642Z",
-      "pushedAt": "2026-05-30T17:41:47.642Z"
-    },
-    {
-      "id": "2aab003b50669c5c",
-      "title": "Chinese-made shoulder-fired missile reportedly shot down F-15 during Iran war - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHdzMzYjZOaHFZM08wb3ZPNWZkOU42cm5SSWFRUWUzMW8wazFoeXp6MWw4Sm9hWEVob1JzV0ozeFU4YjNCbDMwQjJBRGR5dnNVVUMtSmI2R2FpSjIxazdKVkNaYkVCZkRCdUE?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + missile"
-      ],
-      "firstSeen": "2026-05-30T15:39:00.031Z",
-      "pushedAt": "2026-05-30T15:39:00.031Z"
     }
   ],
-  "updatedAt": "2026-05-31T14:04:35.361Z"
+  "updatedAt": "2026-05-31T19:56:32.164Z"
 }
