@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b770fca70af13eb4",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ground offensive"
+      ],
+      "firstSeen": "2026-05-31T14:04:35.065Z",
+      "pushedAt": "2026-05-31T14:04:35.065Z"
+    },
+    {
       "id": "f14b1a59d65fe92e",
       "title": "Trump plans to appeal order allowing all importers that paid struck-down tariffs to seek refunds - AP News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEh6em1wdVdmejdENjA1cFBGc1B0ajB5ZG5BeVctY3dzNFZYNHBnSXFvbVRtYUlMcy1sZEhuTDVDTjYxV1QzdGQwTGNEY2cwMEUwR0c4YVNLRThPd2ZEUmpibTM5ci1saEpLSXRBZVp4bjNFQzlVaThHcl83aHliRGpaMFhaWEcyV1BzWmp0M3hEYjA2RTJjbg?oc=5",
@@ -47,31 +59,7 @@
       ],
       "firstSeen": "2026-05-30T15:39:00.031Z",
       "pushedAt": "2026-05-30T15:39:00.031Z"
-    },
-    {
-      "id": "e42b949a64b1d52a",
-      "title": "China Pledges to Retaliate If EU Imposes Trade Restrictions - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2tYQm1LV2ZURW9EWUwtZTZYRFBFZmpLZS1xMFNRbHVPTEsxQnVfdkxRZVA0M2tOcEZaMFZqZ1lNVnVudHFOaW1HLWlmRmpiOFNuNmR5YzdKcEMyQldIU0ZxbW1GZEdpX3NYMjBhajFiZzJ1N2NHWDhTekNIenBvWWtSVGFRN0EwMlZzWEQzR0ZTbkFsRlMyWllSSVBHdm9rZHkzcl9UVi1uczZtNXpB?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-05-30T12:48:33.461Z",
-      "pushedAt": "2026-05-30T12:48:33.461Z"
-    },
-    {
-      "id": "377dadb66d084599",
-      "title": "International Agencies Warn Of Summer Fuel Shortages If Strait Of Hormuz Remains Closed - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rSHNSQkwxWktVT2xWMlM0enRtSU5fYktVZTNTRGNqYVFETFdnQXQ4OFhSZGlHOTBfejI4d1laNXlCazdkUTRzbk1yN1VwcTJKNHhpaG9qOXJxUGJn?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + closed"
-      ],
-      "firstSeen": "2026-05-30T10:09:07.347Z",
-      "pushedAt": "2026-05-30T10:09:07.347Z"
     }
   ],
-  "updatedAt": "2026-05-31T08:45:04.604Z"
+  "updatedAt": "2026-05-31T14:04:35.361Z"
 }
