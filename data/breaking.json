@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "25a280ca45c624fb",
+      "title": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-06-01T06:57:38.760Z",
+      "pushedAt": "2026-06-01T06:57:38.760Z"
+    },
+    {
       "id": "22dbc0977f7f2072",
       "title": "Oil prices rise more than 2% as Israel steps up incursion into Lebanon - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVV2Sy0tWUhKZW9kSnhoNHNrc3lPOW5mRV9VMnplaDhRd0NJNURQUl9CX0w1d2c2dTR1TGd4VzB6MmVWb1VCd3V3N1BHblFJWFh5TGN6UC1yUGlnanlUSVotVWdIZklOZDV2WVUzT01wRHRkOHYyXzBCUnRuMkhYYnRJbzZwcWtxaWt6R3BqTm1nUjZaNHVFZWVPT2JlVVJtMU9xdmo0Skc5VEh1MDVmcWFIaw?oc=5",
@@ -49,5 +61,5 @@
       "pushedAt": "2026-05-31T08:45:04.488Z"
     }
   ],
-  "updatedAt": "2026-06-01T01:59:48.576Z"
+  "updatedAt": "2026-06-01T06:57:39.061Z"
 }
