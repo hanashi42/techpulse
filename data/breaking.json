@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "18ccdf546ec73d48",
+      "title": "Witnesses tell of devastation from Myanmar explosion that killed dozens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOV9KeVkwVV9OTHJwVjdVZV8xZjZEdTA4QVl6Y1E5a2JBWDZpWk9JNW90MEtkSGI2SldCOXRpVmZpWm1FMHhaUllXOFNodjhLZWNIdzNJelpoM3B3NDFVSU5tR0FfQ2gzTk1hbzN6SDhraGFZem9IMmdFUTdRLXNZamxwYkVBa3ZkeTAwZVkwRHNmQng5WlB0azRUVlcyUlFWNkFjT1BuMEo2cjdHQ0tDOHNkbzFQdm9PU0UwR25fRTdJLTBo?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-06-01T12:32:17.572Z",
+      "pushedAt": "2026-06-01T12:32:17.572Z"
+    },
+    {
       "id": "25a280ca45c624fb",
       "title": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
       "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
@@ -47,19 +59,7 @@
       ],
       "firstSeen": "2026-05-31T14:04:35.065Z",
       "pushedAt": "2026-05-31T14:04:35.065Z"
-    },
-    {
-      "id": "f14b1a59d65fe92e",
-      "title": "Trump plans to appeal order allowing all importers that paid struck-down tariffs to seek refunds - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEh6em1wdVdmejdENjA1cFBGc1B0ajB5ZG5BeVctY3dzNFZYNHBnSXFvbVRtYUlMcy1sZEhuTDVDTjYxV1QzdGQwTGNEY2cwMEUwR0c4YVNLRThPd2ZEUmpibTM5ci1saEpLSXRBZVp4bjNFQzlVaThHcl83aHliRGpaMFhaWEcyV1BzWmp0M3hEYjA2RTJjbg?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-05-31T08:45:04.488Z",
-      "pushedAt": "2026-05-31T08:45:04.488Z"
     }
   ],
-  "updatedAt": "2026-06-01T06:57:39.061Z"
+  "updatedAt": "2026-06-01T12:32:17.677Z"
 }
