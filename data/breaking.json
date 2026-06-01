@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f18490626ed732da",
+      "title": "Drivers in Russian-controlled Crimea grapple with gasoline shortages - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkRaLUcxZF9udHMxam1lejJmWXhDaUt5VFlYOFF1ZmxBdXJsaTRQcWtOMDh6LXZKM0tuTURELV80T1RLUTBQMmc2RzR0bVA1RmxQRXN1VEtwUDczNmhQMnJHSjg3d29OQ3ZaOGVZbzNRb28zSDB1UzduVlpJaVkwYl9zYzlQVTVjNHY0WFlhLTR2VzlDeURGMjNjNEpROVBiYnF3WUpKTWltODR1TnJVY2cwX2JsS1hT?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + gas"
+      ],
+      "firstSeen": "2026-06-01T18:24:26.157Z",
+      "pushedAt": "2026-06-01T18:24:26.157Z"
+    },
+    {
+      "id": "ca5a05845d9852a4",
+      "title": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjVJLWNwc3ZkX1R2NDY0emhqYW1SUVFZd3FJNEVZcFBJcGJ2aFFrdUNOTEV6dzdVNUkyZmE1S3NjTXk1RmwwODhTRTgyeFJlMjIwMTA0VEZGVWl5N3p6YmFjM1RBWXl0UjhXTjNUdEM1SHlfOG5ZcEVOZUdLZDBpcWN2UFNTeFhNZXpLeW9MMjFrLXpjak9J?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-06-01T18:24:26.406Z",
+      "pushedAt": "2026-06-01T18:24:26.406Z"
+    },
+    {
       "id": "18ccdf546ec73d48",
       "title": "Witnesses tell of devastation from Myanmar explosion that killed dozens - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOV9KeVkwVV9OTHJwVjdVZV8xZjZEdTA4QVl6Y1E5a2JBWDZpWk9JNW90MEtkSGI2SldCOXRpVmZpWm1FMHhaUllXOFNodjhLZWNIdzNJelpoM3B3NDFVSU5tR0FfQ2gzTk1hbzN6SDhraGFZem9IMmdFUTdRLXNZamxwYkVBa3ZkeTAwZVkwRHNmQng5WlB0azRUVlcyUlFWNkFjT1BuMEo2cjdHQ0tDOHNkbzFQdm9PU0UwR25fRTdJLTBo?oc=5",
@@ -47,19 +71,7 @@
       ],
       "firstSeen": "2026-05-31T19:56:31.950Z",
       "pushedAt": "2026-05-31T19:56:31.950Z"
-    },
-    {
-      "id": "b770fca70af13eb4",
-      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "ground offensive"
-      ],
-      "firstSeen": "2026-05-31T14:04:35.065Z",
-      "pushedAt": "2026-05-31T14:04:35.065Z"
     }
   ],
-  "updatedAt": "2026-06-01T12:32:17.677Z"
+  "updatedAt": "2026-06-01T18:24:26.632Z"
 }
