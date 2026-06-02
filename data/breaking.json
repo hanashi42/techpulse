@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e082e2f58c6d809c",
+      "title": "Man accused of plotting 20 Iran-linked terror attacks in Europe and Canada appears in court",
+      "url": "https://news.sky.com/story/man-accused-of-plotting-20-iran-linked-terror-attacks-in-europe-and-canada-appears-in-court-13549988",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terror attack"
+      ],
+      "firstSeen": "2026-06-02T14:46:32.481Z",
+      "pushedAt": "2026-06-02T14:46:32.481Z"
+    },
+    {
       "id": "b22e50bff1bdb518",
       "title": "Marvell Technology surges after Nvidia's Huang calls it 'next trillion-dollar company' - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOFZJWXA4Y3ppM0s4RmVuOGZhemlGRk9iS1pXTF9XSGdGWEFzVC0zNlowUlduck1OblpWRU95S2N2N2pJZjYyeXlTUUd0T3Z5Sy01eGZsWl9OT1lSbVA1dXF2dzJvVW1sb2Fmb29penV5NENpdFhsTnpQclJqOG4yYzJXcTdHeFdNZWFURjNEVVZuZTNMTlhCaXoyWGpjMWNoWG9SeWd4NWdQT3c5NUNsUnFvcWhEOUV5VHBMcw?oc=5",
@@ -72,19 +84,7 @@
       ],
       "firstSeen": "2026-06-01T18:24:26.406Z",
       "pushedAt": "2026-06-01T18:24:26.406Z"
-    },
-    {
-      "id": "18ccdf546ec73d48",
-      "title": "Witnesses tell of devastation from Myanmar explosion that killed dozens - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOV9KeVkwVV9OTHJwVjdVZV8xZjZEdTA4QVl6Y1E5a2JBWDZpWk9JNW90MEtkSGI2SldCOXRpVmZpWm1FMHhaUllXOFNodjhLZWNIdzNJelpoM3B3NDFVSU5tR0FfQ2gzTk1hbzN6SDhraGFZem9IMmdFUTdRLXNZamxwYkVBa3ZkeTAwZVkwRHNmQng5WlB0azRUVlcyUlFWNkFjT1BuMEo2cjdHQ0tDOHNkbzFQdm9PU0UwR25fRTdJLTBo?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + killed"
-      ],
-      "firstSeen": "2026-06-01T12:32:17.572Z",
-      "pushedAt": "2026-06-01T12:32:17.572Z"
     }
   ],
-  "updatedAt": "2026-06-02T10:57:11.080Z"
+  "updatedAt": "2026-06-02T14:46:32.724Z"
 }
