@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "3592beaadc0cd200",
+      "title": "US targets Brazil with new tariffs over trade practices",
+      "url": "https://www.aljazeera.com/economy/2026/6/2/us-targets-brazil-with-new-tariffs-over-trade-practices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-06-02T18:25:01.759Z",
+      "pushedAt": "2026-06-02T18:25:01.760Z"
+    },
+    {
+      "id": "e62bef6d0633f34f",
+      "title": "Canada seeks USMCA renewal for 16 years, sector tariff discussions",
+      "url": "https://www.aljazeera.com/economy/2026/6/2/canada-seeks-usmca-renewal-for-16-years-sector-tariff-discussions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-06-02T18:25:02.370Z",
+      "pushedAt": "2026-06-02T18:25:02.371Z"
+    },
+    {
+      "id": "187b04de4035a4ba",
+      "title": "Exclusive: Bipartisan group of lawmakers unveil new bill to restrict China biotech - Endpoints News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWw1RU9OUGc4b1c4emxjeS1PV2c0S2tNalp4aWg4T2xpSWFRb3AyUENSMnVMZWdVMVpBc05Oczg0OUJ4X0hfNjRsdTV5SUU4QXBiRUdMWTNlQVdYQmxMcGUxYUtidDVSb2FjU2FOREVuU3hiZ29XcWNoTklBNmdqVjVDdFZCUXcteXFV?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-06-02T18:25:02.580Z",
+      "pushedAt": "2026-06-02T18:25:02.580Z"
+    },
+    {
       "id": "e082e2f58c6d809c",
       "title": "Man accused of plotting 20 Iran-linked terror attacks in Europe and Canada appears in court",
       "url": "https://news.sky.com/story/man-accused-of-plotting-20-iran-linked-terror-attacks-in-europe-and-canada-appears-in-court-13549988",
@@ -60,31 +96,7 @@
       ],
       "firstSeen": "2026-06-02T06:18:33.807Z",
       "pushedAt": "2026-06-02T06:18:33.807Z"
-    },
-    {
-      "id": "f18490626ed732da",
-      "title": "Drivers in Russian-controlled Crimea grapple with gasoline shortages - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkRaLUcxZF9udHMxam1lejJmWXhDaUt5VFlYOFF1ZmxBdXJsaTRQcWtOMDh6LXZKM0tuTURELV80T1RLUTBQMmc2RzR0bVA1RmxQRXN1VEtwUDczNmhQMnJHSjg3d29OQ3ZaOGVZbzNRb28zSDB1UzduVlpJaVkwYl9zYzlQVTVjNHY0WFlhLTR2VzlDeURGMjNjNEpROVBiYnF3WUpKTWltODR1TnJVY2cwX2JsS1hT?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + gas"
-      ],
-      "firstSeen": "2026-06-01T18:24:26.157Z",
-      "pushedAt": "2026-06-01T18:24:26.157Z"
-    },
-    {
-      "id": "ca5a05845d9852a4",
-      "title": "US bombs Iranian military sites, then downs missiles Tehran fired at troops in Kuwait - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjVJLWNwc3ZkX1R2NDY0emhqYW1SUVFZd3FJNEVZcFBJcGJ2aFFrdUNOTEV6dzdVNUkyZmE1S3NjTXk1RmwwODhTRTgyeFJlMjIwMTA0VEZGVWl5N3p6YmFjM1RBWXl0UjhXTjNUdEM1SHlfOG5ZcEVOZUdLZDBpcWN2UFNTeFhNZXpLeW9MMjFrLXpjak9J?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-06-01T18:24:26.406Z",
-      "pushedAt": "2026-06-01T18:24:26.406Z"
     }
   ],
-  "updatedAt": "2026-06-02T14:46:32.724Z"
+  "updatedAt": "2026-06-02T18:25:02.891Z"
 }
