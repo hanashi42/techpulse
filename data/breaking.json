@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "b22e50bff1bdb518",
+      "title": "Marvell Technology surges after Nvidia's Huang calls it 'next trillion-dollar company' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOFZJWXA4Y3ppM0s4RmVuOGZhemlGRk9iS1pXTF9XSGdGWEFzVC0zNlowUlduck1OblpWRU95S2N2N2pJZjYyeXlTUUd0T3Z5Sy01eGZsWl9OT1lSbVA1dXF2dzJvVW1sb2Fmb29penV5NENpdFhsTnpQclJqOG4yYzJXcTdHeFdNZWFURjNEVVZuZTNMTlhCaXoyWGpjMWNoWG9SeWd4NWdQT3c5NUNsUnFvcWhEOUV5VHBMcw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + dollar",
+        "dollar + surge"
+      ],
+      "firstSeen": "2026-06-02T10:57:10.870Z",
+      "pushedAt": "2026-06-02T10:57:10.870Z"
+    },
+    {
       "id": "3b73dabe05bf7b67",
       "title": "Trump signs proclamation amending tariffs on steel, aluminum and copper imports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlNFZU5LUi02WFE5WjRfNmRCMEtBWGlOa2VwMjlDY25yUWdETHcyM2xrOFR6VVF1UWxjS1JxWkhRXy1pczB0Z0RwcFBIMG9FZnVNYWlqd21rZGl5NV9CSDNLc25NVnlDZ3UtYWpfN3o3ZVF0T2Y1RU9rVjk4V2ppZVExRVIzT2ktYTZyVEhRSHRVYWt3emxQRmVTZjQ1QlZkaEhlTFNZVjZ3T2d4WmdsY1lfWFBESkU?oc=5",
@@ -71,19 +84,7 @@
       ],
       "firstSeen": "2026-06-01T12:32:17.572Z",
       "pushedAt": "2026-06-01T12:32:17.572Z"
-    },
-    {
-      "id": "25a280ca45c624fb",
-      "title": "Iran war live: US bombs Qeshm, Goruk; Kuwait reports missile, drone attacks",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/1/iran-war-live-israels-expanding-invasion-of-lebanon-draws-global-alarm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-06-01T06:57:38.760Z",
-      "pushedAt": "2026-06-01T06:57:38.760Z"
     }
   ],
-  "updatedAt": "2026-06-02T06:18:33.877Z"
+  "updatedAt": "2026-06-02T10:57:11.080Z"
 }
