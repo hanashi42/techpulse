@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "3b73dabe05bf7b67",
+      "title": "Trump signs proclamation amending tariffs on steel, aluminum and copper imports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlNFZU5LUi02WFE5WjRfNmRCMEtBWGlOa2VwMjlDY25yUWdETHcyM2xrOFR6VVF1UWxjS1JxWkhRXy1pczB0Z0RwcFBIMG9FZnVNYWlqd21rZGl5NV9CSDNLc25NVnlDZ3UtYWpfN3o3ZVF0T2Y1RU9rVjk4V2ppZVExRVIzT2ktYTZyVEhRSHRVYWt3emxQRmVTZjQ1QlZkaEhlTFNZVjZ3T2d4WmdsY1lfWFBESkU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-06-02T06:18:33.389Z",
+      "pushedAt": "2026-06-02T06:18:33.389Z"
+    },
+    {
+      "id": "589f1d2fc358029e",
+      "title": "Magnitude 6.1 earthquake strikes off coast of southern Italy, GFZ says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYy1OQkNzUzkwcEV1Ml84R3BYT2RlRVFNdDQ1emI3SE1GTTlsYnB2VnR3VlIwcjc1clp3SFc5VVJ3U0VndFZVRU1FYlNXTmxGX1BqTDNGVXotY3BRanJ5a0FSSEtzRFdKN0dqNHljYXFVaGFnaXR3dlhNVTRiUUN2NHBpNnVNSkZhbnZiczAwY04xdXFFUU9Eb2I5VGcyb2tVLTdWMnp0WmlWN0pzSGZPRV9aN3FXaFllVTk0ZlZSNA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-06-02T06:18:33.624Z",
+      "pushedAt": "2026-06-02T06:18:33.624Z"
+    },
+    {
+      "id": "e08f6c2edb589cf2",
+      "title": "Trump administration proposes 25% tariff on Brazilian goods over unfair trade practices",
+      "url": "https://www.cnbc.com/2026/06/02/trump-proposes-25-tariff-on-brazil.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 25%"
+      ],
+      "firstSeen": "2026-06-02T06:18:33.807Z",
+      "pushedAt": "2026-06-02T06:18:33.807Z"
+    },
+    {
       "id": "f18490626ed732da",
       "title": "Drivers in Russian-controlled Crimea grapple with gasoline shortages - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkRaLUcxZF9udHMxam1lejJmWXhDaUt5VFlYOFF1ZmxBdXJsaTRQcWtOMDh6LXZKM0tuTURELV80T1RLUTBQMmc2RzR0bVA1RmxQRXN1VEtwUDczNmhQMnJHSjg3d29OQ3ZaOGVZbzNRb28zSDB1UzduVlpJaVkwYl9zYzlQVTVjNHY0WFlhLTR2VzlDeURGMjNjNEpROVBiYnF3WUpKTWltODR1TnJVY2cwX2JsS1hT?oc=5",
@@ -47,31 +83,7 @@
       ],
       "firstSeen": "2026-06-01T06:57:38.760Z",
       "pushedAt": "2026-06-01T06:57:38.760Z"
-    },
-    {
-      "id": "22dbc0977f7f2072",
-      "title": "Oil prices rise more than 2% as Israel steps up incursion into Lebanon - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVV2Sy0tWUhKZW9kSnhoNHNrc3lPOW5mRV9VMnplaDhRd0NJNURQUl9CX0w1d2c2dTR1TGd4VzB6MmVWb1VCd3V3N1BHblFJWFh5TGN6UC1yUGlnanlUSVotVWdIZklOZDV2WVUzT01wRHRkOHYyXzBCUnRuMkhYYnRJbzZwcWtxaWt6R3BqTm1nUjZaNHVFZWVPT2JlVVJtMU9xdmo0Skc5VEh1MDVmcWFIaw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-06-01T01:59:48.483Z",
-      "pushedAt": "2026-06-01T01:59:48.483Z"
-    },
-    {
-      "id": "42383603d2e88f31",
-      "title": "Building collapses in New Delhi, some people rescued, more feared trapped",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/building-collapses-in-new-delhi-some-people-rescued-more-feared-trapped?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "collapses + building"
-      ],
-      "firstSeen": "2026-05-31T19:56:31.950Z",
-      "pushedAt": "2026-05-31T19:56:31.950Z"
     }
   ],
-  "updatedAt": "2026-06-01T18:24:26.632Z"
+  "updatedAt": "2026-06-02T06:18:33.877Z"
 }
