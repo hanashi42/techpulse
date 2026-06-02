@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e6fdbe9e789dd8b5",
+      "title": "US Treasury issues new Iran sanctions targeting crypto exchanges - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSi1VaExZZVZZVTBVZExiazF4VnltSDkzOWp5cXNZR0x2YndoaDdKS0xURUNoa0VpQk5GdVUtTWZvdWFhUWM5VkFiZ0lZY0ZiRHVpN1dVeHdfWGN0R3Bsdm5LdXl1UllPZk52dDdNam51TDl1alBUUEpXSFdSRUZJTl9FZUcwTndiMmwtSmVNQmVmTllxS0l2RmxfSy14RzNZcnM0aUJSc1Flc1dIdVhhS1owazRxZnhuQlE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-06-02T21:26:57.237Z",
+      "pushedAt": "2026-06-02T21:26:57.237Z"
+    },
+    {
       "id": "3592beaadc0cd200",
       "title": "US targets Brazil with new tariffs over trade practices",
       "url": "https://www.aljazeera.com/economy/2026/6/2/us-targets-brazil-with-new-tariffs-over-trade-practices?traffic_source=rss",
@@ -98,5 +110,5 @@
       "pushedAt": "2026-06-02T06:18:33.807Z"
     }
   ],
-  "updatedAt": "2026-06-02T18:25:02.891Z"
+  "updatedAt": "2026-06-02T21:26:57.505Z"
 }
