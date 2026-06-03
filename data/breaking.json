@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "id": "d079d64a84dc821d",
+      "title": "Apple agrees to submit India financials in long-pending antitrust case - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0VpMUJWaFJPY3VNaGVhVnlwb1l1LU5JWmpqQUNyY1dyZElQNEJCRHd3dmdBUkYteThtVkpzckp3RE1nZ3ZJTGdDb2JoczVLc3d6T0FhQU1yZTB6SnBOcXo1UklveVdjdElVRml2QnlORnE2OWJ1V1J5M2FmaUhBemRVX1Blc2YtbWFrcnFLMEJwWkFBd2c2TW9jbDQ4R2xmcldqYi1xTTdBMlBGLVhzdVVn?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "antitrust + apple"
+      ],
+      "firstSeen": "2026-06-03T11:28:12.088Z",
+      "pushedAt": "2026-06-03T11:28:12.088Z"
+    },
+    {
+      "id": "c58f564d79c62d62",
+      "title": "One killed in Iranian attack on Kuwait, airport terminal damaged - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNejlTQXJhWnlNVk5SNmNHVG0xMnpKcm5mT0wzMFNwbjdsVGNRX0hPZ3U1dk8xRks4OXUxd3RIU0ZmSHFWdG1nTHViVERvenVrSF84b3VJT2Y5ZFNianltSUtHd2xJSEZsZ2pVMmxIdHlzZGpyTFNEQ1NnNF9DUGZ4bFRiclNfVmVfY052NmJ1T1IxZ3FfUzJjbUh1MXNOT1hGNDVaMnpHWFkyd1UwLUcwVGgtUmEtcjc1QXdvQVNyQQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-03T11:28:12.352Z",
+      "pushedAt": "2026-06-03T11:28:12.352Z"
+    },
+    {
+      "id": "afda02c31d1aa5ca",
+      "title": "New U.S. tariffs on EU goods would be unacceptable, EU trade committee head says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnpwOEVXLURXS3lSNDRtaGx3eWRwUllsYXpYT3hDMFI3QmMzRDg0MS1lTmh1aGd6NEt1ZXFaektUdzdOckpjU2hJQzgxVHhiVnFuWWRCazhuWXUxSFdiZ3N1TkdObGIxWE1TLTUtTXFSaEhDdk1LdEFJS1ZLdzBBSURQRVVpbks4WE5wY05MSXZobnZtSFhHRzROdnpPNjdLdVpLMWFNbUpReG5welpwcnQzcXNINGJBWnVr?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-06-03T11:28:12.586Z",
+      "pushedAt": "2026-06-03T11:28:12.586Z"
+    },
+    {
+      "id": "57dc7c7e76f2d7d7",
+      "title": "US says it plans extra tariffs of 10% or more for most trading partners after forced labor probe - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3FZVThJWnRyOURYSHREeVZON2NOYWs1ZXNObEJQMzM3VkZUNi1TcmM3UDFtemF0Z0dBTFc1MnZXVkFncU1uOGRTeFQtY09DYjc1aXVBVTBHUlc5d0E5clpnSnFOR01qMlZDZFF0MzlPRjQwNFUxWmNKZmx3bUZFQ1duMTdfV2s4a3Bha2JROGljTDVC?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-06-03T11:28:12.678Z",
+      "pushedAt": "2026-06-03T11:28:12.678Z"
+    },
+    {
+      "id": "17921a547dcdfe00",
+      "title": "KKR, Ares, Blackstone tumble premarket as Partners Group caps private equity fund withdrawals",
+      "url": "https://www.cnbc.com/2026/06/03/private-credit-jitters-kkr-blackstone-blue-owl-ares-partners-group-pressure.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + market"
+      ],
+      "firstSeen": "2026-06-03T11:28:12.768Z",
+      "pushedAt": "2026-06-03T11:28:12.768Z"
+    },
+    {
       "id": "0ef934ceddcf00e1",
       "title": "European shares head for negative open as White House proposes fresh tariffs on EU",
       "url": "https://www.cnbc.com/2026/06/03/europe-markets-trump-eu-tariffs-zara-inditex.html",
@@ -107,20 +167,7 @@
       ],
       "firstSeen": "2026-06-02T14:46:32.481Z",
       "pushedAt": "2026-06-02T14:46:32.481Z"
-    },
-    {
-      "id": "b22e50bff1bdb518",
-      "title": "Marvell Technology surges after Nvidia's Huang calls it 'next trillion-dollar company' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOFZJWXA4Y3ppM0s4RmVuOGZhemlGRk9iS1pXTF9XSGdGWEFzVC0zNlowUlduck1OblpWRU95S2N2N2pJZjYyeXlTUUd0T3Z5Sy01eGZsWl9OT1lSbVA1dXF2dzJvVW1sb2Fmb29penV5NENpdFhsTnpQclJqOG4yYzJXcTdHeFdNZWFURjNEVVZuZTNMTlhCaXoyWGpjMWNoWG9SeWd4NWdQT3c5NUNsUnFvcWhEOUV5VHBMcw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + dollar",
-        "dollar + surge"
-      ],
-      "firstSeen": "2026-06-02T10:57:10.870Z",
-      "pushedAt": "2026-06-02T10:57:10.870Z"
     }
   ],
-  "updatedAt": "2026-06-03T06:32:13.415Z"
+  "updatedAt": "2026-06-03T11:28:12.861Z"
 }
