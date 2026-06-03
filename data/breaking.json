@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "0ef934ceddcf00e1",
+      "title": "European shares head for negative open as White House proposes fresh tariffs on EU",
+      "url": "https://www.cnbc.com/2026/06/03/europe-markets-trump-eu-tariffs-zara-inditex.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + europe"
+      ],
+      "firstSeen": "2026-06-03T06:32:13.131Z",
+      "pushedAt": "2026-06-03T06:32:13.131Z"
+    },
+    {
+      "id": "fadbbba83005d1df",
+      "title": "Iran has mined 'large segments' of Hormuz Strait, Secretary of State Rubio says",
+      "url": "https://www.cnbc.com/2026/06/02/iran-war-strait-hormuz-marco-rubio-mine.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + mined"
+      ],
+      "firstSeen": "2026-06-03T06:32:13.369Z",
+      "pushedAt": "2026-06-03T06:32:13.369Z"
+    },
+    {
       "id": "699d868763c899ac",
       "title": "USTR seeks comment on possible US-China tariff cuts under Board of Trade - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcExUd3ROaFRVMWNlZmhNcnBqNEk1ZkNWYUt3UnFHWWQ4dE16ZW9aTklGRXg1UE5sZGhSV05mMl85X2hBWTFhV3hoS1pOZ3F6RE8wQzRDT1F0dGtSYzFFMEY3TjhmWFZMVFQxelpkOFB6a1dSb194ZlF6QXFHUHY1TmhVZC1WX0JVbU1rcEpYc0dVYkdoc1drOExwLWdFeTNEbnA4SC1UMDh4c3hDV04zeQ?oc=5",
@@ -96,43 +120,7 @@
       ],
       "firstSeen": "2026-06-02T10:57:10.870Z",
       "pushedAt": "2026-06-02T10:57:10.870Z"
-    },
-    {
-      "id": "3b73dabe05bf7b67",
-      "title": "Trump signs proclamation amending tariffs on steel, aluminum and copper imports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNlNFZU5LUi02WFE5WjRfNmRCMEtBWGlOa2VwMjlDY25yUWdETHcyM2xrOFR6VVF1UWxjS1JxWkhRXy1pczB0Z0RwcFBIMG9FZnVNYWlqd21rZGl5NV9CSDNLc25NVnlDZ3UtYWpfN3o3ZVF0T2Y1RU9rVjk4V2ppZVExRVIzT2ktYTZyVEhRSHRVYWt3emxQRmVTZjQ1QlZkaEhlTFNZVjZ3T2d4WmdsY1lfWFBESkU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-06-02T06:18:33.389Z",
-      "pushedAt": "2026-06-02T06:18:33.389Z"
-    },
-    {
-      "id": "589f1d2fc358029e",
-      "title": "Magnitude 6.1 earthquake strikes off coast of southern Italy, GFZ says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYy1OQkNzUzkwcEV1Ml84R3BYT2RlRVFNdDQ1emI3SE1GTTlsYnB2VnR3VlIwcjc1clp3SFc5VVJ3U0VndFZVRU1FYlNXTmxGX1BqTDNGVXotY3BRanJ5a0FSSEtzRFdKN0dqNHljYXFVaGFnaXR3dlhNVTRiUUN2NHBpNnVNSkZhbnZiczAwY04xdXFFUU9Eb2I5VGcyb2tVLTdWMnp0WmlWN0pzSGZPRV9aN3FXaFllVTk0ZlZSNA?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-06-02T06:18:33.624Z",
-      "pushedAt": "2026-06-02T06:18:33.624Z"
-    },
-    {
-      "id": "e08f6c2edb589cf2",
-      "title": "Trump administration proposes 25% tariff on Brazilian goods over unfair trade practices",
-      "url": "https://www.cnbc.com/2026/06/02/trump-proposes-25-tariff-on-brazil.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 25%"
-      ],
-      "firstSeen": "2026-06-02T06:18:33.807Z",
-      "pushedAt": "2026-06-02T06:18:33.807Z"
     }
   ],
-  "updatedAt": "2026-06-03T01:46:39.709Z"
+  "updatedAt": "2026-06-03T06:32:13.415Z"
 }
