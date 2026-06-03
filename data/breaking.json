@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "848de7e23c48e568",
+      "title": "Trump administration proposes 25% tariffs on Brazil despite extensive US trade surplus - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVJNNFNJYm8wYW02U0hhRXFNZDhHdm1QQndKMGFhcVRYcFNfMFNGZjZWVUdGTXJDZThnRVlfWWVfY0JuU2JDNHZLTU1UV2tHZEU1ODRfb3psbmFBaVRlUThKYV85WDNRSkdjRmpZOVFCd2tHUzJOc2xvZzR5a2Ytbl9icmJsVU1sNXVXcmR5aw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-06-03T22:16:25.115Z",
+      "pushedAt": "2026-06-03T22:16:25.115Z"
+    },
+    {
       "id": "e082e2f58c6d809c",
       "title": "Man accused of plotting 20 Iran-linked terror attacks in Europe and Canada appears in court",
       "url": "https://news.sky.com/story/man-accused-of-plotting-20-iran-linked-terror-attacks-in-europe-and-canada-appears-in-court-13549988",
@@ -143,19 +155,7 @@
       ],
       "firstSeen": "2026-06-03T01:46:39.540Z",
       "pushedAt": "2026-06-03T01:46:39.540Z"
-    },
-    {
-      "id": "e6fdbe9e789dd8b5",
-      "title": "US Treasury issues new Iran sanctions targeting crypto exchanges - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSi1VaExZZVZZVTBVZExiazF4VnltSDkzOWp5cXNZR0x2YndoaDdKS0xURUNoa0VpQk5GdVUtTWZvdWFhUWM5VkFiZ0lZY0ZiRHVpN1dVeHdfWGN0R3Bsdm5LdXl1UllPZk52dDdNam51TDl1alBUUEpXSFdSRUZJTl9FZUcwTndiMmwtSmVNQmVmTllxS0l2RmxfSy14RzNZcnM0aUJSc1Flc1dIdVhhS1owazRxZnhuQlE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-06-02T21:26:57.237Z",
-      "pushedAt": "2026-06-02T21:26:57.237Z"
     }
   ],
-  "updatedAt": "2026-06-03T19:46:35.305Z"
+  "updatedAt": "2026-06-03T22:16:25.422Z"
 }
