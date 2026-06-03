@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e082e2f58c6d809c",
+      "title": "Man accused of plotting 20 Iran-linked terror attacks in Europe and Canada appears in court",
+      "url": "https://news.sky.com/story/man-accused-of-plotting-20-iran-linked-terror-attacks-in-europe-and-canada-appears-in-court-13549988",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terror attack"
+      ],
+      "firstSeen": "2026-06-03T19:46:35.080Z",
+      "pushedAt": "2026-06-03T19:46:35.080Z"
+    },
+    {
       "id": "cc2d84b89004c1ff",
       "title": "EU could lose 1.3 million jobs due to energy price surge linked to Iran war, Commission says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd2d6OElSLW9aQzVoaTVmZUFjSVhkUzB6bWxVcHpiQ2JyYnNmRUFjWmhsUDFfczFNalkwMERzbnNpSXFBQjhjRnFHV242RElYdDFZdFBDemUzc1hsSU40WmloSkxCRDFwWTh6OTcwa1pNblQyanh5UDNPQUk0TWZVV3BVSDZMODlXQnhqU1FvclRlcHJUclYtY3RmenN1OTRKM3JoNEFWYkt2SVQxdHR1aDZqeGxUSDZlU0hZWWNTTFp6MDFMWUxuQ1VqYzB6Y3I2dnRsbg?oc=5",
@@ -143,43 +155,7 @@
       ],
       "firstSeen": "2026-06-02T21:26:57.237Z",
       "pushedAt": "2026-06-02T21:26:57.237Z"
-    },
-    {
-      "id": "3592beaadc0cd200",
-      "title": "US targets Brazil with new tariffs over trade practices",
-      "url": "https://www.aljazeera.com/economy/2026/6/2/us-targets-brazil-with-new-tariffs-over-trade-practices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-06-02T18:25:01.759Z",
-      "pushedAt": "2026-06-02T18:25:01.760Z"
-    },
-    {
-      "id": "e62bef6d0633f34f",
-      "title": "Canada seeks USMCA renewal for 16 years, sector tariff discussions",
-      "url": "https://www.aljazeera.com/economy/2026/6/2/canada-seeks-usmca-renewal-for-16-years-sector-tariff-discussions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-06-02T18:25:02.370Z",
-      "pushedAt": "2026-06-02T18:25:02.371Z"
-    },
-    {
-      "id": "187b04de4035a4ba",
-      "title": "Exclusive: Bipartisan group of lawmakers unveil new bill to restrict China biotech - Endpoints News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWw1RU9OUGc4b1c4emxjeS1PV2c0S2tNalp4aWg4T2xpSWFRb3AyUENSMnVMZWdVMVpBc05Oczg0OUJ4X0hfNjRsdTV5SUU4QXBiRUdMWTNlQVdYQmxMcGUxYUtidDVSb2FjU2FOREVuU3hiZ29XcWNoTklBNmdqVjVDdFZCUXcteXFV?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-06-02T18:25:02.580Z",
-      "pushedAt": "2026-06-02T18:25:02.580Z"
     }
   ],
-  "updatedAt": "2026-06-03T15:58:48.784Z"
+  "updatedAt": "2026-06-03T19:46:35.305Z"
 }
