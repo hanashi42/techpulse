@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "1829552079c8a06f",
+      "title": "Goldman Sachs expects SpaceX's AI revenue to surge 100-fold by 2030, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTlQzVjlXc3RCUDlrd3JWVTcyV1ZPcm1VWnpTeFl3VldTOTY5b3EtaXdFS3Jidmp3RktsLXloQ19KdTNCV21EMnZfNzM4V3lEUVdfaG9jT2oxTm1DNG5hLWJFQTdjdVJ3eURCMG5DNk5zZGM4TndVR3QzczZRc2NSUTBpVmplYWJjZm9BYWJLRlUzb3ExLTNjUUxsUGtGMWN2OGRfa2QtM05PYVhEcnhCUjhramEtREJlVjVzU01CTU1tRG12ajRicnhXVVlwdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + gold"
+      ],
+      "firstSeen": "2026-06-04T19:34:12.871Z",
+      "pushedAt": "2026-06-04T19:34:12.871Z"
+    },
+    {
+      "id": "4610a8d6ee50e382",
+      "title": "Mali junta bans motorcycles outside cities and creates military zones to reduce militant attacks - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTZad3ItM3Y5YnJ0VDRXM1VjNUswZFdLN3Fac3lTNkR3R2ZSSV9yOGZGVDdRMXNwalVtX3RYVk9zTlFtOEJaWVI5QU5yTVhBNUNXUDhoMXlWUFRycnJRLXNBdlZLUVEzdU5yNWM1TXFYWERKc3c2ejlUWWZmWi1qeW50NEczZ1ptZDRsYUhzeUFPUDNoQ0kxRXc5MlF0dEZ4SU1KTjkxaHc0OVYw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-06-04T19:34:13.123Z",
+      "pushedAt": "2026-06-04T19:34:13.123Z"
+    },
+    {
       "id": "70926ca190de09cb",
       "title": "Oil prices fall 3% on report Trump reluctant to restart Iran war",
       "url": "https://www.cnbc.com/2026/06/04/oil-price-today-iran-war-hormuz-trump-israel-lebanon.html",
@@ -96,31 +120,7 @@
       ],
       "firstSeen": "2026-06-03T19:46:35.080Z",
       "pushedAt": "2026-06-03T19:46:35.080Z"
-    },
-    {
-      "id": "cc2d84b89004c1ff",
-      "title": "EU could lose 1.3 million jobs due to energy price surge linked to Iran war, Commission says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd2d6OElSLW9aQzVoaTVmZUFjSVhkUzB6bWxVcHpiQ2JyYnNmRUFjWmhsUDFfczFNalkwMERzbnNpSXFBQjhjRnFHV242RElYdDFZdFBDemUzc1hsSU40WmloSkxCRDFwWTh6OTcwa1pNblQyanh5UDNPQUk0TWZVV3BVSDZMODlXQnhqU1FvclRlcHJUclYtY3RmenN1OTRKM3JoNEFWYkt2SVQxdHR1aDZqeGxUSDZlU0hZWWNTTFp6MDFMWUxuQ1VqYzB6Y3I2dnRsbg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + price"
-      ],
-      "firstSeen": "2026-06-03T15:58:48.632Z",
-      "pushedAt": "2026-06-03T15:58:48.632Z"
-    },
-    {
-      "id": "cd6a0d9d304de25f",
-      "title": "US announces new tariffs over forced labour concerns",
-      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-06-03T15:58:48.723Z",
-      "pushedAt": "2026-06-03T15:58:48.723Z"
     }
   ],
-  "updatedAt": "2026-06-04T14:16:22.785Z"
+  "updatedAt": "2026-06-04T19:34:13.369Z"
 }
