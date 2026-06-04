@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "830b7b15d8ad6e5d",
+      "title": "Oil prices climb back toward $100, and US stocks halt their record-breaking rally - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjVMZXBoRXVQS3ZaWHI2UUFfXzY1ZHIyYTRsWmRsQ0R1SG1qY0w4VDFPMV9pRmRfdExYM3ZKeDhJTUhJN2pYZnBfNzJVY2ttSERKRVVGaGxTanpZdGhJaHB5akFXS2drQUpQX1I4ZXdxeDMtMHhaaVN4ZGdwMWo4QVZ3RVVaZkdWcFhrdGJsa0QtSnRHUEF3?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock",
+        "oil price + record"
+      ],
+      "firstSeen": "2026-06-04T00:02:42.499Z",
+      "pushedAt": "2026-06-04T00:02:42.499Z"
+    },
+    {
       "id": "848de7e23c48e568",
       "title": "Trump administration proposes 25% tariffs on Brazil despite extensive US trade surplus - AP News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVJNNFNJYm8wYW02U0hhRXFNZDhHdm1QQndKMGFhcVRYcFNfMFNGZjZWVUdGTXJDZThnRVlfWWVfY0JuU2JDNHZLTU1UV2tHZEU1ODRfb3psbmFBaVRlUThKYV85WDNRSkdjRmpZOVFCd2tHUzJOc2xvZzR5a2Ytbl9icmJsVU1sNXVXcmR5aw?oc=5",
@@ -157,5 +170,5 @@
       "pushedAt": "2026-06-03T01:46:39.540Z"
     }
   ],
-  "updatedAt": "2026-06-03T22:16:25.422Z"
+  "updatedAt": "2026-06-04T00:02:42.820Z"
 }
