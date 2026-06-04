@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "afce44da0c125362",
+      "title": "Broadcom's sales and AI chip forecast comes in below expectations, shares tumble - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXBDblFJaXMzZ1VkMDNRbS1fQTVzNjhiN3FnNDJ6MWMybFR2dnM3WDVtWGZWekhMT01oV3BPcTRKaGI0MWhnN0YyZHhpMG8yemNuLW1jU3lBaGVGWVBnWDRwVi1HWUt4aFhPWFRDaUxpa3lsbEw2d3AzNldTSHM0Zzl0dEtPeU5mUHNJdnVmckYtS2tKYnBiLXNjQzdtTEVSQmc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + shares"
+      ],
+      "firstSeen": "2026-06-04T04:56:52.871Z",
+      "pushedAt": "2026-06-04T04:56:52.871Z"
+    },
+    {
+      "id": "f41c377062c4f4c9",
+      "title": "CNBC Daily Open: Fresh Iran war worries halt stock rally",
+      "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-iran-war-worries-halt-stock-rally.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-06-04T04:56:53.026Z",
+      "pushedAt": "2026-06-04T04:56:53.026Z"
+    },
+    {
       "id": "830b7b15d8ad6e5d",
       "title": "Oil prices climb back toward $100, and US stocks halt their record-breaking rally - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjVMZXBoRXVQS3ZaWHI2UUFfXzY1ZHIyYTRsWmRsQ0R1SG1qY0w4VDFPMV9pRmRfdExYM3ZKeDhJTUhJN2pYZnBfNzJVY2ttSERKRVVGaGxTanpZdGhJaHB5akFXS2drQUpQX1I4ZXdxeDMtMHhaaVN4ZGdwMWo4QVZ3RVVaZkdWcFhrdGJsa0QtSnRHUEF3?oc=5",
@@ -144,31 +168,7 @@
       ],
       "firstSeen": "2026-06-03T06:32:13.369Z",
       "pushedAt": "2026-06-03T06:32:13.369Z"
-    },
-    {
-      "id": "699d868763c899ac",
-      "title": "USTR seeks comment on possible US-China tariff cuts under Board of Trade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcExUd3ROaFRVMWNlZmhNcnBqNEk1ZkNWYUt3UnFHWWQ4dE16ZW9aTklGRXg1UE5sZGhSV05mMl85X2hBWTFhV3hoS1pOZ3F6RE8wQzRDT1F0dGtSYzFFMEY3TjhmWFZMVFQxelpkOFB6a1dSb194ZlF6QXFHUHY1TmhVZC1WX0JVbU1rcEpYc0dVYkdoc1drOExwLWdFeTNEbnA4SC1UMDh4c3hDV04zeQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-06-03T01:46:39.174Z",
-      "pushedAt": "2026-06-03T01:46:39.174Z"
-    },
-    {
-      "id": "48a652ae37d2c919",
-      "title": "Tariffs and supply glut drag down pork exports to China - USMEF - The Pig Site",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzJ2Qm5vUzB6bFlHc2NXVXZLN0hRdEI0WXpHSjVlNVliT2w0OGh1RnN5eGxldnFWQVM0UVRyTlp3VXBoemozNm0xck1iYzVzRGtIc1JMbnV4LU9iZ2NjdnA5aXVzQU9feW9SOHdxYmZibGNCNmxGeU1DdERUNWlEcHZrOWk0djRYanJKU2JTRXRnUndWakdyeDRfanBXcHpGOGo4?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-06-03T01:46:39.540Z",
-      "pushedAt": "2026-06-03T01:46:39.540Z"
     }
   ],
-  "updatedAt": "2026-06-04T00:02:42.820Z"
+  "updatedAt": "2026-06-04T04:56:53.075Z"
 }
