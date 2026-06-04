@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "75b620b9537ec286",
+      "title": "Block the bombs: Support grows for US bill to restrict arms for Israel",
+      "url": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-06-04T21:14:28.398Z",
+      "pushedAt": "2026-06-04T21:14:28.398Z"
+    },
+    {
       "id": "1829552079c8a06f",
       "title": "Goldman Sachs expects SpaceX's AI revenue to surge 100-fold by 2030, FT reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTlQzVjlXc3RCUDlrd3JWVTcyV1ZPcm1VWnpTeFl3VldTOTY5b3EtaXdFS3Jidmp3RktsLXloQ19KdTNCV21EMnZfNzM4V3lEUVdfaG9jT2oxTm1DNG5hLWJFQTdjdVJ3eURCMG5DNk5zZGM4TndVR3QzczZRc2NSUTBpVmplYWJjZm9BYWJLRlUzb3ExLTNjUUxsUGtGMWN2OGRfa2QtM05PYVhEcnhCUjhramEtREJlVjVzU01CTU1tRG12ajRicnhXVVlwdw?oc=5",
@@ -108,19 +120,7 @@
       ],
       "firstSeen": "2026-06-03T22:16:25.115Z",
       "pushedAt": "2026-06-03T22:16:25.115Z"
-    },
-    {
-      "id": "e082e2f58c6d809c",
-      "title": "Man accused of plotting 20 Iran-linked terror attacks in Europe and Canada appears in court",
-      "url": "https://news.sky.com/story/man-accused-of-plotting-20-iran-linked-terror-attacks-in-europe-and-canada-appears-in-court-13549988",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "terror attack"
-      ],
-      "firstSeen": "2026-06-03T19:46:35.080Z",
-      "pushedAt": "2026-06-03T19:46:35.080Z"
     }
   ],
-  "updatedAt": "2026-06-04T19:34:13.369Z"
+  "updatedAt": "2026-06-04T21:14:28.708Z"
 }
