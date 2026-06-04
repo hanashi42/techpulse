@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "6df5b286751d2954",
+      "title": "Suspect who took 10 people hostage in California standoff has been shot and killed, police say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNall5NXAyMUZCaFJlYWF2bUwwS2pWNUpzMWRLSGllUjQ2UFg4ellfU1p3WlJWV29HWGp3b25RNElxYWFnTnNtWG1kb0dFQ3dZNG02UW1qc0FUZk9sLTNja1BCcF9wZjdSdjQ5WXREQzFzWGdZaWE5X05sOWdvMm12ODNlclFBRjAxOVJId1g3MHJ1RmwzN0wzSng3VDJvb3FBTnpZN1VZZmo1QQ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hostage + killed"
+      ],
+      "firstSeen": "2026-06-04T08:43:28.650Z",
+      "pushedAt": "2026-06-04T08:43:28.650Z"
+    },
+    {
+      "id": "f5096d84501dfc7e",
+      "title": "SoftBank shares plunge over 11% amid broader tech sell-off",
+      "url": "https://www.cnbc.com/2026/06/04/softbanks-shares-are-down-10percent-amid-broader-tech-sell-off.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + shares"
+      ],
+      "firstSeen": "2026-06-04T08:43:28.752Z",
+      "pushedAt": "2026-06-04T08:43:28.752Z"
+    },
+    {
       "id": "afce44da0c125362",
       "title": "Broadcom's sales and AI chip forecast comes in below expectations, shares tumble - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXBDblFJaXMzZ1VkMDNRbS1fQTVzNjhiN3FnNDJ6MWMybFR2dnM3WDVtWGZWekhMT01oV3BPcTRKaGI0MWhnN0YyZHhpMG8yemNuLW1jU3lBaGVGWVBnWDRwVi1HWUt4aFhPWFRDaUxpa3lsbEw2d3AzNldTSHM0Zzl0dEtPeU5mUHNJdnVmckYtS2tKYnBiLXNjQzdtTEVSQmc?oc=5",
@@ -144,31 +168,7 @@
       ],
       "firstSeen": "2026-06-03T11:28:12.768Z",
       "pushedAt": "2026-06-03T11:28:12.768Z"
-    },
-    {
-      "id": "0ef934ceddcf00e1",
-      "title": "European shares head for negative open as White House proposes fresh tariffs on EU",
-      "url": "https://www.cnbc.com/2026/06/03/europe-markets-trump-eu-tariffs-zara-inditex.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + europe"
-      ],
-      "firstSeen": "2026-06-03T06:32:13.131Z",
-      "pushedAt": "2026-06-03T06:32:13.131Z"
-    },
-    {
-      "id": "fadbbba83005d1df",
-      "title": "Iran has mined 'large segments' of Hormuz Strait, Secretary of State Rubio says",
-      "url": "https://www.cnbc.com/2026/06/02/iran-war-strait-hormuz-marco-rubio-mine.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + mined"
-      ],
-      "firstSeen": "2026-06-03T06:32:13.369Z",
-      "pushedAt": "2026-06-03T06:32:13.369Z"
     }
   ],
-  "updatedAt": "2026-06-04T04:56:53.075Z"
+  "updatedAt": "2026-06-04T08:43:28.804Z"
 }
