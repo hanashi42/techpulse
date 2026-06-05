@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "2a4968035a8cbcbc",
+      "title": "US House backs Russia sanctions, Ukraine aid, in latest blow to Trump - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYU8zSVNZN0FKTnFpdlNVNmdPVkZyTFNJanZsclRyNmNRaEozcnYwd093VVVrRzE1aWp3RlRDeUw0dXVqMk1KcURLZlptSGc4LVl1bkJLV0dlQjk2ZTlCY3BLTDQ1UFE0enk1VjJlMWJIM19WbmhMWlVvaEM0X0FJTDNPUHlUTGlNZGhPYWF4TmpaUEtjbmVPSGpQUnNaTEJLQkc2bTJxWVpQZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-06-05T01:55:28.770Z",
+      "pushedAt": "2026-06-05T01:55:28.770Z"
+    },
+    {
+      "id": "3e3747db38f662e8",
+      "title": "South Korea stocks fall 4% as tech heavyweights follow plunge in Wall Street's AI-linked names",
+      "url": "https://www.cnbc.com/2026/06/05/asia-markets-today-nikkei-225-kospi-hang-seng-index-csi-300-nifty50.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock"
+      ],
+      "firstSeen": "2026-06-05T01:55:28.854Z",
+      "pushedAt": "2026-06-05T01:55:28.854Z"
+    },
+    {
       "id": "75b620b9537ec286",
       "title": "Block the bombs: Support grows for US bill to restrict arms for Israel",
       "url": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss",
@@ -95,32 +119,7 @@
       ],
       "firstSeen": "2026-06-04T04:56:53.026Z",
       "pushedAt": "2026-06-04T04:56:53.026Z"
-    },
-    {
-      "id": "830b7b15d8ad6e5d",
-      "title": "Oil prices climb back toward $100, and US stocks halt their record-breaking rally - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjVMZXBoRXVQS3ZaWHI2UUFfXzY1ZHIyYTRsWmRsQ0R1SG1qY0w4VDFPMV9pRmRfdExYM3ZKeDhJTUhJN2pYZnBfNzJVY2ttSERKRVVGaGxTanpZdGhJaHB5akFXS2drQUpQX1I4ZXdxeDMtMHhaaVN4ZGdwMWo4QVZ3RVVaZkdWcFhrdGJsa0QtSnRHUEF3?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock",
-        "oil price + record"
-      ],
-      "firstSeen": "2026-06-04T00:02:42.499Z",
-      "pushedAt": "2026-06-04T00:02:42.499Z"
-    },
-    {
-      "id": "848de7e23c48e568",
-      "title": "Trump administration proposes 25% tariffs on Brazil despite extensive US trade surplus - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVJNNFNJYm8wYW02U0hhRXFNZDhHdm1QQndKMGFhcVRYcFNfMFNGZjZWVUdGTXJDZThnRVlfWWVfY0JuU2JDNHZLTU1UV2tHZEU1ODRfb3psbmFBaVRlUThKYV85WDNRSkdjRmpZOVFCd2tHUzJOc2xvZzR5a2Ytbl9icmJsVU1sNXVXcmR5aw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-06-03T22:16:25.115Z",
-      "pushedAt": "2026-06-03T22:16:25.115Z"
     }
   ],
-  "updatedAt": "2026-06-04T21:14:28.708Z"
+  "updatedAt": "2026-06-05T01:55:28.894Z"
 }
