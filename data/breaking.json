@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "eef9e01e017ccdb8",
+      "title": "EU sees no jet fuel shortage amid price surge, transport chief says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQU1kVmk2V2I3UWIyeTU0Si1xVk43UkRNUjFLamJNNzBvajcyUWp1NmhuV0JGS1d0ZDRBcTIzc3pHd2lQeEtkOXloYVVVNVo4VXV3RzZVUDRYTTJaTi1zb2tWamkyQ2RsVm0tZ01YR1gyalNId1RXZlFadXlIM0l1aVBnRDZPbHJlNFZackhfWmVmZ1kzMkRCWlpfaVhxVnpJYXBBN25GUHpFQjN6OEw5aktXYzZCTU1vTkE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-06-05T10:14:18.990Z",
+      "pushedAt": "2026-06-05T10:14:18.990Z"
+    },
+    {
+      "id": "590db442a1bb8d4d",
+      "title": "Trump's latest tariff salvo no fix for global issue of forced labour - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2VDVDFvWEVVelVwTGVya2dwWkVPWjNNaU8zYWJTbDJfbmxxN1g2NmlpWXdXajllSDBESXlEV0ptR3hnM3ItSm9la1A0dFFyU0JpeC12Qm1hbEVWN2tPN3JYYm5mbHBiUlVxNmd2eUZNUzM5YUx1TklnT3VxR1ktdUVXdXJGaUVHMUI5ZnhRbnFTbXEwOHA4VnctZ2NveDJneVh5R1FPOA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-06-05T10:14:19.115Z",
+      "pushedAt": "2026-06-05T10:14:19.115Z"
+    },
+    {
+      "id": "1a83700ee53441a3",
+      "title": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWxhTXE4RVFMNzZSeHRMdVdCRkIzeHktVTdfazU4ZVAxVkU4eUJJZlpOdUxTYVhuVUphemMtNFIxYmJXcFRYTTl2V3UyeTAwS0VoY3dPRmN5aDRLUzVtU2pNZ1UycTd1RFpSOHNmZk9OOEZXWXoxdWRtd3JEVnJWTUxFMUx6VWpORGt5V3lzMHRTc0NZaFdzSUJGaVFxd0pWXzlYUG0tdUs1QQ?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ceasefire agreement"
+      ],
+      "firstSeen": "2026-06-05T10:14:19.163Z",
+      "pushedAt": "2026-06-05T10:14:19.163Z"
+    },
+    {
       "id": "bd7773c114e9227f",
       "title": "Stocks drop as AI rally pauses, US-Iran peace talks stall - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDZvYjZiMW9PTFBnYWRFYVRVa0hDanhaTmdoRTFtSVJvY1NXMHR0LXMzdm9VZlJXcUVwbkdEbWd2UG9Tb1FCQk1Rdkl5YkNYWEJ6MkhxU1ZaS3A1eUhiOGxiSzZlbkNCUklYLUJhQmFzUFBmY0dPdGU0aEFTa0tDVmpLVQ?oc=5",
@@ -96,31 +132,7 @@
       ],
       "firstSeen": "2026-06-04T14:16:22.656Z",
       "pushedAt": "2026-06-04T14:16:22.656Z"
-    },
-    {
-      "id": "6df5b286751d2954",
-      "title": "Suspect who took 10 people hostage in California standoff has been shot and killed, police say - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNall5NXAyMUZCaFJlYWF2bUwwS2pWNUpzMWRLSGllUjQ2UFg4ellfU1p3WlJWV29HWGp3b25RNElxYWFnTnNtWG1kb0dFQ3dZNG02UW1qc0FUZk9sLTNja1BCcF9wZjdSdjQ5WXREQzFzWGdZaWE5X05sOWdvMm12ODNlclFBRjAxOVJId1g3MHJ1RmwzN0wzSng3VDJvb3FBTnpZN1VZZmo1QQ?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hostage + killed"
-      ],
-      "firstSeen": "2026-06-04T08:43:28.650Z",
-      "pushedAt": "2026-06-04T08:43:28.650Z"
-    },
-    {
-      "id": "f5096d84501dfc7e",
-      "title": "SoftBank shares plunge over 11% amid broader tech sell-off",
-      "url": "https://www.cnbc.com/2026/06/04/softbanks-shares-are-down-10percent-amid-broader-tech-sell-off.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + shares"
-      ],
-      "firstSeen": "2026-06-04T08:43:28.752Z",
-      "pushedAt": "2026-06-04T08:43:28.752Z"
     }
   ],
-  "updatedAt": "2026-06-05T06:11:27.649Z"
+  "updatedAt": "2026-06-05T10:14:19.192Z"
 }
