@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "90a045e49570eef7",
+      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
+      "url": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-06-05T21:41:11.520Z",
+      "pushedAt": "2026-06-05T21:41:11.520Z"
+    },
+    {
       "id": "b0fe03a75fd69774",
       "title": "US eyes new tariffs for China, EU, Mexico and more after labor probes - ESG Dive",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFF5NEFJYkFiTDVhaUZ6MWh3YTJRR0VURXFtaTdlS2s3R0ZFQXViWURFME1VcWRRWmtFNGNyNG11a3NqdG1lVlZJOTNRaFRQWUhTa19MenJYV1BHV1h5NFNxQ09adlVSX1ZIaTRWalQ0TmlBR3REUW5HOGJaN2hvVE9NS1Z6X2NQQ3I0dkJUcy12aTU0YVZWb0JoNWlIMGJEcmlCZFlfOA?oc=5",
@@ -145,19 +157,7 @@
       ],
       "firstSeen": "2026-06-05T01:55:28.854Z",
       "pushedAt": "2026-06-05T01:55:28.854Z"
-    },
-    {
-      "id": "75b620b9537ec286",
-      "title": "Block the bombs: Support grows for US bill to restrict arms for Israel",
-      "url": "https://www.aljazeera.com/news/2026/6/4/block-the-bombs-support-grows-for-us-bill-to-restrict-arms-for-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-06-04T21:14:28.398Z",
-      "pushedAt": "2026-06-04T21:14:28.398Z"
     }
   ],
-  "updatedAt": "2026-06-05T20:06:01.126Z"
+  "updatedAt": "2026-06-05T21:41:11.608Z"
 }
