@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "6be71c9d6850a916",
+      "title": "Bitcoin caps a dismal week as price wallows 50% below its all-time high",
+      "url": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "all-time high + bitcoin",
+        "bitcoin + all-time"
+      ],
+      "firstSeen": "2026-06-05T13:24:12.940Z",
+      "pushedAt": "2026-06-05T13:24:12.940Z"
+    },
+    {
       "id": "eef9e01e017ccdb8",
       "title": "EU sees no jet fuel shortage amid price surge, transport chief says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQU1kVmk2V2I3UWIyeTU0Si1xVk43UkRNUjFLamJNNzBvajcyUWp1NmhuV0JGS1d0ZDRBcTIzc3pHd2lQeEtkOXloYVVVNVo4VXV3RzZVUDRYTTJaTi1zb2tWamkyQ2RsVm0tZ01YR1gyalNId1RXZlFadXlIM0l1aVBnRDZPbHJlNFZackhfWmVmZ1kzMkRCWlpfaVhxVnpJYXBBN25GUHpFQjN6OEw5aktXYzZCTU1vTkE?oc=5",
@@ -134,5 +147,5 @@
       "pushedAt": "2026-06-04T14:16:22.656Z"
     }
   ],
-  "updatedAt": "2026-06-05T10:14:19.192Z"
+  "updatedAt": "2026-06-05T13:24:13.212Z"
 }
