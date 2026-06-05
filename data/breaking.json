@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b0fe03a75fd69774",
+      "title": "US eyes new tariffs for China, EU, Mexico and more after labor probes - ESG Dive",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFF5NEFJYkFiTDVhaUZ6MWh3YTJRR0VURXFtaTdlS2s3R0ZFQXViWURFME1VcWRRWmtFNGNyNG11a3NqdG1lVlZJOTNRaFRQWUhTa19MenJYV1BHV1h5NFNxQ09adlVSX1ZIaTRWalQ0TmlBR3REUW5HOGJaN2hvVE9NS1Z6X2NQQ3I0dkJUcy12aTU0YVZWb0JoNWlIMGJEcmlCZFlfOA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-06-05T20:06:00.875Z",
+      "pushedAt": "2026-06-05T20:06:00.875Z"
+    },
+    {
       "id": "bb2bdf0e3f3fdbeb",
       "title": "US jobs report tilts hawkish as Warsh takes over at Fed - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0JkR3ZHY2thbGpLU2FrRnM5VWp3aHZicWd2VU1zamZ3aU9QVTZ3bjN6ejdEU0hGWmVDT1lKWDZGbjVlN2NZaGNJZktqa08xdHNxSzB5eHAtSEN2dTZMOGlkLWk4TkhMZUczNE1tWjluOUdaQnJIVTBxQkpHNHZUN0t3VldpR1dBWUFoc2xYNzRuaGFlUnpJbUdRcElSMlI2NW5J?oc=5",
@@ -145,31 +157,7 @@
       ],
       "firstSeen": "2026-06-04T21:14:28.398Z",
       "pushedAt": "2026-06-04T21:14:28.398Z"
-    },
-    {
-      "id": "1829552079c8a06f",
-      "title": "Goldman Sachs expects SpaceX's AI revenue to surge 100-fold by 2030, FT reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTlQzVjlXc3RCUDlrd3JWVTcyV1ZPcm1VWnpTeFl3VldTOTY5b3EtaXdFS3Jidmp3RktsLXloQ19KdTNCV21EMnZfNzM4V3lEUVdfaG9jT2oxTm1DNG5hLWJFQTdjdVJ3eURCMG5DNk5zZGM4TndVR3QzczZRc2NSUTBpVmplYWJjZm9BYWJLRlUzb3ExLTNjUUxsUGtGMWN2OGRfa2QtM05PYVhEcnhCUjhramEtREJlVjVzU01CTU1tRG12ajRicnhXVVlwdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + gold"
-      ],
-      "firstSeen": "2026-06-04T19:34:12.871Z",
-      "pushedAt": "2026-06-04T19:34:12.871Z"
-    },
-    {
-      "id": "4610a8d6ee50e382",
-      "title": "Mali junta bans motorcycles outside cities and creates military zones to reduce militant attacks - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTZad3ItM3Y5YnJ0VDRXM1VjNUswZFdLN3Fac3lTNkR3R2ZSSV9yOGZGVDdRMXNwalVtX3RYVk9zTlFtOEJaWVI5QU5yTVhBNUNXUDhoMXlWUFRycnJRLXNBdlZLUVEzdU5yNWM1TXFYWERKc3c2ejlUWWZmWi1qeW50NEczZ1ptZDRsYUhzeUFPUDNoQ0kxRXc5MlF0dEZ4SU1KTjkxaHc0OVYw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-06-04T19:34:13.123Z",
-      "pushedAt": "2026-06-04T19:34:13.123Z"
     }
   ],
-  "updatedAt": "2026-06-05T16:10:08.775Z"
+  "updatedAt": "2026-06-05T20:06:01.126Z"
 }
