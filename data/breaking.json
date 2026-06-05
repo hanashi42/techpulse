@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "bd7773c114e9227f",
+      "title": "Stocks drop as AI rally pauses, US-Iran peace talks stall - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDZvYjZiMW9PTFBnYWRFYVRVa0hDanhaTmdoRTFtSVJvY1NXMHR0LXMzdm9VZlJXcUVwbkdEbWd2UG9Tb1FCQk1Rdkl5YkNYWEJ6MkhxU1ZaS3A1eUhiOGxiSzZlbkNCUklYLUJhQmFzUFBmY0dPdGU0aEFTa0tDVmpLVQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-06-05T06:11:27.203Z",
+      "pushedAt": "2026-06-05T06:11:27.203Z"
+    },
+    {
+      "id": "d475db04b75fc894",
+      "title": "The Dow leaps to a record as oil prices ease and US stocks outside of AI rally - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXZLR3lZUjlfN3phOENCbElUVUFpVEtpY3FDZG0xZUFPYzJuTjlzT09mQkFaZTZMQU51RmptenpIQk01OUlTdkltUnZEcXNJMXk5X2ZVRXlVQm1LNTdhdThTcE9pTjJJa1l6VFNIYTE4d1pnZ1EyUWplMVpXMXNJRllxX1h1NV9FUXRWSkVnclVvWms?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock",
+        "oil price + record"
+      ],
+      "firstSeen": "2026-06-05T06:11:27.437Z",
+      "pushedAt": "2026-06-05T06:11:27.437Z"
+    },
+    {
       "id": "2a4968035a8cbcbc",
       "title": "US House backs Russia sanctions, Ukraine aid, in latest blow to Trump - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYU8zSVNZN0FKTnFpdlNVNmdPVkZyTFNJanZsclRyNmNRaEozcnYwd093VVVrRzE1aWp3RlRDeUw0dXVqMk1KcURLZlptSGc4LVl1bkJLV0dlQjk2ZTlCY3BLTDQ1UFE0enk1VjJlMWJIM19WbmhMWlVvaEM0X0FJTDNPUHlUTGlNZGhPYWF4TmpaUEtjbmVPSGpQUnNaTEJLQkc2bTJxWVpQZw?oc=5",
@@ -95,31 +120,7 @@
       ],
       "firstSeen": "2026-06-04T08:43:28.752Z",
       "pushedAt": "2026-06-04T08:43:28.752Z"
-    },
-    {
-      "id": "afce44da0c125362",
-      "title": "Broadcom's sales and AI chip forecast comes in below expectations, shares tumble - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXBDblFJaXMzZ1VkMDNRbS1fQTVzNjhiN3FnNDJ6MWMybFR2dnM3WDVtWGZWekhMT01oV3BPcTRKaGI0MWhnN0YyZHhpMG8yemNuLW1jU3lBaGVGWVBnWDRwVi1HWUt4aFhPWFRDaUxpa3lsbEw2d3AzNldTSHM0Zzl0dEtPeU5mUHNJdnVmckYtS2tKYnBiLXNjQzdtTEVSQmc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + shares"
-      ],
-      "firstSeen": "2026-06-04T04:56:52.871Z",
-      "pushedAt": "2026-06-04T04:56:52.871Z"
-    },
-    {
-      "id": "f41c377062c4f4c9",
-      "title": "CNBC Daily Open: Fresh Iran war worries halt stock rally",
-      "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-iran-war-worries-halt-stock-rally.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-06-04T04:56:53.026Z",
-      "pushedAt": "2026-06-04T04:56:53.026Z"
     }
   ],
-  "updatedAt": "2026-06-05T01:55:28.894Z"
+  "updatedAt": "2026-06-05T06:11:27.649Z"
 }
