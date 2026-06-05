@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "bb2bdf0e3f3fdbeb",
+      "title": "US jobs report tilts hawkish as Warsh takes over at Fed - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0JkR3ZHY2thbGpLU2FrRnM5VWp3aHZicWd2VU1zamZ3aU9QVTZ3bjN6ejdEU0hGWmVDT1lKWDZGbjVlN2NZaGNJZktqa08xdHNxSzB5eHAtSEN2dTZMOGlkLWk4TkhMZUczNE1tWjluOUdaQnJIVTBxQkpHNHZUN0t3VldpR1dBWUFoc2xYNzRuaGFlUnpJbUdRcElSMlI2NW5J?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + hawkish"
+      ],
+      "firstSeen": "2026-06-05T16:10:08.391Z",
+      "pushedAt": "2026-06-05T16:10:08.391Z"
+    },
+    {
+      "id": "a6419e69492494a5",
+      "title": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
+      "url": "https://www.cnbc.com/2026/06/05/amazon-robot-proteus-warehouse-ai-layoffs.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + amazon"
+      ],
+      "firstSeen": "2026-06-05T16:10:08.570Z",
+      "pushedAt": "2026-06-05T16:10:08.570Z"
+    },
+    {
+      "id": "628a2451e607cd59",
+      "title": "Odds of a Fed hike this year jump on prediction markets",
+      "url": "https://www.cnbc.com/2026/06/05/odds-of-a-fed-hike-this-year-jump-on-prediction-markets-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + hike"
+      ],
+      "firstSeen": "2026-06-05T16:10:08.721Z",
+      "pushedAt": "2026-06-05T16:10:08.721Z"
+    },
+    {
       "id": "6be71c9d6850a916",
       "title": "Bitcoin caps a dismal week as price wallows 50% below its all-time high",
       "url": "https://www.cnbc.com/2026/06/05/bitcoin-dismal-week-price-below-all-time-high-crypto-investors.html",
@@ -133,19 +169,7 @@
       ],
       "firstSeen": "2026-06-04T19:34:13.123Z",
       "pushedAt": "2026-06-04T19:34:13.123Z"
-    },
-    {
-      "id": "70926ca190de09cb",
-      "title": "Oil prices fall 3% on report Trump reluctant to restart Iran war",
-      "url": "https://www.cnbc.com/2026/06/04/oil-price-today-iran-war-hormuz-trump-israel-lebanon.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-06-04T14:16:22.656Z",
-      "pushedAt": "2026-06-04T14:16:22.656Z"
     }
   ],
-  "updatedAt": "2026-06-05T13:24:13.212Z"
+  "updatedAt": "2026-06-05T16:10:08.775Z"
 }
