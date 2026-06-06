@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7dd5ad8db71b1b60",
+      "title": "Security News This Week: Crypto-Funded Chinese Peptide Labs Are Booming - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGhkbHduTTF0OWZYeWktdUJneDBmSHVBN3FnU1pMdTlBUEt3NjhmdDlSVzNNUGpPVXFEWlJqN2tBdFc1RDJQNk5veGFHZWVta2wyTm96eXVsM2RtVHotbzIzS19hcFBkZkRCMTdQaFFLQUpDNTl0WEtPRzI2MF9Cb2tvZ3N3UXZkZ1NybDFuMUlfRFg2bWE1WEZiaWJjTTFK?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crypto + sec"
+      ],
+      "firstSeen": "2026-06-06T11:46:33.117Z",
+      "pushedAt": "2026-06-06T11:46:33.117Z"
+    },
+    {
       "id": "66c28a64654ee067",
       "title": "Lawmakers propose China restrictions; #ASCO26 recap; and more - Endpoints News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWh2c2FzaGRBQTRDZG5SS1pIZzdLM0IweVBLMWhJWXBSd0VMY3BxUG1TbmxUbi1fMWpkOFkwaGFucHY5UEpocVVHNmE1Q05TZmxUc0ZDTTFtZndRRE1Sb0dhaW9RZlhuSERhNmxTVjU4UG83WUFBdkFLX3c2UllObU40WUhReGltWEE?oc=5",
@@ -98,5 +110,5 @@
       "pushedAt": "2026-06-05T13:24:12.940Z"
     }
   ],
-  "updatedAt": "2026-06-06T10:18:17.957Z"
+  "updatedAt": "2026-06-06T11:46:33.341Z"
 }
