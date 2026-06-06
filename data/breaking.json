@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8363b018804b35f7",
+      "title": "Volcanic eruptions linked to rising famine risk across China's history - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPN0ttZFpnSWV2dDN3M0I5SzJ1dzBuX3IxTlBadzJYSndScE9zdnNmMWc1OXBRVEZuLTFQbXk1QU0zR0lxTndXUEpPVmdQWWVkeF9DbGRWVkFZUkFQTUw0NzJ6M1Z0NWM5dUhPSEtWeWVCZXhwT1JCSkhKR0pVZw?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "volcanic eruption"
+      ],
+      "firstSeen": "2026-06-06T16:46:57.364Z",
+      "pushedAt": "2026-06-06T16:46:57.364Z"
+    },
+    {
       "id": "c32ae9f8ea85b5c1",
       "title": "Wall Street's 'fear gauge' punches back as the 'crash up' in chip stocks finally reverses",
       "url": "https://www.cnbc.com/2026/06/06/wall-streets-fear-gauge-punches-back-as-the-crash-up-in-chip-stocks-finally-reverses.html",
@@ -83,43 +95,7 @@
       ],
       "firstSeen": "2026-06-05T20:06:00.875Z",
       "pushedAt": "2026-06-05T20:06:00.875Z"
-    },
-    {
-      "id": "bb2bdf0e3f3fdbeb",
-      "title": "US jobs report tilts hawkish as Warsh takes over at Fed - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0JkR3ZHY2thbGpLU2FrRnM5VWp3aHZicWd2VU1zamZ3aU9QVTZ3bjN6ejdEU0hGWmVDT1lKWDZGbjVlN2NZaGNJZktqa08xdHNxSzB5eHAtSEN2dTZMOGlkLWk4TkhMZUczNE1tWjluOUdaQnJIVTBxQkpHNHZUN0t3VldpR1dBWUFoc2xYNzRuaGFlUnpJbUdRcElSMlI2NW5J?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + hawkish"
-      ],
-      "firstSeen": "2026-06-05T16:10:08.391Z",
-      "pushedAt": "2026-06-05T16:10:08.391Z"
-    },
-    {
-      "id": "a6419e69492494a5",
-      "title": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
-      "url": "https://www.cnbc.com/2026/06/05/amazon-robot-proteus-warehouse-ai-layoffs.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + amazon"
-      ],
-      "firstSeen": "2026-06-05T16:10:08.570Z",
-      "pushedAt": "2026-06-05T16:10:08.570Z"
-    },
-    {
-      "id": "628a2451e607cd59",
-      "title": "Odds of a Fed hike this year jump on prediction markets",
-      "url": "https://www.cnbc.com/2026/06/05/odds-of-a-fed-hike-this-year-jump-on-prediction-markets-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + hike"
-      ],
-      "firstSeen": "2026-06-05T16:10:08.721Z",
-      "pushedAt": "2026-06-05T16:10:08.721Z"
     }
   ],
-  "updatedAt": "2026-06-06T14:22:58.838Z"
+  "updatedAt": "2026-06-06T16:46:57.603Z"
 }
