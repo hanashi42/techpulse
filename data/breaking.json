@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6b81c2b18cd4797b",
+      "title": "Lebanon says three soldiers killed in Israeli attack on car",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-06T12:55:10.159Z",
+      "pushedAt": "2026-06-06T12:55:10.159Z"
+    },
+    {
       "id": "7dd5ad8db71b1b60",
       "title": "Security News This Week: Crypto-Funded Chinese Peptide Labs Are Booming - WIRED",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGhkbHduTTF0OWZYeWktdUJneDBmSHVBN3FnU1pMdTlBUEt3NjhmdDlSVzNNUGpPVXFEWlJqN2tBdFc1RDJQNk5veGFHZWVta2wyTm96eXVsM2RtVHotbzIzS19hcFBkZkRCMTdQaFFLQUpDNTl0WEtPRzI2MF9Cb2tvZ3N3UXZkZ1NybDFuMUlfRFg2bWE1WEZiaWJjTTFK?oc=5",
@@ -110,5 +122,5 @@
       "pushedAt": "2026-06-05T13:24:12.940Z"
     }
   ],
-  "updatedAt": "2026-06-06T11:46:33.341Z"
+  "updatedAt": "2026-06-06T12:55:10.241Z"
 }
