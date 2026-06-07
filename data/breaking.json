@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c32ae9f8ea85b5c1",
+      "title": "Wall Street's 'fear gauge' punches back as the 'crash up' in chip stocks finally reverses",
+      "url": "https://www.cnbc.com/2026/06/06/wall-streets-fear-gauge-punches-back-as-the-crash-up-in-chip-stocks-finally-reverses.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crash + wall street"
+      ],
+      "firstSeen": "2026-06-07T16:57:47.252Z",
+      "pushedAt": "2026-06-07T16:57:47.252Z"
+    },
+    {
       "id": "e7d0b538fe7ebbd5",
       "title": "Nvidia, SK to detail cooperation plan as Huang flags prolonged chip shortage - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHNJZHl4MmRVaDB2SDZQaTV0TWQyUFhFSWMtWkZaN08wSDBsQllBN2ZIOGhNV0otWjhERFRsaXVuQ3l4dmtjV0RfLXI5ak13WUE3OVAxM3Q5VG54N3JBaE5JZjF0WXVWMVdYWTRlYzV2endubDVlNEdZc25MNUpCRzVFbDlXN3ZoUFRJWUR5cU5MVEJNQTBDd1pqRmJIVkRGRjA1LWVOMWZZa2EwVHllZU5XS2oxZ29fNE4yX3R3?oc=5",
@@ -107,19 +119,7 @@
       ],
       "firstSeen": "2026-06-06T17:50:54.352Z",
       "pushedAt": "2026-06-06T17:50:54.352Z"
-    },
-    {
-      "id": "8363b018804b35f7",
-      "title": "Volcanic eruptions linked to rising famine risk across China's history - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPN0ttZFpnSWV2dDN3M0I5SzJ1dzBuX3IxTlBadzJYSndScE9zdnNmMWc1OXBRVEZuLTFQbXk1QU0zR0lxTndXUEpPVmdQWWVkeF9DbGRWVkFZUkFQTUw0NzJ6M1Z0NWM5dUhPSEtWeWVCZXhwT1JCSkhKR0pVZw?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "volcanic eruption"
-      ],
-      "firstSeen": "2026-06-06T16:46:57.364Z",
-      "pushedAt": "2026-06-06T16:46:57.364Z"
     }
   ],
-  "updatedAt": "2026-06-07T15:45:23.489Z"
+  "updatedAt": "2026-06-07T16:57:47.486Z"
 }
