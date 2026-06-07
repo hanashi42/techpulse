@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7bb909d37b2cae31",
+      "title": "Chinese banks raise dollar deposit rates to counter yuan strength - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96Q0YxY2d4MURJbVNPVkU2MWV4aTdpMkc1MTVuZkh5WEJNNHhVT0MzbDh5aFNscmpMWGhHMk5xSkI5TTZjbFNhWkV2MXFNNkZlY0dsQWZ1b3JyTlJEUFNZWjZ3Qmo4TzBLeHNYUjZMVjNhdkhja3V3?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crypto + ban"
+      ],
+      "firstSeen": "2026-06-07T04:58:30.308Z",
+      "pushedAt": "2026-06-07T04:58:30.308Z"
+    },
+    {
       "id": "6bac94924474cc1e",
       "title": "Hegseth warns Europe faces 'invasion of dangerous ideologies'",
       "url": "https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447",
@@ -83,43 +95,7 @@
       ],
       "firstSeen": "2026-06-06T10:18:17.690Z",
       "pushedAt": "2026-06-06T10:18:17.690Z"
-    },
-    {
-      "id": "a54edb9ebb5f93eb",
-      "title": "US military says it shot down Iranian drones launched toward Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1h5Qk1UNmoyeVpUMGJlLVlteWk0TTlqd1pCSHNGX1h5Q1c2aW9PZ3NaY1BNM1NHdWs5bUFHRHdkX0ZPallOVFRMNmVBSkFMM1prWW9mUHVKSmpZa3MxSWZBQkh3aFNqNWpCRERmYzBUREN3MzVUcUgzRFpxNVdaX0pkMC1SazlvX2c?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + drone"
-      ],
-      "firstSeen": "2026-06-06T01:47:17.253Z",
-      "pushedAt": "2026-06-06T01:47:17.253Z"
-    },
-    {
-      "id": "90a045e49570eef7",
-      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
-      "url": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-06-05T21:41:11.520Z",
-      "pushedAt": "2026-06-05T21:41:11.520Z"
-    },
-    {
-      "id": "b0fe03a75fd69774",
-      "title": "US eyes new tariffs for China, EU, Mexico and more after labor probes - ESG Dive",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFF5NEFJYkFiTDVhaUZ6MWh3YTJRR0VURXFtaTdlS2s3R0ZFQXViWURFME1VcWRRWmtFNGNyNG11a3NqdG1lVlZJOTNRaFRQWUhTa19MenJYV1BHV1h5NFNxQ09adlVSX1ZIaTRWalQ0TmlBR3REUW5HOGJaN2hvVE9NS1Z6X2NQQ3I0dkJUcy12aTU0YVZWb0JoNWlIMGJEcmlCZFlfOA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-06-05T20:06:00.875Z",
-      "pushedAt": "2026-06-05T20:06:00.875Z"
     }
   ],
-  "updatedAt": "2026-06-06T17:50:54.474Z"
+  "updatedAt": "2026-06-07T04:58:30.437Z"
 }
