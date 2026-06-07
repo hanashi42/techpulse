@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "cc12eab598e9e68f",
+      "title": "One person killed in attack in central Israel - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVVBY0NvY3MxTGpiWkluSFByZkZzUlBWYm1uYW9XV2pzZ3JNSmxTaGpPVm42ZjREeXF6WDZLMUN1TnZOdlZuOWsyYmhyWlEtbWZ6WWF3UDdJNWROVVB2UkFLX0lYcG8zbndnRUhqTXJ1cmxBZjVOem1LQkVqUTdlcWY2TEwxRExWNG9vTzZEalZ3WVluaUJGTTNjLWxlc3pUZG5hdlJuZWJzQ05EcDU3U1ZfcGNIQ3hMV3Q3UVpmZHc2UXoxbTQ0c19uYw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-07T12:10:20.046Z",
+      "pushedAt": "2026-06-07T12:10:20.046Z"
+    },
+    {
+      "id": "33d2206c11cda655",
+      "title": "EPP chief warns of EU-China trade war - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFZpWHM1MEc3Um9tYVJyTnRrTm1WOVhPaDBHcG1wWTl6akduRHBsUkdoYmNVdGRZNVM3WEkyTFpOeGM1RVE1TnlUQ1JtUzFaeFNIdWRLdmZtRnZnVEtMZnhGcWZjYzhZZWpkYnhObEU0NWRNMVBLZHZLUk9NMUdzRXlnV1A5YU1jeHdaTS16ZFkwOVBPemhMa2Y0YXdYcXQ4NHI1Uzh6RnlMSm1RVlJMS2dlNEw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + china"
+      ],
+      "firstSeen": "2026-06-07T12:10:20.178Z",
+      "pushedAt": "2026-06-07T12:10:20.178Z"
+    },
+    {
       "id": "86f874628908d5fb",
       "title": "North Korea will never surrender nuclear status, Kim Jong Un's sister says",
       "url": "https://news.sky.com/story/kim-jong-uns-sister-vows-north-korea-will-never-give-up-nuclear-weapons-13551594",
@@ -95,19 +119,7 @@
       ],
       "firstSeen": "2026-06-06T12:55:10.159Z",
       "pushedAt": "2026-06-06T12:55:10.159Z"
-    },
-    {
-      "id": "7dd5ad8db71b1b60",
-      "title": "Security News This Week: Crypto-Funded Chinese Peptide Labs Are Booming - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGhkbHduTTF0OWZYeWktdUJneDBmSHVBN3FnU1pMdTlBUEt3NjhmdDlSVzNNUGpPVXFEWlJqN2tBdFc1RDJQNk5veGFHZWVta2wyTm96eXVsM2RtVHotbzIzS19hcFBkZkRCMTdQaFFLQUpDNTl0WEtPRzI2MF9Cb2tvZ3N3UXZkZ1NybDFuMUlfRFg2bWE1WEZiaWJjTTFK?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crypto + sec"
-      ],
-      "firstSeen": "2026-06-06T11:46:33.117Z",
-      "pushedAt": "2026-06-06T11:46:33.117Z"
     }
   ],
-  "updatedAt": "2026-06-07T10:37:51.139Z"
+  "updatedAt": "2026-06-07T12:10:20.277Z"
 }
