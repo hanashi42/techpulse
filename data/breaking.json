@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ac9e906ceec0bc04",
+      "title": "Videos show missiles launched from Iran into Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missiles launched"
+      ],
+      "firstSeen": "2026-06-07T21:52:36.529Z",
+      "pushedAt": "2026-06-07T21:52:36.529Z"
+    },
+    {
       "id": "c32ae9f8ea85b5c1",
       "title": "Wall Street's 'fear gauge' punches back as the 'crash up' in chip stocks finally reverses",
       "url": "https://www.cnbc.com/2026/06/06/wall-streets-fear-gauge-punches-back-as-the-crash-up-in-chip-stocks-finally-reverses.html",
@@ -95,31 +107,7 @@
       ],
       "firstSeen": "2026-06-07T04:58:30.308Z",
       "pushedAt": "2026-06-07T04:58:30.308Z"
-    },
-    {
-      "id": "6bac94924474cc1e",
-      "title": "Hegseth warns Europe faces 'invasion of dangerous ideologies'",
-      "url": "https://news.sky.com/story/hegseth-warns-europe-faces-invasion-of-dangerous-ideologies-in-d-day-speech-13551447",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "invasion of"
-      ],
-      "firstSeen": "2026-06-06T17:50:54.163Z",
-      "pushedAt": "2026-06-06T17:50:54.163Z"
-    },
-    {
-      "id": "a6419e69492494a5",
-      "title": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
-      "url": "https://www.cnbc.com/2026/06/05/amazon-robot-proteus-warehouse-ai-layoffs.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + amazon"
-      ],
-      "firstSeen": "2026-06-06T17:50:54.352Z",
-      "pushedAt": "2026-06-06T17:50:54.352Z"
     }
   ],
-  "updatedAt": "2026-06-07T16:57:47.486Z"
+  "updatedAt": "2026-06-07T21:52:36.588Z"
 }
