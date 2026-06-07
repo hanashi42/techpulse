@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e6a485295869c9ee",
+      "title": "Oil prices rise more than $2 on Israel strikes on Lebanon - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTlEbEFKMHpFNlgyeTJmTXIzWlNLWEI2aTV1OTFkTHgzejlqM2ZpQUM1NjZVaGo1WXk2UHV1TW9xMVhvWDVwcXVOdTBuaWp6aVBRMjBFSHRBUVBNREpHblcwNFNILW52TmhRT1gtaFVaZTJJWjdWQmwyV1A1SDBFY05RRzZxQkRQV3YzbVZEX2tWQ1haMW9CLTBRVko5YWx5VHUwSw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-06-07T23:51:15.269Z",
+      "pushedAt": "2026-06-07T23:51:15.269Z"
+    },
+    {
       "id": "0855e82e2f3556bb",
       "title": "Chinese Manufacturers Facing A Bigger Test Than Tariffs - The Wire China",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT2RJX0hKQ284TGxQalVGY3VWTno5ak1ldGlpSGRaZzRDWTVuMzhzMG1Uc1hZbmNNcG1FSGdINUZacXM4NFhyc25QMHZ4OU9ERUdiYnlfV0JFQVRFR1lod2FzMEZXdXlFZ241TWZVc0t5REN4c0czd085TkVoQklVd0xPaXlVb0FHeFBiOG5ia1FMY1lHRVpFUkpoQ0s?oc=5",
@@ -121,5 +133,5 @@
       "pushedAt": "2026-06-07T04:58:30.308Z"
     }
   ],
-  "updatedAt": "2026-06-07T22:50:18.049Z"
+  "updatedAt": "2026-06-07T23:51:15.507Z"
 }
