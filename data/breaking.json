@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e7d0b538fe7ebbd5",
+      "title": "Nvidia, SK to detail cooperation plan as Huang flags prolonged chip shortage - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHNJZHl4MmRVaDB2SDZQaTV0TWQyUFhFSWMtWkZaN08wSDBsQllBN2ZIOGhNV0otWjhERFRsaXVuQ3l4dmtjV0RfLXI5ak13WUE3OVAxM3Q5VG54N3JBaE5JZjF0WXVWMVdYWTRlYzV2endubDVlNEdZc25MNUpCRzVFbDlXN3ZoUFRJWUR5cU5MVEJNQTBDd1pqRmJIVkRGRjA1LWVOMWZZa2EwVHllZU5XS2oxZ29fNE4yX3R3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + chip"
+      ],
+      "firstSeen": "2026-06-07T15:45:23.369Z",
+      "pushedAt": "2026-06-07T15:45:23.369Z"
+    },
+    {
+      "id": "eb4a02990ba40ec1",
+      "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
+      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-06-07T15:45:23.451Z",
+      "pushedAt": "2026-06-07T15:45:23.451Z"
+    },
+    {
       "id": "cc12eab598e9e68f",
       "title": "One person killed in attack in central Israel - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVVBY0NvY3MxTGpiWkluSFByZkZzUlBWYm1uYW9XV2pzZ3JNSmxTaGpPVm42ZjREeXF6WDZLMUN1TnZOdlZuOWsyYmhyWlEtbWZ6WWF3UDdJNWROVVB2UkFLX0lYcG8zbndnRUhqTXJ1cmxBZjVOem1LQkVqUTdlcWY2TEwxRExWNG9vTzZEalZ3WVluaUJGTTNjLWxlc3pUZG5hdlJuZWJzQ05EcDU3U1ZfcGNIQ3hMV3Q3UVpmZHc2UXoxbTQ0c19uYw?oc=5",
@@ -95,31 +119,7 @@
       ],
       "firstSeen": "2026-06-06T16:46:57.364Z",
       "pushedAt": "2026-06-06T16:46:57.364Z"
-    },
-    {
-      "id": "c32ae9f8ea85b5c1",
-      "title": "Wall Street's 'fear gauge' punches back as the 'crash up' in chip stocks finally reverses",
-      "url": "https://www.cnbc.com/2026/06/06/wall-streets-fear-gauge-punches-back-as-the-crash-up-in-chip-stocks-finally-reverses.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crash + wall street"
-      ],
-      "firstSeen": "2026-06-06T14:22:58.604Z",
-      "pushedAt": "2026-06-06T14:22:58.604Z"
-    },
-    {
-      "id": "6b81c2b18cd4797b",
-      "title": "Lebanon says three soldiers killed in Israeli attack on car",
-      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-06T12:55:10.159Z",
-      "pushedAt": "2026-06-06T12:55:10.159Z"
     }
   ],
-  "updatedAt": "2026-06-07T12:10:20.277Z"
+  "updatedAt": "2026-06-07T15:45:23.489Z"
 }
