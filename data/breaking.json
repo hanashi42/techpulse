@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0855e82e2f3556bb",
+      "title": "Chinese Manufacturers Facing A Bigger Test Than Tariffs - The Wire China",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT2RJX0hKQ284TGxQalVGY3VWTno5ak1ldGlpSGRaZzRDWTVuMzhzMG1Uc1hZbmNNcG1FSGdINUZacXM4NFhyc25QMHZ4OU9ERUdiYnlfV0JFQVRFR1lod2FzMEZXdXlFZ241TWZVc0t5REN4c0czd085TkVoQklVd0xPaXlVb0FHeFBiOG5ia1FMY1lHRVpFUkpoQ0s?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-06-07T22:50:17.956Z",
+      "pushedAt": "2026-06-07T22:50:17.956Z"
+    },
+    {
       "id": "ac9e906ceec0bc04",
       "title": "Videos show missiles launched from Iran into Israel",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
@@ -109,5 +121,5 @@
       "pushedAt": "2026-06-07T04:58:30.308Z"
     }
   ],
-  "updatedAt": "2026-06-07T21:52:36.588Z"
+  "updatedAt": "2026-06-07T22:50:18.049Z"
 }
