@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "904826bb2dba121b",
+      "title": "EU planning to add to $1.5 trillion sanctions hit on Russia",
+      "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-06-08T22:09:19.868Z",
+      "pushedAt": "2026-06-08T22:09:19.868Z"
+    },
+    {
       "id": "1a42103d9e435c4c",
       "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
       "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
@@ -159,19 +171,7 @@
       ],
       "firstSeen": "2026-06-07T22:50:17.956Z",
       "pushedAt": "2026-06-07T22:50:17.956Z"
-    },
-    {
-      "id": "ac9e906ceec0bc04",
-      "title": "Videos show missiles launched from Iran into Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missiles launched"
-      ],
-      "firstSeen": "2026-06-07T21:52:36.529Z",
-      "pushedAt": "2026-06-07T21:52:36.529Z"
     }
   ],
-  "updatedAt": "2026-06-08T18:05:16.983Z"
+  "updatedAt": "2026-06-08T22:09:20.166Z"
 }
