@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "id": "ab437786b8cc45c5",
+      "title": "EU sanctions Iranians over restricting naval traffic in Hormuz - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1lTSXVKQ2pJQlEzZTg4Z3FvUjdzMEg5QlhuTFo1R2NWZGgwMWw3REhuODBIUjN4VWFCMV9ZZzhXTlpZaVBXZGJodUFVbkU0ME1Ib2hVblljSUtuNXdKZ0gwOVFZRHRCcHJlckYzM193WUZFUkFHSl9KV3ZCb25DM1RxMGhkSnZqMzJpSndTZFZ4czR4RFFMelpjUGZsS2FlYXlFaEV1WFRLbmx1Z1BwV0FGbw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran",
+        "hormuz + naval"
+      ],
+      "firstSeen": "2026-06-08T15:02:43.542Z",
+      "pushedAt": "2026-06-08T15:02:43.542Z"
+    },
+    {
+      "id": "86f874628908d5fb",
+      "title": "North Korea will never surrender nuclear status, Kim Jong Un's sister says",
+      "url": "https://news.sky.com/story/kim-jong-uns-sister-vows-north-korea-will-never-give-up-nuclear-weapons-13551594",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender"
+      ],
+      "firstSeen": "2026-06-08T15:02:43.785Z",
+      "pushedAt": "2026-06-08T15:02:43.785Z"
+    },
+    {
+      "id": "44b9d8841f29258a",
+      "title": "China Delays 500,000 Bpd Of Refining Capacity As Hormuz Disruptions Deepen - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXdGMWV5Wmx2el84WHVCenc0d1liRVFTZDlYWkVVX3hocVBqNTBjaFl4UWdtN0ZRazQ4YVhVUkhkTHVOOWowejFhajlSN3VFV085dHFkNnZTdEduSmZEVndiOXRsMUhLa3MwRHFCS0ZLUUNlSFBpZE4ycU5sa05ySnlmNUdJbnZPcUxUY2JMVEZ2OHpjTFJKTWh6QXZDdGNDWDhoLUdYVE1yeWltMndKWHZacno3QUNiU2x3SWk2M3FPV29hb3g2ZNIBzgFBVV95cUxNN1RqZF9SZm1QS3Q5S1Z6bE00R2VFdHRQZnhVaFZBczZxR2I2OFNnQUkyWVJ0aWljRVVwaGtHclp0dU4yMmJYekhLMVZGWkFmM2FFT19SU3JLSzRmTGNoZnVtVUEwZjFKT0I2WFZlLXZjQnRqeXVfbXlrTWg1MjI5N2YtRnB0Tzk4M3hJYW8yNm94SUdWWkJRU0hVWC1ncHVCY1F3amtmMWRWWmJnanJIcE5GcWRsSWg2djRra2ZhODhyR25FSFRId1kzMkxMZw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption",
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-06-08T15:02:43.966Z",
+      "pushedAt": "2026-06-08T15:02:43.966Z"
+    },
+    {
       "id": "c855b8c74d2b9d2e",
       "title": "8 Killed, 13 Injured In Israeli Airstrikes On Beirut, South Lebanon - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlZDN1ckNseGtkVzdVNUlwOHczYnl1YW90LUI4UDN5dE92ZUdVdTNncGI5SnNfTThOYUhiVmJCbU1COHJ3cTdMVUtzcmo1c01qb2pjYzBpZU4xa0RL?oc=5",
@@ -157,31 +195,7 @@
       ],
       "firstSeen": "2026-06-07T15:45:23.451Z",
       "pushedAt": "2026-06-07T15:45:23.451Z"
-    },
-    {
-      "id": "cc12eab598e9e68f",
-      "title": "One person killed in attack in central Israel - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVVBY0NvY3MxTGpiWkluSFByZkZzUlBWYm1uYW9XV2pzZ3JNSmxTaGpPVm42ZjREeXF6WDZLMUN1TnZOdlZuOWsyYmhyWlEtbWZ6WWF3UDdJNWROVVB2UkFLX0lYcG8zbndnRUhqTXJ1cmxBZjVOem1LQkVqUTdlcWY2TEwxRExWNG9vTzZEalZ3WVluaUJGTTNjLWxlc3pUZG5hdlJuZWJzQ05EcDU3U1ZfcGNIQ3hMV3Q3UVpmZHc2UXoxbTQ0c19uYw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-07T12:10:20.046Z",
-      "pushedAt": "2026-06-07T12:10:20.046Z"
-    },
-    {
-      "id": "33d2206c11cda655",
-      "title": "EPP chief warns of EU-China trade war - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFZpWHM1MEc3Um9tYVJyTnRrTm1WOVhPaDBHcG1wWTl6akduRHBsUkdoYmNVdGRZNVM3WEkyTFpOeGM1RVE1TnlUQ1JtUzFaeFNIdWRLdmZtRnZnVEtMZnhGcWZjYzhZZWpkYnhObEU0NWRNMVBLZHZLUk9NMUdzRXlnV1A5YU1jeHdaTS16ZFkwOVBPemhMa2Y0YXdYcXQ4NHI1Uzh6RnlMSm1RVlJMS2dlNEw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "trade war + china"
-      ],
-      "firstSeen": "2026-06-07T12:10:20.178Z",
-      "pushedAt": "2026-06-07T12:10:20.178Z"
     }
   ],
-  "updatedAt": "2026-06-08T11:49:51.916Z"
+  "updatedAt": "2026-06-08T15:02:44.027Z"
 }
