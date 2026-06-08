@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1a42103d9e435c4c",
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crypto + ban"
+      ],
+      "firstSeen": "2026-06-08T18:05:16.806Z",
+      "pushedAt": "2026-06-08T18:05:16.806Z"
+    },
+    {
       "id": "ab437786b8cc45c5",
       "title": "EU sanctions Iranians over restricting naval traffic in Hormuz - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1lTSXVKQ2pJQlEzZTg4Z3FvUjdzMEg5QlhuTFo1R2NWZGgwMWw3REhuODBIUjN4VWFCMV9ZZzhXTlpZaVBXZGJodUFVbkU0ME1Ib2hVblljSUtuNXdKZ0gwOVFZRHRCcHJlckYzM193WUZFUkFHSl9KV3ZCb25DM1RxMGhkSnZqMzJpSndTZFZ4czR4RFFMelpjUGZsS2FlYXlFaEV1WFRLbmx1Z1BwV0FGbw?oc=5",
@@ -159,43 +171,7 @@
       ],
       "firstSeen": "2026-06-07T21:52:36.529Z",
       "pushedAt": "2026-06-07T21:52:36.529Z"
-    },
-    {
-      "id": "c32ae9f8ea85b5c1",
-      "title": "Wall Street's 'fear gauge' punches back as the 'crash up' in chip stocks finally reverses",
-      "url": "https://www.cnbc.com/2026/06/06/wall-streets-fear-gauge-punches-back-as-the-crash-up-in-chip-stocks-finally-reverses.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crash + wall street"
-      ],
-      "firstSeen": "2026-06-07T16:57:47.252Z",
-      "pushedAt": "2026-06-07T16:57:47.252Z"
-    },
-    {
-      "id": "e7d0b538fe7ebbd5",
-      "title": "Nvidia, SK to detail cooperation plan as Huang flags prolonged chip shortage - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHNJZHl4MmRVaDB2SDZQaTV0TWQyUFhFSWMtWkZaN08wSDBsQllBN2ZIOGhNV0otWjhERFRsaXVuQ3l4dmtjV0RfLXI5ak13WUE3OVAxM3Q5VG54N3JBaE5JZjF0WXVWMVdYWTRlYzV2endubDVlNEdZc25MNUpCRzVFbDlXN3ZoUFRJWUR5cU5MVEJNQTBDd1pqRmJIVkRGRjA1LWVOMWZZa2EwVHllZU5XS2oxZ29fNE4yX3R3?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + chip"
-      ],
-      "firstSeen": "2026-06-07T15:45:23.369Z",
-      "pushedAt": "2026-06-07T15:45:23.369Z"
-    },
-    {
-      "id": "eb4a02990ba40ec1",
-      "title": "Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates",
-      "url": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-06-07T15:45:23.451Z",
-      "pushedAt": "2026-06-07T15:45:23.451Z"
     }
   ],
-  "updatedAt": "2026-06-08T15:02:44.027Z"
+  "updatedAt": "2026-06-08T18:05:16.983Z"
 }
