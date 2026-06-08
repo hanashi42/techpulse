@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "0f21632cd11d9cc8",
+      "title": "Earthquake of magnitude 7.8 strikes off southern Philippines, tsunami warnings issued - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQjhtYUp2X3dmS0h4bkNrQ0xycVdJNGtiSkNLdThTdnpXcUtuMjBQOGw3SnpqNHhDZ2NRRmZ3amxjcjhQeWpDY09lZmswMUlKREljMkMyc3pTdFB3M3llbUxfMEl1V1ZqVW8yV181U2Q4UDFlbkZWaER6dnlRa252aTVEUTNMMHZwNnR3WEduNHp4ZThvdUNaY21FOTF6S21HZk9rSEI2OE9nN0l6MjR0TzMyOVV0b2ZxWmc?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "tsunami warning",
+        "magnitude 7"
+      ],
+      "firstSeen": "2026-06-08T02:05:12.042Z",
+      "pushedAt": "2026-06-08T02:05:12.042Z"
+    },
+    {
+      "id": "696befb4908aa462",
+      "title": "Asia markets tumble as tech rout deepens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRCX29KbXlhVmEwNV9yUFRNQjZUcXFKVFlubUFGNkdrRDd0Z0ZwY3RUTFlXVmg5N1ppXzFHZ2Niai01RmtXOW1lY0pDRFI0VXJTZF9jeWFqSnZVRjREWDVfM21yMHNTR2NGcDcyb2NKczljNGNuRHJua1BlUkp0cUg2UQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + market"
+      ],
+      "firstSeen": "2026-06-08T02:05:12.211Z",
+      "pushedAt": "2026-06-08T02:05:12.211Z"
+    },
+    {
+      "id": "f62eb3792450afe6",
+      "title": "Iran war live: Israel bombs Tehran, Tabriz, Isfahan, despite Trump appeal",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-06-08T02:05:12.321Z",
+      "pushedAt": "2026-06-08T02:05:12.321Z"
+    },
+    {
       "id": "e6a485295869c9ee",
       "title": "Oil prices rise more than $2 on Israel strikes on Lebanon - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTlEbEFKMHpFNlgyeTJmTXIzWlNLWEI2aTV1OTFkTHgzejlqM2ZpQUM1NjZVaGo1WXk2UHV1TW9xMVhvWDVwcXVOdTBuaWp6aVBRMjBFSHRBUVBNREpHblcwNFNILW52TmhRT1gtaFVaZTJJWjdWQmwyV1A1SDBFY05RRzZxQkRQV3YzbVZEX2tWQ1haMW9CLTBRVko5YWx5VHUwSw?oc=5",
@@ -133,5 +170,5 @@
       "pushedAt": "2026-06-07T04:58:30.308Z"
     }
   ],
-  "updatedAt": "2026-06-07T23:51:15.507Z"
+  "updatedAt": "2026-06-08T02:05:12.376Z"
 }
