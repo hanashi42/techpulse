@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "72e50ea601fed111",
+      "title": "Earthquake with 6.1 magnitude hits offshore Cuba, shaking buildings in Havana - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFhsdkl5RWtSSnhzOUpWbWZxMDVzdThYMktlN3NYbl9lOXpIeXR6WmxfV0E0S0hqdGozTDNiUzJUZU4yOHpvTVIyWUdja0gzbXF5c1YxRlczTnZlbm9MdThEaGlPbHo3YVU1cS1TbWp2VXZrUGQxc21DTng0QkxTNEdLQ25aZjU4WURJU29DcnNXSEJp?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-06-08T23:22:32.059Z",
+      "pushedAt": "2026-06-08T23:22:32.059Z"
+    },
+    {
       "id": "904826bb2dba121b",
       "title": "EU planning to add to $1.5 trillion sanctions hit on Russia",
       "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia?traffic_source=rss",
@@ -159,19 +171,7 @@
       ],
       "firstSeen": "2026-06-07T23:51:15.269Z",
       "pushedAt": "2026-06-07T23:51:15.269Z"
-    },
-    {
-      "id": "0855e82e2f3556bb",
-      "title": "Chinese Manufacturers Facing A Bigger Test Than Tariffs - The Wire China",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT2RJX0hKQ284TGxQalVGY3VWTno5ak1ldGlpSGRaZzRDWTVuMzhzMG1Uc1hZbmNNcG1FSGdINUZacXM4NFhyc25QMHZ4OU9ERUdiYnlfV0JFQVRFR1lod2FzMEZXdXlFZ241TWZVc0t5REN4c0czd085TkVoQklVd0xPaXlVb0FHeFBiOG5ia1FMY1lHRVpFUkpoQ0s?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-06-07T22:50:17.956Z",
-      "pushedAt": "2026-06-07T22:50:17.956Z"
     }
   ],
-  "updatedAt": "2026-06-08T22:09:20.166Z"
+  "updatedAt": "2026-06-08T23:22:32.256Z"
 }
