@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "8cdec25fb4eb3f85",
+      "title": "Dollar scales two-month peak as Fed hike bets ramp up - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjVId2FNeVRWMUxYOThKUi1uRmtrZzhnTnQ2U01uQTNDWFpVWFItUzRMT3BPWTFkU0pGajQ4WHRWMjNYb1JMSWl0bzYtTzRuQlg0WUdvdUkzdjRDc1VyUTA4c3VHSEZRZ01vNmhSZ1B6andZM1R4TVhTWjE5ZnBmeTh6aWpGWWFZQmdXQ21qVnB5ZHI2Zm9DTHFqbHI1SFdvXzNzYVc3NUk?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + hike"
+      ],
+      "firstSeen": "2026-06-08T06:56:42.464Z",
+      "pushedAt": "2026-06-08T06:56:42.464Z"
+    },
+    {
+      "id": "e396deb8cb407319",
+      "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock",
+        "rally + stock"
+      ],
+      "firstSeen": "2026-06-08T06:56:42.720Z",
+      "pushedAt": "2026-06-08T06:56:42.720Z"
+    },
+    {
+      "id": "a6419e69492494a5",
+      "title": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
+      "url": "https://www.cnbc.com/2026/06/05/amazon-robot-proteus-warehouse-ai-layoffs.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + amazon"
+      ],
+      "firstSeen": "2026-06-08T06:56:42.969Z",
+      "pushedAt": "2026-06-08T06:56:42.969Z"
+    },
+    {
       "id": "0f21632cd11d9cc8",
       "title": "Earthquake of magnitude 7.8 strikes off southern Philippines, tsunami warnings issued - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQjhtYUp2X3dmS0h4bkNrQ0xycVdJNGtiSkNLdThTdnpXcUtuMjBQOGw3SnpqNHhDZ2NRRmZ3amxjcjhQeWpDY09lZmswMUlKREljMkMyc3pTdFB3M3llbUxfMEl1V1ZqVW8yV181U2Q4UDFlbkZWaER6dnlRa252aTVEUTNMMHZwNnR3WEduNHp4ZThvdUNaY21FOTF6S21HZk9rSEI2OE9nN0l6MjR0TzMyOVV0b2ZxWmc?oc=5",
@@ -156,19 +193,7 @@
       ],
       "firstSeen": "2026-06-07T08:22:02.001Z",
       "pushedAt": "2026-06-07T08:22:02.001Z"
-    },
-    {
-      "id": "7bb909d37b2cae31",
-      "title": "Chinese banks raise dollar deposit rates to counter yuan strength - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96Q0YxY2d4MURJbVNPVkU2MWV4aTdpMkc1MTVuZkh5WEJNNHhVT0MzbDh5aFNscmpMWGhHMk5xSkI5TTZjbFNhWkV2MXFNNkZlY0dsQWZ1b3JyTlJEUFNZWjZ3Qmo4TzBLeHNYUjZMVjNhdkhja3V3?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crypto + ban"
-      ],
-      "firstSeen": "2026-06-07T04:58:30.308Z",
-      "pushedAt": "2026-06-07T04:58:30.308Z"
     }
   ],
-  "updatedAt": "2026-06-08T02:05:12.376Z"
+  "updatedAt": "2026-06-08T06:56:43.053Z"
 }
