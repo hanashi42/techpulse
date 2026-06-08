@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c855b8c74d2b9d2e",
+      "title": "8 Killed, 13 Injured In Israeli Airstrikes On Beirut, South Lebanon - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlZDN1ckNseGtkVzdVNUlwOHczYnl1YW90LUI4UDN5dE92ZUdVdTNncGI5SnNfTThOYUhiVmJCbU1COHJ3cTdMVUtzcmo1c01qb2pjYzBpZU4xa0RL?oc=5",
+      "source": "Bernama",
+      "priority": "P0",
+      "matchedKeywords": [
+        "airstrikes on"
+      ],
+      "firstSeen": "2026-06-08T11:49:51.845Z",
+      "pushedAt": "2026-06-08T11:49:51.845Z"
+    },
+    {
       "id": "8cdec25fb4eb3f85",
       "title": "Dollar scales two-month peak as Fed hike bets ramp up - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjVId2FNeVRWMUxYOThKUi1uRmtrZzhnTnQ2U01uQTNDWFpVWFItUzRMT3BPWTFkU0pGajQ4WHRWMjNYb1JMSWl0bzYtTzRuQlg0WUdvdUkzdjRDc1VyUTA4c3VHSEZRZ01vNmhSZ1B6andZM1R4TVhTWjE5ZnBmeTh6aWpGWWFZQmdXQ21qVnB5ZHI2Zm9DTHFqbHI1SFdvXzNzYVc3NUk?oc=5",
@@ -169,31 +181,7 @@
       ],
       "firstSeen": "2026-06-07T12:10:20.178Z",
       "pushedAt": "2026-06-07T12:10:20.178Z"
-    },
-    {
-      "id": "86f874628908d5fb",
-      "title": "North Korea will never surrender nuclear status, Kim Jong Un's sister says",
-      "url": "https://news.sky.com/story/kim-jong-uns-sister-vows-north-korea-will-never-give-up-nuclear-weapons-13551594",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender"
-      ],
-      "firstSeen": "2026-06-07T10:37:51.041Z",
-      "pushedAt": "2026-06-07T10:37:51.041Z"
-    },
-    {
-      "id": "aa8a77b1629f6b58",
-      "title": "OPEC+ set for fourth oil quota hike since Hormuz closure, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWZrV2dPZ2xjY0NWT0lIUFVNeUlJZ1I5V3BsdkU0X01tWFVHLWZWTVBQN0pHeHNGZF9fS01BY2RrbWtLWFcyazR0bVNOWERwQVFBYjhHMFNZYW5XWHNRM2VWZUU2aFpTd3IzRGhiVUZHNUJsbWlCb19CX19SUG5DOXozd1cyak1RdUFhS0FtaUYxMG5xNGtfYW9idFhNWGRUd25PeUFYTWJJWVhqeS1lNUJHS3pCUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + quota"
-      ],
-      "firstSeen": "2026-06-07T08:22:02.001Z",
-      "pushedAt": "2026-06-07T08:22:02.001Z"
     }
   ],
-  "updatedAt": "2026-06-08T06:56:43.053Z"
+  "updatedAt": "2026-06-08T11:49:51.916Z"
 }
