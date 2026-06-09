@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "5319473fc4490ffa",
+      "title": "Fed to hold rates this year, cut calls fade as war inflation persists, economists say: Reuters poll - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGhuMmZ6VkYzNVgzQ2NvRUZma1BjdlJIb2pNU29qeDUyeDQ0b2h1YzZKc21DSXBZSU5lajdWWkNQV1h6SDNpQkdEZXBvanZHdk1URTRMYkZzRGl0RmdOVlBiLU84bmZadjNvdUpnWmdudHQ0LUtKcmNsVlAwbkVKVjhSVTVjRFNJUjdocEJSWnI1ZVAtdlRJbUNDOXByVDJWS2lBbWNZVWV3cjNFa051LVNmQXk1WDZ2TUhqakpzcw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-06-09T14:06:45.590Z",
+      "pushedAt": "2026-06-09T14:06:45.590Z"
+    },
+    {
+      "id": "423f7358c8e251f9",
+      "title": "32,000 people displaced by the Philippine earthquake that killed at least 37 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzRQUTJsQ0hpQmxnT3RleHNZZzkxaE44dnI5UVR5VGIyRDlKMDJyb0NETm10cW9UVllPTWk4TnVaNVJBb3pMeWpmUS1wa2h4TlpUZW9UM3VnLTh5aG5EZ2s5Q0pLU0RjM1NHQm1ZNERMRDFnWEJld2FmdzYzU1FCMU9Qd1dTZXhFT2c?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + killed"
+      ],
+      "firstSeen": "2026-06-09T14:06:45.689Z",
+      "pushedAt": "2026-06-09T14:06:45.689Z"
+    },
+    {
+      "id": "6a34e3e37ad19f7e",
+      "title": "Oil prices fall as Trump tries to convince market an Iran deal is close despite recent violence",
+      "url": "https://www.cnbc.com/2026/06/09/oil-prices-iran-war-strait-hormuz-trump-israel-lebanon.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-06-09T14:06:45.789Z",
+      "pushedAt": "2026-06-09T14:06:45.789Z"
+    },
+    {
       "id": "f04870c918c36138",
       "title": "EU to propose 21st package of sanctions targeting Russia's banks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNheFk3dldYOFdsYmc3RTlRMHNpZjEzbGc3Z29YWWMyZ2RoRHVyaXhZcjNPSTExaXJpNlFoOWRwc2pjUmZsSVNUYVlzQjZKMVRMYVVYMDFZZjVNQ0tuZmJiOUk1UU0zWUNXMnFMbGd3N1NKQ2RZbHgyczFEOVZ2TzNJb0JUZ0hsYVlkS2FnTEc2YUluZFM1ZzBQZENIRDZveTNCb2Z2eVN4REV3YlJZ?oc=5",
@@ -85,19 +121,7 @@
       ],
       "firstSeen": "2026-06-08T15:02:43.966Z",
       "pushedAt": "2026-06-08T15:02:43.966Z"
-    },
-    {
-      "id": "c855b8c74d2b9d2e",
-      "title": "8 Killed, 13 Injured In Israeli Airstrikes On Beirut, South Lebanon - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlZDN1ckNseGtkVzdVNUlwOHczYnl1YW90LUI4UDN5dE92ZUdVdTNncGI5SnNfTThOYUhiVmJCbU1COHJ3cTdMVUtzcmo1c01qb2pjYzBpZU4xa0RL?oc=5",
-      "source": "Bernama",
-      "priority": "P0",
-      "matchedKeywords": [
-        "airstrikes on"
-      ],
-      "firstSeen": "2026-06-08T11:49:51.845Z",
-      "pushedAt": "2026-06-08T11:49:51.845Z"
     }
   ],
-  "updatedAt": "2026-06-09T11:47:24.448Z"
+  "updatedAt": "2026-06-09T14:06:45.830Z"
 }
