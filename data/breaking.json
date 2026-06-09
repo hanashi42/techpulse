@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f04870c918c36138",
+      "title": "EU to propose 21st package of sanctions targeting Russia's banks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNheFk3dldYOFdsYmc3RTlRMHNpZjEzbGc3Z29YWWMyZ2RoRHVyaXhZcjNPSTExaXJpNlFoOWRwc2pjUmZsSVNUYVlzQjZKMVRMYVVYMDFZZjVNQ0tuZmJiOUk1UU0zWUNXMnFMbGd3N1NKQ2RZbHgyczFEOVZ2TzNJb0JUZ0hsYVlkS2FnTEc2YUluZFM1ZzBQZENIRDZveTNCb2Z2eVN4REV3YlJZ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-06-09T11:47:24.344Z",
+      "pushedAt": "2026-06-09T11:47:24.344Z"
+    },
+    {
       "id": "72e50ea601fed111",
       "title": "Earthquake with 6.1 magnitude hits offshore Cuba, shaking buildings in Havana - AP News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFhsdkl5RWtSSnhzOUpWbWZxMDVzdThYMktlN3NYbl9lOXpIeXR6WmxfV0E0S0hqdGozTDNiUzJUZU4yOHpvTVIyWUdja0gzbXF5c1YxRlczTnZlbm9MdThEaGlPbHo3YVU1cS1TbWp2VXZrUGQxc21DTng0QkxTNEdLQ25aZjU4WURJU29DcnNXSEJp?oc=5",
@@ -85,93 +97,7 @@
       ],
       "firstSeen": "2026-06-08T11:49:51.845Z",
       "pushedAt": "2026-06-08T11:49:51.845Z"
-    },
-    {
-      "id": "8cdec25fb4eb3f85",
-      "title": "Dollar scales two-month peak as Fed hike bets ramp up - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjVId2FNeVRWMUxYOThKUi1uRmtrZzhnTnQ2U01uQTNDWFpVWFItUzRMT3BPWTFkU0pGajQ4WHRWMjNYb1JMSWl0bzYtTzRuQlg0WUdvdUkzdjRDc1VyUTA4c3VHSEZRZ01vNmhSZ1B6andZM1R4TVhTWjE5ZnBmeTh6aWpGWWFZQmdXQ21qVnB5ZHI2Zm9DTHFqbHI1SFdvXzNzYVc3NUk?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + hike"
-      ],
-      "firstSeen": "2026-06-08T06:56:42.464Z",
-      "pushedAt": "2026-06-08T06:56:42.464Z"
-    },
-    {
-      "id": "e396deb8cb407319",
-      "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
-      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock",
-        "rally + stock"
-      ],
-      "firstSeen": "2026-06-08T06:56:42.720Z",
-      "pushedAt": "2026-06-08T06:56:42.720Z"
-    },
-    {
-      "id": "a6419e69492494a5",
-      "title": "Amazon unveils latest warehouse robot as tech giants continue AI layoffs",
-      "url": "https://www.cnbc.com/2026/06/05/amazon-robot-proteus-warehouse-ai-layoffs.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + amazon"
-      ],
-      "firstSeen": "2026-06-08T06:56:42.969Z",
-      "pushedAt": "2026-06-08T06:56:42.969Z"
-    },
-    {
-      "id": "0f21632cd11d9cc8",
-      "title": "Earthquake of magnitude 7.8 strikes off southern Philippines, tsunami warnings issued - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQjhtYUp2X3dmS0h4bkNrQ0xycVdJNGtiSkNLdThTdnpXcUtuMjBQOGw3SnpqNHhDZ2NRRmZ3amxjcjhQeWpDY09lZmswMUlKREljMkMyc3pTdFB3M3llbUxfMEl1V1ZqVW8yV181U2Q4UDFlbkZWaER6dnlRa252aTVEUTNMMHZwNnR3WEduNHp4ZThvdUNaY21FOTF6S21HZk9rSEI2OE9nN0l6MjR0TzMyOVV0b2ZxWmc?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "tsunami warning",
-        "magnitude 7"
-      ],
-      "firstSeen": "2026-06-08T02:05:12.042Z",
-      "pushedAt": "2026-06-08T02:05:12.042Z"
-    },
-    {
-      "id": "696befb4908aa462",
-      "title": "Asia markets tumble as tech rout deepens - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeFRCX29KbXlhVmEwNV9yUFRNQjZUcXFKVFlubUFGNkdrRDd0Z0ZwY3RUTFlXVmg5N1ppXzFHZ2Niai01RmtXOW1lY0pDRFI0VXJTZF9jeWFqSnZVRjREWDVfM21yMHNTR2NGcDcyb2NKczljNGNuRHJua1BlUkp0cUg2UQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + market"
-      ],
-      "firstSeen": "2026-06-08T02:05:12.211Z",
-      "pushedAt": "2026-06-08T02:05:12.211Z"
-    },
-    {
-      "id": "f62eb3792450afe6",
-      "title": "Iran war live: Israel bombs Tehran, Tabriz, Isfahan, despite Trump appeal",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/8/iran-war-live-trump-urges-restraint-after-iranian-missile-attack-on-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-06-08T02:05:12.321Z",
-      "pushedAt": "2026-06-08T02:05:12.321Z"
-    },
-    {
-      "id": "e6a485295869c9ee",
-      "title": "Oil prices rise more than $2 on Israel strikes on Lebanon - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTlEbEFKMHpFNlgyeTJmTXIzWlNLWEI2aTV1OTFkTHgzejlqM2ZpQUM1NjZVaGo1WXk2UHV1TW9xMVhvWDVwcXVOdTBuaWp6aVBRMjBFSHRBUVBNREpHblcwNFNILW52TmhRT1gtaFVaZTJJWjdWQmwyV1A1SDBFY05RRzZxQkRQV3YzbVZEX2tWQ1haMW9CLTBRVko5YWx5VHUwSw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-06-07T23:51:15.269Z",
-      "pushedAt": "2026-06-07T23:51:15.269Z"
     }
   ],
-  "updatedAt": "2026-06-08T23:22:32.256Z"
+  "updatedAt": "2026-06-09T11:47:24.448Z"
 }
