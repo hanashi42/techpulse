@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "2221829f7cc4ea11",
+      "title": "Trump says Iran shot down US helicopter and vows to respond",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shot down + helicopter"
+      ],
+      "firstSeen": "2026-06-09T18:35:11.486Z",
+      "pushedAt": "2026-06-09T18:35:11.486Z"
+    },
+    {
+      "id": "aaf69b2200883398",
+      "title": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
+      "url": "https://www.theguardian.com/us-news/2026/jun/09/florida-earthquake-cuba-coast-mexico",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-06-09T18:35:11.577Z",
+      "pushedAt": "2026-06-09T18:35:11.577Z"
+    },
+    {
       "id": "5319473fc4490ffa",
       "title": "Fed to hold rates this year, cut calls fade as war inflation persists, economists say: Reuters poll - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGhuMmZ6VkYzNVgzQ2NvRUZma1BjdlJIb2pNU29qeDUyeDQ0b2h1YzZKc21DSXBZSU5lajdWWkNQV1h6SDNpQkdEZXBvanZHdk1URTRMYkZzRGl0RmdOVlBiLU84bmZadjNvdUpnWmdudHQ0LUtKcmNsVlAwbkVKVjhSVTVjRFNJUjdocEJSWnI1ZVAtdlRJbUNDOXByVDJWS2lBbWNZVWV3cjNFa051LVNmQXk1WDZ2TUhqakpzcw?oc=5",
@@ -71,57 +95,7 @@
       ],
       "firstSeen": "2026-06-08T22:09:19.868Z",
       "pushedAt": "2026-06-08T22:09:19.868Z"
-    },
-    {
-      "id": "1a42103d9e435c4c",
-      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crypto + ban"
-      ],
-      "firstSeen": "2026-06-08T18:05:16.806Z",
-      "pushedAt": "2026-06-08T18:05:16.806Z"
-    },
-    {
-      "id": "ab437786b8cc45c5",
-      "title": "EU sanctions Iranians over restricting naval traffic in Hormuz - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1lTSXVKQ2pJQlEzZTg4Z3FvUjdzMEg5QlhuTFo1R2NWZGgwMWw3REhuODBIUjN4VWFCMV9ZZzhXTlpZaVBXZGJodUFVbkU0ME1Ib2hVblljSUtuNXdKZ0gwOVFZRHRCcHJlckYzM193WUZFUkFHSl9KV3ZCb25DM1RxMGhkSnZqMzJpSndTZFZ4czR4RFFMelpjUGZsS2FlYXlFaEV1WFRLbmx1Z1BwV0FGbw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran",
-        "hormuz + naval"
-      ],
-      "firstSeen": "2026-06-08T15:02:43.542Z",
-      "pushedAt": "2026-06-08T15:02:43.542Z"
-    },
-    {
-      "id": "86f874628908d5fb",
-      "title": "North Korea will never surrender nuclear status, Kim Jong Un's sister says",
-      "url": "https://news.sky.com/story/kim-jong-uns-sister-vows-north-korea-will-never-give-up-nuclear-weapons-13551594",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender"
-      ],
-      "firstSeen": "2026-06-08T15:02:43.785Z",
-      "pushedAt": "2026-06-08T15:02:43.785Z"
-    },
-    {
-      "id": "44b9d8841f29258a",
-      "title": "China Delays 500,000 Bpd Of Refining Capacity As Hormuz Disruptions Deepen - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXdGMWV5Wmx2el84WHVCenc0d1liRVFTZDlYWkVVX3hocVBqNTBjaFl4UWdtN0ZRazQ4YVhVUkhkTHVOOWowejFhajlSN3VFV085dHFkNnZTdEduSmZEVndiOXRsMUhLa3MwRHFCS0ZLUUNlSFBpZE4ycU5sa05ySnlmNUdJbnZPcUxUY2JMVEZ2OHpjTFJKTWh6QXZDdGNDWDhoLUdYVE1yeWltMndKWHZacno3QUNiU2x3SWk2M3FPV29hb3g2ZNIBzgFBVV95cUxNN1RqZF9SZm1QS3Q5S1Z6bE00R2VFdHRQZnhVaFZBczZxR2I2OFNnQUkyWVJ0aWljRVVwaGtHclp0dU4yMmJYekhLMVZGWkFmM2FFT19SU3JLSzRmTGNoZnVtVUEwZjFKT0I2WFZlLXZjQnRqeXVfbXlrTWg1MjI5N2YtRnB0Tzk4M3hJYW8yNm94SUdWWkJRU0hVWC1ncHVCY1F3amtmMWRWWmJnanJIcE5GcWRsSWg2djRra2ZhODhyR25FSFRId1kzMkxMZw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption",
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-06-08T15:02:43.966Z",
-      "pushedAt": "2026-06-08T15:02:43.966Z"
     }
   ],
-  "updatedAt": "2026-06-09T14:06:45.830Z"
+  "updatedAt": "2026-06-09T18:35:11.632Z"
 }
