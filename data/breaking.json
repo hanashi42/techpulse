@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "fd85ce7bc8707bc3",
+      "title": "Gold, silver and bitcoin fall as traders up Fed rate hike bets",
+      "url": "https://www.cnbc.com/2026/06/10/gold-silver-and-bitcoin-fall-as-interest-rates-hold-investor-focus.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-06-10T13:50:00.135Z",
+      "pushedAt": "2026-06-10T13:50:00.135Z"
+    },
+    {
       "id": "59c7cd6d32eef72e",
       "title": "Iran strikes US bases in Gulf after Trump orders attacks near Hormuz - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0dXSGJPLVM3VVFmRmYwcWloclNleWtLV0NrYVZfblNtdU5kY0RnOXNQSjBUQVZQS2RhR1RwQVhhT1oxVGdtVjJkdExKWG5uM3VFSTlPY0JhWms0S3RMdml0X0dVTEhuOTlEWUc3ZHlJVXl4dWFUeVFOT2xKWUhCbTh3aUVFeS1qaTNySWRBdWNMY1BhVWZUekZaUVNIZEVDVklnV1VISHpid0JObjVCU3V5bXFHaTgxaEN3M0UwOW1ac1Nz?oc=5",
@@ -107,19 +120,7 @@
       ],
       "firstSeen": "2026-06-09T14:06:45.789Z",
       "pushedAt": "2026-06-09T14:06:45.789Z"
-    },
-    {
-      "id": "f04870c918c36138",
-      "title": "EU to propose 21st package of sanctions targeting Russia's banks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdDNheFk3dldYOFdsYmc3RTlRMHNpZjEzbGc3Z29YWWMyZ2RoRHVyaXhZcjNPSTExaXJpNlFoOWRwc2pjUmZsSVNUYVlzQjZKMVRMYVVYMDFZZjVNQ0tuZmJiOUk1UU0zWUNXMnFMbGd3N1NKQ2RZbHgyczFEOVZ2TzNJb0JUZ0hsYVlkS2FnTEc2YUluZFM1ZzBQZENIRDZveTNCb2Z2eVN4REV3YlJZ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-06-09T11:47:24.344Z",
-      "pushedAt": "2026-06-09T11:47:24.344Z"
     }
   ],
-  "updatedAt": "2026-06-10T10:18:30.482Z"
+  "updatedAt": "2026-06-10T13:50:00.431Z"
 }
