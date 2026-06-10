@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "9c9ad82c468e54b5",
+      "title": "Russia probes two car bombs in Moscow - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHN2aVFpaVRYd1l1U1RtaXEwUUdKZEJqRHk0ajZ0YURHNVUyNzItSWFhbURCNzZtSU5tSFpBbDN0ZHF6SHYycUxmOGJITENOUlIzNkg4OURfMEdOeFl5V3NTeDd1dXZrZ0FzajZheDVUejRoSDFvYzFUWjVvd2pfMXFrMzhWWlVBLU44Q2NwZXpVLU5oY1c2bA?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-06-10T16:49:44.304Z",
+      "pushedAt": "2026-06-10T16:49:44.304Z"
+    },
+    {
+      "id": "7b37a14f605b24b9",
+      "title": "Pakistani airstrikes on Afghanistan kill at least 13",
+      "url": "https://news.sky.com/story/pakistani-airstrikes-on-afghanistan-kill-at-least-13-in-escalation-of-fighting-13552660",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "airstrikes on"
+      ],
+      "firstSeen": "2026-06-10T16:49:44.573Z",
+      "pushedAt": "2026-06-10T16:49:44.573Z"
+    },
+    {
+      "id": "bc220730efcc535d",
+      "title": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow",
+      "url": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-06-10T16:49:44.689Z",
+      "pushedAt": "2026-06-10T16:49:44.689Z"
+    },
+    {
+      "id": "176e99f6f5f9336c",
+      "title": "Razor reshapes supply chain to weather Trump-era China tariffs - Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1h3Z1dBR3pvQ1JpOXJUM3YwWUtsZWJ3bG9ybUtzQWxZc2xnU0tvbHMyOVh3aEliRzNTNWIxNTA0Nll5d0pHNWxnRDZ6cHFjMGxIeTVMcFZubHZsNEFMWDFmbnlLTFJTcEdaVnhSZi14SUdXSUFjcF90QXZ0MkMyNzdXanBtTkVHcFo0Tk1keXdHR1BGdC1PTE1INGFOekwwUm9RdFpSTU9fekU?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-06-10T16:49:44.732Z",
+      "pushedAt": "2026-06-10T16:49:44.732Z"
+    },
+    {
       "id": "fd85ce7bc8707bc3",
       "title": "Gold, silver and bitcoin fall as traders up Fed rate hike bets",
       "url": "https://www.cnbc.com/2026/06/10/gold-silver-and-bitcoin-fall-as-interest-rates-hold-investor-focus.html",
@@ -84,43 +132,7 @@
       ],
       "firstSeen": "2026-06-09T18:35:11.577Z",
       "pushedAt": "2026-06-09T18:35:11.577Z"
-    },
-    {
-      "id": "5319473fc4490ffa",
-      "title": "Fed to hold rates this year, cut calls fade as war inflation persists, economists say: Reuters poll - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGhuMmZ6VkYzNVgzQ2NvRUZma1BjdlJIb2pNU29qeDUyeDQ0b2h1YzZKc21DSXBZSU5lajdWWkNQV1h6SDNpQkdEZXBvanZHdk1URTRMYkZzRGl0RmdOVlBiLU84bmZadjNvdUpnWmdudHQ0LUtKcmNsVlAwbkVKVjhSVTVjRFNJUjdocEJSWnI1ZVAtdlRJbUNDOXByVDJWS2lBbWNZVWV3cjNFa051LVNmQXk1WDZ2TUhqakpzcw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-09T14:06:45.590Z",
-      "pushedAt": "2026-06-09T14:06:45.590Z"
-    },
-    {
-      "id": "423f7358c8e251f9",
-      "title": "32,000 people displaced by the Philippine earthquake that killed at least 37 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzRQUTJsQ0hpQmxnT3RleHNZZzkxaE44dnI5UVR5VGIyRDlKMDJyb0NETm10cW9UVllPTWk4TnVaNVJBb3pMeWpmUS1wa2h4TlpUZW9UM3VnLTh5aG5EZ2s5Q0pLU0RjM1NHQm1ZNERMRDFnWEJld2FmdzYzU1FCMU9Qd1dTZXhFT2c?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + killed"
-      ],
-      "firstSeen": "2026-06-09T14:06:45.689Z",
-      "pushedAt": "2026-06-09T14:06:45.689Z"
-    },
-    {
-      "id": "6a34e3e37ad19f7e",
-      "title": "Oil prices fall as Trump tries to convince market an Iran deal is close despite recent violence",
-      "url": "https://www.cnbc.com/2026/06/09/oil-prices-iran-war-strait-hormuz-trump-israel-lebanon.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-06-09T14:06:45.789Z",
-      "pushedAt": "2026-06-09T14:06:45.789Z"
     }
   ],
-  "updatedAt": "2026-06-10T13:50:00.431Z"
+  "updatedAt": "2026-06-10T16:49:44.782Z"
 }
