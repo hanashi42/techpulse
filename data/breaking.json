@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "ded81be8256f3312",
+      "title": "US hits China- and Hong Kong-based entities with sanctions over Iran weapons - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaU9kaHc3b3pGb2dqdF9mSERjdHVLRHpLYTd4TXZWaWFFU0tJTERCTng0UVJaOV9kdzk2VzhGbjdycEtpTEM1Z3l2SU9TMEdDQXV3MU9HU0pSRzB5RURtbXNTTXgzU01JTDRrMi1QU2d6dldQdTV5MF9qNDRnZGRPektoQUhjMVZKeFBhanlrc1JmUUhZUTVMSXZCQzRTVGFlWHltT1FPMzJWX3lNcjhDYjlFd1d0aTFWUkh1d21uRG5pdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-06-10T19:24:55.968Z",
+      "pushedAt": "2026-06-10T19:24:55.968Z"
+    },
+    {
+      "id": "423f7358c8e251f9",
+      "title": "32,000 people displaced by the Philippine earthquake that killed at least 37 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzRQUTJsQ0hpQmxnT3RleHNZZzkxaE44dnI5UVR5VGIyRDlKMDJyb0NETm10cW9UVllPTWk4TnVaNVJBb3pMeWpmUS1wa2h4TlpUZW9UM3VnLTh5aG5EZ2s5Q0pLU0RjM1NHQm1ZNERMRDFnWEJld2FmdzYzU1FCMU9Qd1dTZXhFT2c?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + killed"
+      ],
+      "firstSeen": "2026-06-10T19:24:56.214Z",
+      "pushedAt": "2026-06-10T19:24:56.214Z"
+    },
+    {
+      "id": "8f5c4f955e35d160",
+      "title": "US inflation hits new three-year high amid energy price surge",
+      "url": "https://www.aljazeera.com/economy/2026/6/10/us-inflation-hits-new-three-year-high-amid-energy-price-surge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + inflation",
+        "inflation + surge"
+      ],
+      "firstSeen": "2026-06-10T19:24:56.419Z",
+      "pushedAt": "2026-06-10T19:24:56.419Z"
+    },
+    {
+      "id": "2f8f04fd22e62e6d",
+      "title": "Wall Street needs a crash course in the token economy ahead of AI IPOs. SpaceX offers a preview",
+      "url": "https://www.cnbc.com/2026/06/10/wall-street-needs-crash-course-in-tokens-ahead-openai-anthropic-ipos.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crash + wall street"
+      ],
+      "firstSeen": "2026-06-10T19:24:56.487Z",
+      "pushedAt": "2026-06-10T19:24:56.487Z"
+    },
+    {
       "id": "9c9ad82c468e54b5",
       "title": "Russia probes two car bombs in Moscow - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHN2aVFpaVRYd1l1U1RtaXEwUUdKZEJqRHk0ajZ0YURHNVUyNzItSWFhbURCNzZtSU5tSFpBbDN0ZHF6SHYycUxmOGJITENOUlIzNkg4OURfMEdOeFl5V3NTeDd1dXZrZ0FzajZheDVUejRoSDFvYzFUWjVvd2pfMXFrMzhWWlVBLU44Q2NwZXpVLU5oY1c2bA?oc=5",
@@ -108,31 +157,7 @@
       ],
       "firstSeen": "2026-06-10T10:18:30.460Z",
       "pushedAt": "2026-06-10T10:18:30.460Z"
-    },
-    {
-      "id": "2221829f7cc4ea11",
-      "title": "Trump says Iran shot down US helicopter and vows to respond",
-      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + helicopter"
-      ],
-      "firstSeen": "2026-06-09T18:35:11.486Z",
-      "pushedAt": "2026-06-09T18:35:11.486Z"
-    },
-    {
-      "id": "aaf69b2200883398",
-      "title": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/florida-earthquake-cuba-coast-mexico",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-06-09T18:35:11.577Z",
-      "pushedAt": "2026-06-09T18:35:11.577Z"
     }
   ],
-  "updatedAt": "2026-06-10T16:49:44.782Z"
+  "updatedAt": "2026-06-10T19:24:56.573Z"
 }
