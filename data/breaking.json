@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1168909b70d609d6",
+      "title": "Microsoft's Xbox plans for major layoffs next month, Bloomberg News reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXNzeDkyTXpXMlRaZ0tnbU9ERVRpT0VYUVFTcUFId2F0cnpxMHI1SlFNWXJHcGxNTTlRT1FsMEZCeWhRRWI3TmdLNW92ZEpaRXdqWUYtbUYtb2RYLXBFT2FSVDlrUFlOUmFneHNQdjBsT0YzSFAzX1I2dmU1V3NqamNNdEd6dFhSOTlMaldtUmVZYTdJTlRsSTN3aWdnY00wTmw1QmRrV1pmRjJzZDNtZ1VjRDQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + microsoft"
+      ],
+      "firstSeen": "2026-06-10T23:09:34.712Z",
+      "pushedAt": "2026-06-10T23:09:34.712Z"
+    },
+    {
       "id": "aaf69b2200883398",
       "title": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
       "url": "https://www.theguardian.com/us-news/2026/jun/09/florida-earthquake-cuba-coast-mexico",
@@ -183,5 +195,5 @@
       "pushedAt": "2026-06-10T10:18:30.460Z"
     }
   ],
-  "updatedAt": "2026-06-10T21:32:36.555Z"
+  "updatedAt": "2026-06-10T23:09:34.822Z"
 }
