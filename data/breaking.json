@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "0961a46d23311a2e",
+      "title": "Oracle shares tumble 11% on increased capital raise, cash concerns",
+      "url": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + shares"
+      ],
+      "firstSeen": "2026-06-11T17:54:15.989Z",
+      "pushedAt": "2026-06-11T17:54:15.989Z"
+    },
+    {
+      "id": "cbe6895b983ca232",
+      "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
+      "url": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + rise"
+      ],
+      "firstSeen": "2026-06-11T17:54:16.258Z",
+      "pushedAt": "2026-06-11T17:54:16.258Z"
+    },
+    {
       "id": "4f3e1e17dd26c501",
       "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
       "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
@@ -192,55 +216,7 @@
       ],
       "firstSeen": "2026-06-10T19:24:56.487Z",
       "pushedAt": "2026-06-10T19:24:56.487Z"
-    },
-    {
-      "id": "9c9ad82c468e54b5",
-      "title": "Russia probes two car bombs in Moscow - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHN2aVFpaVRYd1l1U1RtaXEwUUdKZEJqRHk0ajZ0YURHNVUyNzItSWFhbURCNzZtSU5tSFpBbDN0ZHF6SHYycUxmOGJITENOUlIzNkg4OURfMEdOeFl5V3NTeDd1dXZrZ0FzajZheDVUejRoSDFvYzFUWjVvd2pfMXFrMzhWWlVBLU44Q2NwZXpVLU5oY1c2bA?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-06-10T16:49:44.304Z",
-      "pushedAt": "2026-06-10T16:49:44.304Z"
-    },
-    {
-      "id": "7b37a14f605b24b9",
-      "title": "Pakistani airstrikes on Afghanistan kill at least 13",
-      "url": "https://news.sky.com/story/pakistani-airstrikes-on-afghanistan-kill-at-least-13-in-escalation-of-fighting-13552660",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "airstrikes on"
-      ],
-      "firstSeen": "2026-06-10T16:49:44.573Z",
-      "pushedAt": "2026-06-10T16:49:44.573Z"
-    },
-    {
-      "id": "bc220730efcc535d",
-      "title": "Senior Russian Military Official Is Killed in Car Explosion Near Moscow",
-      "url": "https://www.nytimes.com/2026/06/10/world/europe/russia-moscow-car-bomb.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + killed"
-      ],
-      "firstSeen": "2026-06-10T16:49:44.689Z",
-      "pushedAt": "2026-06-10T16:49:44.689Z"
-    },
-    {
-      "id": "176e99f6f5f9336c",
-      "title": "Razor reshapes supply chain to weather Trump-era China tariffs - Supply Chain Dive",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM1h3Z1dBR3pvQ1JpOXJUM3YwWUtsZWJ3bG9ybUtzQWxZc2xnU0tvbHMyOVh3aEliRzNTNWIxNTA0Nll5d0pHNWxnRDZ6cHFjMGxIeTVMcFZubHZsNEFMWDFmbnlLTFJTcEdaVnhSZi14SUdXSUFjcF90QXZ0MkMyNzdXanBtTkVHcFo0Tk1keXdHR1BGdC1PTE1INGFOekwwUm9RdFpSTU9fekU?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-06-10T16:49:44.732Z",
-      "pushedAt": "2026-06-10T16:49:44.732Z"
     }
   ],
-  "updatedAt": "2026-06-11T14:38:36.983Z"
+  "updatedAt": "2026-06-11T17:54:16.497Z"
 }
