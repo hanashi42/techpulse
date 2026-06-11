@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "89e338eede010b58",
+      "title": "China-based operatives used ChatGPT to shape AI data centers and tariff debates - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVlQ1QlRZUV9LR1BDcWZHZTZsOTQxZFRHMGpnVThNMi1GYVZhWkxKanlSeFdSWDJfQy1YWlhJNDdhN1E4R3FGajUtRjdNUVJnTEl4NnEwM1I0SW5kbl9pTDJ1aFVuUnZYbXRhUjZtb3pXNVNNYUxqQ2d5OEVZeldVbDNB?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-06-11T23:49:48.768Z",
+      "pushedAt": "2026-06-11T23:49:48.768Z"
+    },
+    {
       "id": "0227d8fa246c15f7",
       "title": "Trump picks top Manhattan federal prosecutor as next intelligence chief - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWEttS2kwQmdZTkNqZVpiSG9fM3JCQjFMdjBRRS1IREJOSl9wMW40RFhpVXcwVkNKeUpkSzdZOTkxYzc0TzJPaU5US3dQWFV5RHlJSGJacE1faGJUUDFkZng0SllrOTVZYW1GbEtiOFM3MmxiQ1k0dWtUamIzMVM5QmxrVmFqbUhNcHN6NXBacmJ0TmROUS0tMTdWZ0p3MlhRZ0J3bk41R2pMTkc4NWRBRA?oc=5",
@@ -179,19 +191,7 @@
       ],
       "firstSeen": "2026-06-11T01:36:02.911Z",
       "pushedAt": "2026-06-11T01:36:02.911Z"
-    },
-    {
-      "id": "1168909b70d609d6",
-      "title": "Microsoft's Xbox plans for major layoffs next month, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXNzeDkyTXpXMlRaZ0tnbU9ERVRpT0VYUVFTcUFId2F0cnpxMHI1SlFNWXJHcGxNTTlRT1FsMEZCeWhRRWI3TmdLNW92ZEpaRXdqWUYtbUYtb2RYLXBFT2FSVDlrUFlOUmFneHNQdjBsT0YzSFAzX1I2dmU1V3NqamNNdEd6dFhSOTlMaldtUmVZYTdJTlRsSTN3aWdnY00wTmw1QmRrV1pmRjJzZDNtZ1VjRDQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + microsoft"
-      ],
-      "firstSeen": "2026-06-10T23:09:34.712Z",
-      "pushedAt": "2026-06-10T23:09:34.712Z"
     }
   ],
-  "updatedAt": "2026-06-11T22:07:30.876Z"
+  "updatedAt": "2026-06-11T23:49:48.896Z"
 }
