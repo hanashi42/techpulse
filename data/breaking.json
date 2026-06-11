@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0227d8fa246c15f7",
+      "title": "Trump picks top Manhattan federal prosecutor as next intelligence chief - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWEttS2kwQmdZTkNqZVpiSG9fM3JCQjFMdjBRRS1IREJOSl9wMW40RFhpVXcwVkNKeUpkSzdZOTkxYzc0TzJPaU5US3dQWFV5RHlJSGJacE1faGJUUDFkZng0SllrOTVZYW1GbEtiOFM3MmxiQ1k0dWtUamIzMVM5QmxrVmFqbUhNcHN6NXBacmJ0TmROUS0tMTdWZ0p3MlhRZ0J3bk41R2pMTkc4NWRBRA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + cut"
+      ],
+      "firstSeen": "2026-06-11T22:07:30.806Z",
+      "pushedAt": "2026-06-11T22:07:30.806Z"
+    },
+    {
       "id": "0b6ea83ffa10ad60",
       "title": "US will receive a severe response if it attacks again, Iran's top joint military command says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0UyVTNTSjN3T3FSNGpQcmFZRzVKUUpTSVcxdDNpU19zNUM1ZlZ2czRWVGlVR0NJMnJVdzJOb1R6a0RTQW9YYUtrMHVDUmxxNW1DT1RNcUhza1E3ZEFuZURsMzh1STc4VVBuR2YzNFVDdG16dzlObHFLQi1DOHZJNGNMZHlTTktpOTJ1ZUZpWFR0TFBzaDdkVUxUTEllMU83Y3V2NHV5WXlFbThhLVZCNjZYXzdjY3c1Y0U1cTdKdGdJeDI4X2JIamdn?oc=5",
@@ -179,31 +191,7 @@
       ],
       "firstSeen": "2026-06-10T23:09:34.712Z",
       "pushedAt": "2026-06-10T23:09:34.712Z"
-    },
-    {
-      "id": "aaf69b2200883398",
-      "title": "Florida shaken by 6.1-magnitude earthquake off coast of Cuba",
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/florida-earthquake-cuba-coast-mexico",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-06-10T21:32:36.063Z",
-      "pushedAt": "2026-06-10T21:32:36.063Z"
-    },
-    {
-      "id": "89e338eede010b58",
-      "title": "China-based operatives used ChatGPT to shape AI data centers and tariff debates - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVlQ1QlRZUV9LR1BDcWZHZTZsOTQxZFRHMGpnVThNMi1GYVZhWkxKanlSeFdSWDJfQy1YWlhJNDdhN1E4R3FGajUtRjdNUVJnTEl4NnEwM1I0SW5kbl9pTDJ1aFVuUnZYbXRhUjZtb3pXNVNNYUxqQ2d5OEVZeldVbDNB?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-06-10T21:32:36.319Z",
-      "pushedAt": "2026-06-10T21:32:36.319Z"
     }
   ],
-  "updatedAt": "2026-06-11T20:03:12.953Z"
+  "updatedAt": "2026-06-11T22:07:30.876Z"
 }
