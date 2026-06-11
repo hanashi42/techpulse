@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "7519bcb8ec10b103",
+      "title": "Once an Arab oil embargo victim, US becomes world's top oil exporter - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnFreTE1OUdkNnV2TjRsZ0hvUHZYaURYVmFMZjBqcXZRUEFIWVVCbmlFNC1TY1o5WnRma3lCeE5HZzhORU9pZXh0Q2o0U25MQW5kdElPSnBMWXNwLWxlZHlXWE5uMnFsSlVaMW1oQUVpaHFWU2Zxemg3YkttbDh6emx3Z2YzNUF3WGNCcTdfeXFnU3ViMlM3OGJ3T3kwWkZqZUsyRHZ1QkpzUFJGOWZrNmNQSzNMc241SHc?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil embargo"
+      ],
+      "firstSeen": "2026-06-11T11:00:14.488Z",
+      "pushedAt": "2026-06-11T11:00:14.488Z"
+    },
+    {
+      "id": "12a73ba79a4fda1e",
+      "title": "A trade war between the EU and China seems inevitable - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT054eHVSeXAyT1ZEaE5WeTZKcU5FZDhsRV9KWlU1RnNnSmRBQ0NNcS1jaVBYNmMwYVVwZWZUSS1vZGhIM2RMZkRNSk8yR0tNQmx5dDhFcjJiN3Rsekdrc1gxSEpPcFdEaDAyLXpmQndsQldKWTREWWYyTF93bndxSm14RGhTT3RBVndBTktYdzZJOThNbzg5RzVkZGY4QQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + china"
+      ],
+      "firstSeen": "2026-06-11T11:00:14.853Z",
+      "pushedAt": "2026-06-11T11:00:14.853Z"
+    },
+    {
       "id": "7d3a80f5a12d7b95",
       "title": "Knicks complete record rally from 29 points down and beat Spurs 107-106 for 3-1 NBA Finals lead - AP News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXFuNWhXUUhHWHIxSzZEZ2F6T2pCdTNhLXZkX2R6b3ZYWXlsak9Eb3I4N0dxd0NVR1IwLVN1TS02SS1KQ1hqMGRZaktGV3pLWUx4UWtBRjZReDFhYkFJVmJQYmFUdmJPVUE3Y0JMQWh1R01YNW4yS2NtMnZGZFZRa0xKNmxCejI1ZThVYXZFdno2OEk2?oc=5",
@@ -181,55 +205,7 @@
       ],
       "firstSeen": "2026-06-10T13:50:00.135Z",
       "pushedAt": "2026-06-10T13:50:00.135Z"
-    },
-    {
-      "id": "59c7cd6d32eef72e",
-      "title": "Iran strikes US bases in Gulf after Trump orders attacks near Hormuz - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0dXSGJPLVM3VVFmRmYwcWloclNleWtLV0NrYVZfblNtdU5kY0RnOXNQSjBUQVZQS2RhR1RwQVhhT1oxVGdtVjJkdExKWG5uM3VFSTlPY0JhWms0S3RMdml0X0dVTEhuOTlEWUc3ZHlJVXl4dWFUeVFOT2xKWUhCbTh3aUVFeS1qaTNySWRBdWNMY1BhVWZUekZaUVNIZEVDVklnV1VISHpid0JObjVCU3V5bXFHaTgxaEN3M0UwOW1ac1Nz?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + base"
-      ],
-      "firstSeen": "2026-06-10T10:18:30.074Z",
-      "pushedAt": "2026-06-10T10:18:30.074Z"
-    },
-    {
-      "id": "8042c1c83919c3a5",
-      "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
-      "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "mass shooting"
-      ],
-      "firstSeen": "2026-06-10T10:18:30.395Z",
-      "pushedAt": "2026-06-10T10:18:30.395Z"
-    },
-    {
-      "id": "f2be027b75427c1b",
-      "title": "Indonesia jails four military officers for acid attack on rights activist",
-      "url": "https://www.aljazeera.com/news/2026/6/10/indonesia-jails-four-military-officers-for-acid-attack-on-rights-activist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-06-10T10:18:30.441Z",
-      "pushedAt": "2026-06-10T10:18:30.441Z"
-    },
-    {
-      "id": "e32e0e2797272ff5",
-      "title": "SoftBank sinks over 8% as Asia tech stocks tumble, tracking Wall Street losses",
-      "url": "https://www.cnbc.com/2026/06/10/softbank-samsung-skhynix-asia-tech-stocks-ai-ipo.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + stock"
-      ],
-      "firstSeen": "2026-06-10T10:18:30.460Z",
-      "pushedAt": "2026-06-10T10:18:30.460Z"
     }
   ],
-  "updatedAt": "2026-06-11T06:20:46.833Z"
+  "updatedAt": "2026-06-11T11:00:15.024Z"
 }
