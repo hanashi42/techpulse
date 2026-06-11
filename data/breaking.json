@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "0b6ea83ffa10ad60",
+      "title": "US will receive a severe response if it attacks again, Iran's top joint military command says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0UyVTNTSjN3T3FSNGpQcmFZRzVKUUpTSVcxdDNpU19zNUM1ZlZ2czRWVGlVR0NJMnJVdzJOb1R6a0RTQW9YYUtrMHVDUmxxNW1DT1RNcUhza1E3ZEFuZURsMzh1STc4VVBuR2YzNFVDdG16dzlObHFLQi1DOHZJNGNMZHlTTktpOTJ1ZUZpWFR0TFBzaDdkVUxUTEllMU83Y3V2NHV5WXlFbThhLVZCNjZYXzdjY3c1Y0U1cTdKdGdJeDI4X2JIamdn?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-06-11T20:03:12.405Z",
+      "pushedAt": "2026-06-11T20:03:12.405Z"
+    },
+    {
+      "id": "7b37a14f605b24b9",
+      "title": "Pakistani airstrikes on Afghanistan kill at least 13",
+      "url": "https://news.sky.com/story/pakistani-airstrikes-on-afghanistan-kill-at-least-13-in-escalation-of-fighting-13552660",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "airstrikes on"
+      ],
+      "firstSeen": "2026-06-11T20:03:12.652Z",
+      "pushedAt": "2026-06-11T20:03:12.652Z"
+    },
+    {
+      "id": "78cbb6c0455e805f",
+      "title": "13 Afghan Civilians Killed in Airstrikes on Pakistan Border, U.N. Says",
+      "url": "https://www.nytimes.com/2026/06/11/world/asia/afghanistan-pakistan-airstrikes-civilians.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "airstrikes on"
+      ],
+      "firstSeen": "2026-06-11T20:03:12.870Z",
+      "pushedAt": "2026-06-11T20:03:12.870Z"
+    },
+    {
       "id": "0961a46d23311a2e",
       "title": "Oracle shares tumble 11% on increased capital raise, cash concerns",
       "url": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html",
@@ -167,56 +203,7 @@
       ],
       "firstSeen": "2026-06-10T21:32:36.319Z",
       "pushedAt": "2026-06-10T21:32:36.319Z"
-    },
-    {
-      "id": "ded81be8256f3312",
-      "title": "US hits China- and Hong Kong-based entities with sanctions over Iran weapons - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaU9kaHc3b3pGb2dqdF9mSERjdHVLRHpLYTd4TXZWaWFFU0tJTERCTng0UVJaOV9kdzk2VzhGbjdycEtpTEM1Z3l2SU9TMEdDQXV3MU9HU0pSRzB5RURtbXNTTXgzU01JTDRrMi1QU2d6dldQdTV5MF9qNDRnZGRPektoQUhjMVZKeFBhanlrc1JmUUhZUTVMSXZCQzRTVGFlWHltT1FPMzJWX3lNcjhDYjlFd1d0aTFWUkh1d21uRG5pdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-06-10T19:24:55.968Z",
-      "pushedAt": "2026-06-10T19:24:55.968Z"
-    },
-    {
-      "id": "423f7358c8e251f9",
-      "title": "32,000 people displaced by the Philippine earthquake that killed at least 37 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzRQUTJsQ0hpQmxnT3RleHNZZzkxaE44dnI5UVR5VGIyRDlKMDJyb0NETm10cW9UVllPTWk4TnVaNVJBb3pMeWpmUS1wa2h4TlpUZW9UM3VnLTh5aG5EZ2s5Q0pLU0RjM1NHQm1ZNERMRDFnWEJld2FmdzYzU1FCMU9Qd1dTZXhFT2c?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + killed"
-      ],
-      "firstSeen": "2026-06-10T19:24:56.214Z",
-      "pushedAt": "2026-06-10T19:24:56.214Z"
-    },
-    {
-      "id": "8f5c4f955e35d160",
-      "title": "US inflation hits new three-year high amid energy price surge",
-      "url": "https://www.aljazeera.com/economy/2026/6/10/us-inflation-hits-new-three-year-high-amid-energy-price-surge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + inflation",
-        "inflation + surge"
-      ],
-      "firstSeen": "2026-06-10T19:24:56.419Z",
-      "pushedAt": "2026-06-10T19:24:56.419Z"
-    },
-    {
-      "id": "2f8f04fd22e62e6d",
-      "title": "Wall Street needs a crash course in the token economy ahead of AI IPOs. SpaceX offers a preview",
-      "url": "https://www.cnbc.com/2026/06/10/wall-street-needs-crash-course-in-tokens-ahead-openai-anthropic-ipos.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crash + wall street"
-      ],
-      "firstSeen": "2026-06-10T19:24:56.487Z",
-      "pushedAt": "2026-06-10T19:24:56.487Z"
     }
   ],
-  "updatedAt": "2026-06-11T17:54:16.497Z"
+  "updatedAt": "2026-06-11T20:03:12.953Z"
 }
