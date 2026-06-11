@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "4f3e1e17dd26c501",
+      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
+      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "evacuate + citizens"
+      ],
+      "firstSeen": "2026-06-11T14:38:36.672Z",
+      "pushedAt": "2026-06-11T14:38:36.672Z"
+    },
+    {
+      "id": "493864ff12784b25",
+      "title": "Trump threatens to seize 'total control' of Iran's oil industry including key export terminal Kharg Island",
+      "url": "https://www.cnbc.com/2026/06/11/trump-says-us-will-seize-kharg-island-and-other-oil-infrastructure-points.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "seize + port"
+      ],
+      "firstSeen": "2026-06-11T14:38:36.899Z",
+      "pushedAt": "2026-06-11T14:38:36.899Z"
+    },
+    {
+      "id": "c4cb17ee1a85bdaf",
+      "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+      "url": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "interest rate + hike"
+      ],
+      "firstSeen": "2026-06-11T14:38:36.942Z",
+      "pushedAt": "2026-06-11T14:38:36.942Z"
+    },
+    {
+      "id": "0adc3dd9e06b0be5",
+      "title": "12 Killed, 9 Wounded In Mass Shooting In Johannesburg Settlement: Report - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13enpCa2Z6dk5mNF9Wd0k3aWE0alhjT215UDA2ZG52RjVCNVNNMkQwTkwwN3NtZlpXZWhoUHpUNmhYa1Y3UW9KNkx5dDk2VUk0LW1IbWNIU3p1S2JlcFl5dDBobHRISWQ4VnljTG5pSU5iZw?oc=5",
+      "source": "Bernama",
+      "priority": "P0",
+      "matchedKeywords": [
+        "mass shooting"
+      ],
+      "firstSeen": "2026-06-11T14:38:36.965Z",
+      "pushedAt": "2026-06-11T14:38:36.965Z"
+    },
+    {
       "id": "7519bcb8ec10b103",
       "title": "Once an Arab oil embargo victim, US becomes world's top oil exporter - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnFreTE1OUdkNnV2TjRsZ0hvUHZYaURYVmFMZjBqcXZRUEFIWVVCbmlFNC1TY1o5WnRma3lCeE5HZzhORU9pZXh0Q2o0U25MQW5kdElPSnBMWXNwLWxlZHlXWE5uMnFsSlVaMW1oQUVpaHFWU2Zxemg3YkttbDh6emx3Z2YzNUF3WGNCcTdfeXFnU3ViMlM3OGJ3T3kwWkZqZUsyRHZ1QkpzUFJGOWZrNmNQSzNMc241SHc?oc=5",
@@ -192,20 +240,7 @@
       ],
       "firstSeen": "2026-06-10T16:49:44.732Z",
       "pushedAt": "2026-06-10T16:49:44.732Z"
-    },
-    {
-      "id": "fd85ce7bc8707bc3",
-      "title": "Gold, silver and bitcoin fall as traders up Fed rate hike bets",
-      "url": "https://www.cnbc.com/2026/06/10/gold-silver-and-bitcoin-fall-as-interest-rates-hold-investor-focus.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-10T13:50:00.135Z",
-      "pushedAt": "2026-06-10T13:50:00.135Z"
     }
   ],
-  "updatedAt": "2026-06-11T11:00:15.024Z"
+  "updatedAt": "2026-06-11T14:38:36.983Z"
 }
