@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "9217c70ead0f886f",
+      "title": "Stocks rally on Gulf breakthrough hopes, oil hits two-month lows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1pjRmJPbG9FY2Q3ekpEY1dDQTI3aWU0MzdqR0tMbDdKNjdkWHNDRGk3TEdFbDVzeHBZODUyS20yNnpuWHR0N2xPRHFPWHN4QlA3QzNUM1BONlRJakJfdGpTOWYybHU2ZTBfM29JamNOc096OWgzd0FRa01GN1BWbzNraw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-06-12T06:47:31.745Z",
+      "pushedAt": "2026-06-12T06:47:31.745Z"
+    },
+    {
       "id": "f23c018f811f925f",
       "title": "Oil prices fall on hopes of U.S.-Iran deal despite Tehran pushback",
       "url": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
@@ -167,19 +179,7 @@
       ],
       "firstSeen": "2026-06-11T11:00:14.853Z",
       "pushedAt": "2026-06-11T11:00:14.853Z"
-    },
-    {
-      "id": "7d3a80f5a12d7b95",
-      "title": "Knicks complete record rally from 29 points down and beat Spurs 107-106 for 3-1 NBA Finals lead - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXFuNWhXUUhHWHIxSzZEZ2F6T2pCdTNhLXZkX2R6b3ZYWXlsak9Eb3I4N0dxd0NVR1IwLVN1TS02SS1KQ1hqMGRZaktGV3pLWUx4UWtBRjZReDFhYkFJVmJQYmFUdmJPVUE3Y0JMQWh1R01YNW4yS2NtMnZGZFZRa0xKNmxCejI1ZThVYXZFdno2OEk2?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + record"
-      ],
-      "firstSeen": "2026-06-11T06:20:46.771Z",
-      "pushedAt": "2026-06-11T06:20:46.771Z"
     }
   ],
-  "updatedAt": "2026-06-12T02:01:27.943Z"
+  "updatedAt": "2026-06-12T06:47:31.925Z"
 }
