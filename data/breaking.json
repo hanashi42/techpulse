@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "aafc0164daea8861",
+      "title": "US stocks rise as oil falls and SpaceX soars in its debut on Wall Street - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnp2SzRDVFVBdVBxWWo5ajd4QzJ4SVE5bXZCOFM0LWdRRDVPaVliQkkwVGQwYVZJMk9adHdZZFB2NW1QSnBybExuSV9MLXcyTTQxY0x1SlF4eDQzTk1kRGVnUXk3cllzdjhOZ3hkdnBVMXN2dWdlTk84RXpBX2I0MGVzeTlvVTZVcUVsYlV5TUl4VC1iZ3Iw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + oil"
+      ],
+      "firstSeen": "2026-06-12T18:26:18.433Z",
+      "pushedAt": "2026-06-12T18:26:18.433Z"
+    },
+    {
+      "id": "6821b79a5386e942",
+      "title": "Canada police investigate whether Toronto police death linked to global terror attacks",
+      "url": "https://www.theguardian.com/world/2026/jun/12/canada-police-investigate-toronto-police-death-global-terror-attacks",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terror attack"
+      ],
+      "firstSeen": "2026-06-12T18:26:18.567Z",
+      "pushedAt": "2026-06-12T18:26:18.567Z"
+    },
+    {
       "id": "9156d33279d49459",
       "title": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxvLTNYcFBTOHNBRlpoeS11emZyY053RVJuMFp6c3BCeTdmVzZ0QXdDRDZzb2lrOFM0WGdUVTkzT3d6bFhuYWN3aEVSV0Zkc2VlcUF1WUc3QlJOeS13cHZDRnJvaHVOWi1ISmRyR3d0TFFiQ3E0czJOVklkUE02UEpnRmRHZzdSVEQ3eDdWcXhiSGVubUxoNERvcjdWS01ZQXBNTUh2b1A2d3ZVSTlkblNpYw?oc=5",
@@ -167,31 +191,7 @@
       ],
       "firstSeen": "2026-06-11T20:03:12.870Z",
       "pushedAt": "2026-06-11T20:03:12.870Z"
-    },
-    {
-      "id": "0961a46d23311a2e",
-      "title": "Oracle shares tumble 11% on increased capital raise, cash concerns",
-      "url": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + shares"
-      ],
-      "firstSeen": "2026-06-11T17:54:15.989Z",
-      "pushedAt": "2026-06-11T17:54:15.989Z"
-    },
-    {
-      "id": "cbe6895b983ca232",
-      "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
-      "url": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-06-11T17:54:16.258Z",
-      "pushedAt": "2026-06-11T17:54:16.258Z"
     }
   ],
-  "updatedAt": "2026-06-12T16:36:13.191Z"
+  "updatedAt": "2026-06-12T18:26:18.666Z"
 }
