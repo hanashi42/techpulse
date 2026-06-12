@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f23c018f811f925f",
+      "title": "Oil prices fall on hopes of U.S.-Iran deal despite Tehran pushback",
+      "url": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-06-12T02:01:27.702Z",
+      "pushedAt": "2026-06-12T02:01:27.702Z"
+    },
+    {
       "id": "89e338eede010b58",
       "title": "China-based operatives used ChatGPT to shape AI data centers and tariff debates - Axios",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVlQ1QlRZUV9LR1BDcWZHZTZsOTQxZFRHMGpnVThNMi1GYVZhWkxKanlSeFdSWDJfQy1YWlhJNDdhN1E4R3FGajUtRjdNUVJnTEl4NnEwM1I0SW5kbl9pTDJ1aFVuUnZYbXRhUjZtb3pXNVNNYUxqQ2d5OEVZeldVbDNB?oc=5",
@@ -167,31 +179,7 @@
       ],
       "firstSeen": "2026-06-11T06:20:46.771Z",
       "pushedAt": "2026-06-11T06:20:46.771Z"
-    },
-    {
-      "id": "959c2c11ed156a46",
-      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
-      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-06-11T01:36:02.655Z",
-      "pushedAt": "2026-06-11T01:36:02.655Z"
-    },
-    {
-      "id": "5a4619f0807a70ae",
-      "title": "Oil jumps as U.S. fresh strikes on Iran raise worries of extended disruption to energy flows",
-      "url": "https://www.cnbc.com/2026/06/11/brent-wti-oil-prices-us-launches-fresh-strikes-on-iran-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-06-11T01:36:02.911Z",
-      "pushedAt": "2026-06-11T01:36:02.911Z"
     }
   ],
-  "updatedAt": "2026-06-11T23:49:48.896Z"
+  "updatedAt": "2026-06-12T02:01:27.943Z"
 }
