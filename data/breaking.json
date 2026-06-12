@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "a0d50fdf50ae6b72",
+      "title": "TSMC boss frets about shortages of talent, water in Taiwan - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHFpTkI0bFF1ZHF0Q1kxR3VHYXlySG1BTkJFMEdfNkRZb011eFhuLWhCRlI0aGpoNmNmTDd6M29wYnY0cFhVcWJNRk9LOE8zbGsybm1tV29Qb3pGZFFVRVhQMEs5b3ZSN2pKekg1ZDBPUl9JOFRjeEg5WGdsTTR1Tk5oYW9VNlJGN21LV2V6Z01CME41NVpQNVRWS0RRTkIzNGRNeERLRUF1UQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + water"
+      ],
+      "firstSeen": "2026-06-12T10:53:09.747Z",
+      "pushedAt": "2026-06-12T10:53:09.747Z"
+    },
+    {
+      "id": "e435224a7d541fad",
+      "title": "Three killed as Ukraine and Russia exchange cross-border attacks",
+      "url": "https://www.aljazeera.com/news/2026/6/12/three-killed-as-ukraine-and-russia-exchange-cross-border-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-12T10:53:09.964Z",
+      "pushedAt": "2026-06-12T10:53:09.964Z"
+    },
+    {
+      "id": "c4151c69415a6625",
+      "title": "Proposed Iran-U.S. deal would reopen Hormuz strait and lift oil sanctions, Iran state media says",
+      "url": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-06-12T10:53:10.139Z",
+      "pushedAt": "2026-06-12T10:53:10.139Z"
+    },
+    {
+      "id": "05836e6a289fda46",
+      "title": "Jewelry giant Chow Tai Fook's shares rise 15% as higher gold price boosts profits",
+      "url": "https://www.cnbc.com/2026/06/12/chow-tai-fooks-shares-rise-15percent-as-higher-gold-price-boosts-profits.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "gold price + high"
+      ],
+      "firstSeen": "2026-06-12T10:53:10.199Z",
+      "pushedAt": "2026-06-12T10:53:10.199Z"
+    },
+    {
       "id": "9217c70ead0f886f",
       "title": "Stocks rally on Gulf breakthrough hopes, oil hits two-month lows - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1pjRmJPbG9FY2Q3ekpEY1dDQTI3aWU0MzdqR0tMbDdKNjdkWHNDRGk3TEdFbDVzeHBZODUyS20yNnpuWHR0N2xPRHFPWHN4QlA3QzNUM1BONlRJakJfdGpTOWYybHU2ZTBfM29JamNOc096OWgzd0FRa01GN1BWbzNraw?oc=5",
@@ -181,5 +229,5 @@
       "pushedAt": "2026-06-11T11:00:14.853Z"
     }
   ],
-  "updatedAt": "2026-06-12T06:47:31.925Z"
+  "updatedAt": "2026-06-12T10:53:10.267Z"
 }
