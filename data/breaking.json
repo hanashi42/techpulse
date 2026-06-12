@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f03c2922e3192e5c",
+      "title": "Myanmar detains US businessman who wrote about military coup, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTS1PUFlxdHBrT0NpNktZenBPVVd6M2swVmE2LVJOaTVMQ0N6ZEJjTlVSTHRsRzRSTTUybXlFR1p2TkVHYmJLNzJYajBfWEt5ZXVyb19WTEFZcWxsZUJVazJGcHNaUXhjRmprM09RVUxvYUs1MTF1R2RZUnN2VjhZUXdrWU5JMTlILXFPT0QxQzA4UWRrcTdzUkRmdUNoZmRnenJibnY1RnFieHZubDNUR0MyeHhlTXhVVWhSMjlqRExnNzVudXc?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "military coup"
+      ],
+      "firstSeen": "2026-06-12T13:54:45.440Z",
+      "pushedAt": "2026-06-12T13:54:45.440Z"
+    },
+    {
       "id": "a0d50fdf50ae6b72",
       "title": "TSMC boss frets about shortages of talent, water in Taiwan - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHFpTkI0bFF1ZHF0Q1kxR3VHYXlySG1BTkJFMEdfNkRZb011eFhuLWhCRlI0aGpoNmNmTDd6M29wYnY0cFhVcWJNRk9LOE8zbGsybm1tV29Qb3pGZFFVRVhQMEs5b3ZSN2pKekg1ZDBPUl9JOFRjeEg5WGdsTTR1Tk5oYW9VNlJGN21LV2V6Z01CME41NVpQNVRWS0RRTkIzNGRNeERLRUF1UQ?oc=5",
@@ -203,31 +215,7 @@
       ],
       "firstSeen": "2026-06-11T14:38:36.965Z",
       "pushedAt": "2026-06-11T14:38:36.965Z"
-    },
-    {
-      "id": "7519bcb8ec10b103",
-      "title": "Once an Arab oil embargo victim, US becomes world's top oil exporter - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnFreTE1OUdkNnV2TjRsZ0hvUHZYaURYVmFMZjBqcXZRUEFIWVVCbmlFNC1TY1o5WnRma3lCeE5HZzhORU9pZXh0Q2o0U25MQW5kdElPSnBMWXNwLWxlZHlXWE5uMnFsSlVaMW1oQUVpaHFWU2Zxemg3YkttbDh6emx3Z2YzNUF3WGNCcTdfeXFnU3ViMlM3OGJ3T3kwWkZqZUsyRHZ1QkpzUFJGOWZrNmNQSzNMc241SHc?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil embargo"
-      ],
-      "firstSeen": "2026-06-11T11:00:14.488Z",
-      "pushedAt": "2026-06-11T11:00:14.488Z"
-    },
-    {
-      "id": "12a73ba79a4fda1e",
-      "title": "A trade war between the EU and China seems inevitable - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT054eHVSeXAyT1ZEaE5WeTZKcU5FZDhsRV9KWlU1RnNnSmRBQ0NNcS1jaVBYNmMwYVVwZWZUSS1vZGhIM2RMZkRNSk8yR0tNQmx5dDhFcjJiN3Rsekdrc1gxSEpPcFdEaDAyLXpmQndsQldKWTREWWYyTF93bndxSm14RGhTT3RBVndBTktYdzZJOThNbzg5RzVkZGY4QQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "trade war + china"
-      ],
-      "firstSeen": "2026-06-11T11:00:14.853Z",
-      "pushedAt": "2026-06-11T11:00:14.853Z"
     }
   ],
-  "updatedAt": "2026-06-12T10:53:10.267Z"
+  "updatedAt": "2026-06-12T13:54:45.598Z"
 }
