@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e254e35257b5f121",
+      "title": "U.S., China Lower Tariffs for 90 Days - National Association of Manufacturers - NAM",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xeEVlTXEyalVBRnBhYUxGMVBIeU9ua2pmQlV2bTlrV1JvVzdwWlRyMmVVaHNXbUhMaFhrVWNISThIOVcxUGlZZ3Z2S0J3UUdRUDJfSXVqRGYwNVc4aWFkSlRB?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-06-13T22:42:50.792Z",
+      "pushedAt": "2026-06-13T22:42:50.792Z"
+    },
+    {
       "id": "c51308ffc96a08ec",
       "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
       "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
@@ -23,91 +35,7 @@
       ],
       "firstSeen": "2026-06-13T11:27:41.265Z",
       "pushedAt": "2026-06-13T11:27:41.265Z"
-    },
-    {
-      "id": "5b5745e976d29717",
-      "title": "Suspect in West Texas mass shooting had fired on police days earlier, officials say - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWm1CNHhUeGw2UE5JZS1kbVAyNGpNZUw2bzh5TUdFWThfN2JYdmtTZHVoSHc5bDdSRWUzSk11cFhxcXI4WXJsMDN5NV9jWm5aRUcxVm9kZUJrV2hQWHVDU0E0ZlVIWDNFbjRsbGNrZFJFMm5IZjRxM1BteE5CSDRIbm9xUC1ueEN4d3c?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "mass shooting"
-      ],
-      "firstSeen": "2026-06-12T20:32:39.837Z",
-      "pushedAt": "2026-06-12T20:32:39.837Z"
-    },
-    {
-      "id": "93c5d7d12486df0c",
-      "title": "How the Gulf will manage collective security after the Iran war ends",
-      "url": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "war ends"
-      ],
-      "firstSeen": "2026-06-12T20:32:40.044Z",
-      "pushedAt": "2026-06-12T20:32:40.044Z"
-    },
-    {
-      "id": "aafc0164daea8861",
-      "title": "US stocks rise as oil falls and SpaceX soars in its debut on Wall Street - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnp2SzRDVFVBdVBxWWo5ajd4QzJ4SVE5bXZCOFM0LWdRRDVPaVliQkkwVGQwYVZJMk9adHdZZFB2NW1QSnBybExuSV9MLXcyTTQxY0x1SlF4eDQzTk1kRGVnUXk3cllzdjhOZ3hkdnBVMXN2dWdlTk84RXpBX2I0MGVzeTlvVTZVcUVsYlV5TUl4VC1iZ3Iw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-06-12T18:26:18.433Z",
-      "pushedAt": "2026-06-12T18:26:18.433Z"
-    },
-    {
-      "id": "6821b79a5386e942",
-      "title": "Canada police investigate whether Toronto police death linked to global terror attacks",
-      "url": "https://www.theguardian.com/world/2026/jun/12/canada-police-investigate-toronto-police-death-global-terror-attacks",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "terror attack"
-      ],
-      "firstSeen": "2026-06-12T18:26:18.567Z",
-      "pushedAt": "2026-06-12T18:26:18.567Z"
-    },
-    {
-      "id": "9156d33279d49459",
-      "title": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxvLTNYcFBTOHNBRlpoeS11emZyY053RVJuMFp6c3BCeTdmVzZ0QXdDRDZzb2lrOFM0WGdUVTkzT3d6bFhuYWN3aEVSV0Zkc2VlcUF1WUc3QlJOeS13cHZDRnJvaHVOWi1ISmRyR3d0TFFiQ3E0czJOVklkUE02UEpnRmRHZzdSVEQ3eDdWcXhiSGVubUxoNERvcjdWS01ZQXBNTUh2b1A2d3ZVSTlkblNpYw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crypto + ban"
-      ],
-      "firstSeen": "2026-06-12T16:36:12.791Z",
-      "pushedAt": "2026-06-12T16:36:12.791Z"
-    },
-    {
-      "id": "594d661aba04964b",
-      "title": "Students in anti-Prabowo protests say Indonesia 'heading' for bankruptcy - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUVhVbVJJQVlpNUladm1pS0ZDS1VqVGtvalNPNkFrNEZVbTBHUzZHTDlBSW5xZEdrVlhpRkhleUNyR1ZRY2JhRDJ3eDVnbUgzcE5BZEhmZmhoQUh0bDhFd21SYjhuOUZJRzN4dnc4SzNOd09tNWU2NVh6eFZDeUxqTzdIUHRZTDctTjMwTVExLXA3SUx2Wjk0Um5wSVhVREFjek5hcXFFRUVockRZR0N6b2FvR1NoOE9BOXEwaEdnS0tNZ280QkRDMy1n?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bankrupt + bank"
-      ],
-      "firstSeen": "2026-06-12T16:36:13.025Z",
-      "pushedAt": "2026-06-12T16:36:13.025Z"
-    },
-    {
-      "id": "f03c2922e3192e5c",
-      "title": "Myanmar detains US businessman who wrote about military coup, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTS1PUFlxdHBrT0NpNktZenBPVVd6M2swVmE2LVJOaTVMQ0N6ZEJjTlVSTHRsRzRSTTUybXlFR1p2TkVHYmJLNzJYajBfWEt5ZXVyb19WTEFZcWxsZUJVazJGcHNaUXhjRmprM09RVUxvYUs1MTF1R2RZUnN2VjhZUXdrWU5JMTlILXFPT0QxQzA4UWRrcTdzUkRmdUNoZmRnenJibnY1RnFieHZubDNUR0MyeHhlTXhVVWhSMjlqRExnNzVudXc?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "military coup"
-      ],
-      "firstSeen": "2026-06-12T13:54:45.440Z",
-      "pushedAt": "2026-06-12T13:54:45.440Z"
     }
   ],
-  "updatedAt": "2026-06-13T13:01:55.273Z"
+  "updatedAt": "2026-06-13T22:42:50.840Z"
 }
