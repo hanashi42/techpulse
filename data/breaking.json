@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "c51308ffc96a08ec",
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "air strikes on"
+      ],
+      "firstSeen": "2026-06-13T13:01:55.121Z",
+      "pushedAt": "2026-06-13T13:01:55.121Z"
+    },
+    {
       "id": "31b2443124810570",
       "title": "Al Qaeda-linked militants curb their brutality in seized Malian territory - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRk5rWERnU3lkaHJ4WW1jbEl5SHVOUjhoVHBtZ3VKWVhwS1Nnblc4WGtQY3UyUGY5dXVsbnV1ZXFZTC10NUQtdDhKYjU0YVZueWhlMFhVZ1Vnak1US3NfOUllVTZDa2ZuSnNGaHFtdHQ4YUd5bWhzTUU4dkFPM2VsWWdiNU5MVktnYmhuVEZBZC1hOFlZQmd6SV9vdHpHT1VXR0phTExWMUpsRC1GLV9uc2dmOXM1Zw?oc=5",
@@ -97,5 +109,5 @@
       "pushedAt": "2026-06-12T13:54:45.440Z"
     }
   ],
-  "updatedAt": "2026-06-13T11:27:41.409Z"
+  "updatedAt": "2026-06-13T13:01:55.273Z"
 }
