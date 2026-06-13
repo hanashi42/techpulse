@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6821b79a5386e942",
+      "title": "Canada police investigate whether Toronto police death linked to global terror attacks",
+      "url": "https://www.theguardian.com/world/2026/jun/12/canada-police-investigate-toronto-police-death-global-terror-attacks",
+      "source": "Guardian",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terror attack"
+      ],
+      "firstSeen": "2026-06-13T23:45:51.247Z",
+      "pushedAt": "2026-06-13T23:45:51.247Z"
+    },
+    {
       "id": "e254e35257b5f121",
       "title": "U.S., China Lower Tariffs for 90 Days - National Association of Manufacturers - NAM",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xeEVlTXEyalVBRnBhYUxGMVBIeU9ua2pmQlV2bTlrV1JvVzdwWlRyMmVVaHNXbUhMaFhrVWNISThIOVcxUGlZZ3Z2S0J3UUdRUDJfSXVqRGYwNVc4aWFkSlRB?oc=5",
@@ -37,5 +49,5 @@
       "pushedAt": "2026-06-13T11:27:41.265Z"
     }
   ],
-  "updatedAt": "2026-06-13T22:42:50.840Z"
+  "updatedAt": "2026-06-13T23:45:51.492Z"
 }
