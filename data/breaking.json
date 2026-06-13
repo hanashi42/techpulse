@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "31b2443124810570",
+      "title": "Al Qaeda-linked militants curb their brutality in seized Malian territory - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRk5rWERnU3lkaHJ4WW1jbEl5SHVOUjhoVHBtZ3VKWVhwS1Nnblc4WGtQY3UyUGY5dXVsbnV1ZXFZTC10NUQtdDhKYjU0YVZueWhlMFhVZ1Vnak1US3NfOUllVTZDa2ZuSnNGaHFtdHQ4YUd5bWhzTUU4dkFPM2VsWWdiNU5MVktnYmhuVEZBZC1hOFlZQmd6SV9vdHpHT1VXR0phTExWMUpsRC1GLV9uc2dmOXM1Zw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "seize + territory"
+      ],
+      "firstSeen": "2026-06-13T11:27:41.265Z",
+      "pushedAt": "2026-06-13T11:27:41.265Z"
+    },
+    {
       "id": "5b5745e976d29717",
       "title": "Suspect in West Texas mass shooting had fired on police days earlier, officials say - AP News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWm1CNHhUeGw2UE5JZS1kbVAyNGpNZUw2bzh5TUdFWThfN2JYdmtTZHVoSHc5bDdSRWUzSk11cFhxcXI4WXJsMDN5NV9jWm5aRUcxVm9kZUJrV2hQWHVDU0E0ZlVIWDNFbjRsbGNrZFJFMm5IZjRxM1BteE5CSDRIbm9xUC1ueEN4d3c?oc=5",
@@ -83,103 +95,7 @@
       ],
       "firstSeen": "2026-06-12T13:54:45.440Z",
       "pushedAt": "2026-06-12T13:54:45.440Z"
-    },
-    {
-      "id": "a0d50fdf50ae6b72",
-      "title": "TSMC boss frets about shortages of talent, water in Taiwan - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHFpTkI0bFF1ZHF0Q1kxR3VHYXlySG1BTkJFMEdfNkRZb011eFhuLWhCRlI0aGpoNmNmTDd6M29wYnY0cFhVcWJNRk9LOE8zbGsybm1tV29Qb3pGZFFVRVhQMEs5b3ZSN2pKekg1ZDBPUl9JOFRjeEg5WGdsTTR1Tk5oYW9VNlJGN21LV2V6Z01CME41NVpQNVRWS0RRTkIzNGRNeERLRUF1UQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + water"
-      ],
-      "firstSeen": "2026-06-12T10:53:09.747Z",
-      "pushedAt": "2026-06-12T10:53:09.747Z"
-    },
-    {
-      "id": "e435224a7d541fad",
-      "title": "Three killed as Ukraine and Russia exchange cross-border attacks",
-      "url": "https://www.aljazeera.com/news/2026/6/12/three-killed-as-ukraine-and-russia-exchange-cross-border-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-12T10:53:09.964Z",
-      "pushedAt": "2026-06-12T10:53:09.964Z"
-    },
-    {
-      "id": "c4151c69415a6625",
-      "title": "Proposed Iran-U.S. deal would reopen Hormuz strait and lift oil sanctions, Iran state media says",
-      "url": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-06-12T10:53:10.139Z",
-      "pushedAt": "2026-06-12T10:53:10.139Z"
-    },
-    {
-      "id": "05836e6a289fda46",
-      "title": "Jewelry giant Chow Tai Fook's shares rise 15% as higher gold price boosts profits",
-      "url": "https://www.cnbc.com/2026/06/12/chow-tai-fooks-shares-rise-15percent-as-higher-gold-price-boosts-profits.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "gold price + high"
-      ],
-      "firstSeen": "2026-06-12T10:53:10.199Z",
-      "pushedAt": "2026-06-12T10:53:10.199Z"
-    },
-    {
-      "id": "9217c70ead0f886f",
-      "title": "Stocks rally on Gulf breakthrough hopes, oil hits two-month lows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV1pjRmJPbG9FY2Q3ekpEY1dDQTI3aWU0MzdqR0tMbDdKNjdkWHNDRGk3TEdFbDVzeHBZODUyS20yNnpuWHR0N2xPRHFPWHN4QlA3QzNUM1BONlRJakJfdGpTOWYybHU2ZTBfM29JamNOc096OWgzd0FRa01GN1BWbzNraw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-06-12T06:47:31.745Z",
-      "pushedAt": "2026-06-12T06:47:31.745Z"
-    },
-    {
-      "id": "f23c018f811f925f",
-      "title": "Oil prices fall on hopes of U.S.-Iran deal despite Tehran pushback",
-      "url": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-06-12T02:01:27.702Z",
-      "pushedAt": "2026-06-12T02:01:27.702Z"
-    },
-    {
-      "id": "89e338eede010b58",
-      "title": "China-based operatives used ChatGPT to shape AI data centers and tariff debates - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVlQ1QlRZUV9LR1BDcWZHZTZsOTQxZFRHMGpnVThNMi1GYVZhWkxKanlSeFdSWDJfQy1YWlhJNDdhN1E4R3FGajUtRjdNUVJnTEl4NnEwM1I0SW5kbl9pTDJ1aFVuUnZYbXRhUjZtb3pXNVNNYUxqQ2d5OEVZeldVbDNB?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-06-11T23:49:48.768Z",
-      "pushedAt": "2026-06-11T23:49:48.768Z"
-    },
-    {
-      "id": "0227d8fa246c15f7",
-      "title": "Trump picks top Manhattan federal prosecutor as next intelligence chief - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWEttS2kwQmdZTkNqZVpiSG9fM3JCQjFMdjBRRS1IREJOSl9wMW40RFhpVXcwVkNKeUpkSzdZOTkxYzc0TzJPaU5US3dQWFV5RHlJSGJacE1faGJUUDFkZng0SllrOTVZYW1GbEtiOFM3MmxiQ1k0dWtUamIzMVM5QmxrVmFqbUhNcHN6NXBacmJ0TmROUS0tMTdWZ0p3MlhRZ0J3bk41R2pMTkc4NWRBRA?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + cut"
-      ],
-      "firstSeen": "2026-06-11T22:07:30.806Z",
-      "pushedAt": "2026-06-11T22:07:30.806Z"
     }
   ],
-  "updatedAt": "2026-06-12T20:32:40.087Z"
+  "updatedAt": "2026-06-13T11:27:41.409Z"
 }
