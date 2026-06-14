@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "f6b4e78e08c2de28",
+      "title": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHJ5S3lQbnk2ck1TeGlCeGh2V0k3cXJQSnVwLVNSUEM3cDNIcUVFazFZazBSLW1oQzJQWHJldGo4RHp3b2NaQXQ2OUxJTjdPTVNjZEZQdUxPT1ZfaGVLWWt1MmtQa0taaUNfZnIzUVRqS3R4WFp2UUM1dFFUZlNkY3ZtZ2xOaDE3UW1uQVpFcGQ4MThHUGs4X3JETmg3SWRWdmEwa28zazRGR0dJX0VWMDBJWXd3Z2Izd19OLUNDb01OejE2?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + nuclear"
+      ],
+      "firstSeen": "2026-06-14T12:15:44.731Z",
+      "pushedAt": "2026-06-14T12:15:44.731Z"
+    },
+    {
+      "id": "cce9ddbba0e5bab9",
+      "title": "Israel says military attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwxalcxX1BtRkZ1NmVfWFN1dm9HbVd1RHoxTW5qN2JkN0dWWEhxSFBrdVJuYmJlNFNZdE80ag?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-06-14T12:15:44.890Z",
+      "pushedAt": "2026-06-14T12:15:44.890Z"
+    },
+    {
       "id": "6821b79a5386e942",
       "title": "Canada police investigate whether Toronto police death linked to global terror attacks",
       "url": "https://www.theguardian.com/world/2026/jun/12/canada-police-investigate-toronto-police-death-global-terror-attacks",
@@ -35,19 +59,7 @@
       ],
       "firstSeen": "2026-06-13T13:01:55.121Z",
       "pushedAt": "2026-06-13T13:01:55.121Z"
-    },
-    {
-      "id": "31b2443124810570",
-      "title": "Al Qaeda-linked militants curb their brutality in seized Malian territory - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRk5rWERnU3lkaHJ4WW1jbEl5SHVOUjhoVHBtZ3VKWVhwS1Nnblc4WGtQY3UyUGY5dXVsbnV1ZXFZTC10NUQtdDhKYjU0YVZueWhlMFhVZ1Vnak1US3NfOUllVTZDa2ZuSnNGaHFtdHQ4YUd5bWhzTUU4dkFPM2VsWWdiNU5MVktnYmhuVEZBZC1hOFlZQmd6SV9vdHpHT1VXR0phTExWMUpsRC1GLV9uc2dmOXM1Zw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "seize + territory"
-      ],
-      "firstSeen": "2026-06-13T11:27:41.265Z",
-      "pushedAt": "2026-06-13T11:27:41.265Z"
     }
   ],
-  "updatedAt": "2026-06-13T23:45:51.492Z"
+  "updatedAt": "2026-06-14T12:15:44.987Z"
 }
