@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "607d18750ca2408a",
+      "title": "BREAKING: US, Iran announce ceasefire agreement",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ceasefire agreement"
+      ],
+      "firstSeen": "2026-06-14T23:52:54.651Z",
+      "pushedAt": "2026-06-14T23:52:54.651Z"
+    },
+    {
       "id": "baf95bcfeccb844c",
       "title": "Deal is reached to end Iran war and Trump orders stop to US naval blockade - AP News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZrMms1bUJyekVvUnptMmhBSE9sLUFRT05xSTAyci1SaEdXSUhXTjNLWEt6Ry1qX1k5Z2ROeXZNUkFIYTJsWkFYRzdSWXQ4M294ZHRLcXU2RmJEVzZPNmNwd2ZacWMzVFdJdW5Bb2wybFZpV2g1bTBQY1FaRTBneHgxSVZ2cVkxall4QU9nWQ?oc=5",
@@ -35,19 +47,7 @@
       ],
       "firstSeen": "2026-06-14T12:15:44.890Z",
       "pushedAt": "2026-06-14T12:15:44.890Z"
-    },
-    {
-      "id": "6821b79a5386e942",
-      "title": "Canada police investigate whether Toronto police death linked to global terror attacks",
-      "url": "https://www.theguardian.com/world/2026/jun/12/canada-police-investigate-toronto-police-death-global-terror-attacks",
-      "source": "Guardian",
-      "priority": "P0",
-      "matchedKeywords": [
-        "terror attack"
-      ],
-      "firstSeen": "2026-06-13T23:45:51.247Z",
-      "pushedAt": "2026-06-13T23:45:51.247Z"
     }
   ],
-  "updatedAt": "2026-06-14T22:47:06.194Z"
+  "updatedAt": "2026-06-14T23:52:54.881Z"
 }
