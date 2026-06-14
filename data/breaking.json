@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "baf95bcfeccb844c",
+      "title": "Deal is reached to end Iran war and Trump orders stop to US naval blockade - AP News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZrMms1bUJyekVvUnptMmhBSE9sLUFRT05xSTAyci1SaEdXSUhXTjNLWEt6Ry1qX1k5Z2ROeXZNUkFIYTJsWkFYRzdSWXQ4M294ZHRLcXU2RmJEVzZPNmNwd2ZacWMzVFdJdW5Bb2wybFZpV2g1bTBQY1FaRTBneHgxSVZ2cVkxall4QU9nWQ?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + naval"
+      ],
+      "firstSeen": "2026-06-14T22:47:06.046Z",
+      "pushedAt": "2026-06-14T22:47:06.046Z"
+    },
+    {
       "id": "f6b4e78e08c2de28",
       "title": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHJ5S3lQbnk2ck1TeGlCeGh2V0k3cXJQSnVwLVNSUEM3cDNIcUVFazFZazBSLW1oQzJQWHJldGo4RHp3b2NaQXQ2OUxJTjdPTVNjZEZQdUxPT1ZfaGVLWWt1MmtQa0taaUNfZnIzUVRqS3R4WFp2UUM1dFFUZlNkY3ZtZ2xOaDE3UW1uQVpFcGQ4MThHUGs4X3JETmg3SWRWdmEwa28zazRGR0dJX0VWMDBJWXd3Z2Izd19OLUNDb01OejE2?oc=5",
@@ -35,31 +47,7 @@
       ],
       "firstSeen": "2026-06-13T23:45:51.247Z",
       "pushedAt": "2026-06-13T23:45:51.247Z"
-    },
-    {
-      "id": "e254e35257b5f121",
-      "title": "U.S., China Lower Tariffs for 90 Days - National Association of Manufacturers - NAM",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xeEVlTXEyalVBRnBhYUxGMVBIeU9ua2pmQlV2bTlrV1JvVzdwWlRyMmVVaHNXbUhMaFhrVWNISThIOVcxUGlZZ3Z2S0J3UUdRUDJfSXVqRGYwNVc4aWFkSlRB?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-06-13T22:42:50.792Z",
-      "pushedAt": "2026-06-13T22:42:50.792Z"
-    },
-    {
-      "id": "c51308ffc96a08ec",
-      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "air strikes on"
-      ],
-      "firstSeen": "2026-06-13T13:01:55.121Z",
-      "pushedAt": "2026-06-13T13:01:55.121Z"
     }
   ],
-  "updatedAt": "2026-06-14T12:15:44.987Z"
+  "updatedAt": "2026-06-14T22:47:06.194Z"
 }
