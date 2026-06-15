@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "id": "753f6e40c4e84d54",
+      "title": "SpaceX set to extend rally after record Wall Street debut - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1VnMnhmcTRsNHNuTkNqY2tKZFZzbkoyYnhsdXNoem1WclZSSEszUzJtLXFCQ0NRLURoWl9MZll2a2pFcm5FVHBUdVQzSWZwZ0RPQXBfUkZhaWYybEdxenF6eThrUU4xY3dHWUU5MjJSaVk4RHEwZjkybUNyLVU1RE9rZ0w1dnVtcTdzczFvQWo3eGhoZ1EtaXR0cV9KVmVUdWxFOXhFSGMtZFNRMHZuQw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + record"
+      ],
+      "firstSeen": "2026-06-15T13:33:35.359Z",
+      "pushedAt": "2026-06-15T13:33:35.359Z"
+    },
+    {
+      "id": "aa036e1898549669",
+      "title": "Oil shock 'far from over' as analysts warn of new Middle East risk premium",
+      "url": "https://www.cnbc.com/2026/06/15/oil-will-still-cause-volatility-even-with-us-iran-deal-analysts-.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-06-15T13:33:35.630Z",
+      "pushedAt": "2026-06-15T13:33:35.630Z"
+    },
+    {
+      "id": "610a538d02f86731",
+      "title": "Treasury yields slide as Iran deal drives rethink on Fed interest rate hikes",
+      "url": "https://www.cnbc.com/2026/06/15/treasury-yields-peace-deal-investor-fears-interest-rates.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate",
+        "interest rate + hike"
+      ],
+      "firstSeen": "2026-06-15T13:33:35.848Z",
+      "pushedAt": "2026-06-15T13:33:35.848Z"
+    },
+    {
       "id": "c866d72dc2f9cb20",
       "title": "Trump threatens 100% tariff on French wine over tech tax as G7 meets, NY Post reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTG53Vk1kQ0tvS3lGb3pTemdhMXY5RllBY3BaaHdEa3FqR1hDamhJVEpMcjFlVldJNkcwRlZwZFd4WGxpcm5zTjRvR0FodERRU0VsdTFudkFsalVMclQ2T0xKUG5KOTZ3WnNrVkZCZy1SMlFRUEMwV3YxTVMtQkdiYlc1aHJjU0cyZGtPZlRONnNVbTZBTEtvdXZUUkk3V0RXY1VsOV83eXdROVpBUWp4Vnp1X1pCVnEtSEE?oc=5",
@@ -60,31 +98,7 @@
       ],
       "firstSeen": "2026-06-14T22:47:06.046Z",
       "pushedAt": "2026-06-14T22:47:06.046Z"
-    },
-    {
-      "id": "f6b4e78e08c2de28",
-      "title": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHJ5S3lQbnk2ck1TeGlCeGh2V0k3cXJQSnVwLVNSUEM3cDNIcUVFazFZazBSLW1oQzJQWHJldGo4RHp3b2NaQXQ2OUxJTjdPTVNjZEZQdUxPT1ZfaGVLWWt1MmtQa0taaUNfZnIzUVRqS3R4WFp2UUM1dFFUZlNkY3ZtZ2xOaDE3UW1uQVpFcGQ4MThHUGs4X3JETmg3SWRWdmEwa28zazRGR0dJX0VWMDBJWXd3Z2Izd19OLUNDb01OejE2?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + nuclear"
-      ],
-      "firstSeen": "2026-06-14T12:15:44.731Z",
-      "pushedAt": "2026-06-14T12:15:44.731Z"
-    },
-    {
-      "id": "cce9ddbba0e5bab9",
-      "title": "Israel says military attacks Hezbollah targets in Beirut's southern suburbs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0dtcHdBNDdCYXg2eGVXYTJ5MGlRQ0ZVM1I2UnN3MTlXZEh0eHA5QmJNMGQxMF9fbHFQVnBkMzVNbW1CY003X0l3TFFSX1VrZVBzSl95QVRjZFVkdmZ3VENOR21xM2xLbTdnbHY3ZkNSMkgwTHl5WVJuRXhoNEQwQ29BM1RGNkxab3FIbFAyQ3V0bWwxalcxX1BtRkZ1NmVfWFN1dm9HbVd1RHoxTW5qN2JkN0dWWEhxSFBrdVJuYmJlNFNZdE80ag?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-06-14T12:15:44.890Z",
-      "pushedAt": "2026-06-14T12:15:44.890Z"
     }
   ],
-  "updatedAt": "2026-06-15T07:33:58.419Z"
+  "updatedAt": "2026-06-15T13:33:35.927Z"
 }
