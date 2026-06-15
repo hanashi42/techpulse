@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b53b6e25eb5426cc",
+      "title": "World leaders welcome U.S.-Iran deal as Europe signals sanctions relief, urges Hormuz reopening",
+      "url": "https://www.cnbc.com/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-06-15T02:08:26.684Z",
+      "pushedAt": "2026-06-15T02:08:26.684Z"
+    },
+    {
       "id": "607d18750ca2408a",
       "title": "BREAKING: US, Iran announce ceasefire agreement",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
@@ -49,5 +61,5 @@
       "pushedAt": "2026-06-14T12:15:44.890Z"
     }
   ],
-  "updatedAt": "2026-06-14T23:52:54.881Z"
+  "updatedAt": "2026-06-15T02:08:26.822Z"
 }
