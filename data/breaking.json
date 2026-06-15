@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "c866d72dc2f9cb20",
+      "title": "Trump threatens 100% tariff on French wine over tech tax as G7 meets, NY Post reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTG53Vk1kQ0tvS3lGb3pTemdhMXY5RllBY3BaaHdEa3FqR1hDamhJVEpMcjFlVldJNkcwRlZwZFd4WGxpcm5zTjRvR0FodERRU0VsdTFudkFsalVMclQ2T0xKUG5KOTZ3WnNrVkZCZy1SMlFRUEMwV3YxTVMtQkdiYlc1aHJjU0cyZGtPZlRONnNVbTZBTEtvdXZUUkk3V0RXY1VsOV83eXdROVpBUWp4Vnp1X1pCVnEtSEE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 100%"
+      ],
+      "firstSeen": "2026-06-15T07:33:58.312Z",
+      "pushedAt": "2026-06-15T07:33:58.312Z"
+    },
+    {
+      "id": "4dc5aab1cfabb140",
+      "title": "Oil prices drop and stocks enjoy cautious rally on US-Iran peace progress",
+      "url": "https://news.sky.com/story/oil-prices-drop-and-stocks-enjoy-cautious-rally-on-us-iran-peace-progress-13554196",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock",
+        "oil price + drop"
+      ],
+      "firstSeen": "2026-06-15T07:33:58.376Z",
+      "pushedAt": "2026-06-15T07:33:58.376Z"
+    },
+    {
       "id": "b53b6e25eb5426cc",
       "title": "World leaders welcome U.S.-Iran deal as Europe signals sanctions relief, urges Hormuz reopening",
       "url": "https://www.cnbc.com/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html",
@@ -61,5 +86,5 @@
       "pushedAt": "2026-06-14T12:15:44.890Z"
     }
   ],
-  "updatedAt": "2026-06-15T02:08:26.822Z"
+  "updatedAt": "2026-06-15T07:33:58.419Z"
 }
