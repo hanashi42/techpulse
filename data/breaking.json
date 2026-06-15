@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "377838d7e8fd2d0d",
+      "title": "Oil prices fall about 5% as Iran deal is set to open Hormuz Strait",
+      "url": "https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-06-15T21:18:49.277Z",
+      "pushedAt": "2026-06-15T21:18:49.277Z"
+    },
+    {
+      "id": "185806de7ce11ffe",
+      "title": "Wall Street's fear gauge tumbles as traders bid up SpaceX shares",
+      "url": "https://www.cnbc.com/2026/06/15/wall-streets-fear-gauge-tumbles-as-traders-bid-up-spacex-shares.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + shares"
+      ],
+      "firstSeen": "2026-06-15T21:18:49.531Z",
+      "pushedAt": "2026-06-15T21:18:49.531Z"
+    },
+    {
+      "id": "ef564a37c1f144ee",
+      "title": "U.S. Supreme Court Declines Review of China Section 301 Tariff Challenge - thompsonhinesmartrade.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTlKOFdpWDd0czk3ZkZ1Y1JXZmNJSkxFVFVsZWw2R1BHT1g4b1JqODBaV200aGRyMTNFbm5RRTNKcm15UndmSUxvQU9HWUJrOHJDa0hXT2pGMTQtRW9iUGthTDgwLVNJenM0Y1UweTNtWGVSQ2dnVi1XSENNVWRSSWtUdXVDUVZlaURIQkktamFyWW5VU1ZoR0NITzF5WjBhUnlRM2NVVVo1THhyTzBkaXJaM0pHZ25pQXc?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-06-15T21:18:49.752Z",
+      "pushedAt": "2026-06-15T21:18:49.752Z"
+    },
+    {
       "id": "753f6e40c4e84d54",
       "title": "SpaceX set to extend rally after record Wall Street debut - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1VnMnhmcTRsNHNuTkNqY2tKZFZzbkoyYnhsdXNoem1WclZSSEszUzJtLXFCQ0NRLURoWl9MZll2a2pFcm5FVHBUdVQzSWZwZ0RPQXBfUkZhaWYybEdxenF6eThrUU4xY3dHWUU5MjJSaVk4RHEwZjkybUNyLVU1RE9rZ0w1dnVtcTdzczFvQWo3eGhoZ1EtaXR0cV9KVmVUdWxFOXhFSGMtZFNRMHZuQw?oc=5",
@@ -100,5 +136,5 @@
       "pushedAt": "2026-06-14T22:47:06.046Z"
     }
   ],
-  "updatedAt": "2026-06-15T13:33:35.927Z"
+  "updatedAt": "2026-06-15T21:18:49.834Z"
 }
