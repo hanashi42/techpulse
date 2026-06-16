@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "68b2ad2fa911dac4",
+      "title": "Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold",
+      "url": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + highest"
+      ],
+      "firstSeen": "2026-06-16T07:06:30.757Z",
+      "pushedAt": "2026-06-16T07:06:30.757Z"
+    },
+    {
       "id": "377838d7e8fd2d0d",
       "title": "Oil prices fall about 5% as Iran deal is set to open Hormuz Strait",
       "url": "https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html",
@@ -98,43 +110,7 @@
       ],
       "firstSeen": "2026-06-15T07:33:58.376Z",
       "pushedAt": "2026-06-15T07:33:58.376Z"
-    },
-    {
-      "id": "b53b6e25eb5426cc",
-      "title": "World leaders welcome U.S.-Iran deal as Europe signals sanctions relief, urges Hormuz reopening",
-      "url": "https://www.cnbc.com/2026/06/15/europe-japan-countries-welcome-us-iran-deal-strait-of-hormuz-reopening.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-06-15T02:08:26.684Z",
-      "pushedAt": "2026-06-15T02:08:26.684Z"
-    },
-    {
-      "id": "607d18750ca2408a",
-      "title": "BREAKING: US, Iran announce ceasefire agreement",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/breaking-us-iran-announce-ceasefire-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "ceasefire agreement"
-      ],
-      "firstSeen": "2026-06-14T23:52:54.651Z",
-      "pushedAt": "2026-06-14T23:52:54.651Z"
-    },
-    {
-      "id": "baf95bcfeccb844c",
-      "title": "Deal is reached to end Iran war and Trump orders stop to US naval blockade - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdVZrMms1bUJyekVvUnptMmhBSE9sLUFRT05xSTAyci1SaEdXSUhXTjNLWEt6Ry1qX1k5Z2ROeXZNUkFIYTJsWkFYRzdSWXQ4M294ZHRLcXU2RmJEVzZPNmNwd2ZacWMzVFdJdW5Bb2wybFZpV2g1bTBQY1FaRTBneHgxSVZ2cVkxall4QU9nWQ?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval"
-      ],
-      "firstSeen": "2026-06-14T22:47:06.046Z",
-      "pushedAt": "2026-06-14T22:47:06.046Z"
     }
   ],
-  "updatedAt": "2026-06-15T21:18:49.834Z"
+  "updatedAt": "2026-06-16T07:06:30.859Z"
 }
