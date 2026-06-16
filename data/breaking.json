@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "4df2108d43fcdb35",
+      "title": "Odds that a proposed billionaire tax appears on California ballots plunge on prediction markets",
+      "url": "https://www.cnbc.com/2026/06/16/california-billionaire-tax-prediction-markets-show-slide-in-ballot-measure-odds.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + market"
+      ],
+      "firstSeen": "2026-06-16T20:20:45.034Z",
+      "pushedAt": "2026-06-16T20:20:45.034Z"
+    },
+    {
+      "id": "23761e172c138fd6",
+      "title": "Report: Tariffs with China costing Indiana farmers millions - WTHR",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMlpSZzhjMXFnLTJZMVE1M2FTVjFoYjMzcklkVDg0N0luSzhIdzRLbDVIOVZpVF9rQl9ZYlBSSmtzdDh0eXdzajd0cjZIczFZNkgzQldmakRoYTk5UjlmMVozQXhxSXdKTjZYR19oVG5rSlBUZWxMbFQ4OUpMWGRqekRISnFkTmZtODFSUEtzTEdLZE9TLUl0bVhZMHo3OW5KX01ycXpRUFFpbFhuaW4zWEdQWkMwd1VLcUJONDJxZGJXM18tUDFBVjFEUENUMEtZQ2o2VmFhUDk1bkpQcnozbw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-06-16T20:20:45.265Z",
+      "pushedAt": "2026-06-16T20:20:45.265Z"
+    },
+    {
       "id": "aed6f5dfc2415c6a",
       "title": "One dead, 4 injured after magnitude 6.3 earthquake in China's Qinghai - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHpDNndYUmFqakNFZXB6RFBCdGF0LXA2WjJBTHRRS1dhX2pfUl9hNHU0bEUxM0gxMXk2M2xkTUxfOWhsZzBsbzBJZ0Y0X0h2Y081ZVFpeWVjNV9udnNWTFdSN2ZadnNsTXZiOTdHcHYtRW1UNGVpeWtkaUF1WjlhYU1mMWhWS3JVa0U5MWpTcjNXLVE1ekRQcVdyNmFPbTVRemZucGYxdUNERVdxc1BqUTFR?oc=5",
@@ -71,45 +95,7 @@
       ],
       "firstSeen": "2026-06-15T21:18:49.752Z",
       "pushedAt": "2026-06-15T21:18:49.752Z"
-    },
-    {
-      "id": "753f6e40c4e84d54",
-      "title": "SpaceX set to extend rally after record Wall Street debut - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1VnMnhmcTRsNHNuTkNqY2tKZFZzbkoyYnhsdXNoem1WclZSSEszUzJtLXFCQ0NRLURoWl9MZll2a2pFcm5FVHBUdVQzSWZwZ0RPQXBfUkZhaWYybEdxenF6eThrUU4xY3dHWUU5MjJSaVk4RHEwZjkybUNyLVU1RE9rZ0w1dnVtcTdzczFvQWo3eGhoZ1EtaXR0cV9KVmVUdWxFOXhFSGMtZFNRMHZuQw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + record"
-      ],
-      "firstSeen": "2026-06-15T13:33:35.359Z",
-      "pushedAt": "2026-06-15T13:33:35.359Z"
-    },
-    {
-      "id": "aa036e1898549669",
-      "title": "Oil shock 'far from over' as analysts warn of new Middle East risk premium",
-      "url": "https://www.cnbc.com/2026/06/15/oil-will-still-cause-volatility-even-with-us-iran-deal-analysts-.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-06-15T13:33:35.630Z",
-      "pushedAt": "2026-06-15T13:33:35.630Z"
-    },
-    {
-      "id": "610a538d02f86731",
-      "title": "Treasury yields slide as Iran deal drives rethink on Fed interest rate hikes",
-      "url": "https://www.cnbc.com/2026/06/15/treasury-yields-peace-deal-investor-fears-interest-rates.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate",
-        "interest rate + hike"
-      ],
-      "firstSeen": "2026-06-15T13:33:35.848Z",
-      "pushedAt": "2026-06-15T13:33:35.848Z"
     }
   ],
-  "updatedAt": "2026-06-16T12:18:56.657Z"
+  "updatedAt": "2026-06-16T20:20:45.440Z"
 }
