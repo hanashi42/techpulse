@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "aed6f5dfc2415c6a",
+      "title": "One dead, 4 injured after magnitude 6.3 earthquake in China's Qinghai - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHpDNndYUmFqakNFZXB6RFBCdGF0LXA2WjJBTHRRS1dhX2pfUl9hNHU0bEUxM0gxMXk2M2xkTUxfOWhsZzBsbzBJZ0Y0X0h2Y081ZVFpeWVjNV9udnNWTFdSN2ZadnNsTXZiOTdHcHYtRW1UNGVpeWtkaUF1WjlhYU1mMWhWS3JVa0U5MWpTcjNXLVE1ekRQcVdyNmFPbTVRemZucGYxdUNERVdxc1BqUTFR?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-06-16T12:18:56.233Z",
+      "pushedAt": "2026-06-16T12:18:56.234Z"
+    },
+    {
+      "id": "00e5fd73d037ddcb",
+      "title": "Kevin Warsh's Fed is not expected to make any change to rates for a while, according to CNBC Fed Survey",
+      "url": "https://www.cnbc.com/2026/06/16/kevin-warshs-fed-is-not-expected-to-make-any-change-to-rates-for-a-while-according-to-cnbc-fed-survey.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-06-16T12:18:56.458Z",
+      "pushedAt": "2026-06-16T12:18:56.458Z"
+    },
+    {
       "id": "68b2ad2fa911dac4",
       "title": "Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold",
       "url": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html",
@@ -85,32 +109,7 @@
       ],
       "firstSeen": "2026-06-15T13:33:35.848Z",
       "pushedAt": "2026-06-15T13:33:35.848Z"
-    },
-    {
-      "id": "c866d72dc2f9cb20",
-      "title": "Trump threatens 100% tariff on French wine over tech tax as G7 meets, NY Post reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTG53Vk1kQ0tvS3lGb3pTemdhMXY5RllBY3BaaHdEa3FqR1hDamhJVEpMcjFlVldJNkcwRlZwZFd4WGxpcm5zTjRvR0FodERRU0VsdTFudkFsalVMclQ2T0xKUG5KOTZ3WnNrVkZCZy1SMlFRUEMwV3YxTVMtQkdiYlc1aHJjU0cyZGtPZlRONnNVbTZBTEtvdXZUUkk3V0RXY1VsOV83eXdROVpBUWp4Vnp1X1pCVnEtSEE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 100%"
-      ],
-      "firstSeen": "2026-06-15T07:33:58.312Z",
-      "pushedAt": "2026-06-15T07:33:58.312Z"
-    },
-    {
-      "id": "4dc5aab1cfabb140",
-      "title": "Oil prices drop and stocks enjoy cautious rally on US-Iran peace progress",
-      "url": "https://news.sky.com/story/oil-prices-drop-and-stocks-enjoy-cautious-rally-on-us-iran-peace-progress-13554196",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock",
-        "oil price + drop"
-      ],
-      "firstSeen": "2026-06-15T07:33:58.376Z",
-      "pushedAt": "2026-06-15T07:33:58.376Z"
     }
   ],
-  "updatedAt": "2026-06-16T07:06:30.859Z"
+  "updatedAt": "2026-06-16T12:18:56.657Z"
 }
