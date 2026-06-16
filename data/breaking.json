@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "e2cede01e2e9201f",
+      "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
+      "url": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate",
+        "interest rate + hold"
+      ],
+      "firstSeen": "2026-06-16T22:23:30.164Z",
+      "pushedAt": "2026-06-16T22:23:30.164Z"
+    },
+    {
       "id": "4df2108d43fcdb35",
       "title": "Odds that a proposed billionaire tax appears on California ballots plunge on prediction markets",
       "url": "https://www.cnbc.com/2026/06/16/california-billionaire-tax-prediction-markets-show-slide-in-ballot-measure-odds.html",
@@ -59,43 +72,7 @@
       ],
       "firstSeen": "2026-06-16T07:06:30.757Z",
       "pushedAt": "2026-06-16T07:06:30.757Z"
-    },
-    {
-      "id": "377838d7e8fd2d0d",
-      "title": "Oil prices fall about 5% as Iran deal is set to open Hormuz Strait",
-      "url": "https://www.cnbc.com/2026/06/14/oil-price-iran-war-strait-hormuz-peace-deal.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-06-15T21:18:49.277Z",
-      "pushedAt": "2026-06-15T21:18:49.277Z"
-    },
-    {
-      "id": "185806de7ce11ffe",
-      "title": "Wall Street's fear gauge tumbles as traders bid up SpaceX shares",
-      "url": "https://www.cnbc.com/2026/06/15/wall-streets-fear-gauge-tumbles-as-traders-bid-up-spacex-shares.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + shares"
-      ],
-      "firstSeen": "2026-06-15T21:18:49.531Z",
-      "pushedAt": "2026-06-15T21:18:49.531Z"
-    },
-    {
-      "id": "ef564a37c1f144ee",
-      "title": "U.S. Supreme Court Declines Review of China Section 301 Tariff Challenge - thompsonhinesmartrade.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTlKOFdpWDd0czk3ZkZ1Y1JXZmNJSkxFVFVsZWw2R1BHT1g4b1JqODBaV200aGRyMTNFbm5RRTNKcm15UndmSUxvQU9HWUJrOHJDa0hXT2pGMTQtRW9iUGthTDgwLVNJenM0Y1UweTNtWGVSQ2dnVi1XSENNVWRSSWtUdXVDUVZlaURIQkktamFyWW5VU1ZoR0NITzF5WjBhUnlRM2NVVVo1THhyTzBkaXJaM0pHZ25pQXc?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-06-15T21:18:49.752Z",
-      "pushedAt": "2026-06-15T21:18:49.752Z"
     }
   ],
-  "updatedAt": "2026-06-16T20:20:45.440Z"
+  "updatedAt": "2026-06-16T22:23:30.288Z"
 }
