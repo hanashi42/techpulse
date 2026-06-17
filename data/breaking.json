@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "08e76f6ed06f3898",
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + oil"
+      ],
+      "firstSeen": "2026-06-17T15:23:08.990Z",
+      "pushedAt": "2026-06-17T15:23:08.990Z"
+    },
+    {
+      "id": "73cb1a1b84789605",
+      "title": "Israeli air strikes on Lebanon continue despite US-Iran deal",
+      "url": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "air strikes on"
+      ],
+      "firstSeen": "2026-06-17T15:23:09.172Z",
+      "pushedAt": "2026-06-17T15:23:09.172Z"
+    },
+    {
+      "id": "56e3efcb6dd79954",
+      "title": "Strait of Hormuz threat level downgraded after Iran deal, says U.S.-led maritime security group",
+      "url": "https://www.cnbc.com/2026/06/17/iran-deal-strait-hormuz-threat-jmic-ukmto.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-06-17T15:23:09.344Z",
+      "pushedAt": "2026-06-17T15:23:09.344Z"
+    },
+    {
+      "id": "d865c171f89c7cf6",
+      "title": "SpaceX stock sinks 5%, losing momentum after a multiday rally",
+      "url": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-06-17T15:23:09.383Z",
+      "pushedAt": "2026-06-17T15:23:09.383Z"
+    },
+    {
       "id": "06a59752614a0506",
       "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
       "url": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
@@ -109,31 +157,7 @@
       ],
       "firstSeen": "2026-06-16T20:20:45.265Z",
       "pushedAt": "2026-06-16T20:20:45.265Z"
-    },
-    {
-      "id": "aed6f5dfc2415c6a",
-      "title": "One dead, 4 injured after magnitude 6.3 earthquake in China's Qinghai - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHpDNndYUmFqakNFZXB6RFBCdGF0LXA2WjJBTHRRS1dhX2pfUl9hNHU0bEUxM0gxMXk2M2xkTUxfOWhsZzBsbzBJZ0Y0X0h2Y081ZVFpeWVjNV9udnNWTFdSN2ZadnNsTXZiOTdHcHYtRW1UNGVpeWtkaUF1WjlhYU1mMWhWS3JVa0U5MWpTcjNXLVE1ekRQcVdyNmFPbTVRemZucGYxdUNERVdxc1BqUTFR?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-06-16T12:18:56.233Z",
-      "pushedAt": "2026-06-16T12:18:56.234Z"
-    },
-    {
-      "id": "00e5fd73d037ddcb",
-      "title": "Kevin Warsh's Fed is not expected to make any change to rates for a while, according to CNBC Fed Survey",
-      "url": "https://www.cnbc.com/2026/06/16/kevin-warshs-fed-is-not-expected-to-make-any-change-to-rates-for-a-while-according-to-cnbc-fed-survey.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-16T12:18:56.458Z",
-      "pushedAt": "2026-06-16T12:18:56.458Z"
     }
   ],
-  "updatedAt": "2026-06-17T11:59:01.314Z"
+  "updatedAt": "2026-06-17T15:23:09.431Z"
 }
