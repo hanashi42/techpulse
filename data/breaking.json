@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f5f1bbc760cdfaf3",
+      "title": "Bystanders smash windows of private jet to rescue passengers after crash",
+      "url": "https://www.bbc.com/news/articles/cd7wv4144yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crash + dow"
+      ],
+      "firstSeen": "2026-06-17T18:00:11.244Z",
+      "pushedAt": "2026-06-17T18:00:11.244Z"
+    },
+    {
       "id": "08e76f6ed06f3898",
       "title": "Iran sends tankers loaded with oil past US military blockade",
       "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
@@ -159,5 +171,5 @@
       "pushedAt": "2026-06-16T20:20:45.265Z"
     }
   ],
-  "updatedAt": "2026-06-17T15:23:09.431Z"
+  "updatedAt": "2026-06-17T18:00:12.128Z"
 }
