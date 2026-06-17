@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "14b3b53e7cdb7036",
+      "title": "Russia to import gasoline by sea as shortage looms, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTk2dUxGSkc5YkZnMDk1VUo4b1A1WXJpV0RVZ1NJdG1uMFdrVHFoZ0dFOGY3eUNVa3lGSjMzZjQ1OEI5ZXQ0OVd3TFR1bGlXOFh5X2VRZl9ubl91T2hnbWJ3Qi12NFFfS19WVzNkOWk0cHVfdjZwOERBMkUxMVp4bDJkRV9UcWpQQlg2NG84TnZUZ0NqRVFaMkJMYm94czl5cEhUUU9RS19PUUdf?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + gas"
+      ],
+      "firstSeen": "2026-06-17T20:12:57.242Z",
+      "pushedAt": "2026-06-17T20:12:57.242Z"
+    },
+    {
+      "id": "ab02d26fd24aaeff",
+      "title": "US Federal Reserve holds rates steady under new chair Warsh",
+      "url": "https://www.aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-06-17T20:12:57.474Z",
+      "pushedAt": "2026-06-17T20:12:57.474Z"
+    },
+    {
       "id": "f5f1bbc760cdfaf3",
       "title": "Bystanders smash windows of private jet to rescue passengers after crash",
       "url": "https://www.bbc.com/news/articles/cd7wv4144yvo?at_medium=RSS&at_campaign=rss",
@@ -171,5 +195,5 @@
       "pushedAt": "2026-06-16T20:20:45.265Z"
     }
   ],
-  "updatedAt": "2026-06-17T18:00:12.128Z"
+  "updatedAt": "2026-06-17T20:12:57.660Z"
 }
