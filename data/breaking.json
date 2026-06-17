@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "5f40a02c589a27d3",
+      "title": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckhNTFdNSlJ2WjJYeVBYUVd4RDhZRTV6Wk9IRHRIX3d2M19ZN1M1OEhPcWhmdnhqb1FtLUdQdkJjRmN5MkRTZG90Zk9tSDBRbC1SZmg1b3VNS01tYWJIQnJtTDRTbk0wR0ktUUJlQzFUbXpDX3g4R19YVDV3eHFFMmNaTjh4NHp2RXE5UmwwN2lYVlVuNW5WTnBSbXppc1E?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-06-17T07:24:01.400Z",
+      "pushedAt": "2026-06-17T07:24:01.400Z"
+    },
+    {
+      "id": "9ab693a9120ef735",
+      "title": "Food shortages spark scuffles outside supermarket in Bolivia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/food-shortages-spark-scuffles-outside-supermarket-in-bolivia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + food"
+      ],
+      "firstSeen": "2026-06-17T07:24:01.668Z",
+      "pushedAt": "2026-06-17T07:24:01.668Z"
+    },
+    {
+      "id": "1413da0db24fe315",
+      "title": "Three Iranian tankers exit U.S. blockade for first time in months as shipowners eye Hormuz in 'wary disbelief'",
+      "url": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + hormuz"
+      ],
+      "firstSeen": "2026-06-17T07:24:01.954Z",
+      "pushedAt": "2026-06-17T07:24:01.954Z"
+    },
+    {
       "id": "e2cede01e2e9201f",
       "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
       "url": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
@@ -60,19 +96,7 @@
       ],
       "firstSeen": "2026-06-16T12:18:56.458Z",
       "pushedAt": "2026-06-16T12:18:56.458Z"
-    },
-    {
-      "id": "68b2ad2fa911dac4",
-      "title": "Bank of Japan hikes rates to 1%, highest since 1995, as yen and inflation worries take hold",
-      "url": "https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + highest"
-      ],
-      "firstSeen": "2026-06-16T07:06:30.757Z",
-      "pushedAt": "2026-06-16T07:06:30.757Z"
     }
   ],
-  "updatedAt": "2026-06-16T22:23:30.288Z"
+  "updatedAt": "2026-06-17T07:24:02.136Z"
 }
