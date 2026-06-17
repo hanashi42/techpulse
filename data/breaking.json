@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "06a59752614a0506",
+      "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
+      "url": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-06-17T11:59:01.006Z",
+      "pushedAt": "2026-06-17T11:59:01.006Z"
+    },
+    {
+      "id": "6da97f0132447ff1",
+      "title": "Trump says U.S. will 'go right back to dropping bombs' if he doesn't like Iran deal",
+      "url": "https://www.cnbc.com/2026/06/17/trump-us-iran-deal-g7.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-06-17T11:59:01.166Z",
+      "pushedAt": "2026-06-17T11:59:01.166Z"
+    },
+    {
+      "id": "ff43f776cc64f253",
+      "title": "Treasury yields inch higher as investors await Fed interest rates decision",
+      "url": "https://www.cnbc.com/2026/06/17/treasury-yields-investors-await-warsh-fed-decision.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate",
+        "interest rate + decision"
+      ],
+      "firstSeen": "2026-06-17T11:59:01.274Z",
+      "pushedAt": "2026-06-17T11:59:01.274Z"
+    },
+    {
       "id": "5f40a02c589a27d3",
       "title": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine - AP News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckhNTFdNSlJ2WjJYeVBYUVd4RDhZRTV6Wk9IRHRIX3d2M19ZN1M1OEhPcWhmdnhqb1FtLUdQdkJjRmN5MkRTZG90Zk9tSDBRbC1SZmg1b3VNS01tYWJIQnJtTDRTbk0wR0ktUUJlQzFUbXpDX3g4R19YVDV3eHFFMmNaTjh4NHp2RXE5UmwwN2lYVlVuNW5WTnBSbXppc1E?oc=5",
@@ -98,5 +135,5 @@
       "pushedAt": "2026-06-16T12:18:56.458Z"
     }
   ],
-  "updatedAt": "2026-06-17T07:24:02.136Z"
+  "updatedAt": "2026-06-17T11:59:01.314Z"
 }
