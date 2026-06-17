@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "9d0aa804df89ee84",
+      "title": "Apple to raise prices due to memory chip shortage, CEO Cook tells WSJ - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0NabFQwM1E1bmJKQXlqYVQ5QTJaSFFVd2Nja3FaZE0xNWFzSEpxRF9BR21TMHZSU0lFMkpveXJrTU1Vc3RPLWMtbWNhSjY0THNLTTd2YThHNlprM2x2SERhYkh4UGVxdkJaRmMyemloVFZSMTdqaEt2R2hSalhqM1RtblVGcnJITy1RRVlYSjdWTHF3RC1ZZmZTYnlPaE9NamtQbg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + chip"
+      ],
+      "firstSeen": "2026-06-17T23:50:25.483Z",
+      "pushedAt": "2026-06-17T23:50:25.483Z"
+    },
+    {
+      "id": "9d0c1cc094442d2b",
+      "title": "Nearly half of Fed policymakers see a 2026 rate hike in the cards - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3RGdFdxNnpXLVpLTlkxemJqLUtGWTdweGp6YlNfUWw1M3pQb25JUDc4ZFZKYkR4MnkzSWpLY29sLWRuTFgyOS1pRmdJVE1BUVIycVJKQ3pnNU1DdUN3VThGT08takJiLWhxSGlWb3RCU3ptODRadTNRTXNPZFVETzhUWE9PdkFBNFhmWm9kcnNLS3BMTm5OUTl2U0dsZTg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-06-17T23:50:25.697Z",
+      "pushedAt": "2026-06-17T23:50:25.697Z"
+    },
+    {
       "id": "14b3b53e7cdb7036",
       "title": "Russia to import gasoline by sea as shortage looms, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTk2dUxGSkc5YkZnMDk1VUo4b1A1WXJpV0RVZ1NJdG1uMFdrVHFoZ0dFOGY3eUNVa3lGSjMzZjQ1OEI5ZXQ0OVd3TFR1bGlXOFh5X2VRZl9ubl91T2hnbWJ3Qi12NFFfS19WVzNkOWk0cHVfdjZwOERBMkUxMVp4bDJkRV9UcWpQQlg2NG84TnZUZ0NqRVFaMkJMYm94czl5cEhUUU9RS19PUUdf?oc=5",
@@ -156,44 +181,7 @@
       ],
       "firstSeen": "2026-06-17T07:24:01.954Z",
       "pushedAt": "2026-06-17T07:24:01.954Z"
-    },
-    {
-      "id": "e2cede01e2e9201f",
-      "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
-      "url": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate",
-        "interest rate + hold"
-      ],
-      "firstSeen": "2026-06-16T22:23:30.164Z",
-      "pushedAt": "2026-06-16T22:23:30.164Z"
-    },
-    {
-      "id": "4df2108d43fcdb35",
-      "title": "Odds that a proposed billionaire tax appears on California ballots plunge on prediction markets",
-      "url": "https://www.cnbc.com/2026/06/16/california-billionaire-tax-prediction-markets-show-slide-in-ballot-measure-odds.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + market"
-      ],
-      "firstSeen": "2026-06-16T20:20:45.034Z",
-      "pushedAt": "2026-06-16T20:20:45.034Z"
-    },
-    {
-      "id": "23761e172c138fd6",
-      "title": "Report: Tariffs with China costing Indiana farmers millions - WTHR",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMlpSZzhjMXFnLTJZMVE1M2FTVjFoYjMzcklkVDg0N0luSzhIdzRLbDVIOVZpVF9rQl9ZYlBSSmtzdDh0eXdzajd0cjZIczFZNkgzQldmakRoYTk5UjlmMVozQXhxSXdKTjZYR19oVG5rSlBUZWxMbFQ4OUpMWGRqekRISnFkTmZtODFSUEtzTEdLZE9TLUl0bVhZMHo3OW5KX01ycXpRUFFpbFhuaW4zWEdQWkMwd1VLcUJONDJxZGJXM18tUDFBVjFEUENUMEtZQ2o2VmFhUDk1bkpQcnozbw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-06-16T20:20:45.265Z",
-      "pushedAt": "2026-06-16T20:20:45.265Z"
     }
   ],
-  "updatedAt": "2026-06-17T20:12:57.660Z"
+  "updatedAt": "2026-06-17T23:50:25.903Z"
 }
