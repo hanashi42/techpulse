@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "dcb0091c494ad1ee",
+      "title": "Oil down 2% after US, Iran sign ceasefire agreement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ceasefire agreement"
+      ],
+      "firstSeen": "2026-06-18T07:01:23.615Z",
+      "pushedAt": "2026-06-18T07:01:23.615Z"
+    },
+    {
+      "id": "fda95f16df76f252",
+      "title": "U.S.-Iran deal sparks record highs for Asian stocks, drags on oil - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWc5blRuNGVXLWNEeGRWUHBJTi1tNG1oR2wzR3R0RXY1dWdVS3JVMmRRSlI0NEgwZUpVNTNLdUphd1Q4OGpXSmtSc0lwVmNONzFpYWZFVG05OFQ4Y1JtaVAyN0lCblhSVEUwZ2RDTUx4eTFzWl9SR1NVT1RvTGxwSTg0dw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "record high + oil"
+      ],
+      "firstSeen": "2026-06-18T07:01:23.735Z",
+      "pushedAt": "2026-06-18T07:01:23.735Z"
+    },
+    {
       "id": "230e091fefc93923",
       "title": "Instant View: Fed holds steady in Warsh's debut, but hawkish shift fuels bond-market rout - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXdKWGRzWFlvOXVCQWxpMnZtNk1PcVBFU3BGbFZNaS1keXY1NGRGY2Y4blE4RGMzUXJTd0hSbS1kNllkWjBwLWNjenQ0VWhYVVcyTy04SjhkZ2lWbkstX1JOQ1F3UV8wMVQtMENxU01TbEdmQXBJanl3Q2ZZYjBCeVZ0ZnJIdTJJQkkyamJaWVI5c19VTTJIaUExeWsxb3dHUnl4M0h2YWg3Zw?oc=5",
@@ -219,5 +243,5 @@
       "pushedAt": "2026-06-17T07:24:01.954Z"
     }
   ],
-  "updatedAt": "2026-06-18T02:04:45.792Z"
+  "updatedAt": "2026-06-18T07:01:23.797Z"
 }
