@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "0c6f0f10759c1b08",
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-18T17:32:31.635Z",
+      "pushedAt": "2026-06-18T17:32:31.635Z"
+    },
+    {
+      "id": "3d8137bc274d8615",
+      "title": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/more-than-1000-killed-in-israel-attacks-on-gaza-since-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-18T17:32:31.910Z",
+      "pushedAt": "2026-06-18T17:32:31.910Z"
+    },
+    {
+      "id": "31347bed611225e3",
+      "title": "Oil prices fall after Vance says more than 12 million barrels exit Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/06/18/oil-prices-today-wti-brent.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + barrel"
+      ],
+      "firstSeen": "2026-06-18T17:32:32.166Z",
+      "pushedAt": "2026-06-18T17:32:32.166Z"
+    },
+    {
+      "id": "c7d184f08e052201",
+      "title": "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens",
+      "url": "https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "opec + supply"
+      ],
+      "firstSeen": "2026-06-18T17:32:32.250Z",
+      "pushedAt": "2026-06-18T17:32:32.250Z"
+    },
+    {
       "id": "07cdb15a8c942ac4",
       "title": "Rial rebounds and stocks soar, but Iranians still grapple with high prices",
       "url": "https://www.aljazeera.com/economy/2026/6/18/rial-rebounds-and-stocks-soar-but-iranians-still-grapple-with-high-prices?traffic_source=rss",
@@ -168,55 +216,7 @@
       ],
       "firstSeen": "2026-06-17T18:00:11.244Z",
       "pushedAt": "2026-06-17T18:00:11.244Z"
-    },
-    {
-      "id": "08e76f6ed06f3898",
-      "title": "Iran sends tankers loaded with oil past US military blockade",
-      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + oil"
-      ],
-      "firstSeen": "2026-06-17T15:23:08.990Z",
-      "pushedAt": "2026-06-17T15:23:08.990Z"
-    },
-    {
-      "id": "73cb1a1b84789605",
-      "title": "Israeli air strikes on Lebanon continue despite US-Iran deal",
-      "url": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "air strikes on"
-      ],
-      "firstSeen": "2026-06-17T15:23:09.172Z",
-      "pushedAt": "2026-06-17T15:23:09.172Z"
-    },
-    {
-      "id": "56e3efcb6dd79954",
-      "title": "Strait of Hormuz threat level downgraded after Iran deal, says U.S.-led maritime security group",
-      "url": "https://www.cnbc.com/2026/06/17/iran-deal-strait-hormuz-threat-jmic-ukmto.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-06-17T15:23:09.344Z",
-      "pushedAt": "2026-06-17T15:23:09.344Z"
-    },
-    {
-      "id": "d865c171f89c7cf6",
-      "title": "SpaceX stock sinks 5%, losing momentum after a multiday rally",
-      "url": "https://www.cnbc.com/2026/06/17/spacex-stock-elon-musk-market-cap.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-06-17T15:23:09.383Z",
-      "pushedAt": "2026-06-17T15:23:09.383Z"
     }
   ],
-  "updatedAt": "2026-06-18T14:19:33.947Z"
+  "updatedAt": "2026-06-18T17:32:32.346Z"
 }
