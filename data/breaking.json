@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2dc6470a885165ed",
+      "title": "Explosions, sustained gunfire at airport in Niger capital, witnesses say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmEyQ0xRaVlYTklEOHdFNWFKM05LTk1QMDV5b3FWQWNNMmtBR2lMVVZvSVk0d1lXaFU5bzdlZE55bE5nOHNNdHlQV0ZJN3pkWElJRk9sNUVoVzRfZ1Q2dERISHVpWThvYjVYYlMxZmJfVG5IZDVXWEcwYjBTOS1DUW5wQVFLRzM3S2pUZWpxRXdPOVplZUoxSy1uOTZhSnZqa1RHUUtPb09BTEpyQThESGx6WQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + airport"
+      ],
+      "firstSeen": "2026-06-18T11:10:43.602Z",
+      "pushedAt": "2026-06-18T11:10:43.602Z"
+    },
+    {
+      "id": "f5c86791d982dd05",
+      "title": "Finland to buy US glide bombs for F-35s, ministry says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQU9XelJmWnZ3aDlYU2lwQmptS0pIZEd2YmZOUjJVclBhd3BBSXc1RDZoclZadHMtRUZtSHlFQ3VEdFJNTjc1ekdfb0k2RzVfY0xxNU84ZWhSTnJJb0dMc2ZnVUhEVUkwV3VsdUhsbTkweHVVYTZYY2lsSVR0c2tZdGNsdU9oSkRqUUhzeXEzdXlWRlh2eFlJcVFLRWxDRjlZYWFlVUFTVEhaOVJnY2c?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-06-18T11:10:43.828Z",
+      "pushedAt": "2026-06-18T11:10:43.828Z"
+    },
+    {
+      "id": "93e08121255955c3",
+      "title": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
+      "url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "interest rate + hold"
+      ],
+      "firstSeen": "2026-06-18T11:10:44.009Z",
+      "pushedAt": "2026-06-18T11:10:44.009Z"
+    },
+    {
       "id": "dcb0091c494ad1ee",
       "title": "Oil down 2% after US, Iran sign ceasefire agreement - Reuters",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5",
@@ -205,43 +241,7 @@
       ],
       "firstSeen": "2026-06-17T11:59:01.274Z",
       "pushedAt": "2026-06-17T11:59:01.274Z"
-    },
-    {
-      "id": "5f40a02c589a27d3",
-      "title": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckhNTFdNSlJ2WjJYeVBYUVd4RDhZRTV6Wk9IRHRIX3d2M19ZN1M1OEhPcWhmdnhqb1FtLUdQdkJjRmN5MkRTZG90Zk9tSDBRbC1SZmg1b3VNS01tYWJIQnJtTDRTbk0wR0ktUUJlQzFUbXpDX3g4R19YVDV3eHFFMmNaTjh4NHp2RXE5UmwwN2lYVlVuNW5WTnBSbXppc1E?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-06-17T07:24:01.400Z",
-      "pushedAt": "2026-06-17T07:24:01.400Z"
-    },
-    {
-      "id": "9ab693a9120ef735",
-      "title": "Food shortages spark scuffles outside supermarket in Bolivia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/food-shortages-spark-scuffles-outside-supermarket-in-bolivia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + food"
-      ],
-      "firstSeen": "2026-06-17T07:24:01.668Z",
-      "pushedAt": "2026-06-17T07:24:01.668Z"
-    },
-    {
-      "id": "1413da0db24fe315",
-      "title": "Three Iranian tankers exit U.S. blockade for first time in months as shipowners eye Hormuz in 'wary disbelief'",
-      "url": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + hormuz"
-      ],
-      "firstSeen": "2026-06-17T07:24:01.954Z",
-      "pushedAt": "2026-06-17T07:24:01.954Z"
     }
   ],
-  "updatedAt": "2026-06-18T07:01:23.797Z"
+  "updatedAt": "2026-06-18T11:10:44.077Z"
 }
