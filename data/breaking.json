@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "41842bb34045e150",
+      "title": "US and Iran sign initial deal to end war, ease sanctions and open strait as nuclear talks continue - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzhJLTNmdndOU3pZcnk5NHo0eTlWSXd1OTNGenFWRDUxbGVuZnhXLUN4QWs4RTAwUEpvT0xtd29yZ1J3U1d5Q0hhWkpBZ2U3MGx5QkltNGl3SkdvRWY2aGU2dmZCMnZ0aU5Td0xidVZ4VHExdnBkQmJYeEhYUjFWTXUxMlJKaFVwcFJfNHI3eDJqcnYtX09wM09YcmN5U2JjbkE?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-06-18T21:36:26.765Z",
+      "pushedAt": "2026-06-18T21:36:26.765Z"
+    },
+    {
+      "id": "5675c720d36d3934",
+      "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + naval"
+      ],
+      "firstSeen": "2026-06-18T21:36:26.951Z",
+      "pushedAt": "2026-06-18T21:36:26.951Z"
+    },
+    {
+      "id": "13d58cde3b3c90ee",
+      "title": "US military says it has lifted naval blockade of Iranian ports",
+      "url": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + naval"
+      ],
+      "firstSeen": "2026-06-18T21:36:27.096Z",
+      "pushedAt": "2026-06-18T21:36:27.096Z"
+    },
+    {
       "id": "b928619aee63263f",
       "title": "U.S. Navy ends blockade of Iran's ports and coastal areas",
       "url": "https://www.cnbc.com/2026/06/18/us-navy-blockade-iran-trump-oil.html",
@@ -216,31 +252,7 @@
       ],
       "firstSeen": "2026-06-17T23:50:25.697Z",
       "pushedAt": "2026-06-17T23:50:25.697Z"
-    },
-    {
-      "id": "14b3b53e7cdb7036",
-      "title": "Russia to import gasoline by sea as shortage looms, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTk2dUxGSkc5YkZnMDk1VUo4b1A1WXJpV0RVZ1NJdG1uMFdrVHFoZ0dFOGY3eUNVa3lGSjMzZjQ1OEI5ZXQ0OVd3TFR1bGlXOFh5X2VRZl9ubl91T2hnbWJ3Qi12NFFfS19WVzNkOWk0cHVfdjZwOERBMkUxMVp4bDJkRV9UcWpQQlg2NG84TnZUZ0NqRVFaMkJMYm94czl5cEhUUU9RS19PUUdf?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + gas"
-      ],
-      "firstSeen": "2026-06-17T20:12:57.242Z",
-      "pushedAt": "2026-06-17T20:12:57.242Z"
-    },
-    {
-      "id": "ab02d26fd24aaeff",
-      "title": "US Federal Reserve holds rates steady under new chair Warsh",
-      "url": "https://www.aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-17T20:12:57.474Z",
-      "pushedAt": "2026-06-17T20:12:57.474Z"
     }
   ],
-  "updatedAt": "2026-06-18T19:40:10.268Z"
+  "updatedAt": "2026-06-18T21:36:27.438Z"
 }
