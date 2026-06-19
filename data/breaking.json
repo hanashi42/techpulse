@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "eee49439c751bc41",
+      "title": "Canada imposes 10% tariff on canned vegetables, excludes US, others - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemtOUW52WHQ0SXFLanVfYUk4b0pFdFYwejRWZEZ6Qkx5UHVpNllodkFTNzVLZ0FZWS1CYWV5Tl9QSGxVS0U4bTRzSHY3QWtjY3EtdHJUR0N5bnpnUVQyQ2JERUhNMTM2SnZpeUw2ZDJCRlpJOFRrQ1V4REpob3RRN1NpRTdSUnlzQ0xUOUJpZmJqSEQtUTRUd213cHdrSC1hbDVuSVJsY2J5Tk0?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + impose"
+      ],
+      "firstSeen": "2026-06-19T18:29:49.821Z",
+      "pushedAt": "2026-06-19T18:29:49.821Z"
+    },
+    {
       "id": "fc3b3b4e2b558840",
       "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
       "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
@@ -108,55 +120,7 @@
       ],
       "firstSeen": "2026-06-18T19:40:10.186Z",
       "pushedAt": "2026-06-18T19:40:10.186Z"
-    },
-    {
-      "id": "0c6f0f10759c1b08",
-      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-18T17:32:31.635Z",
-      "pushedAt": "2026-06-18T17:32:31.635Z"
-    },
-    {
-      "id": "3d8137bc274d8615",
-      "title": "More than 1,000 killed in Israel attacks on Gaza since ceasefire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/more-than-1000-killed-in-israel-attacks-on-gaza-since-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-18T17:32:31.910Z",
-      "pushedAt": "2026-06-18T17:32:31.910Z"
-    },
-    {
-      "id": "31347bed611225e3",
-      "title": "Oil prices fall after Vance says more than 12 million barrels exit Strait of Hormuz",
-      "url": "https://www.cnbc.com/2026/06/18/oil-prices-today-wti-brent.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + barrel"
-      ],
-      "firstSeen": "2026-06-18T17:32:32.166Z",
-      "pushedAt": "2026-06-18T17:32:32.166Z"
-    },
-    {
-      "id": "c7d184f08e052201",
-      "title": "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens",
-      "url": "https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + supply"
-      ],
-      "firstSeen": "2026-06-18T17:32:32.250Z",
-      "pushedAt": "2026-06-18T17:32:32.250Z"
     }
   ],
-  "updatedAt": "2026-06-19T16:57:05.086Z"
+  "updatedAt": "2026-06-19T18:29:49.942Z"
 }
