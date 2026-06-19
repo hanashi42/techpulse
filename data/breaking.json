@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "0c6f0f10759c1b08",
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-19T20:14:43.944Z",
+      "pushedAt": "2026-06-19T20:14:43.944Z"
+    },
+    {
+      "id": "c7d184f08e052201",
+      "title": "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens",
+      "url": "https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "opec + supply"
+      ],
+      "firstSeen": "2026-06-19T20:14:44.090Z",
+      "pushedAt": "2026-06-19T20:14:44.090Z"
+    },
+    {
       "id": "eee49439c751bc41",
       "title": "Canada imposes 10% tariff on canned vegetables, excludes US, others - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemtOUW52WHQ0SXFLanVfYUk4b0pFdFYwejRWZEZ6Qkx5UHVpNllodkFTNzVLZ0FZWS1CYWV5Tl9QSGxVS0U4bTRzSHY3QWtjY3EtdHJUR0N5bnpnUVQyQ2JERUhNMTM2SnZpeUw2ZDJCRlpJOFRrQ1V4REpob3RRN1NpRTdSUnlzQ0xUOUJpZmJqSEQtUTRUd213cHdrSC1hbDVuSVJsY2J5Tk0?oc=5",
@@ -84,43 +108,7 @@
       ],
       "firstSeen": "2026-06-18T21:36:27.096Z",
       "pushedAt": "2026-06-18T21:36:27.096Z"
-    },
-    {
-      "id": "b928619aee63263f",
-      "title": "U.S. Navy ends blockade of Iran's ports and coastal areas",
-      "url": "https://www.cnbc.com/2026/06/18/us-navy-blockade-iran-trump-oil.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-06-18T19:40:09.725Z",
-      "pushedAt": "2026-06-18T19:40:09.725Z"
-    },
-    {
-      "id": "896571170f3a2f62",
-      "title": "SpaceX stock sinks 7%, continuing to cool after three-day rally",
-      "url": "https://www.cnbc.com/2026/06/18/spacex-stock-elon-musk-rally-cools.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-06-18T19:40:09.966Z",
-      "pushedAt": "2026-06-18T19:40:09.966Z"
-    },
-    {
-      "id": "1055966314eb79cf",
-      "title": "Trump administration temporarily cuts student loan interest rates for borrowers on autopay",
-      "url": "https://www.cnbc.com/2026/06/18/trump-student-loan-autopay-interest-rate-discount.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "interest rate + cut"
-      ],
-      "firstSeen": "2026-06-18T19:40:10.186Z",
-      "pushedAt": "2026-06-18T19:40:10.186Z"
     }
   ],
-  "updatedAt": "2026-06-19T18:29:49.942Z"
+  "updatedAt": "2026-06-19T20:14:44.209Z"
 }
