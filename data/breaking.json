@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "bf834931e7c3ac13",
+      "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
+      "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender",
+        "unconditional surrender"
+      ],
+      "firstSeen": "2026-06-19T02:08:53.695Z",
+      "pushedAt": "2026-06-19T02:08:53.695Z"
+    },
+    {
       "id": "ee79933bbbe6ef92",
       "title": "Bulgaria will veto new EU sanctions package against Russia, PM Radev says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUlralRHMGFxbEczSlhGZ2xqRnNrR1JDNGxZcTAyY2J4UVRWbHo5VEpycFA2a1BUZUxDNE5mV2QzYlBhR1VTdzhKUUdoQkJrUGgzQzlOMjFEc3JIZW5rdDRKVi1ScEwzTWxKU29LY210RnV2MF9TQ0Y2bW5RcTVKNzVIMkZ3Y3NvWTZpa2RxcHpIS0pGbTNFR055aGFIU056clRNTXlqeGkyUzlEbktNQ0p1ZEg?oc=5",
@@ -203,68 +216,7 @@
       ],
       "firstSeen": "2026-06-18T07:01:23.735Z",
       "pushedAt": "2026-06-18T07:01:23.735Z"
-    },
-    {
-      "id": "230e091fefc93923",
-      "title": "Instant View: Fed holds steady in Warsh's debut, but hawkish shift fuels bond-market rout - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXdKWGRzWFlvOXVCQWxpMnZtNk1PcVBFU3BGbFZNaS1keXY1NGRGY2Y4blE4RGMzUXJTd0hSbS1kNllkWjBwLWNjenQ0VWhYVVcyTy04SjhkZ2lWbkstX1JOQ1F3UV8wMVQtMENxU01TbEdmQXBJanl3Q2ZZYjBCeVZ0ZnJIdTJJQkkyamJaWVI5c19VTTJIaUExeWsxb3dHUnl4M0h2YWg3Zw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + hawkish"
-      ],
-      "firstSeen": "2026-06-18T02:04:45.559Z",
-      "pushedAt": "2026-06-18T02:04:45.559Z"
-    },
-    {
-      "id": "46166ebac4bf9cf2",
-      "title": "Fed chief Warsh skips rate-path 'dot,' launches communications review - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTG5nNUJBczdIMjlwaWxza0xkbFdjTmRUOEJTQ0RKU0pkUDJISS1WWlN3a010aFY3WE9KYUxQejAtY0ZvdVBGdVpaZUdocThiV2lqVy11M0lhaU82WjA3dkhYRXBMSkdBdnA1NkhqWFpRdlJwZEM3SzJnWmFXdlc0SGktSUlneGV3OVF4MjNXQ1dITzQ5bVlJX3Q2MXdqQmJlN1BfS1F5VGlQQ2tqNXV4YnZDNVgyX1k?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-18T02:04:45.654Z",
-      "pushedAt": "2026-06-18T02:04:45.654Z"
-    },
-    {
-      "id": "d40700a30e60c296",
-      "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
-      "url": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-18T02:04:45.755Z",
-      "pushedAt": "2026-06-18T02:04:45.755Z"
-    },
-    {
-      "id": "9d0aa804df89ee84",
-      "title": "Apple to raise prices due to memory chip shortage, CEO Cook tells WSJ - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0NabFQwM1E1bmJKQXlqYVQ5QTJaSFFVd2Nja3FaZE0xNWFzSEpxRF9BR21TMHZSU0lFMkpveXJrTU1Vc3RPLWMtbWNhSjY0THNLTTd2YThHNlprM2x2SERhYkh4UGVxdkJaRmMyemloVFZSMTdqaEt2R2hSalhqM1RtblVGcnJITy1RRVlYSjdWTHF3RC1ZZmZTYnlPaE9NamtQbg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + chip"
-      ],
-      "firstSeen": "2026-06-17T23:50:25.483Z",
-      "pushedAt": "2026-06-17T23:50:25.483Z"
-    },
-    {
-      "id": "9d0c1cc094442d2b",
-      "title": "Nearly half of Fed policymakers see a 2026 rate hike in the cards - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3RGdFdxNnpXLVpLTlkxemJqLUtGWTdweGp6YlNfUWw1M3pQb25JUDc4ZFZKYkR4MnkzSWpLY29sLWRuTFgyOS1pRmdJVE1BUVIycVJKQ3pnNU1DdUN3VThGT08takJiLWhxSGlWb3RCU3ptODRadTNRTXNPZFVETzhUWE9PdkFBNFhmWm9kcnNLS3BMTm5OUTl2U0dsZTg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-17T23:50:25.697Z",
-      "pushedAt": "2026-06-17T23:50:25.697Z"
     }
   ],
-  "updatedAt": "2026-06-18T23:21:30.091Z"
+  "updatedAt": "2026-06-19T02:08:53.774Z"
 }
