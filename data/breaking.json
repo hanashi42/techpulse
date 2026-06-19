@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fc3b3b4e2b558840",
+      "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
+      "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-19T16:57:04.964Z",
+      "pushedAt": "2026-06-19T16:57:04.964Z"
+    },
+    {
       "id": "bf834931e7c3ac13",
       "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
       "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
@@ -144,79 +156,7 @@
       ],
       "firstSeen": "2026-06-18T17:32:32.250Z",
       "pushedAt": "2026-06-18T17:32:32.250Z"
-    },
-    {
-      "id": "07cdb15a8c942ac4",
-      "title": "Rial rebounds and stocks soar, but Iranians still grapple with high prices",
-      "url": "https://www.aljazeera.com/economy/2026/6/18/rial-rebounds-and-stocks-soar-but-iranians-still-grapple-with-high-prices?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-06-18T14:19:33.674Z",
-      "pushedAt": "2026-06-18T14:19:33.674Z"
-    },
-    {
-      "id": "2dc6470a885165ed",
-      "title": "Explosions, sustained gunfire at airport in Niger capital, witnesses say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmEyQ0xRaVlYTklEOHdFNWFKM05LTk1QMDV5b3FWQWNNMmtBR2lMVVZvSVk0d1lXaFU5bzdlZE55bE5nOHNNdHlQV0ZJN3pkWElJRk9sNUVoVzRfZ1Q2dERISHVpWThvYjVYYlMxZmJfVG5IZDVXWEcwYjBTOS1DUW5wQVFLRzM3S2pUZWpxRXdPOVplZUoxSy1uOTZhSnZqa1RHUUtPb09BTEpyQThESGx6WQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + airport"
-      ],
-      "firstSeen": "2026-06-18T11:10:43.602Z",
-      "pushedAt": "2026-06-18T11:10:43.602Z"
-    },
-    {
-      "id": "f5c86791d982dd05",
-      "title": "Finland to buy US glide bombs for F-35s, ministry says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQU9XelJmWnZ3aDlYU2lwQmptS0pIZEd2YmZOUjJVclBhd3BBSXc1RDZoclZadHMtRUZtSHlFQ3VEdFJNTjc1ekdfb0k2RzVfY0xxNU84ZWhSTnJJb0dMc2ZnVUhEVUkwV3VsdUhsbTkweHVVYTZYY2lsSVR0c2tZdGNsdU9oSkRqUUhzeXEzdXlWRlh2eFlJcVFLRWxDRjlZYWFlVUFTVEhaOVJnY2c?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-06-18T11:10:43.828Z",
-      "pushedAt": "2026-06-18T11:10:43.828Z"
-    },
-    {
-      "id": "93e08121255955c3",
-      "title": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
-      "url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "interest rate + hold"
-      ],
-      "firstSeen": "2026-06-18T11:10:44.009Z",
-      "pushedAt": "2026-06-18T11:10:44.009Z"
-    },
-    {
-      "id": "dcb0091c494ad1ee",
-      "title": "Oil down 2% after US, Iran sign ceasefire agreement - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "ceasefire agreement"
-      ],
-      "firstSeen": "2026-06-18T07:01:23.615Z",
-      "pushedAt": "2026-06-18T07:01:23.615Z"
-    },
-    {
-      "id": "fda95f16df76f252",
-      "title": "U.S.-Iran deal sparks record highs for Asian stocks, drags on oil - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWc5blRuNGVXLWNEeGRWUHBJTi1tNG1oR2wzR3R0RXY1dWdVS3JVMmRRSlI0NEgwZUpVNTNLdUphd1Q4OGpXSmtSc0lwVmNONzFpYWZFVG05OFQ4Y1JtaVAyN0lCblhSVEUwZ2RDTUx4eTFzWl9SR1NVT1RvTGxwSTg0dw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "record high + oil"
-      ],
-      "firstSeen": "2026-06-18T07:01:23.735Z",
-      "pushedAt": "2026-06-18T07:01:23.735Z"
     }
   ],
-  "updatedAt": "2026-06-19T02:08:53.774Z"
+  "updatedAt": "2026-06-19T16:57:05.086Z"
 }
