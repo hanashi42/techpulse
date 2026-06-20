@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8265403619dcf5e0",
+      "title": "A new trade war may be brewing. This time, Europe is taking a page from Trump's playbook - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeDNUSUJnRmljamJhaWViNXdRc2RnZnMzMmF1am5QSU4yOHYwTVZTa2JHWjBySVpPWmdpclNGNVh0VnJ5SUFISjNyV0FXd1RRWjE3NFVVZ0hZdFFEdFY4SjBsU2ZhQ1p0cTV5V19ybENWTGhtdzNhblFVc09LbDZ4TGVFa0d0QnI1aWdBdXJNZlZLLTV0UFBoRVp2dGJCN2s?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + europe"
+      ],
+      "firstSeen": "2026-06-20T22:54:26.241Z",
+      "pushedAt": "2026-06-20T22:54:26.241Z"
+    },
+    {
       "id": "5db56d03b32a5b2e",
       "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
       "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
@@ -108,31 +120,7 @@
       ],
       "firstSeen": "2026-06-20T06:00:46.158Z",
       "pushedAt": "2026-06-20T06:00:46.158Z"
-    },
-    {
-      "id": "0c6f0f10759c1b08",
-      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
-      "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-19T20:14:43.944Z",
-      "pushedAt": "2026-06-19T20:14:43.944Z"
-    },
-    {
-      "id": "c7d184f08e052201",
-      "title": "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens",
-      "url": "https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + supply"
-      ],
-      "firstSeen": "2026-06-19T20:14:44.090Z",
-      "pushedAt": "2026-06-19T20:14:44.090Z"
     }
   ],
-  "updatedAt": "2026-06-20T19:24:27.790Z"
+  "updatedAt": "2026-06-20T22:54:26.467Z"
 }
