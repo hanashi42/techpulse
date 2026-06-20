@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0970e2688c9f03d5",
+      "title": "Vance expects Iran talks soon, as Guards say Hormuz is closed again - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + closed"
+      ],
+      "firstSeen": "2026-06-20T15:06:17.242Z",
+      "pushedAt": "2026-06-20T15:06:17.242Z"
+    },
+    {
       "id": "879551504907c6b3",
       "title": "Two Syrian soldiers killed in northeast Aleppo attack, state TV says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVFPbXBkWDB4WWtWQndyVUdQTm5HbnMyNlhlYkJhRVF4cUJIcUhWMG5kaWhJbEpoTlNoTjlKVHlSOHppUzQ4cHUtTTJubEVqS3Fha3RENGxIbV9ya2Jlb3dYSXJlU3hZX1BTN3hoRW9oVHprYjB5LWxNeXdjVS0zMmFGaDlfejhvYktxR1BYQ3hsclcwNHdxX2xGakE4N2FJdHNUczZPNjhtUHAwMTNBR0lkanRwYS1mMHc?oc=5",
@@ -122,5 +134,5 @@
       "pushedAt": "2026-06-19T16:57:04.964Z"
     }
   ],
-  "updatedAt": "2026-06-20T13:02:11.998Z"
+  "updatedAt": "2026-06-20T15:06:17.376Z"
 }
