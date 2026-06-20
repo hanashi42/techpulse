@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "879551504907c6b3",
+      "title": "Two Syrian soldiers killed in northeast Aleppo attack, state TV says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVFPbXBkWDB4WWtWQndyVUdQTm5HbnMyNlhlYkJhRVF4cUJIcUhWMG5kaWhJbEpoTlNoTjlKVHlSOHppUzQ4cHUtTTJubEVqS3Fha3RENGxIbV9ya2Jlb3dYSXJlU3hZX1BTN3hoRW9oVHprYjB5LWxNeXdjVS0zMmFGaDlfejhvYktxR1BYQ3hsclcwNHdxX2xGakE4N2FJdHNUczZPNjhtUHAwMTNBR0lkanRwYS1mMHc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-20T13:02:11.891Z",
+      "pushedAt": "2026-06-20T13:02:11.891Z"
+    },
+    {
+      "id": "d0bffca65da78d2b",
+      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "ceasefire agreement"
+      ],
+      "firstSeen": "2026-06-20T13:02:11.960Z",
+      "pushedAt": "2026-06-20T13:02:11.960Z"
+    },
+    {
       "id": "82b6918beb78a330",
       "title": "Two roadside bombs kill at least seven in northwestern Pakistan",
       "url": "https://www.aljazeera.com/news/2026/6/20/two-roadside-bombs-kill-at-least-seven-in-northwestern-pakistan?traffic_source=rss",
@@ -98,5 +122,5 @@
       "pushedAt": "2026-06-19T16:57:04.964Z"
     }
   ],
-  "updatedAt": "2026-06-20T11:27:05.836Z"
+  "updatedAt": "2026-06-20T13:02:11.998Z"
 }
