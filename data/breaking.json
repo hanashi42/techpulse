@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "bf834931e7c3ac13",
+      "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
+      "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender",
+        "unconditional surrender"
+      ],
+      "firstSeen": "2026-06-20T09:21:21.066Z",
+      "pushedAt": "2026-06-20T09:21:21.066Z"
+    },
+    {
+      "id": "b867476856a76ea7",
+      "title": "China's May refined oil exports rise from April under restrictions, Australia receives agreed volume - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGhhWUJGSnY1eU9BSHkzMEViTXQ3YWRmdjlKaU42dWtZc2cxZFhQWWVkeU5tZG5IZ28xMlR2T3NMeVk3ZDNMeUtHMThxRGkzWXdXaGVNTkpMZmoza0dMc0EySHU2amdzaXhTeGtxUUh3MG01Z0FtT3dZYUg1M3JoYnZBWUgwVEJsaWx4MXBFRTlUMjlRQUJOOU1UX19hSmlVVk9tWHpfZ2RzSEVKeU94bmFNNkNISVdmZXRuRXU1clpxcGdDWW9TdkQ3OA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + export"
+      ],
+      "firstSeen": "2026-06-20T09:21:21.314Z",
+      "pushedAt": "2026-06-20T09:21:21.314Z"
+    },
+    {
       "id": "26408f55cec88837",
       "title": "Iranian Guards' business empire to win big if U.S. sanctions lifted - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5",
@@ -61,5 +86,5 @@
       "pushedAt": "2026-06-19T16:57:04.964Z"
     }
   ],
-  "updatedAt": "2026-06-20T06:00:46.468Z"
+  "updatedAt": "2026-06-20T09:21:21.535Z"
 }
