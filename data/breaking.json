@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5db56d03b32a5b2e",
+      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-20T19:24:27.641Z",
+      "pushedAt": "2026-06-20T19:24:27.641Z"
+    },
+    {
       "id": "b39fed32a0d837fb",
       "title": "At least 12 shot after SUV pulls up and opens fire on a crowd, Chicago police say - AP News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlUtZzA0MWJLNnZ5RTFNNmx2bmFzY203STMtNTJxOXh6QVcyeGFFcDdpR1JLLWtEalNjaXlCd2FvdlpINWVHQldoV0hoVjgtSHNHcnJjcENRQlRFSURfX05pVnBRTnItVWFJNGx0alhLYUw0Q1EzWWtGdUtnVVJuY0N2MGVsZWVnOVBFQTVreFgwRV9RTGtyR3hn?oc=5",
@@ -120,19 +132,7 @@
       ],
       "firstSeen": "2026-06-19T20:14:44.090Z",
       "pushedAt": "2026-06-19T20:14:44.090Z"
-    },
-    {
-      "id": "eee49439c751bc41",
-      "title": "Canada imposes 10% tariff on canned vegetables, excludes US, others - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemtOUW52WHQ0SXFLanVfYUk4b0pFdFYwejRWZEZ6Qkx5UHVpNllodkFTNzVLZ0FZWS1CYWV5Tl9QSGxVS0U4bTRzSHY3QWtjY3EtdHJUR0N5bnpnUVQyQ2JERUhNMTM2SnZpeUw2ZDJCRlpJOFRrQ1V4REpob3RRN1NpRTdSUnlzQ0xUOUJpZmJqSEQtUTRUd213cHdrSC1hbDVuSVJsY2J5Tk0?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + impose"
-      ],
-      "firstSeen": "2026-06-19T18:29:49.821Z",
-      "pushedAt": "2026-06-19T18:29:49.821Z"
     }
   ],
-  "updatedAt": "2026-06-20T17:59:07.058Z"
+  "updatedAt": "2026-06-20T19:24:27.790Z"
 }
