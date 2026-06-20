@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b39fed32a0d837fb",
+      "title": "At least 12 shot after SUV pulls up and opens fire on a crowd, Chicago police say - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlUtZzA0MWJLNnZ5RTFNNmx2bmFzY203STMtNTJxOXh6QVcyeGFFcDdpR1JLLWtEalNjaXlCd2FvdlpINWVHQldoV0hoVjgtSHNHcnJjcENRQlRFSURfX05pVnBRTnItVWFJNGx0alhLYUw0Q1EzWWtGdUtnVVJuY0N2MGVsZWVnOVBFQTVreFgwRV9RTGtyR3hn?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "opens fire on"
+      ],
+      "firstSeen": "2026-06-20T17:59:06.818Z",
+      "pushedAt": "2026-06-20T17:59:06.818Z"
+    },
+    {
       "id": "0970e2688c9f03d5",
       "title": "Vance expects Iran talks soon, as Guards say Hormuz is closed again - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
@@ -120,19 +132,7 @@
       ],
       "firstSeen": "2026-06-19T18:29:49.821Z",
       "pushedAt": "2026-06-19T18:29:49.821Z"
-    },
-    {
-      "id": "fc3b3b4e2b558840",
-      "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
-      "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-19T16:57:04.964Z",
-      "pushedAt": "2026-06-19T16:57:04.964Z"
     }
   ],
-  "updatedAt": "2026-06-20T15:06:17.376Z"
+  "updatedAt": "2026-06-20T17:59:07.058Z"
 }
