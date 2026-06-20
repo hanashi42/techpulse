@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "26408f55cec88837",
+      "title": "Iranian Guards' business empire to win big if U.S. sanctions lifted - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-06-20T06:00:46.158Z",
+      "pushedAt": "2026-06-20T06:00:46.158Z"
+    },
+    {
       "id": "0c6f0f10759c1b08",
       "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
       "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
@@ -47,68 +59,7 @@
       ],
       "firstSeen": "2026-06-19T16:57:04.964Z",
       "pushedAt": "2026-06-19T16:57:04.964Z"
-    },
-    {
-      "id": "bf834931e7c3ac13",
-      "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
-      "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender",
-        "unconditional surrender"
-      ],
-      "firstSeen": "2026-06-19T02:08:53.695Z",
-      "pushedAt": "2026-06-19T02:08:53.695Z"
-    },
-    {
-      "id": "ee79933bbbe6ef92",
-      "title": "Bulgaria will veto new EU sanctions package against Russia, PM Radev says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUlralRHMGFxbEczSlhGZ2xqRnNrR1JDNGxZcTAyY2J4UVRWbHo5VEpycFA2a1BUZUxDNE5mV2QzYlBhR1VTdzhKUUdoQkJrUGgzQzlOMjFEc3JIZW5rdDRKVi1ScEwzTWxKU29LY210RnV2MF9TQ0Y2bW5RcTVKNzVIMkZ3Y3NvWTZpa2RxcHpIS0pGbTNFR055aGFIU056clRNTXlqeGkyUzlEbktNQ0p1ZEg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-06-18T23:21:29.848Z",
-      "pushedAt": "2026-06-18T23:21:29.848Z"
-    },
-    {
-      "id": "41842bb34045e150",
-      "title": "US and Iran sign initial deal to end war, ease sanctions and open strait as nuclear talks continue - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzhJLTNmdndOU3pZcnk5NHo0eTlWSXd1OTNGenFWRDUxbGVuZnhXLUN4QWs4RTAwUEpvT0xtd29yZ1J3U1d5Q0hhWkpBZ2U3MGx5QkltNGl3SkdvRWY2aGU2dmZCMnZ0aU5Td0xidVZ4VHExdnBkQmJYeEhYUjFWTXUxMlJKaFVwcFJfNHI3eDJqcnYtX09wM09YcmN5U2JjbkE?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-06-18T21:36:26.765Z",
-      "pushedAt": "2026-06-18T21:36:26.765Z"
-    },
-    {
-      "id": "5675c720d36d3934",
-      "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-      "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval"
-      ],
-      "firstSeen": "2026-06-18T21:36:26.951Z",
-      "pushedAt": "2026-06-18T21:36:26.951Z"
-    },
-    {
-      "id": "13d58cde3b3c90ee",
-      "title": "US military says it has lifted naval blockade of Iranian ports",
-      "url": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval"
-      ],
-      "firstSeen": "2026-06-18T21:36:27.096Z",
-      "pushedAt": "2026-06-18T21:36:27.096Z"
     }
   ],
-  "updatedAt": "2026-06-19T20:14:44.209Z"
+  "updatedAt": "2026-06-20T06:00:46.468Z"
 }
