@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "82b6918beb78a330",
+      "title": "Two roadside bombs kill at least seven in northwestern Pakistan",
+      "url": "https://www.aljazeera.com/news/2026/6/20/two-roadside-bombs-kill-at-least-seven-in-northwestern-pakistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-06-20T11:27:05.758Z",
+      "pushedAt": "2026-06-20T11:27:05.758Z"
+    },
+    {
       "id": "bf834931e7c3ac13",
       "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
       "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
@@ -86,5 +98,5 @@
       "pushedAt": "2026-06-19T16:57:04.964Z"
     }
   ],
-  "updatedAt": "2026-06-20T09:21:21.535Z"
+  "updatedAt": "2026-06-20T11:27:05.836Z"
 }
