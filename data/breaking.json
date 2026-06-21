@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "518cf10ecce0ca3b",
+      "title": "The US town, the Chinese company and the bankrupting battle over a battery plant - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHBaVGVnMkVLa0pNb2J4eTJUT1Q2X3BONUJVd0FEb1M5RlFpUnJGc0wydmZLekt5SEJQOURaVzdzOUVYLWlBNGFrNmEzb01vVmo2NGtKcTk4NGVnSEhxRDhBY3Uwc2VZQUNvaDh6Sno4T2Q2aG42V05mSlQxRVl6N0Q4U0tSUldQTHBCMWZfSTE3X2h4Mm9YVnFPdF8za1RlcElXSXpaRkhJcWp1S0wzd09iSTk5WTFvWTFTWkFZOEw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "bankrupt + bank"
+      ],
+      "firstSeen": "2026-06-21T10:48:27.138Z",
+      "pushedAt": "2026-06-21T10:48:27.138Z"
+    },
+    {
       "id": "1e49a75d3a24b0b5",
       "title": "Magnitude 8.2 Quake Possible Along Six Active Trenches In Philippines - Phivolcs - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMWN5NktacVc4MDRqYnJqbXk2N1N4ZWJOTVhra0pMWVVib3ZoMnJMcEFleWQ2RVotQ0xENmp6eWdjVjRMS1k5cXQwMkEtTVBmWjJTMk0yeFRNWWY1VDUydVJWY1g3SE5Xam9RSWNlLWlmMFZUX1YxaVJn?oc=5",
@@ -107,44 +119,7 @@
       ],
       "firstSeen": "2026-06-20T11:27:05.758Z",
       "pushedAt": "2026-06-20T11:27:05.758Z"
-    },
-    {
-      "id": "bf834931e7c3ac13",
-      "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
-      "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender",
-        "unconditional surrender"
-      ],
-      "firstSeen": "2026-06-20T09:21:21.066Z",
-      "pushedAt": "2026-06-20T09:21:21.066Z"
-    },
-    {
-      "id": "b867476856a76ea7",
-      "title": "China's May refined oil exports rise from April under restrictions, Australia receives agreed volume - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMGhhWUJGSnY1eU9BSHkzMEViTXQ3YWRmdjlKaU42dWtZc2cxZFhQWWVkeU5tZG5IZ28xMlR2T3NMeVk3ZDNMeUtHMThxRGkzWXdXaGVNTkpMZmoza0dMc0EySHU2amdzaXhTeGtxUUh3MG01Z0FtT3dZYUg1M3JoYnZBWUgwVEJsaWx4MXBFRTlUMjlRQUJOOU1UX19hSmlVVk9tWHpfZ2RzSEVKeU94bmFNNkNISVdmZXRuRXU1clpxcGdDWW9TdkQ3OA?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + export"
-      ],
-      "firstSeen": "2026-06-20T09:21:21.314Z",
-      "pushedAt": "2026-06-20T09:21:21.314Z"
-    },
-    {
-      "id": "26408f55cec88837",
-      "title": "Iranian Guards' business empire to win big if U.S. sanctions lifted - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-06-20T06:00:46.158Z",
-      "pushedAt": "2026-06-20T06:00:46.158Z"
     }
   ],
-  "updatedAt": "2026-06-21T02:34:30.098Z"
+  "updatedAt": "2026-06-21T10:48:27.210Z"
 }
