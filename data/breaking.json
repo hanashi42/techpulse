@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "aac7dc98e3035be1",
+      "title": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU83bXR0RDhtTHExa0dVVFJOTWlvNS1DMVM0WUdqX0JyNWQ0RnRTcUNzQlkzR2xtWDdnTVA0NEt3NDVMZXBZcl83X2lEVU9jRktXNlc4SjhKMWMxRUZidDJvdDBreDZLbmpsRklMU01GNkJiYVJVWnhyZnlzUkFhYzY1VFdtUjRUbTh6aHlCVkFQUGttSU44TDBWVDZZTlRJbUhTY3JzRHA?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + closed"
+      ],
+      "firstSeen": "2026-06-21T22:08:53.324Z",
+      "pushedAt": "2026-06-21T22:08:53.324Z"
+    },
+    {
       "id": "976bade6df6854bb",
       "title": "European Union Going To Put Tariffs On Plugin Hybrids From China Now? - CleanTechnica",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUh4SHJmY0dibWZNTFRyVGJvc0hSa19seEhjdU1tTTc0Z204dFY5ejJxUC1PS0VMaFItM0U1dndoRzNuWnFFNEhaVXl6SmZQQWt5bVNsekE1Y3NjQVBYVzlJTm9EY1hhaTJvcTUzaGFSaXpodXIzTmdyR0kzMV9Ib3VWWGRVeFB0T2UzdUJiYjFxekJTSDYtMmdITkpYT2tVYzVPYXM3eVlZdw?oc=5",
@@ -86,5 +98,5 @@
       "pushedAt": "2026-06-20T22:54:26.241Z"
     }
   ],
-  "updatedAt": "2026-06-21T20:56:59.195Z"
+  "updatedAt": "2026-06-21T22:08:53.444Z"
 }
