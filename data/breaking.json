@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1e49a75d3a24b0b5",
+      "title": "Magnitude 8.2 Quake Possible Along Six Active Trenches In Philippines - Phivolcs - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMWN5NktacVc4MDRqYnJqbXk2N1N4ZWJOTVhra0pMWVVib3ZoMnJMcEFleWQ2RVotQ0xENmp6eWdjVjRMS1k5cXQwMkEtTVBmWjJTMk0yeFRNWWY1VDUydVJWY1g3SE5Xam9RSWNlLWlmMFZUX1YxaVJn?oc=5",
+      "source": "Bernama",
+      "priority": "P0",
+      "matchedKeywords": [
+        "magnitude 8"
+      ],
+      "firstSeen": "2026-06-21T02:34:29.984Z",
+      "pushedAt": "2026-06-21T02:34:29.984Z"
+    },
+    {
       "id": "c7d184f08e052201",
       "title": "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens",
       "url": "https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html",
@@ -134,5 +146,5 @@
       "pushedAt": "2026-06-20T06:00:46.158Z"
     }
   ],
-  "updatedAt": "2026-06-20T23:55:31.754Z"
+  "updatedAt": "2026-06-21T02:34:30.098Z"
 }
