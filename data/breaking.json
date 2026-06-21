@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "bf834931e7c3ac13",
+      "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
+      "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender",
+        "unconditional surrender"
+      ],
+      "firstSeen": "2026-06-21T12:31:29.176Z",
+      "pushedAt": "2026-06-21T12:31:29.176Z"
+    },
+    {
       "id": "518cf10ecce0ca3b",
       "title": "The US town, the Chinese company and the bankrupting battle over a battery plant - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHBaVGVnMkVLa0pNb2J4eTJUT1Q2X3BONUJVd0FEb1M5RlFpUnJGc0wydmZLekt5SEJQOURaVzdzOUVYLWlBNGFrNmEzb01vVmo2NGtKcTk4NGVnSEhxRDhBY3Uwc2VZQUNvaDh6Sno4T2Q2aG42V05mSlQxRVl6N0Q4U0tSUldQTHBCMWZfSTE3X2h4Mm9YVnFPdF8za1RlcElXSXpaRkhJcWp1S0wzd09iSTk5WTFvWTFTWkFZOEw?oc=5",
@@ -107,19 +120,7 @@
       ],
       "firstSeen": "2026-06-20T13:02:11.960Z",
       "pushedAt": "2026-06-20T13:02:11.960Z"
-    },
-    {
-      "id": "82b6918beb78a330",
-      "title": "Two roadside bombs kill at least seven in northwestern Pakistan",
-      "url": "https://www.aljazeera.com/news/2026/6/20/two-roadside-bombs-kill-at-least-seven-in-northwestern-pakistan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-06-20T11:27:05.758Z",
-      "pushedAt": "2026-06-20T11:27:05.758Z"
     }
   ],
-  "updatedAt": "2026-06-21T10:48:27.210Z"
+  "updatedAt": "2026-06-21T12:31:29.437Z"
 }
