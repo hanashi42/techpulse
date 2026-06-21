@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "976bade6df6854bb",
+      "title": "European Union Going To Put Tariffs On Plugin Hybrids From China Now? - CleanTechnica",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUh4SHJmY0dibWZNTFRyVGJvc0hSa19seEhjdU1tTTc0Z204dFY5ejJxUC1PS0VMaFItM0U1dndoRzNuWnFFNEhaVXl6SmZQQWt5bVNsekE1Y3NjQVBYVzlJTm9EY1hhaTJvcTUzaGFSaXpodXIzTmdyR0kzMV9Ib3VWWGRVeFB0T2UzdUJiYjFxekJTSDYtMmdITkpYT2tVYzVPYXM3eVlZdw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-06-21T20:56:59.063Z",
+      "pushedAt": "2026-06-21T20:56:59.063Z"
+    },
+    {
       "id": "7961fc81b2314986",
       "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales - AP News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkFabkhXNDNSYXBUUUNRRUJBckE0dUdTS1B2Z3lHdTA2ZEV6ZmFfQmZzTUhmbS16ZS14cjV6ZEFOdkYxQTJNekg5OEpFU3JEVll1S3ViUmp1Q1lsaEZxNWozNUppWjdPYy1LMVhkQWthdk05SDExczY2UG92eEpodS1pMjEyb0xkOTctOEladFU5UExiemtWeGZB?oc=5",
@@ -72,43 +84,7 @@
       ],
       "firstSeen": "2026-06-20T22:54:26.241Z",
       "pushedAt": "2026-06-20T22:54:26.241Z"
-    },
-    {
-      "id": "5db56d03b32a5b2e",
-      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
-      "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-20T19:24:27.641Z",
-      "pushedAt": "2026-06-20T19:24:27.641Z"
-    },
-    {
-      "id": "b39fed32a0d837fb",
-      "title": "At least 12 shot after SUV pulls up and opens fire on a crowd, Chicago police say - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWlUtZzA0MWJLNnZ5RTFNNmx2bmFzY203STMtNTJxOXh6QVcyeGFFcDdpR1JLLWtEalNjaXlCd2FvdlpINWVHQldoV0hoVjgtSHNHcnJjcENRQlRFSURfX05pVnBRTnItVWFJNGx0alhLYUw0Q1EzWWtGdUtnVVJuY0N2MGVsZWVnOVBFQTVreFgwRV9RTGtyR3hn?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "opens fire on"
-      ],
-      "firstSeen": "2026-06-20T17:59:06.818Z",
-      "pushedAt": "2026-06-20T17:59:06.818Z"
-    },
-    {
-      "id": "0970e2688c9f03d5",
-      "title": "Vance expects Iran talks soon, as Guards say Hormuz is closed again - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmZyRmRQdUo5dlpLWnZaTEVkV2JBOXpMS2hNTEg1LVN6YzN2VjNlMXZkNXlNdVY4bWhaMG0wd1JtVWtmV1BNbXk5UjNHODNLT3ZJZUNfcmFZSmVvWkRfQ2J2eHNoZGRiWUpwbGZBT04zbjBILVZoV21rUC1VU2pWeENyaDJNRGMtY2otYWV5eG1fdjc3RFhFNmNCQzkyTWJLRVhVbjhFZWhfQQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + closed"
-      ],
-      "firstSeen": "2026-06-20T15:06:17.242Z",
-      "pushedAt": "2026-06-20T15:06:17.242Z"
     }
   ],
-  "updatedAt": "2026-06-21T14:56:08.651Z"
+  "updatedAt": "2026-06-21T20:56:59.195Z"
 }
