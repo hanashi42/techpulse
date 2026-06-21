@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7961fc81b2314986",
+      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkFabkhXNDNSYXBUUUNRRUJBckE0dUdTS1B2Z3lHdTA2ZEV6ZmFfQmZzTUhmbS16ZS14cjV6ZEFOdkYxQTJNekg5OEpFU3JEVll1S3ViUmp1Q1lsaEZxNWozNUppWjdPYy1LMVhkQWthdk05SDExczY2UG92eEpodS1pMjEyb0xkOTctOEladFU5UExiemtWeGZB?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + civilian"
+      ],
+      "firstSeen": "2026-06-21T14:56:08.386Z",
+      "pushedAt": "2026-06-21T14:56:08.386Z"
+    },
+    {
       "id": "bf834931e7c3ac13",
       "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
       "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
@@ -96,31 +108,7 @@
       ],
       "firstSeen": "2026-06-20T15:06:17.242Z",
       "pushedAt": "2026-06-20T15:06:17.242Z"
-    },
-    {
-      "id": "879551504907c6b3",
-      "title": "Two Syrian soldiers killed in northeast Aleppo attack, state TV says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVFPbXBkWDB4WWtWQndyVUdQTm5HbnMyNlhlYkJhRVF4cUJIcUhWMG5kaWhJbEpoTlNoTjlKVHlSOHppUzQ4cHUtTTJubEVqS3Fha3RENGxIbV9ya2Jlb3dYSXJlU3hZX1BTN3hoRW9oVHprYjB5LWxNeXdjVS0zMmFGaDlfejhvYktxR1BYQ3hsclcwNHdxX2xGakE4N2FJdHNUczZPNjhtUHAwMTNBR0lkanRwYS1mMHc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-20T13:02:11.891Z",
-      "pushedAt": "2026-06-20T13:02:11.891Z"
-    },
-    {
-      "id": "d0bffca65da78d2b",
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "ceasefire agreement"
-      ],
-      "firstSeen": "2026-06-20T13:02:11.960Z",
-      "pushedAt": "2026-06-20T13:02:11.960Z"
     }
   ],
-  "updatedAt": "2026-06-21T12:31:29.437Z"
+  "updatedAt": "2026-06-21T14:56:08.651Z"
 }
