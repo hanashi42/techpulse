@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "933ec426a06e0d6c",
+      "title": "BofA forecasts 75 bps of rate hikes in 2026 on labour market resilience, new Fed chair - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFJyZHVkakE1ODNnN192TVlVR3AwTWUwcnVTZ04yQ3lGYlowbHhxUWNDakZRSHZ1SnlpSGpXazZ4WjhsamVILWZFb0lIbHJ4SEphUWh3SnRHMFJyYXFZcFhoWk9nckVfLWFTQl9LNnNzXzB1ZmxRZEFtaVQtbE1pYXdFLVpUd2kwMG9Mc1dDZlU3THgzLWhKanNMLXhNem1lbnJmenBYWUVETUlCc1Z6dmQ4RHdpbTRnZVFYQ0Fn?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-06-22T13:13:13.040Z",
+      "pushedAt": "2026-06-22T13:13:13.040Z"
+    },
+    {
+      "id": "1f1a92712ffa54f9",
+      "title": "Bank of England softens stablecoin rules in final policy draft - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVg2cVNqSVR0a0E0RTJ2WkNwNmVLYXNUMzd6eGwxLTQ5VG5IWkMzWGNOeXk0M3dqT1J5TDkyUU5fcFZ1dk5XMndRWVl5M3A4QTMzeVN5OVJzQV9JZUdUdzUxeVJFd2F5dlBlNG85MVZ0Nk1ybE5tbzIyc296T3FVZUtDSC04bE92ME12MnM5bUtMMnotb1RmZ1RCb3NIcEE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "stablecoin + ban"
+      ],
+      "firstSeen": "2026-06-22T13:13:13.264Z",
+      "pushedAt": "2026-06-22T13:13:13.264Z"
+    },
+    {
+      "id": "3f8345dd833084ea",
+      "title": "SpaceX stock falls premarket, continuing selloff after rally and blockbuster IPO",
+      "url": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-06-22T13:13:13.446Z",
+      "pushedAt": "2026-06-22T13:13:13.446Z"
+    },
+    {
+      "id": "7015630582a07919",
+      "title": "China announces sanctions on 10 US companies as trade tensions flare - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYXRVeGF3U0pXWmNaNkw4VmJuS2M0cnRscHF2VUI2OVAxV1FvMkVSRXM5QnI4OEE4Yl9sQ0RJZzkwMWdWaU5hWnRyeFBCUVlHTnB0X1ZnRW11b2lta3Nid0RGMlhIQUVBVUdCaE0wVzFrNEVqZGNEYXBlRzhMamxUOWdtbjVMaEprbC1jYjFPTWpQQS03N3NaTldUNWUxTUNmdXRCeXZEYw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-06-22T13:13:13.507Z",
+      "pushedAt": "2026-06-22T13:13:13.507Z"
+    },
+    {
       "id": "c6a85b4b7a7ad1a6",
       "title": "China hits back at U.S. sanctions restricting its exports to American defense firms - NPR",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0NZUUpjMFdSV01fR3F5Zko2b2xCcEtHdTBmTk0xS0JOVl81ZHBxRTEwN0UxSFZsVGtyVGhtTENoTkN0SWpZZlNIUmwxaXVIaXpGM1NqRnZlT01mREdXb3FXQWlJWXFyTnpGazJLVElQRlBpOGxVR2pCWE5hbWhBZE4xS2d3cE0?oc=5",
@@ -96,32 +145,7 @@
       ],
       "firstSeen": "2026-06-21T14:56:08.386Z",
       "pushedAt": "2026-06-21T14:56:08.386Z"
-    },
-    {
-      "id": "bf834931e7c3ac13",
-      "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
-      "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
-      "source": "CNBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender",
-        "unconditional surrender"
-      ],
-      "firstSeen": "2026-06-21T12:31:29.176Z",
-      "pushedAt": "2026-06-21T12:31:29.176Z"
-    },
-    {
-      "id": "518cf10ecce0ca3b",
-      "title": "The US town, the Chinese company and the bankrupting battle over a battery plant - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHBaVGVnMkVLa0pNb2J4eTJUT1Q2X3BONUJVd0FEb1M5RlFpUnJGc0wydmZLekt5SEJQOURaVzdzOUVYLWlBNGFrNmEzb01vVmo2NGtKcTk4NGVnSEhxRDhBY3Uwc2VZQUNvaDh6Sno4T2Q2aG42V05mSlQxRVl6N0Q4U0tSUldQTHBCMWZfSTE3X2h4Mm9YVnFPdF8za1RlcElXSXpaRkhJcWp1S0wzd09iSTk5WTFvWTFTWkFZOEw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bankrupt + bank"
-      ],
-      "firstSeen": "2026-06-21T10:48:27.138Z",
-      "pushedAt": "2026-06-21T10:48:27.138Z"
     }
   ],
-  "updatedAt": "2026-06-22T07:36:13.668Z"
+  "updatedAt": "2026-06-22T13:13:13.570Z"
 }
