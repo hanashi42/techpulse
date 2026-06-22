@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "daa2d3fda458f450",
+      "title": "Mike Rogers ties bridge opening to Canadian tariffs on Chinese cars - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVFFZk5COFJMOEFCdHJ5N3dRNnBOaU5pMW84R1MtMXAxMDJwV2dpa3VHalk4RWlBbm5MQ0R2cFhpWUdndDNxN1IwOTczOHZyRHRMMHM3X1RYWDZJVFZTU284VW5iWjJPMkV2b294OVo3Skt6aW5FVlhNQ3pTNEtPQXI5UHUtdWNQSU5UOVhGS19oTnM5anNoaDJQV3c5Zw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-06-22T20:22:32.362Z",
+      "pushedAt": "2026-06-22T20:22:32.362Z"
+    },
+    {
       "id": "c42b3a29d9952178",
       "title": "At least 13 killed and dozens injured after Qatar gas explosion",
       "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
@@ -183,5 +195,5 @@
       "pushedAt": "2026-06-21T20:56:59.063Z"
     }
   ],
-  "updatedAt": "2026-06-22T17:48:36.902Z"
+  "updatedAt": "2026-06-22T20:22:32.515Z"
 }
