@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "c6a85b4b7a7ad1a6",
+      "title": "China hits back at U.S. sanctions restricting its exports to American defense firms - NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0NZUUpjMFdSV01fR3F5Zko2b2xCcEtHdTBmTk0xS0JOVl81ZHBxRTEwN0UxSFZsVGtyVGhtTENoTkN0SWpZZlNIUmwxaXVIaXpGM1NqRnZlT01mREdXb3FXQWlJWXFyTnpGazJLVElQRlBpOGxVR2pCWE5hbWhBZE4xS2d3cE0?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china",
+        "restrict + export"
+      ],
+      "firstSeen": "2026-06-22T07:36:13.442Z",
+      "pushedAt": "2026-06-22T07:36:13.442Z"
+    },
+    {
       "id": "260dd45ea2918d36",
       "title": "Stocks rally in Asia as Iran cites progress in talks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUJKVXNjdDQ1Qk4wVGUxU0VYY2FROHplR3N5UW0zT0JjZUgyQnN5MDltTHRxVWtwQktOdUdEcXh1YUY3OTNOUnNWMmNoMXNnRmZTNlI4NzFMeHRoR2Zmd1dwTlJSUldqUkVQcXJfVThwYnhSR0tPMnBUbm5jTW8tQTU3cmtmdw?oc=5",
@@ -108,19 +121,7 @@
       ],
       "firstSeen": "2026-06-21T10:48:27.138Z",
       "pushedAt": "2026-06-21T10:48:27.138Z"
-    },
-    {
-      "id": "1e49a75d3a24b0b5",
-      "title": "Magnitude 8.2 Quake Possible Along Six Active Trenches In Philippines - Phivolcs - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrMWN5NktacVc4MDRqYnJqbXk2N1N4ZWJOTVhra0pMWVVib3ZoMnJMcEFleWQ2RVotQ0xENmp6eWdjVjRMS1k5cXQwMkEtTVBmWjJTMk0yeFRNWWY1VDUydVJWY1g3SE5Xam9RSWNlLWlmMFZUX1YxaVJn?oc=5",
-      "source": "Bernama",
-      "priority": "P0",
-      "matchedKeywords": [
-        "magnitude 8"
-      ],
-      "firstSeen": "2026-06-21T02:34:29.984Z",
-      "pushedAt": "2026-06-21T02:34:29.984Z"
     }
   ],
-  "updatedAt": "2026-06-22T02:07:23.714Z"
+  "updatedAt": "2026-06-22T07:36:13.668Z"
 }
