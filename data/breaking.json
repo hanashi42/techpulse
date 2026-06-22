@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "260dd45ea2918d36",
+      "title": "Stocks rally in Asia as Iran cites progress in talks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUJKVXNjdDQ1Qk4wVGUxU0VYY2FROHplR3N5UW0zT0JjZUgyQnN5MDltTHRxVWtwQktOdUdEcXh1YUY3OTNOUnNWMmNoMXNnRmZTNlI4NzFMeHRoR2Zmd1dwTlJSUldqUkVQcXJfVThwYnhSR0tPMnBUbm5jTW8tQTU3cmtmdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-06-22T02:07:23.144Z",
+      "pushedAt": "2026-06-22T02:07:23.144Z"
+    },
+    {
+      "id": "b0bf74c4ca7e293d",
+      "title": "China Slaps Restrictions on Dozens of U.S. Companies - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVd1SnlUVHExVFpPM1NhVF8yanVJZTRoa0ttOHc1QkQ4U29KUEpBR2d5cl9lbUFxaTRhdnhWWF85ZlBOdzJSR3VXbURWUUR5TFVpR0NURm5mY1MxbFhlSnI5TEhyMEZBTUtZWXpVT0hYOFV6MzI1bnZ2bVV0SnZkaXNxVW1BbnlQQlNqeGJzNFp0TDZzWnFj?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-06-22T02:07:23.386Z",
+      "pushedAt": "2026-06-22T02:07:23.386Z"
+    },
+    {
+      "id": "a6fbf4d4c15f4106",
+      "title": "Economic Impact Of Strait Of Hormuz Disruptions Among Parliament Highlights Today - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tLTNJZi1seFBxb244QU1SLW0tSmdBUWVLLW44ekZEX0c4cDFkdkRCbnBZMU43WUxGcFA3bUdhYkN4bi1yNVFqQlRQWDZsc3U4Vnk1VEFVNmRfN0dqNW54b0ZJZ1hkQQ?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption"
+      ],
+      "firstSeen": "2026-06-22T02:07:23.560Z",
+      "pushedAt": "2026-06-22T02:07:23.560Z"
+    },
+    {
+      "id": "dd9410b026c5acca",
+      "title": "Iran, US Finalise Draft On Temporary Oil Sanctions Relief, Iranian Negotiator Says - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wQktVM0NJWG5KdmJLeXVJcW5LRll0VUhxRDRXYTVoekh0T1NqenZMTFlnMnN0SV9DM2tVTkFiQlluRndtQWFFaTQzaTB1TUN0bHRkQXI1VTdxd1FvVEJpNEM0UkFycV8ta3JWRVFn?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-06-22T02:07:23.651Z",
+      "pushedAt": "2026-06-22T02:07:23.651Z"
+    },
+    {
       "id": "aac7dc98e3035be1",
       "title": "US and Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZU83bXR0RDhtTHExa0dVVFJOTWlvNS1DMVM0WUdqX0JyNWQ0RnRTcUNzQlkzR2xtWDdnTVA0NEt3NDVMZXBZcl83X2lEVU9jRktXNlc4SjhKMWMxRUZidDJvdDBreDZLbmpsRklMU01GNkJiYVJVWnhyZnlzUkFhYzY1VFdtUjRUbTh6aHlCVkFQUGttSU44TDBWVDZZTlRJbUhTY3JzRHA?oc=5",
@@ -72,31 +120,7 @@
       ],
       "firstSeen": "2026-06-21T02:34:29.984Z",
       "pushedAt": "2026-06-21T02:34:29.984Z"
-    },
-    {
-      "id": "c7d184f08e052201",
-      "title": "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens",
-      "url": "https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + supply"
-      ],
-      "firstSeen": "2026-06-20T23:55:31.548Z",
-      "pushedAt": "2026-06-20T23:55:31.548Z"
-    },
-    {
-      "id": "8265403619dcf5e0",
-      "title": "A new trade war may be brewing. This time, Europe is taking a page from Trump's playbook - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeDNUSUJnRmljamJhaWViNXdRc2RnZnMzMmF1am5QSU4yOHYwTVZTa2JHWjBySVpPWmdpclNGNVh0VnJ5SUFISjNyV0FXd1RRWjE3NFVVZ0hZdFFEdFY4SjBsU2ZhQ1p0cTV5V19ybENWTGhtdzNhblFVc09LbDZ4TGVFa0d0QnI1aWdBdXJNZlZLLTV0UFBoRVp2dGJCN2s?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "trade war + europe"
-      ],
-      "firstSeen": "2026-06-20T22:54:26.241Z",
-      "pushedAt": "2026-06-20T22:54:26.241Z"
     }
   ],
-  "updatedAt": "2026-06-21T22:08:53.444Z"
+  "updatedAt": "2026-06-22T02:07:23.714Z"
 }
