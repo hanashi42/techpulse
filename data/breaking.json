@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "c42b3a29d9952178",
+      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+      "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-06-22T17:48:36.030Z",
+      "pushedAt": "2026-06-22T17:48:36.030Z"
+    },
+    {
+      "id": "82af5c426f4deabd",
+      "title": "Mideast Live Updates: U.S. Eases Sanctions as Vance Says Iran Agrees to Resume Nuclear Inspections",
+      "url": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + nuclear"
+      ],
+      "firstSeen": "2026-06-22T17:48:36.468Z",
+      "pushedAt": "2026-06-22T17:48:36.468Z"
+    },
+    {
+      "id": "f4b580b0ddc9bb47",
+      "title": "Thousands Are Fleeing as Putin Bombs the Donbas Cities He Most Covets",
+      "url": "https://www.nytimes.com/2026/06/22/world/europe/ukraine-donetsk-donbas-sloviansk-kramatorsk-russia.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-06-22T17:48:36.714Z",
+      "pushedAt": "2026-06-22T17:48:36.714Z"
+    },
+    {
+      "id": "2843d699b147e052",
+      "title": "FedEx Makes Fourth Consecutive Appearance at China International Supply Chain Expo - FedEx newsroom",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmhuUDBkSUVidC13SjhuQkpGN1BIck5BN3kwazdtOW9qanBGU2xfYUNqNVd0OUZZYWJDVjI3cmtnNVpWZDdXNWRkY29XRHhKa3pMU0xEM3JhRDRsMERUMkduNmpaVGVlUy16VWF1bS0wb3pCVXZpUGR1N3czcUxadl9wRjUyblZYWWt3MUZIeW5VSlJmc2J6T1c4QlZsNzIxMFNwdFlLelZNZ0lwZkRRT0VoM3VfdV9mNU80X3VvY2ZXczVwX29zUDBqMA?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + cut"
+      ],
+      "firstSeen": "2026-06-22T17:48:36.815Z",
+      "pushedAt": "2026-06-22T17:48:36.815Z"
+    },
+    {
       "id": "933ec426a06e0d6c",
       "title": "BofA forecasts 75 bps of rate hikes in 2026 on labour market resilience, new Fed chair - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFJyZHVkakE1ODNnN192TVlVR3AwTWUwcnVTZ04yQ3lGYlowbHhxUWNDakZRSHZ1SnlpSGpXazZ4WjhsamVILWZFb0lIbHJ4SEphUWh3SnRHMFJyYXFZcFhoWk9nckVfLWFTQl9LNnNzXzB1ZmxRZEFtaVQtbE1pYXdFLVpUd2kwMG9Mc1dDZlU3THgzLWhKanNMLXhNem1lbnJmenBYWUVETUlCc1Z6dmQ4RHdpbTRnZVFYQ0Fn?oc=5",
@@ -133,19 +181,7 @@
       ],
       "firstSeen": "2026-06-21T20:56:59.063Z",
       "pushedAt": "2026-06-21T20:56:59.063Z"
-    },
-    {
-      "id": "7961fc81b2314986",
-      "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkFabkhXNDNSYXBUUUNRRUJBckE0dUdTS1B2Z3lHdTA2ZEV6ZmFfQmZzTUhmbS16ZS14cjV6ZEFOdkYxQTJNekg5OEpFU3JEVll1S3ViUmp1Q1lsaEZxNWozNUppWjdPYy1LMVhkQWthdk05SDExczY2UG92eEpodS1pMjEyb0xkOTctOEladFU5UExiemtWeGZB?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + civilian"
-      ],
-      "firstSeen": "2026-06-21T14:56:08.386Z",
-      "pushedAt": "2026-06-21T14:56:08.386Z"
     }
   ],
-  "updatedAt": "2026-06-22T13:13:13.570Z"
+  "updatedAt": "2026-06-22T17:48:36.902Z"
 }
