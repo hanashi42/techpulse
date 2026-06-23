@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "32f41acc183ce308",
+      "title": "Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees 'overhang' disappearing",
+      "url": "https://www.cnbc.com/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-06-23T01:34:18.166Z",
+      "pushedAt": "2026-06-23T01:34:18.166Z"
+    },
+    {
+      "id": "e756351593f7cbb8",
+      "title": "CNBC Daily Open: U.S. waives Iran sanctions; rotation out of megacap techs",
+      "url": "https://www.cnbc.com/2026/06/23/cnbc-daily-open-us-waives-iran-sanctions-rotation-out-of-megacaps.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-06-23T01:34:18.383Z",
+      "pushedAt": "2026-06-23T01:34:18.383Z"
+    },
+    {
       "id": "1334f054555a4720",
       "title": "Oil prices fall after U.S. authorizes Iranian crude sales",
       "url": "https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html",
@@ -183,5 +207,5 @@
       "pushedAt": "2026-06-22T02:07:23.651Z"
     }
   ],
-  "updatedAt": "2026-06-22T23:44:30.128Z"
+  "updatedAt": "2026-06-23T01:34:18.501Z"
 }
