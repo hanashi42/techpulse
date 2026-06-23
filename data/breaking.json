@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b0bf74c4ca7e293d",
+      "title": "China Slaps Restrictions on Dozens of U.S. Companies - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVd1SnlUVHExVFpPM1NhVF8yanVJZTRoa0ttOHc1QkQ4U29KUEpBR2d5cl9lbUFxaTRhdnhWWF85ZlBOdzJSR3VXbURWUUR5TFVpR0NURm5mY1MxbFhlSnI5TEhyMEZBTUtZWXpVT0hYOFV6MzI1bnZ2bVV0SnZkaXNxVW1BbnlQQlNqeGJzNFp0TDZzWnFj?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-06-23T14:06:23.121Z",
+      "pushedAt": "2026-06-23T14:06:23.121Z"
+    },
+    {
       "id": "eb3baa86386aeda6",
       "title": "China hits back at US sanctions on tech giants, restricting its exports to American defense firms - AP News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWpCdDBoT09GWWxwbGxRNVZfTmNUMXNDUEZvYVlRRVk4bmVPdUsxQzBXb1ZnbWdPUFRsbmFaY1MyRDlKaUJscWd5c0FPeUVmQXZRNTVpVjQxLXE2LWtQcU1jRHkwNnc0ajlPTHpHOGFPb0F0Nm91LVZTR3d1MGtnMVluMnpOUXFNeEZQcXJyLWJiR0g2RUNWZ2VRVHRneUQ4eklWdURTXzZqMHRI?oc=5",
@@ -132,56 +144,7 @@
       ],
       "firstSeen": "2026-06-22T17:48:36.815Z",
       "pushedAt": "2026-06-22T17:48:36.815Z"
-    },
-    {
-      "id": "933ec426a06e0d6c",
-      "title": "BofA forecasts 75 bps of rate hikes in 2026 on labour market resilience, new Fed chair - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFJyZHVkakE1ODNnN192TVlVR3AwTWUwcnVTZ04yQ3lGYlowbHhxUWNDakZRSHZ1SnlpSGpXazZ4WjhsamVILWZFb0lIbHJ4SEphUWh3SnRHMFJyYXFZcFhoWk9nckVfLWFTQl9LNnNzXzB1ZmxRZEFtaVQtbE1pYXdFLVpUd2kwMG9Mc1dDZlU3THgzLWhKanNMLXhNem1lbnJmenBYWUVETUlCc1Z6dmQ4RHdpbTRnZVFYQ0Fn?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-22T13:13:13.040Z",
-      "pushedAt": "2026-06-22T13:13:13.040Z"
-    },
-    {
-      "id": "1f1a92712ffa54f9",
-      "title": "Bank of England softens stablecoin rules in final policy draft - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVg2cVNqSVR0a0E0RTJ2WkNwNmVLYXNUMzd6eGwxLTQ5VG5IWkMzWGNOeXk0M3dqT1J5TDkyUU5fcFZ1dk5XMndRWVl5M3A4QTMzeVN5OVJzQV9JZUdUdzUxeVJFd2F5dlBlNG85MVZ0Nk1ybE5tbzIyc296T3FVZUtDSC04bE92ME12MnM5bUtMMnotb1RmZ1RCb3NIcEE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "stablecoin + ban"
-      ],
-      "firstSeen": "2026-06-22T13:13:13.264Z",
-      "pushedAt": "2026-06-22T13:13:13.264Z"
-    },
-    {
-      "id": "3f8345dd833084ea",
-      "title": "SpaceX stock falls premarket, continuing selloff after rally and blockbuster IPO",
-      "url": "https://www.cnbc.com/2026/06/22/spacex-stock-ipo-rally-selloff.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-06-22T13:13:13.446Z",
-      "pushedAt": "2026-06-22T13:13:13.446Z"
-    },
-    {
-      "id": "7015630582a07919",
-      "title": "China announces sanctions on 10 US companies as trade tensions flare - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYXRVeGF3U0pXWmNaNkw4VmJuS2M0cnRscHF2VUI2OVAxV1FvMkVSRXM5QnI4OEE4Yl9sQ0RJZzkwMWdWaU5hWnRyeFBCUVlHTnB0X1ZnRW11b2lta3Nid0RGMlhIQUVBVUdCaE0wVzFrNEVqZGNEYXBlRzhMamxUOWdtbjVMaEprbC1jYjFPTWpQQS03N3NaTldUNWUxTUNmdXRCeXZEYw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-06-22T13:13:13.507Z",
-      "pushedAt": "2026-06-22T13:13:13.507Z"
     }
   ],
-  "updatedAt": "2026-06-23T11:46:22.574Z"
+  "updatedAt": "2026-06-23T14:06:23.377Z"
 }
