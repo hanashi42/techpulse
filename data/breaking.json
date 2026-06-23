@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "eb3baa86386aeda6",
+      "title": "China hits back at US sanctions on tech giants, restricting its exports to American defense firms - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWpCdDBoT09GWWxwbGxRNVZfTmNUMXNDUEZvYVlRRVk4bmVPdUsxQzBXb1ZnbWdPUFRsbmFaY1MyRDlKaUJscWd5c0FPeUVmQXZRNTVpVjQxLXE2LWtQcU1jRHkwNnc0ajlPTHpHOGFPb0F0Nm91LVZTR3d1MGtnMVluMnpOUXFNeEZQcXJyLWJiR0g2RUNWZ2VRVHRneUQ4eklWdURTXzZqMHRI?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china",
+        "restrict + export"
+      ],
+      "firstSeen": "2026-06-23T11:46:22.491Z",
+      "pushedAt": "2026-06-23T11:46:22.491Z"
+    },
+    {
       "id": "40d84498ab6c9286",
       "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
       "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
@@ -170,5 +183,5 @@
       "pushedAt": "2026-06-22T13:13:13.507Z"
     }
   ],
-  "updatedAt": "2026-06-23T08:48:32.789Z"
+  "updatedAt": "2026-06-23T11:46:22.574Z"
 }
