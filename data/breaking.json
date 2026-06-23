@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4e4129d53bd668d6",
+      "title": "Dollar firms on hawkish Fed bets; yen near 40-year low - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTZaN2d6TjZIVW5UZmtUUFZ1YW9jUzZTYTYyMUFHR1pZMW5sVWRaMy1FQ3RHelRBc1Z5d2REUE9ONm9telQxalNZNEF3OEZBYkVyay1EN25DSFJYUEFxb0FRN0dmTVprc3dCZ0d5ME9tWGEwMzRRRGJLYXJBemJGMU94LTlXOTkxVURVUUZnZHViejVha25OQ0FjcklUR0ktM2dnZHdtelpnem40dnpSQmVra2R1ZU5Z?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + hawkish"
+      ],
+      "firstSeen": "2026-06-23T05:47:58.608Z",
+      "pushedAt": "2026-06-23T05:47:58.608Z"
+    },
+    {
       "id": "32f41acc183ce308",
       "title": "Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees 'overhang' disappearing",
       "url": "https://www.cnbc.com/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html",
@@ -157,55 +169,7 @@
       ],
       "firstSeen": "2026-06-22T07:36:13.442Z",
       "pushedAt": "2026-06-22T07:36:13.442Z"
-    },
-    {
-      "id": "260dd45ea2918d36",
-      "title": "Stocks rally in Asia as Iran cites progress in talks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUJKVXNjdDQ1Qk4wVGUxU0VYY2FROHplR3N5UW0zT0JjZUgyQnN5MDltTHRxVWtwQktOdUdEcXh1YUY3OTNOUnNWMmNoMXNnRmZTNlI4NzFMeHRoR2Zmd1dwTlJSUldqUkVQcXJfVThwYnhSR0tPMnBUbm5jTW8tQTU3cmtmdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-06-22T02:07:23.144Z",
-      "pushedAt": "2026-06-22T02:07:23.144Z"
-    },
-    {
-      "id": "b0bf74c4ca7e293d",
-      "title": "China Slaps Restrictions on Dozens of U.S. Companies - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVd1SnlUVHExVFpPM1NhVF8yanVJZTRoa0ttOHc1QkQ4U29KUEpBR2d5cl9lbUFxaTRhdnhWWF85ZlBOdzJSR3VXbURWUUR5TFVpR0NURm5mY1MxbFhlSnI5TEhyMEZBTUtZWXpVT0hYOFV6MzI1bnZ2bVV0SnZkaXNxVW1BbnlQQlNqeGJzNFp0TDZzWnFj?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-06-22T02:07:23.386Z",
-      "pushedAt": "2026-06-22T02:07:23.386Z"
-    },
-    {
-      "id": "a6fbf4d4c15f4106",
-      "title": "Economic Impact Of Strait Of Hormuz Disruptions Among Parliament Highlights Today - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tLTNJZi1seFBxb244QU1SLW0tSmdBUWVLLW44ekZEX0c4cDFkdkRCbnBZMU43WUxGcFA3bUdhYkN4bi1yNVFqQlRQWDZsc3U4Vnk1VEFVNmRfN0dqNW54b0ZJZ1hkQQ?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption"
-      ],
-      "firstSeen": "2026-06-22T02:07:23.560Z",
-      "pushedAt": "2026-06-22T02:07:23.560Z"
-    },
-    {
-      "id": "dd9410b026c5acca",
-      "title": "Iran, US Finalise Draft On Temporary Oil Sanctions Relief, Iranian Negotiator Says - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wQktVM0NJWG5KdmJLeXVJcW5LRll0VUhxRDRXYTVoekh0T1NqenZMTFlnMnN0SV9DM2tVTkFiQlluRndtQWFFaTQzaTB1TUN0bHRkQXI1VTdxd1FvVEJpNEM0UkFycV8ta3JWRVFn?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-06-22T02:07:23.651Z",
-      "pushedAt": "2026-06-22T02:07:23.651Z"
     }
   ],
-  "updatedAt": "2026-06-23T01:34:18.501Z"
+  "updatedAt": "2026-06-23T05:47:58.862Z"
 }
