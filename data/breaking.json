@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0f6d3c6c5a6de99b",
+      "title": "Chip stocks plunge, but bargain-hunters stem losses in other tech names - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUZ2UXRvZ190WlBJcFJmb09zZjZsbjJORUc1dWNjTFB0T0xFVmpydFRNLXA5NEE4cy1JQVBINURnTnZ4LW5TcV9PbzBjQWJGdlJCTEIwbnFJSEZYanZKZDRJYWR5blFVX3B5UWwxaW5BNHpOOHVnUWI4SU01WHU0MWpmTE5HbGFrc3B1VlNYX0RjcklLb2c0Z09JcmVzOWlIdTE3dDM5dmMtVkVKNFdnamRlU1YwekFib1JSQl9CWDltTTVnQWEyeg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock"
+      ],
+      "firstSeen": "2026-06-23T16:34:04.401Z",
+      "pushedAt": "2026-06-23T16:34:04.401Z"
+    },
+    {
       "id": "b0bf74c4ca7e293d",
       "title": "China Slaps Restrictions on Dozens of U.S. Companies - WSJ",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVd1SnlUVHExVFpPM1NhVF8yanVJZTRoa0ttOHc1QkQ4U29KUEpBR2d5cl9lbUFxaTRhdnhWWF85ZlBOdzJSR3VXbURWUUR5TFVpR0NURm5mY1MxbFhlSnI5TEhyMEZBTUtZWXpVT0hYOFV6MzI1bnZ2bVV0SnZkaXNxVW1BbnlQQlNqeGJzNFp0TDZzWnFj?oc=5",
@@ -146,5 +158,5 @@
       "pushedAt": "2026-06-22T17:48:36.815Z"
     }
   ],
-  "updatedAt": "2026-06-23T14:06:23.377Z"
+  "updatedAt": "2026-06-23T16:34:04.654Z"
 }
