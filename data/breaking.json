@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "14e8d6185371e5c2",
+      "title": "Venezuela Hit by 7.1-Magnitude Earthquake",
+      "url": "https://www.nytimes.com/2026/06/24/world/americas/earthquake-venezuela.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-06-24T23:35:18.932Z",
+      "pushedAt": "2026-06-24T23:35:18.932Z"
+    },
+    {
       "id": "cb1ed83e174b6b50",
       "title": "Micron stock jumps 16% as soaring prices from memory crunch lead to quadrupling of revenue",
       "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
@@ -37,5 +49,5 @@
       "pushedAt": "2026-06-23T23:50:52.355Z"
     }
   ],
-  "updatedAt": "2026-06-24T20:59:26.237Z"
+  "updatedAt": "2026-06-24T23:35:19.009Z"
 }
