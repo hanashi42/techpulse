@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "300ab5e8d7f0a681",
+      "title": "Russia asks Kazakhstan for gasoline to ease shortages, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTBDOTVvRUtVYWdhX3FNRThzbGRNRm9wSjc4cWNNUjk1RV9UU0VPNExxZUhlWFVDS19YQWZRN1dLV0NYRkdJOWZPUmMyYVpwYnpWTl9nSndmOVFleUhuWnZxSjVtWVNJYm1yM2NZRXFpOXc5bjBjdFc3UGIyQjdyTHlRdWZUNS1MVERvOHVwWlhmMll6bVBfZnZFTFl1UVl4MFRoWFRzWXk1OE4wV2ZV?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + gas"
+      ],
+      "firstSeen": "2026-06-24T15:55:53.370Z",
+      "pushedAt": "2026-06-24T15:55:53.370Z"
+    },
+    {
       "id": "79ce9206d4d2ccbe",
       "title": "Gold Futures Close Lower Amid Hawkish Fed Outlook - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53Uk9Lc1lCZ2NWdWIxNnpKSFRvNlBINkRRRDZUaEZMNVlpMG1mSEUydkVVWGpzanhtUWxoeGNHLV92ZGF6X0JuVUJlN0RqdUZsV1ZsdnZnUU9xMUI5T1BOanRMRQ?oc=5",
@@ -23,80 +35,7 @@
       ],
       "firstSeen": "2026-06-23T16:34:04.401Z",
       "pushedAt": "2026-06-23T16:34:04.401Z"
-    },
-    {
-      "id": "b0bf74c4ca7e293d",
-      "title": "China Slaps Restrictions on Dozens of U.S. Companies - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVd1SnlUVHExVFpPM1NhVF8yanVJZTRoa0ttOHc1QkQ4U29KUEpBR2d5cl9lbUFxaTRhdnhWWF85ZlBOdzJSR3VXbURWUUR5TFVpR0NURm5mY1MxbFhlSnI5TEhyMEZBTUtZWXpVT0hYOFV6MzI1bnZ2bVV0SnZkaXNxVW1BbnlQQlNqeGJzNFp0TDZzWnFj?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-06-23T14:06:23.121Z",
-      "pushedAt": "2026-06-23T14:06:23.121Z"
-    },
-    {
-      "id": "eb3baa86386aeda6",
-      "title": "China hits back at US sanctions on tech giants, restricting its exports to American defense firms - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWpCdDBoT09GWWxwbGxRNVZfTmNUMXNDUEZvYVlRRVk4bmVPdUsxQzBXb1ZnbWdPUFRsbmFaY1MyRDlKaUJscWd5c0FPeUVmQXZRNTVpVjQxLXE2LWtQcU1jRHkwNnc0ajlPTHpHOGFPb0F0Nm91LVZTR3d1MGtnMVluMnpOUXFNeEZQcXJyLWJiR0g2RUNWZ2VRVHRneUQ4eklWdURTXzZqMHRI?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china",
-        "restrict + export"
-      ],
-      "firstSeen": "2026-06-23T11:46:22.491Z",
-      "pushedAt": "2026-06-23T11:46:22.491Z"
-    },
-    {
-      "id": "40d84498ab6c9286",
-      "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
-      "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + sweeping"
-      ],
-      "firstSeen": "2026-06-23T08:48:32.465Z",
-      "pushedAt": "2026-06-23T08:48:32.465Z"
-    },
-    {
-      "id": "4e4129d53bd668d6",
-      "title": "Dollar firms on hawkish Fed bets; yen near 40-year low - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTZaN2d6TjZIVW5UZmtUUFZ1YW9jUzZTYTYyMUFHR1pZMW5sVWRaMy1FQ3RHelRBc1Z5d2REUE9ONm9telQxalNZNEF3OEZBYkVyay1EN25DSFJYUEFxb0FRN0dmTVprc3dCZ0d5ME9tWGEwMzRRRGJLYXJBemJGMU94LTlXOTkxVURVUUZnZHViejVha25OQ0FjcklUR0ktM2dnZHdtelpnem40dnpSQmVra2R1ZU5Z?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + hawkish"
-      ],
-      "firstSeen": "2026-06-23T05:47:58.608Z",
-      "pushedAt": "2026-06-23T05:47:58.608Z"
-    },
-    {
-      "id": "32f41acc183ce308",
-      "title": "Oil prices rise as investors continue to watch U.S.-Iran moves, Citi sees 'overhang' disappearing",
-      "url": "https://www.cnbc.com/2026/06/23/oil-prices-rise-as-investors-mull-middle-east-developments-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-06-23T01:34:18.166Z",
-      "pushedAt": "2026-06-23T01:34:18.166Z"
-    },
-    {
-      "id": "e756351593f7cbb8",
-      "title": "CNBC Daily Open: U.S. waives Iran sanctions; rotation out of megacap techs",
-      "url": "https://www.cnbc.com/2026/06/23/cnbc-daily-open-us-waives-iran-sanctions-rotation-out-of-megacaps.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-06-23T01:34:18.383Z",
-      "pushedAt": "2026-06-23T01:34:18.383Z"
     }
   ],
-  "updatedAt": "2026-06-23T23:50:52.687Z"
+  "updatedAt": "2026-06-24T15:55:53.614Z"
 }
