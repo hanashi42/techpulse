@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "cb1ed83e174b6b50",
+      "title": "Micron stock jumps 16% as soaring prices from memory crunch lead to quadrupling of revenue",
+      "url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-06-24T20:59:26.111Z",
+      "pushedAt": "2026-06-24T20:59:26.111Z"
+    },
+    {
       "id": "300ab5e8d7f0a681",
       "title": "Russia asks Kazakhstan for gasoline to ease shortages, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTBDOTVvRUtVYWdhX3FNRThzbGRNRm9wSjc4cWNNUjk1RV9UU0VPNExxZUhlWFVDS19YQWZRN1dLV0NYRkdJOWZPUmMyYVpwYnpWTl9nSndmOVFleUhuWnZxSjVtWVNJYm1yM2NZRXFpOXc5bjBjdFc3UGIyQjdyTHlRdWZUNS1MVERvOHVwWlhmMll6bVBfZnZFTFl1UVl4MFRoWFRzWXk1OE4wV2ZV?oc=5",
@@ -23,19 +35,7 @@
       ],
       "firstSeen": "2026-06-23T23:50:52.355Z",
       "pushedAt": "2026-06-23T23:50:52.355Z"
-    },
-    {
-      "id": "0f6d3c6c5a6de99b",
-      "title": "Chip stocks plunge, but bargain-hunters stem losses in other tech names - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUZ2UXRvZ190WlBJcFJmb09zZjZsbjJORUc1dWNjTFB0T0xFVmpydFRNLXA5NEE4cy1JQVBINURnTnZ4LW5TcV9PbzBjQWJGdlJCTEIwbnFJSEZYanZKZDRJYWR5blFVX3B5UWwxaW5BNHpOOHVnUWI4SU01WHU0MWpmTE5HbGFrc3B1VlNYX0RjcklLb2c0Z09JcmVzOWlIdTE3dDM5dmMtVkVKNFdnamRlU1YwekFib1JSQl9CWDltTTVnQWEyeg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock"
-      ],
-      "firstSeen": "2026-06-23T16:34:04.401Z",
-      "pushedAt": "2026-06-23T16:34:04.401Z"
     }
   ],
-  "updatedAt": "2026-06-24T15:55:53.614Z"
+  "updatedAt": "2026-06-24T20:59:26.237Z"
 }
