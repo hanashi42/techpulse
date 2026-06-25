@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "0efc900c7214bda1",
+      "title": "Mapping the Market: Silver's losing streak could surrender more ground to gold - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEJ2SXBsM2lQNTlKMWNzUWNmYndNeVhsTHlVVldkZGpvMVRMeVhJeTNqQTlZQnkxVVUtTTJLcUpSMzg1ekp0M0MxVnhfS1p4N1VYbkRYbmpIcThCTW9QRWhHNE9BLWpNd0VQTUl5WmtWSXpsUE1wcjcwM1J5TnBZZ0FJOA?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender"
+      ],
+      "firstSeen": "2026-06-25T13:28:54.593Z",
+      "pushedAt": "2026-06-25T13:28:54.593Z"
+    },
+    {
+      "id": "2308f466a30de4be",
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + devastat"
+      ],
+      "firstSeen": "2026-06-25T13:28:54.743Z",
+      "pushedAt": "2026-06-25T13:28:54.743Z"
+    },
+    {
+      "id": "4ff7983f8aeab277",
+      "title": "Iraq piles pressure on OPEC over quota dispute after UAE exit",
+      "url": "https://www.cnbc.com/2026/06/25/iraq-opec-oil-supply-quota-exports-subdued.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "opec + quota"
+      ],
+      "firstSeen": "2026-06-25T13:28:54.834Z",
+      "pushedAt": "2026-06-25T13:28:54.834Z"
+    },
+    {
       "id": "f7218eb0205fd472",
       "title": "Oil price falls back to pre-Iran war levels",
       "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
@@ -181,5 +217,5 @@
       "pushedAt": "2026-06-24T15:55:53.370Z"
     }
   ],
-  "updatedAt": "2026-06-25T11:19:05.402Z"
+  "updatedAt": "2026-06-25T13:28:54.873Z"
 }
