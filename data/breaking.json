@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8fe1d46fd2093f2a",
+      "title": "Gold under pressure near 7-month low as Fed rate-hike bets boost dollar - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkVOTXlYQ0o2aUd6NFRXc1liR1RxcXQzTjI4V1lLdGFxaDFPMUh1akY3VTZCNFdtaDNOWFZpSXRZVGZwUW11d1lyX1F0a0ZMT3FUZUFidkdjd1lxMmVuR28xWDdEQzFVY1lFTDkyVDdWTHpUWGJJN3o5ajZFcUZSOXJzbWt1S2VPdUoyTzlXR2wzMFFYeTFnN1o3bndwYUVVbDBCVGJB?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-06-25T08:39:16.090Z",
+      "pushedAt": "2026-06-25T08:39:16.090Z"
+    },
+    {
       "id": "497603a1e1b07681",
       "title": "Thousands feared dead as twin earthquakes cause devastation across Venezuel",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/thousands-feared-dead-as-twin-earthquakes-cause-devastation-across-venezuel?traffic_source=rss",
@@ -109,5 +121,5 @@
       "pushedAt": "2026-06-24T15:55:53.370Z"
     }
   ],
-  "updatedAt": "2026-06-25T05:46:37.403Z"
+  "updatedAt": "2026-06-25T08:39:16.342Z"
 }
