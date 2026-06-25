@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "82fc7369d5b1efdf",
+      "title": "US first-quarter GDP revised sharply higher; but consumer spending nearly stalls - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVotZm4yTnRycktSUGtjOFBmeXBrOVhQRHRIbFB4cDRCdWxpaUdRWXNkMXRRaE90cGJOdmFla2dCRlNDT3ZJX04zUk0xUlY3ZmRGc0JsZkZXUGpnTUZjVXNKdXpqWlppcDJEajQ3YTJnV1FHSWM4cTNIR0Y4U3VIRmw5emlyQVRSSDdyQk5URHR2UVpxWk9TdHVVRkQtTk0xaXZXWjFzWXFZWHhMbURmWG40RXpPc0FYRmdadw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "gdp + quarter"
+      ],
+      "firstSeen": "2026-06-25T20:20:56.730Z",
+      "pushedAt": "2026-06-25T20:20:56.730Z"
+    },
+    {
+      "id": "cce4cc0599f21a79",
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + attacked"
+      ],
+      "firstSeen": "2026-06-25T20:20:56.982Z",
+      "pushedAt": "2026-06-25T20:20:56.982Z"
+    },
+    {
       "id": "77d543c9c51dc270",
       "title": "People flee as building collapses on Caracas outskirts",
       "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
@@ -266,5 +290,5 @@
       "pushedAt": "2026-06-24T20:59:26.111Z"
     }
   ],
-  "updatedAt": "2026-06-25T18:11:26.725Z"
+  "updatedAt": "2026-06-25T20:20:57.226Z"
 }
