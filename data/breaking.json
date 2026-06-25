@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "497603a1e1b07681",
+      "title": "Thousands feared dead as twin earthquakes cause devastation across Venezuel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/thousands-feared-dead-as-twin-earthquakes-cause-devastation-across-venezuel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + devastat"
+      ],
+      "firstSeen": "2026-06-25T05:46:36.896Z",
+      "pushedAt": "2026-06-25T05:46:36.896Z"
+    },
+    {
+      "id": "852f9d2e0d9cd333",
+      "title": "Papua New Guinea faces severe food shortages as El Niño brings frost and drought",
+      "url": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + food"
+      ],
+      "firstSeen": "2026-06-25T05:46:37.204Z",
+      "pushedAt": "2026-06-25T05:46:37.204Z"
+    },
+    {
       "id": "b81335e5fc2ba7e6",
       "title": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdVFvNUJ1aWV0VTctX1lFeEFKM1dkVUVKWlhLT3FORGtCUlNnbWx1MFJnVEpNSzc3NjhQVWc3ekJyRDBwNHpaNERuMjl4NHR0Vjd1b0oyVGF0aHZVU19pb01jQ18yTmF3azh3d1pQeWhMbFlxd0pjM2NDR3VwbDNCWjJ4QXUta0lHYUFHOUIwaHZ6aUVJajNZZHNsaUxCUWRYTlgxczNwU3FzTDFVMkE?oc=5",
@@ -85,5 +109,5 @@
       "pushedAt": "2026-06-24T15:55:53.370Z"
     }
   ],
-  "updatedAt": "2026-06-25T01:33:53.582Z"
+  "updatedAt": "2026-06-25T05:46:37.403Z"
 }
