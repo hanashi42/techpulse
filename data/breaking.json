@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "f8256ab78530a897",
+      "title": "US May PCE inflation rises 4.1%, keeping Fed hike in play - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + hike",
+        "inflation + rise"
+      ],
+      "firstSeen": "2026-06-25T16:00:22.174Z",
+      "pushedAt": "2026-06-25T16:00:22.174Z"
+    },
+    {
+      "id": "a9b093ba8f069c1b",
+      "title": "Venezuela earthquakes devastate country",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-earthquakes-devastate-country?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + devastat"
+      ],
+      "firstSeen": "2026-06-25T16:00:22.361Z",
+      "pushedAt": "2026-06-25T16:00:22.361Z"
+    },
+    {
+      "id": "a3bf6ccb0f5b9db8",
+      "title": "Iran Threatens Ships in Strait of Hormuz as Marco Rubio Meets Gulf Leaders",
+      "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-06-25T16:00:22.481Z",
+      "pushedAt": "2026-06-25T16:00:22.481Z"
+    },
+    {
       "id": "0efc900c7214bda1",
       "title": "Mapping the Market: Silver's losing streak could surrender more ground to gold - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEJ2SXBsM2lQNTlKMWNzUWNmYndNeVhsTHlVVldkZGpvMVRMeVhJeTNqQTlZQnkxVVUtTTJLcUpSMzg1ekp0M0MxVnhfS1p4N1VYbkRYbmpIcThCTW9QRWhHNE9BLWpNd0VQTUl5WmtWSXpsUE1wcjcwM1J5TnBZZ0FJOA?oc=5",
@@ -203,19 +240,7 @@
       ],
       "firstSeen": "2026-06-24T20:59:26.111Z",
       "pushedAt": "2026-06-24T20:59:26.111Z"
-    },
-    {
-      "id": "300ab5e8d7f0a681",
-      "title": "Russia asks Kazakhstan for gasoline to ease shortages, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTBDOTVvRUtVYWdhX3FNRThzbGRNRm9wSjc4cWNNUjk1RV9UU0VPNExxZUhlWFVDS19YQWZRN1dLV0NYRkdJOWZPUmMyYVpwYnpWTl9nSndmOVFleUhuWnZxSjVtWVNJYm1yM2NZRXFpOXc5bjBjdFc3UGIyQjdyTHlRdWZUNS1MVERvOHVwWlhmMll6bVBfZnZFTFl1UVl4MFRoWFRzWXk1OE4wV2ZV?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + gas"
-      ],
-      "firstSeen": "2026-06-24T15:55:53.370Z",
-      "pushedAt": "2026-06-24T15:55:53.370Z"
     }
   ],
-  "updatedAt": "2026-06-25T13:28:54.873Z"
+  "updatedAt": "2026-06-25T16:00:22.534Z"
 }
