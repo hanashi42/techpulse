@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "8edfbbb23b929cf5",
+      "title": "Trump threatens 100% tariff on countries putting 'Digital Services Tax on American Companies'",
+      "url": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 100%"
+      ],
+      "firstSeen": "2026-06-26T17:16:51.896Z",
+      "pushedAt": "2026-06-26T17:16:51.896Z"
+    },
+    {
+      "id": "e8318768dd249fea",
+      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
+      "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-06-26T17:16:52.080Z",
+      "pushedAt": "2026-06-26T17:16:52.080Z"
+    },
+    {
       "id": "eaf7aa4f064d4a5b",
       "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - AP News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQci1fQXFOYTJEUzh1UXJjcGd4eTY5NnpOQU9SMHN2d2ZxQXdEbUlrWGphSkNJNzkyWEZpcjRYMGJpYmVsTER5ZzdCeXQ3MDM4UHBOOGduWGJla2ZLNlFXbDM3TFlpSVpoblE2R3ZlMXBvWjB6Nk04NFhJU01vVXVUVF80TW1CUmEwSThENC1RV2duSTd1M0oyWg?oc=5",
@@ -107,44 +132,7 @@
       ],
       "firstSeen": "2026-06-25T18:11:26.683Z",
       "pushedAt": "2026-06-25T18:11:26.683Z"
-    },
-    {
-      "id": "f8256ab78530a897",
-      "title": "US May PCE inflation rises 4.1%, keeping Fed hike in play - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + hike",
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-06-25T16:00:22.174Z",
-      "pushedAt": "2026-06-25T16:00:22.174Z"
-    },
-    {
-      "id": "a9b093ba8f069c1b",
-      "title": "Venezuela earthquakes devastate country",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-earthquakes-devastate-country?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + devastat"
-      ],
-      "firstSeen": "2026-06-25T16:00:22.361Z",
-      "pushedAt": "2026-06-25T16:00:22.361Z"
-    },
-    {
-      "id": "a3bf6ccb0f5b9db8",
-      "title": "Iran Threatens Ships in Strait of Hormuz as Marco Rubio Meets Gulf Leaders",
-      "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-06-25T16:00:22.481Z",
-      "pushedAt": "2026-06-25T16:00:22.481Z"
     }
   ],
-  "updatedAt": "2026-06-26T15:32:17.423Z"
+  "updatedAt": "2026-06-26T17:16:52.199Z"
 }
