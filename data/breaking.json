@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "eaf7aa4f064d4a5b",
+      "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQci1fQXFOYTJEUzh1UXJjcGd4eTY5NnpOQU9SMHN2d2ZxQXdEbUlrWGphSkNJNzkyWEZpcjRYMGJpYmVsTER5ZzdCeXQ3MDM4UHBOOGduWGJla2ZLNlFXbDM3TFlpSVpoblE2R3ZlMXBvWjB6Nk04NFhJU01vVXVUVF80TW1CUmEwSThENC1RV2duSTd1M0oyWg?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + chip"
+      ],
+      "firstSeen": "2026-06-26T15:32:17.326Z",
+      "pushedAt": "2026-06-26T15:32:17.326Z"
+    },
+    {
       "id": "852f9d2e0d9cd333",
       "title": "Papua New Guinea at risk of food shortages as El Niño brings frost and drought",
       "url": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages",
@@ -132,43 +144,7 @@
       ],
       "firstSeen": "2026-06-25T16:00:22.481Z",
       "pushedAt": "2026-06-25T16:00:22.481Z"
-    },
-    {
-      "id": "0efc900c7214bda1",
-      "title": "Mapping the Market: Silver's losing streak could surrender more ground to gold - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEJ2SXBsM2lQNTlKMWNzUWNmYndNeVhsTHlVVldkZGpvMVRMeVhJeTNqQTlZQnkxVVUtTTJLcUpSMzg1ekp0M0MxVnhfS1p4N1VYbkRYbmpIcThCTW9QRWhHNE9BLWpNd0VQTUl5WmtWSXpsUE1wcjcwM1J5TnBZZ0FJOA?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender"
-      ],
-      "firstSeen": "2026-06-25T13:28:54.593Z",
-      "pushedAt": "2026-06-25T13:28:54.593Z"
-    },
-    {
-      "id": "2308f466a30de4be",
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + devastat"
-      ],
-      "firstSeen": "2026-06-25T13:28:54.743Z",
-      "pushedAt": "2026-06-25T13:28:54.743Z"
-    },
-    {
-      "id": "4ff7983f8aeab277",
-      "title": "Iraq piles pressure on OPEC over quota dispute after UAE exit",
-      "url": "https://www.cnbc.com/2026/06/25/iraq-opec-oil-supply-quota-exports-subdued.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + quota"
-      ],
-      "firstSeen": "2026-06-25T13:28:54.834Z",
-      "pushedAt": "2026-06-25T13:28:54.834Z"
     }
   ],
-  "updatedAt": "2026-06-26T13:22:25.523Z"
+  "updatedAt": "2026-06-26T15:32:17.423Z"
 }
