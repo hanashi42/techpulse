@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b39d7934cb9ac197",
+      "title": "Mother gives birth amid Venezuela earthquake devastation",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/mother-gives-birth-amid-venezuela-earthquake-devastation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + devastat"
+      ],
+      "firstSeen": "2026-06-26T11:17:10.714Z",
+      "pushedAt": "2026-06-26T11:17:10.714Z"
+    },
+    {
       "id": "6df43b9723ea2c38",
       "title": "China Sharpens Tools for Hitting Back at Foreign Sanctions - WSJ",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc09fSm9IZm9jZ2UwanRGWWtIbWpkOXVaeXRhdkc4c3B3NWZFQkR3V19HVm5qdHFLVXRUZ19jLUw1bmgxaEFWQzE5aXFQSWZOTFh1WHFaaDRKem5ObWE5QU5mellkNmxuWEJPc1NCMDVPNnFVZEN5YU5WYnliSXhGTF9yWnoxSzdreG41TGxzX294NUZJTWNSRnY0Z3ZzYkNy?oc=5",
@@ -204,43 +216,7 @@
       ],
       "firstSeen": "2026-06-25T11:19:05.384Z",
       "pushedAt": "2026-06-25T11:19:05.384Z"
-    },
-    {
-      "id": "8fe1d46fd2093f2a",
-      "title": "Gold under pressure near 7-month low as Fed rate-hike bets boost dollar - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkVOTXlYQ0o2aUd6NFRXc1liR1RxcXQzTjI4V1lLdGFxaDFPMUh1akY3VTZCNFdtaDNOWFZpSXRZVGZwUW11d1lyX1F0a0ZMT3FUZUFidkdjd1lxMmVuR28xWDdEQzFVY1lFTDkyVDdWTHpUWGJJN3o5ajZFcUZSOXJzbWt1S2VPdUoyTzlXR2wzMFFYeTFnN1o3bndwYUVVbDBCVGJB?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-25T08:39:16.090Z",
-      "pushedAt": "2026-06-25T08:39:16.090Z"
-    },
-    {
-      "id": "497603a1e1b07681",
-      "title": "Thousands feared dead as twin earthquakes cause devastation across Venezuel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/thousands-feared-dead-as-twin-earthquakes-cause-devastation-across-venezuel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + devastat"
-      ],
-      "firstSeen": "2026-06-25T05:46:36.896Z",
-      "pushedAt": "2026-06-25T05:46:36.896Z"
-    },
-    {
-      "id": "852f9d2e0d9cd333",
-      "title": "Papua New Guinea faces severe food shortages as El Niño brings frost and drought",
-      "url": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + food"
-      ],
-      "firstSeen": "2026-06-25T05:46:37.204Z",
-      "pushedAt": "2026-06-25T05:46:37.204Z"
     }
   ],
-  "updatedAt": "2026-06-26T04:43:39.110Z"
+  "updatedAt": "2026-06-26T11:17:10.986Z"
 }
