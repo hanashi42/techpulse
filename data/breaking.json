@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "852f9d2e0d9cd333",
+      "title": "Papua New Guinea at risk of food shortages as El Niño brings frost and drought",
+      "url": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + food"
+      ],
+      "firstSeen": "2026-06-26T13:22:25.169Z",
+      "pushedAt": "2026-06-26T13:22:25.169Z"
+    },
+    {
       "id": "b39d7934cb9ac197",
       "title": "Mother gives birth amid Venezuela earthquake devastation",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/mother-gives-birth-amid-venezuela-earthquake-devastation?traffic_source=rss",
@@ -156,67 +168,7 @@
       ],
       "firstSeen": "2026-06-25T13:28:54.834Z",
       "pushedAt": "2026-06-25T13:28:54.834Z"
-    },
-    {
-      "id": "f7218eb0205fd472",
-      "title": "Oil price falls back to pre-Iran war levels",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-06-25T11:19:05.232Z",
-      "pushedAt": "2026-06-25T11:19:05.232Z"
-    },
-    {
-      "id": "93d830452f12d245",
-      "title": "World reacts as devastating Venezuela earthquakes kill at least 32",
-      "url": "https://www.aljazeera.com/news/2026/6/25/world-reacts-as-devastating-venezuela-earthquakes-kill-at-least-32?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + devastat"
-      ],
-      "firstSeen": "2026-06-25T11:19:05.303Z",
-      "pushedAt": "2026-06-25T11:19:05.303Z"
-    },
-    {
-      "id": "d2960d5039cb682d",
-      "title": "Magnitude 6.9 earthquake strikes northern Japan",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/magnitude-6-9-earthquake-strikes-northern-japan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-06-25T11:19:05.346Z",
-      "pushedAt": "2026-06-25T11:19:05.346Z"
-    },
-    {
-      "id": "d2be2e8994f1d6ab",
-      "title": "Air con and building efficiency stocks rally as Europe bakes in extreme heat",
-      "url": "https://www.cnbc.com/2026/06/25/europe-heat-wave-cooling-energy-stocks.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-06-25T11:19:05.365Z",
-      "pushedAt": "2026-06-25T11:19:05.365Z"
-    },
-    {
-      "id": "18412e95c2bca852",
-      "title": "Taiwan simulates countering a Chinese maritime blockade in tabletop drill - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGdCc0VqWTJLVFJaR0FBQ1I3U2ZmMkt1d0xoYmlnMGM2WFlUbF9jQkJQU0NHU2JNLVBCQk1rSkNSeWhFZlFUNTI1NVpUY05RMWdQOE04XzI5ODFVTU5iYmRLdW85dnpQbDlEeVk4V3M0bW1INXBpY1Brc0NKdW9rNUI2eTdIZWphcTg3djZCa1FjSjJhdU5UdDdVRG5BR1lqbF9HeTZldDByS2RQN0ctQl8zc0tidHM?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + taiwan"
-      ],
-      "firstSeen": "2026-06-25T11:19:05.384Z",
-      "pushedAt": "2026-06-25T11:19:05.384Z"
     }
   ],
-  "updatedAt": "2026-06-26T11:17:10.986Z"
+  "updatedAt": "2026-06-26T13:22:25.523Z"
 }
