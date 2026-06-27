@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8b5fce8f49da6d8b",
+      "title": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUlLNE8zdUhsWi1UT2xqU2F4aFdsNlpQUzlUdUlMQ19wNXFJaEpibm9ZVXlsS09xd3llRXYtd09uX2NKNzBIX0lHNlRVS2owX3pFcjlXcUU5YXNJeDRkbWNacXBaa0tSdjlCaW5BV0RJbDhXQU13ZWtWM0lHd3Y4bE43V3E3eEhlenlVc204MHZwOE5aOGFscmdvTUFMV2FpTUtPWjlZS2VEMEJfVTJWS1cycXA1RVFWMWszUg?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender"
+      ],
+      "firstSeen": "2026-06-27T15:22:27.596Z",
+      "pushedAt": "2026-06-27T15:22:27.596Z"
+    },
+    {
       "id": "7f92260ef61b0894",
       "title": "Three killed as Ukraine and Russia trade attacks overnight",
       "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
@@ -60,19 +72,7 @@
       ],
       "firstSeen": "2026-06-26T15:32:17.326Z",
       "pushedAt": "2026-06-26T15:32:17.326Z"
-    },
-    {
-      "id": "852f9d2e0d9cd333",
-      "title": "Papua New Guinea at risk of food shortages as El Niño brings frost and drought",
-      "url": "https://www.theguardian.com/world/2026/jun/25/el-nino-pacific-papua-new-guinea-png-food-shortages",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + food"
-      ],
-      "firstSeen": "2026-06-26T13:22:25.169Z",
-      "pushedAt": "2026-06-26T13:22:25.169Z"
     }
   ],
-  "updatedAt": "2026-06-27T12:13:32.632Z"
+  "updatedAt": "2026-06-27T15:22:27.961Z"
 }
