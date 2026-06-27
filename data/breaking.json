@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "92cbce37eb8f7def",
+      "title": "U.S. military attacks Iranian targets after commercial tanker was hit in the Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-06-27T22:10:36.951Z",
+      "pushedAt": "2026-06-27T22:10:36.951Z"
+    },
+    {
       "id": "21532f1c6a6cbf52",
       "title": "Another powerful 4.8 magnitude earthquake hits near Venezuela",
       "url": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
@@ -61,5 +73,5 @@
       "pushedAt": "2026-06-27T00:00:19.163Z"
     }
   ],
-  "updatedAt": "2026-06-27T21:02:32.694Z"
+  "updatedAt": "2026-06-27T22:10:37.294Z"
 }
