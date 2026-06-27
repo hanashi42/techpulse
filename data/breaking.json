@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "21532f1c6a6cbf52",
+      "title": "Another powerful 4.8 magnitude earthquake hits near Venezuela",
+      "url": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-06-27T21:02:32.444Z",
+      "pushedAt": "2026-06-27T21:02:32.445Z"
+    },
+    {
       "id": "a464bfbbf0441069",
       "title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU21jd0pJa095S19rRUp3Q1NSN3dJZkxJVzYwNGFNbWtMa2ZqZ1lxWkx1T2xjbGI4UkhJd0sxXzJNcjVNNmllcmZ5SDlnZUlTMU1sV1NSRGlSbVRHMHFvX2pOWW5zT0JNNF8tdnEtSnYwQ1dQV3d0M0g4U0RBZEdZWlcwMFVFMGVER1N6NlRUOVVacVp4X18yS2FoczFWd1piYzdDeDlhSkc?oc=5",
@@ -49,5 +61,5 @@
       "pushedAt": "2026-06-27T00:00:19.163Z"
     }
   ],
-  "updatedAt": "2026-06-27T19:59:17.878Z"
+  "updatedAt": "2026-06-27T21:02:32.694Z"
 }
