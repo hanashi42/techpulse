@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7f92260ef61b0894",
+      "title": "Three killed as Ukraine and Russia trade attacks overnight",
+      "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-27T12:13:32.366Z",
+      "pushedAt": "2026-06-27T12:13:32.366Z"
+    },
+    {
       "id": "95dde50695af1137",
       "title": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
       "url": "https://www.aljazeera.com/news/2026/6/26/4-9-earthquake-detected-in-venezuela-just-days-after-major-quakes?traffic_source=rss",
@@ -60,43 +72,7 @@
       ],
       "firstSeen": "2026-06-26T13:22:25.169Z",
       "pushedAt": "2026-06-26T13:22:25.169Z"
-    },
-    {
-      "id": "b39d7934cb9ac197",
-      "title": "Mother gives birth amid Venezuela earthquake devastation",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/mother-gives-birth-amid-venezuela-earthquake-devastation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + devastat"
-      ],
-      "firstSeen": "2026-06-26T11:17:10.714Z",
-      "pushedAt": "2026-06-26T11:17:10.714Z"
-    },
-    {
-      "id": "6df43b9723ea2c38",
-      "title": "China Sharpens Tools for Hitting Back at Foreign Sanctions - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc09fSm9IZm9jZ2UwanRGWWtIbWpkOXVaeXRhdkc4c3B3NWZFQkR3V19HVm5qdHFLVXRUZ19jLUw1bmgxaEFWQzE5aXFQSWZOTFh1WHFaaDRKem5ObWE5QU5mellkNmxuWEJPc1NCMDVPNnFVZEN5YU5WYnliSXhGTF9yWnoxSzdreG41TGxzX294NUZJTWNSRnY0Z3ZzYkNy?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + china"
-      ],
-      "firstSeen": "2026-06-26T04:43:38.388Z",
-      "pushedAt": "2026-06-26T04:43:38.388Z"
-    },
-    {
-      "id": "0d95d42a9398b9a7",
-      "title": "Man Charged With Conducting Business Without Disclosing Bankruptcy Status - bernama",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPQktsTmUzaTdzRVRwOENfSUFmUlhjU1hKREY1aUpseGEzVVNHYVN1QWNkb2U1Wks1SHlsNGkyWmVOdW12bHlwb3hFNHkxaEZrZTRCbzRCcmRLLTZTbDJ3dkxn?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bankrupt + bank"
-      ],
-      "firstSeen": "2026-06-26T04:43:38.876Z",
-      "pushedAt": "2026-06-26T04:43:38.876Z"
     }
   ],
-  "updatedAt": "2026-06-27T00:00:21.365Z"
+  "updatedAt": "2026-06-27T12:13:32.632Z"
 }
