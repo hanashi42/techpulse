@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a464bfbbf0441069",
+      "title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU21jd0pJa095S19rRUp3Q1NSN3dJZkxJVzYwNGFNbWtMa2ZqZ1lxWkx1T2xjbGI4UkhJd0sxXzJNcjVNNmllcmZ5SDlnZUlTMU1sV1NSRGlSbVRHMHFvX2pOWW5zT0JNNF8tdnEtSnYwQ1dQV3d0M0g4U0RBZEdZWlcwMFVFMGVER1N6NlRUOVVacVp4X18yS2FoczFWd1piYzdDeDlhSkc?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + airstrike"
+      ],
+      "firstSeen": "2026-06-27T19:59:17.604Z",
+      "pushedAt": "2026-06-27T19:59:17.604Z"
+    },
+    {
       "id": "8b5fce8f49da6d8b",
       "title": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUlLNE8zdUhsWi1UT2xqU2F4aFdsNlpQUzlUdUlMQ19wNXFJaEpibm9ZVXlsS09xd3llRXYtd09uX2NKNzBIX0lHNlRVS2owX3pFcjlXcUU5YXNJeDRkbWNacXBaa0tSdjlCaW5BV0RJbDhXQU13ZWtWM0lHd3Y4bE43V3E3eEhlenlVc204MHZwOE5aOGFscmdvTUFMV2FpTUtPWjlZS2VEMEJfVTJWS1cycXA1RVFWMWszUg?oc=5",
@@ -35,44 +47,7 @@
       ],
       "firstSeen": "2026-06-27T00:00:19.163Z",
       "pushedAt": "2026-06-27T00:00:19.163Z"
-    },
-    {
-      "id": "8edfbbb23b929cf5",
-      "title": "Trump threatens 100% tariff on countries putting 'Digital Services Tax on American Companies'",
-      "url": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 100%"
-      ],
-      "firstSeen": "2026-06-26T17:16:51.896Z",
-      "pushedAt": "2026-06-26T17:16:51.896Z"
-    },
-    {
-      "id": "e8318768dd249fea",
-      "title": "Minneapolis Fed President Neel Kashkari says he expects a rate hike this year",
-      "url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-26T17:16:52.080Z",
-      "pushedAt": "2026-06-26T17:16:52.080Z"
-    },
-    {
-      "id": "eaf7aa4f064d4a5b",
-      "title": "Apple increases prices for Macs and iPads, blaming a shortage of memory chips - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQci1fQXFOYTJEUzh1UXJjcGd4eTY5NnpOQU9SMHN2d2ZxQXdEbUlrWGphSkNJNzkyWEZpcjRYMGJpYmVsTER5ZzdCeXQ3MDM4UHBOOGduWGJla2ZLNlFXbDM3TFlpSVpoblE2R3ZlMXBvWjB6Nk04NFhJU01vVXVUVF80TW1CUmEwSThENC1RV2duSTd1M0oyWg?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + chip"
-      ],
-      "firstSeen": "2026-06-26T15:32:17.326Z",
-      "pushedAt": "2026-06-26T15:32:17.326Z"
     }
   ],
-  "updatedAt": "2026-06-27T15:22:27.961Z"
+  "updatedAt": "2026-06-27T19:59:17.878Z"
 }
