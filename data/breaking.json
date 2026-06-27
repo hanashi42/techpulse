@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "95dde50695af1137",
+      "title": "Venezuela shaken by magnitude 4.9 tremor days after major earthquakes",
+      "url": "https://www.aljazeera.com/news/2026/6/26/4-9-earthquake-detected-in-venezuela-just-days-after-major-quakes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-06-27T00:00:19.163Z",
+      "pushedAt": "2026-06-27T00:00:19.163Z"
+    },
+    {
       "id": "8edfbbb23b929cf5",
       "title": "Trump threatens 100% tariff on countries putting 'Digital Services Tax on American Companies'",
       "url": "https://www.cnbc.com/2026/06/26/trump-tariff-trade-tech-tax.html",
@@ -84,55 +96,7 @@
       ],
       "firstSeen": "2026-06-26T04:43:38.876Z",
       "pushedAt": "2026-06-26T04:43:38.876Z"
-    },
-    {
-      "id": "82fc7369d5b1efdf",
-      "title": "US first-quarter GDP revised sharply higher; but consumer spending nearly stalls - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVotZm4yTnRycktSUGtjOFBmeXBrOVhQRHRIbFB4cDRCdWxpaUdRWXNkMXRRaE90cGJOdmFla2dCRlNDT3ZJX04zUk0xUlY3ZmRGc0JsZkZXUGpnTUZjVXNKdXpqWlppcDJEajQ3YTJnV1FHSWM4cTNIR0Y4U3VIRmw5emlyQVRSSDdyQk5URHR2UVpxWk9TdHVVRkQtTk0xaXZXWjFzWXFZWHhMbURmWG40RXpPc0FYRmdadw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "gdp + quarter"
-      ],
-      "firstSeen": "2026-06-25T20:20:56.730Z",
-      "pushedAt": "2026-06-25T20:20:56.730Z"
-    },
-    {
-      "id": "cce4cc0599f21a79",
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + attacked"
-      ],
-      "firstSeen": "2026-06-25T20:20:56.982Z",
-      "pushedAt": "2026-06-25T20:20:56.982Z"
-    },
-    {
-      "id": "77d543c9c51dc270",
-      "title": "People flee as building collapses on Caracas outskirts",
-      "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "collapses + building"
-      ],
-      "firstSeen": "2026-06-25T18:11:26.615Z",
-      "pushedAt": "2026-06-25T18:11:26.615Z"
-    },
-    {
-      "id": "403368e18f283d3e",
-      "title": "Rescue teams race to Venezuela amid fears thousands killed in earthquakes",
-      "url": "https://www.theguardian.com/world/2026/jun/25/rescue-teams-race-to-venezuela-amid-fears-thousands-killed-in-earthquakes",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + killed"
-      ],
-      "firstSeen": "2026-06-25T18:11:26.683Z",
-      "pushedAt": "2026-06-25T18:11:26.683Z"
     }
   ],
-  "updatedAt": "2026-06-26T17:16:52.199Z"
+  "updatedAt": "2026-06-27T00:00:21.365Z"
 }
