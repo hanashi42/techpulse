@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0ef9c43b9c97da5c",
+      "title": "Earthquake of magnitude 4.1 strikes southern Portugal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDF2Vm40X25wOUpSWFdvc1E2YW4zeXNTOFdGYk0zSm5aTVNselEwbjRXWjI4QUpPUnV5eF90dllBcVRHdVAxUERlVjRFUkZUY0FERkRjYjNRYnFwNS12Tjk1aW5DeExCU1Uwa2U1SVU4bTVfeE9rUDNqa3dGUXRnNWx6ZzllYjI2OEhzbmpNUW5JQ1JaRE9wSHdxN1d5dkNFcUhpMzRjTWNxZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-06-28T15:36:52.034Z",
+      "pushedAt": "2026-06-28T15:36:52.034Z"
+    },
+    {
       "id": "7d7421926a652479",
       "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
       "url": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
@@ -47,31 +59,7 @@
       ],
       "firstSeen": "2026-06-27T19:59:17.604Z",
       "pushedAt": "2026-06-27T19:59:17.604Z"
-    },
-    {
-      "id": "8b5fce8f49da6d8b",
-      "title": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUlLNE8zdUhsWi1UT2xqU2F4aFdsNlpQUzlUdUlMQ19wNXFJaEpibm9ZVXlsS09xd3llRXYtd09uX2NKNzBIX0lHNlRVS2owX3pFcjlXcUU5YXNJeDRkbWNacXBaa0tSdjlCaW5BV0RJbDhXQU13ZWtWM0lHd3Y4bE43V3E3eEhlenlVc204MHZwOE5aOGFscmdvTUFMV2FpTUtPWjlZS2VEMEJfVTJWS1cycXA1RVFWMWszUg?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "surrender"
-      ],
-      "firstSeen": "2026-06-27T15:22:27.596Z",
-      "pushedAt": "2026-06-27T15:22:27.596Z"
-    },
-    {
-      "id": "7f92260ef61b0894",
-      "title": "Three killed as Ukraine and Russia trade attacks overnight",
-      "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-27T12:13:32.366Z",
-      "pushedAt": "2026-06-27T12:13:32.366Z"
     }
   ],
-  "updatedAt": "2026-06-28T04:51:07.910Z"
+  "updatedAt": "2026-06-28T15:36:52.429Z"
 }
