@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e7df85eb4f684ed9",
+      "title": "Volkswagen Crisis Revives CO2 Rules Attack And China Tariffs Call - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ3VZQ2hGX3lpcGhFZ0ViU1labk5hYnh2dDlsZHA4c09QVWFiV2preXdWc1c3QXBxSUtydjRuTGZib3p2VW5zQ2lqVzIwVWl3eGZPU1ctdHJwV3BDQlFzMWptRWttQTRQS3d1Ry1kYXg1c3plS3lYbmVXLXI0Y0xNR2dmb0xPVXRYaGJGQmo4MW85MTRVX2F5LVkyTG9Td2JZYVY3aW52dHZMUUx5bktrSFdtUGx6LThs?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-06-29T19:18:45.183Z",
+      "pushedAt": "2026-06-29T19:18:45.183Z"
+    },
+    {
       "id": "e14765b3900e781f",
       "title": "EXCLUSIVE: Apple accuses India of 'copy-pasting' rivals' claims in antitrust investigation - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3hWX013N1NMeEhOMWxxRkZhbFBrTGZ4ajhMS0ltUTBkZnFNcFk5U0RLLWtBRVd6RXl6RWpPR2hQREpFSUl6WlN3R0RndzlKQnVhenN4UUd5d2hQUnBQUDNENUVTbXJheXd2VVFEZXE4eDVsQ19uYlZjdVRudWthX3ZXWlpERk94V2x3NXZTRFBqNDcwZHlMOEozeWdkQlppNVZfcUlrSXhJa0V2azlxaWhhcVpmYUVUblpCYXV3MmxiOXhkeGgxNw?oc=5",
@@ -71,19 +83,7 @@
       ],
       "firstSeen": "2026-06-29T06:19:37.825Z",
       "pushedAt": "2026-06-29T06:19:37.826Z"
-    },
-    {
-      "id": "0ef9c43b9c97da5c",
-      "title": "Earthquake of magnitude 4.1 strikes southern Portugal - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDF2Vm40X25wOUpSWFdvc1E2YW4zeXNTOFdGYk0zSm5aTVNselEwbjRXWjI4QUpPUnV5eF90dllBcVRHdVAxUERlVjRFUkZUY0FERkRjYjNRYnFwNS12Tjk1aW5DeExCU1Uwa2U1SVU4bTVfeE9rUDNqa3dGUXRnNWx6ZzllYjI2OEhzbmpNUW5JQ1JaRE9wSHdxN1d5dkNFcUhpMzRjTWNxZw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-06-28T15:36:52.034Z",
-      "pushedAt": "2026-06-28T15:36:52.034Z"
     }
   ],
-  "updatedAt": "2026-06-29T14:54:45.339Z"
+  "updatedAt": "2026-06-29T19:18:45.315Z"
 }
