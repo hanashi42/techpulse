@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "e14765b3900e781f",
+      "title": "EXCLUSIVE: Apple accuses India of 'copy-pasting' rivals' claims in antitrust investigation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3hWX013N1NMeEhOMWxxRkZhbFBrTGZ4ajhMS0ltUTBkZnFNcFk5U0RLLWtBRVd6RXl6RWpPR2hQREpFSUl6WlN3R0RndzlKQnVhenN4UUd5d2hQUnBQUDNENUVTbXJheXd2VVFEZXE4eDVsQ19uYlZjdVRudWthX3ZXWlpERk94V2x3NXZTRFBqNDcwZHlMOEozeWdkQlppNVZfcUlrSXhJa0V2azlxaWhhcVpmYUVUblpCYXV3MmxiOXhkeGgxNw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "antitrust + apple"
+      ],
+      "firstSeen": "2026-06-29T14:54:44.556Z",
+      "pushedAt": "2026-06-29T14:54:44.556Z"
+    },
+    {
+      "id": "1fa28d1409575a90",
+      "title": "Families of two football players killed and injured in Venezuela earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jun/29/families-of-football-stars-hector-bello-lucas-trejo-killed-venezuela-earthquakes",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + killed"
+      ],
+      "firstSeen": "2026-06-29T14:54:44.997Z",
+      "pushedAt": "2026-06-29T14:54:44.997Z"
+    },
+    {
+      "id": "ae8bb64887305c6c",
+      "title": "Why the US-China trade war lacks the guardrails of the past - Peterson Institute for International Economics",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVkyNEtBT1JlcldkR0x5ZkJIQ3dBWTdFNzV2Z2R4LUR0N194c2E1WlJEQVkxeDAwMFAxcWtCRmVzT1JoWjIyVGYweGRRM3RrZU1mTTFKVnJMRzNUejEtd1BhNl9uYTRWUW80MVBfMG14S05SNmV4djl4RDZ2bW0zdUxzcjl0VkZFRF95UnNjbDRrZ194Q2U0NXZNWQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + china"
+      ],
+      "firstSeen": "2026-06-29T14:54:45.252Z",
+      "pushedAt": "2026-06-29T14:54:45.252Z"
+    },
+    {
       "id": "fcd3545df0f7985d",
       "title": "Oil prices rise as U.S. and Iran reach deal to halt attacks; U.S. crude back above $70",
       "url": "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html",
@@ -49,5 +85,5 @@
       "pushedAt": "2026-06-28T15:36:52.034Z"
     }
   ],
-  "updatedAt": "2026-06-29T11:25:37.149Z"
+  "updatedAt": "2026-06-29T14:54:45.339Z"
 }
