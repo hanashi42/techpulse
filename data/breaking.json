@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "a2be50f3de43fa06",
+      "title": "6 Are Killed During a Rare Mass Shooting in Germany",
+      "url": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html",
+      "source": "NYT",
+      "priority": "P0",
+      "matchedKeywords": [
+        "mass shooting"
+      ],
+      "firstSeen": "2026-06-30T04:35:56.700Z",
+      "pushedAt": "2026-06-30T04:35:56.700Z"
+    },
+    {
+      "id": "18d4a78269e3432e",
+      "title": "KLCI Futures Open Lower - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMMjM2QkN4Q0tZZHhXekMzcE9QTGM4bzlTX0x0X2pmWE5OT3BEUnBBSWJyUnZ1Q1lhODJtNlBWaG9mdjAxMTNVelU3UGlZaHRMTG9vT2drdHczclpFUUVmTVRwaw?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "klci + low"
+      ],
+      "firstSeen": "2026-06-30T04:35:57.054Z",
+      "pushedAt": "2026-06-30T04:35:57.054Z"
+    },
+    {
       "id": "dd3a78d8184eb843",
       "title": "EU, China bet on talks to avoid trade war - Courthouse News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX3M0N3JsSFpNNlZTeTRpU0Z3Y3B0a2N1MkhPS19mdGhJckVpNTZ6bjVXVERBS1ozOUtBUlNaMjJ3LUNiN0djT2FkUDU0dHN4MTRpeExpbGpmU01RbkloaEFXandLMTd5dTc0SUt0ZmNvWmY4Y1NqNUJPb1NfM2FQYVVkeUs5ZGc?oc=5",
@@ -97,5 +121,5 @@
       "pushedAt": "2026-06-29T06:19:37.826Z"
     }
   ],
-  "updatedAt": "2026-06-29T20:58:09.372Z"
+  "updatedAt": "2026-06-30T04:35:57.236Z"
 }
