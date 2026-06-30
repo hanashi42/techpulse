@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "16d2035dd2b383d1",
+      "title": "Hormuz disruption to stall 2026 LNG trade, demand to rise by 2050, says Shell - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZkNhSEpvREhOODZSNEZOdmRRMzAzT2dVRC0zdlkwYWxQR3N0WUloTkZuVWg3NzN2N2JUcGdvZW9Hd3I5dFBJbXRQMm5jRTVpMmVfTURxbDdBT2JaWHRLdmRGR0pVbXpQaTNycUYyTkNsZkhxejUzZGpsNW1vRWQ1R2gtLTZIUHBhR0pvQjBZTzAxMlVLVnlUbjAxVDhfcFYw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + disruption"
+      ],
+      "firstSeen": "2026-06-30T11:17:59.304Z",
+      "pushedAt": "2026-06-30T11:17:59.304Z"
+    },
+    {
+      "id": "2bf4d2cab30106ec",
+      "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-06-30T11:17:59.378Z",
+      "pushedAt": "2026-06-30T11:17:59.378Z"
+    },
+    {
       "id": "a2be50f3de43fa06",
       "title": "6 Are Killed During a Rare Mass Shooting in Germany",
       "url": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html",
@@ -95,31 +119,7 @@
       ],
       "firstSeen": "2026-06-29T11:25:36.868Z",
       "pushedAt": "2026-06-29T11:25:36.868Z"
-    },
-    {
-      "id": "d6cd22cbe6d54fea",
-      "title": "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTVKRTRyZTc4cndMX2E0Mzd3UlROU1FJMWFsaWpkbDVuSUFiVldPeE1GRVFLbDVYeTZ5RTFXd08wUkYwU205amR5a1BIOTFTNGE1T01qMjNGSkJ2OXpjQVhWQ1JXSTdOeDBGb3I5czNDQ1VYck9ENEZJNVZMQk5Rc19tTWgzM3hGaC1uSlltSktpNWtyM3AtTTk3RkZJaFNpNjVFRXJUSWhuWEJGcnNUb1ZGVWstUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-06-29T06:19:37.590Z",
-      "pushedAt": "2026-06-29T06:19:37.590Z"
-    },
-    {
-      "id": "3890f7fc651f1a05",
-      "title": "Ukrainian drones set another Russian oil refinery ablaze as Putin admits fuel shortages - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTZPUlo3WW9DRjJzZzIxV3hsNzhpLUdGZEFGQXRUR0tUd1Q4dURpSnYxcFJFTFJuM0ZTRmd3RUVfZ0FEMlJ5U1ZrYlVLcDBOR2RaMmU4YzAzS0t0UzZBU21rbzlqU19HTjZRN0t0dEo1MWJuSW9RNEV0MVNCNDM1RDFqQU80T0tkTzNvOEpfWEE4SDdIN2R4ZlNuRHRINHc?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + oil"
-      ],
-      "firstSeen": "2026-06-29T06:19:37.825Z",
-      "pushedAt": "2026-06-29T06:19:37.826Z"
     }
   ],
-  "updatedAt": "2026-06-30T04:35:57.236Z"
+  "updatedAt": "2026-06-30T11:17:59.437Z"
 }
