@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "056e2d8d4e4d5ff1",
+      "title": "Nike forecasts fall in first-half revenue, shares tumble 4% - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnNzWkdGLVk5dVdwM0ZUQ3RObWpYSkdGNnhsc1JuMFhWeXBtT1pSS3luR3UxcVNEcTVTM0tCdFRTSHlYQVNZTGFkQXIzeldDUV91djhzbFN1dWZyOWVKOHVrbGFpcy1rRkYxd3dTTzNKMjdTcFN6OFVSVk5iX3ZhU2tULVpzR1RfdVpEcXFkUFZ4ZlFYT01EY1VvNlR3dDBG?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + shares"
+      ],
+      "firstSeen": "2026-06-30T23:40:01.029Z",
+      "pushedAt": "2026-06-30T23:40:01.029Z"
+    },
+    {
       "id": "ba88807cf0ccddc6",
       "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
       "url": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
@@ -97,5 +109,5 @@
       "pushedAt": "2026-06-30T04:35:57.054Z"
     }
   ],
-  "updatedAt": "2026-06-30T21:06:07.200Z"
+  "updatedAt": "2026-06-30T23:40:01.180Z"
 }
