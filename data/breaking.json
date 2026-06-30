@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1163b9b267e5a19e",
+      "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
+      "url": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + drop"
+      ],
+      "firstSeen": "2026-06-30T19:16:33.273Z",
+      "pushedAt": "2026-06-30T19:16:33.273Z"
+    },
+    {
       "id": "667babc3e6edfbaf",
       "title": "World Cup Loss Dominates German News, Displacing Even a Mass Shooting",
       "url": "https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html",
@@ -85,5 +97,5 @@
       "pushedAt": "2026-06-29T19:18:45.183Z"
     }
   ],
-  "updatedAt": "2026-06-30T17:27:44.044Z"
+  "updatedAt": "2026-06-30T19:16:33.358Z"
 }
