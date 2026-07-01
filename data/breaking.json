@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "id": "fbe6000600dac44d",
+      "title": "Fed's Warsh: Will decide on rate hike when policymakers 'shut the door' at next meeting - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUF5Q0pZdzR1UV9XT1dZMVE1ZUpUd1lDbDVzUXlyV0pYUTFwdmFueTIxc3B5QjR6TjFjVXJDS1BIWm9yMi15eGh0aWVaa0ZMeExhM2llbG5IQTBKZlFQZUphY3ZjR2lkZTRGNWNneGdvc3lJQXBoM21RWnlVajVRWGtUbENnZ3ZsU25QNGVDY1FuWjhXV0VrVkVSUU9EMU82OFdJa1hSdTljNUE1b1BHZXRUZEdmMk9WaWpN?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-07-01T15:29:26.271Z",
+      "pushedAt": "2026-07-01T15:29:26.271Z"
+    },
+    {
       "id": "396e057b70ce5e30",
       "title": "EXCLUSIVE: Russia buys gasoline from India to tackle shortages, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFRJMk44c05WbExLd0NkcUJOQ05NUWI0U1N6YzBkSmNQVFlRMl9MLVIzaHRMY25hZE5PQUNuWktOMTJQUFdOODR5N0xYN3dIVUhpMUtzTzFIdk1WMFJ3MVptY3RsREM5QjRQRzZxZ3JTU3NscEdPUlRPeVFHaHRoZ05xN2dsZDZtLUVRNXNVZHlrVU1JU3FKSG5xSWN0UVdjN3hZaVRTbWhHYVk?oc=5",
@@ -157,5 +170,5 @@
       "pushedAt": "2026-06-30T17:27:43.829Z"
     }
   ],
-  "updatedAt": "2026-07-01T12:46:25.761Z"
+  "updatedAt": "2026-07-01T15:29:26.373Z"
 }
