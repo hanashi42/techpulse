@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b5de6e4bb5d71eec",
+      "title": "CBP in Norfolk seizes imported cabinets and chairs from China - WAVY.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXZlSlBHZHNIbEhNakt1VUxVRnFFVHlBZG1BY0lrdkpDRnpoRExDdjFrcGxTR0tsT0ozb0NwaEVPaFBoM24xbFBCZDJDRWlVX2FFaFZLREJOQ3hCRGZnby1DN0xDbnpzWjE3TGNJb0VGZ3BaSHpJeGtCZVlhVDZjN01GRmliWmVIN3hTeUtIeVNPUGh5MjExb1Q0ckhhQ0tGUWlKUnVEMVRZRUnSAbABQVVfeXFMTy1EWjRxSmxnWHRHOExiUnFZeHZ1WWg0ZDFzZG5QS0hVcGVOSnExcERjR2hMV0tOMHU0NXoyeGlvM3BianJYeE8xWDZKUFVCRFJhLVE2VUF2NUV1LTA1VGw4aGxramc0VjlySEpnSUllWnNraExRbG51T201YXgzU21QZXhOelNhdVFSLUpFdGZMWEt1VzZ3VXE0WXY4aTRDVmh3SHcyWEQ5dS0wVjZwaV8?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "seize + port"
+      ],
+      "firstSeen": "2026-07-01T22:11:11.746Z",
+      "pushedAt": "2026-07-01T22:11:11.746Z"
+    },
+    {
       "id": "9e95096b4575e0d0",
       "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
       "url": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
@@ -157,43 +169,7 @@
       ],
       "firstSeen": "2026-06-30T23:40:01.029Z",
       "pushedAt": "2026-06-30T23:40:01.029Z"
-    },
-    {
-      "id": "ba88807cf0ccddc6",
-      "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
-      "url": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-06-30T21:06:06.948Z",
-      "pushedAt": "2026-06-30T21:06:06.948Z"
-    },
-    {
-      "id": "cb7711f4eea27d5d",
-      "title": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter",
-      "url": "https://www.cnbc.com/2026/06/30/ai-chip-rally-in-q2-adds-2-trillion-in-value-to-micron-intel-amd-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + record"
-      ],
-      "firstSeen": "2026-06-30T21:06:07.107Z",
-      "pushedAt": "2026-06-30T21:06:07.107Z"
-    },
-    {
-      "id": "1163b9b267e5a19e",
-      "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
-      "url": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + drop"
-      ],
-      "firstSeen": "2026-06-30T19:16:33.273Z",
-      "pushedAt": "2026-06-30T19:16:33.273Z"
     }
   ],
-  "updatedAt": "2026-07-01T19:16:31.055Z"
+  "updatedAt": "2026-07-01T22:11:11.995Z"
 }
