@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "396e057b70ce5e30",
+      "title": "EXCLUSIVE: Russia buys gasoline from India to tackle shortages, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFRJMk44c05WbExLd0NkcUJOQ05NUWI0U1N6YzBkSmNQVFlRMl9MLVIzaHRMY25hZE5PQUNuWktOMTJQUFdOODR5N0xYN3dIVUhpMUtzTzFIdk1WMFJ3MVptY3RsREM5QjRQRzZxZ3JTU3NscEdPUlRPeVFHaHRoZ05xN2dsZDZtLUVRNXNVZHlrVU1JU3FKSG5xSWN0UVdjN3hZaVRTbWhHYVk?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + gas"
+      ],
+      "firstSeen": "2026-07-01T12:46:25.181Z",
+      "pushedAt": "2026-07-01T12:46:25.181Z"
+    },
+    {
+      "id": "b1d9e279b2ad21c5",
+      "title": "Swedish court says Google is to pay $1.5 billion to Klarna in antitrust damages - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUR2WFBXY0dxNVhUYnNOUDF2OWRvZTB2SDU3a2djdHF6NWRkRm1Fc1JTUDl2NENKQ0ZKaC15N1V5QzRLWXo0OGNLT2h4LU1fbWpCODBNMTh3VVJqcFlyTXA0ektubGxMQWx3NzFvblJ4SG1wcXpRQm93OVpmdkZ1cXowUk5yd3lnUjdMS2I1QldWa3NYdzEyaFV1YldrVWhqN3kzVnl3QjNhTktkaVkwNVl1Yw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "antitrust + google"
+      ],
+      "firstSeen": "2026-07-01T12:46:25.434Z",
+      "pushedAt": "2026-07-01T12:46:25.434Z"
+    },
+    {
+      "id": "a2be6503c4c7b3ef",
+      "title": "Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDBXUk5KWk9XaTNZUEpRZTNFNl9PN2hnYm9QRlN2d2ptcmtRWi05ZmQ0SDEtWDVubHRzcTdWQVRRVXQ2VWNFRjl2UHB2ODJ2ZjVKaXBDeVljNkJ2a1hRNURJQTJ1M1MteDBMdDlLWV9zU2xLbXlZYy1iZFFsdm5xQ3ZyODRFYWlvb193Z3pKZGlsaDdoSDdIa01SNGU?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil embargo"
+      ],
+      "firstSeen": "2026-07-01T12:46:25.667Z",
+      "pushedAt": "2026-07-01T12:46:25.667Z"
+    },
+    {
       "id": "681cd64b4ea4b625",
       "title": "Afghanistan says airstrikes launched on Pakistan; Islamabad says drones shot down - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQclpSR0FCcktNSC0tTmJTNVN3eEROdnRZb25qb1Jxdm5sT1hhYWtWdk92MFZyMEx0V25UY3dvNl9CYnB1YjVEYmljelZ0elVvQXBIU1Q0U0hoVjJUcmdHdklqU0tZbzNQRm1Meml6clNKcEI0b3k1MkE0YTZxTXVQRHhCS3RpakwyR2kwVG04N3A0b01BNUhHU1hIQ19WX0dTZnVKSmxMeHl1Z1gzOHNVRFZIUjlZcHlGMEFMVHItc2N0cXkwRHozWTV5N3o?oc=5",
@@ -119,31 +155,7 @@
       ],
       "firstSeen": "2026-06-30T17:27:43.829Z",
       "pushedAt": "2026-06-30T17:27:43.829Z"
-    },
-    {
-      "id": "16d2035dd2b383d1",
-      "title": "Hormuz disruption to stall 2026 LNG trade, demand to rise by 2050, says Shell - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZkNhSEpvREhOODZSNEZOdmRRMzAzT2dVRC0zdlkwYWxQR3N0WUloTkZuVWg3NzN2N2JUcGdvZW9Hd3I5dFBJbXRQMm5jRTVpMmVfTURxbDdBT2JaWHRLdmRGR0pVbXpQaTNycUYyTkNsZkhxejUzZGpsNW1vRWQ1R2gtLTZIUHBhR0pvQjBZTzAxMlVLVnlUbjAxVDhfcFYw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption"
-      ],
-      "firstSeen": "2026-06-30T11:17:59.304Z",
-      "pushedAt": "2026-06-30T11:17:59.304Z"
-    },
-    {
-      "id": "2bf4d2cab30106ec",
-      "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-06-30T11:17:59.378Z",
-      "pushedAt": "2026-06-30T11:17:59.378Z"
     }
   ],
-  "updatedAt": "2026-07-01T10:12:40.837Z"
+  "updatedAt": "2026-07-01T12:46:25.761Z"
 }
