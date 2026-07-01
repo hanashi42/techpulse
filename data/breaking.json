@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1b67b21346e379fa",
+      "title": "Iran says it is selling oil at 20% premium as end of U.S. blockade sees 40 million barrels exported",
+      "url": "https://www.cnbc.com/2026/07/01/iran-us-mou-negotiation-war-oil-exports-strait-of-hormuz-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-07-01T06:13:32.236Z",
+      "pushedAt": "2026-07-01T06:13:32.236Z"
+    },
+    {
       "id": "ad1370dec141e252",
       "title": "Microsoft to cut under 2.5% of workforce in latest layoffs, Business Insider reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzZWZGhMWnBMc0tjX2tVQjVpdXhpanM0bC1PRktGQnpCODhEbkc1TVZ3bDRWeFk3RXhua3Q1M2dnZWlHMkJMSHdBTGhYUFg1M1pQOVJCQ3Y4aGw0UTh2b05QSjljVnFRREc1Y0RvUmh1Z0dPVHlMNjQ3LXBCZXQyRXZLMDdEZTRjS3RhR0JFaWVDeFVNZnVEdjNHb3VncFEyUXc2N0JVdFA1VmJHakJzZnhqZUdsakhk?oc=5",
@@ -95,31 +107,7 @@
       ],
       "firstSeen": "2026-06-30T11:17:59.378Z",
       "pushedAt": "2026-06-30T11:17:59.378Z"
-    },
-    {
-      "id": "a2be50f3de43fa06",
-      "title": "6 Are Killed During a Rare Mass Shooting in Germany",
-      "url": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html",
-      "source": "NYT",
-      "priority": "P0",
-      "matchedKeywords": [
-        "mass shooting"
-      ],
-      "firstSeen": "2026-06-30T04:35:56.700Z",
-      "pushedAt": "2026-06-30T04:35:56.700Z"
-    },
-    {
-      "id": "18d4a78269e3432e",
-      "title": "KLCI Futures Open Lower - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMMjM2QkN4Q0tZZHhXekMzcE9QTGM4bzlTX0x0X2pmWE5OT3BEUnBBSWJyUnZ1Q1lhODJtNlBWaG9mdjAxMTNVelU3UGlZaHRMTG9vT2drdHczclpFUUVmTVRwaw?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "klci + low"
-      ],
-      "firstSeen": "2026-06-30T04:35:57.054Z",
-      "pushedAt": "2026-06-30T04:35:57.054Z"
     }
   ],
-  "updatedAt": "2026-07-01T01:54:41.476Z"
+  "updatedAt": "2026-07-01T06:13:32.501Z"
 }
