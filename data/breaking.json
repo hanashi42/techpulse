@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ad1370dec141e252",
+      "title": "Microsoft to cut under 2.5% of workforce in latest layoffs, Business Insider reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzZWZGhMWnBMc0tjX2tVQjVpdXhpanM0bC1PRktGQnpCODhEbkc1TVZ3bDRWeFk3RXhua3Q1M2dnZWlHMkJMSHdBTGhYUFg1M1pQOVJCQ3Y4aGw0UTh2b05QSjljVnFRREc1Y0RvUmh1Z0dPVHlMNjQ3LXBCZXQyRXZLMDdEZTRjS3RhR0JFaWVDeFVNZnVEdjNHb3VncFEyUXc2N0JVdFA1VmJHakJzZnhqZUdsakhk?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + microsoft"
+      ],
+      "firstSeen": "2026-07-01T01:54:41.331Z",
+      "pushedAt": "2026-07-01T01:54:41.331Z"
+    },
+    {
       "id": "056e2d8d4e4d5ff1",
       "title": "Nike forecasts fall in first-half revenue, shares tumble 4% - Reuters",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnNzWkdGLVk5dVdwM0ZUQ3RObWpYSkdGNnhsc1JuMFhWeXBtT1pSS3luR3UxcVNEcTVTM0tCdFRTSHlYQVNZTGFkQXIzeldDUV91djhzbFN1dWZyOWVKOHVrbGFpcy1rRkYxd3dTTzNKMjdTcFN6OFVSVk5iX3ZhU2tULVpzR1RfdVpEcXFkUFZ4ZlFYT01EY1VvNlR3dDBG?oc=5",
@@ -109,5 +121,5 @@
       "pushedAt": "2026-06-30T04:35:57.054Z"
     }
   ],
-  "updatedAt": "2026-06-30T23:40:01.180Z"
+  "updatedAt": "2026-07-01T01:54:41.476Z"
 }
