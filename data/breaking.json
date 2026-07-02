@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "2561c4f504f268ff",
+      "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWhCd0owd29LOGZjcXNhWmpEaVRIb1lyUE5jamlUVlhLNE5aMWVPLUVvTTdDSlRUNkNIa2RjS2NUY3gyZG5VWHl1bV9IUERWVkR4NlpHYk9xZ3pzY2VOZUdpdWtZNzhYTVEtWjJ1c0xvTlJjZVZ3STlBcmFtUl96RnRoZHA2dFRxVXZSUzZCQmZCbldBT0hEZ1Zn?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + oil"
+      ],
+      "firstSeen": "2026-07-02T13:04:22.756Z",
+      "pushedAt": "2026-07-02T13:04:22.756Z"
+    },
+    {
+      "id": "60455a1d6187f3ac",
+      "title": "1 person dead, 4 others hurt after firebombs hurled at homes of Greece's governing party members - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmRuVWlkTmVIT0tmbVJISklXeDJJb2RiMUhWQkZIUVM5VktNMkhsbDdOcjdGZUhoSmJWUnI3emU0M25keVB6eWF6V3V6NVk4V1Vna1M2ZWZyTlVYLUliSGxoMUlfYVZPeGVGaTlzTnpMcXhIQ09qQXlONVNUelNJaE84WW5EOXp1dGJSUjNhX25IcmhCeVluVWc4QTI?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-07-02T13:04:22.944Z",
+      "pushedAt": "2026-07-02T13:04:22.944Z"
+    },
+    {
       "id": "e11967500c1fc657",
       "title": "Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFNQbU5lNnZvdXkxbzN5UEdWOFVydWprSDZMMlBmTGdUaTE1TlZ1YTFXLTF6TmJGeC15UDlmemExd0J4c3VTM0c4YWdjSTVBaFN1RjBvTDlWaGx2V1BrQU9DSy1RRlVwV3Bxd2pUc3c3Y1BXanFHOWFEcy16dTBtNmlURmVBdDlLbFdLWG9fZHpOajJrVS1meFJaVXAxNmlrbV9zd1JEcjk?oc=5",
@@ -121,43 +145,7 @@
       ],
       "firstSeen": "2026-07-01T15:29:26.271Z",
       "pushedAt": "2026-07-01T15:29:26.271Z"
-    },
-    {
-      "id": "396e057b70ce5e30",
-      "title": "EXCLUSIVE: Russia buys gasoline from India to tackle shortages, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWFRJMk44c05WbExLd0NkcUJOQ05NUWI0U1N6YzBkSmNQVFlRMl9MLVIzaHRMY25hZE5PQUNuWktOMTJQUFdOODR5N0xYN3dIVUhpMUtzTzFIdk1WMFJ3MVptY3RsREM5QjRQRzZxZ3JTU3NscEdPUlRPeVFHaHRoZ05xN2dsZDZtLUVRNXNVZHlrVU1JU3FKSG5xSWN0UVdjN3hZaVRTbWhHYVk?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + gas"
-      ],
-      "firstSeen": "2026-07-01T12:46:25.181Z",
-      "pushedAt": "2026-07-01T12:46:25.181Z"
-    },
-    {
-      "id": "b1d9e279b2ad21c5",
-      "title": "Swedish court says Google is to pay $1.5 billion to Klarna in antitrust damages - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUR2WFBXY0dxNVhUYnNOUDF2OWRvZTB2SDU3a2djdHF6NWRkRm1Fc1JTUDl2NENKQ0ZKaC15N1V5QzRLWXo0OGNLT2h4LU1fbWpCODBNMTh3VVJqcFlyTXA0ektubGxMQWx3NzFvblJ4SG1wcXpRQm93OVpmdkZ1cXowUk5yd3lnUjdMS2I1QldWa3NYdzEyaFV1YldrVWhqN3kzVnl3QjNhTktkaVkwNVl1Yw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "antitrust + google"
-      ],
-      "firstSeen": "2026-07-01T12:46:25.434Z",
-      "pushedAt": "2026-07-01T12:46:25.434Z"
-    },
-    {
-      "id": "a2be6503c4c7b3ef",
-      "title": "Cuban official says talks with the US are at a standstill, announces UN debate on US oil embargo - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDBXUk5KWk9XaTNZUEpRZTNFNl9PN2hnYm9QRlN2d2ptcmtRWi05ZmQ0SDEtWDVubHRzcTdWQVRRVXQ2VWNFRjl2UHB2ODJ2ZjVKaXBDeVljNkJ2a1hRNURJQTJ1M1MteDBMdDlLWV9zU2xLbXlZYy1iZFFsdm5xQ3ZyODRFYWlvb193Z3pKZGlsaDdoSDdIa01SNGU?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil embargo"
-      ],
-      "firstSeen": "2026-07-01T12:46:25.667Z",
-      "pushedAt": "2026-07-01T12:46:25.667Z"
     }
   ],
-  "updatedAt": "2026-07-02T11:08:51.860Z"
+  "updatedAt": "2026-07-02T13:04:23.076Z"
 }
