@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1dc13e690e2c55fe",
+      "title": "China restricts some Fortescue iron ore cargoes as talks drag, sources say - The Mighty 790 KFGO",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVJCajhxSlQ5NXhYTlpxV0tLV3p2SE5Pd0dtMnhVa1hWZ1c2bks3cFBQeF9QTWwtRXZ3c2JCSm1zd3lfaWtQYXB2T3h1R0NxYmV3c1YwT0tjcXZHcHZYcVoyWnUzMkt0ZzRpZlZzMFhDUERqM1BsWWg1QzFUUXNKd3RMWW96Y200VnBhalFLUjc3NzVHQzVlSC1ZUDU1Z0JLeFAwSw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-07-02T05:38:49.758Z",
+      "pushedAt": "2026-07-02T05:38:49.758Z"
+    },
+    {
       "id": "426a4e1baa9ead45",
       "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street",
       "url": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
@@ -169,19 +181,7 @@
       ],
       "firstSeen": "2026-07-01T06:13:32.236Z",
       "pushedAt": "2026-07-01T06:13:32.236Z"
-    },
-    {
-      "id": "ad1370dec141e252",
-      "title": "Microsoft to cut under 2.5% of workforce in latest layoffs, Business Insider reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzZWZGhMWnBMc0tjX2tVQjVpdXhpanM0bC1PRktGQnpCODhEbkc1TVZ3bDRWeFk3RXhua3Q1M2dnZWlHMkJMSHdBTGhYUFg1M1pQOVJCQ3Y4aGw0UTh2b05QSjljVnFRREc1Y0RvUmh1Z0dPVHlMNjQ3LXBCZXQyRXZLMDdEZTRjS3RhR0JFaWVDeFVNZnVEdjNHb3VncFEyUXc2N0JVdFA1VmJHakJzZnhqZUdsakhk?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + microsoft"
-      ],
-      "firstSeen": "2026-07-01T01:54:41.331Z",
-      "pushedAt": "2026-07-01T01:54:41.331Z"
     }
   ],
-  "updatedAt": "2026-07-02T01:35:44.555Z"
+  "updatedAt": "2026-07-02T05:38:49.980Z"
 }
