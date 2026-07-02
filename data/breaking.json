@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "371bb71b8369b41a",
+      "title": "With Hormuz reopened, has the oil shortage turned into a glut?",
+      "url": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shortage + oil"
+      ],
+      "firstSeen": "2026-07-02T15:24:44.721Z",
+      "pushedAt": "2026-07-02T15:24:44.721Z"
+    },
+    {
+      "id": "f824625353c2902a",
+      "title": "Explosion in Damascus cafe causes casualties",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + casualties"
+      ],
+      "firstSeen": "2026-07-02T15:24:44.958Z",
+      "pushedAt": "2026-07-02T15:24:44.958Z"
+    },
+    {
+      "id": "c8d72efff469b6e3",
+      "title": "Syria explosion updates: Bomb blast kills 5 people in Damascus",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/syria-explosion-live-blast-rocks-damascus-as-authorities-investigate-cause?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + bomb"
+      ],
+      "firstSeen": "2026-07-02T15:24:45.185Z",
+      "pushedAt": "2026-07-02T15:24:45.185Z"
+    },
+    {
+      "id": "7eec2a1c36063b67",
+      "title": "Google loses fight over record $4.7 billion EU antitrust fine",
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "antitrust + google"
+      ],
+      "firstSeen": "2026-07-02T15:24:45.263Z",
+      "pushedAt": "2026-07-02T15:24:45.263Z"
+    },
+    {
       "id": "2561c4f504f268ff",
       "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWhCd0owd29LOGZjcXNhWmpEaVRIb1lyUE5jamlUVlhLNE5aMWVPLUVvTTdDSlRUNkNIa2RjS2NUY3gyZG5VWHl1bV9IUERWVkR4NlpHYk9xZ3pzY2VOZUdpdWtZNzhYTVEtWjJ1c0xvTlJjZVZ3STlBcmFtUl96RnRoZHA2dFRxVXZSUzZCQmZCbldBT0hEZ1Zn?oc=5",
@@ -147,5 +195,5 @@
       "pushedAt": "2026-07-01T15:29:26.271Z"
     }
   ],
-  "updatedAt": "2026-07-02T13:04:23.076Z"
+  "updatedAt": "2026-07-02T15:24:45.348Z"
 }
