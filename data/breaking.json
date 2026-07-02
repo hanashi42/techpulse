@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "426a4e1baa9ead45",
+      "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street",
+      "url": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + shares"
+      ],
+      "firstSeen": "2026-07-02T01:35:44.297Z",
+      "pushedAt": "2026-07-02T01:35:44.297Z"
+    },
+    {
+      "id": "841945f75d3d931e",
+      "title": "Oil prices fall after U.S.-Iran talks conclude in Doha",
+      "url": "https://www.cnbc.com/2026/07/02/oil-prices-fall-after-us-iran-talks-conclude-in-doha.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-07-02T01:35:44.511Z",
+      "pushedAt": "2026-07-02T01:35:44.511Z"
+    },
+    {
       "id": "b5de6e4bb5d71eec",
       "title": "CBP in Norfolk seizes imported cabinets and chairs from China - WAVY.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXZlSlBHZHNIbEhNakt1VUxVRnFFVHlBZG1BY0lrdkpDRnpoRExDdjFrcGxTR0tsT0ozb0NwaEVPaFBoM24xbFBCZDJDRWlVX2FFaFZLREJOQ3hCRGZnby1DN0xDbnpzWjE3TGNJb0VGZ3BaSHpJeGtCZVlhVDZjN01GRmliWmVIN3hTeUtIeVNPUGh5MjExb1Q0ckhhQ0tGUWlKUnVEMVRZRUnSAbABQVVfeXFMTy1EWjRxSmxnWHRHOExiUnFZeHZ1WWg0ZDFzZG5QS0hVcGVOSnExcERjR2hMV0tOMHU0NXoyeGlvM3BianJYeE8xWDZKUFVCRFJhLVE2VUF2NUV1LTA1VGw4aGxramc0VjlySEpnSUllWnNraExRbG51T201YXgzU21QZXhOelNhdVFSLUpFdGZMWEt1VzZ3VXE0WXY4aTRDVmh3SHcyWEQ5dS0wVjZwaV8?oc=5",
@@ -157,19 +181,7 @@
       ],
       "firstSeen": "2026-07-01T01:54:41.331Z",
       "pushedAt": "2026-07-01T01:54:41.331Z"
-    },
-    {
-      "id": "056e2d8d4e4d5ff1",
-      "title": "Nike forecasts fall in first-half revenue, shares tumble 4% - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnNzWkdGLVk5dVdwM0ZUQ3RObWpYSkdGNnhsc1JuMFhWeXBtT1pSS3luR3UxcVNEcTVTM0tCdFRTSHlYQVNZTGFkQXIzeldDUV91djhzbFN1dWZyOWVKOHVrbGFpcy1rRkYxd3dTTzNKMjdTcFN6OFVSVk5iX3ZhU2tULVpzR1RfdVpEcXFkUFZ4ZlFYT01EY1VvNlR3dDBG?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + shares"
-      ],
-      "firstSeen": "2026-06-30T23:40:01.029Z",
-      "pushedAt": "2026-06-30T23:40:01.029Z"
     }
   ],
-  "updatedAt": "2026-07-01T22:11:11.995Z"
+  "updatedAt": "2026-07-02T01:35:44.555Z"
 }
