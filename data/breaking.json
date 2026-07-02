@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "e11967500c1fc657",
+      "title": "Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFNQbU5lNnZvdXkxbzN5UEdWOFVydWprSDZMMlBmTGdUaTE1TlZ1YTFXLTF6TmJGeC15UDlmemExd0J4c3VTM0c4YWdjSTVBaFN1RjBvTDlWaGx2V1BrQU9DSy1RRlVwV3Bxd2pUc3c3Y1BXanFHOWFEcy16dTBtNmlURmVBdDlLbFdLWG9fZHpOajJrVS1meFJaVXAxNmlrbV9zd1JEcjk?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + signal"
+      ],
+      "firstSeen": "2026-07-02T11:08:51.565Z",
+      "pushedAt": "2026-07-02T11:08:51.565Z"
+    },
+    {
+      "id": "5bc9f771a7c59796",
+      "title": "At least 18 killed in 'most massive' Russian attack on Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-02T11:08:51.728Z",
+      "pushedAt": "2026-07-02T11:08:51.728Z"
+    },
+    {
       "id": "1dc13e690e2c55fe",
       "title": "China restricts some Fortescue iron ore cargoes as talks drag, sources say - The Mighty 790 KFGO",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVJCajhxSlQ5NXhYTlpxV0tLV3p2SE5Pd0dtMnhVa1hWZ1c2bks3cFBQeF9QTWwtRXZ3c2JCSm1zd3lfaWtQYXB2T3h1R0NxYmV3c1YwT0tjcXZHcHZYcVoyWnUzMkt0ZzRpZlZzMFhDUERqM1BsWWg1QzFUUXNKd3RMWW96Y200VnBhalFLUjc3NzVHQzVlSC1ZUDU1Z0JLeFAwSw?oc=5",
@@ -133,55 +157,7 @@
       ],
       "firstSeen": "2026-07-01T12:46:25.667Z",
       "pushedAt": "2026-07-01T12:46:25.667Z"
-    },
-    {
-      "id": "681cd64b4ea4b625",
-      "title": "Afghanistan says airstrikes launched on Pakistan; Islamabad says drones shot down - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQclpSR0FCcktNSC0tTmJTNVN3eEROdnRZb25qb1Jxdm5sT1hhYWtWdk92MFZyMEx0V25UY3dvNl9CYnB1YjVEYmljelZ0elVvQXBIU1Q0U0hoVjJUcmdHdklqU0tZbzNQRm1Meml6clNKcEI0b3k1MkE0YTZxTXVQRHhCS3RpakwyR2kwVG04N3A0b01BNUhHU1hIQ19WX0dTZnVKSmxMeHl1Z1gzOHNVRFZIUjlZcHlGMEFMVHItc2N0cXkwRHozWTV5N3o?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + drone"
-      ],
-      "firstSeen": "2026-07-01T10:12:40.691Z",
-      "pushedAt": "2026-07-01T10:12:40.691Z"
-    },
-    {
-      "id": "c4ef0d8e9d533b66",
-      "title": "Citi cuts bitcoin, ether forecasts as ETF flows turn negative - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0xSbUlDb3dKbThkYkM2Qlg4WE5Nc3VzVko5WnBGY1d5dEFpcnZvSlhITkFsYXFhUVZzTmZwelAtRGZPQVNoNkdYYUlwLXpfRjhpNEZTSU9LZzhVd0N5c0NVWjVtX1RSUTVNc1JlYmRxRFpnQjhsMHpjNE5BbDJySmtwRjJyZGRnTkFNV3loZGpEeXlTRWlsOHRYMkJmRkVMMnlnRHNkQQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bitcoin + etf"
-      ],
-      "firstSeen": "2026-07-01T10:12:40.755Z",
-      "pushedAt": "2026-07-01T10:12:40.755Z"
-    },
-    {
-      "id": "2561c4f504f268ff",
-      "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWhCd0owd29LOGZjcXNhWmpEaVRIb1lyUE5jamlUVlhLNE5aMWVPLUVvTTdDSlRUNkNIa2RjS2NUY3gyZG5VWHl1bV9IUERWVkR4NlpHYk9xZ3pzY2VOZUdpdWtZNzhYTVEtWjJ1c0xvTlJjZVZ3STlBcmFtUl96RnRoZHA2dFRxVXZSUzZCQmZCbldBT0hEZ1Zn?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + oil"
-      ],
-      "firstSeen": "2026-07-01T10:12:40.800Z",
-      "pushedAt": "2026-07-01T10:12:40.800Z"
-    },
-    {
-      "id": "1b67b21346e379fa",
-      "title": "Iran says it is selling oil at 20% premium as end of U.S. blockade sees 40 million barrels exported",
-      "url": "https://www.cnbc.com/2026/07/01/iran-us-mou-negotiation-war-oil-exports-strait-of-hormuz-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-07-01T06:13:32.236Z",
-      "pushedAt": "2026-07-01T06:13:32.236Z"
     }
   ],
-  "updatedAt": "2026-07-02T05:38:49.980Z"
+  "updatedAt": "2026-07-02T11:08:51.860Z"
 }
