@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2e4ee6481b6f4bc1",
+      "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
+      "url": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-02T20:07:01.299Z",
+      "pushedAt": "2026-07-02T20:07:01.299Z"
+    },
+    {
       "id": "81879ca456e0fc14",
       "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
       "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
@@ -168,44 +180,7 @@
       ],
       "firstSeen": "2026-07-01T22:11:11.746Z",
       "pushedAt": "2026-07-01T22:11:11.746Z"
-    },
-    {
-      "id": "9e95096b4575e0d0",
-      "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
-      "url": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + devastat"
-      ],
-      "firstSeen": "2026-07-01T19:16:30.685Z",
-      "pushedAt": "2026-07-01T19:16:30.685Z"
-    },
-    {
-      "id": "fdddab63fd9fd95a",
-      "title": "S&P 500, Dow rise after Warsh says inflation risks have eased - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRDSDhyZXpFd2lVaWQyUllERFNzcHA4T2ZZZzZhWGdGaDRRcDVKY202NmFRbGFwSnRZcmhOeTBIVG1kci1qc0Zld2lKX2Z0bW1reTRiZkJCV21UNW16dFd5cWFXVW9JbXI0R0RxWGhFa1NsWXB2NFJXZTM1dHI2cmY1NmVDRHFFTm9MZEJMSnlLZUxiSGtIb1pPM1NsdFliWlI0OWR2R0V4T2tneUkw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-07-01T17:28:00.980Z",
-      "pushedAt": "2026-07-01T17:28:00.980Z"
-    },
-    {
-      "id": "3628dc5be7a485cf",
-      "title": "Shell Sees Global LNG Trade Flat In 2026 As Hormuz Disruption Hits Supply - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OZWVjTHJjTnZhUUF3bWxXbjdEcFdvMzJucU1QdERoRG4zano1ZWJ2YVA4dEx2YTVMTzBxWEhDei10TkVJZnVOYnFXaFFJczdVRlF1bzQwWjhYV3RP?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + disruption",
-        "disruption + global"
-      ],
-      "firstSeen": "2026-07-01T17:28:01.375Z",
-      "pushedAt": "2026-07-01T17:28:01.375Z"
     }
   ],
-  "updatedAt": "2026-07-02T17:06:49.959Z"
+  "updatedAt": "2026-07-02T20:07:01.658Z"
 }
