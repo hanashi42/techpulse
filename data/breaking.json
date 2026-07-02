@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "81879ca456e0fc14",
+      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + collapsed"
+      ],
+      "firstSeen": "2026-07-02T17:06:49.472Z",
+      "pushedAt": "2026-07-02T17:06:49.472Z"
+    },
+    {
+      "id": "dd9590d45c2e3bf2",
+      "title": "Stronger Ringgit Has Not Affected Trade, Helps To Lower Production Costs - MITI - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMTlrM0xWLTJEM2NXdDM1SmtZU3VTTXRteG5HUDRfdGsyWXNWWk51UVZGYl9ta1VnNHRubFI2R29KZVhfWVRsXzJBdnlHQk5RZTJmZTUyTkhLdw?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "ringgit + low",
+        "ringgit + low"
+      ],
+      "firstSeen": "2026-07-02T17:06:49.730Z",
+      "pushedAt": "2026-07-02T17:06:49.730Z"
+    },
+    {
       "id": "371bb71b8369b41a",
       "title": "With Hormuz reopened, has the oil shortage turned into a glut?",
       "url": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut?traffic_source=rss",
@@ -180,20 +205,7 @@
       ],
       "firstSeen": "2026-07-01T17:28:01.375Z",
       "pushedAt": "2026-07-01T17:28:01.375Z"
-    },
-    {
-      "id": "fbe6000600dac44d",
-      "title": "Fed's Warsh: Will decide on rate hike when policymakers 'shut the door' at next meeting - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUF5Q0pZdzR1UV9XT1dZMVE1ZUpUd1lDbDVzUXlyV0pYUTFwdmFueTIxc3B5QjR6TjFjVXJDS1BIWm9yMi15eGh0aWVaa0ZMeExhM2llbG5IQTBKZlFQZUphY3ZjR2lkZTRGNWNneGdvc3lJQXBoM21RWnlVajVRWGtUbENnZ3ZsU25QNGVDY1FuWjhXV0VrVkVSUU9EMU82OFdJa1hSdTljNUE1b1BHZXRUZEdmMk9WaWpN?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-07-01T15:29:26.271Z",
-      "pushedAt": "2026-07-01T15:29:26.271Z"
     }
   ],
-  "updatedAt": "2026-07-02T15:24:45.348Z"
+  "updatedAt": "2026-07-02T17:06:49.959Z"
 }
