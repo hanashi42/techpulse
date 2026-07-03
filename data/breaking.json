@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "81879ca456e0fc14",
+      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + collapsed"
+      ],
+      "firstSeen": "2026-07-03T22:17:40.784Z",
+      "pushedAt": "2026-07-03T22:17:40.784Z"
+    },
+    {
       "id": "0d89d7fb6fc963d6",
       "title": "Supply Chain Disruptions Fuel Local Medical Device Production - Bernama",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nQkxlRElTbHg1amczMnB5Vy01czdKWUs5M29iYVNWLVJja0pNWk9iSTVUaDZ0Y0NQQ05POGRVVTY5dUtzbHI1QmV3WWJiellWTTFtc3BzaHJENnJGUTBYcmw1NHRoUQ?oc=5",
@@ -85,5 +97,5 @@
       "pushedAt": "2026-07-03T01:13:49.433Z"
     }
   ],
-  "updatedAt": "2026-07-03T21:18:45.170Z"
+  "updatedAt": "2026-07-03T22:17:40.918Z"
 }
