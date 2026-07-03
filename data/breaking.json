@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7028c187a35e3644",
+      "title": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2tIVDBRWmhSV3BlZlQ1S1Nub0tyOVNaeDMzLS1ZZEF5UkxxMEVadWhQOUotYndyODdxbXJNcGJrekZaZ0hkcVVBdXZEY0VLRE5hdXdQQ2F3UGNmcWpQdXA5UmVBcjhxM3FkX2dLVGhLXzl2emVPOXBaaGJETTdra2dlbnJ2cm5XUDR2cFZXM2lfZmtodGswU2trRnZ3Qnd1WlRvRVJVWTgzNWFVRzYzb1NPdGttWktwY2RWZkFZZzkwQjRxbnc?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + taiwan"
+      ],
+      "firstSeen": "2026-07-03T04:56:03.531Z",
+      "pushedAt": "2026-07-03T04:56:03.531Z"
+    },
+    {
       "id": "2131e03f09acd7ef",
       "title": "China soybean purchases up but still below pre-trade war levels - KWQC",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUF6SW5ncUVKengxUG9sN2JNQ3FWdFhWcm95YVUtQVNObmVkdV9CQ2VsYzRfQUZpYUIzQlFuLU5BZjBQb0VMTlBGUzNiQWlOWTJ3ck95WkoxaWlFMlBKbEN1TGNCMTk3eC04a3dmXzZ2NFNsTExsRGZwd0lWR3FaLTNTVk1mRmNrZUtQb2hrTEJSQ2pxMXM1bDNRTUppVEE?oc=5",
@@ -156,31 +168,7 @@
       ],
       "firstSeen": "2026-07-02T05:38:49.758Z",
       "pushedAt": "2026-07-02T05:38:49.758Z"
-    },
-    {
-      "id": "426a4e1baa9ead45",
-      "title": "Samsung Electronics, SK Hynix shares tumble over 7% as chip rout spreads from Wall Street",
-      "url": "https://www.cnbc.com/2026/07/02/samsung-sk-hynix-shares-slide-kospi-tech-selloff-nasdaq.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + shares"
-      ],
-      "firstSeen": "2026-07-02T01:35:44.297Z",
-      "pushedAt": "2026-07-02T01:35:44.297Z"
-    },
-    {
-      "id": "841945f75d3d931e",
-      "title": "Oil prices fall after U.S.-Iran talks conclude in Doha",
-      "url": "https://www.cnbc.com/2026/07/02/oil-prices-fall-after-us-iran-talks-conclude-in-doha.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-07-02T01:35:44.511Z",
-      "pushedAt": "2026-07-02T01:35:44.511Z"
     }
   ],
-  "updatedAt": "2026-07-03T01:13:49.716Z"
+  "updatedAt": "2026-07-03T04:56:03.604Z"
 }
