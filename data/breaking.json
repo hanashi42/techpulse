@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2131e03f09acd7ef",
+      "title": "China soybean purchases up but still below pre-trade war levels - KWQC",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUF6SW5ncUVKengxUG9sN2JNQ3FWdFhWcm95YVUtQVNObmVkdV9CQ2VsYzRfQUZpYUIzQlFuLU5BZjBQb0VMTlBGUzNiQWlOWTJ3ck95WkoxaWlFMlBKbEN1TGNCMTk3eC04a3dmXzZ2NFNsTExsRGZwd0lWR3FaLTNTVk1mRmNrZUtQb2hrTEJSQ2pxMXM1bDNRTUppVEE?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + china"
+      ],
+      "firstSeen": "2026-07-03T01:13:49.432Z",
+      "pushedAt": "2026-07-03T01:13:49.433Z"
+    },
+    {
       "id": "2e4ee6481b6f4bc1",
       "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
       "url": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
@@ -168,19 +180,7 @@
       ],
       "firstSeen": "2026-07-02T01:35:44.511Z",
       "pushedAt": "2026-07-02T01:35:44.511Z"
-    },
-    {
-      "id": "b5de6e4bb5d71eec",
-      "title": "CBP in Norfolk seizes imported cabinets and chairs from China - WAVY.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXZlSlBHZHNIbEhNakt1VUxVRnFFVHlBZG1BY0lrdkpDRnpoRExDdjFrcGxTR0tsT0ozb0NwaEVPaFBoM24xbFBCZDJDRWlVX2FFaFZLREJOQ3hCRGZnby1DN0xDbnpzWjE3TGNJb0VGZ3BaSHpJeGtCZVlhVDZjN01GRmliWmVIN3hTeUtIeVNPUGh5MjExb1Q0ckhhQ0tGUWlKUnVEMVRZRUnSAbABQVVfeXFMTy1EWjRxSmxnWHRHOExiUnFZeHZ1WWg0ZDFzZG5QS0hVcGVOSnExcERjR2hMV0tOMHU0NXoyeGlvM3BianJYeE8xWDZKUFVCRFJhLVE2VUF2NUV1LTA1VGw4aGxramc0VjlySEpnSUllWnNraExRbG51T201YXgzU21QZXhOelNhdVFSLUpFdGZMWEt1VzZ3VXE0WXY4aTRDVmh3SHcyWEQ5dS0wVjZwaV8?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "seize + port"
-      ],
-      "firstSeen": "2026-07-01T22:11:11.746Z",
-      "pushedAt": "2026-07-01T22:11:11.746Z"
     }
   ],
-  "updatedAt": "2026-07-02T20:07:01.658Z"
+  "updatedAt": "2026-07-03T01:13:49.716Z"
 }
