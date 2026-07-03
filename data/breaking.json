@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a11b79d12fa2d25b",
+      "title": "Four killed in Ukraine a day after deadliest Russian attacks this year",
+      "url": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-03T10:23:47.922Z",
+      "pushedAt": "2026-07-03T10:23:47.922Z"
+    },
+    {
       "id": "2c5ed915d8538e6b",
       "title": "Gold heads for first weekly rise in five on easing Fed rate-hike bets - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclFSSUNFMmZtNVhtRTlWeTdJSElSd1hZSjB1c0tabXAwUVRJY0ZiQkZYc2ZRY184NzFHOURseE8wVXpJd2tVY09IQTlVV1R2R0htNEp6Wm5qT05rN1ZqZjhPeDZZN0JRUWE1VlJJSGpNdEoybFRnUV9TYzVTWGZ6bENIelRIenRQN3Z0T19KMmlUcU4xd0oxT3FTcWtMMTV6LWFocUFmaEo0UUE?oc=5",
@@ -182,5 +194,5 @@
       "pushedAt": "2026-07-02T11:08:51.728Z"
     }
   ],
-  "updatedAt": "2026-07-03T07:55:11.901Z"
+  "updatedAt": "2026-07-03T10:23:48.097Z"
 }
