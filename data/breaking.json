@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "0d89d7fb6fc963d6",
+      "title": "Supply Chain Disruptions Fuel Local Medical Device Production - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nQkxlRElTbHg1amczMnB5Vy01czdKWUs5M29iYVNWLVJja0pNWk9iSTVUaDZ0Y0NQQ05POGRVVTY5dUtzbHI1QmV3WWJiellWTTFtc3BzaHJENnJGUTBYcmw1NHRoUQ?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + supply chain"
+      ],
+      "firstSeen": "2026-07-03T21:18:45.020Z",
+      "pushedAt": "2026-07-03T21:18:45.020Z"
+    },
+    {
       "id": "ea62d496056debcf",
       "title": "EXCLUSIVE: Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5",
@@ -71,92 +83,7 @@
       ],
       "firstSeen": "2026-07-03T01:13:49.432Z",
       "pushedAt": "2026-07-03T01:13:49.433Z"
-    },
-    {
-      "id": "2e4ee6481b6f4bc1",
-      "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
-      "url": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-07-02T20:07:01.299Z",
-      "pushedAt": "2026-07-02T20:07:01.299Z"
-    },
-    {
-      "id": "81879ca456e0fc14",
-      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
-      "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + collapsed"
-      ],
-      "firstSeen": "2026-07-02T17:06:49.472Z",
-      "pushedAt": "2026-07-02T17:06:49.472Z"
-    },
-    {
-      "id": "dd9590d45c2e3bf2",
-      "title": "Stronger Ringgit Has Not Affected Trade, Helps To Lower Production Costs - MITI - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMTlrM0xWLTJEM2NXdDM1SmtZU3VTTXRteG5HUDRfdGsyWXNWWk51UVZGYl9ta1VnNHRubFI2R29KZVhfWVRsXzJBdnlHQk5RZTJmZTUyTkhLdw?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "ringgit + low",
-        "ringgit + low"
-      ],
-      "firstSeen": "2026-07-02T17:06:49.730Z",
-      "pushedAt": "2026-07-02T17:06:49.730Z"
-    },
-    {
-      "id": "371bb71b8369b41a",
-      "title": "With Hormuz reopened, has the oil shortage turned into a glut?",
-      "url": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shortage + oil"
-      ],
-      "firstSeen": "2026-07-02T15:24:44.721Z",
-      "pushedAt": "2026-07-02T15:24:44.721Z"
-    },
-    {
-      "id": "f824625353c2902a",
-      "title": "Explosion in Damascus cafe causes casualties",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + casualties"
-      ],
-      "firstSeen": "2026-07-02T15:24:44.958Z",
-      "pushedAt": "2026-07-02T15:24:44.958Z"
-    },
-    {
-      "id": "c8d72efff469b6e3",
-      "title": "Syria explosion updates: Bomb blast kills 5 people in Damascus",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/syria-explosion-live-blast-rocks-damascus-as-authorities-investigate-cause?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + bomb"
-      ],
-      "firstSeen": "2026-07-02T15:24:45.185Z",
-      "pushedAt": "2026-07-02T15:24:45.185Z"
-    },
-    {
-      "id": "7eec2a1c36063b67",
-      "title": "Google loses fight over record $4.7 billion EU antitrust fine",
-      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "antitrust + google"
-      ],
-      "firstSeen": "2026-07-02T15:24:45.263Z",
-      "pushedAt": "2026-07-02T15:24:45.263Z"
     }
   ],
-  "updatedAt": "2026-07-03T14:35:06.447Z"
+  "updatedAt": "2026-07-03T21:18:45.170Z"
 }
