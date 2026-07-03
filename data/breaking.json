@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "2c5ed915d8538e6b",
+      "title": "Gold heads for first weekly rise in five on easing Fed rate-hike bets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclFSSUNFMmZtNVhtRTlWeTdJSElSd1hZSjB1c0tabXAwUVRJY0ZiQkZYc2ZRY184NzFHOURseE8wVXpJd2tVY09IQTlVV1R2R0htNEp6Wm5qT05rN1ZqZjhPeDZZN0JRUWE1VlJJSGpNdEoybFRnUV9TYzVTWGZ6bENIelRIenRQN3Z0T19KMmlUcU4xd0oxT3FTcWtMMTV6LWFocUFmaEo0UUE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-07-03T07:55:11.661Z",
+      "pushedAt": "2026-07-03T07:55:11.661Z"
+    },
+    {
+      "id": "f6586eda4ec727e1",
+      "title": "US says it supports Pakistan's right to defend itself against 'terrorist attacks' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOXzN2VDgwTDBjbEZMeUFqcjlKV2htVlhxQjU0bDY1M0dpVFB3aXZ1VjVkOU5EMDBGVUt3Q0FScDY3bU52UmoxMU1MSXJWV3hFMVBGWnZqT3JSOGI4Q09wZEdmbEt5dGxUN0h4WHM5c05xU3N2WnA4RFBrampndzd0WkU4NE96SnlxRS1aV2lHOE5aMUU0MXFRT3JPU3JjUWNwX3hzeXJoRG1aY2xMUmJPSzB6V2hRSnRUVlJ5bW9xOHROMXBPOEJHMkVB?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "terrorist attack"
+      ],
+      "firstSeen": "2026-07-03T07:55:11.753Z",
+      "pushedAt": "2026-07-03T07:55:11.753Z"
+    },
+    {
       "id": "7028c187a35e3644",
       "title": "EXCLUSIVE: Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2tIVDBRWmhSV3BlZlQ1S1Nub0tyOVNaeDMzLS1ZZEF5UkxxMEVadWhQOUotYndyODdxbXJNcGJrekZaZ0hkcVVBdXZEY0VLRE5hdXdQQ2F3UGNmcWpQdXA5UmVBcjhxM3FkX2dLVGhLXzl2emVPOXBaaGJETTdra2dlbnJ2cm5XUDR2cFZXM2lfZmtodGswU2trRnZ3Qnd1WlRvRVJVWTgzNWFVRzYzb1NPdGttWktwY2RWZkFZZzkwQjRxbnc?oc=5",
@@ -156,19 +180,7 @@
       ],
       "firstSeen": "2026-07-02T11:08:51.728Z",
       "pushedAt": "2026-07-02T11:08:51.728Z"
-    },
-    {
-      "id": "1dc13e690e2c55fe",
-      "title": "China restricts some Fortescue iron ore cargoes as talks drag, sources say - The Mighty 790 KFGO",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVJCajhxSlQ5NXhYTlpxV0tLV3p2SE5Pd0dtMnhVa1hWZ1c2bks3cFBQeF9QTWwtRXZ3c2JCSm1zd3lfaWtQYXB2T3h1R0NxYmV3c1YwT0tjcXZHcHZYcVoyWnUzMkt0ZzRpZlZzMFhDUERqM1BsWWg1QzFUUXNKd3RMWW96Y200VnBhalFLUjc3NzVHQzVlSC1ZUDU1Z0JLeFAwSw?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-07-02T05:38:49.758Z",
-      "pushedAt": "2026-07-02T05:38:49.758Z"
     }
   ],
-  "updatedAt": "2026-07-03T04:56:03.604Z"
+  "updatedAt": "2026-07-03T07:55:11.901Z"
 }
