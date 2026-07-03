@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ea62d496056debcf",
+      "title": "EXCLUSIVE: Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-07-03T14:35:06.259Z",
+      "pushedAt": "2026-07-03T14:35:06.259Z"
+    },
+    {
       "id": "a11b79d12fa2d25b",
       "title": "Four killed in Ukraine a day after deadliest Russian attacks this year",
       "url": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss",
@@ -144,55 +156,7 @@
       ],
       "firstSeen": "2026-07-02T15:24:45.263Z",
       "pushedAt": "2026-07-02T15:24:45.263Z"
-    },
-    {
-      "id": "2561c4f504f268ff",
-      "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWhCd0owd29LOGZjcXNhWmpEaVRIb1lyUE5jamlUVlhLNE5aMWVPLUVvTTdDSlRUNkNIa2RjS2NUY3gyZG5VWHl1bV9IUERWVkR4NlpHYk9xZ3pzY2VOZUdpdWtZNzhYTVEtWjJ1c0xvTlJjZVZ3STlBcmFtUl96RnRoZHA2dFRxVXZSUzZCQmZCbldBT0hEZ1Zn?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + oil"
-      ],
-      "firstSeen": "2026-07-02T13:04:22.756Z",
-      "pushedAt": "2026-07-02T13:04:22.756Z"
-    },
-    {
-      "id": "60455a1d6187f3ac",
-      "title": "1 person dead, 4 others hurt after firebombs hurled at homes of Greece's governing party members - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYmRuVWlkTmVIT0tmbVJISklXeDJJb2RiMUhWQkZIUVM5VktNMkhsbDdOcjdGZUhoSmJWUnI3emU0M25keVB6eWF6V3V6NVk4V1Vna1M2ZWZyTlVYLUliSGxoMUlfYVZPeGVGaTlzTnpMcXhIQ09qQXlONVNUelNJaE84WW5EOXp1dGJSUjNhX25IcmhCeVluVWc4QTI?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-07-02T13:04:22.944Z",
-      "pushedAt": "2026-07-02T13:04:22.944Z"
-    },
-    {
-      "id": "e11967500c1fc657",
-      "title": "Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFNQbU5lNnZvdXkxbzN5UEdWOFVydWprSDZMMlBmTGdUaTE1TlZ1YTFXLTF6TmJGeC15UDlmemExd0J4c3VTM0c4YWdjSTVBaFN1RjBvTDlWaGx2V1BrQU9DSy1RRlVwV3Bxd2pUc3c3Y1BXanFHOWFEcy16dTBtNmlURmVBdDlLbFdLWG9fZHpOajJrVS1meFJaVXAxNmlrbV9zd1JEcjk?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + signal"
-      ],
-      "firstSeen": "2026-07-02T11:08:51.565Z",
-      "pushedAt": "2026-07-02T11:08:51.565Z"
-    },
-    {
-      "id": "5bc9f771a7c59796",
-      "title": "At least 18 killed in 'most massive' Russian attack on Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-02T11:08:51.728Z",
-      "pushedAt": "2026-07-02T11:08:51.728Z"
     }
   ],
-  "updatedAt": "2026-07-03T10:23:48.097Z"
+  "updatedAt": "2026-07-03T14:35:06.447Z"
 }
