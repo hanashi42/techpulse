@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f83ca016a263132e",
+      "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
+      "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + devastat"
+      ],
+      "firstSeen": "2026-07-04T12:14:31.795Z",
+      "pushedAt": "2026-07-04T12:14:31.795Z"
+    },
+    {
       "id": "1d41b564048dfe13",
       "title": "Thousands gather for funeral of Iran's assassinated supreme leader Ali Khamenei",
       "url": "https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339",
@@ -49,5 +61,5 @@
       "pushedAt": "2026-07-03T14:35:06.259Z"
     }
   ],
-  "updatedAt": "2026-07-04T11:08:12.543Z"
+  "updatedAt": "2026-07-04T12:14:32.044Z"
 }
