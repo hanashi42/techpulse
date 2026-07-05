@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "45c77bddf6619e23",
+      "title": "Evacuations in Guam as super typhoon Bavi approaches",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "super typhoon"
+      ],
+      "firstSeen": "2026-07-05T10:25:25.422Z",
+      "pushedAt": "2026-07-05T10:25:25.422Z"
+    },
+    {
       "id": "f83ca016a263132e",
       "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
       "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
@@ -23,43 +35,7 @@
       ],
       "firstSeen": "2026-07-04T11:08:12.183Z",
       "pushedAt": "2026-07-04T11:08:12.183Z"
-    },
-    {
-      "id": "81879ca456e0fc14",
-      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
-      "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + collapsed"
-      ],
-      "firstSeen": "2026-07-03T22:17:40.784Z",
-      "pushedAt": "2026-07-03T22:17:40.784Z"
-    },
-    {
-      "id": "0d89d7fb6fc963d6",
-      "title": "Supply Chain Disruptions Fuel Local Medical Device Production - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nQkxlRElTbHg1amczMnB5Vy01czdKWUs5M29iYVNWLVJja0pNWk9iSTVUaDZ0Y0NQQ05POGRVVTY5dUtzbHI1QmV3WWJiellWTTFtc3BzaHJENnJGUTBYcmw1NHRoUQ?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + supply chain"
-      ],
-      "firstSeen": "2026-07-03T21:18:45.020Z",
-      "pushedAt": "2026-07-03T21:18:45.020Z"
-    },
-    {
-      "id": "ea62d496056debcf",
-      "title": "EXCLUSIVE: Iran exploring oil sales to Japan, buyers seek longer sanctions waiver, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-07-03T14:35:06.259Z",
-      "pushedAt": "2026-07-03T14:35:06.259Z"
     }
   ],
-  "updatedAt": "2026-07-04T12:14:32.044Z"
+  "updatedAt": "2026-07-05T10:25:25.567Z"
 }
