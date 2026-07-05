@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1f43ccdbcba39936",
+      "title": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "opec + output"
+      ],
+      "firstSeen": "2026-07-05T15:44:33.456Z",
+      "pushedAt": "2026-07-05T15:44:33.456Z"
+    },
+    {
       "id": "ec265b629af8b7ea",
       "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
       "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
@@ -61,5 +73,5 @@
       "pushedAt": "2026-07-05T10:25:25.422Z"
     }
   ],
-  "updatedAt": "2026-07-05T14:27:03.541Z"
+  "updatedAt": "2026-07-05T15:44:33.758Z"
 }
