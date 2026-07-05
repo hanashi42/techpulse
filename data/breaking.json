@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ec265b629af8b7ea",
+      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-05T14:27:03.106Z",
+      "pushedAt": "2026-07-05T14:27:03.106Z"
+    },
+    {
+      "id": "f83ca016a263132e",
+      "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
+      "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + devastat"
+      ],
+      "firstSeen": "2026-07-05T14:27:03.473Z",
+      "pushedAt": "2026-07-05T14:27:03.474Z"
+    },
+    {
       "id": "1d41b564048dfe13",
       "title": "Thousands gather for funeral of Iran's assassinated supreme leader",
       "url": "https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339",
@@ -37,5 +61,5 @@
       "pushedAt": "2026-07-05T10:25:25.422Z"
     }
   ],
-  "updatedAt": "2026-07-05T12:57:25.362Z"
+  "updatedAt": "2026-07-05T14:27:03.541Z"
 }
