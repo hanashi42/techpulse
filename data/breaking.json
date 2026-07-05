@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "81879ca456e0fc14",
+      "title": "Venezuelan man saved from collapsed mall eight days after earthquakes",
+      "url": "https://www.theguardian.com/world/2026/jul/02/venezuelan-man-pulled-alive-from-collapsed-basement-eight-days-after-earthquakes",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + collapsed"
+      ],
+      "firstSeen": "2026-07-05T11:51:10.406Z",
+      "pushedAt": "2026-07-05T11:51:10.406Z"
+    },
+    {
       "id": "45c77bddf6619e23",
       "title": "Evacuations in Guam as super typhoon Bavi approaches",
       "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
@@ -23,19 +35,7 @@
       ],
       "firstSeen": "2026-07-04T12:14:31.795Z",
       "pushedAt": "2026-07-04T12:14:31.795Z"
-    },
-    {
-      "id": "1d41b564048dfe13",
-      "title": "Thousands gather for funeral of Iran's assassinated supreme leader Ali Khamenei",
-      "url": "https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "assassinated"
-      ],
-      "firstSeen": "2026-07-04T11:08:12.183Z",
-      "pushedAt": "2026-07-04T11:08:12.183Z"
     }
   ],
-  "updatedAt": "2026-07-05T10:25:25.567Z"
+  "updatedAt": "2026-07-05T11:51:10.652Z"
 }
