@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5dc30cfd3fc77ccc",
+      "title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
+      "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-06T18:28:11.114Z",
+      "pushedAt": "2026-07-06T18:28:11.114Z"
+    },
+    {
       "id": "9a2adbf7477dd8b2",
       "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdJSlpLcUl6ZjVHNk80NEd0VFVkWjJzUTJPYUNBUjFjUjQySmFFblBYRFFKemFZR3FER2FuUlVUR2UzMXV5bnJ4VDY1R2Rpb3FpX2xlelMyMzJUd0tySzJmRTlDeUl1ZU82a3JsYjUtNVUtLXVic09jdktfZWpzSjgwOW5uakQxYXdFRlk3NDd1ZEI5WktfT0pZdmNyVjlyNkVqR3VGVWF4Ums5TExLRUxUT3FPTnVZXzNETw?oc=5",
@@ -109,5 +121,5 @@
       "pushedAt": "2026-07-05T19:58:52.430Z"
     }
   ],
-  "updatedAt": "2026-07-06T16:36:41.091Z"
+  "updatedAt": "2026-07-06T18:28:11.309Z"
 }
