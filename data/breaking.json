@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "86c26ad1f6d93bf4",
+      "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUt5T2hYa3VMNTRLSEI4Nm1RMVFLazlrWmxPb1RVRGJGaDZ1SjdkNzlIZmtPVFI4bTg0b2ZrcW9namNyVEFza05CQ2dzMGtGLVFNbnZGSmhaOG5wekg5anN4ejVScmREbUFMWVd4VVZULVV3dmstWjdaSVY3YzIybGNiLURGQno2TE5rbzN3Wi0yNWtwZlJmdjRWUVBiNWQxRkE?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "opec + production"
+      ],
+      "firstSeen": "2026-07-06T05:52:58.988Z",
+      "pushedAt": "2026-07-06T05:52:58.988Z"
+    },
+    {
+      "id": "ac17e943e8774faa",
+      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+      "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-07-06T05:52:59.259Z",
+      "pushedAt": "2026-07-06T05:52:59.259Z"
+    },
+    {
+      "id": "677d49b8a1a7ce2b",
+      "title": "Tuareg fighters claim to have shot down a Russian helicopter in Mali",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/aje-onl-nf_mali-rebels-claim-to-have-shot-down-russian-helicop-050726?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "shot down + helicopter"
+      ],
+      "firstSeen": "2026-07-06T05:52:59.478Z",
+      "pushedAt": "2026-07-06T05:52:59.478Z"
+    },
+    {
+      "id": "a096788e9e609758",
+      "title": "Why Iran may find it difficult to clear its oil inventories even after sanctions relief",
+      "url": "https://www.cnbc.com/2026/07/06/iran-oil-supply-hormuz-china-energy.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil"
+      ],
+      "firstSeen": "2026-07-06T05:52:59.564Z",
+      "pushedAt": "2026-07-06T05:52:59.564Z"
+    },
+    {
       "id": "a98dd07620595913",
       "title": "British military says cargo ship reports attack in the Red Sea off Yemen - AP News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONm9jMzVyNFJ5NlJ3dXAzcWpYTkxGam1ZNE1wSEVBVmNlSWFIUndEdEhsMDJfdUNvN2FTS0JnMkpjOVBpS3VnZGh2bWptN1ZHYjhuQkNxOHBlMjVPZjIzdTlkVHRWckxYUHBsTGwzQTFWeUdrU2JoTnFneFhQbWZ5V1hWNGVoNjM4NmVV?oc=5",
@@ -85,5 +133,5 @@
       "pushedAt": "2026-07-05T10:25:25.422Z"
     }
   ],
-  "updatedAt": "2026-07-05T19:58:52.558Z"
+  "updatedAt": "2026-07-06T05:52:59.648Z"
 }
