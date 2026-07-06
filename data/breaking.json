@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "bced8d75e6402f1f",
+      "title": "Soybeans Explode Higher with Corn and Wheat on Weather, China Dropping Tariffs - AgWeb",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQURLLWQ4MXU1d29kTDk4YV9fZjMwMkd2OF9lUGxLQVJ2bktvS3BnUmJhbmpGbExLWjZjY01ZWUJYWFFoQnM1NlZxcmc3ekw5cUxVM3QxTnFPc2pKRnhYZUFENW1mZDEwQ1o5cjFpeXFoNmd5OWFTRzVPT01Rb2UtblJVaFowS0VJN01oUTFLVFZLVm5QZ2hrQ3RnYmZ6UXU3ZHFkdnpUQmhGSXlzTFJ5WXY3ZDc4QQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-07-06T21:51:04.604Z",
+      "pushedAt": "2026-07-06T21:51:04.604Z"
+    },
+    {
       "id": "5dc30cfd3fc77ccc",
       "title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
       "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss",
@@ -107,19 +119,7 @@
       ],
       "firstSeen": "2026-07-06T05:52:59.564Z",
       "pushedAt": "2026-07-06T05:52:59.564Z"
-    },
-    {
-      "id": "a98dd07620595913",
-      "title": "British military says cargo ship reports attack in the Red Sea off Yemen - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONm9jMzVyNFJ5NlJ3dXAzcWpYTkxGam1ZNE1wSEVBVmNlSWFIUndEdEhsMDJfdUNvN2FTS0JnMkpjOVBpS3VnZGh2bWptN1ZHYjhuQkNxOHBlMjVPZjIzdTlkVHRWckxYUHBsTGwzQTFWeUdrU2JoTnFneFhQbWZ5V1hWNGVoNjM4NmVV?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-07-05T19:58:52.430Z",
-      "pushedAt": "2026-07-05T19:58:52.430Z"
     }
   ],
-  "updatedAt": "2026-07-06T18:28:11.309Z"
+  "updatedAt": "2026-07-06T21:51:04.855Z"
 }
