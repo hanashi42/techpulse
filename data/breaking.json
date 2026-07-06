@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "9a2adbf7477dd8b2",
+      "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdJSlpLcUl6ZjVHNk80NEd0VFVkWjJzUTJPYUNBUjFjUjQySmFFblBYRFFKemFZR3FER2FuUlVUR2UzMXV5bnJ4VDY1R2Rpb3FpX2xlelMyMzJUd0tySzJmRTlDeUl1ZU82a3JsYjUtNVUtLXVic09jdktfZWpzSjgwOW5uakQxYXdFRlk3NDd1ZEI5WktfT0pZdmNyVjlyNkVqR3VGVWF4Ums5TExLRUxUT3FPTnVZXzNETw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + microsoft"
+      ],
+      "firstSeen": "2026-07-06T16:36:40.959Z",
+      "pushedAt": "2026-07-06T16:36:40.959Z"
+    },
+    {
+      "id": "45c77bddf6619e23",
+      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "super typhoon"
+      ],
+      "firstSeen": "2026-07-06T16:36:41.028Z",
+      "pushedAt": "2026-07-06T16:36:41.028Z"
+    },
+    {
+      "id": "1d41b564048dfe13",
+      "title": "Thousands gather for funeral of Iran's assassinated supreme leader",
+      "url": "https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "assassinated"
+      ],
+      "firstSeen": "2026-07-06T16:36:41.068Z",
+      "pushedAt": "2026-07-06T16:36:41.068Z"
+    },
+    {
       "id": "96c2f6545ccce355",
       "title": "China dam collapses, cross-border railway halted as Typhoon Maysak slams Guangxi - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVU1hRlFVTEk2SC1NaWVXX28tdjg3RUdOVENYRUpuUEJuSWQ4UE5UekxvQkhzbjA3UWlaRURwVzVRTmxqd3FQVVd6WlE5QTRVWDVtOFFmcVNjN2YxaXpoVHRhUkl2ZXdIbWVaVExpWEtWVEpDVmR0eFYtWU9jQlJzV2pJV2FfYzBqTmdzZGxMTkhjVkdkNTdTcGJZT0dkdHlkZHB2WDVUTXdmclI5bl91NS1EelBmRFhTWndGb3MtaVJaalF3cU05Xzl4Z2NTUEpyMU42YjlB0gHWAUFVX3lxTE5jU2ZTWi1vWW9VSWhEemtTaFM2UkFSNGZTZWVsbE9yMjJRNXFuQ2daR09xU0FSTkFDalZUSjNQbWM3TGhyelUyUkVQMnJBZGhJalUyTEx5VURlMlpmanhDT0tTeFB5akpuMkRRYVVKZHc4aXltS0owU2c1SnJrR2RyLW5SRjlSNFRBVVctOVVtbjVCakdkNWYwd3ZYNGhzZU5TQVRJMF80VXRoU1U0VW9oZ2g4bUxJWDhaU3NvNlZNWnM0c3B2ZUN6cFctVV8xcjlyVVpGNGc?oc=5",
@@ -71,43 +107,7 @@
       ],
       "firstSeen": "2026-07-05T19:58:52.430Z",
       "pushedAt": "2026-07-05T19:58:52.430Z"
-    },
-    {
-      "id": "1f43ccdbcba39936",
-      "title": "OPEC+ approves further oil output increase as Hormuz exports start to recover - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1FJeFM4MnVqdWlMNmZ5M3pqUDAtcm9PcVg0SFVxVHh0dW5SVmhSN21WWFB1MDQ5dDdsc3JNRGxPRXE2bDdhTFVZdHhXdExvSE1KSklESjRUeVZnTUdCR1ppU1FhaVN4WnZGc3BGUWZybUl2Tzk3V3BWTnNVczhYRzJkcDdBNmZGUmQ0NXlOYmNqa09MY2xXNWlrczk4ZWdSRHlQdlpWajQ4QQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + output"
-      ],
-      "firstSeen": "2026-07-05T15:44:33.456Z",
-      "pushedAt": "2026-07-05T15:44:33.456Z"
-    },
-    {
-      "id": "ec265b629af8b7ea",
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-05T14:27:03.106Z",
-      "pushedAt": "2026-07-05T14:27:03.106Z"
-    },
-    {
-      "id": "f83ca016a263132e",
-      "title": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
-      "url": "https://www.theguardian.com/football/2026/jul/04/how-the-1986-mexico-world-cup-almost-cancelled-after-earthquake-1986",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + devastat"
-      ],
-      "firstSeen": "2026-07-05T14:27:03.473Z",
-      "pushedAt": "2026-07-05T14:27:03.474Z"
     }
   ],
-  "updatedAt": "2026-07-06T13:30:10.135Z"
+  "updatedAt": "2026-07-06T16:36:41.091Z"
 }
