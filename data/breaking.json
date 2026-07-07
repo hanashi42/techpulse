@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "7901d333751a4a3f",
+      "title": "At least nine police officers killed in southwestern Pakistan attack",
+      "url": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-07T13:37:35.536Z",
+      "pushedAt": "2026-07-07T13:37:35.536Z"
+    },
+    {
       "id": "84612a9f28bf9122",
       "title": "Woman suspected of carrying out Monaco bombing of Ukrainian tycoon found dead",
       "url": "https://news.sky.com/story/woman-suspected-of-carrying-out-monaco-bombing-of-ukrainian-tycoon-found-dead-13561246",
@@ -95,19 +107,7 @@
       ],
       "firstSeen": "2026-07-06T16:36:41.068Z",
       "pushedAt": "2026-07-06T16:36:41.068Z"
-    },
-    {
-      "id": "96c2f6545ccce355",
-      "title": "China dam collapses, cross-border railway halted as Typhoon Maysak slams Guangxi - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVU1hRlFVTEk2SC1NaWVXX28tdjg3RUdOVENYRUpuUEJuSWQ4UE5UekxvQkhzbjA3UWlaRURwVzVRTmxqd3FQVVd6WlE5QTRVWDVtOFFmcVNjN2YxaXpoVHRhUkl2ZXdIbWVaVExpWEtWVEpDVmR0eFYtWU9jQlJzV2pJV2FfYzBqTmdzZGxMTkhjVkdkNTdTcGJZT0dkdHlkZHB2WDVUTXdmclI5bl91NS1EelBmRFhTWndGb3MtaVJaalF3cU05Xzl4Z2NTUEpyMU42YjlB0gHWAUFVX3lxTE5jU2ZTWi1vWW9VSWhEemtTaFM2UkFSNGZTZWVsbE9yMjJRNXFuQ2daR09xU0FSTkFDalZUSjNQbWM3TGhyelUyUkVQMnJBZGhJalUyTEx5VURlMlpmanhDT0tTeFB5akpuMkRRYVVKZHc4aXltS0owU2c1SnJrR2RyLW5SRjlSNFRBVVctOVVtbjVCakdkNWYwd3ZYNGhzZU5TQVRJMF80VXRoU1U0VW9oZ2g4bUxJWDhaU3NvNlZNWnM0c3B2ZUN6cFctVV8xcjlyVVpGNGc?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "collapses + dam"
-      ],
-      "firstSeen": "2026-07-06T13:30:10.010Z",
-      "pushedAt": "2026-07-06T13:30:10.010Z"
     }
   ],
-  "updatedAt": "2026-07-07T11:33:16.340Z"
+  "updatedAt": "2026-07-07T13:37:35.669Z"
 }
