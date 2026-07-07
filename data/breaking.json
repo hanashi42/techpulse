@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a76ee5952ca09b63",
+      "title": "Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz",
+      "url": "https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-07-07T08:50:46.341Z",
+      "pushedAt": "2026-07-07T08:50:46.341Z"
+    },
+    {
       "id": "101117916b9277bb",
       "title": "US prosecutors credit gold trader in Iran sanctions case with key help ahead of sentencing - AP News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX09NRjNfVzY1UHZzZW1uZW9KQnRyN0VHVUtEVXFvMDhfTVYyV1BiU1h2WmMtS29vQXkyNnRZZ2VaSEstVEVLZmhMSEE3ZVJsOUplcF9ISHFVQU4xdzdNZ19IWlJfMlJnRXBCM2lPQzh3TDNYdWJiQXlTOXhrd2ZacVdlMVJGbjZzZ09fWTM3Zw?oc=5",
@@ -83,55 +95,7 @@
       ],
       "firstSeen": "2026-07-06T13:30:10.010Z",
       "pushedAt": "2026-07-06T13:30:10.010Z"
-    },
-    {
-      "id": "86c26ad1f6d93bf4",
-      "title": "7 OPEC+ countries agree to expand monthly oil production modestly as prices slide - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUt5T2hYa3VMNTRLSEI4Nm1RMVFLazlrWmxPb1RVRGJGaDZ1SjdkNzlIZmtPVFI4bTg0b2ZrcW9namNyVEFza05CQ2dzMGtGLVFNbnZGSmhaOG5wekg5anN4ejVScmREbUFMWVd4VVZULVV3dmstWjdaSVY3YzIybGNiLURGQno2TE5rbzN3Wi0yNWtwZlJmdjRWUVBiNWQxRkE?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "opec + production"
-      ],
-      "firstSeen": "2026-07-06T05:52:58.988Z",
-      "pushedAt": "2026-07-06T05:52:58.988Z"
-    },
-    {
-      "id": "ac17e943e8774faa",
-      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-      "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-07-06T05:52:59.259Z",
-      "pushedAt": "2026-07-06T05:52:59.259Z"
-    },
-    {
-      "id": "677d49b8a1a7ce2b",
-      "title": "Tuareg fighters claim to have shot down a Russian helicopter in Mali",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/aje-onl-nf_mali-rebels-claim-to-have-shot-down-russian-helicop-050726?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "shot down + helicopter"
-      ],
-      "firstSeen": "2026-07-06T05:52:59.478Z",
-      "pushedAt": "2026-07-06T05:52:59.478Z"
-    },
-    {
-      "id": "a096788e9e609758",
-      "title": "Why Iran may find it difficult to clear its oil inventories even after sanctions relief",
-      "url": "https://www.cnbc.com/2026/07/06/iran-oil-supply-hormuz-china-energy.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil"
-      ],
-      "firstSeen": "2026-07-06T05:52:59.564Z",
-      "pushedAt": "2026-07-06T05:52:59.564Z"
     }
   ],
-  "updatedAt": "2026-07-07T05:32:30.218Z"
+  "updatedAt": "2026-07-07T08:50:46.430Z"
 }
