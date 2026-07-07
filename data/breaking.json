@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "cff46b12a68460b5",
+      "title": "China May Restrict Access to Its Most Powerful AI Models - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04SHQ1cnNqMENVcVBwaEZWLTIzRlp0U253RkVHYmVIVklkanZaejZGWkV0eDBxSUNrRFFTTGxqMFZjbU15YWhEZkh4ZVNFSzhmODlncnZVX09qN3BXdlZHbGUtVDBzSHloODM4d0k1dS1RVk9KdGlzWFVB?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "restrict + china"
+      ],
+      "firstSeen": "2026-07-07T16:06:26.228Z",
+      "pushedAt": "2026-07-07T16:06:26.228Z"
+    },
+    {
       "id": "7901d333751a4a3f",
       "title": "At least nine police officers killed in southwestern Pakistan attack",
       "url": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss",
@@ -109,5 +121,5 @@
       "pushedAt": "2026-07-06T16:36:41.068Z"
     }
   ],
-  "updatedAt": "2026-07-07T13:37:35.669Z"
+  "updatedAt": "2026-07-07T16:06:26.309Z"
 }
