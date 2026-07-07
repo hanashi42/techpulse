@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "84612a9f28bf9122",
+      "title": "Woman suspected of carrying out Monaco bombing of Ukrainian tycoon found dead",
+      "url": "https://news.sky.com/story/woman-suspected-of-carrying-out-monaco-bombing-of-ukrainian-tycoon-found-dead-13561246",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombing of"
+      ],
+      "firstSeen": "2026-07-07T11:33:16.261Z",
+      "pushedAt": "2026-07-07T11:33:16.261Z"
+    },
+    {
       "id": "a76ee5952ca09b63",
       "title": "Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz",
       "url": "https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html",
@@ -97,5 +109,5 @@
       "pushedAt": "2026-07-06T13:30:10.010Z"
     }
   ],
-  "updatedAt": "2026-07-07T08:50:46.430Z"
+  "updatedAt": "2026-07-07T11:33:16.340Z"
 }
