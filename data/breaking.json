@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "51abc6c7f16946a9",
+      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + bomb"
+      ],
+      "firstSeen": "2026-07-07T18:11:31.261Z",
+      "pushedAt": "2026-07-07T18:11:31.261Z"
+    },
+    {
+      "id": "2ab4a427cee1e8bd",
+      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-07-07T18:11:31.530Z",
+      "pushedAt": "2026-07-07T18:11:31.530Z"
+    },
+    {
       "id": "cff46b12a68460b5",
       "title": "China May Restrict Access to Its Most Powerful AI Models - Time Magazine",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04SHQ1cnNqMENVcVBwaEZWLTIzRlp0U253RkVHYmVIVklkanZaejZGWkV0eDBxSUNrRFFTTGxqMFZjbU15YWhEZkh4ZVNFSzhmODlncnZVX09qN3BXdlZHbGUtVDBzSHloODM4d0k1dS1RVk9KdGlzWFVB?oc=5",
@@ -83,43 +107,7 @@
       ],
       "firstSeen": "2026-07-06T18:28:11.114Z",
       "pushedAt": "2026-07-06T18:28:11.114Z"
-    },
-    {
-      "id": "9a2adbf7477dd8b2",
-      "title": "Microsoft joins AI-driven tech layoff wave with 4,800 job cuts - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjdJSlpLcUl6ZjVHNk80NEd0VFVkWjJzUTJPYUNBUjFjUjQySmFFblBYRFFKemFZR3FER2FuUlVUR2UzMXV5bnJ4VDY1R2Rpb3FpX2xlelMyMzJUd0tySzJmRTlDeUl1ZU82a3JsYjUtNVUtLXVic09jdktfZWpzSjgwOW5uakQxYXdFRlk3NDd1ZEI5WktfT0pZdmNyVjlyNkVqR3VGVWF4Ums5TExLRUxUT3FPTnVZXzNETw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + microsoft"
-      ],
-      "firstSeen": "2026-07-06T16:36:40.959Z",
-      "pushedAt": "2026-07-06T16:36:40.959Z"
-    },
-    {
-      "id": "45c77bddf6619e23",
-      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "super typhoon"
-      ],
-      "firstSeen": "2026-07-06T16:36:41.028Z",
-      "pushedAt": "2026-07-06T16:36:41.028Z"
-    },
-    {
-      "id": "1d41b564048dfe13",
-      "title": "Thousands gather for funeral of Iran's assassinated supreme leader",
-      "url": "https://news.sky.com/story/thousands-of-mourners-gather-for-funeral-of-irans-assassinated-supreme-leader-ali-khamenei-13560339",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "assassinated"
-      ],
-      "firstSeen": "2026-07-06T16:36:41.068Z",
-      "pushedAt": "2026-07-06T16:36:41.068Z"
     }
   ],
-  "updatedAt": "2026-07-07T16:06:26.309Z"
+  "updatedAt": "2026-07-07T18:11:31.788Z"
 }
