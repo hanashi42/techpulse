@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "368ef079e22e2e37",
+      "title": "India central bank backs crypto ban, tax department warns of evasion risks, documents show - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMExaYnBnZDQxVm9fVEpSMjNqVFhmRkhLVnRBd2ZrSk5VNHZISUQ3ekhlZHVFOEtqcFktcndPeFRxQXdLWVNKWllXQWIzdDlkMHdObGlWWDB0TVh5VEN5NHZxWTBBa0kxZ2ZyNUt1OXZPOTFMZExvMFdDTkJoS0dvS0ZNN3c0RUhObnJMZUVDUGlRSTVrOTRtRlRkX1REaXZseVptY2JBRWc0SVVnX255a05VQWxWOFNhb3ZubHY5eFpUN2pqckt3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "crypto + ban"
+      ],
+      "firstSeen": "2026-07-08T11:15:18.107Z",
+      "pushedAt": "2026-07-08T11:15:18.107Z"
+    },
+    {
+      "id": "5c7ce05d297af293",
+      "title": "Alibaba Stock Leads China AI Rally, Just as U.S. Tech Stumbles - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MYnluV2tycFlEdC0xcnFLckM0Z1pHYzJHUE9renhrYU5KS3hhbTVXS2dtNzZSOTdhLVhmWDJSX2JGd3REemhPSlhGekd3SFJFNldOMVJHTTVJUmVici1tRTgyX3FKSlZqTnJneG9QYlNBUU1JeU85cWR3?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + stock",
+        "rally + stock"
+      ],
+      "firstSeen": "2026-07-08T11:15:18.524Z",
+      "pushedAt": "2026-07-08T11:15:18.524Z"
+    },
+    {
       "id": "09017ad737b7584b",
       "title": "Why have half a million Russians gone bankrupt amid Ukraine war?",
       "url": "https://www.aljazeera.com/economy/2026/7/8/why-have-half-a-million-russians-gone-bankrupt-amid-ukraine-war?traffic_source=rss",
@@ -121,5 +146,5 @@
       "pushedAt": "2026-07-07T11:33:16.261Z"
     }
   ],
-  "updatedAt": "2026-07-08T09:12:07.461Z"
+  "updatedAt": "2026-07-08T11:15:18.759Z"
 }
