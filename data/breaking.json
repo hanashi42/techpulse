@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "df245ec4e259d08f",
+      "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
+      "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-07-08T12:51:46.770Z",
+      "pushedAt": "2026-07-08T12:51:46.770Z"
+    },
+    {
+      "id": "632708ce9ed415ec",
+      "title": "10-year Treasury yield jumps to 4.57% as jumping oil prices reignite inflation fears",
+      "url": "https://www.cnbc.com/2026/07/08/treasury-yields-trump-iran-ceasefire.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-07-08T12:51:47.023Z",
+      "pushedAt": "2026-07-08T12:51:47.023Z"
+    },
+    {
+      "id": "0ab3190e393f90e7",
+      "title": "All coastal tourist attractions urged to close as Super Typhoon Bavi approaches - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFl2M3Q0cUNTNjRKMTNZR2tMZ2Z4cWhmbzNzTkViQ1o0RG9kUFZGNDh4SW5vLWhidm5kaDlNTHI0bnNtUm5uNU4zZWJVdEk3RE9uS3d4QXZ1SVc5ZDBzRGR0RWVEankwaU5LTXRpeWtYTjAxOFg1M2Q5QVU3bnhPTWFLOUFITHRybEN2OERURjRpcmxCZlpTZEJwWU85WmRYWGRzeDZxRENUbm0zZ1hnMHlsSUVObG9qVTkwUzJqcFh4WGdYNWfSAcYBQVVfeXFMTW5RcTIwT0h6SlpvWGMybU4wekRhaDRGUjUyNi1uMWE1bFEzZ3RiTnFFU3JvY3NvUTgyMkJEVnZEcUkwYnFVeXI3aWVENEJ5RUN0QzhXRUFVMFVEQkhxUmxmU001N1BDN2o0RXlnaTdWXzdtazdVbW5Odk52V2NLLUtYMHg2Y195X29sOG42OWlCVEdZanJlLUVhYmJVTlZXb2w1ZXFMRHduWV9zc3kyeFpsdTZLTndpQ3BvM2tkdEtSOHJONXNn?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "super typhoon"
+      ],
+      "firstSeen": "2026-07-08T12:51:47.209Z",
+      "pushedAt": "2026-07-08T12:51:47.209Z"
+    },
+    {
       "id": "368ef079e22e2e37",
       "title": "India central bank backs crypto ban, tax department warns of evasion risks, documents show - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMExaYnBnZDQxVm9fVEpSMjNqVFhmRkhLVnRBd2ZrSk5VNHZISUQ3ekhlZHVFOEtqcFktcndPeFRxQXdLWVNKWllXQWIzdDlkMHdObGlWWDB0TVh5VEN5NHZxWTBBa0kxZ2ZyNUt1OXZPOTFMZExvMFdDTkJoS0dvS0ZNN3c0RUhObnJMZUVDUGlRSTVrOTRtRlRkX1REaXZseVptY2JBRWc0SVVnX255a05VQWxWOFNhb3ZubHY5eFpUN2pqckt3?oc=5",
@@ -132,19 +168,7 @@
       ],
       "firstSeen": "2026-07-07T13:37:35.536Z",
       "pushedAt": "2026-07-07T13:37:35.536Z"
-    },
-    {
-      "id": "84612a9f28bf9122",
-      "title": "Woman suspected of carrying out Monaco bombing of Ukrainian tycoon found dead",
-      "url": "https://news.sky.com/story/woman-suspected-of-carrying-out-monaco-bombing-of-ukrainian-tycoon-found-dead-13561246",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombing of"
-      ],
-      "firstSeen": "2026-07-07T11:33:16.261Z",
-      "pushedAt": "2026-07-07T11:33:16.261Z"
     }
   ],
-  "updatedAt": "2026-07-08T11:15:18.759Z"
+  "updatedAt": "2026-07-08T12:51:47.347Z"
 }
