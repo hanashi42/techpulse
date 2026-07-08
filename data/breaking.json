@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "09017ad737b7584b",
+      "title": "Why have half a million Russians gone bankrupt amid Ukraine war?",
+      "url": "https://www.aljazeera.com/economy/2026/7/8/why-have-half-a-million-russians-gone-bankrupt-amid-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "bankrupt + bank"
+      ],
+      "firstSeen": "2026-07-08T09:12:06.899Z",
+      "pushedAt": "2026-07-08T09:12:06.899Z"
+    },
+    {
+      "id": "538c3060dec069c1",
+      "title": "Oil surges 5% after Trump says ceasefire with Iran is over",
+      "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-07-08T09:12:07.275Z",
+      "pushedAt": "2026-07-08T09:12:07.275Z"
+    },
+    {
       "id": "98a4c82ba93afe67",
       "title": "US oil prices jump after US military launches strikes against Iran - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
@@ -95,31 +119,7 @@
       ],
       "firstSeen": "2026-07-07T11:33:16.261Z",
       "pushedAt": "2026-07-07T11:33:16.261Z"
-    },
-    {
-      "id": "a76ee5952ca09b63",
-      "title": "Oil prices rise after report of Iranian attack on commercial ships in Strait of Hormuz",
-      "url": "https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-07-07T08:50:46.341Z",
-      "pushedAt": "2026-07-07T08:50:46.341Z"
-    },
-    {
-      "id": "101117916b9277bb",
-      "title": "US prosecutors credit gold trader in Iran sanctions case with key help ahead of sentencing - AP News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX09NRjNfVzY1UHZzZW1uZW9KQnRyN0VHVUtEVXFvMDhfTVYyV1BiU1h2WmMtS29vQXkyNnRZZ2VaSEstVEVLZmhMSEE3ZVJsOUplcF9ISHFVQU4xdzdNZ19IWlJfMlJnRXBCM2lPQzh3TDNYdWJiQXlTOXhrd2ZacVdlMVJGbjZzZ09fWTM3Zw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-07-07T05:32:30.114Z",
-      "pushedAt": "2026-07-07T05:32:30.114Z"
     }
   ],
-  "updatedAt": "2026-07-08T01:04:45.159Z"
+  "updatedAt": "2026-07-08T09:12:07.461Z"
 }
