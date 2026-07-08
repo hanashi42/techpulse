@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "98a4c82ba93afe67",
+      "title": "US oil prices jump after US military launches strikes against Iran - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-07-08T01:04:45.056Z",
+      "pushedAt": "2026-07-08T01:04:45.056Z"
+    },
+    {
+      "id": "ff004be0bea45812",
+      "title": "Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/8/iran-war-live-us-bombs-sirik-qeshm-bandar-abbas-over-hormuz-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-07-08T01:04:45.115Z",
+      "pushedAt": "2026-07-08T01:04:45.115Z"
+    },
+    {
       "id": "ffd9daced13750de",
       "title": "Judge approves $46.75 million payout for 23andMe data breach victims - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGNxVDMxT3djUXRuQ1cyTk9zX3ZwWTNZNG5kUTdyVm5XTk5iZUxORHlWQTFxeDYxVHc2VktESFF5MlR5OFUxZlZkeEZZVEgtcDhBSEdLUXp4cmlMUnR4M3BxQUZ3S2NoeS1JOTdZeU1RV0VLSEU5aDY1RjZTM0puUER4dG00SVJQT2ZmYkV6aF9OLVJuQWRHZEM4YWlDbEx2U29QVEZqQQ?oc=5",
@@ -95,19 +119,7 @@
       ],
       "firstSeen": "2026-07-07T05:32:30.114Z",
       "pushedAt": "2026-07-07T05:32:30.114Z"
-    },
-    {
-      "id": "bced8d75e6402f1f",
-      "title": "Soybeans Explode Higher with Corn and Wheat on Weather, China Dropping Tariffs - AgWeb",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQURLLWQ4MXU1d29kTDk4YV9fZjMwMkd2OF9lUGxLQVJ2bktvS3BnUmJhbmpGbExLWjZjY01ZWUJYWFFoQnM1NlZxcmc3ekw5cUxVM3QxTnFPc2pKRnhYZUFENW1mZDEwQ1o5cjFpeXFoNmd5OWFTRzVPT01Rb2UtblJVaFowS0VJN01oUTFLVFZLVm5QZ2hrQ3RnYmZ6UXU3ZHFkdnpUQmhGSXlzTFJ5WXY3ZDc4QQ?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-07-06T21:51:04.604Z",
-      "pushedAt": "2026-07-06T21:51:04.604Z"
     }
   ],
-  "updatedAt": "2026-07-07T20:11:29.015Z"
+  "updatedAt": "2026-07-08T01:04:45.159Z"
 }
