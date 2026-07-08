@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "ac7e4f2e30af097d",
+      "title": "Pakistan says 42 security personnel killed in Balochistan attacks this week - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlFBbWNpejctSVVTTXdWLVZCN19LVWxIbS1YYnRuTHNEdldPNHV0OU9MTDRRUFRKaVhfMG9RWjlXcUlXa0NpQnhQaFR5b1cyZUJEZ0hWSGhnaC1zb2F4YWtaN3VzMGdYY1RmVHJhZ3VkZjl6dXJHYVhQMnVLcFM5SUw4aU40aUh1cnNidnVCYUFxYWFuX3RiaGpRM09kek9RQ29rNmhwa1d5QzNDRUdsVUhrcTZ3dXpQbDQ1OWZ1c2hUeHc1WHc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-08T15:02:01.808Z",
+      "pushedAt": "2026-07-08T15:02:01.808Z"
+    },
+    {
+      "id": "84612a9f28bf9122",
+      "title": "Woman suspected of carrying out Monaco bombing of Ukrainian tycoon found dead",
+      "url": "https://news.sky.com/story/woman-suspected-of-carrying-out-monaco-bombing-of-ukrainian-tycoon-found-dead-13561246",
+      "source": "Sky News",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombing of"
+      ],
+      "firstSeen": "2026-07-08T15:02:02.064Z",
+      "pushedAt": "2026-07-08T15:02:02.064Z"
+    },
+    {
       "id": "df245ec4e259d08f",
       "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
       "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
@@ -156,19 +180,7 @@
       ],
       "firstSeen": "2026-07-07T16:06:26.228Z",
       "pushedAt": "2026-07-07T16:06:26.228Z"
-    },
-    {
-      "id": "7901d333751a4a3f",
-      "title": "At least nine police officers killed in southwestern Pakistan attack",
-      "url": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-07T13:37:35.536Z",
-      "pushedAt": "2026-07-07T13:37:35.536Z"
     }
   ],
-  "updatedAt": "2026-07-08T12:51:47.347Z"
+  "updatedAt": "2026-07-08T15:02:02.194Z"
 }
