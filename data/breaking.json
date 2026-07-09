@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4db41b888a52dae0",
+      "title": "Trump can halt trade with Spain using law behind scrapped tariffs: Greer",
+      "url": "https://www.cnbc.com/2026/07/09/trump-spain-trade-greer-ieepa-tariffs-nato.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-09T16:34:26.130Z",
+      "pushedAt": "2026-07-09T16:34:26.130Z"
+    },
+    {
       "id": "aeea85668cf30b66",
       "title": "Oil prices fall as markets weigh impact of US strikes on Iran - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5",
@@ -59,116 +71,7 @@
       ],
       "firstSeen": "2026-07-09T05:14:43.308Z",
       "pushedAt": "2026-07-09T05:14:43.308Z"
-    },
-    {
-      "id": "ac7e4f2e30af097d",
-      "title": "Pakistan says 42 security personnel killed in Balochistan attacks this week - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlFBbWNpejctSVVTTXdWLVZCN19LVWxIbS1YYnRuTHNEdldPNHV0OU9MTDRRUFRKaVhfMG9RWjlXcUlXa0NpQnhQaFR5b1cyZUJEZ0hWSGhnaC1zb2F4YWtaN3VzMGdYY1RmVHJhZ3VkZjl6dXJHYVhQMnVLcFM5SUw4aU40aUh1cnNidnVCYUFxYWFuX3RiaGpRM09kek9RQ29rNmhwa1d5QzNDRUdsVUhrcTZ3dXpQbDQ1OWZ1c2hUeHc1WHc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-08T15:02:01.808Z",
-      "pushedAt": "2026-07-08T15:02:01.808Z"
-    },
-    {
-      "id": "84612a9f28bf9122",
-      "title": "Woman suspected of carrying out Monaco bombing of Ukrainian tycoon found dead",
-      "url": "https://news.sky.com/story/woman-suspected-of-carrying-out-monaco-bombing-of-ukrainian-tycoon-found-dead-13561246",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombing of"
-      ],
-      "firstSeen": "2026-07-08T15:02:02.064Z",
-      "pushedAt": "2026-07-08T15:02:02.064Z"
-    },
-    {
-      "id": "df245ec4e259d08f",
-      "title": "Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while",
-      "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-07-08T12:51:46.770Z",
-      "pushedAt": "2026-07-08T12:51:46.770Z"
-    },
-    {
-      "id": "632708ce9ed415ec",
-      "title": "10-year Treasury yield jumps to 4.57% as jumping oil prices reignite inflation fears",
-      "url": "https://www.cnbc.com/2026/07/08/treasury-yields-trump-iran-ceasefire.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-07-08T12:51:47.023Z",
-      "pushedAt": "2026-07-08T12:51:47.023Z"
-    },
-    {
-      "id": "0ab3190e393f90e7",
-      "title": "All coastal tourist attractions urged to close as Super Typhoon Bavi approaches - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFl2M3Q0cUNTNjRKMTNZR2tMZ2Z4cWhmbzNzTkViQ1o0RG9kUFZGNDh4SW5vLWhidm5kaDlNTHI0bnNtUm5uNU4zZWJVdEk3RE9uS3d4QXZ1SVc5ZDBzRGR0RWVEankwaU5LTXRpeWtYTjAxOFg1M2Q5QVU3bnhPTWFLOUFITHRybEN2OERURjRpcmxCZlpTZEJwWU85WmRYWGRzeDZxRENUbm0zZ1hnMHlsSUVObG9qVTkwUzJqcFh4WGdYNWfSAcYBQVVfeXFMTW5RcTIwT0h6SlpvWGMybU4wekRhaDRGUjUyNi1uMWE1bFEzZ3RiTnFFU3JvY3NvUTgyMkJEVnZEcUkwYnFVeXI3aWVENEJ5RUN0QzhXRUFVMFVEQkhxUmxmU001N1BDN2o0RXlnaTdWXzdtazdVbW5Odk52V2NLLUtYMHg2Y195X29sOG42OWlCVEdZanJlLUVhYmJVTlZXb2w1ZXFMRHduWV9zc3kyeFpsdTZLTndpQ3BvM2tkdEtSOHJONXNn?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "super typhoon"
-      ],
-      "firstSeen": "2026-07-08T12:51:47.209Z",
-      "pushedAt": "2026-07-08T12:51:47.209Z"
-    },
-    {
-      "id": "368ef079e22e2e37",
-      "title": "India central bank backs crypto ban, tax department warns of evasion risks, documents show - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMExaYnBnZDQxVm9fVEpSMjNqVFhmRkhLVnRBd2ZrSk5VNHZISUQ3ekhlZHVFOEtqcFktcndPeFRxQXdLWVNKWllXQWIzdDlkMHdObGlWWDB0TVh5VEN5NHZxWTBBa0kxZ2ZyNUt1OXZPOTFMZExvMFdDTkJoS0dvS0ZNN3c0RUhObnJMZUVDUGlRSTVrOTRtRlRkX1REaXZseVptY2JBRWc0SVVnX255a05VQWxWOFNhb3ZubHY5eFpUN2pqckt3?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "crypto + ban"
-      ],
-      "firstSeen": "2026-07-08T11:15:18.107Z",
-      "pushedAt": "2026-07-08T11:15:18.107Z"
-    },
-    {
-      "id": "5c7ce05d297af293",
-      "title": "Alibaba Stock Leads China AI Rally, Just as U.S. Tech Stumbles - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MYnluV2tycFlEdC0xcnFLckM0Z1pHYzJHUE9renhrYU5KS3hhbTVXS2dtNzZSOTdhLVhmWDJSX2JGd3REemhPSlhGekd3SFJFNldOMVJHTTVJUmVici1tRTgyX3FKSlZqTnJneG9QYlNBUU1JeU85cWR3?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + stock",
-        "rally + stock"
-      ],
-      "firstSeen": "2026-07-08T11:15:18.524Z",
-      "pushedAt": "2026-07-08T11:15:18.524Z"
-    },
-    {
-      "id": "09017ad737b7584b",
-      "title": "Why have half a million Russians gone bankrupt amid Ukraine war?",
-      "url": "https://www.aljazeera.com/economy/2026/7/8/why-have-half-a-million-russians-gone-bankrupt-amid-ukraine-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bankrupt + bank"
-      ],
-      "firstSeen": "2026-07-08T09:12:06.899Z",
-      "pushedAt": "2026-07-08T09:12:06.899Z"
-    },
-    {
-      "id": "538c3060dec069c1",
-      "title": "Oil surges 5% after Trump says ceasefire with Iran is over",
-      "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-07-08T09:12:07.275Z",
-      "pushedAt": "2026-07-08T09:12:07.275Z"
     }
   ],
-  "updatedAt": "2026-07-09T08:45:00.280Z"
+  "updatedAt": "2026-07-09T16:34:26.532Z"
 }
