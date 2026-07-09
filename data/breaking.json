@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "aeea85668cf30b66",
+      "title": "Oil prices fall as markets weigh impact of US strikes on Iran - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + fall"
+      ],
+      "firstSeen": "2026-07-09T08:45:00.040Z",
+      "pushedAt": "2026-07-09T08:45:00.040Z"
+    },
+    {
       "id": "c408b3931e0b5919",
       "title": "US launches new airstrikes on Iran, with Tehran firing back at 3 Gulf Arab states - AP News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
@@ -158,5 +170,5 @@
       "pushedAt": "2026-07-08T09:12:07.275Z"
     }
   ],
-  "updatedAt": "2026-07-09T05:14:43.356Z"
+  "updatedAt": "2026-07-09T08:45:00.280Z"
 }
