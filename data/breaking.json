@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "c408b3931e0b5919",
+      "title": "US launches new airstrikes on Iran, with Tehran firing back at 3 Gulf Arab states - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
+      "source": "AP",
+      "priority": "P0",
+      "matchedKeywords": [
+        "airstrikes on"
+      ],
+      "firstSeen": "2026-07-09T05:14:42.967Z",
+      "pushedAt": "2026-07-09T05:14:42.967Z"
+    },
+    {
+      "id": "a2b89e28f74c2982",
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + price"
+      ],
+      "firstSeen": "2026-07-09T05:14:43.143Z",
+      "pushedAt": "2026-07-09T05:14:43.143Z"
+    },
+    {
+      "id": "c310c4b6852bfcbc",
+      "title": "Oil extends gains as Iran-U.S. tensions raise concerns over supply disruptions",
+      "url": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + oil"
+      ],
+      "firstSeen": "2026-07-09T05:14:43.266Z",
+      "pushedAt": "2026-07-09T05:14:43.266Z"
+    },
+    {
+      "id": "15e0177fee736e0c",
+      "title": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
+      "url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + rise"
+      ],
+      "firstSeen": "2026-07-09T05:14:43.308Z",
+      "pushedAt": "2026-07-09T05:14:43.308Z"
+    },
+    {
       "id": "ac7e4f2e30af097d",
       "title": "Pakistan says 42 security personnel killed in Balochistan attacks this week - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlFBbWNpejctSVVTTXdWLVZCN19LVWxIbS1YYnRuTHNEdldPNHV0OU9MTDRRUFRKaVhfMG9RWjlXcUlXa0NpQnhQaFR5b1cyZUJEZ0hWSGhnaC1zb2F4YWtaN3VzMGdYY1RmVHJhZ3VkZjl6dXJHYVhQMnVLcFM5SUw4aU40aUh1cnNidnVCYUFxYWFuX3RiaGpRM09kek9RQ29rNmhwa1d5QzNDRUdsVUhrcTZ3dXpQbDQ1OWZ1c2hUeHc1WHc?oc=5",
@@ -108,79 +156,7 @@
       ],
       "firstSeen": "2026-07-08T09:12:07.275Z",
       "pushedAt": "2026-07-08T09:12:07.275Z"
-    },
-    {
-      "id": "98a4c82ba93afe67",
-      "title": "US oil prices jump after US military launches strikes against Iran - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-07-08T01:04:45.056Z",
-      "pushedAt": "2026-07-08T01:04:45.056Z"
-    },
-    {
-      "id": "ff004be0bea45812",
-      "title": "Iran war live: US bombs Sirik, Qeshm, Bandar Abbas over Hormuz attacks",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/8/iran-war-live-us-bombs-sirik-qeshm-bandar-abbas-over-hormuz-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-07-08T01:04:45.115Z",
-      "pushedAt": "2026-07-08T01:04:45.115Z"
-    },
-    {
-      "id": "ffd9daced13750de",
-      "title": "Judge approves $46.75 million payout for 23andMe data breach victims - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGNxVDMxT3djUXRuQ1cyTk9zX3ZwWTNZNG5kUTdyVm5XTk5iZUxORHlWQTFxeDYxVHc2VktESFF5MlR5OFUxZlZkeEZZVEgtcDhBSEdLUXp4cmlMUnR4M3BxQUZ3S2NoeS1JOTdZeU1RV0VLSEU5aDY1RjZTM0puUER4dG00SVJQT2ZmYkV6aF9OLVJuQWRHZEM4YWlDbEx2U29QVEZqQQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "data breach + million"
-      ],
-      "firstSeen": "2026-07-07T20:11:28.779Z",
-      "pushedAt": "2026-07-07T20:11:28.779Z"
-    },
-    {
-      "id": "51abc6c7f16946a9",
-      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
-      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + bomb"
-      ],
-      "firstSeen": "2026-07-07T18:11:31.261Z",
-      "pushedAt": "2026-07-07T18:11:31.261Z"
-    },
-    {
-      "id": "2ab4a427cee1e8bd",
-      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/how-conflict-minerals-fuel-war-in-eastern-dr-congo-amid-us-sanctions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-07-07T18:11:31.530Z",
-      "pushedAt": "2026-07-07T18:11:31.530Z"
-    },
-    {
-      "id": "cff46b12a68460b5",
-      "title": "China May Restrict Access to Its Most Powerful AI Models - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04SHQ1cnNqMENVcVBwaEZWLTIzRlp0U253RkVHYmVIVklkanZaejZGWkV0eDBxSUNrRFFTTGxqMFZjbU15YWhEZkh4ZVNFSzhmODlncnZVX09qN3BXdlZHbGUtVDBzSHloODM4d0k1dS1RVk9KdGlzWFVB?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "restrict + china"
-      ],
-      "firstSeen": "2026-07-07T16:06:26.228Z",
-      "pushedAt": "2026-07-07T16:06:26.228Z"
     }
   ],
-  "updatedAt": "2026-07-08T15:02:02.194Z"
+  "updatedAt": "2026-07-09T05:14:43.356Z"
 }
