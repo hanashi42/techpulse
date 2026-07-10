@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "65fdec8704740383",
+      "title": "China expands anti-sanctions toolkit, raising risks for foreign firms",
+      "url": "https://www.aljazeera.com/news/2026/7/10/china-expands-anti-sanctions-toolkit-raising-risks-for-foreign-firms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + china"
+      ],
+      "firstSeen": "2026-07-10T01:20:20.485Z",
+      "pushedAt": "2026-07-10T01:20:20.485Z"
+    },
+    {
       "id": "8a1d74ed31d5b0a0",
       "title": "China braces for super typhoon after severe flooding and thunderstorms leave multiple people dead",
       "url": "https://news.sky.com/story/china-braces-for-super-typhoon-bavi-after-severe-flooding-and-thunderstorms-13561602",
@@ -85,5 +97,5 @@
       "pushedAt": "2026-07-09T05:14:43.308Z"
     }
   ],
-  "updatedAt": "2026-07-09T18:20:10.265Z"
+  "updatedAt": "2026-07-10T01:20:20.554Z"
 }
