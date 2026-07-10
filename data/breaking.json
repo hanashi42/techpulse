@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "73114e1759b006e7",
+      "title": "Unclaimed airstrikes target Iran after US attacks, raising questions of who launched them - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgxNzlSWHpvYWVhcGhmNkJTRzJIa2R1Z1ZfOGJYdElvenoxa2diSHR6bTFJaWx2M0VZZ0JWM2Y1VjZrYzBOWTlFTUdLNHk2YzFWZGJJazJNSHU2VUdDbnpHaURzc25SeS1PVXp5dEJVWWdhbDdwUkNCTHhlUVQyXzZYOG5ZNlNSektpNUpYbFNYOEs0ZTl4Tk96SHd6b3M?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + airstrike"
+      ],
+      "firstSeen": "2026-07-10T15:43:53.919Z",
+      "pushedAt": "2026-07-10T15:43:53.919Z"
+    },
+    {
+      "id": "c6851d5974f64bbe",
+      "title": "Super typhoon as wide as France heads to East Asia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/super-typhoon-as-wide-as-france-heads-to-east-asia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "super typhoon"
+      ],
+      "firstSeen": "2026-07-10T15:43:53.979Z",
+      "pushedAt": "2026-07-10T15:43:53.979Z"
+    },
+    {
       "id": "a2b89e28f74c2982",
       "title": "Wealthy AI workers send San Francisco house prices soaring",
       "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
@@ -73,5 +97,5 @@
       "pushedAt": "2026-07-09T16:34:26.130Z"
     }
   ],
-  "updatedAt": "2026-07-10T13:27:09.438Z"
+  "updatedAt": "2026-07-10T15:43:54.025Z"
 }
