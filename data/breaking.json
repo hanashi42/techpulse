@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "581d4f009e39100b",
+      "title": "US senators say agreement reached with Trump on Russia sanctions bill - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMG9jWDI1MnV3NXctZEhMVGpDb0ZmdTI5U1ZBV2xZTUN6bU52SUxRVmRIZURoOUtfcDYwN200WTRCZ1FuRWVOX215eFBKTlM1TDVHLWZHTlJJYmNPRXU4TlBDYWtKaE1oZUlLWk1Ta0JvRmpwOTNvaG1jNW5sWlU3ekc0ZkxFQ2dpMVdpOENlUXdnSlB4NmlJTDhtakNQSjhScHJLakxhb2ZEcXExeVlDMw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-07-10T18:56:06.203Z",
+      "pushedAt": "2026-07-10T18:56:06.203Z"
+    },
+    {
       "id": "73114e1759b006e7",
       "title": "Unclaimed airstrikes target Iran after US attacks, raising questions of who launched them - AP News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgxNzlSWHpvYWVhcGhmNkJTRzJIa2R1Z1ZfOGJYdElvenoxa2diSHR6bTFJaWx2M0VZZ0JWM2Y1VjZrYzBOWTlFTUdLNHk2YzFWZGJJazJNSHU2VUdDbnpHaURzc25SeS1PVXp5dEJVWWdhbDdwUkNCTHhlUVQyXzZYOG5ZNlNSektpNUpYbFNYOEs0ZTl4Tk96SHd6b3M?oc=5",
@@ -71,31 +83,7 @@
       ],
       "firstSeen": "2026-07-10T01:20:20.485Z",
       "pushedAt": "2026-07-10T01:20:20.485Z"
-    },
-    {
-      "id": "8a1d74ed31d5b0a0",
-      "title": "China braces for super typhoon after severe flooding and thunderstorms leave multiple people dead",
-      "url": "https://news.sky.com/story/china-braces-for-super-typhoon-bavi-after-severe-flooding-and-thunderstorms-13561602",
-      "source": "Sky News",
-      "priority": "P0",
-      "matchedKeywords": [
-        "super typhoon"
-      ],
-      "firstSeen": "2026-07-09T18:20:09.992Z",
-      "pushedAt": "2026-07-09T18:20:09.992Z"
-    },
-    {
-      "id": "4db41b888a52dae0",
-      "title": "Trump can halt trade with Spain using law behind scrapped tariffs: Greer",
-      "url": "https://www.cnbc.com/2026/07/09/trump-spain-trade-greer-ieepa-tariffs-nato.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-07-09T16:34:26.130Z",
-      "pushedAt": "2026-07-09T16:34:26.130Z"
     }
   ],
-  "updatedAt": "2026-07-10T15:43:54.025Z"
+  "updatedAt": "2026-07-10T18:56:06.604Z"
 }
