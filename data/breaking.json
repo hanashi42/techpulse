@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e9f26e1c56622818",
+      "title": "EXCLUSIVE: Bangladesh's Hasina plans December return with party colleagues to surrender - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDVhX3VqUkM1cjdNT1ZPVHJaLTVjOV9vYW5tQjdJOHp5QVR5bEt4UGxVWDZucnJKT0kzZGgtSnIzZ2VLVnFaWF82UTVhb0FfamxtWF90Wkd5SG5kQnVMT1BWQkhxNHFiZ2xQTGo5cE04aGMzbi1KUmEzeEVVT3dESlI1YVRRVk1uZ2JsQUNaaXM5SHJIM2xqUUt5b1Z4SjAydjByYVNtTG14dk1BXzhhUkd2c3RmN0lDQmltUUU2MC1zTjRIbnc?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "surrender"
+      ],
+      "firstSeen": "2026-07-10T11:29:38.051Z",
+      "pushedAt": "2026-07-10T11:29:38.051Z"
+    },
+    {
       "id": "65fdec8704740383",
       "title": "China expands anti-sanctions toolkit, raising risks for foreign firms",
       "url": "https://www.aljazeera.com/news/2026/7/10/china-expands-anti-sanctions-toolkit-raising-risks-for-foreign-firms?traffic_source=rss",
@@ -35,67 +47,7 @@
       ],
       "firstSeen": "2026-07-09T16:34:26.130Z",
       "pushedAt": "2026-07-09T16:34:26.130Z"
-    },
-    {
-      "id": "aeea85668cf30b66",
-      "title": "Oil prices fall as markets weigh impact of US strikes on Iran - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + fall"
-      ],
-      "firstSeen": "2026-07-09T08:45:00.040Z",
-      "pushedAt": "2026-07-09T08:45:00.040Z"
-    },
-    {
-      "id": "c408b3931e0b5919",
-      "title": "US launches new airstrikes on Iran, with Tehran firing back at 3 Gulf Arab states - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
-      "source": "AP",
-      "priority": "P0",
-      "matchedKeywords": [
-        "airstrikes on"
-      ],
-      "firstSeen": "2026-07-09T05:14:42.967Z",
-      "pushedAt": "2026-07-09T05:14:42.967Z"
-    },
-    {
-      "id": "a2b89e28f74c2982",
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-07-09T05:14:43.143Z",
-      "pushedAt": "2026-07-09T05:14:43.143Z"
-    },
-    {
-      "id": "c310c4b6852bfcbc",
-      "title": "Oil extends gains as Iran-U.S. tensions raise concerns over supply disruptions",
-      "url": "https://www.cnbc.com/2026/07/09/oil-rises-as-iran-us-tensions-raise-concerns-over-supply-disruptions-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "disruption + oil"
-      ],
-      "firstSeen": "2026-07-09T05:14:43.266Z",
-      "pushedAt": "2026-07-09T05:14:43.266Z"
-    },
-    {
-      "id": "15e0177fee736e0c",
-      "title": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
-      "url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-07-09T05:14:43.308Z",
-      "pushedAt": "2026-07-09T05:14:43.308Z"
     }
   ],
-  "updatedAt": "2026-07-10T01:20:20.554Z"
+  "updatedAt": "2026-07-10T11:29:38.280Z"
 }
