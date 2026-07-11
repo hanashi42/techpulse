@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e22921cc6d53dd47",
+      "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
+      "url": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + amazon"
+      ],
+      "firstSeen": "2026-07-11T14:03:21.452Z",
+      "pushedAt": "2026-07-11T14:03:21.452Z"
+    },
+    {
       "id": "230a1575dc2db230",
       "title": "One killed in drone attack on vessels in Taganrog Bay, Russian authorities say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzdRZHlYRGh3cmZQMjczcXBqZGtPZGRqaE91NFZKTUhDblk1OEZqRG1BWU1PVnVQbkstWnVNZGtnTUdwX1NaR0c4UHlpNVVoYm9UWEFkd2x5aDBHNmJCeWhFWkhURFF1Y09uYTkwS0NLR2ZZUXZmVGVGbjl0dmNpWlpJUjJKcnoxNWg5dDRfR0kzLVREVXdyQmVLeTdaVmJ3MDAtMkFyblFRTTd4OEFGRC1YVEIzTk5s?oc=5",
@@ -83,31 +95,7 @@
       ],
       "firstSeen": "2026-07-10T15:43:53.979Z",
       "pushedAt": "2026-07-10T15:43:53.979Z"
-    },
-    {
-      "id": "a2b89e28f74c2982",
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + price"
-      ],
-      "firstSeen": "2026-07-10T13:27:09.318Z",
-      "pushedAt": "2026-07-10T13:27:09.318Z"
-    },
-    {
-      "id": "6e4725bbf5fe098e",
-      "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 12%",
-      "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "stablecoin + ban"
-      ],
-      "firstSeen": "2026-07-10T13:27:09.369Z",
-      "pushedAt": "2026-07-10T13:27:09.369Z"
     }
   ],
-  "updatedAt": "2026-07-11T12:34:15.091Z"
+  "updatedAt": "2026-07-11T14:03:21.551Z"
 }
