@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a56116073583d427",
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-07-11T09:46:05.732Z",
+      "pushedAt": "2026-07-11T09:46:05.732Z"
+    },
+    {
       "id": "ce0996cb70e58950",
       "title": "Iran oil stuck at sea surges as China's teapots turn to rival Middle East supplies, traders say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOWxpczA5UVItb3hGWndrQnBSdU1yckMyQWV0WDQ2ZzhLb3BBcmF5NU9oYmdmbW1MOWFtU2p5MmlqQnYtUWxISDZUNjRMTjVYdmtSdmJFVERuNUczVU9VSlRBUzA2OEZRV0FmV0g2RzBNbzhENTMwV3o2WkJscWxRLXFOaXdzaDVkQmxjdlJ6eDB3RzNHaXQ1bE1vX0tzM2xYWFprZGdRODk3ajgyWjVmUmtPSGQwSEt1dWhXdGNxU2FFYnEta2NYeVZ2V08?oc=5",
@@ -97,5 +109,5 @@
       "pushedAt": "2026-07-10T11:29:38.051Z"
     }
   ],
-  "updatedAt": "2026-07-11T08:10:08.556Z"
+  "updatedAt": "2026-07-11T09:46:05.885Z"
 }
