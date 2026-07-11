@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "dfa1670ec45a278f",
+      "title": "Iran says Strait of Hormuz closed 'until further notice'",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + closed"
+      ],
+      "firstSeen": "2026-07-11T23:33:04.017Z",
+      "pushedAt": "2026-07-11T23:33:04.017Z"
+    },
+    {
       "id": "69ff8e41b87076a1",
       "title": "Trump and Iran's supreme leader trade threats as the fate of Strait of Hormuz challenges talks - AP News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
@@ -85,5 +97,5 @@
       "pushedAt": "2026-07-11T03:57:34.554Z"
     }
   ],
-  "updatedAt": "2026-07-11T20:10:11.684Z"
+  "updatedAt": "2026-07-11T23:33:04.205Z"
 }
