@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "6e4725bbf5fe098e",
+      "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
+      "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "stablecoin + ban"
+      ],
+      "firstSeen": "2026-07-11T15:04:29.127Z",
+      "pushedAt": "2026-07-11T15:04:29.127Z"
+    },
+    {
       "id": "e22921cc6d53dd47",
       "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
       "url": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
@@ -97,5 +109,5 @@
       "pushedAt": "2026-07-10T15:43:53.979Z"
     }
   ],
-  "updatedAt": "2026-07-11T14:03:21.551Z"
+  "updatedAt": "2026-07-11T15:04:29.402Z"
 }
