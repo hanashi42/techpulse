@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "69ff8e41b87076a1",
+      "title": "Trump and Iran's supreme leader trade threats as the fate of Strait of Hormuz challenges talks - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-07-11T20:10:11.408Z",
+      "pushedAt": "2026-07-11T20:10:11.408Z"
+    },
+    {
       "id": "6e4725bbf5fe098e",
       "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
       "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
@@ -71,43 +83,7 @@
       ],
       "firstSeen": "2026-07-11T03:57:34.554Z",
       "pushedAt": "2026-07-11T03:57:34.554Z"
-    },
-    {
-      "id": "581d4f009e39100b",
-      "title": "US senators say agreement reached with Trump on Russia sanctions bill - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMG9jWDI1MnV3NXctZEhMVGpDb0ZmdTI5U1ZBV2xZTUN6bU52SUxRVmRIZURoOUtfcDYwN200WTRCZ1FuRWVOX215eFBKTlM1TDVHLWZHTlJJYmNPRXU4TlBDYWtKaE1oZUlLWk1Ta0JvRmpwOTNvaG1jNW5sWlU3ekc0ZkxFQ2dpMVdpOENlUXdnSlB4NmlJTDhtakNQSjhScHJLakxhb2ZEcXExeVlDMw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-07-10T18:56:06.203Z",
-      "pushedAt": "2026-07-10T18:56:06.203Z"
-    },
-    {
-      "id": "73114e1759b006e7",
-      "title": "Unclaimed airstrikes target Iran after US attacks, raising questions of who launched them - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgxNzlSWHpvYWVhcGhmNkJTRzJIa2R1Z1ZfOGJYdElvenoxa2diSHR6bTFJaWx2M0VZZ0JWM2Y1VjZrYzBOWTlFTUdLNHk2YzFWZGJJazJNSHU2VUdDbnpHaURzc25SeS1PVXp5dEJVWWdhbDdwUkNCTHhlUVQyXzZYOG5ZNlNSektpNUpYbFNYOEs0ZTl4Tk96SHd6b3M?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + airstrike"
-      ],
-      "firstSeen": "2026-07-10T15:43:53.919Z",
-      "pushedAt": "2026-07-10T15:43:53.919Z"
-    },
-    {
-      "id": "c6851d5974f64bbe",
-      "title": "Super typhoon as wide as France heads to East Asia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/super-typhoon-as-wide-as-france-heads-to-east-asia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "super typhoon"
-      ],
-      "firstSeen": "2026-07-10T15:43:53.979Z",
-      "pushedAt": "2026-07-10T15:43:53.979Z"
     }
   ],
-  "updatedAt": "2026-07-11T15:04:29.402Z"
+  "updatedAt": "2026-07-11T20:10:11.684Z"
 }
