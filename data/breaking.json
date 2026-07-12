@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "b10885c363a60bbb",
+      "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
+      "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-07-12T18:07:44.108Z",
+      "pushedAt": "2026-07-12T18:07:44.108Z"
+    },
+    {
       "id": "0206b87803dc3e2b",
       "title": "Russia says four killed in Ukrainian drone attack on Russian-controlled Enerhodar - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEJUQkhzN1ZwbUdlc2ZtLUpkNmxObUoydGFsUTJZY2lrX2k4WUh4WnYzN2l4V1h2V0hiNGY5RzgxaW1Iczlpb00tcnhCXy1lVDhQdkJzMnlLMFVCRFE4M2lNRy1rdmwycXliQTRjQWJSa1hCUHFEbWhMWGItbjBrektMaG9rQXV0c1l2dWxZUDd4b2Z5bTVHVElOMW1qSVVJaVJHd2RPNzlZMExHNnRhUjJ3Q3ByelhT?oc=5",
@@ -109,5 +121,5 @@
       "pushedAt": "2026-07-11T20:10:11.408Z"
     }
   ],
-  "updatedAt": "2026-07-12T17:12:50.025Z"
+  "updatedAt": "2026-07-12T18:07:44.494Z"
 }
