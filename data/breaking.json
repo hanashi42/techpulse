@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8fa7c063c51aeb56",
+      "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
+      "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + airstrike"
+      ],
+      "firstSeen": "2026-07-12T04:32:46.100Z",
+      "pushedAt": "2026-07-12T04:32:46.100Z"
+    },
+    {
       "id": "dfa1670ec45a278f",
       "title": "Iran says Strait of Hormuz closed 'until further notice'",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
@@ -83,19 +95,7 @@
       ],
       "firstSeen": "2026-07-11T08:10:08.267Z",
       "pushedAt": "2026-07-11T08:10:08.267Z"
-    },
-    {
-      "id": "dbb54cca6818a82e",
-      "title": "US issues fresh Iran-related sanctions as conflict flares - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3VkRHJQX280dm52aTMzUkNlOHJKNVNFQ2g2d19JWVc4dkVCMzBiSUhyR01LaTJkalhNQnMybnNrTk9QVWZwSng1TXZGalh6QnVsekV5bVVKN3kwcE02X19TT2ZuZzFfeHQ4RDlHSG84eHFjaEsxRUtlSDlVanpfb2lSVE0zVnhVZlpWd0JuR1VEeU9BQ2stcVpmMll5SjcxUWdTWVk1cmIzUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-07-11T03:57:34.554Z",
-      "pushedAt": "2026-07-11T03:57:34.554Z"
     }
   ],
-  "updatedAt": "2026-07-11T23:33:04.205Z"
+  "updatedAt": "2026-07-12T04:32:46.497Z"
 }
