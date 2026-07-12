@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ed243d349f61282e",
+      "title": "Former super typhoon Bavi weakens but still lashes China with powerful winds, rain - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGhFVEl0QUJkZUhhMlpQOGhGTWtvSWhHQWVUNkNqLWNPMEE1emJvMjJsTV9iTnZKY3lxMmpXRnpOZ3VmWDhDY1FLcEJOR3J5OEh1RE5NcGVFYkhXajNncGhUOTY3Y2xHTWhYLWxtVzZDYkwtaXJIamVXSW5FLU41MFVvWFp2ZVpxLTdTdkp1TXFBSG55MGZEUjRuMEw?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "super typhoon"
+      ],
+      "firstSeen": "2026-07-12T14:08:14.178Z",
+      "pushedAt": "2026-07-12T14:08:14.178Z"
+    },
+    {
       "id": "a56116073583d427",
       "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
       "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
@@ -71,19 +83,7 @@
       ],
       "firstSeen": "2026-07-11T15:04:29.127Z",
       "pushedAt": "2026-07-11T15:04:29.127Z"
-    },
-    {
-      "id": "e22921cc6d53dd47",
-      "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
-      "url": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + amazon"
-      ],
-      "firstSeen": "2026-07-11T14:03:21.452Z",
-      "pushedAt": "2026-07-11T14:03:21.452Z"
     }
   ],
-  "updatedAt": "2026-07-12T12:34:45.784Z"
+  "updatedAt": "2026-07-12T14:08:14.403Z"
 }
