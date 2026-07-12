@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e22921cc6d53dd47",
+      "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
+      "url": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + amazon"
+      ],
+      "firstSeen": "2026-07-12T15:10:36.666Z",
+      "pushedAt": "2026-07-12T15:10:36.666Z"
+    },
+    {
       "id": "ed243d349f61282e",
       "title": "Former super typhoon Bavi weakens but still lashes China with powerful winds, rain - CBS News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGhFVEl0QUJkZUhhMlpQOGhGTWtvSWhHQWVUNkNqLWNPMEE1emJvMjJsTV9iTnZKY3lxMmpXRnpOZ3VmWDhDY1FLcEJOR3J5OEh1RE5NcGVFYkhXajNncGhUOTY3Y2xHTWhYLWxtVzZDYkwtaXJIamVXSW5FLU41MFVvWFp2ZVpxLTdTdkp1TXFBSG55MGZEUjRuMEw?oc=5",
@@ -71,19 +83,7 @@
       ],
       "firstSeen": "2026-07-11T20:10:11.408Z",
       "pushedAt": "2026-07-11T20:10:11.408Z"
-    },
-    {
-      "id": "6e4725bbf5fe098e",
-      "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 5%",
-      "url": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "stablecoin + ban"
-      ],
-      "firstSeen": "2026-07-11T15:04:29.127Z",
-      "pushedAt": "2026-07-11T15:04:29.127Z"
     }
   ],
-  "updatedAt": "2026-07-12T14:08:14.403Z"
+  "updatedAt": "2026-07-12T15:10:36.834Z"
 }
