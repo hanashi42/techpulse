@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "0206b87803dc3e2b",
+      "title": "Russia says four killed in Ukrainian drone attack on Russian-controlled Enerhodar - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEJUQkhzN1ZwbUdlc2ZtLUpkNmxObUoydGFsUTJZY2lrX2k4WUh4WnYzN2l4V1h2V0hiNGY5RzgxaW1Iczlpb00tcnhCXy1lVDhQdkJzMnlLMFVCRFE4M2lNRy1rdmwycXliQTRjQWJSa1hCUHFEbWhMWGItbjBrektMaG9rQXV0c1l2dWxZUDd4b2Z5bTVHVElOMW1qSVVJaVJHd2RPNzlZMExHNnRhUjJ3Q3ByelhT?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-12T17:12:49.539Z",
+      "pushedAt": "2026-07-12T17:12:49.539Z"
+    },
+    {
+      "id": "d4046257cdc204d1",
+      "title": "Girl, 9, among at least six killed in Israeli Gaza attacks - say Palestinian officials",
+      "url": "https://news.sky.com/story/girl-9-among-at-least-six-killed-in-israeli-gaza-attacks-say-palestinian-officials-13562832",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-12T17:12:49.791Z",
+      "pushedAt": "2026-07-12T17:12:49.791Z"
+    },
+    {
       "id": "e22921cc6d53dd47",
       "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
       "url": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
@@ -85,5 +109,5 @@
       "pushedAt": "2026-07-11T20:10:11.408Z"
     }
   ],
-  "updatedAt": "2026-07-12T15:10:36.834Z"
+  "updatedAt": "2026-07-12T17:12:50.025Z"
 }
