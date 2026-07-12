@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a56116073583d427",
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + iran"
+      ],
+      "firstSeen": "2026-07-12T12:34:45.563Z",
+      "pushedAt": "2026-07-12T12:34:45.563Z"
+    },
+    {
       "id": "5eb32feec4dab2bc",
       "title": "IRGC releases video of retaliatory missile strikes",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
@@ -71,19 +83,7 @@
       ],
       "firstSeen": "2026-07-11T14:03:21.452Z",
       "pushedAt": "2026-07-11T14:03:21.452Z"
-    },
-    {
-      "id": "230a1575dc2db230",
-      "title": "One killed in drone attack on vessels in Taganrog Bay, Russian authorities say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzdRZHlYRGh3cmZQMjczcXBqZGtPZGRqaE91NFZKTUhDblk1OEZqRG1BWU1PVnVQbkstWnVNZGtnTUdwX1NaR0c4UHlpNVVoYm9UWEFkd2x5aDBHNmJCeWhFWkhURFF1Y09uYTkwS0NLR2ZZUXZmVGVGbjl0dmNpWlpJUjJKcnoxNWg5dDRfR0kzLVREVXdyQmVLeTdaVmJ3MDAtMkFyblFRTTd4OEFGRC1YVEIzTk5s?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-11T12:34:14.880Z",
-      "pushedAt": "2026-07-11T12:34:14.880Z"
     }
   ],
-  "updatedAt": "2026-07-12T11:41:45.804Z"
+  "updatedAt": "2026-07-12T12:34:45.784Z"
 }
