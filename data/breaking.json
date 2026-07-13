@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "252da7a116f2bb1d",
+      "title": "Oil jumps 4% as new military strikes threaten Hormuz shipments - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-07-13T04:42:21.046Z",
+      "pushedAt": "2026-07-13T04:42:21.046Z"
+    },
+    {
       "id": "fc15d67d1dfae660",
       "title": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
       "url": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
@@ -95,19 +107,7 @@
       ],
       "firstSeen": "2026-07-12T11:41:45.555Z",
       "pushedAt": "2026-07-12T11:41:45.555Z"
-    },
-    {
-      "id": "8fa7c063c51aeb56",
-      "title": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
-      "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + airstrike"
-      ],
-      "firstSeen": "2026-07-12T04:32:46.100Z",
-      "pushedAt": "2026-07-12T04:32:46.100Z"
     }
   ],
-  "updatedAt": "2026-07-13T01:10:23.611Z"
+  "updatedAt": "2026-07-13T04:42:21.206Z"
 }
