@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "b81605259ec3c7dd",
+      "title": "China's GDP growth set to slow, raising expectations for more stimulus - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDRzUXJhcGQwVGFqa24yUkZSTjVKbzh6WURPM1YwT1NsUWp5TEI4UE1lSS1HRVZHa3p2el83Ui12d2hTYnBFdExxOFQwZmw5eGpDWFdoSmFXYmpoTFZkT3lTd1paRnkwMlFITnQwdHYxbmxQdEpncGhDU0ZlZ0laQ210NE9YVG1VTHotTlpsaDdETkdiaUwxazBpWlZPdnlVcEQ4N3FJZ0dIeTZXSVE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "gdp + growth"
+      ],
+      "firstSeen": "2026-07-13T10:44:39.340Z",
+      "pushedAt": "2026-07-13T10:44:39.340Z"
+    },
+    {
+      "id": "97530ac35d65bd7d",
+      "title": "No EU agreement yet on 21st Russian sanctions package, Kallas says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUhXLWdnMVNoLTEtT3lrUVdWZU51YnZGNGpoc2g1b3REZ2xhd3ZQTEU5R1dRU1d2TU9KZXdVRVV3OVo0LUFYTW1xUTQ1OWtPcmQwS2QzTnpPblRjeHF6VVd2Ti1GYzkwUXF6SUVaTjhqX1UyZHRCQTRwajl6dVhIMjQwME11aGZlQzIxbGZDcHpyQXpBaUdBcmtTUktuZmprU0JRY1ZXYw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-07-13T10:44:39.420Z",
+      "pushedAt": "2026-07-13T10:44:39.420Z"
+    },
+    {
+      "id": "dd1cf40d538a8722",
+      "title": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
+      "url": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + accelerat"
+      ],
+      "firstSeen": "2026-07-13T10:44:39.462Z",
+      "pushedAt": "2026-07-13T10:44:39.462Z"
+    },
+    {
       "id": "13237d3c25790408",
       "title": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
@@ -133,5 +169,5 @@
       "pushedAt": "2026-07-12T11:41:45.555Z"
     }
   ],
-  "updatedAt": "2026-07-13T07:52:27.108Z"
+  "updatedAt": "2026-07-13T10:44:39.483Z"
 }
