@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "13237d3c25790408",
+      "title": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + base"
+      ],
+      "firstSeen": "2026-07-13T07:52:26.573Z",
+      "pushedAt": "2026-07-13T07:52:26.573Z"
+    },
+    {
+      "id": "122e96448ae9b4c1",
+      "title": "SK Hynix plunges after Nasdaq debut amid profit-taking, diminishing earnings optimism - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0RGSUR2QnZDb0VoSlZLUklaU0RqVEpseEtkZFZTQ0hzenRMcDRzdWFwNjJIMTZSN2xuYXZlcF9wQ0xPYTNhRTIzVElQUVZCUWZURjdYazJTU2NqNlgybkZJX1pCek5scjNpaUNpTGNSLXZndnZZZXpTQ0N3VGxZVnowYkNvbm80bWpDSW4wMVV1VUZKaEZacWF1WTN3MUJxY0dSdWpCdllvN2JIR3lfTGM3NnlOdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + nasdaq"
+      ],
+      "firstSeen": "2026-07-13T07:52:26.785Z",
+      "pushedAt": "2026-07-13T07:52:26.785Z"
+    },
+    {
       "id": "252da7a116f2bb1d",
       "title": "Oil jumps 4% as new military strikes threaten Hormuz shipments - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
@@ -109,5 +133,5 @@
       "pushedAt": "2026-07-12T11:41:45.555Z"
     }
   ],
-  "updatedAt": "2026-07-13T04:42:21.206Z"
+  "updatedAt": "2026-07-13T07:52:27.108Z"
 }
