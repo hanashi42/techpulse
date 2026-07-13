@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "3a3b229d7f3b40ae",
+      "title": "Trump reinstating naval blockade of Iranian ports",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + naval"
+      ],
+      "firstSeen": "2026-07-13T19:03:30.401Z",
+      "pushedAt": "2026-07-13T19:03:30.402Z"
+    },
+    {
+      "id": "67ae406b7a99ccdb",
+      "title": "Chinese Prosecutors Propose Using Crypto Mixers and Privacy Coins as Evidence of Money Laundering - Bitcoin Foundation",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHTVlVVjdqUlNvalVDZWQ0NWF1SVJXRXBxci1WbmhsOG0za3hRdGVnQTBpT3Z4MHdVdzY4ZFREb3Y3Wlp3UWw5RGNGN2ZfZ2FyWWQxeHRRVlREU3l5UVo1UDJHcXZaZmh3TUFUbWpkZWtmTHBUeVV5Ug?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "bitcoin + sec",
+        "crypto + sec"
+      ],
+      "firstSeen": "2026-07-13T19:03:30.677Z",
+      "pushedAt": "2026-07-13T19:03:30.677Z"
+    },
+    {
       "id": "fe885c218070b440",
       "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
       "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
@@ -155,19 +180,7 @@
       ],
       "firstSeen": "2026-07-13T01:10:23.466Z",
       "pushedAt": "2026-07-13T01:10:23.466Z"
-    },
-    {
-      "id": "b10885c363a60bbb",
-      "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
-      "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-07-12T18:07:44.108Z",
-      "pushedAt": "2026-07-12T18:07:44.108Z"
     }
   ],
-  "updatedAt": "2026-07-13T17:43:17.890Z"
+  "updatedAt": "2026-07-13T19:03:30.792Z"
 }
