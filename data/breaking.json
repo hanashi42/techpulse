@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fe885c218070b440",
+      "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
+      "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + hike"
+      ],
+      "firstSeen": "2026-07-13T17:43:17.702Z",
+      "pushedAt": "2026-07-13T17:43:17.703Z"
+    },
+    {
       "id": "dd701737187a5476",
       "title": "EU sanctions nine people over alleged Russian cyber-spying campaign",
       "url": "https://www.aljazeera.com/news/2026/7/13/eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign?traffic_source=rss",
@@ -155,31 +167,7 @@
       ],
       "firstSeen": "2026-07-12T18:07:44.108Z",
       "pushedAt": "2026-07-12T18:07:44.108Z"
-    },
-    {
-      "id": "0206b87803dc3e2b",
-      "title": "Russia says four killed in Ukrainian drone attack on Russian-controlled Enerhodar - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEJUQkhzN1ZwbUdlc2ZtLUpkNmxObUoydGFsUTJZY2lrX2k4WUh4WnYzN2l4V1h2V0hiNGY5RzgxaW1Iczlpb00tcnhCXy1lVDhQdkJzMnlLMFVCRFE4M2lNRy1rdmwycXliQTRjQWJSa1hCUHFEbWhMWGItbjBrektMaG9rQXV0c1l2dWxZUDd4b2Z5bTVHVElOMW1qSVVJaVJHd2RPNzlZMExHNnRhUjJ3Q3ByelhT?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-12T17:12:49.539Z",
-      "pushedAt": "2026-07-12T17:12:49.539Z"
-    },
-    {
-      "id": "d4046257cdc204d1",
-      "title": "Girl, 9, among at least six killed in Israeli Gaza attacks - say Palestinian officials",
-      "url": "https://news.sky.com/story/girl-9-among-at-least-six-killed-in-israeli-gaza-attacks-say-palestinian-officials-13562832",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-12T17:12:49.791Z",
-      "pushedAt": "2026-07-12T17:12:49.791Z"
     }
   ],
-  "updatedAt": "2026-07-13T15:47:06.169Z"
+  "updatedAt": "2026-07-13T17:43:17.890Z"
 }
