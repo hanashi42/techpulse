@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "dd701737187a5476",
+      "title": "EU sanctions nine people over alleged Russian cyber-spying campaign",
+      "url": "https://www.aljazeera.com/news/2026/7/13/eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-07-13T15:47:05.470Z",
+      "pushedAt": "2026-07-13T15:47:05.470Z"
+    },
+    {
+      "id": "8f6ec50565f2c09b",
+      "title": "Alleged hackers linked to Russia facing UK and EU sanctions",
+      "url": "https://news.sky.com/story/alleged-hackers-linked-to-russia-facing-uk-and-eu-sanctions-13562980",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-07-13T15:47:05.766Z",
+      "pushedAt": "2026-07-13T15:47:05.766Z"
+    },
+    {
+      "id": "91433c472f72ea71",
+      "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
+      "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait"
+      ],
+      "firstSeen": "2026-07-13T15:47:05.998Z",
+      "pushedAt": "2026-07-13T15:47:05.998Z"
+    },
+    {
+      "id": "887b0cf60f9240c0",
+      "title": "Will Oil Prices Soar as the U.S.-Iran Truce Frays? The Answer Lies With China. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMmM0aUg5TkhkNXhTLWlFOEtPY0QtYnc4SDRacEFvUEkxY1lPdFloQmJ4QWEyMXl2NDNGS0Q0eWxfR1dZUnh2eEI2eU1UZTdNclZlZ3FFWVU2VzV2UUxZeGE2c1p6bFJ6UGExMmxfV0ZkSnVqbzczWml4U3NCSmM2YUMzNWhoSHJyTnJFa2F3eU52ckk?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "soar + oil"
+      ],
+      "firstSeen": "2026-07-13T15:47:06.085Z",
+      "pushedAt": "2026-07-13T15:47:06.085Z"
+    },
+    {
       "id": "5d06bd856f3ab989",
       "title": "Oil prices jump and world shares are mixed as US and Iran carry out airstrikes - AP News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
@@ -131,31 +179,7 @@
       ],
       "firstSeen": "2026-07-12T17:12:49.791Z",
       "pushedAt": "2026-07-12T17:12:49.791Z"
-    },
-    {
-      "id": "e22921cc6d53dd47",
-      "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
-      "url": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + amazon"
-      ],
-      "firstSeen": "2026-07-12T15:10:36.666Z",
-      "pushedAt": "2026-07-12T15:10:36.666Z"
-    },
-    {
-      "id": "ed243d349f61282e",
-      "title": "Former super typhoon Bavi weakens but still lashes China with powerful winds, rain - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGhFVEl0QUJkZUhhMlpQOGhGTWtvSWhHQWVUNkNqLWNPMEE1emJvMjJsTV9iTnZKY3lxMmpXRnpOZ3VmWDhDY1FLcEJOR3J5OEh1RE5NcGVFYkhXajNncGhUOTY3Y2xHTWhYLWxtVzZDYkwtaXJIamVXSW5FLU41MFVvWFp2ZVpxLTdTdkp1TXFBSG55MGZEUjRuMEw?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "super typhoon"
-      ],
-      "firstSeen": "2026-07-12T14:08:14.178Z",
-      "pushedAt": "2026-07-12T14:08:14.178Z"
     }
   ],
-  "updatedAt": "2026-07-13T13:04:36.953Z"
+  "updatedAt": "2026-07-13T15:47:06.169Z"
 }
