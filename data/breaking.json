@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "629a00319fd9ba33",
+      "title": "EXCLUSIVE: China detains US seismologist who has studied North Korean nuclear tests - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2RCTlAtbmVLSG1sQjJCblpURk9nQ2JPWFpoR1dKNWJxQVVZNGpRM1hGSEFKa1VQQy14UnhtcTFOeGswVUhFQXJ3ZWRyekU4NXNzaWhPY2xyN0JoYVg3bnFXTURPSHUyYTZEOUZOWDdIQmZMTVlKV0RHU19qNjRwUDM4NFVZRVp0YnBETnhwWkxKVkpEMHpEY0ZKNEFqdzFQNjlFRE5uMUNyT2hvSXZvc2Q2Q2lIT0l1?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "nuclear test"
+      ],
+      "firstSeen": "2026-07-13T22:10:21.024Z",
+      "pushedAt": "2026-07-13T22:10:21.024Z"
+    },
+    {
+      "id": "d861804e3b08f9ff",
+      "title": "Fed's Waller says rate hike may be needed if core inflation stays hot - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaW0tUldZeEtOTXVXNFlST05jYjZUMzcxcVZQNl9MVXh3ZXltWVVUcUlMelA2OENsVmdtSDNqTUVBSTBNdEVpbzg3Q1E2N28wMVBlYlZCVS1SYU5XUkVuMUdtUzUwcEJrWmRDYVp2ajg3cHdXMnpHbHhfSHc4Z2VaNmpVZUNrLTFKY2hBdmFwNWt3b2xJdzdRYzFpbUMxSERsdmtTZQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-07-13T22:10:21.247Z",
+      "pushedAt": "2026-07-13T22:10:21.247Z"
+    },
+    {
       "id": "3a3b229d7f3b40ae",
       "title": "Trump reinstating naval blockade of Iranian ports",
       "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
@@ -182,5 +207,5 @@
       "pushedAt": "2026-07-13T01:10:23.466Z"
     }
   ],
-  "updatedAt": "2026-07-13T19:03:30.792Z"
+  "updatedAt": "2026-07-13T22:10:21.451Z"
 }
