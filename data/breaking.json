@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5d06bd856f3ab989",
+      "title": "Oil prices jump and world shares are mixed as US and Iran carry out airstrikes - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-07-13T13:04:36.776Z",
+      "pushedAt": "2026-07-13T13:04:36.776Z"
+    },
+    {
       "id": "b81605259ec3c7dd",
       "title": "China's GDP growth set to slow, raising expectations for more stimulus - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDRzUXJhcGQwVGFqa24yUkZSTjVKbzh6WURPM1YwT1NsUWp5TEI4UE1lSS1HRVZHa3p2el83Ui12d2hTYnBFdExxOFQwZmw5eGpDWFdoSmFXYmpoTFZkT3lTd1paRnkwMlFITnQwdHYxbmxQdEpncGhDU0ZlZ0laQ210NE9YVG1VTHotTlpsaDdETkdiaUwxazBpWlZPdnlVcEQ4N3FJZ0dIeTZXSVE?oc=5",
@@ -143,31 +155,7 @@
       ],
       "firstSeen": "2026-07-12T14:08:14.178Z",
       "pushedAt": "2026-07-12T14:08:14.178Z"
-    },
-    {
-      "id": "a56116073583d427",
-      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + iran"
-      ],
-      "firstSeen": "2026-07-12T12:34:45.563Z",
-      "pushedAt": "2026-07-12T12:34:45.563Z"
-    },
-    {
-      "id": "5eb32feec4dab2bc",
-      "title": "IRGC releases video of retaliatory missile strikes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "missile strike"
-      ],
-      "firstSeen": "2026-07-12T11:41:45.555Z",
-      "pushedAt": "2026-07-12T11:41:45.555Z"
     }
   ],
-  "updatedAt": "2026-07-13T10:44:39.483Z"
+  "updatedAt": "2026-07-13T13:04:36.953Z"
 }
