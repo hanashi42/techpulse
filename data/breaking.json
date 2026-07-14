@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "a6741056de04c4de",
+      "title": "China blunted Iran war oil shock, but can it do the same for fuels? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWG9WU1MxTkppRE0tUmN5VlJ2b1JvZEtzQ2x5SGJGN1o3QjFSUUxMdDJBcjRRSVFqb3BBRFlRU2gxNk5MZXhjTVVHUng3RDJyV0RRNlJKUWctTkc2Vm5QSGtIQmhvazV2azhadkpCNGZVMDMydXNSS1VycjI4MHNicTY0MGItbjFVUHhKdmxmbjVGcGhUYkpPWXBveFY0TWg3NXNnY3h2MGZ4SmYyLXlEaFM1WXJNa29BS1ZqZ0E2aw?oc=5",
+      "source": "China (EN)",
+      "priority": "P0",
+      "matchedKeywords": [
+        "oil shock"
+      ],
+      "firstSeen": "2026-07-14T07:27:21.810Z",
+      "pushedAt": "2026-07-14T07:27:21.810Z"
+    },
+    {
       "id": "60de8892239c3514",
       "title": "Asia markets choppy as threat of Trump Hormuz levy spooks traders - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
@@ -229,19 +241,7 @@
       ],
       "firstSeen": "2026-07-13T07:52:26.785Z",
       "pushedAt": "2026-07-13T07:52:26.785Z"
-    },
-    {
-      "id": "252da7a116f2bb1d",
-      "title": "Oil jumps 4% as new military strikes threaten Hormuz shipments - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-07-13T04:42:21.046Z",
-      "pushedAt": "2026-07-13T04:42:21.046Z"
     }
   ],
-  "updatedAt": "2026-07-14T03:20:31.501Z"
+  "updatedAt": "2026-07-14T07:27:22.072Z"
 }
