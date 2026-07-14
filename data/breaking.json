@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5d06bd856f3ab989",
+      "title": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-07-14T16:49:26.548Z",
+      "pushedAt": "2026-07-14T16:49:26.548Z"
+    },
+    {
       "id": "1f2099a7ae8e5ec4",
       "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
@@ -157,55 +169,7 @@
       ],
       "firstSeen": "2026-07-13T17:43:17.702Z",
       "pushedAt": "2026-07-13T17:43:17.703Z"
-    },
-    {
-      "id": "dd701737187a5476",
-      "title": "EU sanctions nine people over alleged Russian cyber-spying campaign",
-      "url": "https://www.aljazeera.com/news/2026/7/13/eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-07-13T15:47:05.470Z",
-      "pushedAt": "2026-07-13T15:47:05.470Z"
-    },
-    {
-      "id": "8f6ec50565f2c09b",
-      "title": "Alleged hackers linked to Russia facing UK and EU sanctions",
-      "url": "https://news.sky.com/story/alleged-hackers-linked-to-russia-facing-uk-and-eu-sanctions-13562980",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-07-13T15:47:05.766Z",
-      "pushedAt": "2026-07-13T15:47:05.766Z"
-    },
-    {
-      "id": "91433c472f72ea71",
-      "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
-      "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait"
-      ],
-      "firstSeen": "2026-07-13T15:47:05.998Z",
-      "pushedAt": "2026-07-13T15:47:05.998Z"
-    },
-    {
-      "id": "887b0cf60f9240c0",
-      "title": "Will Oil Prices Soar as the U.S.-Iran Truce Frays? The Answer Lies With China. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMmM0aUg5TkhkNXhTLWlFOEtPY0QtYnc4SDRacEFvUEkxY1lPdFloQmJ4QWEyMXl2NDNGS0Q0eWxfR1dZUnh2eEI2eU1UZTdNclZlZ3FFWVU2VzV2UUxZeGE2c1p6bFJ6UGExMmxfV0ZkSnVqbzczWml4U3NCSmM2YUMzNWhoSHJyTnJFa2F3eU52ckk?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "soar + oil"
-      ],
-      "firstSeen": "2026-07-13T15:47:06.085Z",
-      "pushedAt": "2026-07-13T15:47:06.085Z"
     }
   ],
-  "updatedAt": "2026-07-14T15:41:16.739Z"
+  "updatedAt": "2026-07-14T16:49:26.812Z"
 }
