@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "60de8892239c3514",
+      "title": "Asia markets choppy as threat of Trump Hormuz levy spooks traders - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-07-14T03:20:31.142Z",
+      "pushedAt": "2026-07-14T03:20:31.142Z"
+    },
+    {
+      "id": "bc0fc70a0b1f141a",
+      "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
+      "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-14T03:20:31.341Z",
+      "pushedAt": "2026-07-14T03:20:31.341Z"
+    },
+    {
+      "id": "13b3a87e6e6b240b",
+      "title": "China exports in June jump at fastest pace since 2021 as AI boom, tariff rush lift trade",
+      "url": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-07-14T03:20:31.426Z",
+      "pushedAt": "2026-07-14T03:20:31.426Z"
+    },
+    {
+      "id": "913b1340572cede2",
+      "title": "CNBC Daily Open: Hormuz toll threats, Mideast tensions keep investors on edge",
+      "url": "https://www.cnbc.com/2026/07/14/cnbc-daily-open-hormuz-toll-threats-mideast-tensions-keep-investors-on-edge.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-07-14T03:20:31.459Z",
+      "pushedAt": "2026-07-14T03:20:31.459Z"
+    },
+    {
       "id": "629a00319fd9ba33",
       "title": "EXCLUSIVE: China detains US seismologist who has studied North Korean nuclear tests - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2RCTlAtbmVLSG1sQjJCblpURk9nQ2JPWFpoR1dKNWJxQVVZNGpRM1hGSEFKa1VQQy14UnhtcTFOeGswVUhFQXJ3ZWRyekU4NXNzaWhPY2xyN0JoYVg3bnFXTURPSHUyYTZEOUZOWDdIQmZMTVlKV0RHU19qNjRwUDM4NFVZRVp0YnBETnhwWkxKVkpEMHpEY0ZKNEFqdzFQNjlFRE5uMUNyT2hvSXZvc2Q2Q2lIT0l1?oc=5",
@@ -193,19 +241,7 @@
       ],
       "firstSeen": "2026-07-13T04:42:21.046Z",
       "pushedAt": "2026-07-13T04:42:21.046Z"
-    },
-    {
-      "id": "fc15d67d1dfae660",
-      "title": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-07-13T01:10:23.466Z",
-      "pushedAt": "2026-07-13T01:10:23.466Z"
     }
   ],
-  "updatedAt": "2026-07-13T22:10:21.451Z"
+  "updatedAt": "2026-07-14T03:20:31.501Z"
 }
