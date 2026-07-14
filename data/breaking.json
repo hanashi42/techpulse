@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "id": "ff815c3aee9c9c76",
+      "title": "Lucid rejects take-private, bankruptcy report after shares plunge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTm1Id0t0RU8xOEJfMnNXWG16eW9zajg2djZmakpPTnVYcG13WXlXcHF5NE1JTmZWWDlvd3NyZDBmNC10R292bDc4eWpoLUQ1NHBMV1JEVTNFcWg3MWphbFZsY0YybW5ucVdkbDRTWXdBZTktOW5BdGRBX1JzSm1Rdk1kUWU2S2paV1pYSmZPTnZEX1l1VG5DWmFLcFlObmstNVhFbVkwaWpfaFFSUmVxRUZSbXp2R0ky?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + shares",
+        "bankrupt + bank"
+      ],
+      "firstSeen": "2026-07-14T20:00:30.050Z",
+      "pushedAt": "2026-07-14T20:00:30.050Z"
+    },
+    {
+      "id": "3d51314920bcd7f4",
+      "title": "New Russia Oil Sanctions Bill Targets China, India for Tariffs - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYVVudk5CQnFiYm5nWmk0dGNrY3lCUGVNQW56NXpRNlVJQmhCODNjQ2Y2YWZOUjV2YVJuLUtkWGwwY3ZJZkhXRjlsVVpCUl85ZW1FMUstaW5mOUl1QUp3eGtBd2VlT3NzZVpJREV6bmM1Z1R5bjVsTnJSYXhMNjlSUjVkbU0xc2tUMGs0aTlGMlZ5NUxUVlNZNEFvbktKUTBvMmowemJ0Ull3enk5SEdsdHhR?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + oil",
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-14T20:00:30.404Z",
+      "pushedAt": "2026-07-14T20:00:30.404Z"
+    },
+    {
       "id": "5d06bd856f3ab989",
       "title": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink - AP News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
@@ -132,44 +158,7 @@
       ],
       "firstSeen": "2026-07-13T22:10:21.247Z",
       "pushedAt": "2026-07-13T22:10:21.247Z"
-    },
-    {
-      "id": "3a3b229d7f3b40ae",
-      "title": "Trump reinstating naval blockade of Iranian ports",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval"
-      ],
-      "firstSeen": "2026-07-13T19:03:30.401Z",
-      "pushedAt": "2026-07-13T19:03:30.402Z"
-    },
-    {
-      "id": "67ae406b7a99ccdb",
-      "title": "Chinese Prosecutors Propose Using Crypto Mixers and Privacy Coins as Evidence of Money Laundering - Bitcoin Foundation",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHTVlVVjdqUlNvalVDZWQ0NWF1SVJXRXBxci1WbmhsOG0za3hRdGVnQTBpT3Z4MHdVdzY4ZFREb3Y3Wlp3UWw5RGNGN2ZfZ2FyWWQxeHRRVlREU3l5UVo1UDJHcXZaZmh3TUFUbWpkZWtmTHBUeVV5Ug?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "bitcoin + sec",
-        "crypto + sec"
-      ],
-      "firstSeen": "2026-07-13T19:03:30.677Z",
-      "pushedAt": "2026-07-13T19:03:30.677Z"
-    },
-    {
-      "id": "fe885c218070b440",
-      "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
-      "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + hike"
-      ],
-      "firstSeen": "2026-07-13T17:43:17.702Z",
-      "pushedAt": "2026-07-13T17:43:17.703Z"
     }
   ],
-  "updatedAt": "2026-07-14T16:49:26.812Z"
+  "updatedAt": "2026-07-14T20:00:30.462Z"
 }
