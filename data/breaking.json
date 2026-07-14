@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "66d6d003d517ee7b",
+      "title": "Business declares war on Pentagon stock buyback, dividend restrictions moving in Senate",
+      "url": "https://www.cnbc.com/2026/07/14/stock-buyback-ban-senate-lobbying-ndaa.html",
+      "source": "CNBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "declares war"
+      ],
+      "firstSeen": "2026-07-14T10:58:31.197Z",
+      "pushedAt": "2026-07-14T10:58:31.197Z"
+    },
+    {
       "id": "58fc4944073a5db1",
       "title": "US consumer inflation likely increased at a slow pace in June as gasoline prices retreated - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNVNfN0daRTViaC1VMldHRmhzOVhneG9SRTJMX0hQX3VfcFlDZ3RoYnlaWUlCbzlLZThyS2lWX1ExaDJxeDR0SkZUcV9ERjNKbGhRX1ZxTEsxcG1UQm5XdGpCY1V0OG93OXU5Ti1tdkxkb2J3bWlpR2NYanZZTzR5dnRSLWtHUW5jcEJCMWVRdHlQZDg4TThMNkp1SWJ4cmpHNy1ybU84UC1ZNl9XT1pLVWJHakhMNkNOdGNhR2NfRnI3Zw?oc=5",
@@ -193,43 +205,7 @@
       ],
       "firstSeen": "2026-07-13T13:04:36.776Z",
       "pushedAt": "2026-07-13T13:04:36.776Z"
-    },
-    {
-      "id": "b81605259ec3c7dd",
-      "title": "China's GDP growth set to slow, raising expectations for more stimulus - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDRzUXJhcGQwVGFqa24yUkZSTjVKbzh6WURPM1YwT1NsUWp5TEI4UE1lSS1HRVZHa3p2el83Ui12d2hTYnBFdExxOFQwZmw5eGpDWFdoSmFXYmpoTFZkT3lTd1paRnkwMlFITnQwdHYxbmxQdEpncGhDU0ZlZ0laQ210NE9YVG1VTHotTlpsaDdETkdiaUwxazBpWlZPdnlVcEQ4N3FJZ0dIeTZXSVE?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "gdp + growth"
-      ],
-      "firstSeen": "2026-07-13T10:44:39.340Z",
-      "pushedAt": "2026-07-13T10:44:39.340Z"
-    },
-    {
-      "id": "97530ac35d65bd7d",
-      "title": "No EU agreement yet on 21st Russian sanctions package, Kallas says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUhXLWdnMVNoLTEtT3lrUVdWZU51YnZGNGpoc2g1b3REZ2xhd3ZQTEU5R1dRU1d2TU9KZXdVRVV3OVo0LUFYTW1xUTQ1OWtPcmQwS2QzTnpPblRjeHF6VVd2Ti1GYzkwUXF6SUVaTjhqX1UyZHRCQTRwajl6dVhIMjQwME11aGZlQzIxbGZDcHpyQXpBaUdBcmtTUktuZmprU0JRY1ZXYw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-07-13T10:44:39.420Z",
-      "pushedAt": "2026-07-13T10:44:39.420Z"
-    },
-    {
-      "id": "dd1cf40d538a8722",
-      "title": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
-      "url": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + accelerat"
-      ],
-      "firstSeen": "2026-07-13T10:44:39.462Z",
-      "pushedAt": "2026-07-13T10:44:39.462Z"
     }
   ],
-  "updatedAt": "2026-07-14T09:22:34.600Z"
+  "updatedAt": "2026-07-14T10:58:31.375Z"
 }
