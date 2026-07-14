@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "3de75eb69d270c0b",
+      "title": "Worker killed in furnace explosion fire at Indian recycling plant",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "explosion + killed"
+      ],
+      "firstSeen": "2026-07-14T21:02:17.110Z",
+      "pushedAt": "2026-07-14T21:02:17.110Z"
+    },
+    {
+      "id": "0c71fd7802428683",
+      "title": "US reimposes blockade on Iranian ports, launches more strikes",
+      "url": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + port"
+      ],
+      "firstSeen": "2026-07-14T21:02:17.293Z",
+      "pushedAt": "2026-07-14T21:02:17.293Z"
+    },
+    {
+      "id": "ef6f1bb031f56438",
+      "title": "Employees sue Meta, alleging discrimination in using AI to make layoffs",
+      "url": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "layoff + meta"
+      ],
+      "firstSeen": "2026-07-14T21:02:17.423Z",
+      "pushedAt": "2026-07-14T21:02:17.423Z"
+    },
+    {
       "id": "ff815c3aee9c9c76",
       "title": "Lucid rejects take-private, bankruptcy report after shares plunge - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTm1Id0t0RU8xOEJfMnNXWG16eW9zajg2djZmakpPTnVYcG13WXlXcHF5NE1JTmZWWDlvd3NyZDBmNC10R292bDc4eWpoLUQ1NHBMV1JEVTNFcWg3MWphbFZsY0YybW5ucVdkbDRTWXdBZTktOW5BdGRBX1JzSm1Rdk1kUWU2S2paV1pYSmZPTnZEX1l1VG5DWmFLcFlObmstNVhFbVkwaWpfaFFSUmVxRUZSbXp2R0ky?oc=5",
@@ -160,5 +196,5 @@
       "pushedAt": "2026-07-13T22:10:21.247Z"
     }
   ],
-  "updatedAt": "2026-07-14T20:00:30.462Z"
+  "updatedAt": "2026-07-14T21:02:17.474Z"
 }
