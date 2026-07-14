@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "d8b2277a3c4dbabc",
+      "title": "US stocks rise after data shows slowing inflation, even as IBM plunges - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEF6RnpLaF9jU0tsSVNGdDZ4SW41OGZhMlplaTl3cExkUUJlS1g5Y2JveDRTbWFwa2RRWXlEdDgwTE9HNzc2aXVrdEltZ1JVcHhCdW5kd2JxOTF5MTNTb1l6ZDZIXzUxVnZaWVRjbTMtWTlRZjRCV2xORzcxYi1wNzRPdDN4cnlicno2aUhZdS1mN2R3X0F3?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock",
+        "inflation + rise"
+      ],
+      "firstSeen": "2026-07-14T22:04:11.967Z",
+      "pushedAt": "2026-07-14T22:04:11.967Z"
+    },
+    {
+      "id": "322965ef88f550e6",
+      "title": "US restores blockade on Iran after its attacks on ships in the Strait of Hormuz - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnBwMkRnYlE0eWdLanFlS1JwcWNwQW83YkJMbFJXdzZYRGFiZUtib0UzM1hRVFozX3RCTmwxUVQzV2RvNTU2ZE56RjZOYjRQbzF5SkJ1Y0RTQnktRmg1NjliM2pMcy1kY045dVQ4bk9sYkNDU2N6WTFnNV9NNjZMa21IYkxLX3NmWDF2NXMzUmRtRkN0eGlwRmx6SHdlakU?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + strait"
+      ],
+      "firstSeen": "2026-07-14T22:04:12.078Z",
+      "pushedAt": "2026-07-14T22:04:12.078Z"
+    },
+    {
       "id": "3de75eb69d270c0b",
       "title": "Worker killed in furnace explosion fire at Indian recycling plant",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss",
@@ -196,5 +221,5 @@
       "pushedAt": "2026-07-13T22:10:21.247Z"
     }
   ],
-  "updatedAt": "2026-07-14T21:02:17.474Z"
+  "updatedAt": "2026-07-14T22:04:12.179Z"
 }
