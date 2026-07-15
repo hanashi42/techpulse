@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "a142f47c2bf313c6",
+      "title": "Father, mother, daughter killed in Israeli attack on Gaza home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-15T16:57:55.510Z",
+      "pushedAt": "2026-07-15T16:57:55.510Z"
+    },
+    {
+      "id": "0782453db5413be5",
+      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+      "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-07-15T16:57:55.675Z",
+      "pushedAt": "2026-07-15T16:57:55.675Z"
+    },
+    {
       "id": "037c313257e1d92e",
       "title": "Brazil braces for new U.S. tariffs as Washington broadens trade push, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDlpa29KRTdDWTB6cEVwbEdWMGJ4c1VLWjMyUXNyUzB3UktBY0pIY0dkZkR3RTdOZkJKNlpUUWNtb1dqSUlCcXpRSlN3MDFjYjJDcVVxSWxXaXk0Vm1qZmJXb2l5b194d3UtdnQ5eUFZelBmNFFvd2kwQnVnRDdDTTI5dzZNMWhsX1RsakpjZUdrOUg2STctSm1qLW5wR3pvajNXM3VpeXJqV1VORU1LNEZ2eFNSVGdFQXhLY3NSUQ?oc=5",
@@ -242,19 +266,7 @@
       ],
       "firstSeen": "2026-07-14T20:00:30.404Z",
       "pushedAt": "2026-07-14T20:00:30.404Z"
-    },
-    {
-      "id": "5d06bd856f3ab989",
-      "title": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-07-14T16:49:26.548Z",
-      "pushedAt": "2026-07-14T16:49:26.548Z"
     }
   ],
-  "updatedAt": "2026-07-15T15:49:59.454Z"
+  "updatedAt": "2026-07-15T16:57:55.708Z"
 }
