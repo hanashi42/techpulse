@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "eea35392f5a0da45",
+      "title": "China posts slowest GDP growth since 2022 at 4.3%, missing expectations",
+      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "gdp + growth"
+      ],
+      "firstSeen": "2026-07-15T02:33:51.821Z",
+      "pushedAt": "2026-07-15T02:33:51.821Z"
+    },
+    {
+      "id": "5f210cbb6c25ae6a",
+      "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
+      "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-07-15T02:33:51.968Z",
+      "pushedAt": "2026-07-15T02:33:51.968Z"
+    },
+    {
       "id": "d8b2277a3c4dbabc",
       "title": "US stocks rise after data shows slowing inflation, even as IBM plunges - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEF6RnpLaF9jU0tsSVNGdDZ4SW41OGZhMlplaTl3cExkUUJlS1g5Y2JveDRTbWFwa2RRWXlEdDgwTE9HNzc2aXVrdEltZ1JVcHhCdW5kd2JxOTF5MTNTb1l6ZDZIXzUxVnZaWVRjbTMtWTlRZjRCV2xORzcxYi1wNzRPdDN4cnlicno2aUhZdS1mN2R3X0F3?oc=5",
@@ -194,32 +218,7 @@
       ],
       "firstSeen": "2026-07-14T03:20:31.459Z",
       "pushedAt": "2026-07-14T03:20:31.459Z"
-    },
-    {
-      "id": "629a00319fd9ba33",
-      "title": "EXCLUSIVE: China detains US seismologist who has studied North Korean nuclear tests - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2RCTlAtbmVLSG1sQjJCblpURk9nQ2JPWFpoR1dKNWJxQVVZNGpRM1hGSEFKa1VQQy14UnhtcTFOeGswVUhFQXJ3ZWRyekU4NXNzaWhPY2xyN0JoYVg3bnFXTURPSHUyYTZEOUZOWDdIQmZMTVlKV0RHU19qNjRwUDM4NFVZRVp0YnBETnhwWkxKVkpEMHpEY0ZKNEFqdzFQNjlFRE5uMUNyT2hvSXZvc2Q2Q2lIT0l1?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "nuclear test"
-      ],
-      "firstSeen": "2026-07-13T22:10:21.024Z",
-      "pushedAt": "2026-07-13T22:10:21.024Z"
-    },
-    {
-      "id": "d861804e3b08f9ff",
-      "title": "Fed's Waller says rate hike may be needed if core inflation stays hot - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaW0tUldZeEtOTXVXNFlST05jYjZUMzcxcVZQNl9MVXh3ZXltWVVUcUlMelA2OENsVmdtSDNqTUVBSTBNdEVpbzg3Q1E2N28wMVBlYlZCVS1SYU5XUkVuMUdtUzUwcEJrWmRDYVp2ajg3cHdXMnpHbHhfSHc4Z2VaNmpVZUNrLTFKY2hBdmFwNWt3b2xJdzdRYzFpbUMxSERsdmtTZQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-07-13T22:10:21.247Z",
-      "pushedAt": "2026-07-13T22:10:21.247Z"
     }
   ],
-  "updatedAt": "2026-07-14T22:04:12.179Z"
+  "updatedAt": "2026-07-15T02:33:52.028Z"
 }
