@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "331c61663b654e54",
+      "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
+      "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "chemical weapons"
+      ],
+      "firstSeen": "2026-07-15T20:28:07.164Z",
+      "pushedAt": "2026-07-15T20:28:07.164Z"
+    },
+    {
       "id": "dcc5b95efe3abc73",
       "title": "EU envoys fail to agree on 21st package of sanctions against Russia, says EU diplomat - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVhaRnhqR3JHYU5zVjhhZ0N0YUVQNWpXNzFCRG1jMkZ3VjdVM0RqZGNWVXVwSUhBdGJKSDRpc2E4ZHFPTlpjN094QWk0TkxWbm44eDIteG5JMXpBMnY3dW16N0ptd3hldHJOYmJuR0I5OVNpUlNRMm82TFFxeHd6R1VEaUJSQ3BONjZLLUpXWnN0TlhTWUthUlA0cFZNV2xLWjc1OEJvckdldWFsdzRhbmVJaVdtd0MxOFVZSGlnSFljSjRUVWc?oc=5",
@@ -252,33 +264,7 @@
       ],
       "firstSeen": "2026-07-14T21:02:17.423Z",
       "pushedAt": "2026-07-14T21:02:17.423Z"
-    },
-    {
-      "id": "ff815c3aee9c9c76",
-      "title": "Lucid rejects take-private, bankruptcy report after shares plunge - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTm1Id0t0RU8xOEJfMnNXWG16eW9zajg2djZmakpPTnVYcG13WXlXcHF5NE1JTmZWWDlvd3NyZDBmNC10R292bDc4eWpoLUQ1NHBMV1JEVTNFcWg3MWphbFZsY0YybW5ucVdkbDRTWXdBZTktOW5BdGRBX1JzSm1Rdk1kUWU2S2paV1pYSmZPTnZEX1l1VG5DWmFLcFlObmstNVhFbVkwaWpfaFFSUmVxRUZSbXp2R0ky?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + shares",
-        "bankrupt + bank"
-      ],
-      "firstSeen": "2026-07-14T20:00:30.050Z",
-      "pushedAt": "2026-07-14T20:00:30.050Z"
-    },
-    {
-      "id": "3d51314920bcd7f4",
-      "title": "New Russia Oil Sanctions Bill Targets China, India for Tariffs - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYVVudk5CQnFiYm5nWmk0dGNrY3lCUGVNQW56NXpRNlVJQmhCODNjQ2Y2YWZOUjV2YVJuLUtkWGwwY3ZJZkhXRjlsVVpCUl85ZW1FMUstaW5mOUl1QUp3eGtBd2VlT3NzZVpJREV6bmM1Z1R5bjVsTnJSYXhMNjlSUjVkbU0xc2tUMGs0aTlGMlZ5NUxUVlNZNEFvbktKUTBvMmowemJ0Ull3enk5SEdsdHhR?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + oil",
-        "tariff + new"
-      ],
-      "firstSeen": "2026-07-14T20:00:30.404Z",
-      "pushedAt": "2026-07-14T20:00:30.404Z"
     }
   ],
-  "updatedAt": "2026-07-15T18:01:40.118Z"
+  "updatedAt": "2026-07-15T20:28:07.358Z"
 }
