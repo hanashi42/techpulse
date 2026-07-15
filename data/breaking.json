@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "737b410319154ff5",
+      "title": "Iran-linked vessels pass through Hormuz ahead of US blockade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTdNZVY3NU9GZkdKMHVSdHhqUTdmMm9ycmQ3a01SRnZhenFpM29SS2JhbWd4Z2N0ZDNEXzBYS0RDbWZnd1RnaHRBOVJHNWFLenA0WmtpSUV4X041WkMtYUxwMzhlS3BhREdGdGpMNnVmSlg1bFJJLTBBVGlVdFF0M01XQmE5aU5OMmpUcnFCdm9vWEU5LTFXalJsSnlGazlxSHZTOEJuZ0hZMnpiUkE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "blockade + hormuz"
+      ],
+      "firstSeen": "2026-07-15T07:23:58.217Z",
+      "pushedAt": "2026-07-15T07:23:58.217Z"
+    },
+    {
+      "id": "279ad8246e44cd1a",
+      "title": "Gold slips as oil rally keeps inflation, rate outlook on investors' radar - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjJUTW5TUVpyUkM5bDJ0NFJ2ZE9raUlKYUFGOUVrdUJ3Z24tSWE4c2NaLW9EMmpDamxPNjJkTjQ1Zi1WbVd4bWNDSlZSdkJzY29LbWNESGxyUURLMTl1Wm4tZFFZLWRvSzNPcnZJMnEzWEVaaEtBbWg3bTBCWnp3MzlGUGNXZE9uVHF2STRzRlp3S3RtbUR1ZE9fUTFOcXdFUVhyZk16S3ZCXzlZZGJj?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + gold"
+      ],
+      "firstSeen": "2026-07-15T07:23:58.577Z",
+      "pushedAt": "2026-07-15T07:23:58.577Z"
+    },
+    {
+      "id": "8fdb06b673636ad0",
+      "title": "Dollar struggles after softer inflation blunts Fed hike bets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObC1UaFRZQU5BRjNINFJ1a0pSZlNMdGZkd0FnSTREekFuZ0g2OHg1ZEZtc2R0Ni1FVHpkUkVSNGpIMGd4cGdDQVhOOUtlX0czVUhaclRSd1lRM1ZsT1BzVm1KUzFpRS15SFJyeDZxZzdQYUxVbmJmZllBT1N4TXo4eWNzemRISm1uM2xMeTl6eGlLRUd0ejhucEpsZTIzUGt3WEtJ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + hike"
+      ],
+      "firstSeen": "2026-07-15T07:23:58.776Z",
+      "pushedAt": "2026-07-15T07:23:58.776Z"
+    },
+    {
       "id": "794a27fa51056334",
       "title": "China detains US scientist who studied North Korea nuclear tests",
       "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
@@ -196,5 +232,5 @@
       "pushedAt": "2026-07-14T07:27:21.810Z"
     }
   ],
-  "updatedAt": "2026-07-15T05:15:46.052Z"
+  "updatedAt": "2026-07-15T07:23:58.856Z"
 }
