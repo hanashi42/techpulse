@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "794a27fa51056334",
+      "title": "China detains US scientist who studied North Korea nuclear tests",
+      "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "nuclear test"
+      ],
+      "firstSeen": "2026-07-15T05:15:45.881Z",
+      "pushedAt": "2026-07-15T05:15:45.881Z"
+    },
+    {
+      "id": "8df54673112d2fb6",
+      "title": "6.5-Magnitude Offshore Earthquake Strikes S. Philippines - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SNDFMdVZLRldReWI0SjlpcDdOTEdSZ3ZxRE1PVjhoTWVKUkc2RHFacThsYVRMTTd0NmRwZEZoTFNFZGFNXzY5aTZwbTZSNUQyRmJuODVVdzdCdjdyVWpWNnV3?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-07-15T05:15:45.969Z",
+      "pushedAt": "2026-07-15T05:15:45.969Z"
+    },
+    {
       "id": "eea35392f5a0da45",
       "title": "China posts slowest GDP growth since 2022 at 4.3%, missing expectations",
       "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
@@ -170,55 +194,7 @@
       ],
       "firstSeen": "2026-07-14T07:27:21.810Z",
       "pushedAt": "2026-07-14T07:27:21.810Z"
-    },
-    {
-      "id": "60de8892239c3514",
-      "title": "Asia markets choppy as threat of Trump Hormuz levy spooks traders - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWRaMVFPRFNSMDhQQ1dQT09aWlhsdzdhVGVFcGUzblZreE9kSms3eXc3ZjRlbVhvdUtFRW5IQ3ZSSE42bnhoTGxIaVlwbVVQR0tLUE0yY1N3NTJ2Qko2S01pNHREcW5CbmpweXpORmVRRzdCR0RDcTRjeG9oS2tqR2hIWQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-07-14T03:20:31.142Z",
-      "pushedAt": "2026-07-14T03:20:31.142Z"
-    },
-    {
-      "id": "bc0fc70a0b1f141a",
-      "title": "Three Palestinians killed, 15 wounded in Israeli attacks across Gaza",
-      "url": "https://www.aljazeera.com/news/2026/7/13/three-palestinians-killed-15-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-14T03:20:31.341Z",
-      "pushedAt": "2026-07-14T03:20:31.341Z"
-    },
-    {
-      "id": "13b3a87e6e6b240b",
-      "title": "China exports in June jump at fastest pace since 2021 as AI boom, tariff rush lift trade",
-      "url": "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-07-14T03:20:31.426Z",
-      "pushedAt": "2026-07-14T03:20:31.426Z"
-    },
-    {
-      "id": "913b1340572cede2",
-      "title": "CNBC Daily Open: Hormuz toll threats, Mideast tensions keep investors on edge",
-      "url": "https://www.cnbc.com/2026/07/14/cnbc-daily-open-hormuz-toll-threats-mideast-tensions-keep-investors-on-edge.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-07-14T03:20:31.459Z",
-      "pushedAt": "2026-07-14T03:20:31.459Z"
     }
   ],
-  "updatedAt": "2026-07-15T02:33:52.028Z"
+  "updatedAt": "2026-07-15T05:15:46.052Z"
 }
