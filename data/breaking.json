@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "0541073fa6825460",
+      "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
+      "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-07-15T09:25:04.783Z",
+      "pushedAt": "2026-07-15T09:25:04.783Z"
+    },
+    {
+      "id": "c8a90935cd5a5770",
+      "title": "Oil, Shipping, Flights: Disruptions Are Back as U.S.-Iran War Reignites",
+      "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-war-oil-shipping-flight-disruptions.html",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "disruption + shipping"
+      ],
+      "firstSeen": "2026-07-15T09:25:05.035Z",
+      "pushedAt": "2026-07-15T09:25:05.035Z"
+    },
+    {
       "id": "737b410319154ff5",
       "title": "Iran-linked vessels pass through Hormuz ahead of US blockade - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTdNZVY3NU9GZkdKMHVSdHhqUTdmMm9ycmQ3a01SRnZhenFpM29SS2JhbWd4Z2N0ZDNEXzBYS0RDbWZnd1RnaHRBOVJHNWFLenA0WmtpSUV4X041WkMtYUxwMzhlS3BhREdGdGpMNnVmSlg1bFJJLTBBVGlVdFF0M01XQmE5aU5OMmpUcnFCdm9vWEU5LTFXalJsSnlGazlxSHZTOEJuZ0hZMnpiUkE?oc=5",
@@ -206,31 +230,7 @@
       ],
       "firstSeen": "2026-07-14T10:58:31.197Z",
       "pushedAt": "2026-07-14T10:58:31.197Z"
-    },
-    {
-      "id": "58fc4944073a5db1",
-      "title": "US consumer inflation likely increased at a slow pace in June as gasoline prices retreated - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNVNfN0daRTViaC1VMldHRmhzOVhneG9SRTJMX0hQX3VfcFlDZ3RoYnlaWUlCbzlLZThyS2lWX1ExaDJxeDR0SkZUcV9ERjNKbGhRX1ZxTEsxcG1UQm5XdGpCY1V0OG93OXU5Ti1tdkxkb2J3bWlpR2NYanZZTzR5dnRSLWtHUW5jcEJCMWVRdHlQZDg4TThMNkp1SWJ4cmpHNy1ybU84UC1ZNl9XT1pLVWJHakhMNkNOdGNhR2NfRnI3Zw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + slow"
-      ],
-      "firstSeen": "2026-07-14T09:22:34.316Z",
-      "pushedAt": "2026-07-14T09:22:34.316Z"
-    },
-    {
-      "id": "a6741056de04c4de",
-      "title": "China blunted Iran war oil shock, but can it do the same for fuels? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWG9WU1MxTkppRE0tUmN5VlJ2b1JvZEtzQ2x5SGJGN1o3QjFSUUxMdDJBcjRRSVFqb3BBRFlRU2gxNk5MZXhjTVVHUng3RDJyV0RRNlJKUWctTkc2Vm5QSGtIQmhvazV2azhadkpCNGZVMDMydXNSS1VycjI4MHNicTY0MGItbjFVUHhKdmxmbjVGcGhUYkpPWXBveFY0TWg3NXNnY3h2MGZ4SmYyLXlEaFM1WXJNa29BS1ZqZ0E2aw?oc=5",
-      "source": "China (EN)",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-07-14T07:27:21.810Z",
-      "pushedAt": "2026-07-14T07:27:21.810Z"
     }
   ],
-  "updatedAt": "2026-07-15T07:23:58.856Z"
+  "updatedAt": "2026-07-15T09:25:05.265Z"
 }
