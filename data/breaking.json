@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "dcc5b95efe3abc73",
+      "title": "EU envoys fail to agree on 21st package of sanctions against Russia, says EU diplomat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVhaRnhqR3JHYU5zVjhhZ0N0YUVQNWpXNzFCRG1jMkZ3VjdVM0RqZGNWVXVwSUhBdGJKSDRpc2E4ZHFPTlpjN094QWk0TkxWbm44eDIteG5JMXpBMnY3dW16N0ptd3hldHJOYmJuR0I5OVNpUlNRMm82TFFxeHd6R1VEaUJSQ3BONjZLLUpXWnN0TlhTWUthUlA0cFZNV2xLWjc1OEJvckdldWFsdzRhbmVJaVdtd0MxOFVZSGlnSFljSjRUVWc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-07-15T18:01:39.901Z",
+      "pushedAt": "2026-07-15T18:01:39.901Z"
+    },
+    {
       "id": "a142f47c2bf313c6",
       "title": "Father, mother, daughter killed in Israeli attack on Gaza home",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
@@ -268,5 +280,5 @@
       "pushedAt": "2026-07-14T20:00:30.404Z"
     }
   ],
-  "updatedAt": "2026-07-15T16:57:55.708Z"
+  "updatedAt": "2026-07-15T18:01:40.118Z"
 }
