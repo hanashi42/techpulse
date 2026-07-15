@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "037c313257e1d92e",
+      "title": "Brazil braces for new U.S. tariffs as Washington broadens trade push, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDlpa29KRTdDWTB6cEVwbEdWMGJ4c1VLWjMyUXNyUzB3UktBY0pIY0dkZkR3RTdOZkJKNlpUUWNtb1dqSUlCcXpRSlN3MDFjYjJDcVVxSWxXaXk0Vm1qZmJXb2l5b194d3UtdnQ5eUFZelBmNFFvd2kwQnVnRDdDTTI5dzZNMWhsX1RsakpjZUdrOUg2STctSm1qLW5wR3pvajNXM3VpeXJqV1VORU1LNEZ2eFNSVGdFQXhLY3NSUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-15T15:49:59.370Z",
+      "pushedAt": "2026-07-15T15:49:59.370Z"
+    },
+    {
       "id": "215c9748890bb57e",
       "title": "China turns to electric taxis to soften Hormuz oil shock - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazduaE1oajJiQ1RMcHZaMko1YzZXaG1XRXFSYzNfYlFmVXlOUGJrTGlzV2R6X3VBMXd1bDVZTkFueTJBUjM5U1JGUTNhLXhhUGZCRXhWMUM1ZEZGZExTd0pOVHdwc05HXzJONlF0RUhIZEhYMTFra04zbVZpRmtXSmlXMERWemZwOGozRVFoR2xsNWh1aFFIa09zdk1VX25ueDlNbzk5a28ycjI0UU1zbG1kVjAtZDg?oc=5",
@@ -242,19 +254,7 @@
       ],
       "firstSeen": "2026-07-14T16:49:26.548Z",
       "pushedAt": "2026-07-14T16:49:26.548Z"
-    },
-    {
-      "id": "1f2099a7ae8e5ec4",
-      "title": "Meta used AI to target workers with medical conditions for layoffs, lawsuit claims - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXpzajJiQVM5dEtfLWVGbEE5MFhvaThhd1UtRmZ1aUFmejRaRUZDcVlMR21rLXVsS0c5R2p3SFlSX1RJYjhBejhmSFI2NXo3bFN1TXNqdUFfdGI5aHZreEtadnlHZzBsdVpFak1QVDRPSUFKdTR1UncwVUp0Y0hWT2FMMkU4dEZZUHowY2p3LWFPNm9vRXpWbWpDNjB0QVdxQlFQX1FNVTF2cURnOWpid3NXUTBGM1B1ZHc?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-07-14T15:41:16.576Z",
-      "pushedAt": "2026-07-14T15:41:16.576Z"
     }
   ],
-  "updatedAt": "2026-07-15T11:04:52.499Z"
+  "updatedAt": "2026-07-15T15:49:59.454Z"
 }
