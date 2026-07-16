@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "624dc3ecf356253d",
+      "title": "US imposes 25% tariff on some imports from Brazil - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbGRpMHZ2OHBuOU0tdVU1ZDFaQ29kd2RUNTZxV0VDWGVDcHBtSmxZal9LZjhWMC14T3pwcUt1RHFfUFJ6bDJYMUgyYjFCd293dVlnUndVLXZRS2VkR1AtUVhyZzVraVczVHRNMmNzWGdlNHBONEhnUnYxTlR3d3p2aUxYLW5JVTI1RkgtODEzX3lIUG8?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + impose"
+      ],
+      "firstSeen": "2026-07-16T06:07:02.940Z",
+      "pushedAt": "2026-07-16T06:07:02.940Z"
+    },
+    {
+      "id": "e4b62bc6dc2d709b",
+      "title": "Brazil condemns US move to impose 25% tariffs next week",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + impose"
+      ],
+      "firstSeen": "2026-07-16T06:07:03.563Z",
+      "pushedAt": "2026-07-16T06:07:03.563Z"
+    },
+    {
+      "id": "8645aa14f1c2505e",
+      "title": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'",
+      "url": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 25%"
+      ],
+      "firstSeen": "2026-07-16T06:07:03.706Z",
+      "pushedAt": "2026-07-16T06:07:03.706Z"
+    },
+    {
+      "id": "ae19a89fa1f3c180",
+      "title": "SK Hynix shares plunge 11% as Asia sees tech rout, tracking U.S. chip losses",
+      "url": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + shares"
+      ],
+      "firstSeen": "2026-07-16T06:07:03.777Z",
+      "pushedAt": "2026-07-16T06:07:03.777Z"
+    },
+    {
       "id": "ccfde0676bc8720e",
       "title": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
@@ -167,31 +215,7 @@
       ],
       "firstSeen": "2026-07-15T07:23:58.776Z",
       "pushedAt": "2026-07-15T07:23:58.776Z"
-    },
-    {
-      "id": "794a27fa51056334",
-      "title": "China detains US scientist who studied North Korea nuclear tests",
-      "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "nuclear test"
-      ],
-      "firstSeen": "2026-07-15T05:15:45.881Z",
-      "pushedAt": "2026-07-15T05:15:45.881Z"
-    },
-    {
-      "id": "8df54673112d2fb6",
-      "title": "6.5-Magnitude Offshore Earthquake Strikes S. Philippines - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SNDFMdVZLRldReWI0SjlpcDdOTEdSZ3ZxRE1PVjhoTWVKUkc2RHFacThsYVRMTTd0NmRwZEZoTFNFZGFNXzY5aTZwbTZSNUQyRmJuODVVdzdCdjdyVWpWNnV3?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-07-15T05:15:45.969Z",
-      "pushedAt": "2026-07-15T05:15:45.969Z"
     }
   ],
-  "updatedAt": "2026-07-16T03:53:03.687Z"
+  "updatedAt": "2026-07-16T06:07:04.012Z"
 }
