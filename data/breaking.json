@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "78a14bf15a51cbb9",
+      "title": "US to impose new 25 percent tariffs on some Brazilian imports",
+      "url": "https://www.aljazeera.com/economy/2026/7/16/us-to-impose-new-25-percent-tariffs-on-some-brazilian-imports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-16T17:50:07.093Z",
+      "pushedAt": "2026-07-16T17:50:07.093Z"
+    },
+    {
       "id": "d0e680dfe700ace3",
       "title": "Treasury yields rise as Wall Street awaits retail sales and unemployment data",
       "url": "https://www.cnbc.com/2026/07/16/us-treasury-yields-wall-street-inflation-employment-data.html",
@@ -95,79 +107,7 @@
       ],
       "firstSeen": "2026-07-15T18:01:39.901Z",
       "pushedAt": "2026-07-15T18:01:39.901Z"
-    },
-    {
-      "id": "a142f47c2bf313c6",
-      "title": "Father, mother, daughter killed in Israeli attack on Gaza home",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-15T16:57:55.510Z",
-      "pushedAt": "2026-07-15T16:57:55.510Z"
-    },
-    {
-      "id": "0782453db5413be5",
-      "title": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
-      "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-07-15T16:57:55.675Z",
-      "pushedAt": "2026-07-15T16:57:55.675Z"
-    },
-    {
-      "id": "037c313257e1d92e",
-      "title": "Brazil braces for new U.S. tariffs as Washington broadens trade push, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZDlpa29KRTdDWTB6cEVwbEdWMGJ4c1VLWjMyUXNyUzB3UktBY0pIY0dkZkR3RTdOZkJKNlpUUWNtb1dqSUlCcXpRSlN3MDFjYjJDcVVxSWxXaXk0Vm1qZmJXb2l5b194d3UtdnQ5eUFZelBmNFFvd2kwQnVnRDdDTTI5dzZNMWhsX1RsakpjZUdrOUg2STctSm1qLW5wR3pvajNXM3VpeXJqV1VORU1LNEZ2eFNSVGdFQXhLY3NSUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-07-15T15:49:59.370Z",
-      "pushedAt": "2026-07-15T15:49:59.370Z"
-    },
-    {
-      "id": "215c9748890bb57e",
-      "title": "China turns to electric taxis to soften Hormuz oil shock - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazduaE1oajJiQ1RMcHZaMko1YzZXaG1XRXFSYzNfYlFmVXlOUGJrTGlzV2R6X3VBMXd1bDVZTkFueTJBUjM5U1JGUTNhLXhhUGZCRXhWMUM1ZEZGZExTd0pOVHdwc05HXzJONlF0RUhIZEhYMTFra04zbVZpRmtXSmlXMERWemZwOGozRVFoR2xsNWh1aFFIa09zdk1VX25ueDlNbzk5a28ycjI0UU1zbG1kVjAtZDg?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "oil shock"
-      ],
-      "firstSeen": "2026-07-15T11:04:52.042Z",
-      "pushedAt": "2026-07-15T11:04:52.042Z"
-    },
-    {
-      "id": "250929c59dc48ef4",
-      "title": "Inflation cools more than expected in June as gas costs fall, underlying prices ease - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0ZNbFlHYm1IRUhtaVZuak9fcUVtc0UySC1qWnN6Snk2Rzl1NEFQWU9DblNXVGNVak8wNDNCVEwzRFUtc0xVM0xWWUFEMGFWSzlzcDdJYVQ5U0FxMHkxVDZ6YnpJNmNvdWhJRFlsMWpXYUoyRVd3SVVQS0xuNEdiMWdERkh3VDhHMXNjNDV4c0xURVBfOHc?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + fall"
-      ],
-      "firstSeen": "2026-07-15T11:04:52.297Z",
-      "pushedAt": "2026-07-15T11:04:52.297Z"
-    },
-    {
-      "id": "cbc16adc2f35c56c",
-      "title": "Three killed as Russian bombing of Odesa continues",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombing of"
-      ],
-      "firstSeen": "2026-07-15T11:04:52.440Z",
-      "pushedAt": "2026-07-15T11:04:52.440Z"
     }
   ],
-  "updatedAt": "2026-07-16T10:25:46.024Z"
+  "updatedAt": "2026-07-16T17:50:07.315Z"
 }
