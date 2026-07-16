@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ccfde0676bc8720e",
+      "title": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-07-16T03:53:03.414Z",
+      "pushedAt": "2026-07-16T03:53:03.414Z"
+    },
+    {
       "id": "331c61663b654e54",
       "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
       "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
@@ -179,92 +191,7 @@
       ],
       "firstSeen": "2026-07-15T05:15:45.969Z",
       "pushedAt": "2026-07-15T05:15:45.969Z"
-    },
-    {
-      "id": "eea35392f5a0da45",
-      "title": "China posts slowest GDP growth since 2022 at 4.3%, missing expectations",
-      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "gdp + growth"
-      ],
-      "firstSeen": "2026-07-15T02:33:51.821Z",
-      "pushedAt": "2026-07-15T02:33:51.821Z"
-    },
-    {
-      "id": "5f210cbb6c25ae6a",
-      "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
-      "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-07-15T02:33:51.968Z",
-      "pushedAt": "2026-07-15T02:33:51.968Z"
-    },
-    {
-      "id": "d8b2277a3c4dbabc",
-      "title": "US stocks rise after data shows slowing inflation, even as IBM plunges - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEF6RnpLaF9jU0tsSVNGdDZ4SW41OGZhMlplaTl3cExkUUJlS1g5Y2JveDRTbWFwa2RRWXlEdDgwTE9HNzc2aXVrdEltZ1JVcHhCdW5kd2JxOTF5MTNTb1l6ZDZIXzUxVnZaWVRjbTMtWTlRZjRCV2xORzcxYi1wNzRPdDN4cnlicno2aUhZdS1mN2R3X0F3?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + stock",
-        "inflation + rise"
-      ],
-      "firstSeen": "2026-07-14T22:04:11.967Z",
-      "pushedAt": "2026-07-14T22:04:11.967Z"
-    },
-    {
-      "id": "322965ef88f550e6",
-      "title": "US restores blockade on Iran after its attacks on ships in the Strait of Hormuz - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnBwMkRnYlE0eWdLanFlS1JwcWNwQW83YkJMbFJXdzZYRGFiZUtib0UzM1hRVFozX3RCTmwxUVQzV2RvNTU2ZE56RjZOYjRQbzF5SkJ1Y0RTQnktRmg1NjliM2pMcy1kY045dVQ4bk9sYkNDU2N6WTFnNV9NNjZMa21IYkxLX3NmWDF2NXMzUmRtRkN0eGlwRmx6SHdlakU?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + strait"
-      ],
-      "firstSeen": "2026-07-14T22:04:12.078Z",
-      "pushedAt": "2026-07-14T22:04:12.078Z"
-    },
-    {
-      "id": "3de75eb69d270c0b",
-      "title": "Worker killed in furnace explosion fire at Indian recycling plant",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/worker-killed-in-furnace-explosion-fire-at-indian-recycling-plant?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "explosion + killed"
-      ],
-      "firstSeen": "2026-07-14T21:02:17.110Z",
-      "pushedAt": "2026-07-14T21:02:17.110Z"
-    },
-    {
-      "id": "0c71fd7802428683",
-      "title": "US reimposes blockade on Iranian ports, launches more strikes",
-      "url": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + port"
-      ],
-      "firstSeen": "2026-07-14T21:02:17.293Z",
-      "pushedAt": "2026-07-14T21:02:17.293Z"
-    },
-    {
-      "id": "ef6f1bb031f56438",
-      "title": "Employees sue Meta, alleging discrimination in using AI to make layoffs",
-      "url": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "layoff + meta"
-      ],
-      "firstSeen": "2026-07-14T21:02:17.423Z",
-      "pushedAt": "2026-07-14T21:02:17.423Z"
     }
   ],
-  "updatedAt": "2026-07-15T20:28:07.358Z"
+  "updatedAt": "2026-07-16T03:53:03.687Z"
 }
