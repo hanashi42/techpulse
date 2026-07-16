@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "65d148a4b1caee46",
+      "title": "Brazil readies 'tough' retaliation to new Trump tariffs, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXRXblpXS0Mtc2pTcF9iNTZaZ0NuYzMySmRjY3JDUmtLRjdhY016OUpGOG1GdnNaRVRWZjNSa1VmLVB4R1lvYUpQdTA5RTlZU3BaQUZFaFdDZjNnTHAxY2dLNmItQ3lPNzBfNGRFTkVETzdWSEdsV1lNM2VWMlNKS1FrMHRWMjhWXzcxYm5raVlsdGZxdDRiYnM1bjVmYnhxcEZTS3hEY1l1Ul9wNVVCb09zSQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-16T20:36:38.462Z",
+      "pushedAt": "2026-07-16T20:36:38.462Z"
+    },
+    {
       "id": "5a9226c93edaecd7",
       "title": "Citadel Securities invests $400 million in Crypto.com at $20 billion valuation - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzlNR3BBV29GLTRCY3ZJVTJzdDZpeXVWV043NEVVY2prYXNoUGNlY1RvcFBxeFlFckxUNUh5TmhGeVBDYmI1bm5hc2cwYzZUb1pkWnJpNmh0cmNBN1ZXM2F5bTZELWdvRHpxa3hDT0Rwb1Z0dTQ4UWxGUW9vb01La0VnbFlxM25oZUhHQXQ2V3RrdVhsMjFNVDFCSkNudzVFRVJBendTcEFRdWVzaHpCWnZIZXZvelZrem9ERjhOQ3lDM28?oc=5",
@@ -119,19 +131,7 @@
       ],
       "firstSeen": "2026-07-16T03:53:03.414Z",
       "pushedAt": "2026-07-16T03:53:03.414Z"
-    },
-    {
-      "id": "331c61663b654e54",
-      "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
-      "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "chemical weapons"
-      ],
-      "firstSeen": "2026-07-15T20:28:07.164Z",
-      "pushedAt": "2026-07-15T20:28:07.164Z"
     }
   ],
-  "updatedAt": "2026-07-16T19:48:43.482Z"
+  "updatedAt": "2026-07-16T20:36:38.770Z"
 }
