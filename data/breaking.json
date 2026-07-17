@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "67133d1970c17e02",
+      "title": "Chip stock weakness raises worries about AI rally-strength, leveraged trades - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEpraWR3MkhKa1R0dDlkLTJsYXVWU0NsQjIySnpzcTA1dkFyVGNKcGk0RFNjbmF2dnRQZ2ZnR0lGb2thTEdwb3RLRVQyRWdxYmtFV2QxOVVQcHBocEsxVUoyYnJBa0JlZlBZRkRfY0trdGJnRkFOWEljYXowWWNrLXlVQm1sYkJoT2NzMVlMcDV1cWdDSHRjQUpZalFpdHN5cjZyWkxkOXVDMllxR2RiekFTYw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + stock"
+      ],
+      "firstSeen": "2026-07-17T17:47:25.059Z",
+      "pushedAt": "2026-07-17T17:47:25.059Z"
+    },
+    {
+      "id": "63b1922b07c65eb7",
+      "title": "Did the US just start a trade war with Brazil?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/did-the-us-just-start-a-trade-war-with-brazil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + us"
+      ],
+      "firstSeen": "2026-07-17T17:47:25.490Z",
+      "pushedAt": "2026-07-17T17:47:25.490Z"
+    },
+    {
       "id": "9dc94ce85101f0ad",
       "title": "7.3-Magnitude Earthquake in Central America Sets Off Tsunami Threat",
       "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
@@ -181,5 +205,5 @@
       "pushedAt": "2026-07-16T17:50:07.093Z"
     }
   ],
-  "updatedAt": "2026-07-17T16:46:57.638Z"
+  "updatedAt": "2026-07-17T17:47:25.731Z"
 }
