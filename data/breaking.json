@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "e4b62bc6dc2d709b",
+      "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + impose"
+      ],
+      "firstSeen": "2026-07-17T08:31:14.943Z",
+      "pushedAt": "2026-07-17T08:31:14.943Z"
+    },
+    {
       "id": "35bb5e71f55c7958",
       "title": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcU5Ec2J3b2lDc21BVGR3cWYxV185VjZLdk9tTzlndk5Tc3hPblNOQXVZY3hrYjU3bW9Mek9yZXVFV2tUV2d1NThXTnZ5SkhucHh4X3VPTlkxdk9SX2FlTndvTWRRUnB4ak01QmFWVzQ2RzVaYk1pWU1VMElXRW5jaFM5czAzR2VWeF9neExJZlgwaDhvV2pJbWh4LWV1bWJ5bnRRZmVyckRhNFNwNkVjdEJGdlFYbHc4d2FBTEx0U0ZsRFVaT1RIUmNNWHlrdw?oc=5",
@@ -109,5 +121,5 @@
       "pushedAt": "2026-07-16T10:25:45.667Z"
     }
   ],
-  "updatedAt": "2026-07-17T06:24:46.482Z"
+  "updatedAt": "2026-07-17T08:31:15.106Z"
 }
