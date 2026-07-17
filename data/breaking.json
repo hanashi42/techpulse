@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "a6ffa1aead926902",
+      "title": "Wall St futures slip as chip stocks drag; Netflix tumbles - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXBLd3owVnZENU9mMVBIZUg5UjJoT1RtdmJ6UkdJNzJOVmxXdVFtT2FWYzU4c1pQSzkybmNBRHUwMnBxeURFY01ZQ3ptMkg0TFR2dGpQblJSSWRNVThEYlBXZWNVZjQtTWswdUdLR2M4SXhXWGtRNER2UlgyU1ctQkR6Y0ZSWWYzV2tyc2FtMHhfZGNMU0xZdlRGN0hXYXVkRWk0QkdpV0o4dEU?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + stock"
+      ],
+      "firstSeen": "2026-07-17T12:47:13.125Z",
+      "pushedAt": "2026-07-17T12:47:13.125Z"
+    },
+    {
+      "id": "8fd14703296396e2",
+      "title": "Oil prices rise after Kuwait says Iran attacked water desalination and power plant",
+      "url": "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-07-17T12:47:13.257Z",
+      "pushedAt": "2026-07-17T12:47:13.257Z"
+    },
+    {
       "id": "dfa9fe7dd07744ad",
       "title": "Greece says EU sanctions against Russia risk ceding LNG market share to rivals - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVzkxeFRrT2JJNTlNa0laY2xnX1dyOFMxczZDMVlFRldrMHRpWVptYkx6V2ZuaDh3TV9VQmYwbTVQVkZzeU80QVdvMENaX1VvTjNmYnBDRS1qYjNvZEZrLXpXZVRXVUUteXhHc2NHaWxpSnRJdXpqY2VoWENhOEJQeXd5UlFtdXhiMExoaS1pU0FSelVKa2hsSkJrYWZISDFVN19DY19SSGQ5aUZMbEh6ZUlPNkx6T0x5S0FVa1RQTVJmc2dxd1E?oc=5",
@@ -133,5 +157,5 @@
       "pushedAt": "2026-07-16T17:50:07.093Z"
     }
   ],
-  "updatedAt": "2026-07-17T11:42:51.894Z"
+  "updatedAt": "2026-07-17T12:47:13.299Z"
 }
