@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "1a2e87e406466086",
+      "title": "Magnitude 7.4 earthquake strikes Puerto Madero, Mexico, USGS says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVExlaTA3d0tQOTlrdTNudjNYUlluQXVPNFFFRl9zMkFhYVJNbFgyT2NtY2p5S3RtNEJuQ3dTMmlHMzBtRXJQdUMyLV9SUm1XTlNQaDg4QmUxdVBKUnpGVWs4YTNiTDh0UFltMnV2ejRuMFJPcHhmQUZSRG5xMGJTVkhpcm84V05ya3g4YnRtNmhnQlhYX1FwbzZvUG9mZ2thVkdmVHV6UGZzdk5oaXlKYzdDakZ6ODk5dWFv?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "magnitude 7"
+      ],
+      "firstSeen": "2026-07-17T15:44:26.673Z",
+      "pushedAt": "2026-07-17T15:44:26.673Z"
+    },
+    {
       "id": "a6ffa1aead926902",
       "title": "Wall St futures slip as chip stocks drag; Netflix tumbles - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXBLd3owVnZENU9mMVBIZUg5UjJoT1RtdmJ6UkdJNzJOVmxXdVFtT2FWYzU4c1pQSzkybmNBRHUwMnBxeURFY01ZQ3ptMkg0TFR2dGpQblJSSWRNVThEYlBXZWNVZjQtTWswdUdLR2M4SXhXWGtRNER2UlgyU1ctQkR6Y0ZSWWYzV2tyc2FtMHhfZGNMU0xZdlRGN0hXYXVkRWk0QkdpV0o4dEU?oc=5",
@@ -157,5 +169,5 @@
       "pushedAt": "2026-07-16T17:50:07.093Z"
     }
   ],
-  "updatedAt": "2026-07-17T12:47:13.299Z"
+  "updatedAt": "2026-07-17T15:44:26.928Z"
 }
