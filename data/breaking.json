@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "35bb5e71f55c7958",
+      "title": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcU5Ec2J3b2lDc21BVGR3cWYxV185VjZLdk9tTzlndk5Tc3hPblNOQXVZY3hrYjU3bW9Mek9yZXVFV2tUV2d1NThXTnZ5SkhucHh4X3VPTlkxdk9SX2FlTndvTWRRUnB4ak01QmFWVzQ2RzVaYk1pWU1VMElXRW5jaFM5czAzR2VWeF9neExJZlgwaDhvV2pJbWh4LWV1bWJ5bnRRZmVyckRhNFNwNkVjdEJGdlFYbHc4d2FBTEx0U0ZsRFVaT1RIUmNNWHlrdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-07-17T06:24:46.267Z",
+      "pushedAt": "2026-07-17T06:24:46.267Z"
+    },
+    {
       "id": "d3e6a46daa042f16",
       "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
       "url": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss",
@@ -95,55 +107,7 @@
       ],
       "firstSeen": "2026-07-16T10:25:45.667Z",
       "pushedAt": "2026-07-16T10:25:45.667Z"
-    },
-    {
-      "id": "624dc3ecf356253d",
-      "title": "US imposes 25% tariff on some imports from Brazil - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbGRpMHZ2OHBuOU0tdVU1ZDFaQ29kd2RUNTZxV0VDWGVDcHBtSmxZal9LZjhWMC14T3pwcUt1RHFfUFJ6bDJYMUgyYjFCd293dVlnUndVLXZRS2VkR1AtUVhyZzVraVczVHRNMmNzWGdlNHBONEhnUnYxTlR3d3p2aUxYLW5JVTI1RkgtODEzX3lIUG8?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + impose"
-      ],
-      "firstSeen": "2026-07-16T06:07:02.940Z",
-      "pushedAt": "2026-07-16T06:07:02.940Z"
-    },
-    {
-      "id": "e4b62bc6dc2d709b",
-      "title": "Brazil condemns US move to impose 25% tariffs next week",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + impose"
-      ],
-      "firstSeen": "2026-07-16T06:07:03.563Z",
-      "pushedAt": "2026-07-16T06:07:03.563Z"
-    },
-    {
-      "id": "8645aa14f1c2505e",
-      "title": "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'",
-      "url": "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 25%"
-      ],
-      "firstSeen": "2026-07-16T06:07:03.706Z",
-      "pushedAt": "2026-07-16T06:07:03.706Z"
-    },
-    {
-      "id": "ae19a89fa1f3c180",
-      "title": "SK Hynix shares plunge 11% as Asia sees tech rout, tracking U.S. chip losses",
-      "url": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + shares"
-      ],
-      "firstSeen": "2026-07-16T06:07:03.777Z",
-      "pushedAt": "2026-07-16T06:07:03.777Z"
     }
   ],
-  "updatedAt": "2026-07-17T04:08:53.833Z"
+  "updatedAt": "2026-07-17T06:24:46.482Z"
 }
