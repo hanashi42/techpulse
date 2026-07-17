@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ca33992a45b491f4",
+      "title": "China's oil imports have plunged during the Iran war. How much will they recover? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTI1OFgyZ3BIUU40N1NsczgyREZuR211NVlMQXAtdTVmOWduRF9YOEJPVHd1QkJsV0xhek9aenVtY2gyMWNPc2JyMzBvRnZIUC1mY0QzSFdqbkQyWThzTnJ6VDRVcUdHTWJfXzE5ZER3WHpTay12RlJQOTlpdUpXRmh2Q3ZVSDRzTEl3UE80WG0xSVc3eTN2LTNlbmxBbGpuQ1RVWkE5Q1JDNEMwdlhzUHdvWFJnc3JxX3RYd2l0QWYzWF9V?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + oil"
+      ],
+      "firstSeen": "2026-07-17T10:18:48.039Z",
+      "pushedAt": "2026-07-17T10:18:48.039Z"
+    },
+    {
       "id": "e4b62bc6dc2d709b",
       "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
       "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
@@ -121,5 +133,5 @@
       "pushedAt": "2026-07-16T10:25:45.667Z"
     }
   ],
-  "updatedAt": "2026-07-17T08:31:15.106Z"
+  "updatedAt": "2026-07-17T10:18:48.419Z"
 }
