@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8867279644afb208",
+      "title": "Two US service members in Jordan killed in Iranian attack, US says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORC1tbUY3UU5OWWVubE9NZzhlTjZDNGNxMERBSUwxZ0d2clRBaldEZWtTUXhjZmVzb182N1M4T0VCY1JnQWhqNW5oM3ZIUV8wbno1TkdYbFM2RGNsYklHVFJ4VTZpVDdHOHcyY1BZUWNLaGxBMFBTQUJVanMxellKenFwazlMQWVYeERKa2dDVFZ3a2JBaElnRHVJcGdVc0RtVGZhM3hsRjF3REZvRzZCeFlFUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-18T18:27:13.002Z",
+      "pushedAt": "2026-07-18T18:27:13.002Z"
+    },
+    {
+      "id": "3f25c6583c629e6a",
+      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P0",
+      "matchedKeywords": [
+        "magnitude 7"
+      ],
+      "firstSeen": "2026-07-18T18:27:13.203Z",
+      "pushedAt": "2026-07-18T18:27:13.203Z"
+    },
+    {
       "id": "fa36579cfa61a0dc",
       "title": "Armed groups attack Malian military convoy in Gao region",
       "url": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss",
@@ -71,31 +95,7 @@
       ],
       "firstSeen": "2026-07-17T21:24:12.158Z",
       "pushedAt": "2026-07-17T21:24:12.158Z"
-    },
-    {
-      "id": "67133d1970c17e02",
-      "title": "Chip stock weakness raises worries about AI rally-strength, leveraged trades - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEpraWR3MkhKa1R0dDlkLTJsYXVWU0NsQjIySnpzcTA1dkFyVGNKcGk0RFNjbmF2dnRQZ2ZnR0lGb2thTEdwb3RLRVQyRWdxYmtFV2QxOVVQcHBocEsxVUoyYnJBa0JlZlBZRkRfY0trdGJnRkFOWEljYXowWWNrLXlVQm1sYkJoT2NzMVlMcDV1cWdDSHRjQUpZalFpdHN5cjZyWkxkOXVDMllxR2RiekFTYw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + stock"
-      ],
-      "firstSeen": "2026-07-17T17:47:25.059Z",
-      "pushedAt": "2026-07-17T17:47:25.059Z"
-    },
-    {
-      "id": "63b1922b07c65eb7",
-      "title": "Did the US just start a trade war with Brazil?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/did-the-us-just-start-a-trade-war-with-brazil?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "trade war + us"
-      ],
-      "firstSeen": "2026-07-17T17:47:25.490Z",
-      "pushedAt": "2026-07-17T17:47:25.490Z"
     }
   ],
-  "updatedAt": "2026-07-18T17:29:49.830Z"
+  "updatedAt": "2026-07-18T18:27:13.262Z"
 }
