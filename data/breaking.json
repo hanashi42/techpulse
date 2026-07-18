@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "fa36579cfa61a0dc",
+      "title": "Armed groups attack Malian military convoy in Gao region",
+      "url": "https://www.aljazeera.com/news/2026/7/18/armed-groups-attack-malian-military-convoy-in-gao-region?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-07-18T17:29:49.561Z",
+      "pushedAt": "2026-07-18T17:29:49.561Z"
+    },
+    {
       "id": "637870546d9625b7",
       "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
@@ -83,31 +95,7 @@
       ],
       "firstSeen": "2026-07-17T17:47:25.490Z",
       "pushedAt": "2026-07-17T17:47:25.490Z"
-    },
-    {
-      "id": "9dc94ce85101f0ad",
-      "title": "7.3-Magnitude Earthquake in Central America Sets Off Tsunami Threat",
-      "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-07-17T16:46:57.429Z",
-      "pushedAt": "2026-07-17T16:46:57.429Z"
-    },
-    {
-      "id": "1a2e87e406466086",
-      "title": "Magnitude 7.4 earthquake strikes Puerto Madero, Mexico, USGS says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVExlaTA3d0tQOTlrdTNudjNYUlluQXVPNFFFRl9zMkFhYVJNbFgyT2NtY2p5S3RtNEJuQ3dTMmlHMzBtRXJQdUMyLV9SUm1XTlNQaDg4QmUxdVBKUnpGVWs4YTNiTDh0UFltMnV2ejRuMFJPcHhmQUZSRG5xMGJTVkhpcm84V05ya3g4YnRtNmhnQlhYX1FwbzZvUG9mZ2thVkdmVHV6UGZzdk5oaXlKYzdDakZ6ODk5dWFv?oc=5",
-      "source": "Reuters",
-      "priority": "P0",
-      "matchedKeywords": [
-        "magnitude 7"
-      ],
-      "firstSeen": "2026-07-17T15:44:26.673Z",
-      "pushedAt": "2026-07-17T15:44:26.673Z"
     }
   ],
-  "updatedAt": "2026-07-18T15:33:11.855Z"
+  "updatedAt": "2026-07-18T17:29:49.830Z"
 }
