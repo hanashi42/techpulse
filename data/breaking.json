@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "8cfa7dcce9e95ebe",
+      "title": "The sell-off for AI stars worsens, while oil prices keep jumping - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjhsV0pGUU1wc3ZYY09ocnNhWDFWMGtwSXhoN3ZaRDEyNG5Eb3JpeWlmeWR4RHUyNmFfNzhSTmEyclZLaW91UFdsN2hUWHF3STczc0xMQnBTeG5QUEs1LTlLTDBMN3UtMHM5ZDdEVGRNR3cxcVdJM3luUEQ2Ry00V2hCdnVyQm1XR1lHdENWVTFEMWF6eFNQUHBR?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-07-18T05:10:23.165Z",
+      "pushedAt": "2026-07-18T05:10:23.165Z"
+    },
+    {
       "id": "4404ac58b46a49b4",
       "title": "Federal judge bars Trump administration from using obscure clause to make huge funding cuts - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVREcjZLbkZKZy1kSF9aLXhDYjY2NkQwdl9GSEJnWUIzbWpiMC1hLUFVZjJwZFEtM2JXbnFaNjd4eXFNRHQ0NUVQaGxvSVNXTVJxYjBCc0JveFVEd0dwblh2djZMeGo0eEN6Ym5qU0h4OTM5MFVydjRESHotSnhVNXQ1SFpjVU1mWXFWak9YNzBxLWI2MXR0Y1E2X0VBTFVNbE1VVg?oc=5",
@@ -143,19 +155,7 @@
       ],
       "firstSeen": "2026-07-17T06:24:46.267Z",
       "pushedAt": "2026-07-17T06:24:46.267Z"
-    },
-    {
-      "id": "d3e6a46daa042f16",
-      "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
-      "url": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-07-17T04:08:53.552Z",
-      "pushedAt": "2026-07-17T04:08:53.552Z"
     }
   ],
-  "updatedAt": "2026-07-18T02:34:49.294Z"
+  "updatedAt": "2026-07-18T05:10:23.391Z"
 }
