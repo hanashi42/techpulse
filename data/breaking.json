@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "637870546d9625b7",
+      "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-07-18T15:33:11.437Z",
+      "pushedAt": "2026-07-18T15:33:11.437Z"
+    },
+    {
       "id": "ef18cb930fea86b9",
       "title": "Kuwait accuses Iran of targeting civilian sites after attacks spark fires.",
       "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/kuwait-power-water-facilities-attacks",
@@ -97,5 +109,5 @@
       "pushedAt": "2026-07-17T15:44:26.673Z"
     }
   ],
-  "updatedAt": "2026-07-18T14:37:53.189Z"
+  "updatedAt": "2026-07-18T15:33:11.855Z"
 }
