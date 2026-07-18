@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ef18cb930fea86b9",
+      "title": "Kuwait accuses Iran of targeting civilian sites after attacks spark fires.",
+      "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/kuwait-power-water-facilities-attacks",
+      "source": "NYT",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + civilian"
+      ],
+      "firstSeen": "2026-07-18T14:37:53.095Z",
+      "pushedAt": "2026-07-18T14:37:53.095Z"
+    },
+    {
       "id": "8cfa7dcce9e95ebe",
       "title": "The sell-off for AI stars worsens, while oil prices keep jumping - AP News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjhsV0pGUU1wc3ZYY09ocnNhWDFWMGtwSXhoN3ZaRDEyNG5Eb3JpeWlmeWR4RHUyNmFfNzhSTmEyclZLaW91UFdsN2hUWHF3STczc0xMQnBTeG5QUEs1LTlLTDBMN3UtMHM5ZDdEVGRNR3cxcVdJM3luUEQ2Ry00V2hCdnVyQm1XR1lHdENWVTFEMWF6eFNQUHBR?oc=5",
@@ -83,79 +95,7 @@
       ],
       "firstSeen": "2026-07-17T15:44:26.673Z",
       "pushedAt": "2026-07-17T15:44:26.673Z"
-    },
-    {
-      "id": "a6ffa1aead926902",
-      "title": "Wall St futures slip as chip stocks drag; Netflix tumbles - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXBLd3owVnZENU9mMVBIZUg5UjJoT1RtdmJ6UkdJNzJOVmxXdVFtT2FWYzU4c1pQSzkybmNBRHUwMnBxeURFY01ZQ3ptMkg0TFR2dGpQblJSSWRNVThEYlBXZWNVZjQtTWswdUdLR2M4SXhXWGtRNER2UlgyU1ctQkR6Y0ZSWWYzV2tyc2FtMHhfZGNMU0xZdlRGN0hXYXVkRWk0QkdpV0o4dEU?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + stock"
-      ],
-      "firstSeen": "2026-07-17T12:47:13.125Z",
-      "pushedAt": "2026-07-17T12:47:13.125Z"
-    },
-    {
-      "id": "8fd14703296396e2",
-      "title": "Oil prices rise after Kuwait says Iran attacked water desalination and power plant",
-      "url": "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-07-17T12:47:13.257Z",
-      "pushedAt": "2026-07-17T12:47:13.257Z"
-    },
-    {
-      "id": "dfa9fe7dd07744ad",
-      "title": "Greece says EU sanctions against Russia risk ceding LNG market share to rivals - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVzkxeFRrT2JJNTlNa0laY2xnX1dyOFMxczZDMVlFRldrMHRpWVptYkx6V2ZuaDh3TV9VQmYwbTVQVkZzeU80QVdvMENaX1VvTjNmYnBDRS1qYjNvZEZrLXpXZVRXVUUteXhHc2NHaWxpSnRJdXpqY2VoWENhOEJQeXd5UlFtdXhiMExoaS1pU0FSelVKa2hsSkJrYWZISDFVN19DY19SSGQ5aUZMbEh6ZUlPNkx6T0x5S0FVa1RQTVJmc2dxd1E?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-07-17T11:42:51.693Z",
-      "pushedAt": "2026-07-17T11:42:51.693Z"
-    },
-    {
-      "id": "ca33992a45b491f4",
-      "title": "China's oil imports have plunged during the Iran war. How much will they recover? - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTI1OFgyZ3BIUU40N1NsczgyREZuR211NVlMQXAtdTVmOWduRF9YOEJPVHd1QkJsV0xhek9aenVtY2gyMWNPc2JyMzBvRnZIUC1mY0QzSFdqbkQyWThzTnJ6VDRVcUdHTWJfXzE5ZER3WHpTay12RlJQOTlpdUpXRmh2Q3ZVSDRzTEl3UE80WG0xSVc3eTN2LTNlbmxBbGpuQ1RVWkE5Q1JDNEMwdlhzUHdvWFJnc3JxX3RYd2l0QWYzWF9V?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + oil"
-      ],
-      "firstSeen": "2026-07-17T10:18:48.039Z",
-      "pushedAt": "2026-07-17T10:18:48.039Z"
-    },
-    {
-      "id": "e4b62bc6dc2d709b",
-      "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + impose"
-      ],
-      "firstSeen": "2026-07-17T08:31:14.943Z",
-      "pushedAt": "2026-07-17T08:31:14.943Z"
-    },
-    {
-      "id": "35bb5e71f55c7958",
-      "title": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcU5Ec2J3b2lDc21BVGR3cWYxV185VjZLdk9tTzlndk5Tc3hPblNOQXVZY3hrYjU3bW9Mek9yZXVFV2tUV2d1NThXTnZ5SkhucHh4X3VPTlkxdk9SX2FlTndvTWRRUnB4ak01QmFWVzQ2RzVaYk1pWU1VMElXRW5jaFM5czAzR2VWeF9neExJZlgwaDhvV2pJbWh4LWV1bWJ5bnRRZmVyckRhNFNwNkVjdEJGdlFYbHc4d2FBTEx0U0ZsRFVaT1RIUmNNWHlrdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-07-17T06:24:46.267Z",
-      "pushedAt": "2026-07-17T06:24:46.267Z"
     }
   ],
-  "updatedAt": "2026-07-18T05:10:23.391Z"
+  "updatedAt": "2026-07-18T14:37:53.189Z"
 }
