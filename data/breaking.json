@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4404ac58b46a49b4",
+      "title": "Federal judge bars Trump administration from using obscure clause to make huge funding cuts - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVREcjZLbkZKZy1kSF9aLXhDYjY2NkQwdl9GSEJnWUIzbWpiMC1hLUFVZjJwZFEtM2JXbnFaNjd4eXFNRHQ0NUVQaGxvSVNXTVJxYjBCc0JveFVEd0dwblh2djZMeGo0eEN6Ym5qU0h4OTM5MFVydjRESHotSnhVNXQ1SFpjVU1mWXFWak9YNzBxLWI2MXR0Y1E2X0VBTFVNbE1VVg?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + cut"
+      ],
+      "firstSeen": "2026-07-18T02:34:48.973Z",
+      "pushedAt": "2026-07-18T02:34:48.973Z"
+    },
+    {
       "id": "7b7d65cba6ad054f",
       "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
       "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
@@ -143,19 +155,7 @@
       ],
       "firstSeen": "2026-07-17T04:08:53.552Z",
       "pushedAt": "2026-07-17T04:08:53.552Z"
-    },
-    {
-      "id": "4fa827e27355eefc",
-      "title": "Netflix earnings forecast disappoints investors, shares tumble - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaElBaG14Wm9OcTNhcTdGWVdBUWRnN0NqY2pBOUhkajZ0V3Jnb2FsbkUyd3J5bUY2TG9kM2gzanFkODEtdVZpR3UxZmNyeU9VYjBwTGtzd0c0R0Y0ZEpqd0k5WEtnRWpCT3pEaURUNzFmZmt2bDVyQUsxX2poOVFiVFg2OG9wQzR1bDBUQ3lNMDZ1SUJNenBOQmdod1N0LVpJM3RodzhKelhDTXVtTVJfM2dldmZVMFVfYUZSaGpKajNrN1djdW10T1NfSjhGUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tumble + shares"
-      ],
-      "firstSeen": "2026-07-16T21:39:40.379Z",
-      "pushedAt": "2026-07-16T21:39:40.379Z"
     }
   ],
-  "updatedAt": "2026-07-17T21:24:12.436Z"
+  "updatedAt": "2026-07-18T02:34:49.294Z"
 }
