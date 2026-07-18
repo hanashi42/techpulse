@@ -1,0 +1,1420 @@
+{
+  "date": "2026-07-18",
+  "items": [
+    {
+      "id": "gh-1300902838",
+      "source": "github",
+      "title": "xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "url": "https://github.com/xai-org/grok-build",
+      "score": 17478,
+      "category": "tech",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "extra": {
+        "language": "Rust",
+        "stars": 17478,
+        "forks": 3196
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1301597356",
+      "source": "github",
+      "title": "Fei-Away/Codex-Dream-Skin: Codex Dream Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "score": 9259,
+      "category": "tech",
+      "description": "Codex Dream Skin",
+      "extra": {
+        "language": "JavaScript",
+        "stars": 9259,
+        "forks": 976
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1300584797",
+      "source": "github",
+      "title": "CluvexStudio/Aether: ",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "score": 1190,
+      "category": "tech",
+      "description": "",
+      "extra": {
+        "language": "Rust",
+        "stars": 1190,
+        "forks": 69
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1299007583",
+      "source": "github",
+      "title": "pixel-point/aval: A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "url": "https://github.com/pixel-point/aval",
+      "score": 1181,
+      "category": "tech",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 1181,
+        "forks": 65
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "hn-48945241",
+      "source": "hackernews",
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "score": 1178,
+      "comments": 702,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48945241",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "gh-1298890549",
+      "source": "github",
+      "title": "littledivy/mimic: Intercept any app, then call it from Python like a library",
+      "url": "https://github.com/littledivy/mimic",
+      "score": 1152,
+      "category": "tech",
+      "description": "Intercept any app, then call it from Python like a library",
+      "extra": {
+        "language": "Python",
+        "stars": 1152,
+        "forks": 69
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1302398032",
+      "source": "github",
+      "title": "tandpfun/wardrobe: Your clothes, extracted and organized with gpt-image.",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "score": 954,
+      "category": "tech",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "extra": {
+        "language": "JavaScript",
+        "stars": 954,
+        "forks": 143
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1298189234",
+      "source": "github",
+      "title": "mereyabdenbekuly-ctrl/clodex-ide: Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "score": 834,
+      "category": "tech",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 834,
+        "forks": 150
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1298660286",
+      "source": "github",
+      "title": "x4gKing/Marzban-Panel: ",
+      "url": "https://github.com/x4gKing/Marzban-Panel",
+      "score": 806,
+      "category": "tech",
+      "description": "",
+      "extra": {
+        "language": "Dockerfile",
+        "stars": 806,
+        "forks": 1491
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1298346646",
+      "source": "github",
+      "title": "Kappaemme-git/codex-first-customer-finder-skill: A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "score": 800,
+      "category": "tech",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "extra": {
+        "language": "Python",
+        "stars": 800,
+        "forks": 83
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1298998324",
+      "source": "github",
+      "title": "oil-oil/beautify-github-readme: Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "score": 779,
+      "category": "tech",
+      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "extra": {
+        "language": "Python",
+        "stars": 779,
+        "forks": 44
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1298660599",
+      "source": "github",
+      "title": "x4gKing/Marzban-Node: ",
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "score": 689,
+      "category": "tech",
+      "description": "",
+      "extra": {
+        "language": "Dockerfile",
+        "stars": 689,
+        "forks": 1344
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1299820860",
+      "source": "github",
+      "title": "KubeezMedia/kubeez-scroll-world-video: Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+      "score": 649,
+      "category": "tech",
+      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+      "extra": {
+        "language": "JavaScript",
+        "stars": 649,
+        "forks": 4
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "hn-48949551",
+      "source": "hackernews",
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "score": 584,
+      "comments": 57,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48949551",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "gh-1300909192",
+      "source": "github",
+      "title": "MatinSenPai/Aether-GUI: One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "score": 567,
+      "category": "tech",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 567,
+        "forks": 25
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "gh-1302077273",
+      "source": "github",
+      "title": "Blueturboguy07/cue: Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "score": 507,
+      "category": "tech",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "extra": {
+        "language": "JavaScript",
+        "stars": 507,
+        "forks": 103
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "hn-48952880",
+      "source": "hackernews",
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 506,
+      "comments": 326,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48952880",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "gh-1302446279",
+      "source": "github",
+      "title": "pablostanley/yoinks: yoink any video from your terminal. no shady ads.",
+      "url": "https://github.com/pablostanley/yoinks",
+      "score": 490,
+      "category": "tech",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "extra": {
+        "language": "TypeScript",
+        "stars": 490,
+        "forks": 46
+      },
+      "fetchedAt": "2026-07-18T09:36:24.563Z"
+    },
+    {
+      "id": "hn-48947560",
+      "source": "hackernews",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "score": 456,
+      "comments": 271,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48947560",
+      "category": "life",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48947825",
+      "source": "hackernews",
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "score": 437,
+      "comments": 315,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48947825",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48947717",
+      "source": "hackernews",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "score": 336,
+      "comments": 179,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48947717",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48954851",
+      "source": "hackernews",
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "score": 319,
+      "comments": 28,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48954851",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48950122",
+      "source": "hackernews",
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "score": 252,
+      "comments": 66,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48950122",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48951461",
+      "source": "hackernews",
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 224,
+      "comments": 77,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48951461",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48896149",
+      "source": "hackernews",
+      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+      "url": "https://prathosh.in/vagdhenu/",
+      "score": 168,
+      "comments": 43,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48896149",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48952565",
+      "source": "hackernews",
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "score": 127,
+      "comments": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48952565",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48950518",
+      "source": "hackernews",
+      "title": "Lego building instructions through time",
+      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+      "score": 124,
+      "comments": 30,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48950518",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48951898",
+      "source": "hackernews",
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "score": 122,
+      "comments": 6,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48951898",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48952135",
+      "source": "hackernews",
+      "title": "Open Book Touch: open-source e-reader",
+      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "score": 113,
+      "comments": 36,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48952135",
+      "category": "life",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48907063",
+      "source": "hackernews",
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "score": 105,
+      "comments": 68,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48907063",
+      "category": "life",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48887102",
+      "source": "hackernews",
+      "title": "Frank Lloyd Wright’s first home",
+      "url": "https://www.architecturaldigest.com/story/frank-lloyd-wright-home-and-studio-everything-you-need-to-know",
+      "score": 102,
+      "comments": 53,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48887102",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48951780",
+      "source": "hackernews",
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "score": 93,
+      "comments": 48,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48951780",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48950774",
+      "source": "hackernews",
+      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
+      "url": "https://app.everything.diena.co/",
+      "score": 93,
+      "comments": 33,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48950774",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48954149",
+      "source": "hackernews",
+      "title": "I started a “dirt notebook”",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "score": 64,
+      "comments": 54,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48954149",
+      "category": "life",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "hn-48953981",
+      "source": "hackernews",
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "url": "https://www.stenchill.com/en/",
+      "score": 53,
+      "comments": 13,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48953981",
+      "category": "tech",
+      "fetchedAt": "2026-07-18T09:36:25.867Z"
+    },
+    {
+      "id": "reddit-claude-9b86bd25de41",
+      "source": "reddit-claude",
+      "title": "Can’t open the VSCode Claude extension on phone",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzrbmn/cant_open_the_vscode_claude_extension_on_phone/",
+      "score": 10,
+      "category": "tech",
+      "description": "Hey everyone, I’ve installed VSCode on a private VPS with code server to be able to access it and code anywhere from my iPhone but when I installed the Claude extension, it does not load on my iPhone.",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "reddit-claude-78e7389b4822",
+      "source": "reddit-claude",
+      "title": "“I’d gently push back on that”",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzrb2b/id_gently_push_back_on_that/",
+      "score": 9,
+      "category": "tech",
+      "description": "Does anyone else get this constantly? It drives me up the wall. It doesn’t matter if you’ve explicitly asked for directness, Claude always seems to have this one phrase, “gently push back” whenever it",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "reddit-claude-7666d5c4d7ce",
+      "source": "reddit-claude",
+      "title": "Token Economics - Do you have a good model for estimating token consumption?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzr7wx/token_economics_do_you_have_a_good_model_for/",
+      "score": 8,
+      "category": "forme",
+      "description": "Hi all, I'm about to define a workflow that involves a few agents and super-agents. I'd like to ask if/how you have evalutated token consumption and if you have a model to recommend. thank you! submit",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "reddit-claude-e2045f3053ed",
+      "source": "reddit-claude",
+      "title": "Temporarily boosted limit?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzr667/temporarily_boosted_limit/",
+      "score": 7,
+      "category": "forme",
+      "description": "This is what popped up for me at the moment. I didn't have it there before. Did they put it there today? submitted by /u/JeyC0b [link] [comments]",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "reddit-claude-6b50d2c0fbe6",
+      "source": "reddit-claude",
+      "title": "Claude Certified Architect CCAF certification",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzqdah/claude_certified_architect_ccaf_certification/",
+      "score": 6,
+      "category": "tech",
+      "description": "🚀 Excited to share a new milestone in my AI journey! I'm proud to have earned the Claude Certified Architect – Foundations certification from Anthropic with a score of 890/1000 (Passing Score: 720). ",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "malaymail-2f5241def894",
+      "source": "malaymail",
+      "title": "Too much, not too little: Deputy premier Dr Sim says overeating is now Sarawak’s bigger health challenge",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/18/too-much-not-too-little-deputy-premier-dr-sim-says-overeating-is-now-sarawaks-bigger-health-challenge/228127",
+      "score": 5,
+      "category": "malaysia",
+      "description": "KUCHING, July 18 — Public health policies should place greater emphasis on tackling overnutrition, as it is a majo...",
+      "fetchedAt": "2026-07-18T09:36:24.216Z"
+    },
+    {
+      "id": "malaymail-33afac3302d4",
+      "source": "malaymail",
+      "title": "‘Hello space, we have arrived’: India’s first private orbital launch succeeds",
+      "url": "https://www.malaymail.com/news/money/2026/07/18/hello-space-we-have-arrived-indias-first-private-orbital-launch-succeeds/228119",
+      "score": 5,
+      "category": "tech",
+      "description": "SRIHARIKOTA, July 18 — India&rsquo;s first privately built orbital rocket took its maiden flight on Saturday, its...",
+      "fetchedAt": "2026-07-18T09:36:24.217Z"
+    },
+    {
+      "id": "fmt-1030a2c7c862",
+      "source": "fmt",
+      "title": "India’s Skyroot launches Vikram-1 in first private orbital rocket mission",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/07/18/indias-skyroot-launches-vikram-1-in-first-private-orbital-rocket-mission",
+      "score": 5,
+      "category": "tech",
+      "description": "The rocket lifted off from the Satish Dhawan Space Centre in Sriharikota at 0635 GMT, carrying several payloads and in-orbit experiments on its mission.",
+      "fetchedAt": "2026-07-18T09:36:24.218Z"
+    },
+    {
+      "id": "malaysiakini-376ed3da2a48",
+      "source": "malaysiakini",
+      "title": "From PN camp, Albert calls Harapan supporters 'barking dogs'",
+      "url": "https://www.malaysiakini.com/news/780042",
+      "score": 5,
+      "category": "malaysia",
+      "description": "Businessperson says he referred to those who provoked and insulted him.",
+      "fetchedAt": "2026-07-18T09:36:24.219Z"
+    },
+    {
+      "id": "bernama-73b820f528fb",
+      "source": "bernama",
+      "title": "General : Cost Of Living Among Three Core Pillars For Streamlining Diesel Subsidy Mechanism In Sabah And Sarawak",
+      "url": "http://www.bernama.com/en/news.php?id=2582653",
+      "score": 5,
+      "category": "malaysia",
+      "description": "KUALA PENYU, July 18 (Bernama) -- Three core pillars of improvement - namely the impact on the people's cost of living, the management of leakage risks, and the government's fiscal space position - se",
+      "fetchedAt": "2026-07-18T09:36:24.220Z"
+    },
+    {
+      "id": "bbc-6fe90bd98afa",
+      "source": "bbc",
+      "title": "US strikes hit Iran for seventh consecutive night",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "score": 5,
+      "category": "world",
+      "description": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+      "fetchedAt": "2026-07-18T09:36:24.223Z"
+    },
+    {
+      "id": "bbc-7d57c5821ff3",
+      "source": "bbc",
+      "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+      "url": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss",
+      "score": 5,
+      "category": "world",
+      "description": "Defectors tell the BBC that despite restrictions, K-pop has cut through in the stifling dictatorship.",
+      "fetchedAt": "2026-07-18T09:36:24.224Z"
+    },
+    {
+      "id": "scmp-8a85439e3be9",
+      "source": "scmp",
+      "title": "Germany to scale back renewable subsidies amid power grid strain",
+      "url": "https://www.scmp.com/news/world/europe/article/3361045/germany-scale-back-renewable-subsidies-amid-power-grid-strain?utm_source=rss_feed",
+      "score": 5,
+      "category": "world",
+      "description": "Germany plans to scale back renewable-energy subsidies in a sweeping overhaul of its funding system, as surging solar output puts growing strain on the country’s power grid. From 2027, new renewable g",
+      "fetchedAt": "2026-07-18T09:36:24.225Z"
+    },
+    {
+      "id": "soyacincau-592906410ce6",
+      "source": "soyacincau",
+      "title": "DC Handal deploys 4 EV charge points at Pearl City Mall Penang",
+      "url": "https://soyacincau.com/2026/07/18/dc-handal-ev-charger-pearl-city-mall-penang/",
+      "score": 5,
+      "category": "malaysia",
+      "description": "DC Handal has just turned on its new EV chargers at Pearl City Mall which serves the Bandar Tasek Mutiara area of Simpang Ampat in Penang. With a total of 4 EV charge points, this is an ideal EV charg",
+      "fetchedAt": "2026-07-18T09:36:24.228Z"
+    },
+    {
+      "id": "vulcanpost-e0ba01153fb4",
+      "source": "vulcanpost",
+      "title": "BreadTalk, Jumbo, SongFa: Why S’pore’s F&B giants are retreating from China",
+      "url": "https://vulcanpost.com/912319/why-singapores-fb-giants-are-retreating-from-china/",
+      "score": 5,
+      "category": "tech",
+      "description": "Singapore brands used to thrive in China. Today, they’re fighting to survive. For about two decades, a Singapore brand in a Chinese shopping mall exuded “quality,” “hygiene,” “trustworthy”—a halo effe",
+      "fetchedAt": "2026-07-18T09:36:24.229Z"
+    },
+    {
+      "id": "ringgitplus-cc37c93c090b",
+      "source": "ringgitplus",
+      "title": "Malaysians Have Spent RM3.45 Billion In Sara Aid This Year",
+      "url": "https://ringgitplus.com/en/blog/personal-finance-news/malaysians-have-spent-rm3-45-billion-in-sara-aid-this-year.html",
+      "score": 5,
+      "category": "malaysia",
+      "description": "Nearly nine million Sumbangan Tunai Rahmah (STR) recipients have used 99% of their monthly Sumbangan Asas Rahmah (Sara) […] The post Malaysians Have Spent RM3.45 Billion In Sara Aid This Year appeared",
+      "fetchedAt": "2026-07-18T09:36:24.230Z"
+    },
+    {
+      "id": "everydayonsales-3aeba36ed3ca",
+      "source": "everydayonsales",
+      "title": "18–20 July 2026: Ai-CHA Malaysia Grand Opening Promotion at Caltex Simpang Gambang – Free Ice Cream Cone with Every Drink Purchase in Pahang",
+      "url": "https://www.everydayonsales.com/927500/18-20-july-2026-ai-cha-malaysia-grand-opening-promotion-at-caltex-simpang-gambang-free-ice-cream-cone-with-every-drink-purchase-in-pahang/#utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=18-20-july-2026-ai-cha-malaysia-grand-opening-promotion-at-caltex-simpang-gambang-free-ice-cream-cone-with-every-drink-purchase-in-pahang",
+      "score": 5,
+      "category": "malaysia",
+      "description": "Enjoy the Ai-CHA Malaysia Grand Opening Promotion at Caltex Simpang Gambang from 18–20 July 2026. Purchase any drink and receive a complimentary Ice Cream Cone while celebrating the opening of their n",
+      "fetchedAt": "2026-07-18T09:36:24.230Z"
+    },
+    {
+      "id": "coindesk-28748d2b2bfd",
+      "source": "coindesk",
+      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+      "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
+      "score": 5,
+      "category": "forme",
+      "description": "Polymarket bettors have cut the odds of the CLARITY Act passing this year to a record low as Senate negotiations over ethics provisions remain unresolved.",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "reddit-claude-000142de1733",
+      "source": "reddit-claude",
+      "title": "I initiated a self-help session with Claude, and it made a really nicely weighted joke.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzq22w/i_initiated_a_selfhelp_session_with_claude_and_it/",
+      "score": 5,
+      "category": "tech",
+      "description": "If you ask for jokes, then AI can deliver. No biggie. But what about if you don't ask for a joke? What if it adds a sensitive chuckle to a serious conversation? Context: we'd been discussing my tenden",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "malaymail-9c86469e6ccd",
+      "source": "malaymail",
+      "title": "Roofs torn off as fierce winds lash Sibu Jaya, no injuries reported",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/18/roofs-torn-off-as-fierce-winds-lash-sibu-jaya-no-injuries-reported/228126",
+      "score": 4,
+      "category": "tech",
+      "description": "SIBU, July 18 —Several houses in Sibu Jaya sustained roof damage after strong winds accompanied by a heavy downpou...",
+      "fetchedAt": "2026-07-18T09:36:24.216Z"
+    },
+    {
+      "id": "malaymail-50c886c4fdc7",
+      "source": "malaymail",
+      "title": "Boeing sees demand for 44,000 new fuel-efficient jets over next 20 years",
+      "url": "https://www.malaymail.com/news/money/2026/07/18/boeing-sees-demand-for-44000-new-fuel-efficient-jets-over-next-20-years/228048",
+      "score": 4,
+      "category": "money",
+      "description": "NEW YORK, July 18 — Boeing projected Friday a global commercial fleet of 50,000 planes in 2045, more than 90 per c...",
+      "fetchedAt": "2026-07-18T09:36:24.217Z"
+    },
+    {
+      "id": "fmt-19b1ed7da148",
+      "source": "fmt",
+      "title": "Kanak-kanak terdedah pornografi seawal sekolah rendah, kata pakar",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/07/18/kanak-kanak-terdedah-pornografi-seawal-sekolah-rendah-kata-pakar",
+      "score": 4,
+      "category": "world",
+      "description": "Menurut pakar, pendedahan awal kepada pornografi boleh pengaruhi pemikiran dan tingkah laku kanak-kanak.",
+      "fetchedAt": "2026-07-18T09:36:24.218Z"
+    },
+    {
+      "id": "malaysiakini-818cc12c72ee",
+      "source": "malaysiakini",
+      "title": "Wee: BN-PN pact in N Sembilan not a merger, MCA principles intact",
+      "url": "https://www.malaysiakini.com/news/780035",
+      "score": 4,
+      "category": "malaysia",
+      "description": "UPDATED 5.03PM | Each party retains its own ideology and stance, says MCA president.",
+      "fetchedAt": "2026-07-18T09:36:24.219Z"
+    },
+    {
+      "id": "bernama-39f61e4b1cdd",
+      "source": "bernama",
+      "title": "General : Hot Weather, Damage Pumps Affected Over 400 Hectares Of Padi Crops In Perak",
+      "url": "http://www.bernama.com/en/news.php?id=2582652",
+      "score": 4,
+      "category": "life",
+      "description": "PARIT, July 18 (Bernama) -- More than 400 hectares of padi cultivation in Lambor Kanan, here, have been affected by hot weather, causing farmers to fail to start the second season of cultivation sched",
+      "fetchedAt": "2026-07-18T09:36:24.220Z"
+    },
+    {
+      "id": "bbc-7b7d65cba6ad",
+      "source": "bbc",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "score": 4,
+      "category": "world",
+      "description": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+      "fetchedAt": "2026-07-18T09:36:24.223Z"
+    },
+    {
+      "id": "scmp-7898cc5e0419",
+      "source": "scmp",
+      "title": "How World Cup star Haaland helped put Norway on the map with China’s tourists",
+      "url": "https://www.scmp.com/economy/china-economy/article/3360936/how-world-cup-star-haaland-helped-put-norway-map-chinas-tourists?utm_source=rss_feed",
+      "score": 4,
+      "category": "world",
+      "description": "As Norwegian World Cup footballer Erling Haaland’s herbal drink advertising blitz captivates millions, his home country has emerged as a popular destination for Chinese travellers. An increasing numbe",
+      "fetchedAt": "2026-07-18T09:36:24.225Z"
+    },
+    {
+      "id": "soyacincau-720756618ab4",
+      "source": "soyacincau",
+      "title": "redONE Mobile and Sinar Harian to Host FIFA World Cup Final Live Screening in Shah Alam",
+      "url": "https://soyacincau.com/2026/07/18/redone-and-sinar-harian-to-host-fifa-world-cup-final-live-screening-in-shah-alam/",
+      "score": 4,
+      "category": "malaysia",
+      "description": "Malaysian Mobile Virtual Network Operator (MVNO) redONE Mobile has announced a collaboration with media outlet Sinar Harian to host the Riuh Bola Sinar x redONE Mobile: World Cup Final Live Viewing Pa",
+      "fetchedAt": "2026-07-18T09:36:24.228Z"
+    },
+    {
+      "id": "ringgitplus-6360bce942a1",
+      "source": "ringgitplus",
+      "title": "PRS Assets Under Management Reach Record RM10.9 Billion",
+      "url": "https://ringgitplus.com/en/blog/personal-finance-news/prs-assets-under-management-reach-record-rm10-9-billion.html",
+      "score": 4,
+      "category": "malaysia",
+      "description": "The total assets under management (AUM) of Malaysia’s Private Retirement Scheme (PRS) have reached a record RM10.9 billion, […] The post PRS Assets Under Management Reach Record RM10.9 Billion appeare",
+      "fetchedAt": "2026-07-18T09:36:24.230Z"
+    },
+    {
+      "id": "everydayonsales-0213afe6a9fa",
+      "source": "everydayonsales",
+      "title": "24-26 July 2026: Japan Expo Malaysia 2026 ZIPANG Live Performance at Kuala Lumpur Convention Centre with Free Admission",
+      "url": "https://www.everydayonsales.com/927506/24-26-july-2026-japan-expo-malaysia-2026-zipang-live-performance-at-kuala-lumpur-convention-centre-with-free-admission/#utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=24-26-july-2026-japan-expo-malaysia-2026-zipang-live-performance-at-kuala-lumpur-convention-centre-with-free-admission",
+      "score": 4,
+      "category": "malaysia",
+      "description": "Enjoy a fantastic weekend at Japan Expo Malaysia 2026 from 24-26 July 2026 at Kuala Lumpur Convention Centre. Experience the exciting ZIPANG live performance, Japanese culture, delicious food, shoppin",
+      "fetchedAt": "2026-07-18T09:36:24.230Z"
+    },
+    {
+      "id": "coindesk-06c9f535737f",
+      "source": "coindesk",
+      "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
+      "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
+      "score": 4,
+      "category": "money",
+      "description": "Crypto and blockchain experts say this week's moves show the two established finance companies are increasingly competing for control of the infrastructure behind digital payments.",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "reddit-claude-ff84fa467b0b",
+      "source": "reddit-claude",
+      "title": "Got a cybersec flag... using sonnet 5?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzq0p2/got_a_cybersec_flag_using_sonnet_5/",
+      "score": 4,
+      "category": "world",
+      "description": "https://preview.redd.it/xutazt9w4ydh1.png?width=1894&format=png&auto=webp&s=5efacdb296cf805731a588269d9dd06d50ce0f88 Was asking sonnet to fix some code that IT WROTE FOR ME already, and... got a cyber",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "malaymail-248d4e992060",
+      "source": "malaymail",
+      "title": "Muhyiddin claims Bersatu is Parliament’s only true Opposition amid shifting alliances",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/18/muhyiddin-claims-bersatu-is-parliaments-only-true-opposition-amid-shifting-alliances/228125",
+      "score": 3,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, July 18 — Tan Sri Muhyiddin Yassin has claimed Parti Pribumi Bersatu Malaysia is now the country&rsq...",
+      "fetchedAt": "2026-07-18T09:36:24.216Z"
+    },
+    {
+      "id": "malaymail-7fe1c8a40085",
+      "source": "malaymail",
+      "title": "‘This is how you lose’: New Chinese AI model Kimi K3 stuns Silicon Valley’s elite",
+      "url": "https://www.malaymail.com/news/money/2026/07/18/this-is-how-you-lose-new-chinese-ai-model-kimi-k3-stuns-silicon-valleys-elite/228030",
+      "score": 3,
+      "category": "tech",
+      "description": "WASHINGTON, July 18 — Kimi K3, a new artificial intelligence program from a Chinese startup called Moonshot...",
+      "fetchedAt": "2026-07-18T09:36:24.217Z"
+    },
+    {
+      "id": "fmt-475f9714244c",
+      "source": "fmt",
+      "title": "SPRM siasat kerugian RM200 juta KWAP dalam eFishery",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/07/18/sprm-siasat-kerugian-rm200-juta-kwap-dalam-efishery",
+      "score": 3,
+      "category": "malaysia",
+      "description": "Ketua Pesuruhjaya Abd Halim Aman berkata siasatan sudah bermula sejak semalam.",
+      "fetchedAt": "2026-07-18T09:36:24.218Z"
+    },
+    {
+      "id": "malaysiakini-e701260ea94a",
+      "source": "malaysiakini",
+      "title": "SNAPSHOT | BN-PN ties based on friendship, brotherhood - Hadi; Tok Mat says keep adat out of polls campaign",
+      "url": "https://www.malaysiakini.com/news/780030",
+      "score": 3,
+      "category": "malaysia",
+      "description": "What's going on in the news today, with updates at 11am, 2pm, and 6pm.",
+      "fetchedAt": "2026-07-18T09:36:24.219Z"
+    },
+    {
+      "id": "bernama-e50a4bfe0c84",
+      "source": "bernama",
+      "title": "General : JKPTG Clinic Helps Public Understand Land Rights, Procedures",
+      "url": "http://www.bernama.com/en/news.php?id=2582650",
+      "score": 3,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, July 18 (Bernama) -- The Department of Director General of Lands and Mines (JKPTG) held a Land Administration Consultation Clinic in conjunction with the 10th National Land Day at KL Sen",
+      "fetchedAt": "2026-07-18T09:36:24.220Z"
+    },
+    {
+      "id": "bbc-94ef5ec5bf2d",
+      "source": "bbc",
+      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "score": 3,
+      "category": "world",
+      "description": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+      "fetchedAt": "2026-07-18T09:36:24.223Z"
+    },
+    {
+      "id": "bbc-d6e7a4899f1b",
+      "source": "bbc",
+      "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
+      "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+      "score": 3,
+      "category": "life",
+      "description": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
+      "fetchedAt": "2026-07-18T09:36:24.224Z"
+    },
+    {
+      "id": "scmp-2e45fd42c258",
+      "source": "scmp",
+      "title": "UK’s Burnham faces test as Trump seeks British bases for Iran attack",
+      "url": "https://www.scmp.com/news/world/europe/article/3361030/uks-burnham-faces-test-trump-seeks-british-bases-iran-attack?utm_source=rss_feed",
+      "score": 3,
+      "category": "world",
+      "description": "The resumption of US strikes against Iran has thrust incoming UK Prime Minister Andy Burnham into a potential day one decision on how much to support Britain’s closest ally in its controversial milita",
+      "fetchedAt": "2026-07-18T09:36:24.225Z"
+    },
+    {
+      "id": "soyacincau-83ccedcde71b",
+      "source": "soyacincau",
+      "title": "Samsung Galaxy Z Fold 8 and Z Fold 8 Ultra promo images leak ahead of launch",
+      "url": "https://soyacincau.com/2026/07/18/samsung-galaxy-z-fold-8-and-z-fold-8-ultra-evleaks/",
+      "score": 3,
+      "category": "tech",
+      "description": "The Samsung Galaxy Z Fold 8 and Z Flip 8 foldables are scheduled to be revealed next week but now we get to see them in its full glory ahead of launch. Serial leakster Evan Blass (aka EVLeaks) has rev",
+      "fetchedAt": "2026-07-18T09:36:24.228Z"
+    },
+    {
+      "id": "ringgitplus-2dbdbc156aec",
+      "source": "ringgitplus",
+      "title": "Nearly 78% Of The Government’s Medicine Spending Went To Generics",
+      "url": "https://ringgitplus.com/en/blog/personal-finance-news/nearly-78-of-the-governments-medicine-spending-went-to-generics.html",
+      "score": 3,
+      "category": "malaysia",
+      "description": "Nearly four out of every five ringgit the Ministry of Health (MOH) spent on medicines last year went […] The post Nearly 78% Of The Government’s Medicine Spending Went To Generics appeared first on Ri",
+      "fetchedAt": "2026-07-18T09:36:24.230Z"
+    },
+    {
+      "id": "everydayonsales-d997fd6e76e3",
+      "source": "everydayonsales",
+      "title": "Now till 20 July 2026: Batik Air Malaysia Flash Sale Promotion – Airfares from RM409 with Free Baggage Allowance for Selected Destinations",
+      "url": "https://www.everydayonsales.com/927503/now-till-20-july-2026-batik-air-malaysia-flash-sale-promotion-airfares-from-rm409-with-free-baggage-allowance-for-selected-destinations/#utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=now-till-20-july-2026-batik-air-malaysia-flash-sale-promotion-airfares-from-rm409-with-free-baggage-allowance-for-selected-destinations",
+      "score": 3,
+      "category": "life",
+      "description": "Planning an overseas holiday? Batik Air Malaysia is offering a limited-time Flash Sale with airfares from just RM409 plus free checked baggage on selected international routes. Book by 20 July 2026 an",
+      "fetchedAt": "2026-07-18T09:36:24.230Z"
+    },
+    {
+      "id": "coindesk-db4cc8cb4881",
+      "source": "coindesk",
+      "title": "Cardano hands core development to outside teams in decentralization push",
+      "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
+      "score": 3,
+      "category": "life",
+      "description": "Input Output will transfer control of the Haskell node, Plutus, Hydra and other components as founder Charles Hoskinson says the network must change and start growing again.",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "reddit-claude-56bb143a5c45",
+      "source": "reddit-claude",
+      "title": "LLMs show hidden bias in favor of their creators (e.g. Claude favors Anthropic)",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzpc74/llms_show_hidden_bias_in_favor_of_their_creators/",
+      "score": 3,
+      "category": "tech",
+      "description": "submitted by /u/EchoOfOppenheimer [link] [comments]",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "malaymail-2ed1e3882716",
+      "source": "malaymail",
+      "title": "Three Form One boys in Kangar under police investigation over alleged bullying that left classmate with fractured ankle",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/18/three-form-one-boys-in-kangar-under-police-investigation-over-alleged-bullying-that-left-classmate-with-fractured-ankle/228124",
+      "score": 2,
+      "category": "malaysia",
+      "description": "KANGAR, July 18 — Three Form One students at a secondary school here have been remanded for two days from today to...",
+      "fetchedAt": "2026-07-18T09:36:24.216Z"
+    },
+    {
+      "id": "malaymail-9edd5d3e54f7",
+      "source": "malaymail",
+      "title": "Wall Street just had its worst day in weeks — and the reasons are bigger than tech",
+      "url": "https://www.malaymail.com/news/money/2026/07/18/wall-street-just-had-its-worst-day-in-weeks-and-the-reasons-are-bigger-than-tech/228027",
+      "score": 2,
+      "category": "money",
+      "description": "NEW YORK, July 18 — Wall Street stocks fell decisively Friday, joining most global markets in retreating on contin...",
+      "fetchedAt": "2026-07-18T09:36:24.217Z"
+    },
+    {
+      "id": "fmt-e39f8c7227ab",
+      "source": "fmt",
+      "title": "Adun lantikan hanya sesuai pada abad ke-20, kata pemimpin DAP",
+      "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/07/18/adun-lantikan-hanya-sesuai-pada-abad-ke-20-kata-pemimpin-dap",
+      "score": 2,
+      "category": "malaysia",
+      "description": "Aziz Bari yang juga pakar undang-undang berkata Adun sepatutnya dipilih secara demokratik.",
+      "fetchedAt": "2026-07-18T09:36:24.218Z"
+    },
+    {
+      "id": "malaysiakini-bb3e9fc70e3d",
+      "source": "malaysiakini",
+      "title": "'No honeymoon': After strong mandate, Onn tells Johor exco to get to work",
+      "url": "https://www.malaysiakini.com/news/780029",
+      "score": 2,
+      "category": "malaysia",
+      "description": "'This appointment is not a privilege.'",
+      "fetchedAt": "2026-07-18T09:36:24.219Z"
+    },
+    {
+      "id": "bernama-be72e96b0e19",
+      "source": "bernama",
+      "title": "Politics : N9 Polls: Appearence Of New Faces Provides A Fresh Option For Voters",
+      "url": "http://www.bernama.com/en/news.php?id=2582646",
+      "score": 2,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, July 18 (Bernama) -- The appearance of new faces in the 16th Negeri Sembilan State Election (PRN) as a combination of old and new candidates fielded by political parties to contest the 3",
+      "fetchedAt": "2026-07-18T09:36:24.220Z"
+    },
+    {
+      "id": "bbc-2d8d8a51ab8e",
+      "source": "bbc",
+      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "score": 2,
+      "category": "life",
+      "description": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+      "fetchedAt": "2026-07-18T09:36:24.223Z"
+    },
+    {
+      "id": "bbc-4a9979c0ac13",
+      "source": "bbc",
+      "title": "More than 500 Rohingya vanished at sea - what happened?",
+      "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+      "score": 2,
+      "category": "world",
+      "description": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
+      "fetchedAt": "2026-07-18T09:36:24.224Z"
+    },
+    {
+      "id": "scmp-05eb21651d4c",
+      "source": "scmp",
+      "title": "UAE’s Hormuz workaround tries to bypass its trillion-dollar economic heart",
+      "url": "https://www.scmp.com/week-asia/economics/article/3360979/uaes-hormuz-workaround-tries-bypass-its-trillion-dollar-economic-heart?utm_source=rss_feed",
+      "score": 2,
+      "category": "money",
+      "description": "Geography has handed the United Arab Emirates quite the quandary: its government wants to cut dependence on the Strait of Hormuz to “zero”, yet the ports that power its economy sit squarely inside the",
+      "fetchedAt": "2026-07-18T09:36:24.225Z"
+    },
+    {
+      "id": "soyacincau-abaa71ef925d",
+      "source": "soyacincau",
+      "title": "ChargEV deploys additional EV chargers at Aeon Mall Cheras Selatan, up to 180kW",
+      "url": "https://soyacincau.com/2026/07/18/chargev-aeon-mall-cheras-selatan-level-2-ev-charger/",
+      "score": 2,
+      "category": "life",
+      "description": "ChargEV has deployed additional chargers at Aeon Mall Cheras Selatan, bringing the total number of EV charge points to 10. The new EV Chargers are deployed at Level 2 which include 2x AC Charge Points",
+      "fetchedAt": "2026-07-18T09:36:24.228Z"
+    },
+    {
+      "id": "ringgitplus-307dcf65f487",
+      "source": "ringgitplus",
+      "title": "Get RM200 Off Apple Products With Alliance Bank’s 0% Instalment Plan",
+      "url": "https://ringgitplus.com/en/blog/bank-news/get-rm200-off-apple-products-with-alliance-banks-0-instalment-plan.html",
+      "score": 2,
+      "category": "money",
+      "description": "Alliance Bank Visa credit cardholders can get an RM200 instant discount on Apple products when they spend at […] The post Get RM200 Off Apple Products With Alliance Bank’s 0% Instalment Plan appeared ",
+      "fetchedAt": "2026-07-18T09:36:24.230Z"
+    },
+    {
+      "id": "everydayonsales-c1923b05b228",
+      "source": "everydayonsales",
+      "title": "13 July–2 August 2026: SSFHOME Malaysia Moving Out Sale at Paradigm Mall Johor Bahru – Enjoy 30% Storewide Furniture & Home Décor Promotion",
+      "url": "https://www.everydayonsales.com/927499/13-july-2-august-2026-ssfhome-malaysia-moving-out-sale-at-paradigm-mall-johor-bahru-enjoy-30-storewide-furniture-home-decor-promotion/#utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=13-july-2-august-2026-ssfhome-malaysia-moving-out-sale-at-paradigm-mall-johor-bahru-enjoy-30-storewide-furniture-home-decor-promotion",
+      "score": 2,
+      "category": "malaysia",
+      "description": "SSFHOME Malaysia has extended their Moving Out Sale at Paradigm Mall Johor Bahru from 13 July until 2 August 2026. Enjoy 30% OFF storewide on furniture, home décor and household essentials before the ",
+      "fetchedAt": "2026-07-18T09:36:24.230Z"
+    },
+    {
+      "id": "coindesk-be370917ec4d",
+      "source": "coindesk",
+      "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
+      "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
+      "score": 2,
+      "category": "forme",
+      "description": "The company says its advantage lies in bringing retail customers onchain, but early activity remains dominated by memecoins, while its original tokenization vision remains small.",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "reddit-claude-fca0d5dfded7",
+      "source": "reddit-claude",
+      "title": "Agenetic Agent Went Rogue on Me",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzp44e/agenetic_agent_went_rogue_on_me/",
+      "score": 2,
+      "category": "tech",
+      "description": "Working with my fleet of agenentic agents on our mature 5 year old livestreaming application miingl. We just started introducing AI development and vibe coding. So far getting the processes lined up h",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "malaymail-68ac5ee16545",
+      "source": "malaymail",
+      "title": "New Seremban orthopaedic centre launching this year aims to cut treatment costs by up to 50 per cent",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/18/new-seremban-orthopaedic-centre-launching-this-year-aims-to-cut-treatment-costs-by-up-to-50-per-cent/228117",
+      "score": 1,
+      "category": "tech",
+      "description": "SEREMBAN, July 18 — Bank Rakyat has provided financing totalling RM1.42 million to Limbcraft Innovation Sdn Bhd to...",
+      "fetchedAt": "2026-07-18T09:36:24.216Z"
+    },
+    {
+      "id": "malaymail-f80d348c3a1e",
+      "source": "malaymail",
+      "title": "Versa says 30,000 Malaysians now putting savings on autopilot through its app, RM2.5b placed in funds since 2021",
+      "url": "https://www.malaymail.com/news/money/2026/07/17/versa-says-30000-malaysians-now-putting-savings-on-autopilot-through-its-app-rm25b-placed-in-funds-since-2021/228014",
+      "score": 1,
+      "category": "malaysia",
+      "description": "KUALA LUMPUR, July 17 — Malaysian wealth management app Versa said more than 30,000 people now use its Auto Save f...",
+      "fetchedAt": "2026-07-18T09:36:24.217Z"
+    },
+    {
+      "id": "fmt-b540fafd4779",
+      "source": "fmt",
+      "title": "Cops rescue kidnap victim, nab 6 after RM7mil ransom demand",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/18/cops-rescue-kidnap-victim-nab-6-after-rm7mil-ransom-demand",
+      "score": 1,
+      "category": "malaysia",
+      "description": "Bukit Aman CID says police rescued 46-year-old man in less than 48 hours from a residential unit in the I-City area of Shah Alam, Selangor.",
+      "fetchedAt": "2026-07-18T09:36:24.218Z"
+    },
+    {
+      "id": "malaysiakini-2bc93641d51c",
+      "source": "malaysiakini",
+      "title": "Coalition leaders, supporters in full force for N Sembilan polls nominations",
+      "url": "https://www.malaysiakini.com/news/780023",
+      "score": 1,
+      "category": "world",
+      "description": "NEGERI SEMBILAN POLLS | Celebratory atmosphere as election campaign kicks off.",
+      "fetchedAt": "2026-07-18T09:36:24.219Z"
+    },
+    {
+      "id": "bernama-79568f3dda47",
+      "source": "bernama",
+      "title": "General : Mat Kilau's Fort In Pasir Raja Neglected, Urgent Restoration Needed",
+      "url": "http://www.bernama.com/en/news.php?id=2582644",
+      "score": 1,
+      "category": "malaysia",
+      "description": "DUNGUN, July 18 (Bernama) -- Mat Kilau's fort at Padang Jerangau in Kampung Pasir Raja here, a symbol of the Malay warrior's resistance against British colonial rule, has fallen into neglect and is in",
+      "fetchedAt": "2026-07-18T09:36:24.220Z"
+    },
+    {
+      "id": "bbc-5b542b6c2b14",
+      "source": "bbc",
+      "title": "White House defends Argentina team over Falklands banner",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+      "score": 1,
+      "category": "malaysia",
+      "description": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+      "fetchedAt": "2026-07-18T09:36:24.223Z"
+    },
+    {
+      "id": "bbc-873afeb4b5e2",
+      "source": "bbc",
+      "title": "Philippines condemns monkey video on Chinese media as racist",
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "score": 1,
+      "category": "world",
+      "description": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
+      "fetchedAt": "2026-07-18T09:36:24.224Z"
+    },
+    {
+      "id": "scmp-1aecd15e98ef",
+      "source": "scmp",
+      "title": "Hegemony or balance of power? What the wars of ancient China teach us",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3360640/hegemony-or-balance-power-what-wars-ancient-china-teach-us?utm_source=rss_feed",
+      "score": 1,
+      "category": "world",
+      "description": "The historian A.J.P. Taylor wrote one of the most powerful openings of any book. “In the state of nature which Hobbes imagined, violence was the only law, and life was ‘nasty brutish and short’,” he w",
+      "fetchedAt": "2026-07-18T09:36:24.225Z"
+    },
+    {
+      "id": "soyacincau-ae66466b35bf",
+      "source": "soyacincau",
+      "title": "Apple Back to School 2026: Get up to RM600 Gift Card when you buy Mac or iPad",
+      "url": "https://soyacincau.com/2026/07/17/apple-back-to-school-2026-promo-gift-card-discount-apple-watch/",
+      "score": 1,
+      "category": "malaysia",
+      "description": "Apple has kicked off its new Back to School promo in Malaysia, which offers students and educators an Apple Gift Card worth up to RM600 on top of the educational discounts. Eligible customers who purc",
+      "fetchedAt": "2026-07-18T09:36:24.228Z"
+    },
+    {
+      "id": "ringgitplus-273a76f07e1b",
+      "source": "ringgitplus",
+      "title": "BNPL Passes 8 Million Users Ahead Of New Rules",
+      "url": "https://ringgitplus.com/en/blog/personal-finance-news/bnpl-passes-8-million-users-ahead-of-new-rules.html",
+      "score": 1,
+      "category": "malaysia",
+      "description": "The number of active Buy Now, Pay Later (BNPL) account holders rose to 8 million in the first […] The post BNPL Passes 8 Million Users Ahead Of New Rules appeared first on RinggitPlus.",
+      "fetchedAt": "2026-07-18T09:36:24.230Z"
+    },
+    {
+      "id": "everydayonsales-a7f665e89567",
+      "source": "everydayonsales",
+      "title": "18 July 2026 onwards: Potato Corner Malaysia Free Large Pizza Bites Promotion with Minimum RM23 Spend",
+      "url": "https://www.everydayonsales.com/927495/18-july-2026-onwards-potato-corner-malaysia-free-large-pizza-bites-promotion-with-minimum-rm23-spend/#utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=18-july-2026-onwards-potato-corner-malaysia-free-large-pizza-bites-promotion-with-minimum-rm23-spend",
+      "score": 1,
+      "category": "malaysia",
+      "description": "Potato Corner Malaysia is rewarding snack lovers with a FREE Large Pizza Bites when they spend RM23 or more on eligible full-priced à la carte items in a single receipt. Available from 18 July 2026 on",
+      "fetchedAt": "2026-07-18T09:36:24.230Z"
+    },
+    {
+      "id": "coindesk-c88a71312a60",
+      "source": "coindesk",
+      "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
+      "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
+      "score": 1,
+      "category": "forme",
+      "description": "The securities giant announced today the consolidation of Singapore-based Coinhako as part of a rapid regional expansion that includes a tokenization partnership with Ondo Finance.",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    },
+    {
+      "id": "reddit-claude-6257afade9c9",
+      "source": "reddit-claude",
+      "title": "Am I using Projects correctly?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uzoom6/am_i_using_projects_correctly/",
+      "score": 1,
+      "category": "life",
+      "description": "I don't understand why, if I have several chats in a project working on the same job but on different parts of it, I always need to manually update the shared files and attached .md files. I mean, why",
+      "fetchedAt": "2026-07-18T09:36:24.235Z"
+    }
+  ],
+  "widgets": {
+    "fuel": {
+      "date": "2026-07-16",
+      "ron95": 3.42,
+      "ron97": 4,
+      "diesel": 4.07,
+      "ron95Change": 0.04999999999999982,
+      "ron97Change": 0,
+      "dieselChange": 0.10000000000000009
+    },
+    "fx": {
+      "date": "2026-07-17",
+      "base": "MYR",
+      "rates": {
+        "AUD": 0.3501,
+        "CNY": 1.6551,
+        "EUR": 0.21356,
+        "GBP": 0.18173,
+        "JPY": 39.647,
+        "KRW": 362.72,
+        "SGD": 0.31532,
+        "THB": 8.2138,
+        "USD": 0.2442
+      },
+      "history": {
+        "2026-06-18": {
+          "AUD": 0.34672,
+          "CNY": 1.6446,
+          "EUR": 0.2119,
+          "GBP": 0.18359,
+          "JPY": 39.084,
+          "KRW": 373.74,
+          "SGD": 0.31351,
+          "THB": 7.9636,
+          "USD": 0.24286
+        },
+        "2026-06-19": {
+          "AUD": 0.34461,
+          "CNY": 1.6363,
+          "EUR": 0.2108,
+          "GBP": 0.18266,
+          "JPY": 38.972,
+          "KRW": 370.39,
+          "SGD": 0.31206,
+          "THB": 7.943,
+          "USD": 0.24172
+        },
+        "2026-06-22": {
+          "AUD": 0.3439,
+          "CNY": 1.6329,
+          "EUR": 0.21039,
+          "GBP": 0.18192,
+          "JPY": 38.991,
+          "KRW": 370.47,
+          "SGD": 0.31159,
+          "THB": 7.9321,
+          "USD": 0.24102
+        },
+        "2026-06-23": {
+          "AUD": 0.34817,
+          "CNY": 1.6389,
+          "EUR": 0.212,
+          "GBP": 0.18275,
+          "JPY": 39.013,
+          "KRW": 371,
+          "SGD": 0.31298,
+          "THB": 8.0182,
+          "USD": 0.24151
+        },
+        "2026-06-24": {
+          "AUD": 0.35026,
+          "CNY": 1.6459,
+          "EUR": 0.21311,
+          "GBP": 0.18362,
+          "JPY": 39.073,
+          "KRW": 373.71,
+          "SGD": 0.31373,
+          "THB": 8.0788,
+          "USD": 0.24166
+        },
+        "2026-06-25": {
+          "AUD": 0.35233,
+          "CNY": 1.651,
+          "EUR": 0.21413,
+          "GBP": 0.18454,
+          "JPY": 39.308,
+          "KRW": 374.72,
+          "SGD": 0.31518,
+          "THB": 8.1116,
+          "USD": 0.24286
+        },
+        "2026-06-26": {
+          "AUD": 0.35445,
+          "CNY": 1.6631,
+          "EUR": 0.21458,
+          "GBP": 0.18508,
+          "JPY": 39.548,
+          "KRW": 375.89,
+          "SGD": 0.31662,
+          "THB": 8.1651,
+          "USD": 0.24465
+        },
+        "2026-06-29": {
+          "AUD": 0.35601,
+          "CNY": 1.6689,
+          "EUR": 0.21536,
+          "GBP": 0.18567,
+          "JPY": 39.76,
+          "KRW": 379.2,
+          "SGD": 0.31774,
+          "THB": 8.1662,
+          "USD": 0.24564
+        },
+        "2026-06-30": {
+          "AUD": 0.35545,
+          "CNY": 1.6611,
+          "EUR": 0.21485,
+          "GBP": 0.18515,
+          "JPY": 39.765,
+          "KRW": 379.66,
+          "SGD": 0.31699,
+          "THB": 8.1347,
+          "USD": 0.2448
+        },
+        "2026-07-01": {
+          "AUD": 0.35445,
+          "CNY": 1.6596,
+          "EUR": 0.21458,
+          "GBP": 0.18448,
+          "JPY": 39.743,
+          "KRW": 380.58,
+          "SGD": 0.31677,
+          "THB": 8.1546,
+          "USD": 0.24426
+        },
+        "2026-07-02": {
+          "AUD": 0.35577,
+          "CNY": 1.664,
+          "EUR": 0.21502,
+          "GBP": 0.18419,
+          "JPY": 39.604,
+          "KRW": 379.62,
+          "SGD": 0.31728,
+          "THB": 8.1655,
+          "USD": 0.2451
+        },
+        "2026-07-03": {
+          "AUD": 0.35404,
+          "CNY": 1.6658,
+          "EUR": 0.21457,
+          "GBP": 0.18393,
+          "JPY": 39.584,
+          "KRW": 376.13,
+          "SGD": 0.317,
+          "THB": 8.1393,
+          "USD": 0.24564
+        },
+        "2026-07-06": {
+          "AUD": 0.35303,
+          "CNY": 1.6636,
+          "EUR": 0.21445,
+          "GBP": 0.18344,
+          "JPY": 39.741,
+          "KRW": 374.81,
+          "SGD": 0.31664,
+          "THB": 8.1578,
+          "USD": 0.2448
+        },
+        "2026-07-07": {
+          "AUD": 0.35363,
+          "CNY": 1.6692,
+          "EUR": 0.21491,
+          "GBP": 0.18355,
+          "JPY": 39.777,
+          "KRW": 372.1,
+          "SGD": 0.31729,
+          "THB": 8.172,
+          "USD": 0.2457
+        },
+        "2026-07-08": {
+          "AUD": 0.35426,
+          "CNY": 1.668,
+          "EUR": 0.21508,
+          "GBP": 0.18375,
+          "JPY": 39.855,
+          "KRW": 370.14,
+          "SGD": 0.3174,
+          "THB": 8.2034,
+          "USD": 0.24528
+        },
+        "2026-07-09": {
+          "AUD": 0.35345,
+          "CNY": 1.6669,
+          "EUR": 0.2145,
+          "GBP": 0.1831,
+          "JPY": 39.837,
+          "KRW": 370.98,
+          "SGD": 0.31712,
+          "THB": 8.2033,
+          "USD": 0.24528
+        },
+        "2026-07-10": {
+          "AUD": 0.35355,
+          "CNY": 1.6645,
+          "EUR": 0.21496,
+          "GBP": 0.18305,
+          "JPY": 39.772,
+          "KRW": 369.76,
+          "SGD": 0.31722,
+          "THB": 8.1855,
+          "USD": 0.2457
+        },
+        "2026-07-13": {
+          "AUD": 0.3538,
+          "CNY": 1.6648,
+          "EUR": 0.21502,
+          "GBP": 0.18348,
+          "JPY": 39.828,
+          "KRW": 367.01,
+          "SGD": 0.31748,
+          "THB": 8.2007,
+          "USD": 0.24564
+        },
+        "2026-07-14": {
+          "AUD": 0.35321,
+          "CNY": 1.6626,
+          "EUR": 0.21501,
+          "GBP": 0.18322,
+          "JPY": 39.779,
+          "KRW": 366.72,
+          "SGD": 0.31699,
+          "THB": 8.2208,
+          "USD": 0.24522
+        },
+        "2026-07-15": {
+          "AUD": 0.35118,
+          "CNY": 1.6612,
+          "EUR": 0.21499,
+          "GBP": 0.18294,
+          "JPY": 39.82,
+          "KRW": 365.9,
+          "SGD": 0.31687,
+          "THB": 8.2502,
+          "USD": 0.24522
+        },
+        "2026-07-16": {
+          "AUD": 0.35037,
+          "CNY": 1.6616,
+          "EUR": 0.21414,
+          "GBP": 0.18174,
+          "JPY": 39.827,
+          "KRW": 363.28,
+          "SGD": 0.31654,
+          "THB": 8.2419,
+          "USD": 0.24555
+        },
+        "2026-07-17": {
+          "AUD": 0.3501,
+          "CNY": 1.6551,
+          "EUR": 0.21356,
+          "GBP": 0.18173,
+          "JPY": 39.647,
+          "KRW": 362.72,
+          "SGD": 0.31532,
+          "THB": 8.2138,
+          "USD": 0.2442
+        }
+      }
+    }
+  }
+}
