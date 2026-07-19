@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2abe7d9acff75c59",
+      "title": "US bombs Iran for eighth-straight night",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-07-19T07:07:15.144Z",
+      "pushedAt": "2026-07-19T07:07:15.144Z"
+    },
+    {
       "id": "8867279644afb208",
       "title": "Two US service members in Jordan killed in Iranian attack, US says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORC1tbUY3UU5OWWVubE9NZzhlTjZDNGNxMERBSUwxZ0d2clRBaldEZWtTUXhjZmVzb182N1M4T0VCY1JnQWhqNW5oM3ZIUV8wbno1TkdYbFM2RGNsYklHVFJ4VTZpVDdHOHcyY1BZUWNLaGxBMFBTQUJVanMxellKenFwazlMQWVYeERKa2dDVFZ3a2JBaElnRHVJcGdVc0RtVGZhM3hsRjF3REZvRzZCeFlFUQ?oc=5",
@@ -59,43 +71,7 @@
       ],
       "firstSeen": "2026-07-18T14:37:53.095Z",
       "pushedAt": "2026-07-18T14:37:53.095Z"
-    },
-    {
-      "id": "8cfa7dcce9e95ebe",
-      "title": "The sell-off for AI stars worsens, while oil prices keep jumping - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjhsV0pGUU1wc3ZYY09ocnNhWDFWMGtwSXhoN3ZaRDEyNG5Eb3JpeWlmeWR4RHUyNmFfNzhSTmEyclZLaW91UFdsN2hUWHF3STczc0xMQnBTeG5QUEs1LTlLTDBMN3UtMHM5ZDdEVGRNR3cxcVdJM3luUEQ2Ry00V2hCdnVyQm1XR1lHdENWVTFEMWF6eFNQUHBR?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-07-18T05:10:23.165Z",
-      "pushedAt": "2026-07-18T05:10:23.165Z"
-    },
-    {
-      "id": "4404ac58b46a49b4",
-      "title": "Federal judge bars Trump administration from using obscure clause to make huge funding cuts - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVREcjZLbkZKZy1kSF9aLXhDYjY2NkQwdl9GSEJnWUIzbWpiMC1hLUFVZjJwZFEtM2JXbnFaNjd4eXFNRHQ0NUVQaGxvSVNXTVJxYjBCc0JveFVEd0dwblh2djZMeGo0eEN6Ym5qU0h4OTM5MFVydjRESHotSnhVNXQ1SFpjVU1mWXFWak9YNzBxLWI2MXR0Y1E2X0VBTFVNbE1VVg?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + cut"
-      ],
-      "firstSeen": "2026-07-18T02:34:48.973Z",
-      "pushedAt": "2026-07-18T02:34:48.973Z"
-    },
-    {
-      "id": "7b7d65cba6ad054f",
-      "title": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-07-17T21:24:12.158Z",
-      "pushedAt": "2026-07-17T21:24:12.158Z"
     }
   ],
-  "updatedAt": "2026-07-18T18:27:13.262Z"
+  "updatedAt": "2026-07-19T07:07:15.406Z"
 }
