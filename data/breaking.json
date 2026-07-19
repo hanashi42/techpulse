@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "8cfa7dcce9e95ebe",
+      "title": "The sell-off for AI stars worsens, while oil prices keep jumping - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjhsV0pGUU1wc3ZYY09ocnNhWDFWMGtwSXhoN3ZaRDEyNG5Eb3JpeWlmeWR4RHUyNmFfNzhSTmEyclZLaW91UFdsN2hUWHF3STczc0xMQnBTeG5QUEs1LTlLTDBMN3UtMHM5ZDdEVGRNR3cxcVdJM3luUEQ2Ry00V2hCdnVyQm1XR1lHdENWVTFEMWF6eFNQUHBR?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-07-19T09:12:14.401Z",
+      "pushedAt": "2026-07-19T09:12:14.401Z"
+    },
+    {
+      "id": "7b7d65cba6ad054f",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-19T09:12:14.510Z",
+      "pushedAt": "2026-07-19T09:12:14.510Z"
+    },
+    {
       "id": "2abe7d9acff75c59",
       "title": "US bombs Iran for eighth-straight night",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
@@ -73,5 +97,5 @@
       "pushedAt": "2026-07-18T14:37:53.095Z"
     }
   ],
-  "updatedAt": "2026-07-19T07:07:15.406Z"
+  "updatedAt": "2026-07-19T09:12:14.553Z"
 }
