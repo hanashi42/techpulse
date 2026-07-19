@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "5c2158b4ef7f0ddf",
+      "title": "5.6 magnitude earthquake hits Peru",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/5-6-magnitude-earthquake-hits-peru?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-07-19T16:05:50.878Z",
+      "pushedAt": "2026-07-19T16:05:50.878Z"
+    },
+    {
       "id": "bd8e578d7c506417",
       "title": "Trump needs a smarter play on chip tariffs before China corners the market - Washington Examiner",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlR5SENZSTZJUklZSnFFa0pUSnBFbWNRZ3FTMU0zMDlGV2JieHhOMTZ6NGlqQlVyRTFBcXB1bmFGdTBxdGxRRUtmbEw2R0U3UEwySkJGaDdmTGJJb2w2WnVOenlxMVdlTUp1enJNZ0liakNJUjNEVDJSOVpmQkY2elhOeG5ZS25SMnQyNjJmREs4N3NqY2c4dl9n?oc=5",
@@ -83,31 +95,7 @@
       ],
       "firstSeen": "2026-07-18T17:29:49.561Z",
       "pushedAt": "2026-07-18T17:29:49.561Z"
-    },
-    {
-      "id": "637870546d9625b7",
-      "title": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-07-18T15:33:11.437Z",
-      "pushedAt": "2026-07-18T15:33:11.437Z"
-    },
-    {
-      "id": "ef18cb930fea86b9",
-      "title": "Kuwait accuses Iran of targeting civilian sites after attacks spark fires.",
-      "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/kuwait-power-water-facilities-attacks",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + civilian"
-      ],
-      "firstSeen": "2026-07-18T14:37:53.095Z",
-      "pushedAt": "2026-07-18T14:37:53.095Z"
     }
   ],
-  "updatedAt": "2026-07-19T12:34:06.935Z"
+  "updatedAt": "2026-07-19T16:05:51.019Z"
 }
