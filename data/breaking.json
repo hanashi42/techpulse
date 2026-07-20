@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "1dd7c8bd68374ad9",
+      "title": "Gold slips as oil prices advance, Fed rate-hike voices grow - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFhCVlU1TTFYN2VLU1RZSk5va0EtOGxSclUtc2xMM2ZfSTVoSU9LOGVBZzg5NjdfakJNWFUzYUktd3FKX0ptZk5YU2dGWF9BR0xiSm9iS2NMN3pBTkx5RkRHc1BpbUlmQ21WQnVXamd3aFVmZVV3cnVJTjd3MHBmbFhSTmZid3ZZQUx3VWlBODB5TGliVnBma1dJZDl4dGxydTlyWjZB?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "fed + rate"
+      ],
+      "firstSeen": "2026-07-20T04:53:56.135Z",
+      "pushedAt": "2026-07-20T04:53:56.135Z"
+    },
+    {
+      "id": "3a6c09ef1ae7bb83",
+      "title": "Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics",
+      "url": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-07-20T04:53:56.368Z",
+      "pushedAt": "2026-07-20T04:53:56.368Z"
+    },
+    {
       "id": "bfb64cde83b80822",
       "title": "One Killed, Several Injured, Building Collapses In Peru Earthquake - bernama",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95UUZNTFBkNWI4dlQ2ci1PMy12YnBBeFBMNkg0aVd2X05vdlBHQTRDdVFmVk44eEcxeUVlVG4yQkJFSThNUDdvYktlallGOWhqbGE0UVN2dmdqamlaVGloZEFR?oc=5",
@@ -74,5 +98,5 @@
       "pushedAt": "2026-07-19T07:07:15.144Z"
     }
   ],
-  "updatedAt": "2026-07-20T01:16:49.311Z"
+  "updatedAt": "2026-07-20T04:53:56.545Z"
 }
