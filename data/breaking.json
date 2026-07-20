@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "498bc70c4c4d503d",
+      "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
+      "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
+      "source": "Guardian",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-20T16:16:26.617Z",
+      "pushedAt": "2026-07-20T16:16:26.617Z"
+    },
+    {
       "id": "00b768582b54a1ac",
       "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
       "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
@@ -84,19 +96,7 @@
       ],
       "firstSeen": "2026-07-20T01:16:49.139Z",
       "pushedAt": "2026-07-20T01:16:49.139Z"
-    },
-    {
-      "id": "5c2158b4ef7f0ddf",
-      "title": "5.6 magnitude earthquake hits Peru",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/5-6-magnitude-earthquake-hits-peru?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + magnitude"
-      ],
-      "firstSeen": "2026-07-19T16:05:50.878Z",
-      "pushedAt": "2026-07-19T16:05:50.878Z"
     }
   ],
-  "updatedAt": "2026-07-20T14:50:12.778Z"
+  "updatedAt": "2026-07-20T16:16:26.927Z"
 }
