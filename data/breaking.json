@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f0243c2194dfba4f",
+      "title": "Four Indians killed in attack on ship leaving Ukraine's Odesa, New Delhi says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRW1DWjMyNmZtUWMyMzlHdGVTNHdVRUc1c2RZbWp2UURBdUw3SDlJTkphQm04bVI3bklfNUd6cGlmUndfX3JEczY1MWNKc0dYSlNwVUMzRUNHYTYtS0pXY21mbF85Y3RCSTMxUFRNQnRXb1QwWnpueWRyeUxDbWVkbGhNb2p1QnVZN0k1VTR5b014U0VvWmlabmtBeXEzdW9FSzNfNVNjQUlZaTFfVmVIVzBBcVhwWElf?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-20T18:20:46.124Z",
+      "pushedAt": "2026-07-20T18:20:46.124Z"
+    },
+    {
       "id": "498bc70c4c4d503d",
       "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
       "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
@@ -98,5 +110,5 @@
       "pushedAt": "2026-07-20T01:16:49.139Z"
     }
   ],
-  "updatedAt": "2026-07-20T16:16:26.927Z"
+  "updatedAt": "2026-07-20T18:20:46.294Z"
 }
