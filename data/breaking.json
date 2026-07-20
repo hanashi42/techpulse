@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "3ee407f9d823e8ef",
+      "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members",
+      "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + rise"
+      ],
+      "firstSeen": "2026-07-20T19:59:46.420Z",
+      "pushedAt": "2026-07-20T19:59:46.420Z"
+    },
+    {
       "id": "f0243c2194dfba4f",
       "title": "Four Indians killed in attack on ship leaving Ukraine's Odesa, New Delhi says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRW1DWjMyNmZtUWMyMzlHdGVTNHdVRUc1c2RZbWp2UURBdUw3SDlJTkphQm04bVI3bklfNUd6cGlmUndfX3JEczY1MWNKc0dYSlNwVUMzRUNHYTYtS0pXY21mbF85Y3RCSTMxUFRNQnRXb1QwWnpueWRyeUxDbWVkbGhNb2p1QnVZN0k1VTR5b014U0VvWmlabmtBeXEzdW9FSzNfNVNjQUlZaTFfVmVIVzBBcVhwWElf?oc=5",
@@ -110,5 +122,5 @@
       "pushedAt": "2026-07-20T01:16:49.139Z"
     }
   ],
-  "updatedAt": "2026-07-20T18:20:46.294Z"
+  "updatedAt": "2026-07-20T19:59:46.683Z"
 }
