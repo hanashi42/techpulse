@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4e7969861c4bf01e",
+      "title": "China's car market heads for worst year since 2021 as sales plunge 20% - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUEtFQmNzSDZuZ2tQdjlfMUFrSm1paWpDWFlOa0R4WkVHZ1FMazluaDNhcU9LNmlCMnlrRXFOZDBucFpza09tVTExUUdZRy1samZ5M2g2RHlnaTNnR3NLdXk1d3FjaWdvNEp2RFlFVDlMc3h6dl9tNkp1Mk1pN2s1WGpscE1nNDItNlpPVG5TZHU1bTjSAZgBQVVfeXFMTmFYZ09tbFRKb3lndGZ3LXZ2aHVIN0lDbGpKWV9TaklGREhHRUZCajVaUFh1MTN2MVByckVVVm9URGFkQXliVjg3UEhYR3dIR0k0SzFFR3hrM0haa1ZucWozY1c0NTFYd0NsSW9wZmNtZkVRc2NMV0U0OFFucnZieklKb0JVSkpvT1FpS3FSbFMtQ3BITTI5U1k?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + market"
+      ],
+      "firstSeen": "2026-07-20T10:32:18.176Z",
+      "pushedAt": "2026-07-20T10:32:18.177Z"
+    },
+    {
       "id": "1dd7c8bd68374ad9",
       "title": "Gold slips as oil prices advance, Fed rate-hike voices grow - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFhCVlU1TTFYN2VLU1RZSk5va0EtOGxSclUtc2xMM2ZfSTVoSU9LOGVBZzg5NjdfakJNWFUzYUktd3FKX0ptZk5YU2dGWF9BR0xiSm9iS2NMN3pBTkx5RkRHc1BpbUlmQ21WQnVXamd3aFVmZVV3cnVJTjd3MHBmbFhSTmZid3ZZQUx3VWlBODB5TGliVnBma1dJZDl4dGxydTlyWjZB?oc=5",
@@ -60,43 +72,7 @@
       ],
       "firstSeen": "2026-07-19T12:34:06.751Z",
       "pushedAt": "2026-07-19T12:34:06.751Z"
-    },
-    {
-      "id": "8cfa7dcce9e95ebe",
-      "title": "The sell-off for AI stars worsens, while oil prices keep jumping - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjhsV0pGUU1wc3ZYY09ocnNhWDFWMGtwSXhoN3ZaRDEyNG5Eb3JpeWlmeWR4RHUyNmFfNzhSTmEyclZLaW91UFdsN2hUWHF3STczc0xMQnBTeG5QUEs1LTlLTDBMN3UtMHM5ZDdEVGRNR3cxcVdJM3luUEQ2Ry00V2hCdnVyQm1XR1lHdENWVTFEMWF6eFNQUHBR?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-07-19T09:12:14.401Z",
-      "pushedAt": "2026-07-19T09:12:14.401Z"
-    },
-    {
-      "id": "7b7d65cba6ad054f",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-07-19T09:12:14.510Z",
-      "pushedAt": "2026-07-19T09:12:14.510Z"
-    },
-    {
-      "id": "2abe7d9acff75c59",
-      "title": "US bombs Iran for eighth-straight night",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P0",
-      "matchedKeywords": [
-        "bombs"
-      ],
-      "firstSeen": "2026-07-19T07:07:15.144Z",
-      "pushedAt": "2026-07-19T07:07:15.144Z"
     }
   ],
-  "updatedAt": "2026-07-20T04:53:56.545Z"
+  "updatedAt": "2026-07-20T10:32:18.309Z"
 }
