@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "b8ae4237586542c0",
+      "title": "US imposes new 50% tariffs on some Canadian products - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWJmZE81SUhjQV9Kc0hseUFwMGlDNml3alZscUFqSjljaUh5LTZRSEFjQXo4Y3JHSTdyNkVqLXFjOGZTQWoxUGY1LVRqQVFtSGx3aWhGWmhxR25LNDU5Nm5SQWFELWRER1dfeXNsdWV5Z05RMWRtTEF2em15T25JYm51SHdCRXNWNDd6YUdhY3dTdw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-20T22:12:03.987Z",
+      "pushedAt": "2026-07-20T22:12:03.987Z"
+    },
+    {
+      "id": "c3cbac71d5e9bd36",
+      "title": "Trump imposes 50% tariff on Canadian imports",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + impose"
+      ],
+      "firstSeen": "2026-07-20T22:12:04.287Z",
+      "pushedAt": "2026-07-20T22:12:04.287Z"
+    },
+    {
       "id": "6218978cce406345",
       "title": "Iran condemns US attacks on civilian infrastructure",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
@@ -134,5 +158,5 @@
       "pushedAt": "2026-07-20T01:16:49.139Z"
     }
   ],
-  "updatedAt": "2026-07-20T21:12:06.897Z"
+  "updatedAt": "2026-07-20T22:12:04.546Z"
 }
