@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "30a7bb0e9ac6b701",
+      "title": "US Treasury's Bessent tells Fox Business 50% Canada tariffs are 'reciprocity' - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd3NPZnZtM1NHTDVITDRZRW9jT2pJejFHVWZCd3BUS1habkFqU056U0tJV0Q2bGVPelYtV3Y1aUVaRExOUVpzT2h3cjR2b2s1Z1NuemxWeTJOT2xpcGFzdlJ3TFZHcmtWWmt4bEJLcU83aGtSYlc3ZDRqVGhtQ2xvQkpJRXZDU3ozYTA0ZHY5ZmF2T1dyWTdvQkRPeEswcWZCN2RuclJTSF9QekpidktGaGF3cWZqd3B6eFBuanlqR1NQWmVOUmN3Ulp5Qm5pWUMtMzhyejl3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 50%"
+      ],
+      "firstSeen": "2026-07-21T15:55:11.885Z",
+      "pushedAt": "2026-07-21T15:55:11.885Z"
+    },
+    {
       "id": "870b77dab0389154",
       "title": "Trump prepares fresh tariffs on dozens of countries, FT reports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1lYdUI0b3RBNFpYbHNkS1ppNEJSMkp6MTlnQWkwZk5wN0JZX1hJa2tnMWF0ZUJIQ0tnei1URG1tWmRWdVFKRnN3UUtUWXBaWXF4ZXloTXNzZldhd0xVM3JjRlJuUFZUNjh2ZEl6MHNJRzJ0NWdYbnIwUXVYdWM5QkxZUVJudThkaDFkeU4xc1JQZlA0akFYQVlIbUp1S0JPNEd6TFNwQQ?oc=5",
@@ -131,19 +143,7 @@
       ],
       "firstSeen": "2026-07-20T16:16:26.617Z",
       "pushedAt": "2026-07-20T16:16:26.617Z"
-    },
-    {
-      "id": "00b768582b54a1ac",
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-20T14:50:12.490Z",
-      "pushedAt": "2026-07-20T14:50:12.490Z"
     }
   ],
-  "updatedAt": "2026-07-21T14:19:09.482Z"
+  "updatedAt": "2026-07-21T15:55:12.151Z"
 }
