@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "bcd06c8d4e632258",
+      "title": "Gold rises 1% as hopes for US-Iran diplomacy pause oil rally - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazZ5bjNfa1hrcmFFNGQzQUhudG0yVEM3ZC1qMkpGbDlpX2dTOUlScEs3bFozWVFpT01SZ0ZXcTEzazhXOGNaWVlDMk1IaWtDUlFvbE5FdTN5bzZTV3J2ajdma1kwNy10MGxGLWJhQ1JOUkZtRWNWZ1RSbkw1TjhFRThLa21BVFgyM0dGUGdURl9aVzVUMXlqdm5GSVNWYzQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rally + gold"
+      ],
+      "firstSeen": "2026-07-21T10:48:40.561Z",
+      "pushedAt": "2026-07-21T10:48:40.561Z"
+    },
+    {
+      "id": "1847b021100bdbf8",
+      "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-21T10:48:40.736Z",
+      "pushedAt": "2026-07-21T10:48:40.736Z"
+    },
+    {
       "id": "927d0cd8006e5624",
       "title": "US military completes its latest strikes on Iran, marking the 10th successive night of attacks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjlJZGJYNm5OYjczNWZJZkMxZGFGRFRJSHVGZjFaMS1KTkNfUTgzV2Y3Qk5VU0RDR0ZXOXBBUldobElBb0hRV2Y5MmlkR0pVNkNlN3RESGlzUlY2bnFBUFNJN3JaVmpyR3RzVkt0QTRVcklEQm05cmNIaUIyQkVJeWtzbi1sSk9XeFZpaURvUU1rM2hJLTMxcGJZa0RzdDFUcV8zdkNuQndVay0yYUc1Q3piMThnS2M2Wm1GMGNVREcxejFLNWxEcw?oc=5",
@@ -131,19 +155,7 @@
       ],
       "firstSeen": "2026-07-20T12:33:54.586Z",
       "pushedAt": "2026-07-20T12:33:54.586Z"
-    },
-    {
-      "id": "4e7969861c4bf01e",
-      "title": "China's car market heads for worst year since 2021 as sales plunge 20% - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUEtFQmNzSDZuZ2tQdjlfMUFrSm1paWpDWFlOa0R4WkVHZ1FMazluaDNhcU9LNmlCMnlrRXFOZDBucFpza09tVTExUUdZRy1samZ5M2g2RHlnaTNnR3NLdXk1d3FjaWdvNEp2RFlFVDlMc3h6dl9tNkp1Mk1pN2s1WGpscE1nNDItNlpPVG5TZHU1bTjSAZgBQVVfeXFMTmFYZ09tbFRKb3lndGZ3LXZ2aHVIN0lDbGpKWV9TaklGREhHRUZCajVaUFh1MTN2MVByckVVVm9URGFkQXliVjg3UEhYR3dIR0k0SzFFR3hrM0haa1ZucWozY1c0NTFYd0NsSW9wZmNtZkVRc2NMV0U0OFFucnZieklKb0JVSkpvT1FpS3FSbFMtQ3BITTI5U1k?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "plunge + market"
-      ],
-      "firstSeen": "2026-07-20T10:32:18.176Z",
-      "pushedAt": "2026-07-20T10:32:18.177Z"
     }
   ],
-  "updatedAt": "2026-07-21T08:43:47.550Z"
+  "updatedAt": "2026-07-21T10:48:40.781Z"
 }
