@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "870b77dab0389154",
+      "title": "Trump prepares fresh tariffs on dozens of countries, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1lYdUI0b3RBNFpYbHNkS1ppNEJSMkp6MTlnQWkwZk5wN0JZX1hJa2tnMWF0ZUJIQ0tnei1URG1tWmRWdVFKRnN3UUtUWXBaWXF4ZXloTXNzZldhd0xVM3JjRlJuUFZUNjh2ZEl6MHNJRzJ0NWdYbnIwUXVYdWM5QkxZUVJudThkaDFkeU4xc1JQZlA0akFYQVlIbUp1S0JPNEd6TFNwQQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-21T14:19:09.291Z",
+      "pushedAt": "2026-07-21T14:19:09.291Z"
+    },
+    {
       "id": "bcd06c8d4e632258",
       "title": "Gold rises 1% as hopes for US-Iran diplomacy pause oil rally - Reuters",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazZ5bjNfa1hrcmFFNGQzQUhudG0yVEM3ZC1qMkpGbDlpX2dTOUlScEs3bFozWVFpT01SZ0ZXcTEzazhXOGNaWVlDMk1IaWtDUlFvbE5FdTN5bzZTV3J2ajdma1kwNy10MGxGLWJhQ1JOUkZtRWNWZ1RSbkw1TjhFRThLa21BVFgyM0dGUGdURl9aVzVUMXlqdm5GSVNWYzQ?oc=5",
@@ -131,31 +143,7 @@
       ],
       "firstSeen": "2026-07-20T14:50:12.490Z",
       "pushedAt": "2026-07-20T14:50:12.490Z"
-    },
-    {
-      "id": "3981dd7a9ad587fc",
-      "title": "Yemen's Houthis declare naval blockade against Saudi Arabia - statement - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "blockade + naval"
-      ],
-      "firstSeen": "2026-07-20T12:33:54.333Z",
-      "pushedAt": "2026-07-20T12:33:54.333Z"
-    },
-    {
-      "id": "97b08d2c119ff4d8",
-      "title": "Chinese car sales in Mexico surge despite new tariffs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR29yS183a3pJcUEzb2JfVS1NYmw3MnBXVEszTDNua3I2LVkwMGsxbnRUam0zb1RkOWw0OVdVUGlIeG5FOUoyeFc0MklIX2ZjYmpOU1hHY0RkLVU3N1djUjJoY2ZmZXp1a29oSExodkltMTdOZkxBcXJDaGRtNEV4Mk1oYzJOdUZoVkgtaXRfX21BdnlkaXY3X0NuQklJMjJjVnF2OHdVaUVNbjdKdzBRem9rc0ozVU0?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-07-20T12:33:54.586Z",
-      "pushedAt": "2026-07-20T12:33:54.586Z"
     }
   ],
-  "updatedAt": "2026-07-21T10:48:40.781Z"
+  "updatedAt": "2026-07-21T14:19:09.482Z"
 }
