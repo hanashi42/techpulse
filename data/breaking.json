@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d3075380a3ac9908",
+      "title": "Trump slaps more tariffs on Canada over 'discrimination'",
+      "url": "https://news.sky.com/story/trump-administration-imposes-50-tariffs-on-canadian-goods-over-continued-discrimination-13565443",
+      "source": "Sky News",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-21T00:07:55.988Z",
+      "pushedAt": "2026-07-21T00:07:55.988Z"
+    },
+    {
       "id": "b8ae4237586542c0",
       "title": "US imposes new 50% tariffs on some Canadian products - Reuters",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWJmZE81SUhjQV9Kc0hseUFwMGlDNml3alZscUFqSjljaUh5LTZRSEFjQXo4Y3JHSTdyNkVqLXFjOGZTQWoxUGY1LVRqQVFtSGx3aWhGWmhxR25LNDU5Nm5SQWFELWRER1dfeXNsdWV5Z05RMWRtTEF2em15T25JYm51SHdCRXNWNDd6YUdhY3dTdw?oc=5",
@@ -158,5 +170,5 @@
       "pushedAt": "2026-07-20T01:16:49.139Z"
     }
   ],
-  "updatedAt": "2026-07-20T22:12:04.546Z"
+  "updatedAt": "2026-07-21T00:07:56.224Z"
 }
