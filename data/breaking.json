@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "927d0cd8006e5624",
+      "title": "US military completes its latest strikes on Iran, marking the 10th successive night of attacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjlJZGJYNm5OYjczNWZJZkMxZGFGRFRJSHVGZjFaMS1KTkNfUTgzV2Y3Qk5VU0RDR0ZXOXBBUldobElBb0hRV2Y5MmlkR0pVNkNlN3RESGlzUlY2bnFBUFNJN3JaVmpyR3RzVkt0QTRVcklEQm05cmNIaUIyQkVJeWtzbi1sSk9XeFZpaURvUU1rM2hJLTMxcGJZa0RzdDFUcV8zdkNuQndVay0yYUc1Q3piMThnS2M2Wm1GMGNVREcxejFLNWxEcw?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-07-21T08:43:47.034Z",
+      "pushedAt": "2026-07-21T08:43:47.034Z"
+    },
+    {
       "id": "d3075380a3ac9908",
       "title": "Trump slaps more tariffs on Canada over 'discrimination'",
       "url": "https://news.sky.com/story/trump-administration-imposes-50-tariffs-on-canadian-goods-over-continued-discrimination-13565443",
@@ -131,44 +143,7 @@
       ],
       "firstSeen": "2026-07-20T10:32:18.176Z",
       "pushedAt": "2026-07-20T10:32:18.177Z"
-    },
-    {
-      "id": "1dd7c8bd68374ad9",
-      "title": "Gold slips as oil prices advance, Fed rate-hike voices grow - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFhCVlU1TTFYN2VLU1RZSk5va0EtOGxSclUtc2xMM2ZfSTVoSU9LOGVBZzg5NjdfakJNWFUzYUktd3FKX0ptZk5YU2dGWF9BR0xiSm9iS2NMN3pBTkx5RkRHc1BpbUlmQ21WQnVXamd3aFVmZVV3cnVJTjd3MHBmbFhSTmZid3ZZQUx3VWlBODB5TGliVnBma1dJZDl4dGxydTlyWjZB?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "fed + rate"
-      ],
-      "firstSeen": "2026-07-20T04:53:56.135Z",
-      "pushedAt": "2026-07-20T04:53:56.135Z"
-    },
-    {
-      "id": "3a6c09ef1ae7bb83",
-      "title": "Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics",
-      "url": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-07-20T04:53:56.368Z",
-      "pushedAt": "2026-07-20T04:53:56.368Z"
-    },
-    {
-      "id": "bfb64cde83b80822",
-      "title": "One Killed, Several Injured, Building Collapses In Peru Earthquake - bernama",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95UUZNTFBkNWI4dlQ2ci1PMy12YnBBeFBMNkg0aVd2X05vdlBHQTRDdVFmVk44eEcxeUVlVG4yQkJFSThNUDdvYktlallGOWhqbGE0UVN2dmdqamlaVGloZEFR?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "earthquake + killed",
-        "collapses + building"
-      ],
-      "firstSeen": "2026-07-20T01:16:49.139Z",
-      "pushedAt": "2026-07-20T01:16:49.139Z"
     }
   ],
-  "updatedAt": "2026-07-21T00:07:56.224Z"
+  "updatedAt": "2026-07-21T08:43:47.550Z"
 }
