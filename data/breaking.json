@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "65f7223d56e4ad03",
+      "title": "UN reports jump in Ukraine civilian toll driven by drone attacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPams2MGE4VHJvOE5udGlJQmM3SnhKU1NZRzVHOHJuM1FKZlk1anNFZlhQLW1vWTFaVk1IOEN4dnZHWTNCS3drQ2h1VmpwYXdSTVRtMEhFdDBQSkdHbS0zZVpuaFlJdF96akp0SnZnSlBYbFNMWWVIa3hzRklUSTF2bnB0V25lcUFHMjJyaFpmajBXVThpRjRSYzZXSnljTTRTMTF2VVN3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + civilian"
+      ],
+      "firstSeen": "2026-07-21T17:04:32.935Z",
+      "pushedAt": "2026-07-21T17:04:32.935Z"
+    },
+    {
+      "id": "77d802c4220138ae",
+      "title": "US eyes new tariffs as existing trade duties near expiration",
+      "url": "https://www.aljazeera.com/economy/2026/7/21/us-eyes-new-tariffs-as-existing-trade-duties-near-expiration?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-21T17:04:33.137Z",
+      "pushedAt": "2026-07-21T17:04:33.137Z"
+    },
+    {
+      "id": "bc6056d2016373cd",
+      "title": "Bessent warns China could face sanctions over AI IP theft - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd1owUmJ5OFpQQ1lONXBtemZuam1iZ21LMEh1V25EZV9qYlZVSFB6OElCWE1BeWVjZmhzN3I3TTBNMnlob1NNOHFRZ1Q5NDRjY3g5NzZBQWdWdlNoTjBLck52c3hHYmNmcjhhVFZ6SnZhOUNtODhhSUJJcTlBTWdEeWx1UFA5blJrbzFzRjNB0gGTAUFVX3lxTE1vakpXZkRYbDV5R21maXBxTXpjUW82N3Bjalo4NWdLa25sMnI3N25hWFBFWERaSmt4U3Y3Mmhpc3VHNW9IZWtjSlRtOTVvbmo4TFRoRmY3NUZoWUNMcUhqZkZmR2RzWmowNS1weTVSdjZGR1U1RmRudE5rbTB1T0ZRSVd3bmluSVhiZ1lGbUw2UE5CUQ?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-07-21T17:04:33.187Z",
+      "pushedAt": "2026-07-21T17:04:33.187Z"
+    },
+    {
       "id": "30a7bb0e9ac6b701",
       "title": "US Treasury's Bessent tells Fox Business 50% Canada tariffs are 'reciprocity' - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd3NPZnZtM1NHTDVITDRZRW9jT2pJejFHVWZCd3BUS1habkFqU056U0tJV0Q2bGVPelYtV3Y1aUVaRExOUVpzT2h3cjR2b2s1Z1NuemxWeTJOT2xpcGFzdlJ3TFZHcmtWWmt4bEJLcU83aGtSYlc3ZDRqVGhtQ2xvQkpJRXZDU3ozYTA0ZHY5ZmF2T1dyWTdvQkRPeEswcWZCN2RuclJTSF9QekpidktGaGF3cWZqd3B6eFBuanlqR1NQWmVOUmN3Ulp5Qm5pWUMtMzhyejl3?oc=5",
@@ -131,19 +167,7 @@
       ],
       "firstSeen": "2026-07-20T18:20:46.124Z",
       "pushedAt": "2026-07-20T18:20:46.124Z"
-    },
-    {
-      "id": "498bc70c4c4d503d",
-      "title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat",
-      "url": "https://www.theguardian.com/world/2026/jul/20/canada-air-quality-warnings-us-wildfire-smoke-trump-tariffs",
-      "source": "Guardian",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-07-20T16:16:26.617Z",
-      "pushedAt": "2026-07-20T16:16:26.617Z"
     }
   ],
-  "updatedAt": "2026-07-21T15:55:12.151Z"
+  "updatedAt": "2026-07-21T17:04:33.208Z"
 }
