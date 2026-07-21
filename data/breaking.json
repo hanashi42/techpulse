@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "aaeb7e2366624690",
+      "title": "Civilians faced attacks, abuse in joint US-Ecuador operations, HRW says",
+      "url": "https://www.aljazeera.com/news/2026/7/21/civilians-faced-attacks-abuse-in-joint-us-ecuador-operations-hrw-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + civilian"
+      ],
+      "firstSeen": "2026-07-21T18:21:47.476Z",
+      "pushedAt": "2026-07-21T18:21:47.476Z"
+    },
+    {
       "id": "65f7223d56e4ad03",
       "title": "UN reports jump in Ukraine civilian toll driven by drone attacks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPams2MGE4VHJvOE5udGlJQmM3SnhKU1NZRzVHOHJuM1FKZlk1anNFZlhQLW1vWTFaVk1IOEN4dnZHWTNCS3drQ2h1VmpwYXdSTVRtMEhFdDBQSkdHbS0zZVpuaFlJdF96akp0SnZnSlBYbFNMWWVIa3hzRklUSTF2bnB0V25lcUFHMjJyaFpmajBXVThpRjRSYzZXSnljTTRTMTF2VVN3?oc=5",
@@ -155,19 +167,7 @@
       ],
       "firstSeen": "2026-07-20T19:59:46.420Z",
       "pushedAt": "2026-07-20T19:59:46.420Z"
-    },
-    {
-      "id": "f0243c2194dfba4f",
-      "title": "Four Indians killed in attack on ship leaving Ukraine's Odesa, New Delhi says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRW1DWjMyNmZtUWMyMzlHdGVTNHdVRUc1c2RZbWp2UURBdUw3SDlJTkphQm04bVI3bklfNUd6cGlmUndfX3JEczY1MWNKc0dYSlNwVUMzRUNHYTYtS0pXY21mbF85Y3RCSTMxUFRNQnRXb1QwWnpueWRyeUxDbWVkbGhNb2p1QnVZN0k1VTR5b014U0VvWmlabmtBeXEzdW9FSzNfNVNjQUlZaTFfVmVIVzBBcVhwWElf?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-20T18:20:46.124Z",
-      "pushedAt": "2026-07-20T18:20:46.124Z"
     }
   ],
-  "updatedAt": "2026-07-21T17:04:33.208Z"
+  "updatedAt": "2026-07-21T18:21:47.728Z"
 }
