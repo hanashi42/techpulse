@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d3b0ced33991d8b2",
+      "title": "New US 25% tariff hits billions of dollars in Brazilian exports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjY3ME5qS0NZMjBDZEtBVUJPbWdMTC0yMDZaTFhlTGE0NnI2a3Ffc2FKNVNDWVdHUDFybVlhR3pxOTBzVDl4MFU5VkxfbVZHdEFIY0JpMU95VTNENjdhUDFOSV9IQUNDbWJDNGJyY0VKalVxSGREUm9GWE9rNWFXX3I0OWEtVDY1MlVIUHR6QTJqNUJhV3Y1OXg0clVaclZ4TGk4d3dhcFZRZlE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-22T12:53:50.295Z",
+      "pushedAt": "2026-07-22T12:53:50.295Z"
+    },
+    {
       "id": "02931b13cfb60d55",
       "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
       "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
@@ -182,5 +194,5 @@
       "pushedAt": "2026-07-21T14:19:09.291Z"
     }
   ],
-  "updatedAt": "2026-07-22T11:26:28.105Z"
+  "updatedAt": "2026-07-22T12:53:50.386Z"
 }
