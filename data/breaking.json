@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "c3cbac71d5e9bd36",
+      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + 50%"
+      ],
+      "firstSeen": "2026-07-22T04:27:17.514Z",
+      "pushedAt": "2026-07-22T04:27:17.514Z"
+    },
+    {
+      "id": "206599de0febe08f",
+      "title": "Trump plans steep tariffs on generic drugs starting in 2028 to spur U.S. production",
+      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-22T04:27:17.636Z",
+      "pushedAt": "2026-07-22T04:27:17.636Z"
+    },
+    {
       "id": "4bc2a499d3284b7b",
       "title": "US military identifies 3rd service member believed to have been killed in Iranian attack - AP News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeklzVlNQYy1nZjVzaUtYa0tNamVrTVNyWHZfS2JmUmYwQmtZLWxPVkMyeTB1ZElBNkhiZ0M0MkdzWHQtbmRLRGo5Z1ZleXVtZzdNYXdQTlB0TUVGMDQ0M2tXMjFvbzU0WkVseGVwRFhaYndPUDhaWWF3SFU3b29sQ2pVREdHUEJqZmZ2dk1qRnRILVY5LXE0cl9sS3BobFVTaEE?oc=5",
@@ -121,5 +145,5 @@
       "pushedAt": "2026-07-21T08:43:47.034Z"
     }
   ],
-  "updatedAt": "2026-07-22T01:06:21.745Z"
+  "updatedAt": "2026-07-22T04:27:17.681Z"
 }
