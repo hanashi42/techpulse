@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "02931b13cfb60d55",
+      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-07-22T11:26:28.019Z",
+      "pushedAt": "2026-07-22T11:26:28.019Z"
+    },
+    {
+      "id": "413938fcf9079ef1",
+      "title": "Tehran's Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night",
+      "url": "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-07-22T11:26:28.066Z",
+      "pushedAt": "2026-07-22T11:26:28.066Z"
+    },
+    {
       "id": "f8f9adcacac8c7ae",
       "title": "UK inflation slows in temporary boost for new PM Burnham - Reuters",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zT2lzOGZHUzVZd3B5NWJBcmRtcEdmUmVIc0QwZ2U2WEtQLXozVnZiZ1pqSmhldVlrd3U5ZzY5QlMzbGw3eGpjM0hMUzhJSk9acXVQNmpmeWVPaXZxYi1lZDlOZFFiWkxrejdERTNHZFRvRW5aZUt2MWVsUQ?oc=5",
@@ -156,31 +180,7 @@
       ],
       "firstSeen": "2026-07-21T14:19:09.291Z",
       "pushedAt": "2026-07-21T14:19:09.291Z"
-    },
-    {
-      "id": "bcd06c8d4e632258",
-      "title": "Gold rises 1% as hopes for US-Iran diplomacy pause oil rally - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazZ5bjNfa1hrcmFFNGQzQUhudG0yVEM3ZC1qMkpGbDlpX2dTOUlScEs3bFozWVFpT01SZ0ZXcTEzazhXOGNaWVlDMk1IaWtDUlFvbE5FdTN5bzZTV3J2ajdma1kwNy10MGxGLWJhQ1JOUkZtRWNWZ1RSbkw1TjhFRThLa21BVFgyM0dGUGdURl9aVzVUMXlqdm5GSVNWYzQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rally + gold"
-      ],
-      "firstSeen": "2026-07-21T10:48:40.561Z",
-      "pushedAt": "2026-07-21T10:48:40.561Z"
-    },
-    {
-      "id": "1847b021100bdbf8",
-      "title": "Five Palestinians killed in fire after Israeli attack in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-21T10:48:40.736Z",
-      "pushedAt": "2026-07-21T10:48:40.736Z"
     }
   ],
-  "updatedAt": "2026-07-22T09:33:41.676Z"
+  "updatedAt": "2026-07-22T11:26:28.105Z"
 }
