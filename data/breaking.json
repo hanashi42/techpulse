@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "580a55f080eb3be2",
+      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "hormuz + threat"
+      ],
+      "firstSeen": "2026-07-22T14:49:42.415Z",
+      "pushedAt": "2026-07-22T14:49:42.415Z"
+    },
+    {
+      "id": "4369f6334decadfe",
+      "title": "Trump's generic drug tariffs: What they could mean for medicine prices, manufacturers and supply",
+      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drug-tariffs-prices-explained.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-22T14:49:42.591Z",
+      "pushedAt": "2026-07-22T14:49:42.591Z"
+    },
+    {
       "id": "d3b0ced33991d8b2",
       "title": "New US 25% tariff hits billions of dollars in Brazilian exports - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjY3ME5qS0NZMjBDZEtBVUJPbWdMTC0yMDZaTFhlTGE0NnI2a3Ffc2FKNVNDWVdHUDFybVlhR3pxOTBzVDl4MFU5VkxfbVZHdEFIY0JpMU95VTNENjdhUDFOSV9IQUNDbWJDNGJyY0VKalVxSGREUm9GWE9rNWFXX3I0OWEtVDY1MlVIUHR6QTJqNUJhV3Y1OXg0clVaclZ4TGk4d3dhcFZRZlE?oc=5",
@@ -180,19 +204,7 @@
       ],
       "firstSeen": "2026-07-21T15:55:11.885Z",
       "pushedAt": "2026-07-21T15:55:11.885Z"
-    },
-    {
-      "id": "870b77dab0389154",
-      "title": "Trump prepares fresh tariffs on dozens of countries, FT reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1lYdUI0b3RBNFpYbHNkS1ppNEJSMkp6MTlnQWkwZk5wN0JZX1hJa2tnMWF0ZUJIQ0tnei1URG1tWmRWdVFKRnN3UUtUWXBaWXF4ZXloTXNzZldhd0xVM3JjRlJuUFZUNjh2ZEl6MHNJRzJ0NWdYbnIwUXVYdWM5QkxZUVJudThkaDFkeU4xc1JQZlA0akFYQVlIbUp1S0JPNEd6TFNwQQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-07-21T14:19:09.291Z",
-      "pushedAt": "2026-07-21T14:19:09.291Z"
     }
   ],
-  "updatedAt": "2026-07-22T12:53:50.386Z"
+  "updatedAt": "2026-07-22T14:49:42.628Z"
 }
