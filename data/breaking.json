@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "f8f9adcacac8c7ae",
+      "title": "UK inflation slows in temporary boost for new PM Burnham - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zT2lzOGZHUzVZd3B5NWJBcmRtcEdmUmVIc0QwZ2U2WEtQLXozVnZiZ1pqSmhldVlrd3U5ZzY5QlMzbGw3eGpjM0hMUzhJSk9acXVQNmpmeWVPaXZxYi1lZDlOZFFiWkxrejdERTNHZFRvRW5aZUt2MWVsUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + slow"
+      ],
+      "firstSeen": "2026-07-22T09:33:41.396Z",
+      "pushedAt": "2026-07-22T09:33:41.396Z"
+    },
+    {
+      "id": "b6c85b7ae6a57968",
+      "title": "EU envoys meet to negotiate 21st Russia sanctions package - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjdLb1ZpR0E4UnIwbUdKQlNKQmVnOFhSUi1ueGZucDk2akRMZnhDMXltTzdXbHl0dE5xUVpidzAwSllueWxoX2JqYTNsUWNwZmhJbkRrcWpIVU1DMnFzblJXbFIzV0FneEh3RzVwOTJKdDMyWWpJSWFNMXpaR3lPN2trWWhCOHY4VlFOT0w1d3N1cTQxN2N1a3lNRmFEZkxoWUgtX3NPSUN6V2c?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-07-22T09:33:41.512Z",
+      "pushedAt": "2026-07-22T09:33:41.512Z"
+    },
+    {
+      "id": "cc47338541b5a4a4",
+      "title": "Oil prices jump 4% as Rubio says Iran 'not serious' about peace talks",
+      "url": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "oil price + jump"
+      ],
+      "firstSeen": "2026-07-22T09:33:41.605Z",
+      "pushedAt": "2026-07-22T09:33:41.605Z"
+    },
+    {
+      "id": "1052e90db0413253",
+      "title": "Treasury yields flat as traders reassess Fed rate hike bets",
+      "url": "https://www.cnbc.com/2026/07/22/treasury-yields-fed-rate-hike-bets.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-07-22T09:33:41.634Z",
+      "pushedAt": "2026-07-22T09:33:41.634Z"
+    },
+    {
       "id": "c3cbac71d5e9bd36",
       "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
       "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
@@ -131,19 +180,7 @@
       ],
       "firstSeen": "2026-07-21T10:48:40.736Z",
       "pushedAt": "2026-07-21T10:48:40.736Z"
-    },
-    {
-      "id": "927d0cd8006e5624",
-      "title": "US military completes its latest strikes on Iran, marking the 10th successive night of attacks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjlJZGJYNm5OYjczNWZJZkMxZGFGRFRJSHVGZjFaMS1KTkNfUTgzV2Y3Qk5VU0RDR0ZXOXBBUldobElBb0hRV2Y5MmlkR0pVNkNlN3RESGlzUlY2bnFBUFNJN3JaVmpyR3RzVkt0QTRVcklEQm05cmNIaUIyQkVJeWtzbi1sSk9XeFZpaURvUU1rM2hJLTMxcGJZa0RzdDFUcV8zdkNuQndVay0yYUc1Q3piMThnS2M2Wm1GMGNVREcxejFLNWxEcw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-07-21T08:43:47.034Z",
-      "pushedAt": "2026-07-21T08:43:47.034Z"
     }
   ],
-  "updatedAt": "2026-07-22T04:27:17.681Z"
+  "updatedAt": "2026-07-22T09:33:41.676Z"
 }
