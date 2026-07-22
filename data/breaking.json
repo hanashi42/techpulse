@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "4bc2a499d3284b7b",
+      "title": "US military identifies 3rd service member believed to have been killed in Iranian attack - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeklzVlNQYy1nZjVzaUtYa0tNamVrTVNyWHZfS2JmUmYwQmtZLWxPVkMyeTB1ZElBNkhiZ0M0MkdzWHQtbmRLRGo5Z1ZleXVtZzdNYXdQTlB0TUVGMDQ0M2tXMjFvbzU0WkVseGVwRFhaYndPUDhaWWF3SFU3b29sQ2pVREdHUEJqZmZ2dk1qRnRILVY5LXE0cl9sS3BobFVTaEE?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + military"
+      ],
+      "firstSeen": "2026-07-22T01:06:21.507Z",
+      "pushedAt": "2026-07-22T01:06:21.507Z"
+    },
+    {
       "id": "aaeb7e2366624690",
       "title": "Civilians faced attacks, abuse in joint US-Ecuador operations, HRW says",
       "url": "https://www.aljazeera.com/news/2026/7/21/civilians-faced-attacks-abuse-in-joint-us-ecuador-operations-hrw-says?traffic_source=rss",
@@ -107,67 +119,7 @@
       ],
       "firstSeen": "2026-07-21T08:43:47.034Z",
       "pushedAt": "2026-07-21T08:43:47.034Z"
-    },
-    {
-      "id": "d3075380a3ac9908",
-      "title": "Trump slaps more tariffs on Canada over 'discrimination'",
-      "url": "https://news.sky.com/story/trump-administration-imposes-50-tariffs-on-canadian-goods-over-continued-discrimination-13565443",
-      "source": "Sky News",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-07-21T00:07:55.988Z",
-      "pushedAt": "2026-07-21T00:07:55.988Z"
-    },
-    {
-      "id": "b8ae4237586542c0",
-      "title": "US imposes new 50% tariffs on some Canadian products - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWJmZE81SUhjQV9Kc0hseUFwMGlDNml3alZscUFqSjljaUh5LTZRSEFjQXo4Y3JHSTdyNkVqLXFjOGZTQWoxUGY1LVRqQVFtSGx3aWhGWmhxR25LNDU5Nm5SQWFELWRER1dfeXNsdWV5Z05RMWRtTEF2em15T25JYm51SHdCRXNWNDd6YUdhY3dTdw?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + new"
-      ],
-      "firstSeen": "2026-07-20T22:12:03.987Z",
-      "pushedAt": "2026-07-20T22:12:03.987Z"
-    },
-    {
-      "id": "c3cbac71d5e9bd36",
-      "title": "Trump imposes 50% tariff on Canadian imports",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + impose"
-      ],
-      "firstSeen": "2026-07-20T22:12:04.287Z",
-      "pushedAt": "2026-07-20T22:12:04.287Z"
-    },
-    {
-      "id": "6218978cce406345",
-      "title": "Iran condemns US attacks on civilian infrastructure",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + civilian"
-      ],
-      "firstSeen": "2026-07-20T21:12:06.521Z",
-      "pushedAt": "2026-07-20T21:12:06.521Z"
-    },
-    {
-      "id": "3ee407f9d823e8ef",
-      "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members",
-      "url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-07-20T19:59:46.420Z",
-      "pushedAt": "2026-07-20T19:59:46.420Z"
     }
   ],
-  "updatedAt": "2026-07-21T18:21:47.728Z"
+  "updatedAt": "2026-07-22T01:06:21.745Z"
 }
