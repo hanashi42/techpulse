@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "435e9f7403042e7e",
+      "title": "Oil surges past $100 in a first since May as Middle East conflicts rage",
+      "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil"
+      ],
+      "firstSeen": "2026-07-23T17:42:45.411Z",
+      "pushedAt": "2026-07-23T17:42:45.411Z"
+    },
+    {
       "id": "d60138d54c095842",
       "title": "Traders see September rate hike as European Central Bank mulls energy price spike",
       "url": "https://www.cnbc.com/2026/07/23/interest-rate-hike-iran-european-central-bank.html",
@@ -146,5 +158,5 @@
       "pushedAt": "2026-07-22T22:11:02.593Z"
     }
   ],
-  "updatedAt": "2026-07-23T16:09:39.321Z"
+  "updatedAt": "2026-07-23T17:42:45.705Z"
 }
