@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "d60138d54c095842",
+      "title": "Traders see September rate hike as European Central Bank mulls energy price spike",
+      "url": "https://www.cnbc.com/2026/07/23/interest-rate-hike-iran-european-central-bank.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + central bank"
+      ],
+      "firstSeen": "2026-07-23T16:09:38.409Z",
+      "pushedAt": "2026-07-23T16:09:38.409Z"
+    },
+    {
       "id": "5abcbb8edc9b7d58",
       "title": "EU hits Google with new $1bn fine, saying it broke digital antitrust rules",
       "url": "https://www.aljazeera.com/news/2026/7/23/eu-hits-google-with-new-1bn-fine-saying-it-broke-digital-antitrust-rules?traffic_source=rss",
@@ -132,31 +144,7 @@
       ],
       "firstSeen": "2026-07-22T22:11:02.593Z",
       "pushedAt": "2026-07-22T22:11:02.593Z"
-    },
-    {
-      "id": "580a55f080eb3be2",
-      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-07-22T14:49:42.415Z",
-      "pushedAt": "2026-07-22T14:49:42.415Z"
-    },
-    {
-      "id": "4369f6334decadfe",
-      "title": "Trump's generic drug tariffs: What they could mean for medicine prices, manufacturers and supply",
-      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drug-tariffs-prices-explained.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-07-22T14:49:42.591Z",
-      "pushedAt": "2026-07-22T14:49:42.591Z"
     }
   ],
-  "updatedAt": "2026-07-23T14:32:52.864Z"
+  "updatedAt": "2026-07-23T16:09:39.321Z"
 }
