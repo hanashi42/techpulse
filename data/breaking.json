@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "a4f6bf324c6ab273",
+      "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
+      "url": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-23T21:12:40.229Z",
+      "pushedAt": "2026-07-23T21:12:40.229Z"
+    },
+    {
+      "id": "d34d98898d199498",
+      "title": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge",
+      "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "plunge + stock"
+      ],
+      "firstSeen": "2026-07-23T21:12:40.486Z",
+      "pushedAt": "2026-07-23T21:12:40.486Z"
+    },
+    {
       "id": "435e9f7403042e7e",
       "title": "Oil surges past $100 in a first since May as Middle East conflicts rage",
       "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss",
@@ -158,5 +182,5 @@
       "pushedAt": "2026-07-22T22:11:02.593Z"
     }
   ],
-  "updatedAt": "2026-07-23T17:42:45.705Z"
+  "updatedAt": "2026-07-23T21:12:40.715Z"
 }
