@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "ec6f47dc24054b77",
+      "title": "Beijing seeks opinions on planned China-US tariff cuts on $30 billion in trade - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjhhSzh0anVDc2IwekdnN1Jib2JvTXp5eXM5aHhCeEctcmIxZzhKX21nSkFOazF6TmJpRmJsNEhMQWdobGV0UG5DenZkWmFpX1I1bTd1VFd3bTBOTmh3cHBMQXZtOXFsRXZvX3R1VE8zZkpMNzV3VEpQd3NaQWZZa2NGdmFnQVlrWUE0SGduUmt5ZkQzaThnS2NhN0pWaTFLODhPWUdkRnB2SWdNWEZ0MXRwNENnaTg?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-07-23T10:52:22.163Z",
+      "pushedAt": "2026-07-23T10:52:22.163Z"
+    },
+    {
       "id": "705369413be07d09",
       "title": "EXCLUSIVE: Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUIxX2ZqcHFIWTA3T2dfWk1fZFJLdU5nMk5FcldiVmt5eUJrcWhrdmd3bnhzTDVKN0c3TlpsTmdhYTdDUEJ0MUljdy1xMmkxOHFvRG9WSGFjUmdEQ1VvTjZYQWhJQjV6QnF4a3p0aVB1dWdVOUQ5bnVIcnZVckJDaEZTaURSSV9FbG9jVEtnRndmTEU2R19iQjc4QkRaMUJtaE5YTmFMS1ZWcGk3RU5GeGhNU3djVFBsQWxDMERleWlVUG1ERnNkdHNxUQ?oc=5",
@@ -95,56 +107,7 @@
       ],
       "firstSeen": "2026-07-22T11:26:28.066Z",
       "pushedAt": "2026-07-22T11:26:28.066Z"
-    },
-    {
-      "id": "f8f9adcacac8c7ae",
-      "title": "UK inflation slows in temporary boost for new PM Burnham - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zT2lzOGZHUzVZd3B5NWJBcmRtcEdmUmVIc0QwZ2U2WEtQLXozVnZiZ1pqSmhldVlrd3U5ZzY5QlMzbGw3eGpjM0hMUzhJSk9acXVQNmpmeWVPaXZxYi1lZDlOZFFiWkxrejdERTNHZFRvRW5aZUt2MWVsUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "inflation + slow"
-      ],
-      "firstSeen": "2026-07-22T09:33:41.396Z",
-      "pushedAt": "2026-07-22T09:33:41.396Z"
-    },
-    {
-      "id": "b6c85b7ae6a57968",
-      "title": "EU envoys meet to negotiate 21st Russia sanctions package - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjdLb1ZpR0E4UnIwbUdKQlNKQmVnOFhSUi1ueGZucDk2akRMZnhDMXltTzdXbHl0dE5xUVpidzAwSllueWxoX2JqYTNsUWNwZmhJbkRrcWpIVU1DMnFzblJXbFIzV0FneEh3RzVwOTJKdDMyWWpJSWFNMXpaR3lPN2trWWhCOHY4VlFOT0w1d3N1cTQxN2N1a3lNRmFEZkxoWUgtX3NPSUN6V2c?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-07-22T09:33:41.512Z",
-      "pushedAt": "2026-07-22T09:33:41.512Z"
-    },
-    {
-      "id": "cc47338541b5a4a4",
-      "title": "Oil prices jump 4% as Rubio says Iran 'not serious' about peace talks",
-      "url": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + jump"
-      ],
-      "firstSeen": "2026-07-22T09:33:41.605Z",
-      "pushedAt": "2026-07-22T09:33:41.605Z"
-    },
-    {
-      "id": "1052e90db0413253",
-      "title": "Treasury yields flat as traders reassess Fed rate hike bets",
-      "url": "https://www.cnbc.com/2026/07/22/treasury-yields-fed-rate-hike-bets.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + fed",
-        "fed + rate"
-      ],
-      "firstSeen": "2026-07-22T09:33:41.634Z",
-      "pushedAt": "2026-07-22T09:33:41.634Z"
     }
   ],
-  "updatedAt": "2026-07-23T06:18:05.138Z"
+  "updatedAt": "2026-07-23T10:52:22.394Z"
 }
