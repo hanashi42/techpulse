@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "705369413be07d09",
+      "title": "EXCLUSIVE: Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUIxX2ZqcHFIWTA3T2dfWk1fZFJLdU5nMk5FcldiVmt5eUJrcWhrdmd3bnhzTDVKN0c3TlpsTmdhYTdDUEJ0MUljdy1xMmkxOHFvRG9WSGFjUmdEQ1VvTjZYQWhJQjV6QnF4a3p0aVB1dWdVOUQ5bnVIcnZVckJDaEZTaURSSV9FbG9jVEtnRndmTEU2R19iQjc4QkRaMUJtaE5YTmFMS1ZWcGk3RU5GeGhNU3djVFBsQWxDMERleWlVUG1ERnNkdHNxUQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + price"
+      ],
+      "firstSeen": "2026-07-23T06:18:04.950Z",
+      "pushedAt": "2026-07-23T06:18:04.950Z"
+    },
+    {
+      "id": "f287d89e96fdda51",
+      "title": "Five soldiers killed in southern Thailand checkpoint attack",
+      "url": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-23T06:18:05.079Z",
+      "pushedAt": "2026-07-23T06:18:05.079Z"
+    },
+    {
       "id": "89b4e6e435f6bd07",
       "title": "Oil prices rise another 3%, while Wall Street drifts in mixed trading - AP News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGU4c1pFU21KSHRpZmVmNU1GVG1MRUFxalNiakVTVHVXZV9qdVR2Q05FUk1IemZ6bXc3ZkVQd1kwcWNtdFJvOWNUSFhMSmJvRWp0OUZUcEFpcFJTeHdTUjNmdDhISlZ4ajNnT3lDaV9tTm44VW14Q3dncUt3b1c4SzV0dExhckhWamdzU2JaNjQ5Zw?oc=5",
@@ -120,43 +144,7 @@
       ],
       "firstSeen": "2026-07-22T09:33:41.634Z",
       "pushedAt": "2026-07-22T09:33:41.634Z"
-    },
-    {
-      "id": "c3cbac71d5e9bd36",
-      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + 50%"
-      ],
-      "firstSeen": "2026-07-22T04:27:17.514Z",
-      "pushedAt": "2026-07-22T04:27:17.514Z"
-    },
-    {
-      "id": "206599de0febe08f",
-      "title": "Trump plans steep tariffs on generic drugs starting in 2028 to spur U.S. production",
-      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-07-22T04:27:17.636Z",
-      "pushedAt": "2026-07-22T04:27:17.636Z"
-    },
-    {
-      "id": "4bc2a499d3284b7b",
-      "title": "US military identifies 3rd service member believed to have been killed in Iranian attack - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeklzVlNQYy1nZjVzaUtYa0tNamVrTVNyWHZfS2JmUmYwQmtZLWxPVkMyeTB1ZElBNkhiZ0M0MkdzWHQtbmRLRGo5Z1ZleXVtZzdNYXdQTlB0TUVGMDQ0M2tXMjFvbzU0WkVseGVwRFhaYndPUDhaWWF3SFU3b29sQ2pVREdHUEJqZmZ2dk1qRnRILVY5LXE0cl9sS3BobFVTaEE?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + military"
-      ],
-      "firstSeen": "2026-07-22T01:06:21.507Z",
-      "pushedAt": "2026-07-22T01:06:21.507Z"
     }
   ],
-  "updatedAt": "2026-07-22T22:11:02.822Z"
+  "updatedAt": "2026-07-23T06:18:05.138Z"
 }
