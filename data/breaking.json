@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "id": "86ac2cc15600e755",
+      "title": "EU targets Russian banks in new sanctions package over Ukraine war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDk5Tmt4am9MUUVyY0V1RGRnbm5hbE5TcDJqTDJuRXlmaVpOdVJuN2VRYXIwaUwyRU9UdDN0b3N1eGMxS0NlelNjWmhqemJfN252N2QyVTBNSU9QSHcxbmwySkRnQk5XSDZLdXEwNEVTbEhmMDJNdFpuM2RvcjItMGJwVF9JMElIekt4TEtjSlF0dXBJMG5XUkw3ZHg1aVdRX2paMnRBdkFWcHlCbW5zU1NWWDRpazZtQjJfTWlQMnZ5cDN1dE5J?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-07-23T12:15:36.140Z",
+      "pushedAt": "2026-07-23T12:15:36.140Z"
+    },
+    {
+      "id": "dcac1efc426ba88c",
+      "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
+      "url": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-23T12:15:36.378Z",
+      "pushedAt": "2026-07-23T12:15:36.378Z"
+    },
+    {
+      "id": "0570152cbe6d3ad3",
+      "title": "Democratic lawmakers propose bank funded by China tariffs to boost US manufacturing - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2Y4ZkJNSFdVR21weHV0bnlxdXlhNUpXdnh2TW50Ym9CV1V2RWF5dDJDLU1DVnBLOUluR1QyLWdKWkctZ1l5Nk5qMXhLQWxUNmU0TENyODMtWTdUckJKdGpIM2ZCd2pvYVNVOE5wN2dYSUx6QWtrQ3BmaE5vLWtyMEt0QXVsM0FR?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-07-23T12:15:36.608Z",
+      "pushedAt": "2026-07-23T12:15:36.608Z"
+    },
+    {
+      "id": "e038c24341f4879c",
+      "title": "Rubber Market Ends Higher On Gains In Regional Futures, Surge In Oil Prices - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xU3pZbzA1ZC1FdWJaRVVRdGloSnVfSVh5bkZOYlVZdTZ6emNHLWhJaldsaWhDcFNPTlFPcC1mZ2xGRlBVUDNsNXJNUGhRakFEZXRyM2FNcndKaWxhcWx1UjlmMA?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "surge + oil",
+        "oil price + surge"
+      ],
+      "firstSeen": "2026-07-23T12:15:36.685Z",
+      "pushedAt": "2026-07-23T12:15:36.685Z"
+    },
+    {
+      "id": "ea3568047877bed7",
+      "title": "Trump Says Canada Cannot Survive Without US Amid Tariff Row - Bernama",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PVF9lV1NRRF9oazA1enhTQ1dVbkZUNmdEVk9YaHhCM3d1bTBmMTFWMEJudGpXWUNYZlhKR2JEVEtHUEtsa2RSSzBUbTZ1QjZucWFBWg?oc=5",
+      "source": "Bernama",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-23T12:15:36.760Z",
+      "pushedAt": "2026-07-23T12:15:36.760Z"
+    },
+    {
       "id": "ec6f47dc24054b77",
       "title": "Beijing seeks opinions on planned China-US tariff cuts on $30 billion in trade - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjhhSzh0anVDc2IwekdnN1Jib2JvTXp5eXM5aHhCeEctcmIxZzhKX21nSkFOazF6TmJpRmJsNEhMQWdobGV0UG5DenZkWmFpX1I1bTd1VFd3bTBOTmh3cHBMQXZtOXFsRXZvX3R1VE8zZkpMNzV3VEpQd3NaQWZZa2NGdmFnQVlrWUE0SGduUmt5ZkQzaThnS2NhN0pWaTFLODhPWUdkRnB2SWdNWEZ0MXRwNENnaTg?oc=5",
@@ -83,31 +144,7 @@
       ],
       "firstSeen": "2026-07-22T12:53:50.295Z",
       "pushedAt": "2026-07-22T12:53:50.295Z"
-    },
-    {
-      "id": "02931b13cfb60d55",
-      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
-      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + russia"
-      ],
-      "firstSeen": "2026-07-22T11:26:28.019Z",
-      "pushedAt": "2026-07-22T11:26:28.019Z"
-    },
-    {
-      "id": "413938fcf9079ef1",
-      "title": "Tehran's Hormuz threat risks global fallout, Rubio warns as U.S. strikes Iran for 11th straight night",
-      "url": "https://www.cnbc.com/2026/07/22/us-iran-war-trump-hormuz-.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "hormuz + threat"
-      ],
-      "firstSeen": "2026-07-22T11:26:28.066Z",
-      "pushedAt": "2026-07-22T11:26:28.066Z"
     }
   ],
-  "updatedAt": "2026-07-23T10:52:22.394Z"
+  "updatedAt": "2026-07-23T12:15:36.836Z"
 }
