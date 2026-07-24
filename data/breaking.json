@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "10bb5020193b7597",
+      "title": "European Commission gives guarded welcome to new Trump tariffs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0lfaDB3SHJ6STlnLXIyYWtTMHBUaE5qXzBDXy1VMDJkcHp1NjROSFFtbGVMWUEtQTl5RTNXVmFFajFrS1JIbFFjVzJLdEhMeW53ODB1c010VHBpYjNYbXNIbnBscEpGbXVmSHJjMUl3QXhiemlOc2oxbFpjYk1pZklSMnUwako2Sl8zWG9KcU04Z29McllZNVNTb3JrZUM1X19UZ3ctZFNneEE?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-24T10:36:31.694Z",
+      "pushedAt": "2026-07-24T10:36:31.694Z"
+    },
+    {
+      "id": "a6ac45bbf986971e",
+      "title": "China adds 14 EU entities to export control list over Russia-related sanctions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUlVQVGZKNU9qbFNNcHFBcy0tMVdwZ2RCS1Z0SC1oZDVBeUZrX2xSZlpvTklTMTBteUNmME55OVhVWWx5RlhINnRhOG9TS0dKSlNxN3hmWHExbXgtV0NIY3NmMVpaaERiaW1kUDFUVjlteWZQaHhOMUxqMWU5UWF6RW1hX1pCY1JWUEdJeWxrVW5ZZi02QXBVV3VHVGxLb05uaEtTYkl1WFJ1dUdpRFhxSVd0RnhpSmdONWtLQU1hek5VWjVwQ1Z1VWJSdG9mWGFPMFc4Sg?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-07-24T10:36:32.089Z",
+      "pushedAt": "2026-07-24T10:36:32.089Z"
+    },
+    {
       "id": "7b5e1f7208d604c4",
       "title": "Gold softens on prospects of Fed rate hikes - Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkFxM3hTSjdVaTVBREZMazRNOUhabGlBTUdxdk9fSklYbzliUC1Lc0FLX1dOWmlhM1NsQkhoZVowTVE3ZHNJLWQxbVNoMXVvVFc1VG5NTEQwYThjMnhUMVI3TTRUNmJhMGhrTm95WFM1LTY0VEp4c1ZDcXdqaVhZQnVMYkM0SWliSFF3bHJBWXFFUTJLVVRxLTNfdnA5QQ?oc=5",
@@ -219,5 +243,5 @@
       "pushedAt": "2026-07-23T10:52:22.163Z"
     }
   ],
-  "updatedAt": "2026-07-24T08:40:06.974Z"
+  "updatedAt": "2026-07-24T10:36:32.221Z"
 }
