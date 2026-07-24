@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "51372e59a1df4bc5",
+      "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORzVSb2tZRUVrYzhLQ0hCcVk1clVDQ1hjaGFPVElvd0JKZ0RVeGFTQ2JBVlVwRFNLbUxHOGZKTnl3WGEyeU5PQzEtTnBmVjBRdVVVUHBaSzJXY1pRT2ZFenczR0d2emszLWpGZDItNEcxd29RSGdWSDhVOEM5RjZRRXc0VQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "inflation + spike"
+      ],
+      "firstSeen": "2026-07-24T03:37:13.669Z",
+      "pushedAt": "2026-07-24T03:37:13.669Z"
+    },
+    {
+      "id": "d4a87b6808f0a3ba",
+      "title": "Trump imposes new double-digit tariffs on dozens of countries",
+      "url": "https://www.aljazeera.com/news/2026/7/24/trump-imposes-new-double-digit-tariffs-on-dozens-of-countries?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-24T03:37:13.740Z",
+      "pushedAt": "2026-07-24T03:37:13.740Z"
+    },
+    {
+      "id": "70a98bb5e9289cba",
+      "title": "Israel bombs Gaza after displacement orders, kills two Palestinians",
+      "url": "https://www.aljazeera.com/news/2026/7/24/israel-bombs-gaza-after-displacement-orders-kills-two-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P0",
+      "matchedKeywords": [
+        "bombs"
+      ],
+      "firstSeen": "2026-07-24T03:37:13.770Z",
+      "pushedAt": "2026-07-24T03:37:13.770Z"
+    },
+    {
       "id": "a4f6bf324c6ab273",
       "title": "Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire",
       "url": "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
@@ -168,19 +204,7 @@
       ],
       "firstSeen": "2026-07-23T06:18:05.079Z",
       "pushedAt": "2026-07-23T06:18:05.079Z"
-    },
-    {
-      "id": "89b4e6e435f6bd07",
-      "title": "Oil prices rise another 3%, while Wall Street drifts in mixed trading - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGU4c1pFU21KSHRpZmVmNU1GVG1MRUFxalNiakVTVHVXZV9qdVR2Q05FUk1IemZ6bXc3ZkVQd1kwcWNtdFJvOWNUSFhMSmJvRWp0OUZUcEFpcFJTeHdTUjNmdDhISlZ4ajNnT3lDaV9tTm44VW14Q3dncUt3b1c4SzV0dExhckhWamdzU2JaNjQ5Zw?oc=5",
-      "source": "AP",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + rise"
-      ],
-      "firstSeen": "2026-07-22T22:11:02.593Z",
-      "pushedAt": "2026-07-22T22:11:02.593Z"
     }
   ],
-  "updatedAt": "2026-07-23T21:12:40.715Z"
+  "updatedAt": "2026-07-24T03:37:13.802Z"
 }
