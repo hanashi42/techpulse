@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "54f1d2e0b794c075",
+      "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5",
+      "source": "AP",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tumble + oil"
+      ],
+      "firstSeen": "2026-07-24T17:09:11.871Z",
+      "pushedAt": "2026-07-24T17:09:11.871Z"
+    },
+    {
+      "id": "f5333ca276472de7",
+      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + war"
+      ],
+      "firstSeen": "2026-07-24T17:09:11.989Z",
+      "pushedAt": "2026-07-24T17:09:11.989Z"
+    },
+    {
+      "id": "5a97db323c057411",
+      "title": "Liberation Day 2.0? US slaps fresh wave of tariffs on China, 50-plus economies - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFRJWW40Qkkzb21SeHJDbG9tbzhFZzAtM2JZeFM4V0MzcExTMFA2aC1aemtVWjNrdkRSQ2RNVV83LWlXRnlNWXByaHBReFJOYVQzWHJ3OGRrNERGRFEzZkpfR2k5UHZ0Y25tNE1WMXZkYTlTMEd5VGNfTmhfOTZmTGsyYzhFNHhiTDhWQkdUZlNMbzRIWmhXdkdxdjVIT3JtSkg5WjIxTks0dGhaT2hNdVJfVdIBswFBVV95cUxQTVc0d3B2QzVnWDlLZ2VZMmZhVUxTanFUVkFIcUlWTEs5SmxLY2FoOFJ0MHV5Q2dNam5XZXNhdUItRG1GSHlaMUgtc3pORFExMkx6bHFYRTJfLTkzdGZJOVRQc2p1RVpnOW9CZGlCN0xUNDAxcnBFTVNFQ0M2OGtBYWZvOWIxUFZic0c0eHF4VEJ4Q1VKSGJXd3oySzQ5cjZPSERmVlp0NHNYd2hYQWxzTFc5dw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + china"
+      ],
+      "firstSeen": "2026-07-24T17:09:12.084Z",
+      "pushedAt": "2026-07-24T17:09:12.084Z"
+    },
+    {
       "id": "48b868081c66636e",
       "title": "Russian missile strike kills 10 at Ukraine defence event - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmUyM0FtV09VRWkzQ1VGa1F0ZU10ZmtBNGI0eEpZUnR0ZXFjTmdyMS1ZX0hEdU9mUmhQdEJRemhNVnhlLXFGejh0QVA0alpoczFDendxcWRNUlNYdHNHVnNEaFp4aURYZGQwcFhFTWxLdlNTRVpUYk9YS0RnTkdRak9hX1FreDBtX0lBZ2NRTGJJWDlqX243aERMVlZ3VGp2TEtLSTdTcFlVb1JjTGtJUVNkblpySHM?oc=5",
@@ -192,19 +228,7 @@
       ],
       "firstSeen": "2026-07-23T17:42:45.411Z",
       "pushedAt": "2026-07-23T17:42:45.411Z"
-    },
-    {
-      "id": "d60138d54c095842",
-      "title": "Traders see September rate hike as European Central Bank mulls energy price spike",
-      "url": "https://www.cnbc.com/2026/07/23/interest-rate-hike-iran-european-central-bank.html",
-      "source": "CNBC",
-      "priority": "P1",
-      "matchedKeywords": [
-        "rate hike + central bank"
-      ],
-      "firstSeen": "2026-07-23T16:09:38.409Z",
-      "pushedAt": "2026-07-23T16:09:38.409Z"
     }
   ],
-  "updatedAt": "2026-07-24T15:36:55.305Z"
+  "updatedAt": "2026-07-24T17:09:12.118Z"
 }
