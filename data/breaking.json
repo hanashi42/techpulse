@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "53eb7f3e41da836c",
+      "title": "Crypto exchange HTX included in EU's Russia sanctions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUF2eUFTNHYzMDZTeWpGVVhqZThWamJ0MVQyd09faUREeGxHNjRxcnkweHlONDFSNVh6MUVFVUsyWVBzTTlEcUctOEtCdmowa2JoNm02TTdLSWtuZFJDbXRzcElRRVltSy1lZEcya2ZhQmU1TDB3UTBwRHNjTHpsUHp6SUNvbXZFNHl2NFRVb1BHMzJjdVl4QkFTbUF4ZlQyQ3NNaA?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "sanctions + russia"
+      ],
+      "firstSeen": "2026-07-24T14:04:29.976Z",
+      "pushedAt": "2026-07-24T14:04:29.976Z"
+    },
+    {
+      "id": "ea2c8a14659b5305",
+      "title": "Five killed in occupied West Bank after Israeli settlers attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-24T14:04:30.438Z",
+      "pushedAt": "2026-07-24T14:04:30.438Z"
+    },
+    {
+      "id": "2b74e84b66a5cd70",
+      "title": "What are tariffs, how do they work and why is Trump using them? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+      "source": "China (EN)",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-24T14:04:30.708Z",
+      "pushedAt": "2026-07-24T14:04:30.708Z"
+    },
+    {
       "id": "10bb5020193b7597",
       "title": "European Commission gives guarded welcome to new Trump tariffs - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0lfaDB3SHJ6STlnLXIyYWtTMHBUaE5qXzBDXy1VMDJkcHp1NjROSFFtbGVMWUEtQTl5RTNXVmFFajFrS1JIbFFjVzJLdEhMeW53ODB1c010VHBpYjNYbXNIbnBscEpGbXVmSHJjMUl3QXhiemlOc2oxbFpjYk1pZklSMnUwako2Sl8zWG9KcU04Z29McllZNVNTb3JrZUM1X19UZ3ctZFNneEE?oc=5",
@@ -168,80 +204,7 @@
       ],
       "firstSeen": "2026-07-23T14:32:52.567Z",
       "pushedAt": "2026-07-23T14:32:52.567Z"
-    },
-    {
-      "id": "86ac2cc15600e755",
-      "title": "EU targets Russian banks in new sanctions package over Ukraine war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDk5Tmt4am9MUUVyY0V1RGRnbm5hbE5TcDJqTDJuRXlmaVpOdVJuN2VRYXIwaUwyRU9UdDN0b3N1eGMxS0NlelNjWmhqemJfN252N2QyVTBNSU9QSHcxbmwySkRnQk5XSDZLdXEwNEVTbEhmMDJNdFpuM2RvcjItMGJwVF9JMElIekt4TEtjSlF0dXBJMG5XUkw3ZHg1aVdRX2paMnRBdkFWcHlCbW5zU1NWWDRpazZtQjJfTWlQMnZ5cDN1dE5J?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "sanctions + war"
-      ],
-      "firstSeen": "2026-07-23T12:15:36.140Z",
-      "pushedAt": "2026-07-23T12:15:36.140Z"
-    },
-    {
-      "id": "dcac1efc426ba88c",
-      "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
-      "url": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-23T12:15:36.378Z",
-      "pushedAt": "2026-07-23T12:15:36.378Z"
-    },
-    {
-      "id": "0570152cbe6d3ad3",
-      "title": "Democratic lawmakers propose bank funded by China tariffs to boost US manufacturing - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2Y4ZkJNSFdVR21weHV0bnlxdXlhNUpXdnh2TW50Ym9CV1V2RWF5dDJDLU1DVnBLOUluR1QyLWdKWkctZ1l5Nk5qMXhLQWxUNmU0TENyODMtWTdUckJKdGpIM2ZCd2pvYVNVOE5wN2dYSUx6QWtrQ3BmaE5vLWtyMEt0QXVsM0FR?oc=5",
-      "source": "China (EN)",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-07-23T12:15:36.608Z",
-      "pushedAt": "2026-07-23T12:15:36.608Z"
-    },
-    {
-      "id": "e038c24341f4879c",
-      "title": "Rubber Market Ends Higher On Gains In Regional Futures, Surge In Oil Prices - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xU3pZbzA1ZC1FdWJaRVVRdGloSnVfSVh5bkZOYlVZdTZ6emNHLWhJaldsaWhDcFNPTlFPcC1mZ2xGRlBVUDNsNXJNUGhRakFEZXRyM2FNcndKaWxhcWx1UjlmMA?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil",
-        "oil price + surge"
-      ],
-      "firstSeen": "2026-07-23T12:15:36.685Z",
-      "pushedAt": "2026-07-23T12:15:36.685Z"
-    },
-    {
-      "id": "ea3568047877bed7",
-      "title": "Trump Says Canada Cannot Survive Without US Amid Tariff Row - Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PVF9lV1NRRF9oazA1enhTQ1dVbkZUNmdEVk9YaHhCM3d1bTBmMTFWMEJudGpXWUNYZlhKR2JEVEtHUEtsa2RSSzBUbTZ1QjZucWFBWg?oc=5",
-      "source": "Bernama",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + trump"
-      ],
-      "firstSeen": "2026-07-23T12:15:36.760Z",
-      "pushedAt": "2026-07-23T12:15:36.760Z"
-    },
-    {
-      "id": "ec6f47dc24054b77",
-      "title": "Beijing seeks opinions on planned China-US tariff cuts on $30 billion in trade - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjhhSzh0anVDc2IwekdnN1Jib2JvTXp5eXM5aHhCeEctcmIxZzhKX21nSkFOazF6TmJpRmJsNEhMQWdobGV0UG5DenZkWmFpX1I1bTd1VFd3bTBOTmh3cHBMQXZtOXFsRXZvX3R1VE8zZkpMNzV3VEpQd3NaQWZZa2NGdmFnQVlrWUE0SGduUmt5ZkQzaThnS2NhN0pWaTFLODhPWUdkRnB2SWdNWEZ0MXRwNENnaTg?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "tariff + china"
-      ],
-      "firstSeen": "2026-07-23T10:52:22.163Z",
-      "pushedAt": "2026-07-23T10:52:22.163Z"
     }
   ],
-  "updatedAt": "2026-07-24T10:36:32.221Z"
+  "updatedAt": "2026-07-24T14:04:30.801Z"
 }
