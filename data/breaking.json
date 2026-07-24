@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "id": "7b5e1f7208d604c4",
+      "title": "Gold softens on prospects of Fed rate hikes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkFxM3hTSjdVaTVBREZMazRNOUhabGlBTUdxdk9fSklYbzliUC1Lc0FLX1dOWmlhM1NsQkhoZVowTVE3ZHNJLWQxbVNoMXVvVFc1VG5NTEQwYThjMnhUMVI3TTRUNmJhMGhrTm95WFM1LTY0VEp4c1ZDcXdqaVhZQnVMYkM0SWliSFF3bHJBWXFFUTJLVVRxLTNfdnA5QQ?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "rate hike + fed",
+        "fed + rate"
+      ],
+      "firstSeen": "2026-07-24T08:40:06.336Z",
+      "pushedAt": "2026-07-24T08:40:06.336Z"
+    },
+    {
+      "id": "6c4a11ee0c81d689",
+      "title": "US hits dozens of trading partners with new wave of tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + new"
+      ],
+      "firstSeen": "2026-07-24T08:40:06.637Z",
+      "pushedAt": "2026-07-24T08:40:06.637Z"
+    },
+    {
+      "id": "b6a05e06708e4c81",
+      "title": "CNBC Daily Open: Nations reject Trump's 'arbitrary' tariffs",
+      "url": "https://www.cnbc.com/2026/07/24/cnbc-daily-open-trumps-trade-tariffs-arbitrary.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-24T08:40:06.884Z",
+      "pushedAt": "2026-07-24T08:40:06.884Z"
+    },
+    {
       "id": "51372e59a1df4bc5",
       "title": "Asian stocks skid as oil spike revives inflation fears, bonds take a hit - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORzVSb2tZRUVrYzhLQ0hCcVk1clVDQ1hjaGFPVElvd0JKZ0RVeGFTQ2JBVlVwRFNLbUxHOGZKTnl3WGEyeU5PQzEtTnBmVjBRdVVVUHBaSzJXY1pRT2ZFenczR0d2emszLWpGZDItNEcxd29RSGdWSDhVOEM5RjZRRXc0VQ?oc=5",
@@ -180,31 +217,7 @@
       ],
       "firstSeen": "2026-07-23T10:52:22.163Z",
       "pushedAt": "2026-07-23T10:52:22.163Z"
-    },
-    {
-      "id": "705369413be07d09",
-      "title": "EXCLUSIVE: Intel, AMD sign long-term server CPU deals with Chinese clients as prices surge, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUIxX2ZqcHFIWTA3T2dfWk1fZFJLdU5nMk5FcldiVmt5eUJrcWhrdmd3bnhzTDVKN0c3TlpsTmdhYTdDUEJ0MUljdy1xMmkxOHFvRG9WSGFjUmdEQ1VvTjZYQWhJQjV6QnF4a3p0aVB1dWdVOUQ5bnVIcnZVckJDaEZTaURSSV9FbG9jVEtnRndmTEU2R19iQjc4QkRaMUJtaE5YTmFMS1ZWcGk3RU5GeGhNU3djVFBsQWxDMERleWlVUG1ERnNkdHNxUQ?oc=5",
-      "source": "Reuters",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + price"
-      ],
-      "firstSeen": "2026-07-23T06:18:04.950Z",
-      "pushedAt": "2026-07-23T06:18:04.950Z"
-    },
-    {
-      "id": "f287d89e96fdda51",
-      "title": "Five soldiers killed in southern Thailand checkpoint attack",
-      "url": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "attack + killed"
-      ],
-      "firstSeen": "2026-07-23T06:18:05.079Z",
-      "pushedAt": "2026-07-23T06:18:05.079Z"
     }
   ],
-  "updatedAt": "2026-07-24T03:37:13.802Z"
+  "updatedAt": "2026-07-24T08:40:06.974Z"
 }
