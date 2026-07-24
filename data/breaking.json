@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "48b868081c66636e",
+      "title": "Russian missile strike kills 10 at Ukraine defence event - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmUyM0FtV09VRWkzQ1VGa1F0ZU10ZmtBNGI0eEpZUnR0ZXFjTmdyMS1ZX0hEdU9mUmhQdEJRemhNVnhlLXFGejh0QVA0alpoczFDendxcWRNUlNYdHNHVnNEaFp4aURYZGQwcFhFTWxLdlNTRVpUYk9YS0RnTkdRak9hX1FreDBtX0lBZ2NRTGJJWDlqX243aERMVlZ3VGp2TEtLSTdTcFlVb1JjTGtJUVNkblpySHM?oc=5",
+      "source": "Reuters",
+      "priority": "P0",
+      "matchedKeywords": [
+        "missile strike"
+      ],
+      "firstSeen": "2026-07-24T15:36:54.799Z",
+      "pushedAt": "2026-07-24T15:36:54.799Z"
+    },
+    {
+      "id": "3d7417fbcda9272a",
+      "title": "At least 21 killed as Ukraine and Russia continue to trade attacks",
+      "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-24T15:36:55.061Z",
+      "pushedAt": "2026-07-24T15:36:55.061Z"
+    },
+    {
       "id": "53eb7f3e41da836c",
       "title": "Crypto exchange HTX included in EU's Russia sanctions - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOUF2eUFTNHYzMDZTeWpGVVhqZThWamJ0MVQyd09faUREeGxHNjRxcnkweHlONDFSNVh6MUVFVUsyWVBzTTlEcUctOEtCdmowa2JoNm02TTdLSWtuZFJDbXRzcElRRVltSy1lZEcya2ZhQmU1TDB3UTBwRHNjTHpsUHp6SUNvbXZFNHl2NFRVb1BHMzJjdVl4QkFTbUF4ZlQyQ3NNaA?oc=5",
@@ -180,31 +204,7 @@
       ],
       "firstSeen": "2026-07-23T16:09:38.409Z",
       "pushedAt": "2026-07-23T16:09:38.409Z"
-    },
-    {
-      "id": "5abcbb8edc9b7d58",
-      "title": "EU hits Google with new $1bn fine, saying it broke digital antitrust rules",
-      "url": "https://www.aljazeera.com/news/2026/7/23/eu-hits-google-with-new-1bn-fine-saying-it-broke-digital-antitrust-rules?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "antitrust + google"
-      ],
-      "firstSeen": "2026-07-23T14:32:52.288Z",
-      "pushedAt": "2026-07-23T14:32:52.288Z"
-    },
-    {
-      "id": "16bb2246186db580",
-      "title": "Iran War Live Updates: Oil Prices Hit $100 a Barrel After Attacks in Red Sea",
-      "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
-      "source": "NYT",
-      "priority": "P1",
-      "matchedKeywords": [
-        "oil price + barrel"
-      ],
-      "firstSeen": "2026-07-23T14:32:52.567Z",
-      "pushedAt": "2026-07-23T14:32:52.567Z"
     }
   ],
-  "updatedAt": "2026-07-24T14:04:30.801Z"
+  "updatedAt": "2026-07-24T15:36:55.305Z"
 }
