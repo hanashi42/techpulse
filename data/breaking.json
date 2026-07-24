@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "fe7366c2239ad59e",
+      "title": "Magnitude 5.8 earthquake strikes North Island of New Zealand region, EMSC says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzlIUHhJUWhiWkNXWkNqUmFEaHRKWDRWYjNkOUg2V1lQemxRck4ySTAwN1ozcDdVSWRVR3Zma1JTUjlOamp4U0VZNTFQWDhzZmZacWQ4bGpwNnVUSHAyQzd6VlZJM0VlVXhfNVJvekZoWmNRYTNvNENpNk1Idm9Kcmt0eWJCdmdKNUk0eXhFOVo0YnBYWnkxck43S3BDVDhnY1RqSTBUb3VXY3Bjamp5VGFCTDFYNmQ3d1BmOTNESVR3Qjc4YUg1d0N3?oc=5",
+      "source": "Reuters",
+      "priority": "P1",
+      "matchedKeywords": [
+        "earthquake + magnitude"
+      ],
+      "firstSeen": "2026-07-24T21:07:22.147Z",
+      "pushedAt": "2026-07-24T21:07:22.147Z"
+    },
+    {
+      "id": "6aa5d82df55fa7fa",
+      "title": "Canada marks Gordie Howe bridge opening without US after trade war deepens",
+      "url": "https://www.aljazeera.com/economy/2026/7/24/canada-marks-gordie-howe-bridge-opening-without-us-after-trade-war-deepens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "priority": "P1",
+      "matchedKeywords": [
+        "trade war + us"
+      ],
+      "firstSeen": "2026-07-24T21:07:22.297Z",
+      "pushedAt": "2026-07-24T21:07:22.297Z"
+    },
+    {
       "id": "63572c6c73eb3649",
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
@@ -242,5 +266,5 @@
       "pushedAt": "2026-07-23T21:12:40.486Z"
     }
   ],
-  "updatedAt": "2026-07-24T18:42:31.774Z"
+  "updatedAt": "2026-07-24T21:07:22.355Z"
 }
