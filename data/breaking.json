@@ -1,6 +1,30 @@
 {
   "items": [
     {
+      "id": "63572c6c73eb3649",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "attack + killed"
+      ],
+      "firstSeen": "2026-07-24T18:42:31.497Z",
+      "pushedAt": "2026-07-24T18:42:31.497Z"
+    },
+    {
+      "id": "ff7018c42f7d1222",
+      "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+      "url": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+      "source": "CNBC",
+      "priority": "P1",
+      "matchedKeywords": [
+        "tariff + trump"
+      ],
+      "firstSeen": "2026-07-24T18:42:31.737Z",
+      "pushedAt": "2026-07-24T18:42:31.737Z"
+    },
+    {
       "id": "54f1d2e0b794c075",
       "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - AP News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5",
@@ -216,19 +240,7 @@
       ],
       "firstSeen": "2026-07-23T21:12:40.486Z",
       "pushedAt": "2026-07-23T21:12:40.486Z"
-    },
-    {
-      "id": "435e9f7403042e7e",
-      "title": "Oil surges past $100 in a first since May as Middle East conflicts rage",
-      "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "priority": "P1",
-      "matchedKeywords": [
-        "surge + oil"
-      ],
-      "firstSeen": "2026-07-23T17:42:45.411Z",
-      "pushedAt": "2026-07-23T17:42:45.411Z"
     }
   ],
-  "updatedAt": "2026-07-24T17:09:12.118Z"
+  "updatedAt": "2026-07-24T18:42:31.774Z"
 }
